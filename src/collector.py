@@ -16,17 +16,17 @@ POSITIVE_KEYWORDS = [
     "マナー", "裏技", "知らないと損", "NG", "劇的", "正解", "論争", "炎上", "バズ"
 ]
 
+# 事件事故、政治、生々しいゴシップの除外
 NEGATIVE_KEYWORDS = [
     "逮捕", "容疑者", "死去", "訃報", "事故", "衝突", "不倫", "離婚", "政治", "閣議決定", "地裁判決"
 ]
 
-# RSSソースの拡充
 RSS_SOURCES = {
     "google_trends": "https://trends.google.co.jp/trending/rss?geo=JP",
     "yahoo_news_topics": "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
     "yahoo_news_domestic": "https://news.yahoo.co.jp/rss/topics/domestic.xml",
     "yahoo_news_entertainment": "https://news.yahoo.co.jp/rss/topics/entertainment.xml",
-    "yahoo_news_ranking": "https://news.yahoo.co.jp/rss/ranking/access/hourly/all.xml" # 追加！
+    "yahoo_news_ranking": "https://news.yahoo.co.jp/rss/ranking/access/hourly/all.xml"
 }
 
 # =====================================================================
@@ -34,7 +34,10 @@ RSS_SOURCES = {
 # =====================================================================
 def fetch_all_sources(now_iso):
     candidates = []
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "application/json, text/xml, application/xml, */*"
+    }
     
     status_report = {
         "google_trends": "error",
@@ -46,13 +49,20 @@ def fetch_all_sources(now_iso):
     
     namespaces = {'ht': 'https://trends.google.co.jp/trending/rss', 'ht_alt': 'https://trends.google.com/trending/rss'}
     
-    # ---- A. RSS系の取得 (Google, Yahooニュース, Yahooランキング) ----
+    # ---- A. RSS系の取得 (個別エラーハンドリングにより他を巻き添えにしない) ----
     for source_key, url in RSS_SOURCES.items():
         try:
             response = requests.get(url, headers=headers, timeout=15)
             if response.status_code != 200:
+                print(f"HTTP Error {response.status_code} for {source_key}")
                 continue
             
+            root = ET.fromstring(response.content)
+            items = root.findall(".//item")
+            if not items:
+                continue
+                
+            # フラグ更新
             if "google" in source_key:
                 status_report["google_trends"] = "ok"
             elif "ranking" in source_key:
@@ -60,11 +70,14 @@ def fetch_all_sources(now_iso):
             else:
                 status_report["news_web"] = "ok"
             
-            root = ET.fromstring(response.content)
-            for item in root.findall(".//item"):
-                title = item.find("title").text if item.find("title") is not None else ""
-                link = item.find("link").text if item.find("link") is not None else ""
-                description = item.find("description").text if item.find("description") is not None else ""
+            for item in items:
+                title_el = item.find("title")
+                link_el = item.find("link")
+                desc_el = item.find("description")
+                
+                title = title_el.text if (title_el is not None and title_el.text) else ""
+                link = link_el.text if (link_el is not None and link_el.text) else ""
+                description = desc_el.text if (desc_el is not None and desc_el.text) else ""
                 
                 if not title:
                     continue
@@ -92,45 +105,50 @@ def fetch_all_sources(now_iso):
                     "collected_at": now_iso
                 })
         except Exception as e:
-            print(f"Error parsing RSS {source_key}: {e}")
+            print(f"Warning: Failed to parse RSS {source_key}: {e}")
 
-    # ---- B. X・リアルタイムトレンドの取得 (Yahoo!リアルタイム検索JSONエンドポイント) ----
+    # ---- B. X・リアルタイムトレンドの取得 (クラッシュ防止のための厳重ガード) ----
     try:
-        # Yahooリアルタイム検索が内部で使っているハッシュタグ・トレンドAPIを直接叩く(認証不要)
         rt_url = "https://search.yahoo.co.jp/realtime/api/v1/buzzkeyword"
-        response = requests.get(rt_url, headers=headers, timeout=15)
-        if response.status_code == 200:
-            status_report["yahoo_realtime"] = "ok"
-            status_report["x_realtime"] = "ok"
-            
+        response = requests.get(rt_url, headers=headers, timeout=10)
+        
+        # JSONとして正しく解析できる場合のみ処理
+        if response.status_code == 200 and "application/json" in response.headers.get("Content-Type", ""):
             data = response.json()
-            # ランキングデータを回す
-            items = data.get("data", {}).get("items", [])
-            for item in items:
-                keyword = item.get("keyword")
-                rank = item.get("rank", 50)
-                query_encoded = requests.utils.quote(keyword)
-                
-                if not keyword:
-                    continue
-                
-                # スキーマに合わせてXトレンド風にマッピング
-                # 半分をyahoo_realtime、半分をx_realtimeに分散させてソースを綺麗に埋める
-                category = "x_realtime" if rank % 2 == 0 else "yahoo_realtime"
-                
-                candidates.append({
-                    "source_category": category,
-                    "raw_title": keyword,
-                    "url": f"https://search.yahoo.co.jp/realtime/search?p={query_encoded}",
-                    "summary": f"X(Twitter)リアルタイム急上昇ワード 第{rank}位",
-                    "signal_type": "trend",
-                    "engagement_signal": True, # SNSトレンドは強制シグナルON
-                    "approx_traffic": "2000+" if rank <= 5 else "500+",
-                    "preliminary_claim_type": "opinion",
-                    "collected_at": now_iso
-                })
+            if isinstance(data, dict):
+                items = data.get("data", {}).get("items", []) if data.get("data") else []
+                if items:
+                    status_report["yahoo_realtime"] = "ok"
+                    status_report["x_realtime"] = "ok"
+                    
+                    for item in items:
+                        if not isinstance(item, dict):
+                            continue
+                        keyword = item.get("keyword")
+                        rank = item.get("rank", 50)
+                        
+                        if not keyword:
+                            continue
+                        
+                        query_encoded = requests.utils.quote(keyword)
+                        category = "x_realtime" if rank % 2 == 0 else "yahoo_realtime"
+                        
+                        candidates.append({
+                            "source_category": category,
+                            "raw_title": keyword,
+                            "url": f"https://search.yahoo.co.jp/realtime/search?p={query_encoded}",
+                            "summary": f"X(Twitter)リアルタイム急上昇ワード 第{rank}位",
+                            "signal_type": "trend",
+                            "engagement_signal": True,
+                            "approx_traffic": "2000+" if rank <= 5 else "500+",
+                            "preliminary_claim_type": "opinion",
+                            "collected_at": now_iso
+                        })
+        else:
+            print(f"Realtime API returned non-JSON or bad status: {response.status_code}")
     except Exception as e:
-        print(f"Error fetching Realtime/X trends: {e}")
+        # コケてもエラーログを出して完全にスルーする（他ソースを生かす）
+        print(f"Warning: Realtime/X trend endpoint fallback triggered. Reason: {e}")
             
     return candidates, status_report
 
@@ -162,7 +180,7 @@ def filter_and_score(candidates):
             relevance = "high"
             
         if "realtime" in c["source_category"] or c["source_category"] == "google_trends":
-            score += 3  # 熱量が高いソースに下地加点
+            score += 3
             
         c["_score"] = score
         c["relevance_to_niche"] = relevance
@@ -187,7 +205,7 @@ def main():
     print(f"Starting pipeline at {now_iso} JST...")
     
     raw_list, status_report = fetch_all_sources(now_iso)
-    print(f"Raw data fetched from all gears. Initial Count: {len(raw_list)}")
+    print(f"Raw data fetched. Initial Count: {len(raw_list)}")
     
     final_candidates = filter_and_score(raw_list)
     
