@@ -26,7 +26,6 @@ jobs:
       uses: actions/setup-python@v5
       with:
         python-version: '3.11'
-        # エラー回避のため cache: 'pip' の行を削除しました
 
     - name: Install dependencies
       run: |
@@ -42,7 +41,7 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
-        # trend フォルダの変更をステージング
-        git add trend/
+        # trends フォルダの変更をステージング
+        git add trends/
         
-        git diff --staged --quiet || (git commit -m "chore: auto-update trend/latest.json ($(date +'%Y-%m-%d %H:%M:%S'))" && git push)
+        git diff --staged --quiet || (git commit -m "chore: auto-update trends/latest.json ($(date +'%Y-%m-%d %H:%M:%S'))" && git push)
