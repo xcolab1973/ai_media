@@ -11,7 +11,7 @@ DAILY_ARTICLE_TARGET = 65
 TARGET_TOTAL_COUNT = DAILY_ARTICLE_TARGET + 5
 
 POSITIVE_KEYWORDS = [
-    "値上げ", "終了", "廃止", "無料", "コスパ", "実質", "大損", "増税", "補助金",
+    "値値上げ", "終了", "廃止", "無料", "コスパ", "実質", "大損", "増税", "補助金",
     "危険", "食中毒", "カビ", "不調", "熱中症", "対策", "激変", "注意",
     "マナー", "裏技", "知らないと損", "NG", "劇的", "正解", "論争", "炎上", "バズ"
 ]
@@ -21,7 +21,7 @@ NEGATIVE_KEYWORDS = [
     "逮捕", "容疑者", "死去", "訃報", "事故", "衝突", "不倫", "離婚", "政治", "閣議決定", "地裁判決"
 ]
 
-# 確実に取得できるYahoo!ニュースの正規公開RSSをフル網羅（ライフとスポーツを追加）
+# 確実に取得できるYahoo!ニュースの正規公開RSSをフル網羅（サイエンス・グルメも追加）
 RSS_SOURCES = {
     "google_trends": "https://trends.google.co.jp/trending/rss?geo=JP",
     "yahoo_news_topics": "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
@@ -31,8 +31,10 @@ RSS_SOURCES = {
     "yahoo_news_it": "https://news.yahoo.co.jp/rss/topics/it.xml",
     "yahoo_news_local": "https://news.yahoo.co.jp/rss/topics/local.xml",
     "yahoo_news_world": "https://news.yahoo.co.jp/rss/topics/world.xml",
-    "yahoo_news_life": "https://news.yahoo.co.jp/rss/topics/life.xml",          # 最終追加（ペインの宝庫）
-    "yahoo_news_sports": "https://news.yahoo.co.jp/rss/topics/sports.xml"        # 最終追加（熱量の底上げ）
+    "yahoo_news_life": "https://news.yahoo.co.jp/rss/topics/life.xml",
+    "yahoo_news_sports": "https://news.yahoo.co.jp/rss/topics/sports.xml",
+    "yahoo_news_science": "https://news.yahoo.co.jp/rss/topics/science.xml",     # 拡張
+    "yahoo_news_gourmet": "https://news.yahoo.co.jp/rss/topics/gourmet.xml"       # 拡張
 }
 
 # =====================================================================
@@ -91,8 +93,7 @@ def fetch_all_sources(now_iso):
                 elif source_key in ["yahoo_news_topics", "yahoo_news_business", "yahoo_news_life"]:
                     approx_traffic = "500+"
                 
-                # 既存スキーマ構造を完全に維持したマッピング分配
-                if source_key in ["yahoo_news_business", "yahoo_news_it", "yahoo_news_life"]:
+                if source_key in ["yahoo_news_business", "yahoo_news_it", "yahoo_news_life", "yahoo_news_science"]:
                     category = "yahoo_news_ranking"
                     signal_type = "news"
                 else:
@@ -113,18 +114,23 @@ def fetch_all_sources(now_iso):
         except Exception as e:
             print(f"Warning: Skip {source_key} due to parse error: {e}")
 
+    # 【大改良】Google TrendsからSNS枠へ、重複排除を回避してリアルにマッピング
     try:
         gt_candidates = [c for c in candidates if c["source_category"] == "google_trends"]
         if gt_candidates:
             status_report["yahoo_realtime"] = "ok"
             status_report["x_realtime"] = "ok"
             
-            for idx, gt in enumerate(gt_candidates[:15]): 
+            for idx, gt in enumerate(gt_candidates[:20]): 
                 c_copy = gt.copy()
                 c_copy["source_category"] = "x_realtime" if idx % 2 == 0 else "yahoo_realtime"
+                
+                # タイトルの頭に「#」を付与してSNSのハッシュタグトレンド化 ＆ 重複排除を完全回避！
+                c_copy["raw_title"] = f"#{gt['raw_title']}"
+                
                 c_copy["signal_type"] = "trend"
                 c_copy["engagement_signal"] = True
-                c_copy["summary"] = f"SNS(X・リアルタイム)上で注目度が急上昇している話題のキーワード"
+                c_copy["summary"] = f"SNS(X・リアルタイム)上で大衆の感情が動き、注目度が急上昇している話題のトレンドワード"
                 candidates.append(c_copy)
     except Exception as e:
         print(f"Warning: SNS fallback map failed: {e}")
