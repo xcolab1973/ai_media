@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T23:28:00+09:00",
-  "valid_until": "2026-05-22T07:28:00+09:00",
+  "generated_at": "2026-05-22T01:11:00+09:00",
+  "valid_until": "2026-05-22T09:11:00+09:00",
   "total_count": 70,
   "sources": {
     "google_trends": {
@@ -8,7 +8,7 @@
       "fetch_status": "ok"
     },
     "yahoo_news_ranking": {
-      "count": 14,
+      "count": 15,
       "fetch_status": "ok"
     },
     "yahoo_realtime": {
@@ -20,7 +20,7 @@
       "fetch_status": "ok"
     },
     "news_web": {
-      "count": 36,
+      "count": 35,
       "fetch_status": "ok"
     }
   },
@@ -34,11 +34,11 @@
       "engagement_signal": true,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "high",
       "niche_keywords": [],
       "article_id": "article_000001",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "yahoo_news_ranking",
@@ -49,311 +49,311 @@
       "engagement_signal": true,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "high",
       "niche_keywords": [],
       "article_id": "article_000002",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "google_trends",
-      "raw_title": "松坂大輔",
+      "raw_title": "ヒコロヒー",
       "url": "https://trends.google.com/trending/rss?geo=JP",
       "summary": "",
       "signal_type": "trend",
       "engagement_signal": false,
       "approx_traffic": "200+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000003",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "google_trends",
-      "raw_title": "スイーツパラダイス",
+      "raw_title": "山口智子",
       "url": "https://trends.google.com/trending/rss?geo=JP",
       "summary": "",
       "signal_type": "trend",
       "engagement_signal": false,
-      "approx_traffic": "200+",
+      "approx_traffic": "1000+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000004",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "google_trends",
-      "raw_title": "ハリアー 新型",
+      "raw_title": "ミラコスタ",
       "url": "https://trends.google.com/trending/rss?geo=JP",
       "summary": "",
       "signal_type": "trend",
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000005",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "google_trends",
-      "raw_title": "プレスリリース",
+      "raw_title": "バイオハザード",
       "url": "https://trends.google.com/trending/rss?geo=JP",
       "summary": "",
       "signal_type": "trend",
       "engagement_signal": false,
       "approx_traffic": "200+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000006",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "google_trends",
-      "raw_title": "ブリーチ",
+      "raw_title": "アリサ・リュウ",
       "url": "https://trends.google.com/trending/rss?geo=JP",
       "summary": "",
       "signal_type": "trend",
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000007",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "google_trends",
-      "raw_title": "村上ファンド",
+      "raw_title": "阿部慎之助",
       "url": "https://trends.google.com/trending/rss?geo=JP",
       "summary": "",
       "signal_type": "trend",
       "engagement_signal": false,
       "approx_traffic": "200+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000008",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "google_trends",
-      "raw_title": "大野愛実",
+      "raw_title": "エーペックス",
       "url": "https://trends.google.com/trending/rss?geo=JP",
       "summary": "",
       "signal_type": "trend",
       "engagement_signal": false,
-      "approx_traffic": "200+",
+      "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000009",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "google_trends",
-      "raw_title": "竹前美結 大学",
+      "raw_title": "ソフトテニス",
       "url": "https://trends.google.com/trending/rss?geo=JP",
       "summary": "",
       "signal_type": "trend",
       "engagement_signal": false,
-      "approx_traffic": "2000+",
+      "approx_traffic": "200+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000010",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "google_trends",
-      "raw_title": "google ai pro youtube premium lite",
+      "raw_title": "東北新幹線",
       "url": "https://trends.google.com/trending/rss?geo=JP",
       "summary": "",
       "signal_type": "trend",
       "engagement_signal": false,
-      "approx_traffic": "200+",
+      "approx_traffic": "2000+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000011",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "google_trends",
-      "raw_title": "小雪",
+      "raw_title": "穂志もえか",
       "url": "https://trends.google.com/trending/rss?geo=JP",
       "summary": "",
       "signal_type": "trend",
       "engagement_signal": false,
       "approx_traffic": "200+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000012",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "x_realtime",
-      "raw_title": "#松坂大輔",
+      "raw_title": "#ヒコロヒー",
       "url": "https://trends.google.com/trending/rss?geo=JP",
       "summary": "SNS(X・リアルタイム)上で大衆の感情が動き、注目度が急上昇している話題のトレンドワード",
       "signal_type": "trend",
       "engagement_signal": true,
       "approx_traffic": "200+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000013",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "yahoo_realtime",
-      "raw_title": "#スイーツパラダイス",
+      "raw_title": "#山口智子",
       "url": "https://trends.google.com/trending/rss?geo=JP",
       "summary": "SNS(X・リアルタイム)上で大衆の感情が動き、注目度が急上昇している話題のトレンドワード",
       "signal_type": "trend",
       "engagement_signal": true,
-      "approx_traffic": "200+",
+      "approx_traffic": "1000+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000014",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "x_realtime",
-      "raw_title": "#ハリアー 新型",
+      "raw_title": "#ミラコスタ",
       "url": "https://trends.google.com/trending/rss?geo=JP",
       "summary": "SNS(X・リアルタイム)上で大衆の感情が動き、注目度が急上昇している話題のトレンドワード",
       "signal_type": "trend",
       "engagement_signal": true,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000015",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "yahoo_realtime",
-      "raw_title": "#プレスリリース",
+      "raw_title": "#バイオハザード",
       "url": "https://trends.google.com/trending/rss?geo=JP",
       "summary": "SNS(X・リアルタイム)上で大衆の感情が動き、注目度が急上昇している話題のトレンドワード",
       "signal_type": "trend",
       "engagement_signal": true,
       "approx_traffic": "200+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000016",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "x_realtime",
-      "raw_title": "#ブリーチ",
+      "raw_title": "#アリサ・リュウ",
       "url": "https://trends.google.com/trending/rss?geo=JP",
       "summary": "SNS(X・リアルタイム)上で大衆の感情が動き、注目度が急上昇している話題のトレンドワード",
       "signal_type": "trend",
       "engagement_signal": true,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000017",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "yahoo_realtime",
-      "raw_title": "#村上ファンド",
+      "raw_title": "#阿部慎之助",
       "url": "https://trends.google.com/trending/rss?geo=JP",
       "summary": "SNS(X・リアルタイム)上で大衆の感情が動き、注目度が急上昇している話題のトレンドワード",
       "signal_type": "trend",
       "engagement_signal": true,
       "approx_traffic": "200+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000018",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "x_realtime",
-      "raw_title": "#大野愛実",
+      "raw_title": "#エーペックス",
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "summary": "SNS(X・リアルタイム)上で大衆の感情が動き、注目度が急上昇している話題のトレンドワード",
+      "signal_type": "trend",
+      "engagement_signal": true,
+      "approx_traffic": "100+",
+      "preliminary_claim_type": "opinion",
+      "collected_at": "2026-05-22T01:11:00+09:00",
+      "relevance_to_niche": "medium",
+      "niche_keywords": [],
+      "article_id": "article_000019",
+      "date": "2026-05-22"
+    },
+    {
+      "source_category": "yahoo_realtime",
+      "raw_title": "#ソフトテニス",
       "url": "https://trends.google.com/trending/rss?geo=JP",
       "summary": "SNS(X・リアルタイム)上で大衆の感情が動き、注目度が急上昇している話題のトレンドワード",
       "signal_type": "trend",
       "engagement_signal": true,
       "approx_traffic": "200+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
-      "article_id": "article_000019",
-      "date": "2026-05-21"
+      "article_id": "article_000020",
+      "date": "2026-05-22"
     },
     {
-      "source_category": "yahoo_realtime",
-      "raw_title": "#竹前美結 大学",
+      "source_category": "x_realtime",
+      "raw_title": "#東北新幹線",
       "url": "https://trends.google.com/trending/rss?geo=JP",
       "summary": "SNS(X・リアルタイム)上で大衆の感情が動き、注目度が急上昇している話題のトレンドワード",
       "signal_type": "trend",
       "engagement_signal": true,
       "approx_traffic": "2000+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
-      "relevance_to_niche": "medium",
-      "niche_keywords": [],
-      "article_id": "article_000020",
-      "date": "2026-05-21"
-    },
-    {
-      "source_category": "x_realtime",
-      "raw_title": "#google ai pro youtube premium lite",
-      "url": "https://trends.google.com/trending/rss?geo=JP",
-      "summary": "SNS(X・リアルタイム)上で大衆の感情が動き、注目度が急上昇している話題のトレンドワード",
-      "signal_type": "trend",
-      "engagement_signal": true,
-      "approx_traffic": "200+",
-      "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000021",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "yahoo_realtime",
-      "raw_title": "#小雪",
+      "raw_title": "#穂志もえか",
       "url": "https://trends.google.com/trending/rss?geo=JP",
       "summary": "SNS(X・リアルタイム)上で大衆の感情が動き、注目度が急上昇している話題のトレンドワード",
       "signal_type": "trend",
       "engagement_signal": true,
       "approx_traffic": "200+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000022",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -364,26 +364,41 @@
       "engagement_signal": false,
       "approx_traffic": "500+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000023",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
-      "raw_title": "神戸殺傷 賠償金時効も再提訴せず",
-      "url": "https://news.yahoo.co.jp/pickup/6581149?source=rss",
+      "raw_title": "露司令部攻撃し100人死傷 ウ主張",
+      "url": "https://news.yahoo.co.jp/pickup/6581158?source=rss",
       "summary": "",
       "signal_type": "news",
       "engagement_signal": false,
       "approx_traffic": "500+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000024",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
+    },
+    {
+      "source_category": "news_web",
+      "raw_title": "兵庫の民家に母娘遺体 他殺と断定",
+      "url": "https://news.yahoo.co.jp/pickup/6581156?source=rss",
+      "summary": "",
+      "signal_type": "news",
+      "engagement_signal": false,
+      "approx_traffic": "500+",
+      "preliminary_claim_type": "opinion",
+      "collected_at": "2026-05-22T01:11:00+09:00",
+      "relevance_to_niche": "medium",
+      "niche_keywords": [],
+      "article_id": "article_000025",
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -394,11 +409,11 @@
       "engagement_signal": false,
       "approx_traffic": "500+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
-      "article_id": "article_000025",
-      "date": "2026-05-21"
+      "article_id": "article_000026",
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -409,26 +424,11 @@
       "engagement_signal": false,
       "approx_traffic": "500+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
-      "relevance_to_niche": "medium",
-      "niche_keywords": [],
-      "article_id": "article_000026",
-      "date": "2026-05-21"
-    },
-    {
-      "source_category": "news_web",
-      "raw_title": "トヨタ 台湾からノアなど逆輸入へ",
-      "url": "https://news.yahoo.co.jp/pickup/6581150?source=rss",
-      "summary": "",
-      "signal_type": "news",
-      "engagement_signal": false,
-      "approx_traffic": "500+",
-      "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000027",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -439,41 +439,41 @@
       "engagement_signal": false,
       "approx_traffic": "500+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000028",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
-      "raw_title": "石川祐希 今季でペルージャ退団",
-      "url": "https://news.yahoo.co.jp/pickup/6581151?source=rss",
+      "raw_title": "テレ朝 メイド喫茶の番組放送延期",
+      "url": "https://news.yahoo.co.jp/pickup/6581137?source=rss",
       "summary": "",
       "signal_type": "news",
       "engagement_signal": false,
       "approx_traffic": "500+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000029",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
-      "raw_title": "椎名林檎 高校校歌を作詞・作曲",
-      "url": "https://news.yahoo.co.jp/pickup/6581154?source=rss",
+      "raw_title": "椎名林檎ワールド全開 校歌誕生",
+      "url": "https://news.yahoo.co.jp/pickup/6581157?source=rss",
       "summary": "",
       "signal_type": "news",
       "engagement_signal": false,
       "approx_traffic": "500+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000030",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -484,11 +484,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "hard_fact",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000031",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -499,11 +499,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "hard_fact",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000032",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -514,11 +514,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "hard_fact",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000033",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -529,11 +529,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "hard_fact",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000034",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -544,11 +544,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "hard_fact",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000035",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -559,11 +559,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "hard_fact",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000036",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -574,26 +574,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "hard_fact",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000037",
-      "date": "2026-05-21"
-    },
-    {
-      "source_category": "news_web",
-      "raw_title": "テレ朝 メイド喫茶の番組放送延期",
-      "url": "https://news.yahoo.co.jp/pickup/6581137?source=rss",
-      "summary": "",
-      "signal_type": "news",
-      "engagement_signal": false,
-      "approx_traffic": "100+",
-      "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
-      "relevance_to_niche": "medium",
-      "niche_keywords": [],
-      "article_id": "article_000038",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -604,11 +589,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
-      "article_id": "article_000039",
-      "date": "2026-05-21"
+      "article_id": "article_000038",
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -619,11 +604,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
-      "article_id": "article_000040",
-      "date": "2026-05-21"
+      "article_id": "article_000039",
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -634,11 +619,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
-      "article_id": "article_000041",
-      "date": "2026-05-21"
+      "article_id": "article_000040",
+      "date": "2026-05-22"
     },
     {
       "source_category": "yahoo_news_ranking",
@@ -649,11 +634,11 @@
       "engagement_signal": false,
       "approx_traffic": "500+",
       "preliminary_claim_type": "hard_fact",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
-      "article_id": "article_000042",
-      "date": "2026-05-21"
+      "article_id": "article_000041",
+      "date": "2026-05-22"
     },
     {
       "source_category": "yahoo_news_ranking",
@@ -664,11 +649,26 @@
       "engagement_signal": false,
       "approx_traffic": "500+",
       "preliminary_claim_type": "hard_fact",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
+      "relevance_to_niche": "medium",
+      "niche_keywords": [],
+      "article_id": "article_000042",
+      "date": "2026-05-22"
+    },
+    {
+      "source_category": "yahoo_news_ranking",
+      "raw_title": "トヨタ 台湾からノアなど逆輸入へ",
+      "url": "https://news.yahoo.co.jp/pickup/6581150?source=rss",
+      "summary": "",
+      "signal_type": "news",
+      "engagement_signal": false,
+      "approx_traffic": "500+",
+      "preliminary_claim_type": "hard_fact",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000043",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "yahoo_news_ranking",
@@ -679,11 +679,11 @@
       "engagement_signal": false,
       "approx_traffic": "500+",
       "preliminary_claim_type": "hard_fact",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000044",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "yahoo_news_ranking",
@@ -694,11 +694,11 @@
       "engagement_signal": false,
       "approx_traffic": "500+",
       "preliminary_claim_type": "hard_fact",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000045",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "yahoo_news_ranking",
@@ -709,11 +709,11 @@
       "engagement_signal": false,
       "approx_traffic": "500+",
       "preliminary_claim_type": "hard_fact",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000046",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "yahoo_news_ranking",
@@ -724,11 +724,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000047",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "yahoo_news_ranking",
@@ -739,11 +739,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000048",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "yahoo_news_ranking",
@@ -754,11 +754,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000049",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "yahoo_news_ranking",
@@ -769,11 +769,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000050",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "yahoo_news_ranking",
@@ -784,11 +784,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000051",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "yahoo_news_ranking",
@@ -799,11 +799,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000052",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "yahoo_news_ranking",
@@ -814,11 +814,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000053",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "yahoo_news_ranking",
@@ -829,11 +829,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000054",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -844,11 +844,26 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000055",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
+    },
+    {
+      "source_category": "news_web",
+      "raw_title": "神戸殺傷 賠償金時効も再提訴せず",
+      "url": "https://news.yahoo.co.jp/pickup/6581149?source=rss",
+      "summary": "",
+      "signal_type": "news",
+      "engagement_signal": false,
+      "approx_traffic": "100+",
+      "preliminary_claim_type": "opinion",
+      "collected_at": "2026-05-22T01:11:00+09:00",
+      "relevance_to_niche": "medium",
+      "niche_keywords": [],
+      "article_id": "article_000056",
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -859,11 +874,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
-      "article_id": "article_000056",
-      "date": "2026-05-21"
+      "article_id": "article_000057",
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -874,26 +889,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
-      "relevance_to_niche": "medium",
-      "niche_keywords": [],
-      "article_id": "article_000057",
-      "date": "2026-05-21"
-    },
-    {
-      "source_category": "news_web",
-      "raw_title": "3月11日ポストに現金1万円 263戸",
-      "url": "https://news.yahoo.co.jp/pickup/6581102?source=rss",
-      "summary": "",
-      "signal_type": "news",
-      "engagement_signal": false,
-      "approx_traffic": "100+",
-      "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000058",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -904,11 +904,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000059",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -919,11 +919,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000060",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -934,11 +934,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000061",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -949,11 +949,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000062",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -964,11 +964,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000063",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -979,26 +979,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000064",
-      "date": "2026-05-21"
-    },
-    {
-      "source_category": "news_web",
-      "raw_title": "知らない人と買い物 韓国の節約術",
-      "url": "https://news.yahoo.co.jp/pickup/6581016?source=rss",
-      "summary": "",
-      "signal_type": "news",
-      "engagement_signal": false,
-      "approx_traffic": "100+",
-      "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
-      "relevance_to_niche": "medium",
-      "niche_keywords": [],
-      "article_id": "article_000065",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -1009,11 +994,26 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
+      "relevance_to_niche": "medium",
+      "niche_keywords": [],
+      "article_id": "article_000065",
+      "date": "2026-05-22"
+    },
+    {
+      "source_category": "news_web",
+      "raw_title": "石川祐希 今季でペルージャ退団",
+      "url": "https://news.yahoo.co.jp/pickup/6581151?source=rss",
+      "summary": "",
+      "signal_type": "news",
+      "engagement_signal": false,
+      "approx_traffic": "100+",
+      "preliminary_claim_type": "opinion",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000066",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -1024,11 +1024,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000067",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -1039,11 +1039,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000068",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -1054,11 +1054,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000069",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     },
     {
       "source_category": "news_web",
@@ -1069,11 +1069,11 @@
       "engagement_signal": false,
       "approx_traffic": "100+",
       "preliminary_claim_type": "opinion",
-      "collected_at": "2026-05-21T23:28:00+09:00",
+      "collected_at": "2026-05-22T01:11:00+09:00",
       "relevance_to_niche": "medium",
       "niche_keywords": [],
       "article_id": "article_000070",
-      "date": "2026-05-21"
+      "date": "2026-05-22"
     }
   ]
 }
