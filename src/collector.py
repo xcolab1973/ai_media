@@ -1,7 +1,7 @@
 import os
 import json
 import re
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 import requests
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
@@ -11,6 +11,13 @@ from email.utils import parsedate_to_datetime
 # =====================================================================
 DAILY_ARTICLE_TARGET = 65
 TARGET_TOTAL_COUNT = DAILY_ARTICLE_TARGET + 5
+
+# ソースカテゴリごとの最低保証枠（スコアに関わらずこの枠を確保）
+SOURCE_MIN_QUOTA = {
+    "yahoo_realtime": 5,
+    "x_realtime":     5,
+    "google_trends":  10,
+}
 
 POSITIVE_KEYWORDS = [
     "値上げ", "終了", "廃止", "無料", "コスパ", "実質", "大損", "増税", "補助金",
@@ -90,11 +97,11 @@ def parse_traffic_score(approx_traffic_str):
 
 def parse_freshness_score(pub_date_str, now_utc):
     """pubDate → フレッシュネス加算値 (<1h=+4, <3h=+3, <6h=+2, <12h=+1, それ以降=0)
-    RFC 2822（Yahoo News等）と ISO 8601（Hatena dc:date等）の両形式に対応
+    RFC 2822（Yahoo News等）と ISO 8601（Hatena dc:date等）の両形式に対応。
+    タイムゾーン付き datetime は tzinfo-aware 比較を使用（timetuple() で TZ を捨てない）。
     """
     if not pub_date_str:
         return 0
-    import calendar
     dt = None
     # 1st try: RFC 2822 (例: "Sat, 24 May 2026 12:00:00 +0900")
     try:
@@ -104,13 +111,16 @@ def parse_freshness_score(pub_date_str, now_utc):
     # 2nd try: ISO 8601 (例: "2026-05-24T12:00:00+09:00" / "2026-05-24T03:00:00Z")
     if dt is None:
         try:
-            from datetime import timezone
             dt = datetime.fromisoformat(pub_date_str.replace("Z", "+00:00"))
         except Exception:
             return 0
     try:
-        dt_utc = datetime.utcfromtimestamp(calendar.timegm(dt.timetuple()))
-        age_hours = (now_utc - dt_utc).total_seconds() / 3600
+        now_aware = now_utc.replace(tzinfo=timezone.utc)
+        # tzinfo 付きなら aware 同士で比較。naive なら UTC として扱う
+        if dt.tzinfo is not None:
+            age_hours = (now_aware - dt).total_seconds() / 3600
+        else:
+            age_hours = (now_utc - dt).total_seconds() / 3600
         if age_hours < 1:  return 4
         if age_hours < 3:  return 3
         if age_hours < 6:  return 2
@@ -230,6 +240,8 @@ def fetch_all_sources(now_iso, now_utc):
         },
     }
     ATOM_NS = "http://www.w3.org/2005/Atom"
+    RSS1_NS = "http://purl.org/rss/1.0/"
+    DC_NS   = "http://purl.org/dc/elements/1.1/"
 
     for source_key, url_list in SNS_SOURCES.items():
         cfg = sns_config[source_key]
@@ -244,9 +256,6 @@ def fetch_all_sources(now_iso, now_utc):
                     continue
 
                 root = ET.fromstring(response.content)
-
-                RSS1_NS = "http://purl.org/rss/1.0/"
-                DC_NS   = "http://purl.org/dc/elements/1.1/"
 
                 # RSS 2.0 <item> → Atom <entry> → RSS 1.0/RDF <item> の順で試みる
                 # はてなブックマークは RSS 1.0（RDF）形式のため名前空間付きで検索が必要
@@ -267,7 +276,7 @@ def fetch_all_sources(now_iso, now_utc):
                     print(f"No items found in {source_key} ({url}) — try next")
                     continue
 
-                print(f"  {source_key}: {len(items)} items from {url} (atom={is_atom})")
+                print(f"  {source_key}: {len(items)} items from {url} (atom={is_atom}, rss1={is_rss1})")
                 status_report[cfg["status_key"]] = "ok"
                 fetched = True
 
@@ -301,11 +310,12 @@ def fetch_all_sources(now_iso, now_utc):
                         description = desc_el.text    if (desc_el    is not None and desc_el.text)    else ""
                         pub_date    = pubdate_el.text  if (pubdate_el is not None and pubdate_el.text) else ""
                     else:
-                        # RSS 2.0: 通常フィールド
+                        # RSS 2.0 または名前空間なし RSS 1.0: 通常フィールド
+                        # pubDate がない場合は dc:date にもフォールバック（Hatena対策）
                         title_el   = item.find("title")
                         link_el    = item.find("link")
                         desc_el    = item.find("description")
-                        pubdate_el = item.find("pubDate")
+                        pubdate_el = item.find("pubDate") or item.find(f"{{{DC_NS}}}date")
                         title       = title_el.text   if (title_el   is not None and title_el.text)   else ""
                         link        = link_el.text    if (link_el    is not None and link_el.text)    else ""
                         description = desc_el.text    if (desc_el    is not None and desc_el.text)    else ""
@@ -351,16 +361,22 @@ def filter_and_score(candidates, now_utc):
     processed = []
     seen_titles = set()
 
+    # デバッグ用カウンタ
+    neg_count  = 0
+    dedup_count = 0
+
     for c in candidates:
         title_summary = c["raw_title"] + " " + c["summary"]
 
         # ネガティブキーワードフィルタ
         if any(neg in title_summary for neg in NEGATIVE_KEYWORDS):
+            neg_count += 1
             continue
 
         # 重複排除（正規化後先頭15文字）
         dedup_key = normalize_for_dedup(c["raw_title"])
         if dedup_key in seen_titles:
+            dedup_count += 1
             continue
         seen_titles.add(dedup_key)
 
@@ -382,7 +398,8 @@ def filter_and_score(candidates, now_utc):
         score += parse_traffic_score(c.get("approx_traffic", ""))
 
         # フレッシュネス加算: 最大+4
-        score += parse_freshness_score(c.get("_pub_date", ""), now_utc)
+        freshness = parse_freshness_score(c.get("_pub_date", ""), now_utc)
+        score += freshness
 
         # クロスソースボーナス: 2ソース以上で同タイトル検出 → +2（リアルトレンド確定）
         if len(title_source_map.get(dedup_key, set())) >= 2:
@@ -391,13 +408,39 @@ def filter_and_score(candidates, now_utc):
             c["engagement_signal"] = True
 
         c["_score"]              = score
+        c["_freshness"]          = freshness
         c["relevance_to_niche"]  = relevance
         c["niche_keywords"]      = []
 
         processed.append(c)
 
     processed.sort(key=lambda x: x["_score"], reverse=True)
-    return processed[:TARGET_TOTAL_COUNT]
+
+    # --- デバッグ出力: 各ソースカテゴリの件数・スコア分布 ---
+    from collections import Counter
+    cat_counts = Counter(x["source_category"] for x in processed)
+    print(f"  filter_and_score: neg={neg_count} dedup={dedup_count} passed={len(processed)}")
+    print(f"  category counts (before quota): {dict(cat_counts)}")
+    # サンプル: yahoo_realtime の上位3件のスコアと pub_date を表示
+    sample = [x for x in processed if x["source_category"] == "yahoo_realtime"][:3]
+    for s in sample:
+        print(f"    yahoo_realtime sample: score={s['_score']} freshness={s['_freshness']} pub_date={s.get('_pub_date','')!r} title={s['raw_title'][:30]!r}")
+
+    # --- ソースカテゴリごとの最低保証枠を確保 ---
+    guaranteed = []
+    for cat, min_count in SOURCE_MIN_QUOTA.items():
+        cat_items = [x for x in processed if x["source_category"] == cat][:min_count]
+        guaranteed.extend(cat_items)
+
+    guaranteed_ids = {id(x) for x in guaranteed}
+    rest = [x for x in processed if id(x) not in guaranteed_ids]
+    final = (guaranteed + rest)[:TARGET_TOTAL_COUNT]
+    final.sort(key=lambda x: x["_score"], reverse=True)
+
+    cat_counts_final = Counter(x["source_category"] for x in final)
+    print(f"  category counts (after quota, top {TARGET_TOTAL_COUNT}): {dict(cat_counts_final)}")
+
+    return final
 
 
 # =====================================================================
@@ -423,7 +466,7 @@ def main():
         candidate["article_id"] = f"article_{str(i).zfill(6)}"
         candidate["date"]       = today_str
         # 内部処理用フィールドを出力から除去
-        for internal_key in ("_score", "_pub_date"):
+        for internal_key in ("_score", "_pub_date", "_freshness"):
             candidate.pop(internal_key, None)
 
     output_data = {
