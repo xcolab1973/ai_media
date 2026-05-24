@@ -1,10 +1,14 @@
-name: HARM Trend Data Collector (Latest Single File)
+name: HARM Trend Data Collector
 
 on:
   schedule:
-    # 日本時間 7:00, 11:00, 17:00, 22:00 に実行（UTCに変換）
-    - cron: '0 22,2,8,13 * * *'
+    # 4回/日 自動実行（JST → UTC変換済み）
+    - cron: '0 22 * * *'   # 07:00 JST（前日 22:00 UTC）
+    - cron: '0  2 * * *'   # 11:00 JST
+    - cron: '0  8 * * *'   # 17:00 JST
+    - cron: '0 13 * * *'   # 22:00 JST
   workflow_dispatch:
+    # GitHubの画面から手動でいつでも実行できるボタンを設置
     inputs:
       reason:
         description: '手動実行の理由'
@@ -14,34 +18,42 @@ on:
 jobs:
   collect_and_push:
     runs-on: ubuntu-latest
-    
+
+    # ワークフローにリポジトリへの書き込み権限（Push権限）を付与
     permissions:
       contents: write
 
     steps:
+    # 1. リポジトリのコードをチェックアウト
     - name: Checkout repository
       uses: actions/checkout@v4
 
+    # 2. Python環境のセットアップ (3.11系を指定)
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
         python-version: '3.11'
+        cache: 'pip'  # 2回目以降の高速化のためにキャッシュを有効化
 
+    # 3. 依存ライブラリのインストール
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install requests
 
+    # 4. コレクタースクリプトの実行
     - name: Run Trend Collector
       run: |
         python src/collector.py
 
-    - name: Commit and Push latest trend
+    # 5. 生成された成果物を自動Push
+    - name: Commit and Push trend candidates
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        
-        # trends フォルダの変更をステージング
+
+        # trends/ ディレクトリをステージング（旧バグ: 01_Artifacts/ → 修正済み）
         git add trends/
-        
-        git diff --staged --quiet || (git commit -m "chore: auto-update trends/latest.json ($(date +'%Y-%m-%d %H:%M:%S'))" && git push)
+
+        # 差分がある場合のみコミットしてPush（ない場合はパスして正常終了）
+        git diff --staged --quiet || (git commit -m "chore: auto-update trend candidates ($(date -u +'%Y-%m-%d %H:%M') UTC)" && git push)
