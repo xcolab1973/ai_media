@@ -42,13 +42,17 @@ RSS_SOURCES = {
 # 実SNSシグナルRSS
 # 旧: Googleトレンド上位20件に#を付けてx_realtime/yahoo_realtimeに偽マッピング → 廃止
 # 新: 本物のソーシャルエンゲージメントシグナルを直接取得
+# URLはリスト形式: 先頭から順に試し、アイテムが取れた時点で採用（フォールバック方式）
 SNS_SOURCES = {
     # はてなブックマーク ホットエントリー → yahoo_realtime枠
-    # 短時間に多数ブックマーク＝SNS上で実際に話題沸騰中の証拠
-    "hatena_hotentry": "https://b.hatena.ne.jp/hotentry.rss",
+    "hatena_hotentry": [
+        "https://b.hatena.ne.jp/hotentry/general.rss",  # カテゴリ別（安定）
+        "https://b.hatena.ne.jp/hotentry.rss",           # 全カテゴリ（フォールバック）
+    ],
     # Togetter人気まとめ → x_realtime枠
-    # Twitter/Xのツイートを集めたまとめが人気化＝Xリアルトレンドの信頼性の高い代理シグナル
-    "togetter_hot":    "https://togetter.com/rss/hot",
+    "togetter_hot": [
+        "https://togetter.com/rss/hot",
+    ],
 }
 
 # =====================================================================
@@ -209,49 +213,92 @@ def fetch_all_sources(now_iso, now_utc):
             "summary_tmpl": "Togetter人気まとめ — Twitter/X上で注目が集まったツイートのまとめ記事",
         },
     }
-    for source_key, url in SNS_SOURCES.items():
+    ATOM_NS = "http://www.w3.org/2005/Atom"
+
+    for source_key, url_list in SNS_SOURCES.items():
         cfg = sns_config[source_key]
-        try:
-            response = requests.get(url, headers=headers, timeout=12)
-            if response.status_code != 200:
-                print(f"HTTP Error {response.status_code} for {source_key}")
-                continue
-
-            root = ET.fromstring(response.content)
-            items = root.findall(".//item")
-            if not items:
-                continue
-
-            status_report[cfg["status_key"]] = "ok"
-
-            for item in items:
-                title_el   = item.find("title")
-                link_el    = item.find("link")
-                desc_el    = item.find("description")
-                pubdate_el = item.find("pubDate")
-
-                title       = title_el.text   if (title_el   is not None and title_el.text)   else ""
-                link        = link_el.text    if (link_el    is not None and link_el.text)    else ""
-                description = desc_el.text    if (desc_el    is not None and desc_el.text)    else ""
-                pub_date    = pubdate_el.text  if (pubdate_el is not None and pubdate_el.text) else ""
-
-                if not title:
+        fetched = False
+        for url in url_list:
+            if fetched:
+                break
+            try:
+                response = requests.get(url, headers=headers, timeout=12)
+                if response.status_code != 200:
+                    print(f"HTTP {response.status_code} for {source_key} ({url}) — try next")
                     continue
 
-                candidates.append({
-                    "source_category":      cfg["category"],
-                    "raw_title":            title,
-                    "url":                  link,
-                    "summary":              description if description else cfg["summary_tmpl"],
-                    "signal_type":          "trend",
-                    "engagement_signal":    True,
-                    "approx_traffic":       "100+",
-                    "preliminary_claim_type": "opinion",
-                    "collected_at": now_iso,
-                    "_pub_date":    pub_date,
-                })
-        except Exception as e:
-            print(f"Warning: Skip {source_key} due to parse error: {e}")
+                root = ET.fromstring(response.content)
+
+                # RSS 2.0 の <item> を優先、なければ Atom の <entry> を試みる
+                items = root.findall(".//item")
+                is_atom = False
+                if not items:
+                    items = root.findall(f".//{{{ATOM_NS}}}entry")
+                    is_atom = True
+                if not items:
+                    items = root.findall(".//entry")
+                    is_atom = True
+
+                if not items:
+                    print(f"No items found in {source_key} ({url}) — try next")
+                    continue
+
+                print(f"  {source_key}: {len(items)} items from {url} (atom={is_atom})")
+                status_report[cfg["status_key"]] = "ok"
+                fetched = True
+
+                for item in items:
+                    if is_atom:
+                        # Atom: <title>, <link href="...">, <summary>/<content>, <updated>/<published>
+                        ns = ATOM_NS
+                        title_el   = item.find(f"{{{ns}}}title") or item.find("title")
+                        link_el    = item.find(f"{{{ns}}}link")  or item.find("link")
+                        desc_el    = (item.find(f"{{{ns}}}summary")
+                                      or item.find(f"{{{ns}}}content")
+                                      or item.find("summary"))
+                        pubdate_el = (item.find(f"{{{ns}}}updated")
+                                      or item.find(f"{{{ns}}}published")
+                                      or item.find("updated"))
+                        title       = title_el.text  if (title_el   is not None and title_el.text)  else ""
+                        # Atom の <link> は href 属性にURLが入る
+                        if link_el is not None:
+                            link = link_el.get("href", "") or (link_el.text or "")
+                        else:
+                            link = ""
+                        description = desc_el.text   if (desc_el    is not None and desc_el.text)   else ""
+                        pub_date    = pubdate_el.text if (pubdate_el is not None and pubdate_el.text) else ""
+                    else:
+                        # RSS 2.0: 通常フィールド
+                        title_el   = item.find("title")
+                        link_el    = item.find("link")
+                        desc_el    = item.find("description")
+                        pubdate_el = item.find("pubDate")
+                        title       = title_el.text   if (title_el   is not None and title_el.text)   else ""
+                        link        = link_el.text    if (link_el    is not None and link_el.text)    else ""
+                        description = desc_el.text    if (desc_el    is not None and desc_el.text)    else ""
+                        pub_date    = pubdate_el.text  if (pubdate_el is not None and pubdate_el.text) else ""
+
+                    if not title:
+                        continue
+
+                    candidates.append({
+                        "source_category":      cfg["category"],
+                        "raw_title":            title,
+                        "url":                  link,
+                        "summary":              description if description else cfg["summary_tmpl"],
+                        "signal_type":          "trend",
+                        "engagement_signal":    True,
+                        "approx_traffic":       "100+",
+                        "preliminary_claim_type": "opinion",
+                        "collected_at": now_iso,
+                        "_pub_date":    pub_date,
+                    })
+
+            except Exception as e:
+                print(f"Warning: Skip {source_key} ({url}): {e}")
+
+        if not fetched:
+            print(f"Warning: All URLs failed for {source_key}")
 
     return candidates, status_report
 
