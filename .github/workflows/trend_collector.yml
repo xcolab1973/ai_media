@@ -33,7 +33,7 @@ jobs:
       uses: actions/setup-python@v5
       with:
         python-version: '3.11'
-        cache: 'pip'  # 2回目以降の高速化のためにキャッシュを有効化
+        # cache: 'pip' は requirements.txt / pyproject.toml が必要なため不使用
 
     # 3. 依存ライブラリのインストール
     - name: Install dependencies
