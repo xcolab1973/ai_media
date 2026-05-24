@@ -43,23 +43,15 @@ RSS_SOURCES = {
     "yahoo_news_life":       "https://news.yahoo.co.jp/rss/topics/life.xml",
     "yahoo_news_sports":     "https://news.yahoo.co.jp/rss/topics/sports.xml",
     "yahoo_news_science":    "https://news.yahoo.co.jp/rss/topics/science.xml",
-    # yahoo_news_gourmet は 404 のため廃止
 }
 
-# 実SNSシグナルRSS
-# 旧: Googleトレンド上位20件に#を付けてx_realtime/yahoo_realtimeに偽マッピング → 廃止
-# 新: 本物のソーシャルエンゲージメントシグナルを直接取得
-# URLはリスト形式: 先頭から順に試し、アイテムが取れた時点で採用（フォールバック方式）
 SNS_SOURCES = {
-    # はてなブックマーク ホットエントリー → yahoo_realtime枠
-    # GitHub Actions runner から Hatena がブロックされる場合に備えてlivedoorを最終保険として追加
     "hatena_hotentry": [
-        "https://b.hatena.ne.jp/hotentry/general.rss",   # カテゴリ別 General（第1候補）
-        "https://b.hatena.ne.jp/hotentry/social.rss",    # カテゴリ別 Social（第2候補）
-        "https://b.hatena.ne.jp/hotentry.rss",            # 全カテゴリ（第3候補）
-        "https://news.livedoor.com/topics/rss/top.xml",  # livedoor（最終フォールバック）
+        "https://b.hatena.ne.jp/hotentry/general.rss",
+        "https://b.hatena.ne.jp/hotentry/social.rss",
+        "https://b.hatena.ne.jp/hotentry.rss",
+        "https://news.livedoor.com/topics/rss/top.xml",
     ],
-    # Togetter人気まとめ → x_realtime枠
     "togetter_hot": [
         "https://togetter.com/rss/hot",
     ],
@@ -70,9 +62,6 @@ SNS_SOURCES = {
 # =====================================================================
 
 def parse_traffic_score(approx_traffic_str):
-    """approx_traffic文字列をスコア加算値に変換
-    1M+ → +5, 500K+ → +4, 100K+ → +3, 10K+ → +2, 1K+ → +1, それ以外 → 0
-    """
     if not approx_traffic_str:
         return 0
     t = approx_traffic_str.strip().upper().replace("+", "").replace(",", "")
@@ -96,19 +85,14 @@ def parse_traffic_score(approx_traffic_str):
 
 
 def parse_freshness_score(pub_date_str, now_utc):
-    """pubDate → フレッシュネス加算値 (<1h=+4, <3h=+3, <6h=+2, <12h=+1, それ以降=0)
-    RFC 2822（Yahoo News等）と ISO 8601（Hatena dc:date等）の両形式に対応。
-    タイムゾーン付き datetime は tzinfo-aware 比較を使用（timetuple() で TZ を捨てない）。
-    """
+    """RFC 2822 / ISO 8601 両対応。tzinfo-aware 比較で JST オフセットを正確に処理。"""
     if not pub_date_str:
         return 0
     dt = None
-    # 1st try: RFC 2822 (例: "Sat, 24 May 2026 12:00:00 +0900")
     try:
         dt = parsedate_to_datetime(pub_date_str)
     except Exception:
         pass
-    # 2nd try: ISO 8601 (例: "2026-05-24T12:00:00+09:00" / "2026-05-24T03:00:00Z")
     if dt is None:
         try:
             dt = datetime.fromisoformat(pub_date_str.replace("Z", "+00:00"))
@@ -116,7 +100,6 @@ def parse_freshness_score(pub_date_str, now_utc):
             return 0
     try:
         now_aware = now_utc.replace(tzinfo=timezone.utc)
-        # tzinfo 付きなら aware 同士で比較。naive なら UTC として扱う
         if dt.tzinfo is not None:
             age_hours = (now_aware - dt).total_seconds() / 3600
         else:
@@ -131,9 +114,19 @@ def parse_freshness_score(pub_date_str, now_utc):
 
 
 def normalize_for_dedup(title):
-    """重複排除用の正規化: 記号・スペース・ハッシュタグ記号を除去した先頭15文字"""
     cleaned = re.sub(r'[#＃\s　・「」【】『』（）()、。！？!?…—\-～~]', '', title)
     return cleaned[:15]
+
+
+def _elem_text(*elements):
+    """複数の Element 候補から最初に text が取れたものを返す。全滅なら ''。
+    ElementTree の Element は text=None でも truthy なため、
+    'el or fallback_el' パターンは使わず、text を直接チェックする。
+    """
+    for el in elements:
+        if el is not None and el.text:
+            return el.text.strip()
+    return ""
 
 
 # =====================================================================
@@ -159,7 +152,7 @@ def fetch_all_sources(now_iso, now_utc):
         'ht_alt': 'https://trends.google.com/trending/rss'
     }
 
-    # --- 通常ニュース＋Googleトレンド RSS（既存12ソース）---
+    # --- 通常ニュース＋Googleトレンド RSS ---
     for source_key, url in RSS_SOURCES.items():
         try:
             response = requests.get(url, headers=headers, timeout=12)
@@ -178,15 +171,10 @@ def fetch_all_sources(now_iso, now_utc):
                 status_report["news_web"] = "ok"
 
             for item in items:
-                title_el   = item.find("title")
-                link_el    = item.find("link")
-                desc_el    = item.find("description")
-                pubdate_el = item.find("pubDate")
-
-                title       = title_el.text   if (title_el   is not None and title_el.text)   else ""
-                link        = link_el.text    if (link_el    is not None and link_el.text)    else ""
-                description = desc_el.text    if (desc_el    is not None and desc_el.text)    else ""
-                pub_date    = pubdate_el.text  if (pubdate_el is not None and pubdate_el.text) else ""
+                title       = _elem_text(item.find("title"))
+                link        = _elem_text(item.find("link"))
+                description = _elem_text(item.find("description"))
+                pub_date    = _elem_text(item.find("pubDate"))
 
                 if not title:
                     continue
@@ -257,8 +245,6 @@ def fetch_all_sources(now_iso, now_utc):
 
                 root = ET.fromstring(response.content)
 
-                # RSS 2.0 <item> → Atom <entry> → RSS 1.0/RDF <item> の順で試みる
-                # はてなブックマークは RSS 1.0（RDF）形式のため名前空間付きで検索が必要
                 items = root.findall(".//item")
                 is_atom = False
                 is_rss1 = False
@@ -280,50 +266,73 @@ def fetch_all_sources(now_iso, now_utc):
                 status_report[cfg["status_key"]] = "ok"
                 fetched = True
 
+                # ---- RSS1 デバッグ: 最初のアイテムの全タグを出力 ----
+                if is_rss1 and items:
+                    first = items[0]
+                    child_tags = [child.tag for child in first]
+                    print(f"  RSS1 first item child tags: {child_tags[:8]}")
+                    # title テキスト候補を全試行
+                    t_rss1 = first.find(f"{{{RSS1_NS}}}title")
+                    t_bare = first.find("title")
+                    print(f"  RSS1 title candidates: rss1_ns={t_rss1!r}(text={getattr(t_rss1,'text',None)!r}), bare={t_bare!r}(text={getattr(t_bare,'text',None)!r})")
+
+                appended = 0
+                skipped_no_title = 0
+
                 for item in items:
                     if is_atom:
-                        # Atom: <title>, <link href="...">, <summary>/<content>, <updated>/<published>
                         ns = ATOM_NS
-                        title_el   = item.find(f"{{{ns}}}title") or item.find("title")
-                        link_el    = item.find(f"{{{ns}}}link")  or item.find("link")
-                        desc_el    = (item.find(f"{{{ns}}}summary")
-                                      or item.find(f"{{{ns}}}content")
-                                      or item.find("summary"))
-                        pubdate_el = (item.find(f"{{{ns}}}updated")
-                                      or item.find(f"{{{ns}}}published")
-                                      or item.find("updated"))
-                        title       = title_el.text  if (title_el   is not None and title_el.text)  else ""
-                        if link_el is not None:
-                            link = link_el.get("href", "") or (link_el.text or "")
-                        else:
-                            link = ""
-                        description = desc_el.text   if (desc_el    is not None and desc_el.text)   else ""
-                        pub_date    = pubdate_el.text if (pubdate_el is not None and pubdate_el.text) else ""
+                        title = _elem_text(
+                            item.find(f"{{{ns}}}title"),
+                            item.find("title")
+                        )
+                        link_el = item.find(f"{{{ns}}}link") or item.find("link")
+                        link = (link_el.get("href", "") if link_el is not None else "") or _elem_text(link_el)
+                        description = _elem_text(
+                            item.find(f"{{{ns}}}summary"),
+                            item.find(f"{{{ns}}}content"),
+                            item.find("summary")
+                        )
+                        pub_date = _elem_text(
+                            item.find(f"{{{ns}}}updated"),
+                            item.find(f"{{{ns}}}published"),
+                            item.find("updated")
+                        )
                     elif is_rss1:
-                        # RSS 1.0 (RDF): はてなブックマーク等が使用。タグが名前空間付き
-                        title_el   = item.find(f"{{{RSS1_NS}}}title")       or item.find("title")
-                        link_el    = item.find(f"{{{RSS1_NS}}}link")        or item.find("link")
-                        desc_el    = item.find(f"{{{RSS1_NS}}}description") or item.find("description")
-                        pubdate_el = item.find(f"{{{DC_NS}}}date")          or item.find("pubDate")
-                        title       = title_el.text   if (title_el   is not None and title_el.text)   else ""
-                        link        = link_el.text    if (link_el    is not None and link_el.text)    else ""
-                        description = desc_el.text    if (desc_el    is not None and desc_el.text)    else ""
-                        pub_date    = pubdate_el.text  if (pubdate_el is not None and pubdate_el.text) else ""
+                        # RSS 1.0: _elem_text で NS 付き → bare の順に試みる
+                        # これにより text=None の truthy Element 問題を回避
+                        title = _elem_text(
+                            item.find(f"{{{RSS1_NS}}}title"),
+                            item.find("title")
+                        )
+                        link = _elem_text(
+                            item.find(f"{{{RSS1_NS}}}link"),
+                            item.find("link")
+                        )
+                        description = _elem_text(
+                            item.find(f"{{{RSS1_NS}}}description"),
+                            item.find("description")
+                        )
+                        pub_date = _elem_text(
+                            item.find(f"{{{DC_NS}}}date"),
+                            item.find("pubDate")
+                        )
                     else:
-                        # RSS 2.0 または名前空間なし RSS 1.0: 通常フィールド
-                        # pubDate がない場合は dc:date にもフォールバック（Hatena対策）
-                        title_el   = item.find("title")
-                        link_el    = item.find("link")
-                        desc_el    = item.find("description")
-                        pubdate_el = item.find("pubDate") or item.find(f"{{{DC_NS}}}date")
-                        title       = title_el.text   if (title_el   is not None and title_el.text)   else ""
-                        link        = link_el.text    if (link_el    is not None and link_el.text)    else ""
-                        description = desc_el.text    if (desc_el    is not None and desc_el.text)    else ""
-                        pub_date    = pubdate_el.text  if (pubdate_el is not None and pubdate_el.text) else ""
+                        # RSS 2.0 / namespace なし RSS 1.0
+                        # pubDate がない場合は dc:date にもフォールバック
+                        title = _elem_text(item.find("title"))
+                        link  = _elem_text(item.find("link"))
+                        description = _elem_text(item.find("description"))
+                        pub_date = _elem_text(
+                            item.find("pubDate"),
+                            item.find(f"{{{DC_NS}}}date")
+                        )
 
                     if not title:
+                        skipped_no_title += 1
                         continue
 
+                    appended += 1
                     candidates.append({
                         "source_category":      cfg["category"],
                         "raw_title":            title,
@@ -337,8 +346,12 @@ def fetch_all_sources(now_iso, now_utc):
                         "_pub_date":    pub_date,
                     })
 
+                print(f"  {source_key}: appended={appended} skipped_no_title={skipped_no_title}")
+
             except Exception as e:
+                import traceback
                 print(f"Warning: Skip {source_key} ({url}): {e}")
+                traceback.print_exc()
 
         if not fetched:
             print(f"Warning: All URLs failed for {source_key}")
@@ -350,7 +363,13 @@ def fetch_all_sources(now_iso, now_utc):
 # 4. フィルタリング ＆ スコアリングロジック
 # =====================================================================
 def filter_and_score(candidates, now_utc):
-    # --- クロスソースボーナス用: 正規化タイトル → 出現ソースカテゴリのセット ---
+    from collections import Counter
+
+    # デバッグ: filter前のカテゴリ別件数
+    raw_cats = Counter(c["source_category"] for c in candidates)
+    print(f"  filter input by category: {dict(raw_cats)}")
+
+    # クロスソースボーナス用
     title_source_map = {}
     for c in candidates:
         key = normalize_for_dedup(c["raw_title"])
@@ -360,48 +379,44 @@ def filter_and_score(candidates, now_utc):
 
     processed = []
     seen_titles = set()
-
-    # デバッグ用カウンタ
     neg_count  = 0
     dedup_count = 0
 
     for c in candidates:
         title_summary = c["raw_title"] + " " + c["summary"]
 
-        # ネガティブキーワードフィルタ
         if any(neg in title_summary for neg in NEGATIVE_KEYWORDS):
             neg_count += 1
+            if c["source_category"] == "yahoo_realtime":
+                neg_word = next(neg for neg in NEGATIVE_KEYWORDS if neg in title_summary)
+                print(f"  [NEGKW] yahoo_realtime: word={neg_word!r} title={c['raw_title'][:30]!r}")
             continue
 
-        # 重複排除（正規化後先頭15文字）
         dedup_key = normalize_for_dedup(c["raw_title"])
         if dedup_key in seen_titles:
             dedup_count += 1
+            if c["source_category"] == "yahoo_realtime":
+                print(f"  [DEDUP] yahoo_realtime: key={dedup_key!r} title={c['raw_title'][:30]!r}")
             continue
         seen_titles.add(dedup_key)
 
         score    = 0
         relevance = "medium"
 
-        # ポジティブキーワード加算: +5
         has_positive = any(pos in title_summary for pos in POSITIVE_KEYWORDS)
         if has_positive:
             score += 5
             c["engagement_signal"] = True
             relevance = "high"
 
-        # ソースカテゴリ加算: realtime/google_trends → +3
         if "realtime" in c["source_category"] or c["source_category"] == "google_trends":
             score += 3
 
-        # approx_traffic加算（Googleトレンドのみ有効値を持つ）: 最大+5
         score += parse_traffic_score(c.get("approx_traffic", ""))
 
-        # フレッシュネス加算: 最大+4
         freshness = parse_freshness_score(c.get("_pub_date", ""), now_utc)
         score += freshness
 
-        # クロスソースボーナス: 2ソース以上で同タイトル検出 → +2（リアルトレンド確定）
         if len(title_source_map.get(dedup_key, set())) >= 2:
             score += 2
             relevance = "high"
@@ -416,17 +431,16 @@ def filter_and_score(candidates, now_utc):
 
     processed.sort(key=lambda x: x["_score"], reverse=True)
 
-    # --- デバッグ出力: 各ソースカテゴリの件数・スコア分布 ---
-    from collections import Counter
     cat_counts = Counter(x["source_category"] for x in processed)
     print(f"  filter_and_score: neg={neg_count} dedup={dedup_count} passed={len(processed)}")
     print(f"  category counts (before quota): {dict(cat_counts)}")
-    # サンプル: yahoo_realtime の上位3件のスコアと pub_date を表示
+
+    # yahoo_realtime サンプル出力（スコア・freshness・pub_date）
     sample = [x for x in processed if x["source_category"] == "yahoo_realtime"][:3]
     for s in sample:
-        print(f"    yahoo_realtime sample: score={s['_score']} freshness={s['_freshness']} pub_date={s.get('_pub_date','')!r} title={s['raw_title'][:30]!r}")
+        print(f"  [OK] yahoo_realtime: score={s['_score']} freshness={s['_freshness']} pub={s.get('_pub_date','')!r} title={s['raw_title'][:30]!r}")
 
-    # --- ソースカテゴリごとの最低保証枠を確保 ---
+    # ソースカテゴリごとの最低保証枠を確保
     guaranteed = []
     for cat, min_count in SOURCE_MIN_QUOTA.items():
         cat_items = [x for x in processed if x["source_category"] == cat][:min_count]
@@ -465,7 +479,6 @@ def main():
     for i, candidate in enumerate(final_candidates, start=1):
         candidate["article_id"] = f"article_{str(i).zfill(6)}"
         candidate["date"]       = today_str
-        # 内部処理用フィールドを出力から除去
         for internal_key in ("_score", "_pub_date", "_freshness"):
             candidate.pop(internal_key, None)
 
