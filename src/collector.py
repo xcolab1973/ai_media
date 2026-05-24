@@ -89,13 +89,26 @@ def parse_traffic_score(approx_traffic_str):
 
 
 def parse_freshness_score(pub_date_str, now_utc):
-    """pubDate → フレッシュネス加算値 (<1h=+4, <3h=+3, <6h=+2, <12h=+1, それ以降=0)"""
+    """pubDate → フレッシュネス加算値 (<1h=+4, <3h=+3, <6h=+2, <12h=+1, それ以降=0)
+    RFC 2822（Yahoo News等）と ISO 8601（Hatena dc:date等）の両形式に対応
+    """
     if not pub_date_str:
         return 0
+    import calendar
+    dt = None
+    # 1st try: RFC 2822 (例: "Sat, 24 May 2026 12:00:00 +0900")
     try:
         dt = parsedate_to_datetime(pub_date_str)
-        # タイムゾーン情報を除去してUTC比較
-        import calendar
+    except Exception:
+        pass
+    # 2nd try: ISO 8601 (例: "2026-05-24T12:00:00+09:00" / "2026-05-24T03:00:00Z")
+    if dt is None:
+        try:
+            from datetime import timezone
+            dt = datetime.fromisoformat(pub_date_str.replace("Z", "+00:00"))
+        except Exception:
+            return 0
+    try:
         dt_utc = datetime.utcfromtimestamp(calendar.timegm(dt.timetuple()))
         age_hours = (now_utc - dt_utc).total_seconds() / 3600
         if age_hours < 1:  return 4
