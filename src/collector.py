@@ -36,7 +36,7 @@ RSS_SOURCES = {
     "yahoo_news_life":       "https://news.yahoo.co.jp/rss/topics/life.xml",
     "yahoo_news_sports":     "https://news.yahoo.co.jp/rss/topics/sports.xml",
     "yahoo_news_science":    "https://news.yahoo.co.jp/rss/topics/science.xml",
-    "yahoo_news_gourmet":    "https://news.yahoo.co.jp/rss/topics/gourmet.xml"
+    # yahoo_news_gourmet は 404 のため廃止
 }
 
 # 実SNSシグナルRSS
@@ -232,15 +232,23 @@ def fetch_all_sources(now_iso, now_utc):
 
                 root = ET.fromstring(response.content)
 
-                # RSS 2.0 の <item> を優先、なければ Atom の <entry> を試みる
+                RSS1_NS = "http://purl.org/rss/1.0/"
+                DC_NS   = "http://purl.org/dc/elements/1.1/"
+
+                # RSS 2.0 <item> → Atom <entry> → RSS 1.0/RDF <item> の順で試みる
+                # はてなブックマークは RSS 1.0（RDF）形式のため名前空間付きで検索が必要
                 items = root.findall(".//item")
                 is_atom = False
+                is_rss1 = False
                 if not items:
                     items = root.findall(f".//{{{ATOM_NS}}}entry")
-                    is_atom = True
+                    is_atom = bool(items)
                 if not items:
                     items = root.findall(".//entry")
-                    is_atom = True
+                    is_atom = bool(items)
+                if not items:
+                    items = root.findall(f".//{{{RSS1_NS}}}item")
+                    is_rss1 = bool(items)
 
                 if not items:
                     print(f"No items found in {source_key} ({url}) — try next")
@@ -263,13 +271,22 @@ def fetch_all_sources(now_iso, now_utc):
                                       or item.find(f"{{{ns}}}published")
                                       or item.find("updated"))
                         title       = title_el.text  if (title_el   is not None and title_el.text)  else ""
-                        # Atom の <link> は href 属性にURLが入る
                         if link_el is not None:
                             link = link_el.get("href", "") or (link_el.text or "")
                         else:
                             link = ""
                         description = desc_el.text   if (desc_el    is not None and desc_el.text)   else ""
                         pub_date    = pubdate_el.text if (pubdate_el is not None and pubdate_el.text) else ""
+                    elif is_rss1:
+                        # RSS 1.0 (RDF): はてなブックマーク等が使用。タグが名前空間付き
+                        title_el   = item.find(f"{{{RSS1_NS}}}title")       or item.find("title")
+                        link_el    = item.find(f"{{{RSS1_NS}}}link")        or item.find("link")
+                        desc_el    = item.find(f"{{{RSS1_NS}}}description") or item.find("description")
+                        pubdate_el = item.find(f"{{{DC_NS}}}date")          or item.find("pubDate")
+                        title       = title_el.text   if (title_el   is not None and title_el.text)   else ""
+                        link        = link_el.text    if (link_el    is not None and link_el.text)    else ""
+                        description = desc_el.text    if (desc_el    is not None and desc_el.text)    else ""
+                        pub_date    = pubdate_el.text  if (pubdate_el is not None and pubdate_el.text) else ""
                     else:
                         # RSS 2.0: 通常フィールド
                         title_el   = item.find("title")
