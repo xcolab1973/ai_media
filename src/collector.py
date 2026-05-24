@@ -45,9 +45,12 @@ RSS_SOURCES = {
 # URLはリスト形式: 先頭から順に試し、アイテムが取れた時点で採用（フォールバック方式）
 SNS_SOURCES = {
     # はてなブックマーク ホットエントリー → yahoo_realtime枠
+    # GitHub Actions runner から Hatena がブロックされる場合に備えてlivedoorを最終保険として追加
     "hatena_hotentry": [
-        "https://b.hatena.ne.jp/hotentry/general.rss",  # カテゴリ別（安定）
-        "https://b.hatena.ne.jp/hotentry.rss",           # 全カテゴリ（フォールバック）
+        "https://b.hatena.ne.jp/hotentry/general.rss",   # カテゴリ別 General（第1候補）
+        "https://b.hatena.ne.jp/hotentry/social.rss",    # カテゴリ別 Social（第2候補）
+        "https://b.hatena.ne.jp/hotentry.rss",            # 全カテゴリ（第3候補）
+        "https://news.livedoor.com/topics/rss/top.xml",  # livedoor（最終フォールバック）
     ],
     # Togetter人気まとめ → x_realtime枠
     "togetter_hot": [
