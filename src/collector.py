@@ -507,6 +507,19 @@ def main():
     else:
         raise FileNotFoundError("Failed output to target path.")
 
+    # --- note product line feed (2026-05-29) ---
+    # note 製品ラインは clean/B2B とトレンドデータを分離する方針。
+    # 現状は同一データを note_latest.json にも出力し、product_line マーカーを付与する。
+    # 将来 note_categories.json によるフィルタ等で内容を分岐させる際はここを拡張する。
+    note_output = dict(output_data)
+    note_output["product_line"] = "note"
+    note_file_path = "trends/note_latest.json"
+    with open(note_file_path, "w", encoding="utf-8") as f:
+        json.dump(note_output, f, ensure_ascii=False, indent=2)
+    if not os.path.exists(note_file_path):
+        raise FileNotFoundError("Failed output to note target path.")
+    print("Also deployed note_latest.json for the note product line.")
+
 
 if __name__ == "__main__":
     main()
