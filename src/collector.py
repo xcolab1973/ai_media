@@ -1,6 +1,7 @@
 import os
 import json
 import re
+import copy
 from datetime import datetime, timedelta, timezone
 import requests
 import xml.etree.ElementTree as ET
@@ -13,6 +14,8 @@ DAILY_ARTICLE_TARGET = 65
 TARGET_TOTAL_COUNT = DAILY_ARTICLE_TARGET + 5
 
 # ソースカテゴリごとの最低保証枠（スコアに関わらずこの枠を確保）
+# ※ source_category の 5 リテラルは Discovery / quota / 出力 sources ブロックが依存する契約値。
+#    実ソース（はてブ/livedoor/Togetter）の違いは raw_source_key / source_label で表現する（リネーム禁止）。
 SOURCE_MIN_QUOTA = {
     "yahoo_realtime": 5,
     "x_realtime":     5,
@@ -29,6 +32,38 @@ POSITIVE_KEYWORDS = [
 NEGATIVE_KEYWORDS = [
     "逮捕", "容疑者", "死去", "訃報", "事故", "衝突", "不倫", "離婚", "政治", "閣議決定", "地裁判決"
 ]
+
+# --- note 専用リランク用キーワード（latest.json=B2B には影響しない） ---
+# note は消費者向け・体験型・暮らし/エバーグリーン寄り。下記を加点。
+NOTE_POSITIVE_KEYWORDS = [
+    "体験", "暮らし", "節約", "コスパ", "レシピ", "作り方", "やってみた", "収納", "掃除",
+    "育児", "子育て", "健康", "ダイエット", "対策", "コツ", "裏技", "失敗", "後悔",
+    "買ってよかった", "使ってみた", "比較", "ランキング", "おすすめ", "習慣", "片付け", "時短"
+]
+# note では速報ニュース性・政治・災害・経済指標を減点（記事化に向かないため）。
+NOTE_HARD_NEWS_KEYWORDS = [
+    "速報", "首相", "政権", "関税", "外交", "選挙", "国会", "死亡", "地震", "台風",
+    "豪雨", "被告", "裁判", "容疑", "日経平均", "株価", "為替", "ドル円", "出生数",
+    "戦争", "攻撃", "砲撃", "ミサイル"
+]
+
+# 読みやすいソースラベル（raw_source_key → source_label）
+SOURCE_LABELS = {
+    "google_trends":            "Google トレンド",
+    "yahoo_news_topics":        "Yahoo!ニュース トピックス",
+    "yahoo_news_domestic":      "Yahoo!ニュース 国内",
+    "yahoo_news_entertainment": "Yahoo!ニュース エンタメ",
+    "yahoo_news_business":      "Yahoo!ニュース 経済",
+    "yahoo_news_it":            "Yahoo!ニュース IT",
+    "yahoo_news_local":         "Yahoo!ニュース 地域",
+    "yahoo_news_world":         "Yahoo!ニュース 国際",
+    "yahoo_news_life":          "Yahoo!ニュース ライフ",
+    "yahoo_news_sports":        "Yahoo!ニュース スポーツ",
+    "yahoo_news_science":       "Yahoo!ニュース 科学",
+    "hatena_hotentry":          "はてなブックマーク ホットエントリー",
+    "livedoor_topics":          "livedoor トピックス",
+    "togetter_hot":             "Togetter 人気まとめ",
+}
 
 # ニュースRSS（既存12ソース維持）
 RSS_SOURCES = {
@@ -129,6 +164,56 @@ def _elem_text(*elements):
     return ""
 
 
+def _first_element(*elements):
+    """複数の Element 候補から最初に None でないものを返す。全滅なら None。
+    Atom の <link> のように text/子要素を持たない（=truthy 判定が False になりうる）
+    Element でも安全に拾うため、'el or fallback' ではなく is not None で判定する。
+    """
+    for el in elements:
+        if el is not None:
+            return el
+    return None
+
+
+def classify_topic_category(title, summary, signal_type, source_category):
+    """preliminary_claim_type とは独立の補助分類。後工程の選別精度向上用。
+    返り値: hard_fact / analysis / social_reaction / personal_story / medical_science / policy / opinion
+    ※ preliminary_claim_type の enum（hard_fact/opinion 等）は変更しない。これは追加フィールド。
+    """
+    text = f"{title} {summary}"
+
+    medical = ["医療", "治療", "がん", "癌", "新薬", "治験", "ワクチン", "手術", "疾患",
+               "脳", "細胞", "タンパク質", "臨床", "学会", "発症", "症状", "免疫"]
+    policy = ["政策", "首相", "増税", "減税", "消費税", "補助金", "関税", "法案", "政府",
+              "省庁", "規制", "予算", "閣議", "国会", "選挙", "外交", "条例", "制度"]
+    hard_fact = ["速報", "過去最少", "過去最多", "統計", "発表", "地震", "台風", "豪雨",
+                 "株価", "日経平均", "為替", "ドル円", "値上がり", "値下がり", "死亡", "出生数"]
+    personal = ["してみた", "した話", "やってみた", "日記", "泣いた", "我が家", "私は", "僕は",
+                "体験", "買ってよかった", "後悔", "失敗談"]
+    social = ["まとめ", "話題", "炎上", "論争", "賛否", "反応", "ツイート", "という声", "物議"]
+    analysis = ["理由", "なぜ", "本当の", "徹底", "解説", "考察", "比較", "ランキング", "とは"]
+
+    # 優先度順（誤分類を避けるため強い特徴から判定）
+    if any(k in text for k in medical):
+        return "medical_science"
+    if any(k in text for k in policy):
+        return "policy"
+    if any(k in text for k in hard_fact) or signal_type == "news":
+        return "hard_fact"
+    if any(k in text for k in personal) or source_category in ("yahoo_realtime", "x_realtime"):
+        # SNS 由来は体験/反応が多いが、まず personal を優先しつつ social へフォールバック
+        if any(k in text for k in personal):
+            return "personal_story"
+        if any(k in text for k in social):
+            return "social_reaction"
+        return "social_reaction"
+    if any(k in text for k in social):
+        return "social_reaction"
+    if any(k in text for k in analysis):
+        return "analysis"
+    return "opinion"
+
+
 # =====================================================================
 # 3. データ収集処理 (Fetch & Parse)
 # =====================================================================
@@ -139,12 +224,14 @@ def fetch_all_sources(now_iso, now_utc):
                       "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
 
+    # 全ソースを error 初期化し、実際に 1 件以上採用できたカテゴリだけ ok にする。
+    # （旧バグ: yahoo_news_ranking が "ok" 初期固定で、取得失敗でも成功扱いだった）
     status_report = {
-        "google_trends":    "error",
-        "yahoo_news_ranking": "ok",
-        "yahoo_realtime":   "error",
-        "x_realtime":       "error",
-        "news_web":         "error"
+        "google_trends":      "error",
+        "yahoo_news_ranking": "error",
+        "yahoo_realtime":     "error",
+        "x_realtime":         "error",
+        "news_web":           "error",
     }
 
     namespaces = {
@@ -165,11 +252,6 @@ def fetch_all_sources(now_iso, now_utc):
             if not items:
                 continue
 
-            if "google" in source_key:
-                status_report["google_trends"] = "ok"
-            else:
-                status_report["news_web"] = "ok"
-
             for item in items:
                 title       = _elem_text(item.find("title"))
                 link        = _elem_text(item.find("link"))
@@ -181,10 +263,14 @@ def fetch_all_sources(now_iso, now_utc):
 
                 approx_traffic = "100+"
                 if "google" in source_key:
-                    traffic_el = (item.find("ht:approx_traffic", namespaces)
-                                  or item.find("ht_alt:approx_traffic", namespaces))
-                    if traffic_el is not None and traffic_el.text:
-                        approx_traffic = traffic_el.text
+                    # ht:approx_traffic はリーフ要素（子なし）。'or' だと truthy 判定で
+                    # 取り逃すため _elem_text で text 優先取得する。
+                    traffic_text = _elem_text(
+                        item.find("ht:approx_traffic", namespaces),
+                        item.find("ht_alt:approx_traffic", namespaces),
+                    )
+                    if traffic_text:
+                        approx_traffic = traffic_text
                 elif source_key in ["yahoo_news_topics", "yahoo_news_business", "yahoo_news_life"]:
                     approx_traffic = "500+"
 
@@ -196,8 +282,13 @@ def fetch_all_sources(now_iso, now_utc):
                     category    = "google_trends" if "google" in source_key else "news_web"
                     signal_type = "trend" if category == "google_trends" else "news"
 
+                # 実際に採用したカテゴリの取得ステータスを ok にする
+                status_report[category] = "ok"
+
                 candidates.append({
                     "source_category":      category,
+                    "raw_source_key":       source_key,
+                    "source_label":         SOURCE_LABELS.get(source_key, source_key),
                     "raw_title":            title,
                     "url":                  link,
                     "summary":              description,
@@ -208,6 +299,7 @@ def fetch_all_sources(now_iso, now_utc):
                         "hard_fact" if source_key in ["yahoo_news_domestic", "yahoo_news_business"]
                         else "opinion"
                     ),
+                    "topic_category": classify_topic_category(title, description, signal_type, category),
                     "collected_at": now_iso,
                     "_pub_date":    pub_date,
                 })
@@ -237,6 +329,15 @@ def fetch_all_sources(now_iso, now_utc):
         for url in url_list:
             if fetched:
                 break
+            # 成功した実フィードに応じて raw_source_key を決める（実態表示の精度向上）
+            if "livedoor" in url:
+                raw_source_key = "livedoor_topics"
+            elif "togetter" in url:
+                raw_source_key = "togetter_hot"
+            else:
+                raw_source_key = "hatena_hotentry"
+            source_label = SOURCE_LABELS.get(raw_source_key, raw_source_key)
+
             try:
                 response = requests.get(url, headers=headers, timeout=12)
                 if response.status_code != 200:
@@ -263,18 +364,7 @@ def fetch_all_sources(now_iso, now_utc):
                     continue
 
                 print(f"  {source_key}: {len(items)} items from {url} (atom={is_atom}, rss1={is_rss1})")
-                status_report[cfg["status_key"]] = "ok"
                 fetched = True
-
-                # ---- RSS1 デバッグ: 最初のアイテムの全タグを出力 ----
-                if is_rss1 and items:
-                    first = items[0]
-                    child_tags = [child.tag for child in first]
-                    print(f"  RSS1 first item child tags: {child_tags[:8]}")
-                    # title テキスト候補を全試行
-                    t_rss1 = first.find(f"{{{RSS1_NS}}}title")
-                    t_bare = first.find("title")
-                    print(f"  RSS1 title candidates: rss1_ns={t_rss1!r}(text={getattr(t_rss1,'text',None)!r}), bare={t_bare!r}(text={getattr(t_bare,'text',None)!r})")
 
                 appended = 0
                 skipped_no_title = 0
@@ -286,8 +376,11 @@ def fetch_all_sources(now_iso, now_utc):
                             item.find(f"{{{ns}}}title"),
                             item.find("title")
                         )
-                        link_el = item.find(f"{{{ns}}}link") or item.find("link")
-                        link = (link_el.get("href", "") if link_el is not None else "") or _elem_text(link_el)
+                        # Atom の <link> は href 属性のみで text/子要素を持たない。
+                        # 'or' は truthy 判定で取り逃すため _first_element で is not None 判定する。
+                        link_el = _first_element(item.find(f"{{{ns}}}link"), item.find("link"))
+                        href = link_el.get("href", "") if link_el is not None else ""
+                        link = href or _elem_text(link_el)
                         description = _elem_text(
                             item.find(f"{{{ns}}}summary"),
                             item.find(f"{{{ns}}}content"),
@@ -333,18 +426,26 @@ def fetch_all_sources(now_iso, now_utc):
                         continue
 
                     appended += 1
+                    summary_val = description if description else cfg["summary_tmpl"]
                     candidates.append({
                         "source_category":      cfg["category"],
+                        "raw_source_key":       raw_source_key,
+                        "source_label":         source_label,
                         "raw_title":            title,
                         "url":                  link,
-                        "summary":              description if description else cfg["summary_tmpl"],
+                        "summary":              summary_val,
                         "signal_type":          "trend",
                         "engagement_signal":    True,
                         "approx_traffic":       "100+",
                         "preliminary_claim_type": "opinion",
+                        "topic_category": classify_topic_category(title, summary_val, "trend", cfg["category"]),
                         "collected_at": now_iso,
                         "_pub_date":    pub_date,
                     })
+
+                # 1 件以上採用できた時だけ ok にする
+                if appended > 0:
+                    status_report[cfg["status_key"]] = "ok"
 
                 print(f"  {source_key}: appended={appended} skipped_no_title={skipped_no_title}")
 
@@ -440,7 +541,7 @@ def filter_and_score(candidates, now_utc):
     for s in sample:
         print(f"  [OK] yahoo_realtime: score={s['_score']} freshness={s['_freshness']} pub={s.get('_pub_date','')!r} title={s['raw_title'][:30]!r}")
 
-    # ソースカテゴリごとの最低保証枠を確保
+    # ソースカテゴリごとの最低保証枠を確保（B2B=latest.json 用・既存挙動を維持）
     guaranteed = []
     for cat, min_count in SOURCE_MIN_QUOTA.items():
         cat_items = [x for x in processed if x["source_category"] == cat][:min_count]
@@ -454,12 +555,75 @@ def filter_and_score(candidates, now_utc):
     cat_counts_final = Counter(x["source_category"] for x in final)
     print(f"  category counts (after quota, top {TARGET_TOTAL_COUNT}): {dict(cat_counts_final)}")
 
-    return final
+    debug_info = {
+        "raw_by_category":     dict(raw_cats),
+        "neg_excluded":        neg_count,
+        "dedup_excluded":      dedup_count,
+        "passed_total":        len(processed),
+        "b2b_category_counts": dict(cat_counts_final),
+    }
+
+    # final（B2B top-70）と processed（全採用プール・note リランク用）の両方を返す
+    return final, processed, debug_info
+
+
+def rank_for_note(processed):
+    """note_latest.json 専用の並べ替え。latest.json(B2B) には一切影響しない。
+    topic_category とキーワードで体験型/暮らし系を加点、速報ニュース/政治/災害を減点する。
+    """
+    ranked = []
+    for c in processed:
+        ns = c.get("_score", 0)
+        tc = c.get("topic_category", "opinion")
+
+        # note-positive
+        if tc in ("personal_story", "social_reaction"):
+            ns += 4
+        elif tc == "analysis":
+            ns += 2
+        elif tc == "medical_science":
+            ns += 1
+        # note-negative（速報ニュース・政治・経済指標は note に不向き）
+        if tc in ("hard_fact", "policy"):
+            ns -= 4
+        if c.get("signal_type") == "news":
+            ns -= 3
+
+        text = c["raw_title"] + " " + c.get("summary", "")
+        if any(k in text for k in NOTE_POSITIVE_KEYWORDS):
+            ns += 2
+        if any(k in text for k in NOTE_HARD_NEWS_KEYWORDS):
+            ns -= 2
+
+        c["_note_score"] = ns
+        ranked.append(c)
+
+    ranked.sort(key=lambda x: x["_note_score"], reverse=True)
+    return ranked
 
 
 # =====================================================================
 # 5. メイン実行
 # =====================================================================
+def _finalize(candidate_list, today_str):
+    """出力直前の整形：deepcopy 済みリストに article_id/date を採番し内部キーを除去する。"""
+    for i, candidate in enumerate(candidate_list, start=1):
+        candidate["article_id"] = f"article_{str(i).zfill(6)}"
+        candidate["date"]       = today_str
+        for internal_key in ("_score", "_pub_date", "_freshness", "_note_score"):
+            candidate.pop(internal_key, None)
+    return candidate_list
+
+
+def _build_sources_block(candidate_list, status_report):
+    from collections import Counter
+    counts = Counter(x["source_category"] for x in candidate_list)
+    return {
+        cat: {"count": counts.get(cat, 0), "fetch_status": status_report[cat]}
+        for cat in ("google_trends", "yahoo_news_ranking", "yahoo_realtime", "x_realtime", "news_web")
+    }
+
+
 def main():
     now_utc       = datetime.utcnow()
     now_jst       = now_utc + timedelta(hours=9)
@@ -474,26 +638,21 @@ def main():
     raw_list, status_report = fetch_all_sources(now_iso, now_utc)
     print(f"Raw sources fetched completely. Total raw pool: {len(raw_list)}")
 
-    final_candidates = filter_and_score(raw_list, now_utc)
+    final_b2b_pool, processed_full, debug_info = filter_and_score(raw_list, now_utc)
 
-    for i, candidate in enumerate(final_candidates, start=1):
-        candidate["article_id"] = f"article_{str(i).zfill(6)}"
-        candidate["date"]       = today_str
-        for internal_key in ("_score", "_pub_date", "_freshness"):
-            candidate.pop(internal_key, None)
+    # --- B2B (latest.json)：従来どおりの選別。deepcopy で note と完全分離 ---
+    b2b_candidates = _finalize([copy.deepcopy(c) for c in final_b2b_pool], today_str)
+
+    # --- note (note_latest.json)：note 専用リランクから top-N。B2B には影響しない ---
+    note_ranked = rank_for_note(processed_full)[:TARGET_TOTAL_COUNT]
+    note_candidates = _finalize([copy.deepcopy(c) for c in note_ranked], today_str)
 
     output_data = {
         "generated_at":  now_iso,
         "valid_until":   valid_until_iso,
-        "total_count":   len(final_candidates),
-        "sources": {
-            "google_trends":    {"count": sum(1 for x in final_candidates if x["source_category"] == "google_trends"),    "fetch_status": status_report["google_trends"]},
-            "yahoo_news_ranking": {"count": sum(1 for x in final_candidates if x["source_category"] == "yahoo_news_ranking"), "fetch_status": status_report["yahoo_news_ranking"]},
-            "yahoo_realtime":   {"count": sum(1 for x in final_candidates if x["source_category"] == "yahoo_realtime"),   "fetch_status": status_report["yahoo_realtime"]},
-            "x_realtime":       {"count": sum(1 for x in final_candidates if x["source_category"] == "x_realtime"),       "fetch_status": status_report["x_realtime"]},
-            "news_web":         {"count": sum(1 for x in final_candidates if x["source_category"] == "news_web"),         "fetch_status": status_report["news_web"]},
-        },
-        "candidates": final_candidates
+        "total_count":   len(b2b_candidates),
+        "sources":       _build_sources_block(b2b_candidates, status_report),
+        "candidates":    b2b_candidates,
     }
 
     os.makedirs("trends", exist_ok=True)
@@ -503,22 +662,53 @@ def main():
         json.dump(output_data, f, ensure_ascii=False, indent=2)
 
     if os.path.exists(file_path):
-        print(f"Successfully deployed total {len(final_candidates)} high-value trend objects.")
+        print(f"Successfully deployed total {len(b2b_candidates)} high-value trend objects.")
     else:
         raise FileNotFoundError("Failed output to target path.")
 
-    # --- note product line feed (2026-05-29) ---
-    # note 製品ラインは clean/B2B とトレンドデータを分離する方針。
-    # 現状は同一データを note_latest.json にも出力し、product_line マーカーを付与する。
-    # 将来 note_categories.json によるフィルタ等で内容を分岐させる際はここを拡張する。
-    note_output = dict(output_data)
-    note_output["product_line"] = "note"
+    # --- note product line feed ---
+    # note 製品ラインは B2B(latest.json) とは別ランクで出力する。
+    # rank_for_note により体験型/暮らし系を優先し、速報ニュース/政治を後退させている。
+    # スキーマ（フィールド構成）は latest.json と同一なので Discovery 側はそのまま解釈できる。
+    note_output = {
+        "generated_at":  now_iso,
+        "valid_until":   valid_until_iso,
+        "total_count":   len(note_candidates),
+        "sources":       _build_sources_block(note_candidates, status_report),
+        "candidates":    note_candidates,
+        "product_line":  "note",
+    }
     note_file_path = "trends/note_latest.json"
     with open(note_file_path, "w", encoding="utf-8") as f:
         json.dump(note_output, f, ensure_ascii=False, indent=2)
     if not os.path.exists(note_file_path):
         raise FileNotFoundError("Failed output to note target path.")
-    print("Also deployed note_latest.json for the note product line.")
+    print("Also deployed note_latest.json (note-prioritized ranking) for the note product line.")
+
+    # --- debug feed（運用診断用・Discovery は読まない） ---
+    from collections import Counter
+    debug_output = {
+        "generated_at": now_iso,
+        "fetch_status": status_report,
+        "raw_pool_total": len(raw_list),
+        "filter": debug_info,
+        "note_category_counts": dict(Counter(x["topic_category"] for x in note_candidates)),
+        "b2b_topic_category_counts": dict(Counter(x["topic_category"] for x in b2b_candidates)),
+        "b2b_top10": [
+            {"title": x["raw_title"][:40], "source_category": x["source_category"],
+             "raw_source_key": x.get("raw_source_key"), "topic_category": x.get("topic_category")}
+            for x in b2b_candidates[:10]
+        ],
+        "note_top10": [
+            {"title": x["raw_title"][:40], "source_category": x["source_category"],
+             "raw_source_key": x.get("raw_source_key"), "topic_category": x.get("topic_category")}
+            for x in note_candidates[:10]
+        ],
+    }
+    debug_file_path = "trends/debug_latest.json"
+    with open(debug_file_path, "w", encoding="utf-8") as f:
+        json.dump(debug_output, f, ensure_ascii=False, indent=2)
+    print("Also deployed debug_latest.json for diagnostics.")
 
 
 if __name__ == "__main__":
