@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T02:53:00+09:00",
+  "generated_at": "2026-06-04T08:22:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,46 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 7,
-    "passed_total": 113,
+    "neg_excluded": 10,
+    "dedup_excluded": 10,
+    "passed_total": 112,
     "b2b_category_counts": {
       "yahoo_realtime": 34,
-      "google_trends": 10,
       "news_web": 15,
-      "x_realtime": 9,
-      "yahoo_news_ranking": 2
+      "google_trends": 10,
+      "x_realtime": 7,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "opinion": 9,
-    "social_reaction": 28,
-    "policy": 7,
-    "medical_science": 5,
-    "hard_fact": 21
-  },
-  "b2b_topic_category_counts": {
-    "policy": 8,
-    "opinion": 9,
-    "hard_fact": 21,
-    "social_reaction": 28,
+    "social_reaction": 25,
+    "personal_story": 1,
+    "opinion": 10,
+    "hard_fact": 20,
+    "policy": 10,
     "medical_science": 4
   },
+  "b2b_topic_category_counts": {
+    "social_reaction": 25,
+    "hard_fact": 21,
+    "policy": 11,
+    "opinion": 10,
+    "personal_story": 1,
+    "medical_science": 2
+  },
   "b2b_top10": [
+    {
+      "title": "「非難殺到？どこが？」狩野英孝氏が、芸人間の『君の名は。』返却エピソードを某週刊",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "口から「ウンチ臭」原因と対策",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
     {
       "title": "中国、OECDの指摘に反論 「企業の強さは補助金の結果ではない」",
       "source_category": "yahoo_realtime",
@@ -49,55 +63,43 @@
       "topic_category": "policy"
     },
     {
-      "title": "埼玉 停電",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "全般台風情報、台風第6号",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "【速報】首相、ガソリン補助金見直しを表明",
+      "title": "抗議デモは議論を変え、選挙に影響し、人々を結びつけて社会を動かす | 「デモ大国",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "東京電力 停電",
+      "title": "対日追加関税１２．５％提案　通商法３０１条、強制労働対策で―米：時事ドットコム",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "ヤンキース 対 ガーディアンズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "片岡鶴太郎",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "戸郷翔征 初の危険球退場を猛省",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_sports",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "ワールドトリガー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "「辛味と旨味のパンチ力が桁違い」コチュジャン、ニンニク、ツナ缶、余った野菜で作れ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "松田翔太",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "産婦人科医に彼氏ができたら教えてと言われ、その後「できました。優しい人です」と答",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
     },
     {
-      "title": "日本三国",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "溝口勇児",
+      "title": "女郎",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,61 +107,61 @@
   ],
   "note_top10": [
     {
-      "title": "埼玉 停電",
+      "title": "「非難殺到？どこが？」狩野英孝氏が、芸人間の『君の名は。』返却エピソードを某週刊",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「辛味と旨味のパンチ力が桁違い」コチュジャン、ニンニク、ツナ缶、余った野菜で作れ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "産婦人科医に彼氏ができたら教えてと言われ、その後「できました。優しい人です」と答",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「このケーキの前では意志の力など無意味です」とあるラトビア人が日本人に向けて、バ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "道標 - 青猿 / 【コミックDAYS読み切り】道標 | コミックDAYS",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "パワハラ告発、アムネスティ職員の怒り「人権団体でありながら」 | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ヤマダHD・エディオン統合へ　持ち株会社検討、2.5兆円家電連合 - 日本経済新",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ヘリコプターやパラシュートみたいにコンタクトレンズもレオナルド・ダ・ヴィンチが",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ヤンキース 対 ガーディアンズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "5300年前のミイラから生きた酵母 培養して「素晴らしいパン」に",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【合体神シリーズ】プロジェクトティザーPV",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "保育園休園で体力を持て余した5歳、壁を登り始める。天井まで到達しました→海外から",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ボルゾイの鼻、思いの外曲がり面白生き物すぎると注目が集まる「遺伝子のどっかしらに",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "キャプテン・アメリカってアメリカ人からどんな印象？日本だと日本大将って名前で日の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "はてなブックマークしてる人をブクマカって呼ぶじゃん",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "今年に入って文学賞への応募数が軒並み爆増したと聞いて思い当たる要因が一つしかない",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "給与が突然ゼロ、全社員に“箝口令”も…社長命令で“代表取締役”になった証券会社員",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "211中国主席専用機後半",
+      "title": "皇族数確保策、正副議長が大枠合意　立憲民主出身の福山哲郎氏が容認：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
