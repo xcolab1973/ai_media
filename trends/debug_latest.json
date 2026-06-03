@@ -1,0 +1,170 @@
+{
+  "generated_at": "2026-06-03T19:44:00+09:00",
+  "fetch_status": {
+    "google_trends": "ok",
+    "yahoo_news_ranking": "ok",
+    "yahoo_realtime": "ok",
+    "x_realtime": "ok",
+    "news_web": "ok"
+  },
+  "raw_pool_total": 132,
+  "filter": {
+    "raw_by_category": {
+      "google_trends": 10,
+      "news_web": 48,
+      "yahoo_news_ranking": 24,
+      "yahoo_realtime": 40,
+      "x_realtime": 10
+    },
+    "neg_excluded": 5,
+    "dedup_excluded": 9,
+    "passed_total": 118,
+    "b2b_category_counts": {
+      "yahoo_realtime": 26,
+      "news_web": 19,
+      "google_trends": 10,
+      "x_realtime": 8,
+      "yahoo_news_ranking": 7
+    }
+  },
+  "note_category_counts": {
+    "personal_story": 3,
+    "social_reaction": 26,
+    "opinion": 9,
+    "policy": 10,
+    "medical_science": 7,
+    "hard_fact": 15
+  },
+  "b2b_topic_category_counts": {
+    "policy": 11,
+    "personal_story": 2,
+    "social_reaction": 17,
+    "hard_fact": 26,
+    "opinion": 9,
+    "medical_science": 5
+  },
+  "b2b_top10": [
+    {
+      "title": "【速報】首相、ガソリン補助金見直しを表明",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "トランプ政権、日本などに最大12.5%の代替関税案　60カ国・地域対象 - 日本",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "あのとき僕は出入り禁止になっていた…松本育夫が鳥栖で伝え続けた考え方とは【サッカ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "砲弾より安い!? あり得ないコスパの英国産「超音速ミサイル」日本に猛アピール 横",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ガソリン補助金を縮小へ 首相検討",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "policy"
+    },
+    {
+      "title": "戸郷が危険球退場 東京ドーム騒然",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "小泉純一郎",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "キャンドゥ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "石原良純",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "石原伸晃",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    }
+  ],
+  "note_top10": [
+    {
+      "title": "あのとき僕は出入り禁止になっていた…松本育夫が鳥栖で伝え続けた考え方とは【サッカ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "砲弾より安い!? あり得ないコスパの英国産「超音速ミサイル」日本に猛アピール 横",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ものづくりをして売っている人に響く内容だった」渋谷スクランブルスクエアの1階で",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『漫画喫茶』の略称",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ビジネスマンの皆様に「東京でしか買えない手土産」を教えてほしいです、出来れば駅や",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『私が初めて出会った「感情移入できない主人公」』についてのnoteが作品愛に溢れ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "都立中央図書館、旧「こどもの城」の神宮前5丁目に移転へ | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「ガングロギャルは親世代が欧米に憧れた結果としての美白文化へのカウンター」とかい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "良い女と付き合ってみた",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「塗装時に塗膜の弾かれが発生する」今まで問題なく使えていた100均の紙コップが原",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    }
+  ]
+}
