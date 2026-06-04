@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T15:23:00+09:00",
+  "generated_at": "2026-06-04T19:51:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -20,39 +20,35 @@
     "dedup_excluded": 10,
     "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
+      "yahoo_realtime": 32,
       "google_trends": 10,
-      "x_realtime": 7,
-      "news_web": 12,
-      "yahoo_news_ranking": 4
+      "x_realtime": 8,
+      "news_web": 17,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 31,
-    "medical_science": 6,
+    "social_reaction": 24,
+    "medical_science": 8,
+    "personal_story": 1,
     "opinion": 10,
-    "policy": 7,
-    "hard_fact": 16
+    "policy": 9,
+    "hard_fact": 18
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 31,
-    "policy": 7,
-    "medical_science": 3,
+    "social_reaction": 23,
+    "medical_science": 4,
     "opinion": 10,
-    "hard_fact": 19
+    "policy": 10,
+    "personal_story": 1,
+    "hard_fact": 22
   },
   "b2b_top10": [
     {
-      "title": "外国人って日本でたまごサンドを食べたがるけど、あれって正直どこでも作れそうじゃな",
+      "title": "Claudeを学ぶな、「仕事の言語化能力」を磨け — 陳腐化しない学習法",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "抗議デモは議論を変え、選挙に影響し、人々を結びつけて社会を動かす | 「デモ大国",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
     },
     {
       "title": "がん予防法 最新版 お酒は「節酒」から「ひかえる」推奨に変更 | NHKニュース",
@@ -61,43 +57,49 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "株式会社として統合失調症患者50人と共同生活をする事業をしていたら、税務署から「",
+      "title": "後藤真希",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "高木菜那",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "孤独死の現場に残されていた大量の洋楽CDやハロプロDVDなどが「臭気が強い」とい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「毎日仕事始める前に読んだ方がいいレベル」 資料と合わせて「確認お願いします」と",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "田鎖ブラザーズ",
+      "title": "浜野謙太",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "野村絢",
+      "title": "斎藤元彦",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "移籍",
+      "title": "石原さとみ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ホンダf1",
+      "title": "すとぷり テレビ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "東北楽天ゴールデンイーグルス",
+      "title": "パワーエックス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,9 +107,15 @@
   ],
   "note_top10": [
     {
-      "title": "外国人って日本でたまごサンドを食べたがるけど、あれって正直どこでも作れそうじゃな",
+      "title": "Claudeを学ぶな、「仕事の言語化能力」を磨け — 陳腐化しない学習法",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "スマホを見せずにお菓子は全部手作りなど、手塩をかけた未成年の娘が、一回り以上年上",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -117,34 +125,22 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "株式会社として統合失調症患者50人と共同生活をする事業をしていたら、税務署から「",
+      "title": "孤独死の現場に残されていた大量の洋楽CDやハロプロDVDなどが「臭気が強い」とい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「毎日仕事始める前に読んだ方がいいレベル」 資料と合わせて「確認お願いします」と",
+      "title": "外国人って日本でたまごサンドを食べたがるけど、あれって正直どこでも作れそうじゃな",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "2028年春の朝ドラは「ほんのモキチ」 ヒロインは河合優実さん | NHKニュー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "タンカー船の造水機は『水は100℃じゃなくても沸騰する』という仕組みを利用して真",
+      "title": "2歳の娘を2回目の一時保育へ預けたが、お迎え後、先生が書いてくれたその日の「生活",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「日本人は知らないだろうが」なんて言われたら普段は腹が立つのに、おいしいものの情",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
       "title": "ゴミ屋敷になるフラグ",
@@ -153,15 +149,21 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「このケーキの前では意志の力など無意味です」とあるラトビア人が日本人に向けて、バ",
+      "title": "大学で同期と話していたら言葉が被って、相手が突然「ハッピーアイスクリーム」と言い",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "褒めれば人は育つは本当か？ 厳しくすれば人は伸びるのか？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "\"学生の制服は正装\"と説明しようとした家庭科の先生が「もし今、窓から天皇陛下が入",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "インターホンに出ると「ヤマトです」と名乗るラフな格好の若い男が...「ヤマトの制",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
