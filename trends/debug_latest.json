@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T08:22:00+09:00",
+  "generated_at": "2026-06-04T15:23:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -20,47 +20,33 @@
     "dedup_excluded": 10,
     "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
-      "news_web": 15,
+      "yahoo_realtime": 37,
       "google_trends": 10,
       "x_realtime": 7,
+      "news_web": 12,
       "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 25,
-    "personal_story": 1,
+    "social_reaction": 31,
+    "medical_science": 6,
     "opinion": 10,
-    "hard_fact": 20,
-    "policy": 10,
-    "medical_science": 4
+    "policy": 7,
+    "hard_fact": 16
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 25,
-    "hard_fact": 21,
-    "policy": 11,
+    "social_reaction": 31,
+    "policy": 7,
+    "medical_science": 3,
     "opinion": 10,
-    "personal_story": 1,
-    "medical_science": 2
+    "hard_fact": 19
   },
   "b2b_top10": [
     {
-      "title": "「非難殺到？どこが？」狩野英孝氏が、芸人間の『君の名は。』返却エピソードを某週刊",
+      "title": "外国人って日本でたまごサンドを食べたがるけど、あれって正直どこでも作れそうじゃな",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "口から「ウンチ臭」原因と対策",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "中国、OECDの指摘に反論 「企業の強さは補助金の結果ではない」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
     },
     {
       "title": "抗議デモは議論を変え、選挙に影響し、人々を結びつけて社会を動かす | 「デモ大国",
@@ -69,37 +55,49 @@
       "topic_category": "policy"
     },
     {
-      "title": "対日追加関税１２．５％提案　通商法３０１条、強制労働対策で―米：時事ドットコム",
+      "title": "がん予防法 最新版 お酒は「節酒」から「ひかえる」推奨に変更 | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "topic_category": "medical_science"
     },
     {
-      "title": "ヤンキース 対 ガーディアンズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "戸郷翔征 初の危険球退場を猛省",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_sports",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "「辛味と旨味のパンチ力が桁違い」コチュジャン、ニンニク、ツナ缶、余った野菜で作れ",
+      "title": "株式会社として統合失調症患者50人と共同生活をする事業をしていたら、税務署から「",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "産婦人科医に彼氏ができたら教えてと言われ、その後「できました。優しい人です」と答",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
+      "title": "「毎日仕事始める前に読んだ方がいいレベル」 資料と合わせて「確認お願いします」と",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "女郎",
+      "title": "田鎖ブラザーズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "野村絢",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "移籍",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ホンダf1",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "東北楽天ゴールデンイーグルス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +105,61 @@
   ],
   "note_top10": [
     {
-      "title": "「非難殺到？どこが？」狩野英孝氏が、芸人間の『君の名は。』返却エピソードを某週刊",
+      "title": "外国人って日本でたまごサンドを食べたがるけど、あれって正直どこでも作れそうじゃな",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「辛味と旨味のパンチ力が桁違い」コチュジャン、ニンニク、ツナ缶、余った野菜で作れ",
+      "title": "がん予防法 最新版 お酒は「節酒」から「ひかえる」推奨に変更 | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "株式会社として統合失調症患者50人と共同生活をする事業をしていたら、税務署から「",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "産婦人科医に彼氏ができたら教えてと言われ、その後「できました。優しい人です」と答",
+      "title": "「毎日仕事始める前に読んだ方がいいレベル」 資料と合わせて「確認お願いします」と",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "2028年春の朝ドラは「ほんのモキチ」 ヒロインは河合優実さん | NHKニュー",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "タンカー船の造水機は『水は100℃じゃなくても沸騰する』という仕組みを利用して真",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「日本人は知らないだろうが」なんて言われたら普段は腹が立つのに、おいしいものの情",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ゴミ屋敷になるフラグ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "「このケーキの前では意志の力など無意味です」とあるラトビア人が日本人に向けて、バ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "道標 - 青猿 / 【コミックDAYS読み切り】道標 | コミックDAYS",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "パワハラ告発、アムネスティ職員の怒り「人権団体でありながら」 | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ヤマダHD・エディオン統合へ　持ち株会社検討、2.5兆円家電連合 - 日本経済新",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ヘリコプターやパラシュートみたいにコンタクトレンズもレオナルド・ダ・ヴィンチが",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ヤンキース 対 ガーディアンズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "皇族数確保策、正副議長が大枠合意　立憲民主出身の福山哲郎氏が容認：朝日新聞",
+      "title": "褒めれば人は育つは本当か？ 厳しくすれば人は伸びるのか？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
