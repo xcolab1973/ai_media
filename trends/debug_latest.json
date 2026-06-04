@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T01:13:00+09:00",
+  "generated_at": "2026-06-05T07:55:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 10,
-    "passed_total": 112,
+    "neg_excluded": 6,
+    "dedup_excluded": 8,
+    "passed_total": 118,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
+      "yahoo_realtime": 37,
       "google_trends": 10,
-      "x_realtime": 8,
-      "news_web": 14,
-      "yahoo_news_ranking": 5
+      "news_web": 11,
+      "x_realtime": 10,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
+    "social_reaction": 29,
     "personal_story": 2,
     "opinion": 10,
-    "medical_science": 6,
-    "hard_fact": 18,
-    "policy": 6
+    "medical_science": 7,
+    "policy": 9,
+    "hard_fact": 13
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
+    "policy": 10,
+    "social_reaction": 29,
     "opinion": 10,
-    "hard_fact": 22,
-    "policy": 6,
-    "personal_story": 2,
-    "medical_science": 2
+    "hard_fact": 16,
+    "medical_science": 3,
+    "personal_story": 2
   },
   "b2b_top10": [
+    {
+      "title": "［社説］社会保障を揺るがす消費税減税は再考を - 日本経済新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
     {
       "title": "Claudeを学ぶな、「仕事の言語化能力」を磨け — 陳腐化しない学習法",
       "source_category": "yahoo_realtime",
@@ -51,58 +57,52 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ダイソー",
+      "title": "草間彌生",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ANA公式から予約していたのに空港で「座席の余りがありません」と言われ飛行機に乗",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "今夜、秘密のキッチンで",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "相葉雅紀 嵐活動終了後初の連ドラ",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "真鶴町",
+      "title": "西野亮廣",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "嵐莉菜",
+      "title": "後藤啓介",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "中西アルノ",
+      "title": "村上穂乃佳",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "千歳",
+      "title": "石原裕次郎",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "elden ring tarnished edition",
+      "title": "ナガノ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
-    },
-    {
-      "title": "高市首相が豊田真由子議員に陳謝　文科省が事前に質問聞き取らず | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "スマホを見せずにお菓子は全部手作りなど、手塩をかけた未成年の娘が、一回り以上年上",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
     }
   ],
   "note_top10": [
@@ -113,58 +113,58 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "スマホを見せずにお菓子は全部手作りなど、手塩をかけた未成年の娘が、一回り以上年上",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「鳥皮は昔捨てる部位だった」と毎回話す高齢者がついに「この話前にもしましたかね？",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「そんな...嘘だと言ってくれよ...」使って3か月も満たない本格ニッパーが折れ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「山椒の実は普段の料理を進化させる可能性を秘めてるから試してみてほしい」→オイル",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "自宅で寝ていたら知らないおじさんに首を絞められ...逃げたので追いかけてボコボコ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "フードロスを強引に解決するために消費期限を「TODAY()+3」にしました、これ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「一番やりにくいのが小6女子」塾講を少しやってみて、男子生徒はやりやすい一方で、",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "酒の席で同席した方と銀英伝を語り合った時、「ラベル付きの酒瓶」に対する「貴族が飲",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
     },
     {
-      "title": "テレ東社長、ＮＨＫ番組のネトフリ配信巡り「自制的であるべきではないか」「お金の掛",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "草間彌生",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "はやぶさ2が目指す小惑星、旧ソ連の探査機である可能性",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "東大卒コンビ・無尽蔵のコラム連載「尽き無い思考」／第39回(野尻)「『思想強い』",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "東浩紀、常見陽平の日当はどこから？｜モバイルプリンス日記",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "新潟の弁当屋で“弁当200個”が無断キャンセルされた件で、新たな事実が判明… 電",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「扁桃腺付近をシャワーで洗浄してほしい」イケメンや美女の口からも匂うことがある「",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "大学で、テストにペンを忘れた女の子が「貸してくれませんか」と話しかけてきたが、そ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "出雲大社でこのしめ縄を見て『これかー！』って満足して帰っちゃう人、意外といません",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "今夜、秘密のキッチンで",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
