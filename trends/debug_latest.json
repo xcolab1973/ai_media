@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T15:07:00+09:00",
+  "generated_at": "2026-06-05T20:00:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
+    "neg_excluded": 7,
     "dedup_excluded": 11,
-    "passed_total": 116,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 34,
       "google_trends": 10,
-      "x_realtime": 9,
+      "x_realtime": 7,
       "news_web": 14,
-      "yahoo_news_ranking": 2
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
+    "social_reaction": 29,
     "personal_story": 3,
-    "social_reaction": 26,
     "medical_science": 8,
     "opinion": 10,
-    "policy": 6,
-    "hard_fact": 17
+    "policy": 9,
+    "hard_fact": 11
   },
   "b2b_topic_category_counts": {
-    "medical_science": 4,
-    "policy": 7,
+    "policy": 10,
+    "medical_science": 2,
     "opinion": 10,
-    "social_reaction": 26,
+    "social_reaction": 29,
     "personal_story": 3,
-    "hard_fact": 20
+    "hard_fact": 16
   },
   "b2b_top10": [
+    {
+      "title": "【無料公開中】高市首相公設第一秘書・木下剛志氏の「Zoom会議音声」《高市首相は",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
     {
       "title": "東大の男子博士院生が学会発表で数量解析の報告をしたが、フロアから質問が出ずに時間",
       "source_category": "yahoo_realtime",
@@ -51,55 +57,49 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "［社説］社会保障を揺るがす消費税減税は再考を - 日本経済新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "川村葉音",
+      "title": "ラウール",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "長 友佑 都",
+      "title": "イコラブ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "jal mobile ahamo",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ご飯を食べに行ったら、コースのデザートが「バナナ」だったが、出てきたのがこれ… ",
+      "title": "アメリカでは「豆腐＝ヴィーガンが食べるもの」としてまずいレシピとともに広まってい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "高知中央高校",
+      "title": "一軒家の借家に住んでいるが電話で突然「オーナーが変わったから退去をお願いできない",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "電気自動車",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "城島 茂",
+      "title": "山田杏奈",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "伊藤かずえ",
+      "title": "国宝 映画",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "国分 太一",
+      "title": "北陸自動車道",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,13 +107,25 @@
   ],
   "note_top10": [
     {
+      "title": "アメリカでは「豆腐＝ヴィーガンが食べるもの」としてまずいレシピとともに広まってい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "5児の母親が小1の次女に「パパすぐ怒るし、こわいじゃん。なのになんでパパと結婚し",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "ご飯を食べに行ったら、コースのデザートが「バナナ」だったが、出てきたのがこれ… ",
+      "title": "一軒家の借家に住んでいるが電話で突然「オーナーが変わったから退去をお願いできない",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "うちの会社の部長、よくくしゃみをする。",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,43 +137,31 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "ジェイソン・ステイサムがジェイソン・ステイサム役の映画『ジェイソン・ステイサムが",
+      "title": "六巻予告『伊能 死す』【サンキューピッチ第6巻発売記念PV】【声：上田瞳】",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "“データ復旧率95.2%”信じ、業者と「費用10万円超+月5万円」プラン契約も守",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "実家のイッヌが死にそうだと連絡があり、下道6時間かけて帰ったらバチクソ尻尾振って",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "芥川賞作家を在宅起訴、辺野古フェンス器物損壊罪で　那覇地検",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "俺はもっと「外国の人が日常的に食ってるどうでもいい飯が見たい」→各国の「どうでも",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "高市内閣支持率、若年層が初の50％割れ　止まらぬ物価高が背景 | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "会社で事務作業をしていたら画面に謎のボタン...「先輩なんですこれ」と聞いたらと",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "高市総理　文春公開の音声データ「確認した。あのような音声を元に判断することは難し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「マイケル」よくできた伝記映画か　不都合から目を背ける仮想世界か：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "横浜・伊勢佐木町のスープカリー店「アルペンジロー」に学ぶ、 常連客を離さないLI",
+      "title": "京急、ナフサ不足に対応 電車の塗装工程を省略、供給難の影響が交通機関に | カナ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
