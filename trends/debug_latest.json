@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T00:44:00+09:00",
+  "generated_at": "2026-06-06T07:45:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,34 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
+    "neg_excluded": 14,
     "dedup_excluded": 9,
-    "passed_total": 113,
+    "passed_total": 109,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
+      "yahoo_realtime": 32,
       "google_trends": 10,
       "x_realtime": 8,
       "yahoo_news_ranking": 3,
-      "news_web": 13
+      "news_web": 17
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "personal_story": 4,
+    "social_reaction": 28,
+    "analysis": 1,
     "opinion": 9,
+    "personal_story": 3,
     "medical_science": 7,
-    "policy": 7,
-    "hard_fact": 13
+    "policy": 5,
+    "hard_fact": 17
   },
   "b2b_topic_category_counts": {
-    "policy": 9,
+    "policy": 7,
     "opinion": 9,
-    "social_reaction": 30,
-    "hard_fact": 15,
-    "personal_story": 4,
-    "medical_science": 3
+    "analysis": 1,
+    "social_reaction": 28,
+    "medical_science": 3,
+    "hard_fact": 19,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
@@ -51,55 +53,55 @@
       "topic_category": "policy"
     },
     {
-      "title": "渋川難波",
+      "title": "市川團子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "大学の授業で「興味のないものを100枚撮る」という課題の講評が行われたが、とある",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "鈴木淳之介",
+      "title": "黒木啓司",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "庄司浩平",
+      "title": "鈴木誠也",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "高橋光臣",
+      "title": "松丸亮吾",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "是枝監督",
+      "title": "フォートナイト",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "長野県 地震",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "賀来賢人 奥さん",
+      "title": "診療報酬",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "木村多江",
+      "title": "今田美桜",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "天安門事件とは",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "analysis"
+    },
+    {
+      "title": "永瀬廉",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,19 +109,31 @@
   ],
   "note_top10": [
     {
-      "title": "大学の授業で「興味のないものを100枚撮る」という課題の講評が行われたが、とある",
+      "title": "映画化を見据えて小説を評価する世にも珍しい職業「プロの読書家」の仕事と苦労とは？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "子供にバレエを教えていて、「最近の子はいまいち覚えとかリズム感がなあ…」と思って",
+      "title": "天安門事件とは",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "analysis"
+    },
+    {
+      "title": "「本当に終わった」28歳投資家が評価損益\"−726万円\"の資産画面を公開し反響…",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "アメリカでは「豆腐＝ヴィーガンが食べるもの」としてまずいレシピとともに広まってい",
+      "title": "Netflix映画「超かぐや姫！」酒寄彩葉を描いた矢吹健太朗先生が「一人にするの",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「握力を鍛えると健康になって寿命が延びる」という主張は本当なのか？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -131,40 +145,28 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "5児の母親が小1の次女に「パパすぐ怒るし、こわいじゃん。なのになんでパパと結婚し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "高市総理は秘書から「キレられました」“誹謗中傷動画”作成疑惑　音声確認の上で「本",
+      "title": "アメリカでは「豆腐＝ヴィーガンが食べるもの」としてまずいレシピとともに広まってい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "市川團子",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "黒木啓司",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "なぜフェスで量産型ライブキッズファッションが生まれるのか？心理学・社会学の研究か",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
-    },
-    {
-      "title": "看護師さんに『漢方飲む時はココアがいいわよ～』と言われたので試してみたら、ほんと",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「探偵感ない？」 後輩がマチアプで出会った男のスマホでYouTube視聴→オムツ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「胴元が健全であることは大事」 イタリア競馬と日本競馬の対比が話題に、国営のため",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
     }
   ]
 }
