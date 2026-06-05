@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T07:55:00+09:00",
+  "generated_at": "2026-06-05T15:07:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 8,
-    "passed_total": 118,
+    "neg_excluded": 5,
+    "dedup_excluded": 11,
+    "passed_total": 116,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "news_web": 11,
-      "x_realtime": 10,
+      "x_realtime": 9,
+      "news_web": 14,
       "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "personal_story": 2,
+    "personal_story": 3,
+    "social_reaction": 26,
+    "medical_science": 8,
     "opinion": 10,
-    "medical_science": 7,
-    "policy": 9,
-    "hard_fact": 13
+    "policy": 6,
+    "hard_fact": 17
   },
   "b2b_topic_category_counts": {
-    "policy": 10,
-    "social_reaction": 29,
+    "medical_science": 4,
+    "policy": 7,
     "opinion": 10,
-    "hard_fact": 16,
-    "medical_science": 3,
-    "personal_story": 2
+    "social_reaction": 26,
+    "personal_story": 3,
+    "hard_fact": 20
   },
   "b2b_top10": [
+    {
+      "title": "東大の男子博士院生が学会発表で数量解析の報告をしたが、フロアから質問が出ずに時間",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
     {
       "title": "［社説］社会保障を揺るがす消費税減税は再考を - 日本経済新聞",
       "source_category": "yahoo_realtime",
@@ -51,55 +57,49 @@
       "topic_category": "policy"
     },
     {
-      "title": "Claudeを学ぶな、「仕事の言語化能力」を磨け — 陳腐化しない学習法",
+      "title": "川村葉音",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "長 友佑 都",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "jal mobile ahamo",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ご飯を食べに行ったら、コースのデザートが「バナナ」だったが、出てきたのがこれ… ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "草間彌生",
+      "title": "高知中央高校",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "今夜、秘密のキッチンで",
+      "title": "城島 茂",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "相葉雅紀 嵐活動終了後初の連ドラ",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "西野亮廣",
+      "title": "伊藤かずえ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "後藤啓介",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "村上穂乃佳",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "石原裕次郎",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ナガノ",
+      "title": "国分 太一",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +107,64 @@
   ],
   "note_top10": [
     {
-      "title": "Claudeを学ぶな、「仕事の言語化能力」を磨け — 陳腐化しない学習法",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「鳥皮は昔捨てる部位だった」と毎回話す高齢者がついに「この話前にもしましたかね？",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「そんな...嘘だと言ってくれよ...」使って3か月も満たない本格ニッパーが折れ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「山椒の実は普段の料理を進化させる可能性を秘めてるから試してみてほしい」→オイル",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "自宅で寝ていたら知らないおじさんに首を絞められ...逃げたので追いかけてボコボコ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "フードロスを強引に解決するために消費期限を「TODAY()+3」にしました、これ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「一番やりにくいのが小6女子」塾講を少しやってみて、男子生徒はやりやすい一方で、",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "酒の席で同席した方と銀英伝を語り合った時、「ラベル付きの酒瓶」に対する「貴族が飲",
+      "title": "5児の母親が小1の次女に「パパすぐ怒るし、こわいじゃん。なのになんでパパと結婚し",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
     },
     {
-      "title": "草間彌生",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "ご飯を食べに行ったら、コースのデザートが「バナナ」だったが、出てきたのがこれ… ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "今夜、秘密のキッチンで",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "東大の男子博士院生が学会発表で数量解析の報告をしたが、フロアから質問が出ずに時間",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "ジェイソン・ステイサムがジェイソン・ステイサム役の映画『ジェイソン・ステイサムが",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "“データ復旧率95.2%”信じ、業者と「費用10万円超+月5万円」プラン契約も守",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "芥川賞作家を在宅起訴、辺野古フェンス器物損壊罪で　那覇地検",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "高市内閣支持率、若年層が初の50％割れ　止まらぬ物価高が背景 | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "高市総理　文春公開の音声データ「確認した。あのような音声を元に判断することは難し",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「マイケル」よくできた伝記映画か　不都合から目を背ける仮想世界か：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "横浜・伊勢佐木町のスープカリー店「アルペンジロー」に学ぶ、 常連客を離さないLI",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ]
 }
