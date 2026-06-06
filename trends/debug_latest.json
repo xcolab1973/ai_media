@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T14:40:00+09:00",
+  "generated_at": "2026-06-06T18:49:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,118 +16,124 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
+    "neg_excluded": 9,
     "dedup_excluded": 12,
-    "passed_total": 110,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
+      "x_realtime": 8,
+      "yahoo_realtime": 30,
+      "news_web": 19,
       "google_trends": 10,
-      "x_realtime": 6,
-      "news_web": 16,
-      "yahoo_news_ranking": 4
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 27,
+    "social_reaction": 29,
     "opinion": 10,
-    "personal_story": 3,
-    "medical_science": 7,
-    "policy": 5,
-    "hard_fact": 18
+    "personal_story": 2,
+    "medical_science": 4,
+    "hard_fact": 21,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "policy": 5,
-    "social_reaction": 27,
+    "social_reaction": 28,
+    "hard_fact": 24,
     "opinion": 10,
-    "medical_science": 3,
-    "hard_fact": 22,
-    "personal_story": 3
+    "policy": 4,
+    "medical_science": 2,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "［社説］大阪都構想は奇策を弄するな - 日本経済新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "娘は修学旅行を楽しみにしてたが、突然、決められた班のメンバーではなく好きな友達と",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "孫が下校中、名前も知らない上級生に後頭部を石で殴られ病院に… 大きなたん瘤と出血",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "明治大学を中退したと言っていた父親が認知症の検査で最終学歴を聞かれたときに「中学",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "池田匡志",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "jo1",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ini",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "fc東京",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ディーンフジオカ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "菅井友香",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    }
-  ],
-  "note_top10": [
-    {
-      "title": "スーパーに行っても汗臭い人が多すぎ…洗濯機を掃除して「クエン酸in超消臭」使って",
+      "title": "飛行機で女性の荷物を上げるのを手伝ったら、CAが女性に「一人で持ち上げられないお",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "娘は修学旅行を楽しみにしてたが、突然、決められた班のメンバーではなく好きな友達と",
+      "title": "未完の夢に終わった東急線と京急線を結ぶ連絡線構想　横浜・野毛に新駅誕生の可能性も",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "孫が下校中、名前も知らない上級生に後頭部を石で殴られ病院に… 大きなたん瘤と出血",
+      "title": "訪日客誘致巡り批判 廃止の動きも",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_domestic",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "孫が下校中に名前も知らない上級生から後頭部を石で殴られた件に続報… 加害した理由",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "明治大学を中退したと言っていた父親が認知症の検査で最終学歴を聞かれたときに「中学",
+      "title": "亜希",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "川崎f 対 広島",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "半導体",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "プリキュア",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "相川七瀬",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "サハラ砂漠で旅行者を乗せたトラックが故障し、49人が死亡したニュース 生還者が助",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    }
+  ],
+  "note_top10": [
+    {
+      "title": "飛行機で女性の荷物を上げるのを手伝ったら、CAが女性に「一人で持ち上げられないお",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "孫が下校中に名前も知らない上級生から後頭部を石で殴られた件に続報… 加害した理由",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "未完の夢に終わった東急線と京急線を結ぶ連絡線構想　横浜・野毛に新駅誕生の可能性も",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ヤマト運輸さんが荷物を宅配ボックスに入れられなかった理由がこれ→可愛すぎるし優し",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "介護現場に顔を出さない上司が同僚についてネガティブな話を振ってきたとき、利用者さ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -137,33 +143,27 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "新築の上棟の時の差し入れで「スターバックスのコーヒー、ポットサービスが人気だった",
+      "title": "一部の猛烈な反対でスタバが“出店辞退”　ただ市民の約8割がカフェを望み市が設置を",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ほうれん草、安くなっている理由が明確で安心「正直でよろしいｗ」「ボディビル大会の",
+      "title": "ウクライナ、ポーランドとの和解模索 第2次大戦時の民間人虐殺めぐり対立",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "外国人の入居者に「日本は外国人に対してどんどん厳しくなっている。このままだと日本",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "｢今はゴミ屋敷に住んでいる｣小6で3000冊を読破した神童→\"社会性の欠如\"自覚",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "工場に居座った“賢いクマ”、前足で蛇口ひねり水を飲む　窓をスライドさせ逃走　各地",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "通勤時間、最適な長さはどれくらい？　米研究では「44分」が分岐点 - 日本経済新",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "隣の部屋には今誰も住んでいないはずなのになぜかドアに騒音に対する苦情の張り紙、遠",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
