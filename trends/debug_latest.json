@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T07:45:00+09:00",
+  "generated_at": "2026-06-06T14:40:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,92 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 14,
-    "dedup_excluded": 9,
-    "passed_total": 109,
+    "neg_excluded": 10,
+    "dedup_excluded": 12,
+    "passed_total": 110,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
+      "yahoo_realtime": 34,
       "google_trends": 10,
-      "x_realtime": 8,
-      "yahoo_news_ranking": 3,
-      "news_web": 17
+      "x_realtime": 6,
+      "news_web": 16,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "analysis": 1,
-    "opinion": 9,
+    "social_reaction": 27,
+    "opinion": 10,
     "personal_story": 3,
     "medical_science": 7,
     "policy": 5,
-    "hard_fact": 17
+    "hard_fact": 18
   },
   "b2b_topic_category_counts": {
-    "policy": 7,
-    "opinion": 9,
-    "analysis": 1,
-    "social_reaction": 28,
+    "policy": 5,
+    "social_reaction": 27,
+    "opinion": 10,
     "medical_science": 3,
-    "hard_fact": 19,
+    "hard_fact": 22,
     "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "【無料公開中】高市首相公設第一秘書・木下剛志氏の「Zoom会議音声」《高市首相は",
+      "title": "［社説］大阪都構想は奇策を弄するな - 日本経済新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "市川團子",
+      "title": "娘は修学旅行を楽しみにしてたが、突然、決められた班のメンバーではなく好きな友達と",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "孫が下校中、名前も知らない上級生に後頭部を石で殴られ病院に… 大きなたん瘤と出血",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "明治大学を中退したと言っていた父親が認知症の検査で最終学歴を聞かれたときに「中学",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "池田匡志",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "黒木啓司",
+      "title": "jo1",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "鈴木誠也",
+      "title": "ini",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "松丸亮吾",
+      "title": "fc東京",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "フォートナイト",
+      "title": "ディーンフジオカ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "診療報酬",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "今田美桜",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "天安門事件とは",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "analysis"
-    },
-    {
-      "title": "永瀬廉",
+      "title": "菅井友香",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -109,64 +107,64 @@
   ],
   "note_top10": [
     {
-      "title": "映画化を見据えて小説を評価する世にも珍しい職業「プロの読書家」の仕事と苦労とは？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "天安門事件とは",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "analysis"
-    },
-    {
-      "title": "「本当に終わった」28歳投資家が評価損益\"−726万円\"の資産画面を公開し反響…",
+      "title": "スーパーに行っても汗臭い人が多すぎ…洗濯機を掃除して「クエン酸in超消臭」使って",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "Netflix映画「超かぐや姫！」酒寄彩葉を描いた矢吹健太朗先生が「一人にするの",
+      "title": "娘は修学旅行を楽しみにしてたが、突然、決められた班のメンバーではなく好きな友達と",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "孫が下校中、名前も知らない上級生に後頭部を石で殴られ病院に… 大きなたん瘤と出血",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "明治大学を中退したと言っていた父親が認知症の検査で最終学歴を聞かれたときに「中学",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "MADE IN YAMATO - 第１話　残業とスクワット | ヤンマガWeb",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "新築の上棟の時の差し入れで「スターバックスのコーヒー、ポットサービスが人気だった",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ほうれん草、安くなっている理由が明確で安心「正直でよろしいｗ」「ボディビル大会の",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「握力を鍛えると健康になって寿命が延びる」という主張は本当なのか？",
+      "title": "｢今はゴミ屋敷に住んでいる｣小6で3000冊を読破した神童→\"社会性の欠如\"自覚",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "うちの会社の部長、よくくしゃみをする。",
+      "title": "工場に居座った“賢いクマ”、前足で蛇口ひねり水を飲む　窓をスライドさせ逃走　各地",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "アメリカでは「豆腐＝ヴィーガンが食べるもの」としてまずいレシピとともに広まってい",
+      "title": "通勤時間、最適な長さはどれくらい？　米研究では「44分」が分岐点 - 日本経済新",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "市川團子",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "黒木啓司",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "なぜフェスで量産型ライブキッズファッションが生まれるのか？心理学・社会学の研究か",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
     }
   ]
 }
