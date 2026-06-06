@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T18:49:00+09:00",
+  "generated_at": "2026-06-06T23:21:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,29 +16,29 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 12,
-    "passed_total": 111,
+    "neg_excluded": 11,
+    "dedup_excluded": 9,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "x_realtime": 8,
-      "yahoo_realtime": 30,
-      "news_web": 19,
+      "yahoo_realtime": 31,
       "google_trends": 10,
-      "yahoo_news_ranking": 3
+      "news_web": 17,
+      "x_realtime": 8,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
+    "social_reaction": 31,
     "opinion": 10,
     "personal_story": 2,
-    "medical_science": 4,
-    "hard_fact": 21,
-    "policy": 4
+    "medical_science": 5,
+    "policy": 4,
+    "hard_fact": 18
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
-    "hard_fact": 24,
+    "social_reaction": 29,
     "opinion": 10,
+    "hard_fact": 23,
     "policy": 4,
     "medical_science": 2,
     "personal_story": 2
@@ -46,8 +46,20 @@
   "b2b_top10": [
     {
       "title": "飛行機で女性の荷物を上げるのを手伝ったら、CAが女性に「一人で持ち上げられないお",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「男子中学生の恐ろしさを知った」友達と出かけると言った子供が線路のない場所を移動",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "トランプ氏の宴会場建設責任者、ロシアで古都サンクトペテルブルクの建築から着想得た",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -57,63 +69,57 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "訪日客誘致巡り批判 廃止の動きも",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "孫が下校中に名前も知らない上級生から後頭部を石で殴られた件に続報… 加害した理由",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "亜希",
+      "title": "アンジェラアキ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "川崎f 対 広島",
+      "title": "キタニタツヤ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "半導体",
+      "title": "小手伸也",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "プリキュア",
+      "title": "サッカー日本代表 ユニフォーム",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "相川七瀬",
+      "title": "日本代表 ユニフォーム",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "サハラ砂漠で旅行者を乗せたトラックが故障し、49人が死亡したニュース 生還者が助",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "title": "ガイアフォース",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
       "title": "飛行機で女性の荷物を上げるのを手伝ったら、CAが女性に「一人で持ち上げられないお",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "孫が下校中に名前も知らない上級生から後頭部を石で殴られた件に続報… 加害した理由",
+      "title": "「男子中学生の恐ろしさを知った」友達と出かけると言った子供が線路のない場所を移動",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "トランプ氏の宴会場建設責任者、ロシアで古都サンクトペテルブルクの建築から着想得た",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,46 +131,40 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ヤマト運輸さんが荷物を宅配ボックスに入れられなかった理由がこれ→可愛すぎるし優し",
+      "title": "不動産屋の営業だが、売却査定で住宅を訪問したら、敷地内から道路に車がはみ出して駐",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "介護現場に顔を出さない上司が同僚についてネガティブな話を振ってきたとき、利用者さ",
+      "title": "東京の一極集中…弁護士業界では全国8弁護士会で新人ゼロとなる事態に→新人が地方へ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "MADE IN YAMATO - 第１話　残業とスクワット | ヤンマガWeb",
+      "title": "新連載マンガ『MADE IN YAMATO』ヤバい筋トレ愛OL大和さんの日常を描",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "化粧室で背後から、「おちんちん下に向けた！？」という子供を連れたママの悲鳴が聞こ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "約4000年前の古代都市モヘンジョダロでは都市が発展するほど格差が小さくなってい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "一部の猛烈な反対でスタバが“出店辞退”　ただ市民の約8割がカフェを望み市が設置を",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ウクライナ、ポーランドとの和解模索 第2次大戦時の民間人虐殺めぐり対立",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "外国人の入居者に「日本は外国人に対してどんどん厳しくなっている。このままだと日本",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "隣の部屋には今誰も住んでいないはずなのになぜかドアに騒音に対する苦情の張り紙、遠",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "子育て",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
