@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T07:41:00+09:00",
+  "generated_at": "2026-06-07T15:08:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,35 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 9,
+    "neg_excluded": 5,
+    "dedup_excluded": 12,
     "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
+      "yahoo_realtime": 36,
       "google_trends": 10,
-      "news_web": 15,
-      "x_realtime": 8
+      "x_realtime": 7,
+      "news_web": 16,
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
-    "medical_science": 5,
-    "opinion": 10,
-    "personal_story": 1,
-    "hard_fact": 15,
-    "policy": 7
-  },
-  "b2b_topic_category_counts": {
-    "social_reaction": 32,
+    "social_reaction": 33,
     "opinion": 10,
     "medical_science": 3,
-    "hard_fact": 17,
-    "policy": 7,
-    "personal_story": 1
+    "policy": 5,
+    "hard_fact": 19
+  },
+  "b2b_topic_category_counts": {
+    "social_reaction": 33,
+    "policy": 5,
+    "opinion": 10,
+    "hard_fact": 20,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "「男子中学生の恐ろしさを知った」友達と出かけると言った子供が線路のない場所を移動",
+      "title": "京都で行方不明になった米国人学生、遺体で発見　捜索の末",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "最大20倍の運賃値上げ高すぎる？　秘境走る大井川鉄道の魅力と課題：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -56,49 +61,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "トランプ氏の宴会場建設責任者、ロシアで古都サンクトペテルブルクの建築から着想得た",
+      "title": "れいわ奥田芙美代氏“5文字”連呼で政府方針を猛批判「不適切な言辞」注意に「どの言",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "「妻はドラマを見るのが好きだけど、自分はしんどくなっていた」ある日、一気見できる",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "親族から「20歳上のバツイチ従兄弟と結婚しろ」と執拗に強要され、絶縁を決断した女",
+      "title": "金",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "中村獅童",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ブラジル駐在していた祖父の遺品がやばすぎる、絶対今だったら許されていない「拡大し",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "柄本佑",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "なぜか外堀の水の透明度が上がって堀の底が見えている「台風で流された？」「千代田区",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "アレクサンデル・イサク",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ブラジル代表",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "スズキ・ジムニー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "佐久間由衣",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "パラオ",
+      "title": "ウォロディミル・ゼレンスキー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,63 +105,63 @@
   ],
   "note_top10": [
     {
+      "title": "京都で行方不明になった米国人学生、遺体で発見　捜索の末",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "最大20倍の運賃値上げ高すぎる？　秘境走る大井川鉄道の魅力と課題：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "スクワットよりラクでウォーキングより効果的…1日たった5回×2で血糖値がみるみる",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「男子中学生の恐ろしさを知った」友達と出かけると言った子供が線路のない場所を移動",
+      "title": "「妻はドラマを見るのが好きだけど、自分はしんどくなっていた」ある日、一気見できる",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "トランプ氏の宴会場建設責任者、ロシアで古都サンクトペテルブルクの建築から着想得た",
+      "title": "ブラジル駐在していた祖父の遺品がやばすぎる、絶対今だったら許されていない「拡大し",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "親族から「20歳上のバツイチ従兄弟と結婚しろ」と執拗に強要され、絶縁を決断した女",
+      "title": "「本気で今年のベストバイかも」「夏のパジャマ全部これにしたい」無印良品の『着るタ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "不動産屋の営業だが、売却査定で住宅を訪問したら、敷地内から道路に車がはみ出して駐",
+      "title": "spam",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "頭の形が… 身長が… 子育ての心配ごと あおる情報 本当は？ | NHKニュース",
+      "title": "スパム",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ダイエットは「減らす」より、体のリズムを整えるほうが続きやすい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "鶏むね肉のペッパーステーキ｜樋口直哉(TravelingFoodLab.)",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「『どうかこのまま死んでくれ』と思った矛盾で溢れた愛情」出生前診断が陽性だった場",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "蒸し暑い日に食欲が消える問題、レモンで解決する家メシまとめ - メシ通 | ホッ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "約4000年前の古代都市モヘンジョダロでは都市が発展するほど格差が小さくなってい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "6月末で退職したい旨を人事に連絡したら、人事から返事はないものの恐らく上司にも伝",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
