@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T19:17:00+09:00",
+  "generated_at": "2026-06-07T23:43:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,32 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
+    "neg_excluded": 9,
     "dedup_excluded": 11,
-    "passed_total": 115,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
-      "news_web": 14,
+      "yahoo_realtime": 33,
       "google_trends": 10,
-      "yahoo_news_ranking": 3,
-      "x_realtime": 7
+      "x_realtime": 7,
+      "yahoo_news_ranking": 5,
+      "news_web": 15
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "personal_story": 2,
+    "social_reaction": 28,
+    "personal_story": 1,
     "opinion": 10,
     "medical_science": 3,
-    "hard_fact": 17,
-    "policy": 5
+    "hard_fact": 18,
+    "policy": 10
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 32,
-    "hard_fact": 18,
+    "social_reaction": 28,
     "opinion": 10,
+    "personal_story": 1,
+    "hard_fact": 18,
     "medical_science": 3,
-    "policy": 5,
-    "personal_story": 2
+    "policy": 10
   },
   "b2b_top10": [
     {
@@ -51,58 +51,58 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "エボラ陰謀論も 偽情報対策が課題",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
       "title": "京都で行方不明になった米国人学生、遺体で発見　捜索の末",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "スクワットよりラクでウォーキングより効果的…1日たった5回×2で血糖値がみるみる",
+      "title": "情熱大陸",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "年に一度大金をはたいて旅行に行く代わり、それ以外は「普段ノーメイク」「服は4着」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "竹内涼真",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "年収300万の夫を持つ専業主婦の友達が子育てできているから、共働きで年収それなり",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
-      "title": "高橋成美",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "岸谷蘭丸",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "岸谷五朗",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "夏風邪と似た症状 過敏性肺炎注意",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_science",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "息子が小1のときの担任は算数が専門で、最初の保護者会で「家事を何か1つ完全に任せ",
+      "title": "兄は難関医学部卒でイケメンなうえ、優しいし浮気もしないというバグみたいな男だが、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "10回切って倒れない木はない 最終回",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "アレクサンダー・ズベレフ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "本並健治",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "チュニジア",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
@@ -113,10 +113,10 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "スクワットよりラクでウォーキングより効果的…1日たった5回×2で血糖値がみるみる",
+      "title": "年収300万の夫を持つ専業主婦の友達が子育てできているから、共働きで年収それなり",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
       "title": "京都で行方不明になった米国人学生、遺体で発見　捜索の末",
@@ -125,45 +125,45 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "年収300万の夫を持つ専業主婦の友達が子育てできているから、共働きで年収それなり",
+      "title": "年に一度大金をはたいて旅行に行く代わり、それ以外は「普段ノーメイク」「服は4着」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "兄は難関医学部卒でイケメンなうえ、優しいし浮気もしないというバグみたいな男だが、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『漫画で分かる山王祭』という冊子をもらったが、これ画力が明らかに素人ではない…→",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "息子が小1のときの担任は算数が専門で、最初の保護者会で「家事を何か1つ完全に任せ",
+      "title": "【小惑星リュウグウで未知の巨大有機物を発見】JAXA探査機はやぶさ2が地球に持ち",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "宿でいっしょになったイギリス人に「日本旅行で最高にうまいものを食ったが、あれは何",
+      "title": "白饅頭日誌：6月7日「真面目に働いたら負けすぎる国」｜白饅頭",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「妻はドラマを見るのが好きだけど、自分はしんどくなっていた」ある日、一気見できる",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "昔、老人ホームのお遊戯的な催しが嫌だとお年寄りがよく言っていたが「高齢者向けゲー",
+      "title": "メダルゲームを遊んでいると小さな子に代わって欲しいと頼まれたが、困っていると泣き",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "仲良くなった外国人とたまに『いかに自国が終わってるか』という自虐話をするが、日本",
+      "title": "店でポケモンカードのパックを購入する際、転売防止ポケモンクイズを初めて受けること",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「本気で今年のベストバイかも」「夏のパジャマ全部これにしたい」無印良品の『着るタ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
