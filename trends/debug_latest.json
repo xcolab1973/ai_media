@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T15:08:00+09:00",
+  "generated_at": "2026-06-07T19:17:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,40 +16,48 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 12,
+    "neg_excluded": 6,
+    "dedup_excluded": 11,
     "passed_total": 115,
     "b2b_category_counts": {
       "yahoo_realtime": 36,
+      "news_web": 14,
       "google_trends": 10,
-      "x_realtime": 7,
-      "news_web": 16,
-      "yahoo_news_ranking": 1
+      "yahoo_news_ranking": 3,
+      "x_realtime": 7
     }
   },
   "note_category_counts": {
     "social_reaction": 33,
+    "personal_story": 2,
+    "opinion": 10,
+    "medical_science": 3,
+    "hard_fact": 17,
+    "policy": 5
+  },
+  "b2b_topic_category_counts": {
+    "social_reaction": 32,
+    "hard_fact": 18,
     "opinion": 10,
     "medical_science": 3,
     "policy": 5,
-    "hard_fact": 19
-  },
-  "b2b_topic_category_counts": {
-    "social_reaction": 33,
-    "policy": 5,
-    "opinion": 10,
-    "hard_fact": 20,
-    "medical_science": 2
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "京都で行方不明になった米国人学生、遺体で発見　捜索の末",
+      "title": "宇都宮市のアーケード街にクマ出没、歩行者の前を横切る《動画あり》（下野新聞デジタ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "最大20倍の運賃値上げ高すぎる？　秘境走る大井川鉄道の魅力と課題：朝日新聞",
+      "title": "エボラ陰謀論も 偽情報対策が課題",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "京都で行方不明になった米国人学生、遺体で発見　捜索の末",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -61,57 +69,45 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "れいわ奥田芙美代氏“5文字”連呼で政府方針を猛批判「不適切な言辞」注意に「どの言",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "title": "竹内涼真",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "「妻はドラマを見るのが好きだけど、自分はしんどくなっていた」ある日、一気見できる",
+      "title": "高橋成美",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "岸谷蘭丸",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "岸谷五朗",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "夏風邪と似た症状 過敏性肺炎注意",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_science",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "息子が小1のときの担任は算数が専門で、最初の保護者会で「家事を何か1つ完全に任せ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "金",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "中村獅童",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ブラジル駐在していた祖父の遺品がやばすぎる、絶対今だったら許されていない「拡大し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "なぜか外堀の水の透明度が上がって堀の底が見えている「台風で流された？」「千代田区",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ウォロディミル・ゼレンスキー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "京都で行方不明になった米国人学生、遺体で発見　捜索の末",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "最大20倍の運賃値上げ高すぎる？　秘境走る大井川鉄道の魅力と課題：朝日新聞",
+      "title": "宇都宮市のアーケード街にクマ出没、歩行者の前を横切る《動画あり》（下野新聞デジタ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -123,45 +119,51 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "京都で行方不明になった米国人学生、遺体で発見　捜索の末",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "年収300万の夫を持つ専業主婦の友達が子育てできているから、共働きで年収それなり",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "息子が小1のときの担任は算数が専門で、最初の保護者会で「家事を何か1つ完全に任せ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "宿でいっしょになったイギリス人に「日本旅行で最高にうまいものを食ったが、あれは何",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "「妻はドラマを見るのが好きだけど、自分はしんどくなっていた」ある日、一気見できる",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ブラジル駐在していた祖父の遺品がやばすぎる、絶対今だったら許されていない「拡大し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "昔、老人ホームのお遊戯的な催しが嫌だとお年寄りがよく言っていたが「高齢者向けゲー",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "仲良くなった外国人とたまに『いかに自国が終わってるか』という自虐話をするが、日本",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "「本気で今年のベストバイかも」「夏のパジャマ全部これにしたい」無印良品の『着るタ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "spam",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "スパム",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「『どうかこのまま死んでくれ』と思った矛盾で溢れた愛情」出生前診断が陽性だった場",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "6月末で退職したい旨を人事に連絡したら、人事から返事はないものの恐らく上司にも伝",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
