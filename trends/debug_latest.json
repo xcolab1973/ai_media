@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T01:40:00+09:00",
+  "generated_at": "2026-06-09T08:02:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 8,
-    "passed_total": 114,
+    "neg_excluded": 7,
+    "dedup_excluded": 10,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
+      "x_realtime": 7,
+      "news_web": 11,
       "google_trends": 10,
-      "news_web": 12,
-      "x_realtime": 8,
-      "yahoo_news_ranking": 6
+      "yahoo_realtime": 37,
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
     "social_reaction": 25,
-    "hard_fact": 18,
+    "personal_story": 3,
     "opinion": 10,
-    "medical_science": 4,
-    "personal_story": 2,
+    "medical_science": 5,
+    "hard_fact": 16,
     "policy": 11
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 18,
-    "policy": 11,
-    "opinion": 10,
     "social_reaction": 25,
+    "hard_fact": 17,
+    "opinion": 10,
     "medical_science": 4,
-    "personal_story": 2
+    "personal_story": 3,
+    "policy": 11
   },
   "b2b_top10": [
     {
-      "title": "「ポケモンカード」購入にマイナンバーカード導入へ　公式が発表　転売対策に効果期待",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "「転職したタイミングで妊娠しており、半年後に産休からの二人目連続育休」というパタ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "多すぎる恋と殺人",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "手越祐也",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "オリギ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ちゃんみな のどの不調で療養へ",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_entertainment",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "とらのあなは「愛」を失った経営判断を下していったがゆえに今の惨状があるのではない",
+      "title": "三菱UFJ銀行が『PPAP』を原則廃止するが本質的になにも変わってなくて草生える",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ラーメンを食べて駅まで走ったら、突然意識を失って倒れた」これは怪奇現象ではなく",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "medical_science"
+      "title": "巨人が夏対策 東京D空調4℃上げ",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "板倉滉",
+      "title": "ブルージェイズ 対 フィリーズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "セブンイレブン モンチッチ",
+      "title": "ワールドカップ 日程",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "オリオールズ 対 マリナーズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「ラーメンを食べて駅まで走ったら、突然意識を失って倒れた」これは怪奇現象ではなく",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "実家近くの空き家を見に行ったら、家はまだ新しいのできれいだし家具もそのまま使って",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "ヒロイン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "バンクオブアメリカ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ワールドカップ 放送",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,34 +107,34 @@
   ],
   "note_top10": [
     {
-      "title": "とらのあなは「愛」を失った経営判断を下していったがゆえに今の惨状があるのではない",
+      "title": "三菱UFJ銀行が『PPAP』を原則廃止するが本質的になにも変わってなくて草生える",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ミュージカル『セーラームーン』が謝罪・音源変更へ　作曲家からの指摘を受け異例のス",
+      "title": "実家近くの空き家を見に行ったら、家はまだ新しいのできれいだし家具もそのまま使って",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "日本の出生率、東アジアで最高に。一部の西洋諸国も上回る（他の国が勝手に、それ以上",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "外構屋の若手従業員が黙って仮設トイレを使ったので、「一言声を掛けろ」と諭すも「あ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "空飛ぶクルマ「ヘリコプターの半額めざす」　スカイドライブ、28年にも商用化 - ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「美味すぎる」と投稿されたプロテインの写真がどう見ても浮いていて『バイオハザード",
+      "title": "「一番の償いは私たちの死のみ」旭川の女子高校生殺人事件、内田被告に懲役27年を求",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "小学校で行われた「新1年生が学ぶ踏切の渡り方」のニュース、サムネイルが面白すぎて",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
       "title": "目標が立てられないのは欠点じゃない！動きながら進むキャリアの作り方 - STUD",
@@ -143,28 +143,28 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ネガティブ動画を総裁選1500本、衆院選1万本　福岡拠点に作成、IT会社代表【一",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "ブルージェイズ 対 フィリーズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "高市氏側から相談で「ネガティブな発信を提案」　共同通信が証言報道：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "ワールドカップ 日程",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "高市早苗陣営が作成した「誹謗中傷動画」は「週刊文春 電子版」で配信中…高市陣営ネ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "オリオールズ 対 マリナーズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "高市内閣支持率60％ 不支持26％ NHK世論調査 | NHKニュース",
+      "title": "「ラーメンを食べて駅まで走ったら、突然意識を失って倒れた」これは怪奇現象ではなく",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "medical_science"
     }
   ]
 }
