@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T07:43:00+09:00",
+  "generated_at": "2026-06-08T15:23:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 10,
-    "passed_total": 113,
+    "neg_excluded": 6,
+    "dedup_excluded": 11,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
+      "yahoo_realtime": 36,
       "google_trends": 10,
-      "yahoo_news_ranking": 4,
-      "x_realtime": 9,
-      "news_web": 15
+      "news_web": 14,
+      "x_realtime": 7,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
+    "social_reaction": 33,
+    "personal_story": 5,
     "opinion": 10,
-    "personal_story": 1,
-    "medical_science": 2,
-    "hard_fact": 16,
-    "policy": 9
+    "medical_science": 1,
+    "hard_fact": 17,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 32,
+    "social_reaction": 33,
     "opinion": 10,
-    "hard_fact": 16,
-    "medical_science": 2,
-    "policy": 9,
-    "personal_story": 1
+    "hard_fact": 17,
+    "personal_story": 5,
+    "policy": 4,
+    "medical_science": 1
   },
   "b2b_top10": [
+    {
+      "title": "検察取り調べ映像、公開制限の動き　法務省が通知、誓約書要求の例も：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "【日報】おまえは今すぐ『モータルコンバット／ネクストラウンド』を観にいけ（逆噴射",
       "source_category": "yahoo_realtime",
@@ -51,55 +57,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "宇都宮市のアーケード街にクマ出没、歩行者の前を横切る《動画あり》（下野新聞デジタ",
+      "title": "皇室",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "玉川徹",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "沖縄～茨城に津波注意報 最新情報",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_domestic",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "東大卒の多くがノブレスオブリージュを発揮して官僚になってくれた時代があったが、大",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "段差解消「乗り上げブロック」は違法　船橋市のX投稿に戸惑いも | 毎日新聞",
+      "title": "「娘の泣かせ方」と言って、目の前の赤ちゃんをわざと泣かせていた友人がいたが、その",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "10 回 切っ て 倒れ ない 木 は ない",
+      "title": "「あと半分を乗り越える為の力を僕に下さい」特殊詐欺の受け子をやり、現在服役してい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "hk vs nep",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "甲斐拓也",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ラオス洞窟",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "大井川鐵道井川線",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ピエール ガスリー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ノルウェー代表",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ホルヘ・マルティン",
+      "title": "仮面ライダーアギト",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,7 +107,7 @@
   ],
   "note_top10": [
     {
-      "title": "宇都宮市のアーケード街にクマ出没、歩行者の前を横切る《動画あり》（下野新聞デジタ",
+      "title": "検察取り調べ映像、公開制限の動き　法務省が通知、誓約書要求の例も：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -119,51 +119,51 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "段差解消「乗り上げブロック」は違法　船橋市のX投稿に戸惑いも | 毎日新聞",
+      "title": "ボディソープでお風呂場の床の黒ずみが落ちるって本当？実際にやってみた人「かなりき",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "東大卒の多くがノブレスオブリージュを発揮して官僚になってくれた時代があったが、大",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "嘘つかれてた",
+      "title": "「娘の泣かせ方」と言って、目の前の赤ちゃんをわざと泣かせていた友人がいたが、その",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "海外で柚木麻子さんが「本が売れないから自転車操業で連載を書くしかない」と言ったら",
+      "title": "「あと半分を乗り越える為の力を僕に下さい」特殊詐欺の受け子をやり、現在服役してい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ブラックホールは「ねじれた7次元時空に情報を保持する極小の残骸」を残す可能性が示",
+      "title": "退職代行使いたい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "人間が本当に怖れているのは失敗ではなく◯◯ - あたまの中を循環する",
+      "title": "サラヤのオートソープディスペンサーで料理中でも手洗い快適＆泡量も調整可能 - ソ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "10 回 切っ て 倒れ ない 木 は ない",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "マイケルの人生から感銘など受けたくはない ──A・フークア『Michael』感想",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "ディズニーが騒がれている件で外国人よりもオリエンタルランドが叩かれているのはかな",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "人口急増のスイス、１０００万人以下に制限へ憲法改正問う国民投票…移民で住宅不足や",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "韓国人ってなんであんなにタイピングが早いの？→韓国の教育事情と本当に鍛えられた場",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
