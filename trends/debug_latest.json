@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T21:17:00+09:00",
+  "generated_at": "2026-06-09T01:40:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,32 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 9,
+    "neg_excluded": 10,
+    "dedup_excluded": 8,
     "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
-      "news_web": 16,
+      "yahoo_realtime": 34,
       "google_trends": 10,
-      "x_realtime": 9,
-      "yahoo_news_ranking": 2
+      "news_web": 12,
+      "x_realtime": 8,
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "personal_story": 3,
-    "hard_fact": 19,
+    "social_reaction": 25,
+    "hard_fact": 18,
     "opinion": 10,
-    "medical_science": 1,
-    "policy": 7
+    "medical_science": 4,
+    "personal_story": 2,
+    "policy": 11
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 20,
-    "social_reaction": 29,
+    "hard_fact": 18,
+    "policy": 11,
     "opinion": 10,
-    "policy": 7,
-    "medical_science": 1,
-    "personal_story": 3
+    "social_reaction": 25,
+    "medical_science": 4,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
@@ -51,10 +51,28 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "「退職金」縮小や廃止 なぜ広がる",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
+      "title": "「転職したタイミングで妊娠しており、半年後に産休からの二人目連続育休」というパタ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "多すぎる恋と殺人",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "手越祐也",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "オリギ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "ちゃんみな のどの不調で療養へ",
@@ -63,43 +81,25 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "【日報】おまえは今すぐ『モータルコンバット／ネクストラウンド』を観にいけ（逆噴射",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "とらのあなは「愛」を失った経営判断を下していったがゆえに今の惨状があるのではない",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "戸田恵梨香",
+      "title": "「ラーメンを食べて駅まで走ったら、突然意識を失って倒れた」これは怪奇現象ではなく",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "板倉滉",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "cuaca besok",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "マイク シロタ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "真剣遊戯 theバトルshow",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "富士総合火力演習",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "島田麻央",
+      "title": "セブンイレブン モンチッチ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,7 +107,43 @@
   ],
   "note_top10": [
     {
-      "title": "【日報】おまえは今すぐ『モータルコンバット／ネクストラウンド』を観にいけ（逆噴射",
+      "title": "とらのあなは「愛」を失った経営判断を下していったがゆえに今の惨状があるのではない",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ミュージカル『セーラームーン』が謝罪・音源変更へ　作曲家からの指摘を受け異例のス",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "外構屋の若手従業員が黙って仮設トイレを使ったので、「一言声を掛けろ」と諭すも「あ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「美味すぎる」と投稿されたプロテインの写真がどう見ても浮いていて『バイオハザード",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "小学校で行われた「新1年生が学ぶ踏切の渡り方」のニュース、サムネイルが面白すぎて",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "目標が立てられないのは欠点じゃない！動きながら進むキャリアの作り方 - STUD",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ネガティブ動画を総裁選1500本、衆院選1万本　福岡拠点に作成、IT会社代表【一",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -119,51 +155,15 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ディズニーが騒がれている件で外国人よりもオリエンタルランドが叩かれているのはかな",
+      "title": "高市早苗陣営が作成した「誹謗中傷動画」は「週刊文春 電子版」で配信中…高市陣営ネ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "義母が歩ける状態で入所してから9ヶ月、施設から届いた介護内容の書類を確認すると、",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "とある人物が『彼氏が米津玄師かもしれない』という米津玄師サイコホラー小説を投稿…",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "退職代行使いたい",
+      "title": "高市内閣支持率60％ 不支持26％ NHK世論調査 | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「コメうますぎてこれもう麺いらねえだろと毎回思う」麺抜きの家系定食を強く推したい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「もう2度と…やるなよ…」絡まりあったネックレス約10本をほぐす苦行を深夜2時ま",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "UQモバイルで娘のスマホを契約したら、電話番号の前の持ち主が相当やばかったらしく",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ポルノ小説家はシェアが小さく、年収一千万円ちょっとで頭打ちながら、息長く食える？",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
