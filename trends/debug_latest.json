@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T15:23:00+09:00",
+  "generated_at": "2026-06-08T21:17:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,39 +16,51 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 11,
-    "passed_total": 115,
+    "neg_excluded": 9,
+    "dedup_excluded": 9,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
+      "yahoo_realtime": 33,
+      "news_web": 16,
       "google_trends": 10,
-      "news_web": 14,
-      "x_realtime": 7,
-      "yahoo_news_ranking": 3
+      "x_realtime": 9,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "personal_story": 5,
+    "social_reaction": 30,
+    "personal_story": 3,
+    "hard_fact": 19,
     "opinion": 10,
     "medical_science": 1,
-    "hard_fact": 17,
-    "policy": 4
+    "policy": 7
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
+    "hard_fact": 20,
+    "social_reaction": 29,
     "opinion": 10,
-    "hard_fact": 17,
-    "personal_story": 5,
-    "policy": 4,
-    "medical_science": 1
+    "policy": 7,
+    "medical_science": 1,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "検察取り調べ映像、公開制限の動き　法務省が通知、誓約書要求の例も：朝日新聞",
+      "title": "「ポケモンカード」購入にマイナンバーカード導入へ　公式が発表　転売対策に効果期待",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "「退職金」縮小や廃止 なぜ広がる",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "ちゃんみな のどの不調で療養へ",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_entertainment",
+      "topic_category": "hard_fact"
     },
     {
       "title": "【日報】おまえは今すぐ『モータルコンバット／ネクストラウンド』を観にいけ（逆噴射",
@@ -57,49 +69,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "皇室",
+      "title": "戸田恵梨香",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "玉川徹",
+      "title": "cuaca besok",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "沖縄～茨城に津波注意報 最新情報",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "東大卒の多くがノブレスオブリージュを発揮して官僚になってくれた時代があったが、大",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「娘の泣かせ方」と言って、目の前の赤ちゃんをわざと泣かせていた友人がいたが、その",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「あと半分を乗り越える為の力を僕に下さい」特殊詐欺の受け子をやり、現在服役してい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "hk vs nep",
+      "title": "マイク シロタ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "仮面ライダーアギト",
+      "title": "真剣遊戯 theバトルshow",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "富士総合火力演習",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "島田麻央",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,39 +107,33 @@
   ],
   "note_top10": [
     {
-      "title": "検察取り調べ映像、公開制限の動き　法務省が通知、誓約書要求の例も：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "【日報】おまえは今すぐ『モータルコンバット／ネクストラウンド』を観にいけ（逆噴射",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ボディソープでお風呂場の床の黒ずみが落ちるって本当？実際にやってみた人「かなりき",
+      "title": "高市氏側から相談で「ネガティブな発信を提案」　共同通信が証言報道：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ディズニーが騒がれている件で外国人よりもオリエンタルランドが叩かれているのはかな",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "義母が歩ける状態で入所してから9ヶ月、施設から届いた介護内容の書類を確認すると、",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "東大卒の多くがノブレスオブリージュを発揮して官僚になってくれた時代があったが、大",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「娘の泣かせ方」と言って、目の前の赤ちゃんをわざと泣かせていた友人がいたが、その",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「あと半分を乗り越える為の力を僕に下さい」特殊詐欺の受け子をやり、現在服役してい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "とある人物が『彼氏が米津玄師かもしれない』という米津玄師サイコホラー小説を投稿…",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -149,19 +143,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "サラヤのオートソープディスペンサーで料理中でも手洗い快適＆泡量も調整可能 - ソ",
+      "title": "「コメうますぎてこれもう麺いらねえだろと毎回思う」麺抜きの家系定食を強く推したい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ディズニーが騒がれている件で外国人よりもオリエンタルランドが叩かれているのはかな",
+      "title": "「もう2度と…やるなよ…」絡まりあったネックレス約10本をほぐす苦行を深夜2時ま",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "韓国人ってなんであんなにタイピングが早いの？→韓国の教育事情と本当に鍛えられた場",
+      "title": "UQモバイルで娘のスマホを契約したら、電話番号の前の持ち主が相当やばかったらしく",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ポルノ小説家はシェアが小さく、年収一千万円ちょっとで頭打ちながら、息長く食える？",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
