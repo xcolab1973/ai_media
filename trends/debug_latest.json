@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T19:49:00+09:00",
+  "generated_at": "2026-06-10T00:47:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,32 +17,45 @@
       "x_realtime": 10
     },
     "neg_excluded": 5,
-    "dedup_excluded": 9,
-    "passed_total": 118,
+    "dedup_excluded": 12,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
-      "x_realtime": 9,
+      "yahoo_realtime": 37,
+      "x_realtime": 7,
       "google_trends": 10,
-      "news_web": 16,
-      "yahoo_news_ranking": 3
+      "news_web": 15,
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
+    "social_reaction": 31,
     "personal_story": 2,
     "opinion": 10,
-    "hard_fact": 17,
+    "hard_fact": 20,
     "medical_science": 2,
-    "policy": 6
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 23,
-    "social_reaction": 29,
+    "social_reaction": 31,
+    "hard_fact": 20,
     "opinion": 10,
+    "policy": 6,
     "personal_story": 2,
-    "policy": 6
+    "medical_science": 1
   },
   "b2b_top10": [
+    {
+      "title": "キラキラネームが話題ですが、長いことカルテを見てきた病棟看護師の『子供の名付けに",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「2022年に出たやつも！？」Apple Watchが根こそぎサポート終了であち",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "JR東日本 来春に磁気付き切符を廃止しQRコードの切符に | NHKニュース",
       "source_category": "yahoo_realtime",
@@ -50,15 +63,9 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "キラキラネームが話題ですが、長いことカルテを見てきた病棟看護師の『子供の名付けに",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「オシャレを楽しみたいなら仕事じゃない場所で勝手にやってください」マナー講師が福",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「街がつまらなくなった」って、最適化されたからだよね",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -68,37 +75,31 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "永作博美",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "井森美幸",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ディズニーオンアイス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "20年以上前、勤めていた飲食店に当時の石破防衛大臣が来て、｢大臣！この子綺麗でし",
+      "title": "「ボディバッグおじさん」が盛り上がっているが、結局男が身に着けて似合うバッグを発",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "振替公演",
+      "title": "マクドナルド ワールド カップ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "東京タワー",
+      "title": "リュウジ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "東京都水道局のアプリ「評価2.1→4.5」　230万ユーザー獲得までの”泥臭いユ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "gta6",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,12 +108,48 @@
   "note_top10": [
     {
       "title": "キラキラネームが話題ですが、長いことカルテを見てきた病棟看護師の『子供の名付けに",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「街がつまらなくなった」って、最適化されたからだよね",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「2022年に出たやつも！？」Apple Watchが根こそぎサポート終了であち",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「オシャレを楽しみたいなら仕事じゃない場所で勝手にやってください」マナー講師が福",
+      "title": "「ボディバッグおじさん」が盛り上がっているが、結局男が身に着けて似合うバッグを発",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東京都水道局のアプリ「評価2.1→4.5」　230万ユーザー獲得までの”泥臭いユ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "SNSで誰かに酷いこと書いたりする人って、中島みゆきさんの『ファイト』聴いた時ど",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "駐車場に行ったら車に「無断駐車禁止」の紙が貼られてたので「ふざけんな！契約してん",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東北物産展に行ったら持ち場ではないスペースの売り子の人々にオススメされた「いぶり",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -124,43 +161,7 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "「セーラームーンで目覚めた同志たちが多くて笑った」囚われたヒロインが悪役の趣味満",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "20年以上前、勤めていた飲食店に当時の石破防衛大臣が来て、｢大臣！この子綺麗でし",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "徳川家康って、昔は「俺様の天下だヒャッハー！」な人だと思ってたけど、今は「何から",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『手洗いするとビリビリに破れてしまう』手拭いを購入した人から連絡があり、実験して",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "NZ首都に11メートルの高波、住民数百人避難",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "音楽制作レーベル「Arte Refact」所属クリエイター全員、一斉退所へ　代表",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ADHD家族",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
