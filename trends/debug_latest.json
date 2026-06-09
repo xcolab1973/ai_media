@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T14:53:00+09:00",
+  "generated_at": "2026-06-09T19:49:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,89 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 3,
+    "neg_excluded": 5,
     "dedup_excluded": 9,
-    "passed_total": 120,
+    "passed_total": 118,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
-      "google_trends": 10,
-      "news_web": 13,
+      "yahoo_realtime": 32,
       "x_realtime": 9,
-      "yahoo_news_ranking": 5
+      "google_trends": 10,
+      "news_web": 16,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
+    "social_reaction": 33,
+    "personal_story": 2,
     "opinion": 10,
-    "medical_science": 7,
-    "personal_story": 3,
-    "hard_fact": 13,
-    "policy": 8
+    "hard_fact": 17,
+    "medical_science": 2,
+    "policy": 6
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
+    "hard_fact": 23,
+    "social_reaction": 29,
     "opinion": 10,
-    "hard_fact": 19,
-    "policy": 7,
-    "medical_science": 4,
-    "personal_story": 2
+    "personal_story": 2,
+    "policy": 6
   },
   "b2b_top10": [
     {
-      "title": "売った側は合法的に生きられなくなり、売られた口座は犯罪に利用…今の時代において銀",
+      "title": "JR東日本 来春に磁気付き切符を廃止しQRコードの切符に | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「嫌なこと」を言われた時、一瞬で相手の攻撃を止める「ひと言」とは【心理学者が教え",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中居 正広",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "阿部 慎之 助",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "森保Jの試合 無料放映のキーマン",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "秋葉原事件の献花台にごみ 対策へ",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_local",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "音楽制作レーベル「Arte Refact」所属クリエイター全員、一斉退所へ　代表",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "キラキラネームが話題ですが、長いことカルテを見てきた病棟看護師の『子供の名付けに",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "米H-1Bビザ手数料10万ドル、米地裁「違法」 トランプ氏が昨年発表の政策",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "title": "「オシャレを楽しみたいなら仕事じゃない場所で勝手にやってください」マナー講師が福",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "日本 対 南アフリカ",
+      "title": "クマの襲撃は「力士がナイフ持って原付で走ってくる」ようなもの　行政の観光担当ら、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "永作博美",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "モリーナ",
+      "title": "井森美幸",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ディズニーオンアイス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "20年以上前、勤めていた飲食店に当時の石破防衛大臣が来て、｢大臣！この子綺麗でし",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "振替公演",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "東京タワー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,7 +106,49 @@
   ],
   "note_top10": [
     {
-      "title": "売った側は合法的に生きられなくなり、売られた口座は犯罪に利用…今の時代において銀",
+      "title": "キラキラネームが話題ですが、長いことカルテを見てきた病棟看護師の『子供の名付けに",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「オシャレを楽しみたいなら仕事じゃない場所で勝手にやってください」マナー講師が福",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "夜行運転に対応する特急列車により新たな乗車体験を提案します",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「セーラームーンで目覚めた同志たちが多くて笑った」囚われたヒロインが悪役の趣味満",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "20年以上前、勤めていた飲食店に当時の石破防衛大臣が来て、｢大臣！この子綺麗でし",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "徳川家康って、昔は「俺様の天下だヒャッハー！」な人だと思ってたけど、今は「何から",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『手洗いするとビリビリに破れてしまう』手拭いを購入した人から連絡があり、実験して",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "NZ首都に11メートルの高波、住民数百人避難",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -119,49 +160,7 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「嫌なこと」を言われた時、一瞬で相手の攻撃を止める「ひと言」とは【心理学者が教え",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ところでヨーロッパの人ってなんで盛大に食べ物残すの？→食事と「もったいない感覚」",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "20年以上前、勤めていた飲食店に当時の石破防衛大臣が来て、｢大臣！この子綺麗でし",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "“弁当200個無断キャンセル”の弁当屋が警察に被害届を提出、それと共に誹謗中傷被",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「深夜3時にデザインしたんかっていうポストカードを買った」秋田県欲張りセットみた",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "PCトラブルの原因には「コンセントが抜けている」が割とあるけど、直接聞くと「馬鹿",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "アニメが色々な意味で話題だった『のうりん』が10年ぶりの新刊でついに完結、取材の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "30代の独身女性って、いったいどれくらい貯金があるのが、普通なんだろうか。わたし",
+      "title": "ADHD家族",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
