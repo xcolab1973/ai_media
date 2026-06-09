@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T00:47:00+09:00",
+  "generated_at": "2026-06-10T08:03:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,44 +16,50 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 12,
-    "passed_total": 115,
+    "neg_excluded": 9,
+    "dedup_excluded": 9,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
-      "x_realtime": 7,
+      "x_realtime": 6,
+      "yahoo_realtime": 38,
       "google_trends": 10,
-      "news_web": 15,
-      "yahoo_news_ranking": 1
+      "news_web": 13,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 31,
-    "personal_story": 2,
+    "social_reaction": 23,
+    "personal_story": 4,
     "opinion": 10,
-    "hard_fact": 20,
+    "hard_fact": 22,
     "medical_science": 2,
-    "policy": 5
+    "policy": 9
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 31,
-    "hard_fact": 20,
+    "personal_story": 4,
+    "hard_fact": 22,
+    "social_reaction": 23,
     "opinion": 10,
-    "policy": 6,
-    "personal_story": 2,
+    "policy": 10,
     "medical_science": 1
   },
   "b2b_top10": [
     {
+      "title": "総務省の技適マーク注意喚起のキャラクターのユイちゃんが「技適ないスマホ使う層が好",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "クマの襲撃は「力士がナイフ持って原付で走ってくる」ようなもの　行政の観光担当ら、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
       "title": "キラキラネームが話題ですが、長いことカルテを見てきた病棟看護師の『子供の名付けに",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「2022年に出たやつも！？」Apple Watchが根こそぎサポート終了であち",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -63,43 +69,37 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "「街がつまらなくなった」って、最適化されたからだよね",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "クマの襲撃は「力士がナイフ持って原付で走ってくる」ようなもの　行政の観光担当ら、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "「ボディバッグおじさん」が盛り上がっているが、結局男が身に着けて似合うバッグを発",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "マクドナルド ワールド カップ",
+      "title": "赤ちゃん ケーキ 動画",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "リュウジ",
+      "title": "ガーディアンズ 対 ヤンキース",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "東京都水道局のアプリ「評価2.1→4.5」　230万ユーザー獲得までの”泥臭いユ",
+      "title": "レイズ 対 レッドソックス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ペット禁止の部屋で猫を飼っていた女性から「退去するので、猫を飼っていた痕跡を一切",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "知らなかったでは許されないぞ… 隣の家から除草剤が流れ出して、田んぼの稲が枯れ始",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "gta6",
+      "title": "エリック・ラウアー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,13 +113,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「街がつまらなくなった」って、最適化されたからだよね",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "総務省の技適マーク注意喚起のキャラクターのユイちゃんが「技適ないスマホ使う層が好",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
     },
     {
-      "title": "「2022年に出たやつも！？」Apple Watchが根こそぎサポート終了であち",
+      "title": "ペット禁止の部屋で猫を飼っていた女性から「退去するので、猫を飼っていた痕跡を一切",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "知らなかったでは許されないぞ… 隣の家から除草剤が流れ出して、田んぼの稲が枯れ始",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -131,39 +137,33 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "東京都水道局のアプリ「評価2.1→4.5」　230万ユーザー獲得までの”泥臭いユ",
+      "title": "夜の遊園地で大規模合コン　男女4000人が参加、アトラクションは「異性と一緒に」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "SNSで誰かに酷いこと書いたりする人って、中島みゆきさんの『ファイト』聴いた時ど",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "駐車場に行ったら車に「無断駐車禁止」の紙が貼られてたので「ふざけんな！契約してん",
+      "title": "松屋で電子決済をしたら機械がエラーを吐いたので店員に声をかけたら「隣使えるでしょ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "東北物産展に行ったら持ち場ではないスペースの売り子の人々にオススメされた「いぶり",
+      "title": "『ONE PIECE』公式店が入店受付対応時のシステム及び確認手順の不備により、",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "夜行運転に対応する特急列車により新たな乗車体験を提案します",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "「名探偵コナン」と「名探偵プリキュア！」の両番組Pが語るコラボの裏話、そこで明か",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "徳川家康って、昔は「俺様の天下だヒャッハー！」な人だと思ってたけど、今は「何から",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "電車内で仲よさげなカップルがいたが彼女が降りるときに彼氏が「彼氏によろしくね」と",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
