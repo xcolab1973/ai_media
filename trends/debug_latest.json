@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T08:02:00+09:00",
+  "generated_at": "2026-06-09T14:53:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 10,
-    "passed_total": 115,
+    "neg_excluded": 3,
+    "dedup_excluded": 9,
+    "passed_total": 120,
     "b2b_category_counts": {
-      "x_realtime": 7,
-      "news_web": 11,
+      "yahoo_realtime": 33,
       "google_trends": 10,
-      "yahoo_realtime": 37,
+      "news_web": 13,
+      "x_realtime": 9,
       "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 25,
-    "personal_story": 3,
+    "social_reaction": 29,
     "opinion": 10,
-    "medical_science": 5,
-    "hard_fact": 16,
-    "policy": 11
+    "medical_science": 7,
+    "personal_story": 3,
+    "hard_fact": 13,
+    "policy": 8
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 25,
-    "hard_fact": 17,
+    "social_reaction": 28,
     "opinion": 10,
+    "hard_fact": 19,
+    "policy": 7,
     "medical_science": 4,
-    "personal_story": 3,
-    "policy": 11
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "三菱UFJ銀行が『PPAP』を原則廃止するが本質的になにも変わってなくて草生える",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "売った側は合法的に生きられなくなり、売られた口座は犯罪に利用…今の時代において銀",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "巨人が夏対策 東京D空調4℃上げ",
+      "title": "「嫌なこと」を言われた時、一瞬で相手の攻撃を止める「ひと言」とは【心理学者が教え",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中居 正広",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "阿部 慎之 助",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "森保Jの試合 無料放映のキーマン",
       "source_category": "news_web",
       "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "ブルージェイズ 対 フィリーズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "秋葉原事件の献花台にごみ 対策へ",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_local",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "ワールドカップ 日程",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "オリオールズ 対 マリナーズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「ラーメンを食べて駅まで走ったら、突然意識を失って倒れた」これは怪奇現象ではなく",
+      "title": "音楽制作レーベル「Arte Refact」所属クリエイター全員、一斉退所へ　代表",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "実家近くの空き家を見に行ったら、家はまだ新しいのできれいだし家具もそのまま使って",
+      "title": "米H-1Bビザ手数料10万ドル、米地裁「違法」 トランプ氏が昨年発表の政策",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "policy"
     },
     {
-      "title": "ヒロイン",
+      "title": "日本 対 南アフリカ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "バンクオブアメリカ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ワールドカップ 放送",
+      "title": "モリーナ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +107,64 @@
   ],
   "note_top10": [
     {
-      "title": "三菱UFJ銀行が『PPAP』を原則廃止するが本質的になにも変わってなくて草生える",
+      "title": "売った側は合法的に生きられなくなり、売られた口座は犯罪に利用…今の時代において銀",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "音楽制作レーベル「Arte Refact」所属クリエイター全員、一斉退所へ　代表",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「嫌なこと」を言われた時、一瞬で相手の攻撃を止める「ひと言」とは【心理学者が教え",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ところでヨーロッパの人ってなんで盛大に食べ物残すの？→食事と「もったいない感覚」",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "実家近くの空き家を見に行ったら、家はまだ新しいのできれいだし家具もそのまま使って",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "日本の出生率、東アジアで最高に。一部の西洋諸国も上回る（他の国が勝手に、それ以上",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "空飛ぶクルマ「ヘリコプターの半額めざす」　スカイドライブ、28年にも商用化 - ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「一番の償いは私たちの死のみ」旭川の女子高校生殺人事件、内田被告に懲役27年を求",
+      "title": "20年以上前、勤めていた飲食店に当時の石破防衛大臣が来て、｢大臣！この子綺麗でし",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "目標が立てられないのは欠点じゃない！動きながら進むキャリアの作り方 - STUD",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ブルージェイズ 対 フィリーズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "“弁当200個無断キャンセル”の弁当屋が警察に被害届を提出、それと共に誹謗中傷被",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "ワールドカップ 日程",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "「深夜3時にデザインしたんかっていうポストカードを買った」秋田県欲張りセットみた",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "オリオールズ 対 マリナーズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "PCトラブルの原因には「コンセントが抜けている」が割とあるけど、直接聞くと「馬鹿",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "「ラーメンを食べて駅まで走ったら、突然意識を失って倒れた」これは怪奇現象ではなく",
+      "title": "アニメが色々な意味で話題だった『のうりん』が10年ぶりの新刊でついに完結、取材の",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "30代の独身女性って、いったいどれくらい貯金があるのが、普通なんだろうか。わたし",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "topic_category": "social_reaction"
     }
   ]
 }
