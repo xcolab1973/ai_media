@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T20:26:00+09:00",
+  "generated_at": "2026-06-11T01:27:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,39 +16,45 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 14,
-    "dedup_excluded": 9,
-    "passed_total": 109,
+    "neg_excluded": 16,
+    "dedup_excluded": 8,
+    "passed_total": 108,
     "b2b_category_counts": {
-      "x_realtime": 7,
-      "yahoo_realtime": 32,
-      "google_trends": 10,
+      "x_realtime": 8,
+      "google_trends": 9,
+      "yahoo_realtime": 33,
       "news_web": 17,
-      "yahoo_news_ranking": 4
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
     "social_reaction": 29,
-    "opinion": 10,
-    "personal_story": 1,
-    "medical_science": 3,
-    "policy": 6,
-    "hard_fact": 21
+    "opinion": 9,
+    "personal_story": 2,
+    "medical_science": 2,
+    "hard_fact": 22,
+    "policy": 6
   },
   "b2b_topic_category_counts": {
     "social_reaction": 29,
-    "opinion": 10,
+    "opinion": 9,
     "policy": 7,
     "hard_fact": 21,
     "medical_science": 2,
-    "personal_story": 1
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "セブンイレブンが一日限りの「スムージー全品半額」セールを実施→行列が出来る→待ち",
+      "title": "娘のクラスで、複数の男児が女子の着替えを覗き、下着の色を言いふらしていたことが発",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "ワールドカップ 放送",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "「大山はマジで登らない方が良い」 鳥取県の大山へ注意を呼びかける投稿が話題に、風",
@@ -57,57 +63,51 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "サグラダファミリア 完成",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "東アジア3カ国のおばちゃんを表現してみました！→日中韓が口を揃えて「このおばちゃ",
+      "title": "“コンビニ書店化”はなぜ広がらなかったのか　本を売るほど「本離れ」が進む理由",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "関口メンディー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "チュニジア",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "コムドット やまと",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「国立競技場を設計した人達は絶対スポーツ観戦をしたことないだろ」という不満に賛同",
+      "title": "「日本企業のダメな部分を煮詰めた作品」技術流出の話題から、日本の失われた30年と",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "豊田章男",
+      "title": "ドトールでラージサイズのアイスコーヒーを頼んだら、レギュラーサイズで出てきて、ド",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "劇団ひとり",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ちとせよしの",
+      "title": "あさイチ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
+    },
+    {
+      "title": "夫婦とも開業医の家系でテレビ、スマホもSNSも禁止されて育った子は…→文系で国立",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「マジでグロくて本当にしんどくなってきた」アカデミアの人生設計に関する救いのない",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
-      "title": "セブンイレブンが一日限りの「スムージー全品半額」セールを実施→行列が出来る→待ち",
+      "title": "娘のクラスで、複数の男児が女子の着替えを覗き、下着の色を言いふらしていたことが発",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -119,52 +119,52 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "東アジア3カ国のおばちゃんを表現してみました！→日中韓が口を揃えて「このおばちゃ",
+      "title": "“コンビニ書店化”はなぜ広がらなかったのか　本を売るほど「本離れ」が進む理由",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「国立競技場を設計した人達は絶対スポーツ観戦をしたことないだろ」という不満に賛同",
+      "title": "「日本企業のダメな部分を煮詰めた作品」技術流出の話題から、日本の失われた30年と",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "論理的思考は一つの能力じゃない - あたまの中を循環する",
+      "title": "ドトールでラージサイズのアイスコーヒーを頼んだら、レギュラーサイズで出てきて、ド",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "安定的な皇位継承「立法府の総意」をとりまとめ 衆参議長ら | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "長期入院することになった際、困ったのは「病院に停めてある車をどうやって自宅に戻す",
+      "title": "夫婦とも開業医の家系でテレビ、スマホもSNSも禁止されて育った子は…→文系で国立",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「絵が下手」と言われることもある『寄生獣』だが、原画展で生原稿を見たら上手いどこ",
+      "title": "「マジでグロくて本当にしんどくなってきた」アカデミアの人生設計に関する救いのない",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本が先送りせず解くべき課題",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "バーニーズにサンダルを買いに行ったら「秋冬商品に切り替わってます」と言われた。フ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "サグラダファミリア 完成",
+      "title": "ワールドカップ 放送",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
+    },
+    {
+      "title": "AIに『マンジャロがテーマの漫才』を考えてもらったら普通に完成度が高いものが出力",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ]
 }
