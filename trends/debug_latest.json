@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T01:27:00+09:00",
+  "generated_at": "2026-06-11T08:14:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,110 +16,134 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 16,
-    "dedup_excluded": 8,
-    "passed_total": 108,
+    "neg_excluded": 12,
+    "dedup_excluded": 13,
+    "passed_total": 107,
     "b2b_category_counts": {
-      "x_realtime": 8,
-      "google_trends": 9,
-      "yahoo_realtime": 33,
-      "news_web": 17,
+      "yahoo_realtime": 34,
+      "google_trends": 10,
+      "x_realtime": 5,
+      "news_web": 18,
       "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "opinion": 9,
-    "personal_story": 2,
-    "medical_science": 2,
-    "hard_fact": 22,
-    "policy": 6
+    "social_reaction": 24,
+    "personal_story": 1,
+    "opinion": 10,
+    "medical_science": 3,
+    "hard_fact": 21,
+    "policy": 11
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "opinion": 9,
-    "policy": 7,
-    "hard_fact": 21,
-    "medical_science": 2,
-    "personal_story": 2
+    "social_reaction": 24,
+    "opinion": 10,
+    "personal_story": 1,
+    "hard_fact": 22,
+    "policy": 11,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "娘のクラスで、複数の男児が女子の着替えを覗き、下着の色を言いふらしていたことが発",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "小さな村の「土葬」ネット炎上、困惑する寺と住民　吹き荒れた排外主義、「電凸」に板",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ワールドカップ 放送",
+      "title": "息子「どうしてパパは変なことしか言わないの？」僕「等価交換といってね、パパは1日",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "羽田D滑走路トラブル、検討委の初会合　タイヤ破裂相次ぎ関係検証＝国交省",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "yena",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "「大山はマジで登らない方が良い」 鳥取県の大山へ注意を呼びかける投稿が話題に、風",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "“コンビニ書店化”はなぜ広がらなかったのか　本を売るほど「本離れ」が進む理由",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「日本企業のダメな部分を煮詰めた作品」技術流出の話題から、日本の失われた30年と",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ドトールでラージサイズのアイスコーヒーを頼んだら、レギュラーサイズで出てきて、ド",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "劇団ひとり",
+      "title": "ブルージェイズ 対 フィリーズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "あさイチ",
+      "title": "信越化学工業",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "夫婦とも開業医の家系でテレビ、スマホもSNSも禁止されて育った子は…→文系で国立",
+      "title": "警察から不審者情報の連絡が来たが… 3回くらい読み直した「これはちょっと……目撃",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「マジでグロくて本当にしんどくなってきた」アカデミアの人生設計に関する救いのない",
+      "title": "インドネシア人「日本行った時に面白い薬見つけた！体臭と息がバラの香りになるってや",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "マーリンズ 対 dバックス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "メッツ 対 カージナルス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "娘のクラスで、複数の男児が女子の着替えを覗き、下着の色を言いふらしていたことが発",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「大山はマジで登らない方が良い」 鳥取県の大山へ注意を呼びかける投稿が話題に、風",
+      "title": "羽田D滑走路トラブル、検討委の初会合　タイヤ破裂相次ぎ関係検証＝国交省",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "“コンビニ書店化”はなぜ広がらなかったのか　本を売るほど「本離れ」が進む理由",
+      "title": "小さな村の「土葬」ネット炎上、困惑する寺と住民　吹き荒れた排外主義、「電凸」に板",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "息子「どうしてパパは変なことしか言わないの？」僕「等価交換といってね、パパは1日",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "Roswell Pickups Humbucker size Open Cove",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "警察から不審者情報の連絡が来たが… 3回くらい読み直した「これはちょっと……目撃",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "インドネシア人「日本行った時に面白い薬見つけた！体臭と息がバラの香りになるってや",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "マンガでポール・マッカートニーへの愛がヤバい母を描き続けていたら、ある日ポール・",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -131,39 +155,15 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ドトールでラージサイズのアイスコーヒーを頼んだら、レギュラーサイズで出てきて、ド",
+      "title": "「マジでグロくて本当にしんどくなってきた」アカデミアの人生設計に関する救いのない",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "夫婦とも開業医の家系でテレビ、スマホもSNSも禁止されて育った子は…→文系で国立",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「マジでグロくて本当にしんどくなってきた」アカデミアの人生設計に関する救いのない",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "バーニーズにサンダルを買いに行ったら「秋冬商品に切り替わってます」と言われた。フ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ワールドカップ 放送",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "AIに『マンジャロがテーマの漫才』を考えてもらったら普通に完成度が高いものが出力",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
