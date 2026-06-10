@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T15:06:00+09:00",
+  "generated_at": "2026-06-10T20:26:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 12,
-    "passed_total": 113,
+    "neg_excluded": 14,
+    "dedup_excluded": 9,
+    "passed_total": 109,
     "b2b_category_counts": {
-      "yahoo_realtime": 30,
-      "x_realtime": 6,
-      "news_web": 22,
+      "x_realtime": 7,
+      "yahoo_realtime": 32,
       "google_trends": 10,
-      "yahoo_news_ranking": 2
+      "news_web": 17,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 31,
-    "personal_story": 1,
+    "social_reaction": 29,
     "opinion": 10,
+    "personal_story": 1,
     "medical_science": 3,
-    "policy": 5,
-    "hard_fact": 20
+    "policy": 6,
+    "hard_fact": 21
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
-    "hard_fact": 25,
+    "social_reaction": 29,
     "opinion": 10,
-    "personal_story": 1,
-    "medical_science": 1,
-    "policy": 5
+    "policy": 7,
+    "hard_fact": 21,
+    "medical_science": 2,
+    "personal_story": 1
   },
   "b2b_top10": [
+    {
+      "title": "セブンイレブンが一日限りの「スムージー全品半額」セールを実施→行列が出来る→待ち",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "「大山はマジで登らない方が良い」 鳥取県の大山へ注意を呼びかける投稿が話題に、風",
       "source_category": "yahoo_realtime",
@@ -51,55 +57,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "現在、東南アジアで日本人による買春が問題となっている中、大手アダルトメーカーの新",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "駐車場に車を停めていたら、何者かによって傷をつけられたので即警察に通報したが、こ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "米軍 ヘリ撃墜への報復攻撃を終了",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_world",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "イオンモールおじさんが話題になっているが、2013年の『ブルーシャツにベージュの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "もしバイト先の店長から頼まれて口座を作ったが、「その銀行だと手数料がかかるため、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "隣に民泊があって、覚えのない荷物がバンバン届いて非常に迷惑…どうしてこんなことに",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "グループ リーグ",
+      "title": "サグラダファミリア 完成",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "藤井風",
+      "title": "東アジア3カ国のおばちゃんを表現してみました！→日中韓が口を揃えて「このおばちゃ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "関口メンディー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "日本サイクリング協会",
+      "title": "チュニジア",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "コムドット やまと",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「国立競技場を設計した人達は絶対スポーツ観戦をしたことないだろ」という不満に賛同",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "豊田章男",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ちとせよしの",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +107,64 @@
   ],
   "note_top10": [
     {
+      "title": "セブンイレブンが一日限りの「スムージー全品半額」セールを実施→行列が出来る→待ち",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "「大山はマジで登らない方が良い」 鳥取県の大山へ注意を呼びかける投稿が話題に、風",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "現在、東南アジアで日本人による買春が問題となっている中、大手アダルトメーカーの新",
+      "title": "東アジア3カ国のおばちゃんを表現してみました！→日中韓が口を揃えて「このおばちゃ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「国立競技場を設計した人達は絶対スポーツ観戦をしたことないだろ」という不満に賛同",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "論理的思考は一つの能力じゃない - あたまの中を循環する",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "安定的な皇位継承「立法府の総意」をとりまとめ 衆参議長ら | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "長期入院することになった際、困ったのは「病院に停めてある車をどうやって自宅に戻す",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "駐車場に車を停めていたら、何者かによって傷をつけられたので即警察に通報したが、こ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "イオンモールおじさんが話題になっているが、2013年の『ブルーシャツにベージュの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "もしバイト先の店長から頼まれて口座を作ったが、「その銀行だと手数料がかかるため、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "隣に民泊があって、覚えのない荷物がバンバン届いて非常に迷惑…どうしてこんなことに",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "刈谷ハイウェイオアシスは休憩所ではなく旅の目的　遊園地や温泉も併設、何よりトイレ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "福岡県職員、自民に質問を横流し　怠れば報復…トラブル回避の禁じ手「仕方なかった」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "米スターバックス、日本事業の売却を検討　ブルームバーグ報道 - 日本経済新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "最終兵器彼女を令和の今初めて読み終えたんですけど助けてもらえますか？→「無理です",
+      "title": "「絵が下手」と言われることもある『寄生獣』だが、原画展で生原稿を見たら上手いどこ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "日本が先送りせず解くべき課題",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "サグラダファミリア 完成",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
