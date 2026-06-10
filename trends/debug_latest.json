@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T08:03:00+09:00",
+  "generated_at": "2026-06-10T15:06:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 9,
-    "passed_total": 114,
+    "neg_excluded": 7,
+    "dedup_excluded": 12,
+    "passed_total": 113,
     "b2b_category_counts": {
+      "yahoo_realtime": 30,
       "x_realtime": 6,
-      "yahoo_realtime": 38,
+      "news_web": 22,
       "google_trends": 10,
-      "news_web": 13,
-      "yahoo_news_ranking": 3
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 23,
-    "personal_story": 4,
+    "social_reaction": 31,
+    "personal_story": 1,
     "opinion": 10,
-    "hard_fact": 22,
-    "medical_science": 2,
-    "policy": 9
+    "medical_science": 3,
+    "policy": 5,
+    "hard_fact": 20
   },
   "b2b_topic_category_counts": {
-    "personal_story": 4,
-    "hard_fact": 22,
-    "social_reaction": 23,
+    "social_reaction": 28,
+    "hard_fact": 25,
     "opinion": 10,
-    "policy": 10,
-    "medical_science": 1
+    "personal_story": 1,
+    "medical_science": 1,
+    "policy": 5
   },
   "b2b_top10": [
     {
-      "title": "総務省の技適マーク注意喚起のキャラクターのユイちゃんが「技適ないスマホ使う層が好",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "クマの襲撃は「力士がナイフ持って原付で走ってくる」ようなもの　行政の観光担当ら、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "キラキラネームが話題ですが、長いことカルテを見てきた病棟看護師の『子供の名付けに",
+      "title": "「大山はマジで登らない方が良い」 鳥取県の大山へ注意を呼びかける投稿が話題に、風",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "JR東日本 来春に磁気付き切符を廃止しQRコードの切符に | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "赤ちゃん ケーキ 動画",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ガーディアンズ 対 ヤンキース",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "レイズ 対 レッドソックス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ペット禁止の部屋で猫を飼っていた女性から「退去するので、猫を飼っていた痕跡を一切",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "知らなかったでは許されないぞ… 隣の家から除草剤が流れ出して、田んぼの稲が枯れ始",
+      "title": "現在、東南アジアで日本人による買春が問題となっている中、大手アダルトメーカーの新",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "エリック・ラウアー",
+      "title": "駐車場に車を停めていたら、何者かによって傷をつけられたので即警察に通報したが、こ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "米軍 ヘリ撃墜への報復攻撃を終了",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_world",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "イオンモールおじさんが話題になっているが、2013年の『ブルーシャツにベージュの",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "もしバイト先の店長から頼まれて口座を作ったが、「その銀行だと手数料がかかるため、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "隣に民泊があって、覚えのない荷物がバンバン届いて非常に迷惑…どうしてこんなことに",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "グループ リーグ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "藤井風",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "日本サイクリング協会",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
-      "title": "キラキラネームが話題ですが、長いことカルテを見てきた病棟看護師の『子供の名付けに",
+      "title": "「大山はマジで登らない方が良い」 鳥取県の大山へ注意を呼びかける投稿が話題に、風",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "総務省の技適マーク注意喚起のキャラクターのユイちゃんが「技適ないスマホ使う層が好",
+      "title": "現在、東南アジアで日本人による買春が問題となっている中、大手アダルトメーカーの新",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "駐車場に車を停めていたら、何者かによって傷をつけられたので即警察に通報したが、こ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "イオンモールおじさんが話題になっているが、2013年の『ブルーシャツにベージュの",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "もしバイト先の店長から頼まれて口座を作ったが、「その銀行だと手数料がかかるため、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "隣に民泊があって、覚えのない荷物がバンバン届いて非常に迷惑…どうしてこんなことに",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "刈谷ハイウェイオアシスは休憩所ではなく旅の目的　遊園地や温泉も併設、何よりトイレ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "ペット禁止の部屋で猫を飼っていた女性から「退去するので、猫を飼っていた痕跡を一切",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "知らなかったでは許されないぞ… 隣の家から除草剤が流れ出して、田んぼの稲が枯れ始",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ボディバッグおじさん」が盛り上がっているが、結局男が身に着けて似合うバッグを発",
+      "title": "福岡県職員、自民に質問を横流し　怠れば報復…トラブル回避の禁じ手「仕方なかった」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "夜の遊園地で大規模合コン　男女4000人が参加、アトラクションは「異性と一緒に」",
+      "title": "米スターバックス、日本事業の売却を検討　ブルームバーグ報道 - 日本経済新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "松屋で電子決済をしたら機械がエラーを吐いたので店員に声をかけたら「隣使えるでしょ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『ONE PIECE』公式店が入店受付対応時のシステム及び確認手順の不備により、",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「名探偵コナン」と「名探偵プリキュア！」の両番組Pが語るコラボの裏話、そこで明か",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "電車内で仲よさげなカップルがいたが彼女が降りるときに彼氏が「彼氏によろしくね」と",
+      "title": "最終兵器彼女を令和の今初めて読み終えたんですけど助けてもらえますか？→「無理です",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
