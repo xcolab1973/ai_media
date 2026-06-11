@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T08:14:00+09:00",
+  "generated_at": "2026-06-11T15:26:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,89 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 13,
-    "passed_total": 107,
+    "neg_excluded": 5,
+    "dedup_excluded": 12,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
+      "yahoo_realtime": 38,
       "google_trends": 10,
-      "x_realtime": 5,
-      "news_web": 18,
-      "yahoo_news_ranking": 3
+      "news_web": 16,
+      "x_realtime": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 24,
-    "personal_story": 1,
-    "opinion": 10,
-    "medical_science": 3,
-    "hard_fact": 21,
-    "policy": 11
+    "social_reaction": 31,
+    "personal_story": 2,
+    "opinion": 9,
+    "medical_science": 4,
+    "hard_fact": 17,
+    "policy": 7
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 24,
-    "opinion": 10,
-    "personal_story": 1,
-    "hard_fact": 22,
-    "policy": 11,
-    "medical_science": 2
+    "social_reaction": 31,
+    "personal_story": 2,
+    "opinion": 9,
+    "hard_fact": 18,
+    "policy": 7,
+    "medical_science": 3
   },
   "b2b_top10": [
     {
-      "title": "小さな村の「土葬」ネット炎上、困惑する寺と住民　吹き荒れた排外主義、「電凸」に板",
+      "title": "夫の趣味である釣りで『後片付けは妻がやるのが当たり前』にされていて限界だ、という",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "息子「どうしてパパは変なことしか言わないの？」僕「等価交換といってね、パパは1日",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "羽田D滑走路トラブル、検討委の初会合　タイヤ破裂相次ぎ関係検証＝国交省",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "yena",
+      "title": "炎上",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ブルージェイズ 対 フィリーズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "信越化学工業",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "警察から不審者情報の連絡が来たが… 3回くらい読み直した「これはちょっと……目撃",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "インドネシア人「日本行った時に面白い薬見つけた！体臭と息がバラの香りになるってや",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "マーリンズ 対 dバックス",
+      "title": "本当のリケジョの育て方：女子大理工学部に文学部と同じ試験内容で入れる例から考える",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "宝塚記念 過去",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "メッツ 対 カージナルス",
+      "title": "「男性医師全体の信用に関わるよ？」出産中の女性を盗撮した元研修医が書類送検→さら",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "今日、大きい病院に行ったら若い男性スタッフがみんなこの髪型だった「服務規定で統一",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ファミマ アフタヌーンティー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "に じ さんじ チップス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ドラクエ 目薬 売り切れ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,63 +106,63 @@
   ],
   "note_top10": [
     {
-      "title": "羽田D滑走路トラブル、検討委の初会合　タイヤ破裂相次ぎ関係検証＝国交省",
+      "title": "夫の趣味である釣りで『後片付けは妻がやるのが当たり前』にされていて限界だ、という",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "小さな村の「土葬」ネット炎上、困惑する寺と住民　吹き荒れた排外主義、「電凸」に板",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "息子「どうしてパパは変なことしか言わないの？」僕「等価交換といってね、パパは1日",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Roswell Pickups Humbucker size Open Cove",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "警察から不審者情報の連絡が来たが… 3回くらい読み直した「これはちょっと……目撃",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "炎上",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
       "topic_category": "social_reaction"
     },
     {
       "title": "インドネシア人「日本行った時に面白い薬見つけた！体臭と息がバラの香りになるってや",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "マンガでポール・マッカートニーへの愛がヤバい母を描き続けていたら、ある日ポール・",
+      "title": "本当のリケジョの育て方：女子大理工学部に文学部と同じ試験内容で入れる例から考える",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「日本企業のダメな部分を煮詰めた作品」技術流出の話題から、日本の失われた30年と",
+      "title": "今日、大きい病院に行ったら若い男性スタッフがみんなこの髪型だった「服務規定で統一",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「マジでグロくて本当にしんどくなってきた」アカデミアの人生設計に関する救いのない",
+      "title": "311の津波で攫われた仙台営業所を本社の偉い人が視察に来たが、開口一番「てめぇら",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "バーニーズにサンダルを買いに行ったら「秋冬商品に切り替わってます」と言われた。フ",
+      "title": "脱カフェイン生活を始めたけど、スーパーで適当に買ったデカフェは偽りの味がするな…",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "王朝交替説の謎",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "新宿駅東南口にいつもいるナベクラさん「爆発的なムーブメント起こしてます」と自信た",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "3年頑張って関係築いた案件を上司の一存で掻っ攫われた…先方に難色示されてしまえ！",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
