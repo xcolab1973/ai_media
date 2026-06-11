@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T21:00:00+09:00",
+  "generated_at": "2026-06-12T01:41:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 9,
-    "passed_total": 111,
+    "neg_excluded": 13,
+    "dedup_excluded": 11,
+    "passed_total": 108,
     "b2b_category_counts": {
-      "x_realtime": 9,
-      "yahoo_realtime": 29,
+      "yahoo_realtime": 35,
+      "news_web": 17,
       "google_trends": 10,
-      "news_web": 16,
-      "yahoo_news_ranking": 6
+      "x_realtime": 6,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
-    "personal_story": 1,
+    "social_reaction": 27,
+    "personal_story": 3,
     "opinion": 10,
-    "medical_science": 3,
-    "policy": 8,
-    "hard_fact": 16
+    "medical_science": 2,
+    "hard_fact": 21,
+    "policy": 7
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "opinion": 10,
+    "social_reaction": 27,
     "hard_fact": 20,
+    "opinion": 10,
+    "medical_science": 1,
     "policy": 9,
-    "personal_story": 1,
-    "medical_science": 1
+    "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "吊り橋をバイクで走行する観光客がいたということで、奈良・谷瀬の吊り橋に「二輪車通",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "夫の趣味である釣りで『後片付けは妻がやるのが当たり前』にされていて限界だ、という",
+      "title": "重たいランドセルが小学生の子どもの「猫背」に関係してるって本当？ 傾向と対策を解",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "トランプ大統領やその一家は仮想通貨で約3700億円の利益を上げたが投資家は約36",
+      "title": "YouTubeが動画の共有や1対1の会話ができる新しいアプリ内メッセージングシス",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "本当のリケジョの育て方：女子大理工学部に文学部と同じ試験内容で入れる例から考える",
+      "title": "死にゆく星の壮絶な輝き――「水晶玉星雲」の新たな画像公開",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "社会人やってると、A「503は3で割り切れる？」B「割り切れない」A「なんでわか",
+      "title": "11年に及ぶ大学生活の末、大学を中退したが、教授から「今後について話そう」と誘わ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "尾崎豊",
+      "title": "子連れでゴルフ観戦 マナー議論に",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_sports",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "バリバリ働く女友達から立て続けに「今まで体調不良や子どもの熱で休む人を冷めた目で",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "広末涼子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "チュニジア",
+      "title": "世界杯",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "常盤貴子",
+      "title": "scフライブルク",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "石川祐希",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "三笘薫",
+      "title": "森香澄",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,25 +107,31 @@
   ],
   "note_top10": [
     {
-      "title": "夫の趣味である釣りで『後片付けは妻がやるのが当たり前』にされていて限界だ、という",
+      "title": "重たいランドセルが小学生の子どもの「猫背」に関係してるって本当？ 傾向と対策を解",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "吊り橋をバイクで走行する観光客がいたということで、奈良・谷瀬の吊り橋に「二輪車通",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "トランプ大統領やその一家は仮想通貨で約3700億円の利益を上げたが投資家は約36",
+      "title": "YouTubeが動画の共有や1対1の会話ができる新しいアプリ内メッセージングシス",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "本当のリケジョの育て方：女子大理工学部に文学部と同じ試験内容で入れる例から考える",
+      "title": "死にゆく星の壮絶な輝き――「水晶玉星雲」の新たな画像公開",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "11年に及ぶ大学生活の末、大学を中退したが、教授から「今後について話そう」と誘わ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "バリバリ働く女友達から立て続けに「今まで体調不良や子どもの熱で休む人を冷めた目で",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -137,33 +143,27 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「おっさんが身につけてると嫌なのがボディバッグだとしたら、おばさんが身につけてる",
+      "title": "「ちょっとフロリダ行ってくる」フロリダの観光地には野生のエロい女が出現するらしい",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "“今こそあなたが必要だ”プリンス没後10年とミネアポリス | NHKニュース",
+      "title": "【独自】京都屈指の老舗ラーメン店「ますたに北白川本店」が7月で無期限休業へ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「一体コミュ力ってなんなんだろう？」ある日、コミュ力が高い人ってこういう人のこと",
+      "title": "「なぜ最初は素晴らしかった企業が理念を失って変貌してしまうのか」という問いに『リ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "小説2000冊以上読んでるからわかるんだけど、小説読まないやつは語彙力がなんかア",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「王朝交替説」の謎",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "脱カフェイン生活を始めたけど、スーパーで適当に買ったデカフェは偽りの味がするな…",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
