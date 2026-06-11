@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T01:41:00+09:00",
+  "generated_at": "2026-06-12T08:09:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,44 +16,55 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 13,
-    "dedup_excluded": 11,
-    "passed_total": 108,
+    "neg_excluded": 11,
+    "dedup_excluded": 12,
+    "passed_total": 109,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
-      "news_web": 17,
+      "yahoo_realtime": 34,
+      "x_realtime": 7,
       "google_trends": 10,
-      "x_realtime": 6,
-      "yahoo_news_ranking": 2
+      "news_web": 18,
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 27,
-    "personal_story": 3,
+    "social_reaction": 25,
     "opinion": 10,
-    "medical_science": 2,
-    "hard_fact": 21,
-    "policy": 7
+    "personal_story": 1,
+    "hard_fact": 24,
+    "policy": 9,
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 27,
-    "hard_fact": 20,
+    "social_reaction": 25,
+    "hard_fact": 24,
     "opinion": 10,
-    "medical_science": 1,
-    "policy": 9,
-    "personal_story": 3
+    "policy": 10,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "重たいランドセルが小学生の子どもの「猫背」に関係してるって本当？ 傾向と対策を解",
+      "title": "少子化の深層：エリートスポーツ化する育児 | SBI金融経済研究所",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "YouTubeが動画の共有や1対1の会話ができる新しいアプリ内メッセージングシス",
+      "title": "「だいぶ待たせてしまって本当に申し訳ありません」故・三浦建太郎先生が二十年も悩み",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【速報】神戸に「クマ」が出没　市内での確認は初めて　山林のセンサーカメラに姿　市",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "「ガリガリ変な音するからまさかと思って開けてみたら猫いた」この時期はネコがいるか",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -63,59 +74,59 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "11年に及ぶ大学生活の末、大学を中退したが、教授から「今後について話そう」と誘わ",
+      "title": "重たいランドセルが小学生の子どもの「猫背」に関係してるって本当？ 傾向と対策を解",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "子連れでゴルフ観戦 マナー議論に",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_sports",
-      "topic_category": "hard_fact"
+      "title": "オリオールズ 対 マリナーズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "バリバリ働く女友達から立て続けに「今まで体調不良や子どもの熱で休む人を冷めた目で",
+      "title": "新橋 火事",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「7から9は観なくていいから」水島努さんが映画館で聞いた言葉に思い当たる節があっ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "広末涼子",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "世界杯",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "scフライブルク",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "森香澄",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "アパレルの職場でオープニングスタッフとして働き始めたが、鍵無しロッカーの財布から",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
+      "title": "少子化の深層：エリートスポーツ化する育児 | SBI金融経済研究所",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「だいぶ待たせてしまって本当に申し訳ありません」故・三浦建太郎先生が二十年も悩み",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "重たいランドセルが小学生の子どもの「猫背」に関係してるって本当？ 傾向と対策を解",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "YouTubeが動画の共有や1対1の会話ができる新しいアプリ内メッセージングシス",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「ガリガリ変な音するからまさかと思って開けてみたら猫いた」この時期はネコがいるか",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -125,46 +136,34 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "「7から9は観なくていいから」水島努さんが映画館で聞いた言葉に思い当たる節があっ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "アパレルの職場でオープニングスタッフとして働き始めたが、鍵無しロッカーの財布から",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "11年に及ぶ大学生活の末、大学を中退したが、教授から「今後について話そう」と誘わ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "バリバリ働く女友達から立て続けに「今まで体調不良や子どもの熱で休む人を冷めた目で",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "オリオールズ 対 マリナーズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "社会人やってると、A「503は3で割り切れる？」B「割り切れない」A「なんでわか",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ちょっとフロリダ行ってくる」フロリダの観光地には野生のエロい女が出現するらしい",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【独自】京都屈指の老舗ラーメン店「ますたに北白川本店」が7月で無期限休業へ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「なぜ最初は素晴らしかった企業が理念を失って変貌してしまうのか」という問いに『リ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "小説2000冊以上読んでるからわかるんだけど、小説読まないやつは語彙力がなんかア",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "新橋 火事",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
