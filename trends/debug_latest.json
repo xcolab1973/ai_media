@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T15:53:00+09:00",
+  "generated_at": "2026-06-12T20:30:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,45 +16,39 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 9,
-    "passed_total": 113,
+    "neg_excluded": 11,
+    "dedup_excluded": 12,
+    "passed_total": 109,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
-      "x_realtime": 8,
+      "news_web": 15,
+      "yahoo_realtime": 33,
       "google_trends": 10,
-      "news_web": 13,
-      "yahoo_news_ranking": 3
+      "yahoo_news_ranking": 4,
+      "x_realtime": 8
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
-    "personal_story": 3,
-    "opinion": 10,
-    "medical_science": 2,
-    "hard_fact": 16,
-    "policy": 7
-  },
-  "b2b_topic_category_counts": {
-    "personal_story": 3,
-    "social_reaction": 32,
+    "social_reaction": 30,
+    "personal_story": 2,
     "opinion": 10,
     "hard_fact": 17,
-    "policy": 7,
-    "medical_science": 1
+    "medical_science": 3,
+    "policy": 8
+  },
+  "b2b_topic_category_counts": {
+    "hard_fact": 17,
+    "social_reaction": 30,
+    "opinion": 10,
+    "personal_story": 2,
+    "policy": 8,
+    "medical_science": 3
   },
   "b2b_top10": [
     {
-      "title": "「いいねを押すだけ」「動画を見るだけ」などとうたう副業の正体は、出口のないネット",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「下着等が中学校から丸見えになっている」と大学の窓に注意書き、貼られていたのはな",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "長引く咳 白いカビ原因の肺炎注意",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     },
     {
       "title": "少子化の深層：エリートスポーツ化する育児 | SBI金融経済研究所",
@@ -63,46 +57,52 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "中国の人から「日本は魚編の漢字沢山ありすぎ。中国は三文魚とか青花魚とか分かりやす",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "ポケモンセンターオンライン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "サッカーW杯、テレビ放送があっても「DAZN」を選ぶ理由　ただしサッカー専用プラ",
+      "title": "ワークマン、気温45度想定の「着る冷凍庫」が好調　一般向け強化で50億円販売目指",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本女子プロゴルフ協会",
+      "title": "山本有真",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ウリ信用組合",
+      "title": "松岡修造",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "王将",
+      "title": "大久保佳代子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "東京都心周辺 川の増水などに注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
+      "title": "ドラゴンクエスト",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "田中希実",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "矢田亜希子",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "読売新聞",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
@@ -113,33 +113,45 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「いいねを押すだけ」「動画を見るだけ」などとうたう副業の正体は、出口のないネット",
+      "title": "ワークマン、気温45度想定の「着る冷凍庫」が好調　一般向け強化で50億円販売目指",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "病院の都合で何も聞かされず個室へ移動させられ、差額ベッド代26,500円払います",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "カウンター隣のおっちゃんがやたらくしゃみするので「風邪ひいてんなら飲みに来んなよ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "「下着等が中学校から丸見えになっている」と大学の窓に注意書き、貼られていたのはな",
+      "title": "外資系コンサル男から大切な宝物（ブルシットジョブ）を守るため、洗練されたポンコツ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "中国の人から「日本は魚編の漢字沢山ありすぎ。中国は三文魚とか青花魚とか分かりやす",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "サッカーW杯、テレビ放送があっても「DAZN」を選ぶ理由　ただしサッカー専用プラ",
+      "title": "217話題の中東イラン情勢②",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "大学の実験で5分遅れてきた人に「今日はもう締め切っちゃったので、欠席か見学か選ん",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "ガッツ石松といえば乱闘の仲裁に入った結果、チンピラ8人を殴り倒したことで警察に「",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "サグラダ・ファミリア「イエスの塔」完成式典で「空中にドローンで映し出されたドヤ顔",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -149,21 +161,9 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "H3ロケット打ち上げ成功　JAXA、低コストの新機種で - 日本経済新聞",
+      "title": "まだこの世にないジャンルのゲームの作り方｜Xemono",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日本人の首都圏民は旅行をしない｜Mr.IQ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "マイケル・ジャクソンは本人の逸話を聞くたびに「めちゃくちゃ歌と踊りが上手で世界一",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
