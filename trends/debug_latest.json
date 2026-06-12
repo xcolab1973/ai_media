@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T20:30:00+09:00",
+  "generated_at": "2026-06-13T01:00:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,39 +16,71 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
-    "dedup_excluded": 12,
-    "passed_total": 109,
+    "neg_excluded": 12,
+    "dedup_excluded": 9,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "news_web": 15,
       "yahoo_realtime": 33,
+      "x_realtime": 8,
+      "news_web": 15,
       "google_trends": 10,
-      "yahoo_news_ranking": 4,
-      "x_realtime": 8
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
+    "social_reaction": 32,
+    "analysis": 1,
     "personal_story": 2,
-    "opinion": 10,
-    "hard_fact": 17,
+    "policy": 5,
+    "opinion": 9,
     "medical_science": 3,
-    "policy": 8
+    "hard_fact": 18
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 17,
     "social_reaction": 30,
-    "opinion": 10,
+    "policy": 6,
+    "hard_fact": 21,
+    "opinion": 9,
+    "analysis": 1,
     "personal_story": 2,
-    "policy": 8,
-    "medical_science": 3
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "長引く咳 白いカビ原因の肺炎注意",
+      "title": "秋葉原駅のホームにあるミルクスタンドには謎の魅力がありこの店が潰れないように必ず",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【独自】「クールジャパン機構」廃止案　政府検討へ、累積赤字が拡大 | NEWSj",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "口に放り込んでバイクに乗ったら、酒に酔った感覚とODの時の感覚が同時に襲ってきて",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "学生が薬局に無断駐車したので注意したら「なんだこら」と凄まれた→学校に連絡したと",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "モスが詐欺広告に注意喚起 丸亀も",
       "source_category": "news_web",
       "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
+    },
+    {
+      "title": "今の職場でADHD+ASDの発達障害者が居るんだけど、分かりやすく説明しても理解",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "少子化の深層：エリートスポーツ化する育児 | SBI金融経済研究所",
@@ -57,49 +89,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ワークマン、気温45度想定の「着る冷凍庫」が好調　一般向け強化で50億円販売目指",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "クールジャパン機構廃止案 検討へ",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "山本有真",
+      "title": "2026 國際足總世界盃",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "松岡修造",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "大久保佳代子",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ドラゴンクエスト",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "田中希実",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "矢田亜希子",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "読売新聞",
+      "title": "是非に及ばず",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +109,61 @@
   ],
   "note_top10": [
     {
+      "title": "秋葉原駅のホームにあるミルクスタンドには謎の魅力がありこの店が潰れないように必ず",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "口に放り込んでバイクに乗ったら、酒に酔った感覚とODの時の感覚が同時に襲ってきて",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "学生が薬局に無断駐車したので注意したら「なんだこら」と凄まれた→学校に連絡したと",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "少子化の深層：エリートスポーツ化する育児 | SBI金融経済研究所",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ワークマン、気温45度想定の「着る冷凍庫」が好調　一般向け強化で50億円販売目指",
+      "title": "今の職場でADHD+ASDの発達障害者が居るんだけど、分かりやすく説明しても理解",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "病院の都合で何も聞かされず個室へ移動させられ、差額ベッド代26,500円払います",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "ボーナスランキング",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "analysis"
     },
     {
-      "title": "カウンター隣のおっちゃんがやたらくしゃみするので「風邪ひいてんなら飲みに来んなよ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "外資系コンサル男から大切な宝物（ブルシットジョブ）を守るため、洗練されたポンコツ",
+      "title": "先日話題になったアフタヌーンティーの一人客に関しては、イギリス王室の専門家から『",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "217話題の中東イラン情勢②",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ガッツ石松といえば乱闘の仲裁に入った結果、チンピラ8人を殴り倒したことで警察に「",
+      "title": "「なんでそんなことするん」人生ではじめてカバンのひったくり被害に… カバンの中に",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "サグラダ・ファミリア「イエスの塔」完成式典で「空中にドローンで映し出されたドヤ顔",
+      "title": "ダイキ工業からずんだどん可動フィギュアが発売されるがどのあたりに需要があるんだよ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "H3ロケット打ち上げ JAXA 計画どおり目標軌道到達 去年の失敗から再起かけ ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "まだこの世にないジャンルのゲームの作り方｜Xemono",
+      "title": "書評　伊藤昌亮『曖昧な弱者の時代』岩波新書、二〇二六年｜藤崎剛人",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
