@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T15:19:00+09:00",
+  "generated_at": "2026-06-12T15:53:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,32 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
-    "dedup_excluded": 7,
-    "passed_total": 114,
+    "neg_excluded": 10,
+    "dedup_excluded": 9,
+    "passed_total": 113,
     "b2b_category_counts": {
       "yahoo_realtime": 36,
-      "x_realtime": 10,
-      "news_web": 12,
+      "x_realtime": 8,
       "google_trends": 10,
-      "yahoo_news_ranking": 2
+      "news_web": 13,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 34,
-    "personal_story": 2,
+    "social_reaction": 32,
+    "personal_story": 3,
     "opinion": 10,
-    "medical_science": 3,
-    "hard_fact": 15,
-    "policy": 6
+    "medical_science": 2,
+    "hard_fact": 16,
+    "policy": 7
   },
   "b2b_topic_category_counts": {
-    "personal_story": 2,
-    "social_reaction": 34,
-    "hard_fact": 16,
+    "personal_story": 3,
+    "social_reaction": 32,
     "opinion": 10,
-    "policy": 6,
-    "medical_science": 2
+    "hard_fact": 17,
+    "policy": 7,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
@@ -63,10 +63,16 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "東京都心周辺 川の増水などに注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
+      "title": "中国の人から「日本は魚編の漢字沢山ありすぎ。中国は三文魚とか青花魚とか分かりやす",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "ポケモンセンターオンライン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "サッカーW杯、テレビ放送があっても「DAZN」を選ぶ理由　ただしサッカー専用プラ",
@@ -75,22 +81,16 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "母親",
+      "title": "日本女子プロゴルフ協会",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "校舎外壁が落下 老朽化対策が急務",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "マイケル・ジャクソンは本人の逸話を聞くたびに「めちゃくちゃ歌と踊りが上手で世界一",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "ウリ信用組合",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "王将",
@@ -99,10 +99,10 @@
       "topic_category": "opinion"
     },
     {
-      "title": "いちご新聞",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "東京都心周辺 川の増水などに注意",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
@@ -125,7 +125,25 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "中国の人から「日本は魚編の漢字沢山ありすぎ。中国は三文魚とか青花魚とか分かりやす",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
       "title": "サッカーW杯、テレビ放送があっても「DAZN」を選ぶ理由　ただしサッカー専用プラ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "大学の実験で5分遅れてきた人に「今日はもう締め切っちゃったので、欠席か見学か選ん",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "H3ロケット打ち上げ JAXA 計画どおり目標軌道到達 去年の失敗から再起かけ ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -137,31 +155,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "マイケル・ジャクソンは本人の逸話を聞くたびに「めちゃくちゃ歌と踊りが上手で世界一",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "H3ロケット打ち上げ JAXA 計画どおり目標軌道到達 去年の失敗から再起かけ ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "日本人の首都圏民は旅行をしない｜Mr.IQ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本にあるバングラデシュ、東十条でビリヤニを食べる　リトルダッカで食べる本場のビ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Xで心当たりなく凍結されたので、凍結解除の方法を試したら、X側から「ルール違反し",
+      "title": "マイケル・ジャクソンは本人の逸話を聞くたびに「めちゃくちゃ歌と踊りが上手で世界一",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
