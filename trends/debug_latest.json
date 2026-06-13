@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T19:17:00+09:00",
+  "generated_at": "2026-06-13T23:54:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -20,32 +20,44 @@
     "dedup_excluded": 9,
     "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 31,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "news_web": 16,
-      "yahoo_news_ranking": 5,
-      "x_realtime": 8
+      "x_realtime": 7,
+      "yahoo_news_ranking": 4,
+      "news_web": 14
     }
   },
   "note_category_counts": {
-    "social_reaction": 34,
-    "personal_story": 3,
+    "social_reaction": 35,
+    "personal_story": 2,
     "opinion": 10,
-    "medical_science": 3,
-    "hard_fact": 15,
+    "medical_science": 4,
+    "hard_fact": 14,
     "policy": 5
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
+    "social_reaction": 33,
     "opinion": 10,
-    "hard_fact": 21,
-    "medical_science": 1,
-    "personal_story": 3,
-    "policy": 5
+    "hard_fact": 19,
+    "personal_story": 2,
+    "policy": 5,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "【参加しませんか】「金玉流し」開催のお知らせ",
+      "title": "神奈川県海老名市にある三星化成工業では推し活などで溜まったCDを無料で引き取って",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中国人の考える「自由」と、日本人の考える「自由」はこんなに違う | ニューズウィ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "赤ちゃん「寝る音楽」好評　千葉の研究所が開発し公開",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -57,49 +69,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "西武ライオンズ",
+      "title": "山口智子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "bts ライブビューイング",
+      "title": "ブルーハーツ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "桐生祥秀",
+      "title": "足立梨花",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "milk",
+      "title": "nhk one",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "「レアハンバーグ」炎上 店の現在",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "赤いクワガタ? 毒ある体液に注意",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_science",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "「いやそんなんあり！？」人類史において一回しか使えないトリックを使ってしまった怪",
+      "title": "便利に使っているけれど「これは本来、人間がコントロールできるものではないのでは」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "曽野舜太",
+      "title": "唐沢寿明",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,7 +107,19 @@
   ],
   "note_top10": [
     {
-      "title": "【参加しませんか】「金玉流し」開催のお知らせ",
+      "title": "神奈川県海老名市にある三星化成工業では推し活などで溜まったCDを無料で引き取って",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "赤ちゃん「寝る音楽」好評　千葉の研究所が開発し公開",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中国人の考える「自由」と、日本人の考える「自由」はこんなに違う | ニューズウィ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -119,49 +131,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「いやそんなんあり！？」人類史において一回しか使えないトリックを使ってしまった怪",
+      "title": "便利に使っているけれど「これは本来、人間がコントロールできるものではないのでは」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ロシア人は紅茶にジャムを入れて飲む」はヴァレニエにまつわる文化のすれ違いという",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "めちゃめちゃ面白い本をイギリスで購入、なんと100年前の大日本帝国のガイドブック",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「立ち会いを妻に任せていたとは言えこれはひどいぜ業者さん」エアコンの室外機設置を",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「エロ漫画と思っていたら全然違った」これを警察に見せたらお手柄だけど、自分の盗撮",
+      "title": "さがみ屋製麺がぐっちゃぐちゃに揉みつぶされた味玉の件で犯人である子供に対して呼び",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "千葉音声研究所が「赤ちゃんがすぐ寝る音楽」を公開、パパママにとってありがたいのだ",
+      "title": "頭がフラフラし救急車で運ばれたところ、くも膜下出血と判断され、すぐに処置されたが",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "北大西洋に謎の「冷たい斑点」、将来の不吉な兆候か　新研究",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「室外機がうるさい」とご近所さんから通報がありそんな生活音ごときで...と思いな",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "横浜ノース・ドックで複数米兵、市街地に小銃構える 団体抗議「強い怒り」 | カナ",
+      "title": "DAZN Soccerの一部期間でのご契約についてのお詫びと今後の対応について",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "Terry's guide to the Japanese empire : i",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
