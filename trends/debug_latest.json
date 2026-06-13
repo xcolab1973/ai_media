@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T15:02:00+09:00",
+  "generated_at": "2026-06-13T19:17:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,32 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 15,
-    "passed_total": 108,
+    "neg_excluded": 8,
+    "dedup_excluded": 9,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
-      "news_web": 16,
+      "yahoo_realtime": 31,
       "google_trends": 10,
-      "x_realtime": 4,
-      "yahoo_news_ranking": 5
+      "news_web": 16,
+      "yahoo_news_ranking": 5,
+      "x_realtime": 8
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
+    "social_reaction": 34,
+    "personal_story": 3,
     "opinion": 10,
-    "personal_story": 1,
-    "policy": 7,
-    "hard_fact": 20,
-    "medical_science": 2
+    "medical_science": 3,
+    "hard_fact": 15,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
     "social_reaction": 30,
-    "hard_fact": 21,
-    "policy": 7,
     "opinion": 10,
+    "hard_fact": 21,
     "medical_science": 1,
-    "personal_story": 1
+    "personal_story": 3,
+    "policy": 5
   },
   "b2b_top10": [
     {
@@ -51,55 +51,55 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「レアハンバーグ」炎上 店の現在",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
       "title": "「イオンモールおじさんコーデ」が嫌われる理由を調べたら、2013年の女子ウケ最適",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【独自】「クールジャパン機構」廃止案　政府検討へ、累積赤字が拡大 | NEWSj",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "title": "西武ライオンズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "『ただいま〜毎日家でひとりぼっちにさせてごめんね💦帰ってきたらいつも出迎えてくれ",
+      "title": "bts ライブビューイング",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "桐生祥秀",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "milk",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「レアハンバーグ」炎上 店の現在",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "赤いクワガタ? 毒ある体液に注意",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_science",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "「いやそんなんあり！？」人類史において一回しか使えないトリックを使ってしまった怪",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "出生率は上げられるか、経済学者50人の見方　現金支給への支持薄く - 日本経済新",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "ミスド もっ ちゅ りん",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "石井亮次",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "luup",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "瀬戸 朝香",
+      "title": "曽野舜太",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -119,51 +119,51 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "『ただいま〜毎日家でひとりぼっちにさせてごめんね💦帰ってきたらいつも出迎えてくれ",
+      "title": "「いやそんなんあり！？」人類史において一回しか使えないトリックを使ってしまった怪",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "地方のイオンモール、母親は普通で娘は地雷系の親子からしか摂取できない栄養がある→",
+      "title": "「ロシア人は紅茶にジャムを入れて飲む」はヴァレニエにまつわる文化のすれ違いという",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "めちゃめちゃ面白い本をイギリスで購入、なんと100年前の大日本帝国のガイドブック",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「立ち会いを妻に任せていたとは言えこれはひどいぜ業者さん」エアコンの室外機設置を",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "6歳とゴッホ展に行き『夜のカフェテラス』の写真を撮って見せたら、6歳が「僕が見た",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "某会社から電話があり「昨年8月11日に◯さん（私）名義で携帯の契約があった。警視",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "たまに山の中でコンドームが落ちているのを目にすることがあるが、あれは実は「外で誰",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "セクシー女優の福田ゆあさんが海外旅行でニュージーランドを訪れた際、入国審査で6時",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「1日最高46万8320円」10歳息子がスマホのゲームに385万円無断課金… 「",
+      "title": "「エロ漫画と思っていたら全然違った」これを警察に見せたらお手柄だけど、自分の盗撮",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "動物病院で柴犬を連れたおじいちゃんが｢おまえ男だろ！覚悟しろ！｣って診察室に犬を",
+      "title": "千葉音声研究所が「赤ちゃんがすぐ寝る音楽」を公開、パパママにとってありがたいのだ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "北大西洋に謎の「冷たい斑点」、将来の不吉な兆候か　新研究",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "横浜ノース・ドックで複数米兵、市街地に小銃構える 団体抗議「強い怒り」 | カナ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
