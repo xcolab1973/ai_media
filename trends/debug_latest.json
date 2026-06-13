@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T08:02:00+09:00",
+  "generated_at": "2026-06-13T15:02:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,31 +16,52 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
-    "dedup_excluded": 9,
-    "passed_total": 112,
+    "neg_excluded": 9,
+    "dedup_excluded": 15,
+    "passed_total": 108,
     "b2b_category_counts": {
       "yahoo_realtime": 35,
-      "x_realtime": 10,
+      "news_web": 16,
       "google_trends": 10,
-      "news_web": 12,
-      "yahoo_news_ranking": 3
+      "x_realtime": 4,
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 34,
+    "social_reaction": 30,
     "opinion": 10,
-    "policy": 8,
-    "hard_fact": 16,
+    "personal_story": 1,
+    "policy": 7,
+    "hard_fact": 20,
     "medical_science": 2
   },
   "b2b_topic_category_counts": {
-    "policy": 9,
-    "social_reaction": 34,
+    "social_reaction": 30,
+    "hard_fact": 21,
+    "policy": 7,
     "opinion": 10,
-    "hard_fact": 17
+    "medical_science": 1,
+    "personal_story": 1
   },
   "b2b_top10": [
+    {
+      "title": "【参加しませんか】「金玉流し」開催のお知らせ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「レアハンバーグ」炎上 店の現在",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "「イオンモールおじさんコーデ」が嫌われる理由を調べたら、2013年の女子ウケ最適",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "【独自】「クールジャパン機構」廃止案　政府検討へ、累積赤字が拡大 | NEWSj",
       "source_category": "yahoo_realtime",
@@ -48,25 +69,7 @@
       "topic_category": "policy"
     },
     {
-      "title": "秋葉原駅のホームにあるミルクスタンドには謎の魅力がありこの店が潰れないように必ず",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "口に放り込んでバイクに乗ったら、酒に酔った感覚とODの時の感覚が同時に襲ってきて",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "学生が薬局に無断駐車したので注意したら「なんだこら」と凄まれた→学校に連絡したと",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "今の職場でADHD+ASDの発達障害者が居るんだけど、分かりやすく説明しても理解",
+      "title": "『ただいま〜毎日家でひとりぼっちにさせてごめんね💦帰ってきたらいつも出迎えてくれ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -78,25 +81,25 @@
       "topic_category": "policy"
     },
     {
-      "title": "パイレーツ 対 マーリンズ",
+      "title": "ミスド もっ ちゅ りん",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "モスが詐欺広告に注意喚起 丸亀も",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ハエラ",
+      "title": "石井亮次",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ゴッホ",
+      "title": "luup",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "瀬戸 朝香",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -104,61 +107,61 @@
   ],
   "note_top10": [
     {
-      "title": "秋葉原駅のホームにあるミルクスタンドには謎の魅力がありこの店が潰れないように必ず",
+      "title": "【参加しませんか】「金玉流し」開催のお知らせ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "口に放り込んでバイクに乗ったら、酒に酔った感覚とODの時の感覚が同時に襲ってきて",
+      "title": "「イオンモールおじさんコーデ」が嫌われる理由を調べたら、2013年の女子ウケ最適",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "学生が薬局に無断駐車したので注意したら「なんだこら」と凄まれた→学校に連絡したと",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "今の職場でADHD+ASDの発達障害者が居るんだけど、分かりやすく説明しても理解",
+      "title": "『ただいま〜毎日家でひとりぼっちにさせてごめんね💦帰ってきたらいつも出迎えてくれ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "小学館がドラえもん問題の謝罪に失敗した件で「沢孝史が1年目で起こしたやらかしの謝",
+      "title": "地方のイオンモール、母親は普通で娘は地雷系の親子からしか摂取できない栄養がある→",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "6歳とゴッホ展に行き『夜のカフェテラス』の写真を撮って見せたら、6歳が「僕が見た",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "某会社から電話があり「昨年8月11日に◯さん（私）名義で携帯の契約があった。警視",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "たまに山の中でコンドームが落ちているのを目にすることがあるが、あれは実は「外で誰",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "セクシー女優の福田ゆあさんが海外旅行でニュージーランドを訪れた際、入国審査で6時",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「1日最高46万8320円」10歳息子がスマホのゲームに385万円無断課金… 「",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "サイバーパンクの世界はやたら日本人っぽい名前が多いけど製作者が日本好きなの？…む",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「父シャバーニの登場で緊張するキヨマサ」キヨマサの表情が人間過ぎてなんだかおもろ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『まじで人死ぬぞこれ』府中本町駅の改札外のエレベーターの異常動作が話題に「タワー",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「2択外しすぎてやけになる妹を制止する柴犬」静止するときの姉犬が目も動きも優しす",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "クリップひとつ突き刺せばテレビで地デジを見ることができる話…もしかして自分が触っ",
+      "title": "動物病院で柴犬を連れたおじいちゃんが｢おまえ男だろ！覚悟しろ！｣って診察室に犬を",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
