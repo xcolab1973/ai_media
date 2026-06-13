@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T23:54:00+09:00",
+  "generated_at": "2026-06-14T07:44:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,38 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 9,
+    "neg_excluded": 6,
+    "dedup_excluded": 11,
     "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 38,
       "google_trends": 10,
-      "x_realtime": 7,
+      "x_realtime": 6,
       "yahoo_news_ranking": 4,
-      "news_web": 14
+      "news_web": 12
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
-    "personal_story": 2,
-    "opinion": 10,
-    "medical_science": 4,
-    "hard_fact": 14,
-    "policy": 5
+    "social_reaction": 30,
+    "medical_science": 6,
+    "analysis": 1,
+    "personal_story": 4,
+    "opinion": 9,
+    "policy": 6,
+    "hard_fact": 14
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
-    "opinion": 10,
-    "hard_fact": 19,
-    "personal_story": 2,
-    "policy": 5,
-    "medical_science": 1
+    "social_reaction": 30,
+    "medical_science": 3,
+    "opinion": 9,
+    "policy": 6,
+    "analysis": 1,
+    "hard_fact": 17,
+    "personal_story": 4
   },
   "b2b_top10": [
     {
-      "title": "神奈川県海老名市にある三星化成工業では推し活などで溜まったCDを無料で引き取って",
+      "title": "以前、勉強できない子たち専用の学習塾に勤めていたが、できない子にとっては「質問さ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -63,43 +65,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「イオンモールおじさんコーデ」が嫌われる理由を調べたら、2013年の女子ウケ最適",
+      "title": "トレーニング中に背中を痛めたので整形外科に行ったら、壁に「医療の力で健康的に痩せ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "medical_science"
     },
     {
-      "title": "山口智子",
+      "title": "杜 このみ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ブルーハーツ",
+      "title": "サイバリ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "足立梨花",
+      "title": "山本由伸",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "nhk one",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "便利に使っているけれど「これは本来、人間がコントロールできるものではないのでは」",
+      "title": "オランダ海軍の軍艦が6月15日に東京へ来航、もちろん歓迎なのだが「オランダがW杯",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "policy"
     },
     {
-      "title": "唐沢寿明",
+      "title": "家計",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "スポーツナビ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,7 +109,7 @@
   ],
   "note_top10": [
     {
-      "title": "神奈川県海老名市にある三星化成工業では推し活などで溜まったCDを無料で引き取って",
+      "title": "以前、勉強できない子たち専用の学習塾に勤めていたが、できない子にとっては「質問さ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,46 +127,46 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「イオンモールおじさんコーデ」が嫌われる理由を調べたら、2013年の女子ウケ最適",
+      "title": "トレーニング中に背中を痛めたので整形外科に行ったら、壁に「医療の力で健康的に痩せ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "medical_science"
     },
     {
-      "title": "便利に使っているけれど「これは本来、人間がコントロールできるものではないのでは」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "サッカー 世界ランキング",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "analysis"
     },
     {
-      "title": "さがみ屋製麺がぐっちゃぐちゃに揉みつぶされた味玉の件で犯人である子供に対して呼び",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "頭がフラフラし救急車で運ばれたところ、くも膜下出血と判断され、すぐに処置されたが",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「室外機がうるさい」とご近所さんから通報がありそんな生活音ごときで...と思いな",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "DAZN Soccerの一部期間でのご契約についてのお詫びと今後の対応について",
+      "title": "塾で中１から週6講義くらい取ってるガキいてマジで何なんだと思って話してみたら｢中",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "Terry's guide to the Japanese empire : i",
+      "title": "ペット不可の物件でペットを飼いたい人が起こした怖い話、飼ったらアカン人はさらにア",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "「ONE PIECE人気投票 WT100」でナミュールに投票するためにジャンプ9",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "タクシーで高速に乗って長距離移動してたら老年の運転手が130キロくらい出したり居",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "杜 このみ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
