@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T19:40:00+09:00",
+  "generated_at": "2026-06-15T00:00:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 10,
-    "passed_total": 113,
+    "neg_excluded": 6,
+    "dedup_excluded": 9,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_news_ranking": 3,
+      "yahoo_realtime": 36,
       "google_trends": 10,
-      "news_web": 18,
-      "yahoo_realtime": 32,
-      "x_realtime": 7
+      "yahoo_news_ranking": 2,
+      "news_web": 13,
+      "x_realtime": 9
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
+    "social_reaction": 37,
     "opinion": 10,
-    "personal_story": 2,
+    "personal_story": 1,
     "medical_science": 4,
-    "hard_fact": 18,
-    "policy": 6
+    "hard_fact": 15,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 23,
+    "social_reaction": 37,
     "opinion": 10,
-    "social_reaction": 27,
-    "policy": 6,
-    "personal_story": 2,
-    "medical_science": 2
+    "hard_fact": 16,
+    "medical_science": 2,
+    "policy": 4,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "DAZNの料金表示巡る炎上 続く訳",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_it",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "菅田将暉",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "給食にカビ 保護者通知は3週間後",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_local",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "3年付き合って結婚すると思っていた彼氏に「会社の子を好きになった」と言われふられ",
+      "title": "DAZN「月額980円表記」炎上騒動、沈静化せず　一部ユーザーに公式Xが「やあ！",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "カルディの前を通りかかったら、試飲を配っているお姉さんが会話の成り立たない客に絡",
+      "title": "日本のスポーツコンテンツはなぜ国際的に価値が高いのか？（木曽崇） - エキスパー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ブーイング",
+      "title": "やっぱり民主主義は大事だなと思った話｜ユーリィ・イズムィコ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "f1",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "味の素スタジアム",
+      "title": "ロメウ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "物語コーポレーション",
+      "title": "ネーションズリーグ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "シンガポール",
+      "title": "中学の頃に気になってた女子がバスケ部のイケメン高校生と付き合い始めたのを聞いて「",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ルイスハミルトン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "中島美嘉",
+      "title": "usa vs netherlands",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "坂東龍汰",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,63 +107,63 @@
   ],
   "note_top10": [
     {
-      "title": "3年付き合って結婚すると思っていた彼氏に「会社の子を好きになった」と言われふられ",
+      "title": "DAZN「月額980円表記」炎上騒動、沈静化せず　一部ユーザーに公式Xが「やあ！",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "カルディの前を通りかかったら、試飲を配っているお姉さんが会話の成り立たない客に絡",
+      "title": "日本のスポーツコンテンツはなぜ国際的に価値が高いのか？（木曽崇） - エキスパー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ジョセフ・ヒース「ハラリ vs ヘンリック：人間の進化について科学が実際に語って",
+      "title": "やっぱり民主主義は大事だなと思った話｜ユーリィ・イズムィコ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「これができないらしいよ」テレビ東京の新番組『※女性は見ないでください』、モキュ",
+      "title": "中学の頃に気になってた女子がバスケ部のイケメン高校生と付き合い始めたのを聞いて「",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「当たり前のように三角コーンを装着してダイバーみたいに飛び込むホッキョクグマ」安",
+      "title": "これまで二年付き合ってきて仲良しだった彼氏が、私と結婚でいいのか比較するためにア",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ツイッターランドを眺めてると「この服がキモい」「ボディバッグはダサい」みたいな情",
+      "title": "新幹線を降りた観光客が素通り…開業37年で店舗数の8割が消えた｢新神戸駅直結モー",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ご令嬢の友達が、働いてないけど家賃払ってもらって港区住み、彼氏に300万円くらい",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「とうとうChatGPTがBANされてしまった」3年間の歴史が一通のメールで全て",
+      "title": "高学歴だが発達障害で作業所へ通っている人に「高望みするな」という声はあるが、そう",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ビックカメラでポケモンカードをカートンで販売しているのを目撃…店員に質問したら「",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "2026年版「世界で最も安全な国」ランキング、日本は10位に浮上 | Forbe",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "地方のイオンモールはこういう格好した人がどうこうより端っこから端っこが遠い方が許",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "クールジャパン機構の累積赤字額は383億円だがクリエイターにほとんど金が回らず…",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "一心不乱に草食べる　ヤギ9頭、草刈り任され　経費30万円減 | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
