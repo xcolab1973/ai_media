@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T15:20:00+09:00",
+  "generated_at": "2026-06-14T19:40:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
+    "neg_excluded": 9,
     "dedup_excluded": 10,
-    "passed_total": 111,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
-      "x_realtime": 7,
+      "yahoo_news_ranking": 3,
       "google_trends": 10,
-      "news_web": 13,
-      "yahoo_news_ranking": 6
+      "news_web": 18,
+      "yahoo_realtime": 32,
+      "x_realtime": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 27,
+    "social_reaction": 30,
     "opinion": 10,
-    "personal_story": 3,
+    "personal_story": 2,
     "medical_science": 4,
     "hard_fact": 18,
-    "policy": 8
+    "policy": 6
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 27,
+    "hard_fact": 23,
     "opinion": 10,
-    "hard_fact": 20,
-    "personal_story": 3,
-    "medical_science": 2,
-    "policy": 8
+    "social_reaction": 27,
+    "policy": 6,
+    "personal_story": 2,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "無料→いきなり月800万円　Xのデータ有料化、情報工作追跡に影響：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「非常に危険な行為ですので絶対に真似しないでください」『もちづきさん』最新22話",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "宝塚記念 2026",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "猛省 ベッツが失策で完全試合終了",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
+      "title": "DAZNの料金表示巡る炎上 続く訳",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_it",
       "topic_category": "hard_fact"
     },
     {
-      "title": "「これができないらしいよ」テレビ東京の新番組『※女性は見ないでください』、モキュ",
+      "title": "菅田将暉",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "給食にカビ 保護者通知は3週間後",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_local",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "3年付き合って結婚すると思っていた彼氏に「会社の子を好きになった」と言われふられ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "大阪天気",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "大塚達宣",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "キュラソー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "電車で眠そうな幼児を抱えている女性がいたので席を譲ろうとアイコンタクトしたら「今",
+      "title": "カルディの前を通りかかったら、試飲を配っているお姉さんが会話の成り立たない客に絡",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "トミー・エドマン",
+      "title": "ブーイング",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "味の素スタジアム",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "物語コーポレーション",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "シンガポール",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "中島美嘉",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,15 +107,21 @@
   ],
   "note_top10": [
     {
-      "title": "無料→いきなり月800万円　Xのデータ有料化、情報工作追跡に影響：朝日新聞",
+      "title": "3年付き合って結婚すると思っていた彼氏に「会社の子を好きになった」と言われふられ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「非常に危険な行為ですので絶対に真似しないでください」『もちづきさん』最新22話",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "カルディの前を通りかかったら、試飲を配っているお姉さんが会話の成り立たない客に絡",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ジョセフ・ヒース「ハラリ vs ヘンリック：人間の進化について科学が実際に語って",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -125,43 +131,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "電車で眠そうな幼児を抱えている女性がいたので席を譲ろうとアイコンタクトしたら「今",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "宝塚記念 2026",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "前線歩兵の外国人割合増へ　ウクライナ軍、30～50％に",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ある宅配業者の担当者から「最近日中家にいますよね、妊娠したんですか？」など、私生",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "珍しいバイクを出品したらすぐに落札されたが相手はまさかのヤマハ社員だった→引き渡",
+      "title": "「当たり前のように三角コーンを装着してダイバーみたいに飛び込むホッキョクグマ」安",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "これは新米パパママ教室に着ていったら先生方にめちゃくちゃ笑われたエプロンです「ど",
+      "title": "ツイッターランドを眺めてると「この服がキモい」「ボディバッグはダサい」みたいな情",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "息子のテニス教室にやる気のない女児がいて、毎週それを黙って見守るお父さん…と思っ",
+      "title": "「とうとうChatGPTがBANされてしまった」3年間の歴史が一通のメールで全て",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ビックカメラでポケモンカードをカートンで販売しているのを目撃…店員に質問したら「",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "地方のイオンモールはこういう格好した人がどうこうより端っこから端っこが遠い方が許",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "クールジャパン機構の累積赤字額は383億円だがクリエイターにほとんど金が回らず…",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
