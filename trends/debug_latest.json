@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T07:44:00+09:00",
+  "generated_at": "2026-06-14T15:20:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,92 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 11,
-    "passed_total": 115,
+    "neg_excluded": 11,
+    "dedup_excluded": 10,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "yahoo_realtime": 38,
+      "yahoo_realtime": 34,
+      "x_realtime": 7,
       "google_trends": 10,
-      "x_realtime": 6,
-      "yahoo_news_ranking": 4,
-      "news_web": 12
+      "news_web": 13,
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "medical_science": 6,
-    "analysis": 1,
-    "personal_story": 4,
-    "opinion": 9,
-    "policy": 6,
-    "hard_fact": 14
+    "social_reaction": 27,
+    "opinion": 10,
+    "personal_story": 3,
+    "medical_science": 4,
+    "hard_fact": 18,
+    "policy": 8
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
-    "medical_science": 3,
-    "opinion": 9,
-    "policy": 6,
-    "analysis": 1,
-    "hard_fact": 17,
-    "personal_story": 4
+    "social_reaction": 27,
+    "opinion": 10,
+    "hard_fact": 20,
+    "personal_story": 3,
+    "medical_science": 2,
+    "policy": 8
   },
   "b2b_top10": [
     {
-      "title": "以前、勉強できない子たち専用の学習塾に勤めていたが、できない子にとっては「質問さ",
+      "title": "無料→いきなり月800万円　Xのデータ有料化、情報工作追跡に影響：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "中国人の考える「自由」と、日本人の考える「自由」はこんなに違う | ニューズウィ",
+      "title": "「非常に危険な行為ですので絶対に真似しないでください」『もちづきさん』最新22話",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "宝塚記念 2026",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "猛省 ベッツが失策で完全試合終了",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "「これができないらしいよ」テレビ東京の新番組『※女性は見ないでください』、モキュ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "赤ちゃん「寝る音楽」好評　千葉の研究所が開発し公開",
+      "title": "大阪天気",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "大塚達宣",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "キュラソー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "電車で眠そうな幼児を抱えている女性がいたので席を譲ろうとアイコンタクトしたら「今",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "トレーニング中に背中を痛めたので整形外科に行ったら、壁に「医療の力で健康的に痩せ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "杜 このみ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "サイバリ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "山本由伸",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "オランダ海軍の軍艦が6月15日に東京へ来航、もちろん歓迎なのだが「オランダがW杯",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "家計",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "スポーツナビ",
+      "title": "トミー・エドマン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -109,64 +107,64 @@
   ],
   "note_top10": [
     {
-      "title": "以前、勉強できない子たち専用の学習塾に勤めていたが、できない子にとっては「質問さ",
+      "title": "無料→いきなり月800万円　Xのデータ有料化、情報工作追跡に影響：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "赤ちゃん「寝る音楽」好評　千葉の研究所が開発し公開",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中国人の考える「自由」と、日本人の考える「自由」はこんなに違う | ニューズウィ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "トレーニング中に背中を痛めたので整形外科に行ったら、壁に「医療の力で健康的に痩せ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "サッカー 世界ランキング",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "analysis"
-    },
-    {
-      "title": "塾で中１から週6講義くらい取ってるガキいてマジで何なんだと思って話してみたら｢中",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "ペット不可の物件でペットを飼いたい人が起こした怖い話、飼ったらアカン人はさらにア",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "「ONE PIECE人気投票 WT100」でナミュールに投票するためにジャンプ9",
+      "title": "「非常に危険な行為ですので絶対に真似しないでください」『もちづきさん』最新22話",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "タクシーで高速に乗って長距離移動してたら老年の運転手が130キロくらい出したり居",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「これができないらしいよ」テレビ東京の新番組『※女性は見ないでください』、モキュ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "杜 このみ",
+      "title": "電車で眠そうな幼児を抱えている女性がいたので席を譲ろうとアイコンタクトしたら「今",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "宝塚記念 2026",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
+    },
+    {
+      "title": "前線歩兵の外国人割合増へ　ウクライナ軍、30～50％に",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ある宅配業者の担当者から「最近日中家にいますよね、妊娠したんですか？」など、私生",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "珍しいバイクを出品したらすぐに落札されたが相手はまさかのヤマハ社員だった→引き渡",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "これは新米パパママ教室に着ていったら先生方にめちゃくちゃ笑われたエプロンです「ど",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "息子のテニス教室にやる気のない女児がいて、毎週それを黙って見守るお父さん…と思っ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ]
 }
