@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T00:00:00+09:00",
+  "generated_at": "2026-06-15T07:49:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,41 +17,41 @@
       "x_realtime": 10
     },
     "neg_excluded": 6,
-    "dedup_excluded": 9,
-    "passed_total": 117,
+    "dedup_excluded": 11,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
+      "yahoo_realtime": 38,
       "google_trends": 10,
+      "x_realtime": 6,
       "yahoo_news_ranking": 2,
-      "news_web": 13,
-      "x_realtime": 9
+      "news_web": 14
     }
   },
   "note_category_counts": {
-    "social_reaction": 37,
+    "social_reaction": 28,
+    "personal_story": 5,
     "opinion": 10,
-    "personal_story": 1,
+    "policy": 4,
     "medical_science": 4,
-    "hard_fact": 15,
-    "policy": 3
+    "hard_fact": 19
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 37,
+    "policy": 5,
+    "social_reaction": 28,
     "opinion": 10,
-    "hard_fact": 16,
-    "medical_science": 2,
-    "policy": 4,
-    "personal_story": 1
+    "hard_fact": 19,
+    "personal_story": 5,
+    "medical_science": 3
   },
   "b2b_top10": [
     {
-      "title": "DAZN「月額980円表記」炎上騒動、沈静化せず　一部ユーザーに公式Xが「やあ！",
+      "title": "今治造船・川崎重工・名村造船、国産LNG船の建造再開へ　35年にも - 日本経済",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "policy"
     },
     {
-      "title": "日本のスポーツコンテンツはなぜ国際的に価値が高いのか？（木曽崇） - エキスパー",
+      "title": "DAZN「月額980円表記」炎上騒動、沈静化せず　一部ユーザーに公式Xが「やあ！",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -63,43 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "f1",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ロメウ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ネーションズリーグ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "中学の頃に気になってた女子がバスケ部のイケメン高校生と付き合い始めたのを聞いて「",
+      "title": "赤字鉄道が廃線危機にさらされるそもそもの理由　道路は「公共」で鉄道は「ビジネス」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "policy"
     },
     {
-      "title": "ルイスハミルトン",
+      "title": "札幌 天気",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "usa vs netherlands",
+      "title": "菅野智之",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "坂東龍汰",
+      "title": "【速報】トランプ大統領 「合意完了」イラン側「覚書が完成」 | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "賞与",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "オランダ国王",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "県民の日",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,16 +113,28 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本のスポーツコンテンツはなぜ国際的に価値が高いのか？（木曽崇） - エキスパー",
+      "title": "やっぱり民主主義は大事だなと思った話｜ユーリィ・イズムィコ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "やっぱり民主主義は大事だなと思った話｜ユーリィ・イズムィコ",
+      "title": "サッカーW杯 日本 初戦はオランダと引き分け 2度追いつく | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "ご令嬢の友達が、働いてないけど家賃払ってもらって港区住み、彼氏に300万円くらい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "常連として覚えられないように気配を消して使っていた個人経営の喫茶店で、すげーイヤ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
       "title": "中学の頃に気になってた女子がバスケ部のイケメン高校生と付き合い始めたのを聞いて「",
@@ -131,37 +143,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "これまで二年付き合ってきて仲良しだった彼氏が、私と結婚でいいのか比較するためにア",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "新幹線を降りた観光客が素通り…開業37年で店舗数の8割が消えた｢新神戸駅直結モー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ご令嬢の友達が、働いてないけど家賃払ってもらって港区住み、彼氏に300万円くらい",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "高学歴だが発達障害で作業所へ通っている人に「高望みするな」という声はあるが、そう",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "2026年版「世界で最も安全な国」ランキング、日本は10位に浮上 | Forbe",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "一心不乱に草食べる　ヤギ9頭、草刈り任され　経費30万円減 | 毎日新聞",
+      "title": "自分の行動次第で見るものが変わる「没入型テーマパーク」のレポ漫画に、「どこで体験",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "声優業界に入って「『上手い』より『使いやすい』が強い」「一発の完成度より安定感」",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "女4人で東京に行くんですけど、「東京来たなあ〜」って気持ちになるうまい飯教えてく",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
