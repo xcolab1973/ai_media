@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T02:46:00+09:00",
+  "generated_at": "2026-06-16T08:23:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,104 +16,104 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 11,
-    "passed_total": 115,
+    "neg_excluded": 9,
+    "dedup_excluded": 9,
+    "passed_total": 114,
     "b2b_category_counts": {
+      "yahoo_realtime": 38,
+      "google_trends": 9,
       "x_realtime": 7,
       "news_web": 11,
-      "yahoo_realtime": 38,
-      "google_trends": 10,
-      "yahoo_news_ranking": 4
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "personal_story": 2,
-    "opinion": 10,
-    "medical_science": 4,
-    "hard_fact": 17,
-    "policy": 4
+    "social_reaction": 28,
+    "personal_story": 1,
+    "opinion": 9,
+    "medical_science": 5,
+    "hard_fact": 18,
+    "policy": 9
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
-    "hard_fact": 18,
-    "personal_story": 2,
-    "opinion": 10,
-    "medical_science": 3,
-    "policy": 4
+    "social_reaction": 28,
+    "opinion": 9,
+    "personal_story": 1,
+    "hard_fact": 20,
+    "policy": 9,
+    "medical_science": 3
   },
   "b2b_top10": [
     {
-      "title": "【閲覧注意】「ハエがここまでいるお宅があったら迷わず管理会社や警察に連絡をしてく",
+      "title": "ウクライナ首都に大規模攻撃、世界遺産の大修道院が炎上　18人負傷",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "大谷",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "中澤佑二",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "レッズ 対 メッツ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "絶滅危惧種であるシロチドリの巣が何者かによって砂で埋められ親鳥が営巣放棄...保",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "コストコで食中毒 10歳未満が重症",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "日テレ「有吉の壁」9月末でレギュラー放送終了　20年から水曜の顔、今後は特番で放",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "子どもを不登校のまま休ませるべきか、多少無理をしてでも登校させるべきか…「休ませ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "昔、メイクが嫌すぎて、バイト先にすっぴんで出勤していたら、職場の男性から「メイク",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "fifa world cup 2026™",
+      "title": "ニューヨークニックス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "フェラントーレス",
+      "title": "マック ワールドカップ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ガビ",
+      "title": "jfe",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "マルク・ククレジャ",
+      "title": "セントフォース",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "夫の手術がかなり早く終わり、医師たちが笑いながら手術室から出てきたので助かったの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "title": "水瀬いのり",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "【閲覧注意】「ハエがここまでいるお宅があったら迷わず管理会社や警察に連絡をしてく",
+      "title": "絶滅危惧種であるシロチドリの巣が何者かによって砂で埋められ親鳥が営巣放棄...保",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日テレ「有吉の壁」9月末でレギュラー放送終了　20年から水曜の顔、今後は特番で放",
+      "title": "ウクライナ首都に大規模攻撃、世界遺産の大修道院が炎上　18人負傷",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,43 +125,43 @@
       "topic_category": "personal_story"
     },
     {
+      "title": "10円玉の素材価値、銅高騰で「額面超え」　1円玉にもアルミ高の影 - 日本経済新",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "昔、メイクが嫌すぎて、バイト先にすっぴんで出勤していたら、職場の男性から「メイク",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "子宮を摘出した母が「生理つらいなら休暇をとってね」と言ったら「貴方は子宮がないか",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "大谷",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "池波正太郎作品に出てくる江戸時代から食べられていた「白葱だけの味噌汁」が出汁を引",
+      "title": "中澤佑二",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "レッズ 対 メッツ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "イスラエル、米イラン合意に猛反発　レバノン攻撃を継続 - 日本経済新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "シネスイッチ銀座　閉館のお知らせ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ホストクラブで働いていたときにリストカット常習の客がいて「触れるべきか、そっとし",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "半年間、ほぼ毎日ジムに行って分かったこと『体重は減らない』→合わせて紹介された変",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "大阪王将って人気が有るみたいだし、餃子が美味しいって言われてるけど、 ..",
+      "title": "フロリダ州より長い…ウクライナは今年、総延長822kmの対ドローンネットを道路に",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
