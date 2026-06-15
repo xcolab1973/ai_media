@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T22:41:00+09:00",
+  "generated_at": "2026-06-16T02:46:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,32 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 10,
-    "passed_total": 117,
+    "neg_excluded": 6,
+    "dedup_excluded": 11,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "x_realtime": 8,
-      "news_web": 17,
-      "yahoo_realtime": 31,
+      "x_realtime": 7,
+      "news_web": 11,
+      "yahoo_realtime": 38,
       "google_trends": 10,
       "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 36,
+    "social_reaction": 33,
     "personal_story": 2,
     "opinion": 10,
-    "medical_science": 3,
-    "hard_fact": 15,
+    "medical_science": 4,
+    "hard_fact": 17,
     "policy": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "hard_fact": 22,
-    "policy": 5,
+    "social_reaction": 33,
+    "hard_fact": 18,
+    "personal_story": 2,
     "opinion": 10,
-    "medical_science": 2,
-    "personal_story": 2
+    "medical_science": 3,
+    "policy": 4
   },
   "b2b_top10": [
     {
@@ -63,31 +63,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "米・イラン、戦闘終結へ合意と発表　船は「エンジン始動」をとトランプ氏 - BBC",
+      "title": "子どもを不登校のまま休ませるべきか、多少無理をしてでも登校させるべきか…「休ませ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "topic_category": "personal_story"
     },
     {
-      "title": "なぜ若者まで「とりあえず赤星」と頼むのか　テレビCMゼロでも10年で3.5倍に伸",
+      "title": "昔、メイクが嫌すぎて、バイト先にすっぴんで出勤していたら、職場の男性から「メイク",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "椎名林檎",
+      "title": "fifa world cup 2026™",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "橋本愛",
+      "title": "フェラントーレス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "権田修一",
+      "title": "ガビ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "マルク・ククレジャ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -97,12 +103,6 @@
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "medical_science"
-    },
-    {
-      "title": "アメリカ人がワールドカップの会場で日本人ファンに「振ってるゴミ袋って何？」と聞い",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
@@ -119,27 +119,33 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "アメリカ人がワールドカップの会場で日本人ファンに「振ってるゴミ袋って何？」と聞い",
+      "title": "子どもを不登校のまま休ませるべきか、多少無理をしてでも登校させるべきか…「休ませ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "昔、メイクが嫌すぎて、バイト先にすっぴんで出勤していたら、職場の男性から「メイク",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "なぜ若者まで「とりあえず赤星」と頼むのか　テレビCMゼロでも10年で3.5倍に伸",
+      "title": "子宮を摘出した母が「生理つらいなら休暇をとってね」と言ったら「貴方は子宮がないか",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "池波正太郎作品に出てくる江戸時代から食べられていた「白葱だけの味噌汁」が出汁を引",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "定年まで勤めるつもりだったお局様が、過去にいじめた人ばかりの部署に異動になり、結",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "絵描いてて\"座ったまま空中に浮いてる状態のスカートの形状\"がわからないんですけど",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "シネスイッチ銀座　閉館のお知らせ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -149,19 +155,13 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "半年間、ほぼ毎日ジムに行って分かったこと『体重は減らない』→合わせて紹介された変",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "大阪王将って人気が有るみたいだし、餃子が美味しいって言われてるけど、 ..",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "茨城県下妻市長、排水路で遺体で見つかる　家族から行方不明届 | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "元婚活産業関係者だけど、中の人目線で婚活の本音をぶっちゃける",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
