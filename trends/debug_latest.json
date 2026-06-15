@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T07:49:00+09:00",
+  "generated_at": "2026-06-15T16:00:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,152 +16,151 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 11,
-    "passed_total": 115,
+    "neg_excluded": 12,
+    "dedup_excluded": 9,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "yahoo_realtime": 38,
+      "news_web": 12,
+      "yahoo_realtime": 37,
       "google_trends": 10,
-      "x_realtime": 6,
-      "yahoo_news_ranking": 2,
-      "news_web": 14
+      "yahoo_news_ranking": 4,
+      "x_realtime": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "personal_story": 5,
+    "social_reaction": 38,
+    "personal_story": 3,
     "opinion": 10,
-    "policy": 4,
-    "medical_science": 4,
-    "hard_fact": 19
+    "hard_fact": 15,
+    "policy": 3,
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "policy": 5,
-    "social_reaction": 28,
+    "hard_fact": 17,
+    "social_reaction": 37,
     "opinion": 10,
-    "hard_fact": 19,
-    "personal_story": 5,
-    "medical_science": 3
+    "policy": 3,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "今治造船・川崎重工・名村造船、国産LNG船の建造再開へ　35年にも - 日本経済",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "DAZN「月額980円表記」炎上騒動、沈静化せず　一部ユーザーに公式Xが「やあ！",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "やっぱり民主主義は大事だなと思った話｜ユーリィ・イズムィコ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "赤字鉄道が廃線危機にさらされるそもそもの理由　道路は「公共」で鉄道は「ビジネス」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "札幌 天気",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "菅野智之",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "【速報】トランプ大統領 「合意完了」イラン側「覚書が完成」 | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "露がキーウに空爆 世界遺産炎上",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "賞与",
+      "title": "なぜ若者まで「とりあえず赤星」と頼むのか　テレビCMゼロでも10年で3.5倍に伸",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "サッカーワールドカップ観戦のためにテキサス州を訪れた日本人がたった6語の言葉で地",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "岡本和真",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "オランダ国王",
+      "title": "米津玄師 烏 - raven",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "県民の日",
+      "title": "下妻市長",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
+    },
+    {
+      "title": "ペチェールシク大修道院",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "沖縄 天気",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "顕彰馬",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「不登校は、毎日学校に行かないところが嫌い」この投稿に様々な意見が集まるが、怒り",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
-      "title": "DAZN「月額980円表記」炎上騒動、沈静化せず　一部ユーザーに公式Xが「やあ！",
+      "title": "なぜ若者まで「とりあえず赤星」と頼むのか　テレビCMゼロでも10年で3.5倍に伸",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "やっぱり民主主義は大事だなと思った話｜ユーリィ・イズムィコ",
+      "title": "サッカーワールドカップ観戦のためにテキサス州を訪れた日本人がたった6語の言葉で地",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "サッカーW杯 日本 初戦はオランダと引き分け 2度追いつく | NHKニュース",
+      "title": "「不登校は、毎日学校に行かないところが嫌い」この投稿に様々な意見が集まるが、怒り",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ご令嬢の友達が、働いてないけど家賃払ってもらって港区住み、彼氏に300万円くらい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "常連として覚えられないように気配を消して使っていた個人経営の喫茶店で、すげーイヤ",
+      "title": "CMで見た豆乳茶づけを食べてみたいし、他の乳でも試したい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "中学の頃に気になってた女子がバスケ部のイケメン高校生と付き合い始めたのを聞いて「",
+      "title": "大阪王将って人気が有るみたいだし、餃子が美味しいって言われてるけど、 ..",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "高学歴だが発達障害で作業所へ通っている人に「高望みするな」という声はあるが、そう",
+      "title": "ANA便に乗ろうとしたらオーバーブッキングと言われ、協力金は到着地で聞いてくれと",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "自分の行動次第で見るものが変わる「没入型テーマパーク」のレポ漫画に、「どこで体験",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "声優業界に入って「『上手い』より『使いやすい』が強い」「一発の完成度より安定感」",
+      "title": "「赤ん坊のことを真剣に考えてその働き方なのか」妻は妊娠当時、霞が関勤めだったが、",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "女4人で東京に行くんですけど、「東京来たなあ〜」って気持ちになるうまい飯教えてく",
+      "title": "長男に仕事は大丈夫か聞いたら「密室で上司にパワハラ受けて机をバーン！って叩いてき",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "短期打ち切り作品で「何でこんなことしちゃったの」と読者から揶揄されるミス…実は担",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "冷蔵庫ってクリアな扉にしておけば開けなくても中身を確認できるから電気代の節約にも",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
