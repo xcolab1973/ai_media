@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T16:00:00+09:00",
+  "generated_at": "2026-06-15T22:41:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,38 +16,57 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 9,
-    "passed_total": 111,
+    "neg_excluded": 5,
+    "dedup_excluded": 10,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "news_web": 12,
-      "yahoo_realtime": 37,
+      "x_realtime": 8,
+      "news_web": 17,
+      "yahoo_realtime": 31,
       "google_trends": 10,
-      "yahoo_news_ranking": 4,
-      "x_realtime": 7
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 38,
-    "personal_story": 3,
+    "social_reaction": 36,
+    "personal_story": 2,
     "opinion": 10,
+    "medical_science": 3,
     "hard_fact": 15,
-    "policy": 3,
-    "medical_science": 1
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 17,
-    "social_reaction": 37,
+    "social_reaction": 29,
+    "hard_fact": 22,
+    "policy": 5,
     "opinion": 10,
-    "policy": 3,
-    "personal_story": 3
+    "medical_science": 2,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "露がキーウに空爆 世界遺産炎上",
+      "title": "【閲覧注意】「ハエがここまでいるお宅があったら迷わず管理会社や警察に連絡をしてく",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "コストコで食中毒 10歳未満が重症",
       "source_category": "news_web",
       "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
+    },
+    {
+      "title": "日テレ「有吉の壁」9月末でレギュラー放送終了　20年から水曜の顔、今後は特番で放",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "米・イラン、戦闘終結へ合意と発表　船は「エンジン始動」をとトランプ氏 - BBC",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
     },
     {
       "title": "なぜ若者まで「とりあえず赤星」と頼むのか　テレビCMゼロでも10年で3.5倍に伸",
@@ -56,49 +75,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "サッカーワールドカップ観戦のためにテキサス州を訪れた日本人がたった6語の言葉で地",
+      "title": "椎名林檎",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "橋本愛",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "権田修一",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "夫の手術がかなり早く終わり、医師たちが笑いながら手術室から出てきたので助かったの",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "medical_science"
     },
     {
-      "title": "岡本和真",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "米津玄師 烏 - raven",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "下妻市長",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ペチェールシク大修道院",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "沖縄 天気",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "顕彰馬",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「不登校は、毎日学校に行かないところが嫌い」この投稿に様々な意見が集まるが、怒り",
+      "title": "アメリカ人がワールドカップの会場で日本人ファンに「振ってるゴミ袋って何？」と聞い",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -106,28 +107,46 @@
   ],
   "note_top10": [
     {
+      "title": "【閲覧注意】「ハエがここまでいるお宅があったら迷わず管理会社や警察に連絡をしてく",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "日テレ「有吉の壁」9月末でレギュラー放送終了　20年から水曜の顔、今後は特番で放",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "アメリカ人がワールドカップの会場で日本人ファンに「振ってるゴミ袋って何？」と聞い",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "なぜ若者まで「とりあえず赤星」と頼むのか　テレビCMゼロでも10年で3.5倍に伸",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "サッカーワールドカップ観戦のためにテキサス州を訪れた日本人がたった6語の言葉で地",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "定年まで勤めるつもりだったお局様が、過去にいじめた人ばかりの部署に異動になり、結",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「不登校は、毎日学校に行かないところが嫌い」この投稿に様々な意見が集まるが、怒り",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "絵描いてて\"座ったまま空中に浮いてる状態のスカートの形状\"がわからないんですけど",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "CMで見た豆乳茶づけを食べてみたいし、他の乳でも試したい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "ホストクラブで働いていたときにリストカット常習の客がいて「触れるべきか、そっとし",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
       "title": "大阪王将って人気が有るみたいだし、餃子が美味しいって言われてるけど、 ..",
@@ -136,31 +155,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ANA便に乗ろうとしたらオーバーブッキングと言われ、協力金は到着地で聞いてくれと",
+      "title": "茨城県下妻市長、排水路で遺体で見つかる　家族から行方不明届 | 毎日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「赤ん坊のことを真剣に考えてその働き方なのか」妻は妊娠当時、霞が関勤めだったが、",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "長男に仕事は大丈夫か聞いたら「密室で上司にパワハラ受けて机をバーン！って叩いてき",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "短期打ち切り作品で「何でこんなことしちゃったの」と読者から揶揄されるミス…実は担",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "冷蔵庫ってクリアな扉にしておけば開けなくても中身を確認できるから電気代の節約にも",
+      "title": "元婚活産業関係者だけど、中の人目線で婚活の本音をぶっちゃける",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
