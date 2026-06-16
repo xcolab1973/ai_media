@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-06-16T03:11:35+09:00",
+ "generated_at": "2026-06-17T07:02:39+09:00",
  "valid_until": "2026-06-28T23:07:28+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "total_count": 112,
  "merge": {
-  "from_current": 100,
+  "from_current": 112,
   "from_new": 12,
   "expired_pruned": 0,
   "retention_dropped": 0,
