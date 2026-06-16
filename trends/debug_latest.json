@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T16:06:00+09:00",
+  "generated_at": "2026-06-16T21:33:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -20,30 +20,48 @@
     "dedup_excluded": 8,
     "passed_total": 116,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
-      "x_realtime": 10,
+      "yahoo_realtime": 32,
+      "news_web": 16,
       "google_trends": 10,
-      "yahoo_news_ranking": 4,
-      "news_web": 11
+      "yahoo_news_ranking": 3,
+      "x_realtime": 9
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
-    "opinion": 10,
+    "social_reaction": 33,
     "personal_story": 2,
-    "medical_science": 4,
+    "opinion": 10,
     "policy": 6,
+    "medical_science": 3,
     "hard_fact": 16
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 32,
     "policy": 6,
+    "social_reaction": 30,
+    "hard_fact": 19,
     "opinion": 10,
-    "hard_fact": 17,
-    "medical_science": 3,
-    "personal_story": 2
+    "personal_story": 2,
+    "medical_science": 3
   },
   "b2b_top10": [
+    {
+      "title": "【速報】中央省庁初、予算の使い道を全て公開へ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "立憲幹部が「豊かな子は自衛隊とかならない」発言議員を厳重注意　「極めて配慮に欠け",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "【解説】米とイランの合意、米の支配力の限界示したトランプ氏の戦争が終了へ……BB",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "明治や森永など6社、アイス価格でカルテルか　公取委が立ち入り検査 - 日本経済新",
       "source_category": "yahoo_realtime",
@@ -51,55 +69,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「もはや人間の生活ができない」深夜1時からライブのリハーサル、松潤は休止前1時間",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "宿泊施設で集団食中毒 患者は97人",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "書籍取次「本もう運べない」　70年続く商慣習、出版社に見直し要求 - 日本経済新",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【速報】ホルムズ海峡、60日間は無料開放と米高官",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "インドネシア",
+      "title": "山田杏奈",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ローラ",
+      "title": "羽田美智子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "jリーグ 日程",
+      "title": "齊藤京子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "尾瀬",
+      "title": "篠原響",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "トヨタ 自動車",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "キム・ウビン",
+      "title": "cursor",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,55 +113,55 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「もはや人間の生活ができない」深夜1時からライブのリハーサル、松潤は休止前1時間",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "書籍取次「本もう運べない」　70年続く商慣習、出版社に見直し要求 - 日本経済新",
+      "title": "【解説】米とイランの合意、米の支配力の限界示したトランプ氏の戦争が終了へ……BB",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "サッカー部員が心底嫌いだったが、日本代表の11人を除いて全員才能が無かったって思",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「付き合って2年になる彼氏と結婚する前に浮気相手がいないか調査して欲しい」と相談",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "ふと手に取った絵本の内容が不快極まりなく、他の人の感想が知りたくて調べると絶賛す",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「女装でようやく半袖デビュー」した人の一枚…スカートがなぜかビリビリで注目が集ま",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "実家が捨て猫を保護したのだが、先住犬（オス）の母性が刺激されているらしい「後日、",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「食べ比べない」を楽しんでみる",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "北海道の酪農史とリンクする家族のルーツ。暴れ牛との戦い方ノウハウもわかる「父が牛",
+      "title": "論理的思考でオリジナリティを出す方法を3つ考えたら「論理的思考」でつまずいた -",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "海底のDNAから読み解く絶滅危惧種スナメリの100年史―海棲哺乳類の個体数の推移",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東大の歌会に俵万智さんがゲスト参加してくださった報告ツイート「なぜ、俵万智さんに",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ママのお友達と一緒に博物館に行くよ」と息子に伝えたら「今日はあの男の子も来る？",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "最近これ凄く良い曲だなぁと思ってたらエロゲの主題歌だったらしい リトル..",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "DAZNを「ダズン」と呼んでる奴がいて草",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "宮本佳林『自分で診断サイト作っちゃいました✨️』",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
