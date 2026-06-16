@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T08:23:00+09:00",
+  "generated_at": "2026-06-16T16:06:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 9,
-    "passed_total": 114,
+    "neg_excluded": 8,
+    "dedup_excluded": 8,
+    "passed_total": 116,
     "b2b_category_counts": {
-      "yahoo_realtime": 38,
-      "google_trends": 9,
-      "x_realtime": 7,
-      "news_web": 11,
-      "yahoo_news_ranking": 5
+      "yahoo_realtime": 35,
+      "x_realtime": 10,
+      "google_trends": 10,
+      "yahoo_news_ranking": 4,
+      "news_web": 11
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "personal_story": 1,
-    "opinion": 9,
-    "medical_science": 5,
-    "hard_fact": 18,
-    "policy": 9
+    "social_reaction": 32,
+    "opinion": 10,
+    "personal_story": 2,
+    "medical_science": 4,
+    "policy": 6,
+    "hard_fact": 16
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
-    "opinion": 9,
-    "personal_story": 1,
-    "hard_fact": 20,
-    "policy": 9,
-    "medical_science": 3
+    "social_reaction": 32,
+    "policy": 6,
+    "opinion": 10,
+    "hard_fact": 17,
+    "medical_science": 3,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "ウクライナ首都に大規模攻撃、世界遺産の大修道院が炎上　18人負傷",
+      "title": "明治や森永など6社、アイス価格でカルテルか　公取委が立ち入り検査 - 日本経済新",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "大谷",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "中澤佑二",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "レッズ 対 メッツ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "絶滅危惧種であるシロチドリの巣が何者かによって砂で埋められ親鳥が営巣放棄...保",
+      "title": "「もはや人間の生活ができない」深夜1時からライブのリハーサル、松潤は休止前1時間",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ニューヨークニックス",
+      "title": "書籍取次「本もう運べない」　70年続く商慣習、出版社に見直し要求 - 日本経済新",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【速報】ホルムズ海峡、60日間は無料開放と米高官",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "インドネシア",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "マック ワールドカップ",
+      "title": "ローラ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "jfe",
+      "title": "jリーグ 日程",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "セントフォース",
+      "title": "尾瀬",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "水瀬いのり",
+      "title": "トヨタ 自動車",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "キム・ウビン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
-      "title": "絶滅危惧種であるシロチドリの巣が何者かによって砂で埋められ親鳥が営巣放棄...保",
+      "title": "明治や森永など6社、アイス価格でカルテルか　公取委が立ち入り検査 - 日本経済新",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「もはや人間の生活ができない」深夜1時からライブのリハーサル、松潤は休止前1時間",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ウクライナ首都に大規模攻撃、世界遺産の大修道院が炎上　18人負傷",
+      "title": "書籍取次「本もう運べない」　70年続く商慣習、出版社に見直し要求 - 日本経済新",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "子どもを不登校のまま休ませるべきか、多少無理をしてでも登校させるべきか…「休ませ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "10円玉の素材価値、銅高騰で「額面超え」　1円玉にもアルミ高の影 - 日本経済新",
+      "title": "サッカー部員が心底嫌いだったが、日本代表の11人を除いて全員才能が無かったって思",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "昔、メイクが嫌すぎて、バイト先にすっぴんで出勤していたら、職場の男性から「メイク",
+      "title": "「付き合って2年になる彼氏と結婚する前に浮気相手がいないか調査して欲しい」と相談",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ふと手に取った絵本の内容が不快極まりなく、他の人の感想が知りたくて調べると絶賛す",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「女装でようやく半袖デビュー」した人の一枚…スカートがなぜかビリビリで注目が集ま",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "実家が捨て猫を保護したのだが、先住犬（オス）の母性が刺激されているらしい「後日、",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「食べ比べない」を楽しんでみる",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "大谷",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "中澤佑二",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "レッズ 対 メッツ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "イスラエル、米イラン合意に猛反発　レバノン攻撃を継続 - 日本経済新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "フロリダ州より長い…ウクライナは今年、総延長822kmの対ドローンネットを道路に",
+      "title": "北海道の酪農史とリンクする家族のルーツ。暴れ牛との戦い方ノウハウもわかる「父が牛",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
