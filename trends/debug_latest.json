@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T21:33:00+09:00",
+  "generated_at": "2026-06-17T02:51:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,31 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 8,
-    "passed_total": 116,
+    "neg_excluded": 7,
+    "dedup_excluded": 11,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
-      "news_web": 16,
+      "yahoo_realtime": 34,
       "google_trends": 10,
-      "yahoo_news_ranking": 3,
-      "x_realtime": 9
+      "news_web": 15,
+      "x_realtime": 8,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "personal_story": 2,
+    "social_reaction": 28,
+    "personal_story": 1,
     "opinion": 10,
-    "policy": 6,
-    "medical_science": 3,
-    "hard_fact": 16
+    "policy": 10,
+    "hard_fact": 20,
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "policy": 6,
-    "social_reaction": 30,
-    "hard_fact": 19,
+    "policy": 11,
+    "hard_fact": 20,
+    "social_reaction": 28,
     "opinion": 10,
-    "personal_story": 2,
-    "medical_science": 3
+    "personal_story": 1
   },
   "b2b_top10": [
     {
@@ -51,7 +50,19 @@
       "topic_category": "policy"
     },
     {
+      "title": "【地震情報】群馬県南部 埼玉県北部で震度5弱 津波なし | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
       "title": "立憲幹部が「豊かな子は自衛隊とかならない」発言議員を厳重注意　「極めて配慮に欠け",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "民泊営業を自治体が実質禁止可能に　観光庁通知へ、トラブル増で転換 - 日本経済新",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
@@ -63,51 +74,45 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "明治や森永など6社、アイス価格でカルテルか　公取委が立ち入り検査 - 日本経済新",
+      "title": "「自衛隊に行く子、経済的に厳しい」発言の古賀氏を立憲が厳重注意：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "宿泊施設で集団食中毒 患者は97人",
+      "title": "「勉強して学歴を高めると選択肢が増える」は間違っていると思う...学歴を高めるほ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "フジテレビ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "関東で震度5弱 識者注意呼びかけ",
       "source_category": "news_web",
       "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "山田杏奈",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "羽田美智子",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "齊藤京子",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "篠原響",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "cursor",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "ストーカー加害者に新対策 警視庁",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_local",
+      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
     {
-      "title": "明治や森永など6社、アイス価格でカルテルか　公取委が立ち入り検査 - 日本経済新",
+      "title": "「自衛隊に行く子、経済的に厳しい」発言の古賀氏を立憲が厳重注意：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「勉強して学歴を高めると選択肢が増える」は間違っていると思う...学歴を高めるほ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -119,51 +124,45 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ふと手に取った絵本の内容が不快極まりなく、他の人の感想が知りたくて調べると絶賛す",
+      "title": "とある企業がモニターの件でメールを送って来たが、対象者にBCCではなくTOで一斉",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "論理的思考でオリジナリティを出す方法を3つ考えたら「論理的思考」でつまずいた -",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "海底のDNAから読み解く絶滅危惧種スナメリの100年史―海棲哺乳類の個体数の推移",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "東大の歌会に俵万智さんがゲスト参加してくださった報告ツイート「なぜ、俵万智さんに",
+      "title": "片側二車線のバイパス道路を走行中、前方に遅すぎる車がいたので追い越すことにしたが",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ママのお友達と一緒に博物館に行くよ」と息子に伝えたら「今日はあの男の子も来る？",
+      "title": "小学校の頃、遠足で不登校の子と同じ班になったことがあるが、構成メンバーがカスの煮",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "最近これ凄く良い曲だなぁと思ってたらエロゲの主題歌だったらしい リトル..",
+      "title": "ブラジルで聖像彫刻の修復失敗　顔つきが変わり住民の怒りを呼ぶ | 東スポWEB",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "DAZNを「ダズン」と呼んでる奴がいて草",
+      "title": "美味しそうなグルメ投稿に「店名を書かないのはなんで？」と指摘したことに賛否→店主",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "宮本佳林『自分で診断サイト作っちゃいました✨️』",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "フランス旅行の写真を投稿したら「空にいるおじさん、なに？」という反応が...嘘コ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "おばあちゃんから「花の写真撮ったつもりが真ん中に面白可愛い物が写ってました」と最",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
