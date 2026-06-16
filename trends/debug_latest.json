@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T02:51:00+09:00",
+  "generated_at": "2026-06-17T08:08:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,38 +16,75 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 11,
-    "passed_total": 114,
+    "neg_excluded": 10,
+    "dedup_excluded": 10,
+    "passed_total": 112,
     "b2b_category_counts": {
       "yahoo_realtime": 34,
       "google_trends": 10,
+      "x_realtime": 7,
       "news_web": 15,
-      "x_realtime": 8,
-      "yahoo_news_ranking": 3
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "personal_story": 1,
+    "social_reaction": 26,
     "opinion": 10,
-    "policy": 10,
-    "hard_fact": 20,
-    "medical_science": 1
+    "policy": 11,
+    "personal_story": 1,
+    "medical_science": 2,
+    "hard_fact": 20
   },
   "b2b_topic_category_counts": {
-    "policy": 11,
-    "hard_fact": 20,
-    "social_reaction": 28,
+    "policy": 12,
     "opinion": 10,
+    "social_reaction": 26,
+    "hard_fact": 20,
+    "medical_science": 1,
     "personal_story": 1
   },
   "b2b_top10": [
+    {
+      "title": "「さすがDAZNとは格が違う」GMOの決済サービスで、月額0円の配送オプションが",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "民泊営業を自治体が実質禁止可能に　観光庁通知へ、トラブル増で転換 - 日本経済新",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "おはよう朝日です",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ANA新運賃はなぜ“炎上”したのか　フルサービス航空会社が見誤った顧客心理",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "【速報】中央省庁初、予算の使い道を全て公開へ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
+    },
+    {
+      "title": "Xでよくバズっていた弁護士が「業務停止2か月の懲戒処分」を報告→「SNS依存では",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "フィリーズ 対 マーリンズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "【地震情報】群馬県南部 埼玉県北部で震度5弱 津波なし | NHKニュース",
@@ -62,84 +99,48 @@
       "topic_category": "policy"
     },
     {
-      "title": "民泊営業を自治体が実質禁止可能に　観光庁通知へ、トラブル増で転換 - 日本経済新",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "【解説】米とイランの合意、米の支配力の限界示したトランプ氏の戦争が終了へ……BB",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「自衛隊に行く子、経済的に厳しい」発言の古賀氏を立憲が厳重注意：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「勉強して学歴を高めると選択肢が増える」は間違っていると思う...学歴を高めるほ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "フジテレビ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "関東で震度5弱 識者注意呼びかけ",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ストーカー加害者に新対策 警視庁",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_local",
+      "title": "地震発生時の生放送中のNHKスタジオの対応が完璧だった「これがプロの底力」「こう",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
     {
-      "title": "「自衛隊に行く子、経済的に厳しい」発言の古賀氏を立憲が厳重注意：朝日新聞",
+      "title": "ANA新運賃はなぜ“炎上”したのか　フルサービス航空会社が見誤った顧客心理",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「勉強して学歴を高めると選択肢が増える」は間違っていると思う...学歴を高めるほ",
+      "title": "Xでよくバズっていた弁護士が「業務停止2か月の懲戒処分」を報告→「SNS依存では",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【解説】米とイランの合意、米の支配力の限界示したトランプ氏の戦争が終了へ……BB",
+      "title": "映画『火垂るの墓』公開当初の“幻”となっていたフィルム発見 | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "とある企業がモニターの件でメールを送って来たが、対象者にBCCではなくTOで一斉",
+      "title": "フランス旅行の写真を投稿したら「空にいるおじさん、なに？」という反応が...嘘コ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "片側二車線のバイパス道路を走行中、前方に遅すぎる車がいたので追い越すことにしたが",
+      "title": "SSDが高騰しすぎてサムスンがSSDの保証書と違う対応をするトラブルが続発してい",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "小学校の頃、遠足で不登校の子と同じ班になったことがあるが、構成メンバーがカスの煮",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "おはよう朝日です",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "ブラジルで聖像彫刻の修復失敗　顔つきが変わり住民の怒りを呼ぶ | 東スポWEB",
@@ -148,22 +149,22 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "美味しそうなグルメ投稿に「店名を書かないのはなんで？」と指摘したことに賛否→店主",
+      "title": "卒業生活躍の大学ランキング、一橋大1位　西南学院大3位に急浮上 - 日本経済新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "フランス旅行の写真を投稿したら「空にいるおじさん、なに？」という反応が...嘘コ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "「さすがDAZNとは格が違う」GMOの決済サービスで、月額0円の配送オプションが",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
     },
     {
-      "title": "おばあちゃんから「花の写真撮ったつもりが真ん中に面白可愛い物が写ってました」と最",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "フィリーズ 対 マーリンズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
