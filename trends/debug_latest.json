@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T21:07:00+09:00",
+  "generated_at": "2026-06-18T01:30:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,46 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
+    "neg_excluded": 9,
     "dedup_excluded": 10,
-    "passed_total": 112,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 31,
-      "google_trends": 10,
-      "news_web": 14,
       "x_realtime": 9,
-      "yahoo_news_ranking": 6
+      "news_web": 17,
+      "yahoo_realtime": 33,
+      "google_trends": 10,
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 21,
-    "personal_story": 4,
-    "medical_science": 4,
+    "social_reaction": 26,
+    "personal_story": 2,
     "opinion": 10,
-    "hard_fact": 24,
-    "policy": 7
+    "policy": 8,
+    "medical_science": 3,
+    "hard_fact": 21
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 20,
-    "medical_science": 4,
-    "personal_story": 4,
+    "social_reaction": 26,
+    "hard_fact": 21,
     "policy": 8,
     "opinion": 10,
-    "hard_fact": 24
+    "personal_story": 2,
+    "medical_science": 3
   },
   "b2b_top10": [
+    {
+      "title": "セリアがエジプト・古墳・土偶好きには危険すぎることになっている「これは行かねば」",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "子の水難「魔の時間帯」注意点は",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
     {
       "title": "“おじさん”なら叩いていいのか？　「パーカーはNG」「すね毛は見たくない」…雑い",
       "source_category": "yahoo_realtime",
@@ -51,55 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "カフェでケープを使って授乳してたら「たくさんの人がいますので…」と注意されてしま",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「カウンセリングは安全で副作用もない」だなんて、単なる思い込みだから。",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "フィロソフィーのダンスが起こしたいくつかの奇跡について｜加茂 啓太郎",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「さすがDAZNとは格が違う」GMOの決済サービスで、月額0円の配送オプションが",
+      "title": "食料品の消費税 来年4月から1％ 所得連動給付で“実質ゼロ”案 | NHKニュー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "さだまさし",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "福島圭音",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "パチンコにもキャッシュレスの波　スマホ決済「PPPAY」登場　Visa・Mast",
+      "title": "KDDI株主が「キー局をひとつ潰してそのぶんを携帯に使えるように総務省へ陳情でき",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "榊原郁恵",
+      "title": "視聴率",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "下平さやかアナウンサー",
+      "title": "原田葵",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "portugal vs dr congo",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "与田祐希",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "鈴木武蔵",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,25 +107,25 @@
   ],
   "note_top10": [
     {
+      "title": "セリアがエジプト・古墳・土偶好きには危険すぎることになっている「これは行かねば」",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "“おじさん”なら叩いていいのか？　「パーカーはNG」「すね毛は見たくない」…雑い",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "カフェでケープを使って授乳してたら「たくさんの人がいますので…」と注意されてしま",
+      "title": "KDDI株主が「キー局をひとつ潰してそのぶんを携帯に使えるように総務省へ陳情でき",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "フィロソフィーのダンスが起こしたいくつかの奇跡について｜加茂 啓太郎",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "弟(高校生)がインフルエンザで嘔吐し、本人はぐったりして掃除出来る状態ではなかっ",
+      "title": "「兵隊にされるのは貧乏人」と言われがち→ご安心ください、大日本帝国は皆徴兵されま",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -137,33 +137,33 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本人へ アイスランドの伝統的な食文化「ハウカットル（発酵したサメの切り身）」を",
+      "title": "弟(高校生)がインフルエンザで嘔吐し、本人はぐったりして掃除出来る状態ではなかっ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「私は絶対にしませんが... 絶対にしませんが...」在宅勤務時にベッドやソファ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "トランプ氏の舞踏室計画に税金投入か、総工費960億円に 米報道",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「カウンセリングは安全で副作用もない」だなんて、単なる思い込みだから。",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "【北中米Ｗ杯】日本人サポーターのゴミ拾い　中国メディアが疑念「見せかけの行為」（",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "金持ちの友達の出産祝いに、ミキハウスなら失礼にはならないだろうとプレゼントしたら",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "初音ミクの絵本が登場、しかし出版社内から「これ公式がOK出したんですか？」と戸惑",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "米スタンフォード大卒業式で学生が次々と退席、グーグルCEOの祝辞で - BBCニ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "貯金し続ければ10万円貯まるという『10万円貯まるBANK』に内圧で自発的に壊れ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
