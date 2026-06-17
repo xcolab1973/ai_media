@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T01:30:00+09:00",
+  "generated_at": "2026-06-18T08:06:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,46 +16,34 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 10,
-    "passed_total": 113,
+    "neg_excluded": 11,
+    "dedup_excluded": 9,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "x_realtime": 9,
-      "news_web": 17,
-      "yahoo_realtime": 33,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "yahoo_news_ranking": 1
+      "x_realtime": 7,
+      "news_web": 12,
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
+    "social_reaction": 27,
     "personal_story": 2,
     "opinion": 10,
     "policy": 8,
-    "medical_science": 3,
-    "hard_fact": 21
+    "medical_science": 4,
+    "hard_fact": 19
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 26,
-    "hard_fact": 21,
+    "social_reaction": 27,
     "policy": 8,
     "opinion": 10,
     "personal_story": 2,
+    "hard_fact": 20,
     "medical_science": 3
   },
   "b2b_top10": [
-    {
-      "title": "セリアがエジプト・古墳・土偶好きには危険すぎることになっている「これは行かねば」",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "子の水難「魔の時間帯」注意点は",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
     {
       "title": "“おじさん”なら叩いていいのか？　「パーカーはNG」「すね毛は見たくない」…雑い",
       "source_category": "yahoo_realtime",
@@ -69,37 +57,49 @@
       "topic_category": "policy"
     },
     {
-      "title": "KDDI株主が「キー局をひとつ潰してそのぶんを携帯に使えるように総務省へ陳情でき",
+      "title": "日本人だけが「電話していいですか」とLINEする…米国と中国にいる「本当に仕事の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "視聴率",
+      "title": "jr西日本",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "原田葵",
+      "title": "帰省のため、生後7ヶ月の娘を乗せて高速道路を走っていたら、高齢者に追突された→車",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "ghana vs panama",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "portugal vs dr congo",
+      "title": "ガーナ代表",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "与田祐希",
+      "title": "京都新聞",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "鈴木武蔵",
+      "title": "多部未華子",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "今日のドジャースの試合結果",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,9 +107,9 @@
   ],
   "note_top10": [
     {
-      "title": "セリアがエジプト・古墳・土偶好きには危険すぎることになっている「これは行かねば」",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "日本人だけが「電話していいですか」とLINEする…米国と中国にいる「本当に仕事の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -119,13 +119,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "KDDI株主が「キー局をひとつ潰してそのぶんを携帯に使えるように総務省へ陳情でき",
+      "title": "帰省のため、生後7ヶ月の娘を乗せて高速道路を走っていたら、高齢者に追突された→車",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "地球のほぼ反対側の島国にまで来ているのに地下鉄の運営が東京メトロだった「左から歩",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「兵隊にされるのは貧乏人」と言われがち→ご安心ください、大日本帝国は皆徴兵されま",
+      "title": "最近、マジで『いらすとや』見かけないけどなんで？一時期はなんでもかんでもいらすと",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "水族館の便所で用を足そうとしたらコレで悲鳴上げかけた→コメントが汚い大喜利に「さ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ラヴィットで若者言葉検定ってコーナーで「おしがま」って流れてるけどこれって元々ア",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "マツコの知らない世界の「秋葉原メイドカフェの世界」で紹介されたメイドカフェがちゃ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -137,34 +161,10 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "弟(高校生)がインフルエンザで嘔吐し、本人はぐったりして掃除出来る状態ではなかっ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「私は絶対にしませんが... 絶対にしませんが...」在宅勤務時にベッドやソファ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "トランプ氏の舞踏室計画に税金投入か、総工費960億円に 米報道",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "金持ちの友達の出産祝いに、ミキハウスなら失礼にはならないだろうとプレゼントしたら",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "貯金し続ければ10万円貯まるという『10万円貯まるBANK』に内圧で自発的に壊れ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "jr西日本",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
