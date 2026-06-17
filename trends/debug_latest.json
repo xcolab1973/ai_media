@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T15:51:00+09:00",
+  "generated_at": "2026-06-17T21:07:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,44 +16,38 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 20,
-    "dedup_excluded": 7,
-    "passed_total": 105,
+    "neg_excluded": 10,
+    "dedup_excluded": 10,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "x_realtime": 9,
       "yahoo_realtime": 31,
       "google_trends": 10,
-      "news_web": 16,
-      "yahoo_news_ranking": 4
+      "news_web": 14,
+      "x_realtime": 9,
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
-    "personal_story": 3,
-    "medical_science": 2,
+    "social_reaction": 21,
+    "personal_story": 4,
+    "medical_science": 4,
     "opinion": 10,
-    "hard_fact": 25,
-    "policy": 4
+    "hard_fact": 24,
+    "policy": 7
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 26,
-    "medical_science": 1,
-    "policy": 4,
-    "hard_fact": 26,
+    "social_reaction": 20,
+    "medical_science": 4,
+    "personal_story": 4,
+    "policy": 8,
     "opinion": 10,
-    "personal_story": 3
+    "hard_fact": 24
   },
   "b2b_top10": [
     {
-      "title": "社内最年少で主任になって、大炎上案件を鎮火して軌道に乗せた超シゴデキPMと初めて",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「昔のサラ金みたいな手がまだ使えるとは...」とある炎上した動画投稿者の住所が特",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "“おじさん”なら叩いていいのか？　「パーカーはNG」「すね毛は見たくない」…雑い",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -67,6 +61,12 @@
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "medical_science"
+    },
+    {
+      "title": "フィロソフィーのダンスが起こしたいくつかの奇跡について｜加茂 啓太郎",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
       "title": "「さすがDAZNとは格が違う」GMOの決済サービスで、月額0円の配送オプションが",
@@ -75,10 +75,16 @@
       "topic_category": "policy"
     },
     {
-      "title": "「異例なほど強い表現がきた」名大の学祭で予定されていた自衛隊の出展が直前で中止に",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "title": "さだまさし",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "福島圭音",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "パチンコにもキャッシュレスの波　スマホ決済「PPPAY」登場　Visa・Mast",
@@ -87,35 +93,23 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "田久保眞紀",
+      "title": "榊原郁恵",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "フィロソフィーのダンスが起こしたいくつかの奇跡について｜加茂 啓太郎",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "Xでよくバズっていた弁護士が「業務停止2か月の懲戒処分」を報告→「SNS依存では",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "下平さやかアナウンサー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "社内最年少で主任になって、大炎上案件を鎮火して軌道に乗せた超シゴデキPMと初めて",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「昔のサラ金みたいな手がまだ使えるとは...」とある炎上した動画投稿者の住所が特",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "“おじさん”なら叩いていいのか？　「パーカーはNG」「すね毛は見たくない」…雑い",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -131,13 +125,19 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "Xでよくバズっていた弁護士が「業務停止2か月の懲戒処分」を報告→「SNS依存では",
+      "title": "弟(高校生)がインフルエンザで嘔吐し、本人はぐったりして掃除出来る状態ではなかっ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「痩せ＝モテる」は本当か。データで読み解く、過度なダイエット信仰と女性の成婚率 ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "飲むだけではもったいない！麦茶の公式アレンジレシピを試す　麦茶のフレンチトースト",
+      "title": "日本人へ アイスランドの伝統的な食文化「ハウカットル（発酵したサメの切り身）」を",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -149,19 +149,19 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "荒れに荒れて癇癪で教科書さえ破っていた息子を思い切って支援級に転籍させたらメンタ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "【北中米Ｗ杯】日本人サポーターのゴミ拾い　中国メディアが疑念「見せかけの行為」（",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「接客やめたい、土日祝休み、デスクワーク希望」という条件で事務系の職業訓練を考え",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "初音ミクの絵本が登場、しかし出版社内から「これ公式がOK出したんですか？」と戸惑",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "毎年恒例の早川書房の夏のKindle本セールが来たので、ＳＦとコミックとノンフィ",
+      "title": "米スタンフォード大卒業式で学生が次々と退席、グーグルCEOの祝辞で - BBCニ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
