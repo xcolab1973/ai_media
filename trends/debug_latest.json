@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T01:19:00+09:00",
+  "generated_at": "2026-06-19T08:23:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,60 +7,66 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 131,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
-      "news_web": 48,
+      "news_web": 47,
       "yahoo_news_ranking": 24,
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 1,
-    "dedup_excluded": 10,
-    "passed_total": 121,
+    "neg_excluded": 7,
+    "dedup_excluded": 8,
+    "passed_total": 116,
     "b2b_category_counts": {
       "google_trends": 10,
-      "x_realtime": 9,
-      "yahoo_realtime": 39,
-      "news_web": 9,
-      "yahoo_news_ranking": 3
+      "news_web": 11,
+      "yahoo_realtime": 37,
+      "x_realtime": 8,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
     "opinion": 10,
-    "personal_story": 7,
-    "medical_science": 7,
-    "hard_fact": 11,
-    "policy": 6
+    "personal_story": 6,
+    "social_reaction": 28,
+    "policy": 8,
+    "medical_science": 4,
+    "hard_fact": 14
   },
   "b2b_topic_category_counts": {
     "opinion": 10,
-    "social_reaction": 29,
-    "hard_fact": 13,
-    "medical_science": 5,
-    "personal_story": 7,
-    "policy": 6
+    "hard_fact": 15,
+    "policy": 8,
+    "social_reaction": 28,
+    "personal_story": 6,
+    "medical_science": 3
   },
   "b2b_top10": [
     {
-      "title": "無料",
+      "title": "熱中症警戒アラート",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ご飯を盛ると羊になる食器がXでバズり全世界から称賛が集まるも...とある韓国ユー",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "オデッセイ国内販売終了へ ホンダ",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "大炎上案件でコールセンターのマネジメントさせられてた時、日々怒声が飛び交うモラ電",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "最新AIの対策 外国政府と連携強化",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "policy"
+    },
+    {
+      "title": "「復興の象徴」今は「負の遺産」　被災地の企業誘致　失敗の理由 | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
     },
     {
       "title": "ウクライナがモスクワに最大規模の攻撃、製油所が炎上",
@@ -69,37 +75,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "【完全非課税も狙える】精神障害者こそ確定拠出年金をすべき理由 - 心理系技術職の",
+      "title": "「関空でご飯食べようとして、そっと店を出た」「ラーメン5000円」…あまりにもイ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "知的障害者の面倒を見ていたことがあったが、少しでも気に入らないことがあるとすぐ｢",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "サッカーW杯“応援する女性”AIフェイク動画が拡散 注意を | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "市役所から「消防団員としての活動実績が長期間ない」という通知が来たが、団員間の連",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
     },
     {
-      "title": "連合 立憲議員の自衛隊発言を注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "偏差値72の高校なのにクラスの男子の大半が「精神疾患は甘え」と公言するのは配慮が",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "バシャーモ",
+      "title": "ディズニープラス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "森香澄",
+      "title": "大関和",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,34 +107,40 @@
   ],
   "note_top10": [
     {
-      "title": "【完全非課税も狙える】精神障害者こそ確定拠出年金をすべき理由 - 心理系技術職の",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ご飯を盛ると羊になる食器がXでバズり全世界から称賛が集まるも...とある韓国ユー",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "大炎上案件でコールセンターのマネジメントさせられてた時、日々怒声が飛び交うモラ電",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "サッカーW杯“応援する女性”AIフェイク動画が拡散 注意を | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "無料",
+      "title": "熱中症警戒アラート",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
+    },
+    {
+      "title": "「関空でご飯食べようとして、そっと店を出た」「ラーメン5000円」…あまりにもイ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "知的障害者の面倒を見ていたことがあったが、少しでも気に入らないことがあるとすぐ｢",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "市役所から「消防団員としての活動実績が長期間ない」という通知が来たが、団員間の連",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "ウクライナがモスクワに最大規模の攻撃、製油所が炎上",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "留年中退、10年間ニート、風俗業から社会復帰した人まで…「人生踏み外し人のレール",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
       "title": "「その代わりﾁﾝﾁﾗﾈｺしないように」「ハイウエストおすすめです」今後も使えない",
@@ -143,27 +149,21 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "留年中退、10年間ニート、風俗業から社会復帰した人まで…「人生踏み外し人のレール",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "ウクライナがモスクワに最大規模の攻撃、製油所が炎上",
+      "title": "皇后さまと直前まで推敲　天皇陛下“18分のお言葉”の舞台裏",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「DAZN Soccer」ご契約者のお客様への今後の対応について",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "「韓国はもうダメだ！」ストロングゼロよりもアルコール度数が高い「飲む社会福祉」が",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "幼児が足にしがみついてくるのでハグしてあげたら満足した顔でテレビのあるところへ去",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「オタクくんだけが頼りなの」でまさかのパンパンに膨らんだモバイルバッテリーを渡さ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
