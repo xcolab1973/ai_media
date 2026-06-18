@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T08:06:00+09:00",
+  "generated_at": "2026-06-18T15:28:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,89 +17,89 @@
       "x_realtime": 10
     },
     "neg_excluded": 11,
-    "dedup_excluded": 9,
-    "passed_total": 112,
+    "dedup_excluded": 8,
+    "passed_total": 113,
     "b2b_category_counts": {
       "yahoo_realtime": 35,
       "google_trends": 10,
-      "x_realtime": 7,
-      "news_web": 12,
-      "yahoo_news_ranking": 6
+      "yahoo_news_ranking": 4,
+      "x_realtime": 9,
+      "news_web": 12
     }
   },
   "note_category_counts": {
-    "social_reaction": 27,
-    "personal_story": 2,
+    "social_reaction": 30,
+    "personal_story": 4,
     "opinion": 10,
-    "policy": 8,
-    "medical_science": 4,
-    "hard_fact": 19
+    "medical_science": 3,
+    "hard_fact": 17,
+    "policy": 6
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 27,
-    "policy": 8,
+    "social_reaction": 29,
     "opinion": 10,
-    "personal_story": 2,
     "hard_fact": 20,
-    "medical_science": 3
+    "personal_story": 4,
+    "policy": 6,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "“おじさん”なら叩いていいのか？　「パーカーはNG」「すね毛は見たくない」…雑い",
+      "title": "【完全非課税も狙える】精神障害者こそ確定拠出年金をすべき理由 - 心理系技術職の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "食料品の消費税 来年4月から1％ 所得連動給付で“実質ゼロ”案 | NHKニュー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "日本人だけが「電話していいですか」とLINEする…米国と中国にいる「本当に仕事の",
+      "title": "「安全な場所はない」ウクライナ前線取材の過酷なストレス…移動は敵ドローンを避けて",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "jr西日本",
+      "title": "「自衛隊ブース」取りやめの名古屋大、内部の掲示物やサークル状況を報告するアカウン",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "林田理沙",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "帰省のため、生後7ヶ月の娘を乗せて高速道路を走っていたら、高齢者に追突された→車",
+      "title": "大関「甘酒190G瓶詰」販売終了へ",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "「マクドナルドが半額で買える謎のディスコードサーバーがあるんだけど何これ？」→客",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "DAZNサッカー、新規入会を停止　「契約条件表示に問題」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "ghana vs panama",
+      "title": "原爆ドーム",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ガーナ代表",
+      "title": "原爆",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "京都新聞",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "多部未華子",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "今日のドジャースの試合結果",
+      "title": "市川市",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +107,64 @@
   ],
   "note_top10": [
     {
-      "title": "日本人だけが「電話していいですか」とLINEする…米国と中国にいる「本当に仕事の",
+      "title": "【完全非課税も狙える】精神障害者こそ確定拠出年金をすべき理由 - 心理系技術職の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "“おじさん”なら叩いていいのか？　「パーカーはNG」「すね毛は見たくない」…雑い",
+      "title": "「自衛隊ブース」取りやめの名古屋大、内部の掲示物やサークル状況を報告するアカウン",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "帰省のため、生後7ヶ月の娘を乗せて高速道路を走っていたら、高齢者に追突された→車",
+      "title": "「安全な場所はない」ウクライナ前線取材の過酷なストレス…移動は敵ドローンを避けて",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「マクドナルドが半額で買える謎のディスコードサーバーがあるんだけど何これ？」→客",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "DAZNサッカー、新規入会を停止　「契約条件表示に問題」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "地球のほぼ反対側の島国にまで来ているのに地下鉄の運営が東京メトロだった「左から歩",
+      "title": "【DAZN Soccerに関するお知らせ】 - DAZN",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "最近、マジで『いらすとや』見かけないけどなんで？一時期はなんでもかんでもいらすと",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "水族館の便所で用を足そうとしたらコレで悲鳴上げかけた→コメントが汚い大喜利に「さ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ラヴィットで若者言葉検定ってコーナーで「おしがま」って流れてるけどこれって元々ア",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "マツコの知らない世界の「秋葉原メイドカフェの世界」で紹介されたメイドカフェがちゃ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「痩せ＝モテる」は本当か。データで読み解く、過度なダイエット信仰と女性の成婚率 ",
+      "title": "キングジムのビジュアルバータイマーで残り時間を「見える化」したら仕事や勉強の効率",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "jr西日本",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "夜、なにやら娘の独り言が激しいので様子を見に行ったら、血の気が引いた話「これやっ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "5月末から発熱と体調不良に苦しんできた人『診断:ギランバレー みんなに伝えたいこ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "一度脱ぐという過程、露出の高い衣装、解放後も着せられた服のまま活躍…囚われたヒロ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ]
 }
