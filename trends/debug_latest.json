@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T20:40:00+09:00",
+  "generated_at": "2026-06-19T01:19:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,48 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 3,
-    "dedup_excluded": 9,
-    "passed_total": 120,
+    "neg_excluded": 1,
+    "dedup_excluded": 10,
+    "passed_total": 121,
     "b2b_category_counts": {
-      "x_realtime": 9,
-      "yahoo_realtime": 36,
       "google_trends": 10,
-      "news_web": 11,
-      "yahoo_news_ranking": 4
+      "x_realtime": 9,
+      "yahoo_realtime": 39,
+      "news_web": 9,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
     "social_reaction": 29,
-    "personal_story": 5,
     "opinion": 10,
-    "medical_science": 4,
-    "policy": 6,
-    "hard_fact": 16
+    "personal_story": 7,
+    "medical_science": 7,
+    "hard_fact": 11,
+    "policy": 6
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
     "opinion": 10,
-    "personal_story": 5,
-    "hard_fact": 18,
-    "policy": 7,
-    "medical_science": 2
+    "social_reaction": 29,
+    "hard_fact": 13,
+    "medical_science": 5,
+    "personal_story": 7,
+    "policy": 6
   },
   "b2b_top10": [
     {
+      "title": "無料",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
       "title": "ご飯を盛ると羊になる食器がXでバズり全世界から称賛が集まるも...とある韓国ユー",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "大炎上案件でコールセンターのマネジメントさせられてた時、日々怒声が飛び交うモラ電",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -57,49 +69,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "サッカーW杯“応援する女性”AIフェイク動画が拡散 注意を | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "【完全非課税も狙える】精神障害者こそ確定拠出年金をすべき理由 - 心理系技術職の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「安全な場所はない」ウクライナ前線取材の過酷なストレス…移動は敵ドローンを避けて",
+      "title": "サッカーW杯“応援する女性”AIフェイク動画が拡散 注意を | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「自衛隊ブース」取りやめの名古屋大、内部の掲示物やサークル状況を報告するアカウン",
+      "title": "連合 立憲議員の自衛隊発言を注意",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "偏差値72の高校なのにクラスの男子の大半が「精神疾患は甘え」と公言するのは配慮が",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "medical_science"
     },
     {
-      "title": "水谷隼",
+      "title": "バシャーモ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "甲本ヒロト",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "吉 高 由里子 白髪",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "パランティア",
+      "title": "森香澄",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,15 +107,21 @@
   ],
   "note_top10": [
     {
+      "title": "【完全非課税も狙える】精神障害者こそ確定拠出年金をすべき理由 - 心理系技術職の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "ご飯を盛ると羊になる食器がXでバズり全世界から称賛が集まるも...とある韓国ユー",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【完全非課税も狙える】精神障害者こそ確定拠出年金をすべき理由 - 心理系技術職の",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "大炎上案件でコールセンターのマネジメントさせられてた時、日々怒声が飛び交うモラ電",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -125,45 +131,39 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "無料",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「その代わりﾁﾝﾁﾗﾈｺしないように」「ハイウエストおすすめです」今後も使えない",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "留年中退、10年間ニート、風俗業から社会復帰した人まで…「人生踏み外し人のレール",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
       "title": "ウクライナがモスクワに最大規模の攻撃、製油所が炎上",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「自衛隊ブース」取りやめの名古屋大、内部の掲示物やサークル状況を報告するアカウン",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「安全な場所はない」ウクライナ前線取材の過酷なストレス…移動は敵ドローンを避けて",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "高級ホテルマンが「理不尽な客のせいで仕事が憂鬱だったが、そうした客のリストを作っ",
+      "title": "「DAZN Soccer」ご契約者のお客様への今後の対応について",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "ファストフードを禁止され、テレビは観る時間も番組も限られ、ゲーム禁止なのに玩具も",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "親と昔の小学生は放課後に放牧されてて自由だったし今の親は大変だよねという話をした",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "勤務時間中に公用パソコンで作家活動していた県職員が戒告処分…その悪行がモンスター",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "幼児が足にしがみついてくるのでハグしてあげたら満足した顔でテレビのあるところへ去",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
