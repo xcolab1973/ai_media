@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T00:54:00+09:00",
+  "generated_at": "2026-06-20T07:35:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,44 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 4,
-    "dedup_excluded": 11,
+    "neg_excluded": 5,
+    "dedup_excluded": 10,
     "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "x_realtime": 8,
+      "news_web": 11,
+      "yahoo_realtime": 36,
       "google_trends": 10,
-      "news_web": 12,
-      "yahoo_news_ranking": 5,
-      "x_realtime": 8
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "personal_story": 1,
-    "medical_science": 4,
+    "social_reaction": 29,
+    "medical_science": 5,
     "opinion": 10,
-    "policy": 7,
-    "hard_fact": 18
+    "hard_fact": 19,
+    "policy": 7
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
-    "medical_science": 3,
-    "hard_fact": 19,
+    "social_reaction": 29,
+    "hard_fact": 20,
+    "medical_science": 4,
     "opinion": 10,
-    "policy": 7,
-    "personal_story": 1
+    "policy": 7
   },
   "b2b_top10": [
+    {
+      "title": "【わりと閲覧注意】フレンチで出てきたイクラに「ツノ」が生えてました…→謎の現象に",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "台風7号が発生 今後の動向に注意",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_domestic",
+      "topic_category": "hard_fact"
+    },
     {
       "title": "仙台市立小でいじめ重大事態　女子児童が3年にわたり10人以上から被害　差別的言葉",
       "source_category": "yahoo_realtime",
@@ -57,49 +67,37 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "日テレ「THE　W」終了　女芸人No.1決定戦、今年は開催されず…今後は不定期開",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「えっ……この状態やったの……」東京・北区の小学校で起きた火災は全員避難できたが",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "日鉄のUSスチール買収から1年…「90年前の設備」で「製品の半分が不良品」という",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "プレイステーション",
+      "title": "マイヤーlpgaクラシック",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "トミカ",
+      "title": "ジャンポケ太田 坊主",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ウマ娘 7th",
+      "title": "ルイス・ファーガソン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "細田守",
+      "title": "タイチ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "anne hathaway",
+      "title": "野中瑠衣",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "八代市",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,21 +111,39 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "日テレ「THE　W」終了　女芸人No.1決定戦、今年は開催されず…今後は不定期開",
+      "title": "【わりと閲覧注意】フレンチで出てきたイクラに「ツノ」が生えてました…→謎の現象に",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "長女が修学旅行で東京に行くが食べたいものが「立ち食いそば」らしいので「コロッケ乗",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日鉄のUSスチール買収から1年…「90年前の設備」で「製品の半分が不良品」という",
+      "title": "MADE IN YAMATO - 第４話　筋肉の天敵 | ヤンマガWeb",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "シンプルに写真も良いし、音楽も当時の気分を新鮮に閉じ込めてくれるけれ..",
+      "title": "今回のエボラにはなぜワクチンが役に立たないのか、次の手は？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "有罪主張はしないが…「犯人でない証拠はない」大津地検、無罪主張もせず　日野町事件",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「日本人をハリウッドに出せって言ってんじゃないの」から始まるトンチキ上等で大暴れ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -137,34 +153,16 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "MAWAハンガーなら肩に跡がつかない＆服がずり落ちない　スリムで収納スペースも有",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "今回のエボラにはなぜワクチンが役に立たないのか、次の手は？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "アニメ「地元最高！」公式サイト",
+      "title": "アヲハタの「塗るテリーヌ」は晩酌にもサンドイッチにも合う！公式オススメの食べ方に",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "東京・北区の小学校火災、児童らひさしに下りて救助待つ…３人重傷「音楽準備室のぞく",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "長女が修学旅行で東京に行くが食べたいものが「立ち食いそば」らしいので「コロッケ乗",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "マイヤーlpgaクラシック",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
