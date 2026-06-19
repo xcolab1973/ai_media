@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T08:23:00+09:00",
+  "generated_at": "2026-06-19T15:50:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,99 +7,99 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 131,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
-      "news_web": 47,
+      "news_web": 48,
       "yahoo_news_ranking": 24,
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 8,
-    "passed_total": 116,
+    "neg_excluded": 6,
+    "dedup_excluded": 9,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "google_trends": 10,
-      "news_web": 11,
-      "yahoo_realtime": 37,
       "x_realtime": 8,
-      "yahoo_news_ranking": 4
+      "yahoo_realtime": 33,
+      "google_trends": 10,
+      "yahoo_news_ranking": 4,
+      "news_web": 15
     }
   },
   "note_category_counts": {
+    "social_reaction": 32,
+    "personal_story": 5,
     "opinion": 10,
-    "personal_story": 6,
-    "social_reaction": 28,
-    "policy": 8,
-    "medical_science": 4,
+    "medical_science": 2,
+    "policy": 7,
     "hard_fact": 14
   },
   "b2b_topic_category_counts": {
+    "social_reaction": 31,
     "opinion": 10,
-    "hard_fact": 15,
-    "policy": 8,
-    "social_reaction": 28,
-    "personal_story": 6,
-    "medical_science": 3
+    "hard_fact": 19,
+    "policy": 5,
+    "personal_story": 4,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "熱中症警戒アラート",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "オデッセイ国内販売終了へ ホンダ",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "最新AIの対策 外国政府と連携強化",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "policy"
-    },
-    {
-      "title": "「復興の象徴」今は「負の遺産」　被災地の企業誘致　失敗の理由 | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "ウクライナがモスクワに最大規模の攻撃、製油所が炎上",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「関空でご飯食べようとして、そっと店を出た」「ラーメン5000円」…あまりにもイ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "知的障害者の面倒を見ていたことがあったが、少しでも気に入らないことがあるとすぐ｢",
+      "title": "弁護士が依頼放置で業務停止2か月の懲戒処分、“2か月休めば元通り”なんて軽いもの",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "市役所から「消防団員としての活動実績が長期間ない」という通知が来たが、団員間の連",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
+      "title": "日テレ「THE　W」終了　女芸人No.1決定戦、今年は開催されず…今後は不定期開",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "ディズニープラス",
+      "title": "サイゼリヤで会計時、金額が5000円以上になっていて思わずスタッフに確認したら、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "学校の研修旅行に行った19歳娘からLINEが送られてきたが、泊まったホテルのユニ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "大垣共立銀行",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "大関和",
+      "title": "ニンテンドーミュージアム",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "jr 東日本 株主 総会",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ジャッキー チェン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "日清ソース焼そばカップ チキンスープ付き",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "トルシエ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,63 +107,63 @@
   ],
   "note_top10": [
     {
-      "title": "熱中症警戒アラート",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "弁護士が依頼放置で業務停止2か月の懲戒処分、“2か月休めば元通り”なんて軽いもの",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "「関空でご飯食べようとして、そっと店を出た」「ラーメン5000円」…あまりにもイ",
+      "title": "日テレ「THE　W」終了　女芸人No.1決定戦、今年は開催されず…今後は不定期開",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "80年代の凄惨な事件『富士見産婦人科病院事件』はなんと無免許の院長が経営、「腹の",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "サイゼリヤで会計時、金額が5000円以上になっていて思わずスタッフに確認したら、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "学校の研修旅行に行った19歳娘からLINEが送られてきたが、泊まったホテルのユニ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "15年以上前のカメラがなぜ今も選ばれる？上位5機種に85%が集中した現役レガシー",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「日本人！！！不！！！！お前ら何やってんだ！！！！！」とある中国人による日本の“",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「デニムと一緒に干されヤドン」孫娘が祖父母の家に忘れてしまったヤドンのぬいぐるみ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "日々利用するニュースの情報源、ソーシャルメディアが初めてテレビやニュースサイトを",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "知的障害者の面倒を見ていたことがあったが、少しでも気に入らないことがあるとすぐ｢",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "市役所から「消防団員としての活動実績が長期間ない」という通知が来たが、団員間の連",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "ウクライナがモスクワに最大規模の攻撃、製油所が炎上",
+      "title": "とある映画で、貧困層の男性が富裕層の男性がハマって読んでいる流行りの小説を貶して",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "留年中退、10年間ニート、風俗業から社会復帰した人まで…「人生踏み外し人のレール",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「その代わりﾁﾝﾁﾗﾈｺしないように」「ハイウエストおすすめです」今後も使えない",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "皇后さまと直前まで推敲　天皇陛下“18分のお言葉”の舞台裏",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「韓国はもうダメだ！」ストロングゼロよりもアルコール度数が高い「飲む社会福祉」が",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「オタクくんだけが頼りなの」でまさかのパンパンに膨らんだモバイルバッテリーを渡さ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
