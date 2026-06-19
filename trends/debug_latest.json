@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T15:50:00+09:00",
+  "generated_at": "2026-06-19T20:55:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,39 +16,57 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 9,
-    "passed_total": 117,
+    "neg_excluded": 5,
+    "dedup_excluded": 8,
+    "passed_total": 119,
     "b2b_category_counts": {
-      "x_realtime": 8,
-      "yahoo_realtime": 33,
+      "yahoo_realtime": 30,
+      "x_realtime": 9,
       "google_trends": 10,
-      "yahoo_news_ranking": 4,
-      "news_web": 15
+      "news_web": 15,
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
-    "personal_story": 5,
+    "social_reaction": 37,
     "opinion": 10,
-    "medical_science": 2,
-    "policy": 7,
-    "hard_fact": 14
+    "personal_story": 3,
+    "medical_science": 3,
+    "hard_fact": 12,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 31,
+    "social_reaction": 32,
     "opinion": 10,
-    "hard_fact": 19,
-    "policy": 5,
-    "personal_story": 4,
-    "medical_science": 1
+    "hard_fact": 20,
+    "policy": 4,
+    "medical_science": 2,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "弁護士が依頼放置で業務停止2か月の懲戒処分、“2か月休めば元通り”なんて軽いもの",
+      "title": "仙台市立小でいじめ重大事態　女子児童が3年にわたり10人以上から被害　差別的言葉",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "私の母親、ロマンス詐欺師を無料ホスト代わりにして今39人目「お金の話が出たらそれ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "明日の天気",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ホテルで高校生ら110人 食中毒",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_local",
+      "topic_category": "hard_fact"
     },
     {
       "title": "日テレ「THE　W」終了　女芸人No.1決定戦、今年は開催されず…今後は不定期開",
@@ -57,49 +75,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "サイゼリヤで会計時、金額が5000円以上になっていて思わずスタッフに確認したら、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "学校の研修旅行に行った19歳娘からLINEが送られてきたが、泊まったホテルのユニ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "大垣共立銀行",
+      "title": "thời tiết ngày mai",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ニンテンドーミュージアム",
+      "title": "xsmb",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "jr 東日本 株主 総会",
+      "title": "湖池屋 ポテチなど8月から値上げ",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "愛斗",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ジャッキー チェン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "日清ソース焼そばカップ チキンスープ付き",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "トルシエ",
+      "title": "australia vs bangladesh",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,7 +107,13 @@
   ],
   "note_top10": [
     {
-      "title": "弁護士が依頼放置で業務停止2か月の懲戒処分、“2か月休めば元通り”なんて軽いもの",
+      "title": "仙台市立小でいじめ重大事態　女子児童が3年にわたり10人以上から被害　差別的言葉",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "私の母親、ロマンス詐欺師を無料ホスト代わりにして今39人目「お金の話が出たらそれ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -119,21 +125,27 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "80年代の凄惨な事件『富士見産婦人科病院事件』はなんと無免許の院長が経営、「腹の",
+      "title": "【暴挙】ライターのヨッピー 勢い余ってスタートアップ界隈に参入",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "明日の天気",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「えっ……この状態やったの……」東京・北区の小学校で起きた火災は全員避難できたが",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "サイゼリヤで会計時、金額が5000円以上になっていて思わずスタッフに確認したら、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "学校の研修旅行に行った19歳娘からLINEが送られてきたが、泊まったホテルのユニ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -143,28 +155,16 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「日本人！！！不！！！！お前ら何やってんだ！！！！！」とある中国人による日本の“",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "会社の1on1で「特にないです」と言われる理由を解説した投稿が共感を呼ぶ「雑談し",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「デニムと一緒に干されヤドン」孫娘が祖父母の家に忘れてしまったヤドンのぬいぐるみ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日々利用するニュースの情報源、ソーシャルメディアが初めてテレビやニュースサイトを",
+      "title": "家事問屋のパスタメジャーなら置くだけでこぼれず量れる！燕三条製の優秀キッチングッ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
-    },
-    {
-      "title": "とある映画で、貧困層の男性が富裕層の男性がハマって読んでいる流行りの小説を貶して",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
     }
   ]
 }
