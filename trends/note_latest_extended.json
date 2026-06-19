@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-06-20T05:13:29+09:00",
+ "generated_at": "2026-06-20T06:45:09+09:00",
  "valid_until": "2026-06-28T23:07:28+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "total_count": 127,
  "merge": {
-  "from_current": 130,
+  "from_current": 127,
   "from_new": 24,
-  "expired_pruned": 27,
+  "expired_pruned": 0,
   "retention_dropped": 0,
   "genres": 33,
   "retention_per_genre": 8
