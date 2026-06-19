@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T20:55:00+09:00",
+  "generated_at": "2026-06-20T00:54:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,32 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 8,
-    "passed_total": 119,
+    "neg_excluded": 4,
+    "dedup_excluded": 11,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_realtime": 30,
-      "x_realtime": 9,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "news_web": 15,
-      "yahoo_news_ranking": 6
+      "news_web": 12,
+      "yahoo_news_ranking": 5,
+      "x_realtime": 8
     }
   },
   "note_category_counts": {
-    "social_reaction": 37,
+    "social_reaction": 30,
+    "personal_story": 1,
+    "medical_science": 4,
     "opinion": 10,
-    "personal_story": 3,
-    "medical_science": 3,
-    "hard_fact": 12,
-    "policy": 5
+    "policy": 7,
+    "hard_fact": 18
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 32,
+    "social_reaction": 30,
+    "medical_science": 3,
+    "hard_fact": 19,
     "opinion": 10,
-    "hard_fact": 20,
-    "policy": 4,
-    "medical_science": 2,
-    "personal_story": 2
+    "policy": 7,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
@@ -51,22 +51,10 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "私の母親、ロマンス詐欺師を無料ホスト代わりにして今39人目「お金の話が出たらそれ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "明日の天気",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ホテルで高校生ら110人 食中毒",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_local",
-      "topic_category": "hard_fact"
+      "title": "今回のエボラにはなぜワクチンが役に立たないのか、次の手は？",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
     },
     {
       "title": "日テレ「THE　W」終了　女芸人No.1決定戦、今年は開催されず…今後は不定期開",
@@ -75,31 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "thời tiết ngày mai",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "xsmb",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "湖池屋 ポテチなど8月から値上げ",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
+      "title": "「えっ……この状態やったの……」東京・北区の小学校で起きた火災は全員避難できたが",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
     },
     {
-      "title": "愛斗",
+      "title": "日鉄のUSスチール買収から1年…「90年前の設備」で「製品の半分が不良品」という",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "プレイステーション",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "australia vs bangladesh",
+      "title": "トミカ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ウマ娘 7th",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "細田守",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "anne hathaway",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,13 +113,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "私の母親、ロマンス詐欺師を無料ホスト代わりにして今39人目「お金の話が出たらそれ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "日テレ「THE　W」終了　女芸人No.1決定戦、今年は開催されず…今後は不定期開",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日テレ「THE　W」終了　女芸人No.1決定戦、今年は開催されず…今後は不定期開",
+      "title": "日鉄のUSスチール買収から1年…「90年前の設備」で「製品の半分が不良品」という",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "シンプルに写真も良いし、音楽も当時の気分を新鮮に閉じ込めてくれるけれ..",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -131,40 +137,34 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "明日の天気",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「えっ……この状態やったの……」東京・北区の小学校で起きた火災は全員避難できたが",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "15年以上前のカメラがなぜ今も選ばれる？上位5機種に85%が集中した現役レガシー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "会社の1on1で「特にないです」と言われる理由を解説した投稿が共感を呼ぶ「雑談し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "家事問屋のパスタメジャーなら置くだけでこぼれず量れる！燕三条製の優秀キッチングッ",
+      "title": "MAWAハンガーなら肩に跡がつかない＆服がずり落ちない　スリムで収納スペースも有",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
+    },
+    {
+      "title": "今回のエボラにはなぜワクチンが役に立たないのか、次の手は？",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "アニメ「地元最高！」公式サイト",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東京・北区の小学校火災、児童らひさしに下りて救助待つ…３人重傷「音楽準備室のぞく",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "長女が修学旅行で東京に行くが食べたいものが「立ち食いそば」らしいので「コロッケ乗",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ]
 }
