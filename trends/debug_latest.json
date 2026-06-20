@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T23:57:00+09:00",
+  "generated_at": "2026-06-21T07:47:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -20,68 +20,61 @@
     "dedup_excluded": 12,
     "passed_total": 116,
     "b2b_category_counts": {
-      "yahoo_realtime": 39,
+      "yahoo_realtime": 37,
+      "x_realtime": 7,
+      "news_web": 15,
       "google_trends": 10,
-      "x_realtime": 5,
-      "news_web": 14,
-      "yahoo_news_ranking": 2
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "personal_story": 2,
+    "social_reaction": 33,
     "opinion": 10,
-    "policy": 8,
-    "hard_fact": 18,
-    "medical_science": 2
+    "personal_story": 1,
+    "policy": 9,
+    "hard_fact": 16,
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
-    "policy": 7,
+    "hard_fact": 18,
+    "social_reaction": 33,
+    "policy": 8,
     "opinion": 10,
-    "hard_fact": 20,
-    "personal_story": 2,
-    "medical_science": 1
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "東海大仰星ラグビー部員、首絞められて意識失いコンクリートに後頭部強打…いじめ「重",
+      "title": "イラン「ホルムズ海峡を封鎖」　米・イスラエルが覚書違反と主張 - 日本経済新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "海外の子ども向けユニバ系テーマパークの「シュレック」の新アトラクションが「史上最",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「日本は法治国家だと思っていました」経営・管理ビザ厳格化の“後出しジャンケン”に",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "ナガノさんが泣かせているのはちいかわだけじゃない…シーサーのスーパーアルバイター",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "policy"
     },
     {
-      "title": "【反省しているとは限りません】注意されると黙り込む子ども ～言葉が出なくなる理由",
+      "title": "日本代表の偽ユニ出回る 注意",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_sports",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "「ボディーバッグ」より評判が悪い…休日のイオンで見かける一発で「だらしないお父さ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「HARIOのガラスのせいろ蒸し器を買って、公式にあるレシピを片っ端から作ったら",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "追い詰められたプーチン「産油国なのにガソリンを輸入」の緊急事態…モスクワ防空網を",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "半導体",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「極めて不適切」立憲・古賀議員を連合が厳重注意　「豊かな子は自衛隊ならない」発言",
+      "title": "東海大仰星ラグビー部員、首絞められて意識失いコンクリートに後頭部強打…いじめ「重",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -93,13 +86,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「経済的に厳しい子供が行く」立憲議員の失言問題、元自衛官が明かす入隊のリアルと“",
+      "title": "「極めて不適切」立憲・古賀議員を連合が厳重注意　「豊かな子は自衛隊ならない」発言",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "生田絵梨花",
+      "title": "「うまくいかなかったらJDのせい」、バンス氏の危険な賭け　イラン和平への取り組み",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "川田裕美",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,19 +112,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「HARIOのガラスのせいろ蒸し器を買って、公式にあるレシピを片っ端から作ったら",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "海外の子ども向けユニバ系テーマパークの「シュレック」の新アトラクションが「史上最",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【反省しているとは限りません】注意されると黙り込む子ども ～言葉が出なくなる理由",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「極めて不適切」立憲・古賀議員を連合が厳重注意　「豊かな子は自衛隊ならない」発言",
+      "title": "「ボディーバッグ」より評判が悪い…休日のイオンで見かける一発で「だらしないお父さ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -137,7 +130,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "お願いだから母親、大学生の姉の服をしまむらのキッズコーナーで買い揃えるのいい加減",
+      "title": "「極めて不適切」立憲・古賀議員を連合が厳重注意　「豊かな子は自衛隊ならない」発言",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "インク価格が高騰しててこのキーボードしか買えなかった「ここまで深刻になったんやで",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「うまくいかなかったらJDのせい」、バンス氏の危険な賭け　イラン和平への取り組み",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "約40年前、ハドソンの面接官が塩対応で「アマチュア無線の免許？まぁ今時小学生でも",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -149,21 +160,9 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "某テレビ局からオニカサゴが欲しいと電話があったのでいろんな提案をしたが全部断られ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "親が自衛隊員や警察官であることを理由に教師から嫌がらせを受けた話が集まる中、「あ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "追い詰められたプーチン「産油国なのにガソリンを輸入」の緊急事態…モスクワ防空網を",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "3歳が「いつもお家にいるおじさんがさ」というので「お父さんね」と返したら「違うよ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
