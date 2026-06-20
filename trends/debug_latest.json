@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T15:03:00+09:00",
+  "generated_at": "2026-06-20T19:22:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,31 +17,30 @@
       "x_realtime": 10
     },
     "neg_excluded": 4,
-    "dedup_excluded": 10,
-    "passed_total": 118,
+    "dedup_excluded": 8,
+    "passed_total": 120,
     "b2b_category_counts": {
-      "yahoo_realtime": 29,
+      "yahoo_realtime": 27,
       "google_trends": 10,
-      "news_web": 18,
-      "x_realtime": 8,
-      "yahoo_news_ranking": 5
+      "news_web": 20,
+      "x_realtime": 10,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "personal_story": 2,
+    "social_reaction": 32,
+    "personal_story": 4,
     "opinion": 10,
-    "policy": 7,
-    "medical_science": 4,
-    "hard_fact": 17
+    "policy": 6,
+    "hard_fact": 16,
+    "medical_science": 2
   },
   "b2b_topic_category_counts": {
-    "policy": 6,
-    "social_reaction": 26,
+    "policy": 4,
+    "social_reaction": 28,
     "opinion": 10,
     "hard_fact": 25,
-    "personal_story": 2,
-    "medical_science": 1
+    "personal_story": 3
   },
   "b2b_top10": [
     {
@@ -75,22 +74,22 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "東京 都 知事",
+      "title": "堂安律",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ムーキー・ベッツ",
+      "title": "橋本涼",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "エドマン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "「経済的に厳しい子供が行く」立憲議員の失言問題、元自衛官が明かす入隊のリアルと“",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
     },
     {
       "title": "授乳がまさかの迷惑行為？！母乳はそんなに都合よく出ません",
@@ -99,7 +98,7 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "大野雄大",
+      "title": "ボリビア",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -125,10 +124,10 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "朝玄関で娘がど真ん中に座るので下の子が靴を履けず、詰めてと言っても理解していない",
+      "title": "授乳がまさかの迷惑行為？！母乳はそんなに都合よく出ません",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
       "title": "追い詰められたプーチン「産油国なのにガソリンを輸入」の緊急事態…モスクワ防空網を",
@@ -137,31 +136,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "授乳がまさかの迷惑行為？！母乳はそんなに都合よく出ません",
+      "title": "維管束の話をしていて「野菜はお水をどうやって吸い上げるのか」が気になったので白菜",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "児童はなぜ窓からひさしへ　迫る煙、閉じた防火扉　北区の小学校火災：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「誰かが広く知らしめた気がするのですが……」下半身麻痺で車椅子の女性が女性用風俗",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "かつてエロ漫画誌は「エロさえ入れたら好きにして」という挑戦的な絵描きの受け皿だっ",
+      "title": "お願いだから母親、大学生の姉の服をしまむらのキッズコーナーで買い揃えるのいい加減",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ワールドカップ観戦のためにメキシコに来てるんだけど、メキシコ人に聞きたい「朝食に",
+      "title": "周辺住民が何度警察に通報しても改善のなかった迷惑駐車の車がついに何者かによって”",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "一時期お世話になった里親の元を去るときに里父が泣いているのを見て笑ったら「こんな",
+      "title": "テキサスを満喫する日本人への地元民の見守りと「次はこれを食べさせてやってくれ」が",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
