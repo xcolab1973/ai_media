@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T07:35:00+09:00",
+  "generated_at": "2026-06-20T15:03:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,88 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
+    "neg_excluded": 4,
     "dedup_excluded": 10,
-    "passed_total": 117,
+    "passed_total": 118,
     "b2b_category_counts": {
-      "x_realtime": 8,
-      "news_web": 11,
-      "yahoo_realtime": 36,
+      "yahoo_realtime": 29,
       "google_trends": 10,
+      "news_web": 18,
+      "x_realtime": 8,
       "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "medical_science": 5,
+    "social_reaction": 30,
+    "personal_story": 2,
     "opinion": 10,
-    "hard_fact": 19,
-    "policy": 7
+    "policy": 7,
+    "medical_science": 4,
+    "hard_fact": 17
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "hard_fact": 20,
-    "medical_science": 4,
+    "policy": 6,
+    "social_reaction": 26,
     "opinion": 10,
-    "policy": 7
+    "hard_fact": 25,
+    "personal_story": 2,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "【わりと閲覧注意】フレンチで出てきたイクラに「ツノ」が生えてました…→謎の現象に",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "「日本は法治国家だと思っていました」経営・管理ビザ厳格化の“後出しジャンケン”に",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
     },
     {
-      "title": "台風7号が発生 今後の動向に注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "仙台市立小でいじめ重大事態　女子児童が3年にわたり10人以上から被害　差別的言葉",
+      "title": "「HARIOのガラスのせいろ蒸し器を買って、公式にあるレシピを片っ端から作ったら",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "今回のエボラにはなぜワクチンが役に立たないのか、次の手は？",
+      "title": "追い詰められたプーチン「産油国なのにガソリンを輸入」の緊急事態…モスクワ防空網を",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "マイヤーlpgaクラシック",
+      "title": "【後転のコツ】小学生で後転な苦手な子どもへの上手な教え方と練習法 ｜きそスポマガ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【反省しているとは限りません】注意されると黙り込む子ども ～言葉が出なくなる理由",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東京 都 知事",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ジャンポケ太田 坊主",
+      "title": "ムーキー・ベッツ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ルイス・ファーガソン",
+      "title": "エドマン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "タイチ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "授乳がまさかの迷惑行為？！母乳はそんなに都合よく出ません",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "野中瑠衣",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "八代市",
+      "title": "大野雄大",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,64 +107,64 @@
   ],
   "note_top10": [
     {
-      "title": "仙台市立小でいじめ重大事態　女子児童が3年にわたり10人以上から被害　差別的言葉",
+      "title": "「HARIOのガラスのせいろ蒸し器を買って、公式にあるレシピを片っ端から作ったら",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【わりと閲覧注意】フレンチで出てきたイクラに「ツノ」が生えてました…→謎の現象に",
+      "title": "【後転のコツ】小学生で後転な苦手な子どもへの上手な教え方と練習法 ｜きそスポマガ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【反省しているとは限りません】注意されると黙り込む子ども ～言葉が出なくなる理由",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "朝玄関で娘がど真ん中に座るので下の子が靴を履けず、詰めてと言っても理解していない",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "追い詰められたプーチン「産油国なのにガソリンを輸入」の緊急事態…モスクワ防空網を",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "授乳がまさかの迷惑行為？！母乳はそんなに都合よく出ません",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「誰かが広く知らしめた気がするのですが……」下半身麻痺で車椅子の女性が女性用風俗",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "かつてエロ漫画誌は「エロさえ入れたら好きにして」という挑戦的な絵描きの受け皿だっ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "長女が修学旅行で東京に行くが食べたいものが「立ち食いそば」らしいので「コロッケ乗",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "MADE IN YAMATO - 第４話　筋肉の天敵 | ヤンマガWeb",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "今回のエボラにはなぜワクチンが役に立たないのか、次の手は？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "有罪主張はしないが…「犯人でない証拠はない」大津地検、無罪主張もせず　日野町事件",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「日本人をハリウッドに出せって言ってんじゃないの」から始まるトンチキ上等で大暴れ",
+      "title": "ワールドカップ観戦のためにメキシコに来てるんだけど、メキシコ人に聞きたい「朝食に",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【暴挙】ライターのヨッピー 勢い余ってスタートアップ界隈に参入",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "一時期お世話になった里親の元を去るときに里父が泣いているのを見て笑ったら「こんな",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "アヲハタの「塗るテリーヌ」は晩酌にもサンドイッチにも合う！公式オススメの食べ方に",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "マイヤーlpgaクラシック",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ]
 }
