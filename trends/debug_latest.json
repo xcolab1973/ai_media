@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T07:47:00+09:00",
+  "generated_at": "2026-06-21T15:31:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,56 +16,45 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 4,
-    "dedup_excluded": 12,
+    "neg_excluded": 5,
+    "dedup_excluded": 11,
     "passed_total": 116,
     "b2b_category_counts": {
       "yahoo_realtime": 37,
-      "x_realtime": 7,
-      "news_web": 15,
       "google_trends": 10,
-      "yahoo_news_ranking": 1
+      "news_web": 13,
+      "x_realtime": 7,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "opinion": 10,
+    "social_reaction": 34,
     "personal_story": 1,
-    "policy": 9,
-    "hard_fact": 16,
-    "medical_science": 1
+    "opinion": 10,
+    "medical_science": 3,
+    "hard_fact": 17,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 18,
-    "social_reaction": 33,
-    "policy": 8,
+    "social_reaction": 34,
     "opinion": 10,
-    "personal_story": 1
+    "hard_fact": 18,
+    "personal_story": 1,
+    "policy": 6,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "イラン「ホルムズ海峡を封鎖」　米・イスラエルが覚書違反と主張 - 日本経済新聞",
+      "title": "マダガスカルを旅行中、大通りの歩道で立ち止まっていたら、妻が知らない男から注射針",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "海外の子ども向けユニバ系テーマパークの「シュレック」の新アトラクションが「史上最",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ナガノさんが泣かせているのはちいかわだけじゃない…シーサーのスーパーアルバイター",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "policy"
-    },
-    {
-      "title": "日本代表の偽ユニ出回る 注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_sports",
-      "topic_category": "hard_fact"
+      "title": "茅乃舎で3000円以上の買い物をして、まさかの紙袋が有料で165円もして激萎え…",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "「ボディーバッグ」より評判が悪い…休日のイオンで見かける一発で「だらしないお父さ",
@@ -74,31 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "東海大仰星ラグビー部員、首絞められて意識失いコンクリートに後頭部強打…いじめ「重",
+      "title": "｢ボディーバッグ｣より評判が悪い…休日のイオンで見かける一発で｢だらしないお父さ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "河合優実、難民キャンプ初訪問で直面した現実「自分の目で見ないと分からないことが本",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "ニチレイレディス 2026",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "「極めて不適切」立憲・古賀議員を連合が厳重注意　「豊かな子は自衛隊ならない」発言",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "柿谷曜一朗",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "「うまくいかなかったらJDのせい」、バンス氏の危険な賭け　イラン和平への取り組み",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "fifa world cup 2026™",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "川田裕美",
+      "title": "氷のうに新市場 背景に危険な暑さ",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "タクシーが暑かったので「クーラーつけて頂けますか」とお願いしたら「私は朝から運転",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "竹内涼真 弟",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,15 +107,15 @@
   ],
   "note_top10": [
     {
-      "title": "東海大仰星ラグビー部員、首絞められて意識失いコンクリートに後頭部強打…いじめ「重",
+      "title": "マダガスカルを旅行中、大通りの歩道で立ち止まっていたら、妻が知らない男から注射針",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "海外の子ども向けユニバ系テーマパークの「シュレック」の新アトラクションが「史上最",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "茅乃舎で3000円以上の買い物をして、まさかの紙袋が有料で165円もして激萎え…",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -124,43 +125,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "河合優実、難民キャンプ初訪問で直面した現実「自分の目で見ないと分からないことが本",
+      "title": "｢ボディーバッグ｣より評判が悪い…休日のイオンで見かける一発で｢だらしないお父さ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「極めて不適切」立憲・古賀議員を連合が厳重注意　「豊かな子は自衛隊ならない」発言",
+      "title": "タクシーが暑かったので「クーラーつけて頂けますか」とお願いしたら「私は朝から運転",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "男は暮らしに興味がないのか",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "インク価格が高騰しててこのキーボードしか買えなかった「ここまで深刻になったんやで",
+      "title": "駅にいたら、目の前でおっさんがぶっ倒れたが、意識不明どころか呼吸なし… 即通報し",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "少年鑑別所の医務課長が性加害者の少年と面談した際、少年は「ここではAV見られない",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「うまくいかなかったらJDのせい」、バンス氏の危険な賭け　イラン和平への取り組み",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "連載第1話やらかし漫画といえば「メダリスト」ですら作者自らやり過ぎだったと反省し",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "約40年前、ハドソンの面接官が塩対応で「アマチュア無線の免許？まぁ今時小学生でも",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "周辺住民が何度警察に通報しても改善のなかった迷惑駐車の車がついに何者かによって”",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "3歳が「いつもお家にいるおじさんがさ」というので「お父さんね」と返したら「違うよ",
+      "title": "画像から場所を特定するゲームでくまモンの存在をひたすら無視するマンガ→「この人の",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
