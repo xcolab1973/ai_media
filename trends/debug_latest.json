@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T00:04:00+09:00",
+  "generated_at": "2026-06-22T07:47:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,38 +17,44 @@
       "x_realtime": 10
     },
     "neg_excluded": 2,
-    "dedup_excluded": 9,
-    "passed_total": 121,
+    "dedup_excluded": 13,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
+      "yahoo_realtime": 39,
       "google_trends": 10,
-      "news_web": 14,
-      "x_realtime": 8,
-      "yahoo_news_ranking": 1
+      "x_realtime": 5,
+      "yahoo_news_ranking": 1,
+      "news_web": 15
     }
   },
   "note_category_counts": {
-    "social_reaction": 34,
-    "personal_story": 2,
-    "opinion": 10,
+    "medical_science": 6,
+    "social_reaction": 30,
+    "personal_story": 4,
+    "opinion": 9,
     "policy": 4,
-    "medical_science": 5,
-    "hard_fact": 15
+    "hard_fact": 17
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 31,
+    "medical_science": 3,
+    "hard_fact": 20,
     "policy": 4,
-    "opinion": 10,
-    "hard_fact": 21,
-    "personal_story": 2,
-    "medical_science": 2
+    "social_reaction": 30,
+    "opinion": 9,
+    "personal_story": 4
   },
   "b2b_top10": [
     {
-      "title": "中国を真っ当に批判しただけで「犯罪者」に…習近平が7月1日から日本人を標的にする",
+      "title": "「うちの猫はなぜか海苔が異様に好き」猫の食生活には縁がなさそうなのに、海苔が大好",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "台風",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
     },
     {
       "title": "政府が称賛「日立の裁量労働制」のガッカリな実態　労働時間を過少申告させる会社の圧",
@@ -63,43 +69,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "｢ボディーバッグ｣より評判が悪い…休日のイオンで見かける一発で｢だらしないお父さ",
+      "title": "中国を真っ当に批判しただけで「犯罪者」に…習近平が7月1日から日本人を標的にする",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "生田絵梨花",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "森高千里",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "小栗旬",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "化学テロ対策で専門家組織創設へ",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "「完全に嗜好品に近い」結婚式の見積もりを取ったら900万円もして笑うしかない、し",
+      "title": "昔から「盛ってるやろ」と言われるが小学校の学区にヤクザ事務所や組幹部自宅と県警官",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "松浦亜弥",
+      "title": "ウルグアイ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "部長",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "郵政 民営 化",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "京成電鉄",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,10 +107,10 @@
   ],
   "note_top10": [
     {
-      "title": "中国を真っ当に批判しただけで「犯罪者」に…習近平が7月1日から日本人を標的にする",
+      "title": "「うちの猫はなぜか海苔が異様に好き」猫の食生活には縁がなさそうなのに、海苔が大好",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "medical_science"
     },
     {
       "title": "中国を真っ当に批判しただけで｢犯罪者｣に…習近平が7月1日から日本人を標的にする",
@@ -119,16 +119,16 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "｢ボディーバッグ｣より評判が悪い…休日のイオンで見かける一発で｢だらしないお父さ",
+      "title": "中国を真っ当に批判しただけで「犯罪者」に…習近平が7月1日から日本人を標的にする",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「完全に嗜好品に近い」結婚式の見積もりを取ったら900万円もして笑うしかない、し",
+      "title": "昔から「盛ってるやろ」と言われるが小学校の学区にヤクザ事務所や組幹部自宅と県警官",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
       "title": "職業訓練校を通学中に就職が決まって途中退校したポスト主が、訓練校に関してメリット",
@@ -137,19 +137,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ひぐらしのなく頃に」新作TVアニメーション制作決定PV",
+      "title": "「103万の壁より圧倒的に分厚くて害悪」生活保護、就労支援の現場でも「週2なら行",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "父親からクレカ支払いの詳細調査依頼→調査した結果、妹が父親名義で、刀剣乱舞に毎月",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "ヤマト運輸「風が強くてどっかに飛んでいきました」「代金は保証します」→宝塚の「宙",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ヤマト運輸「風が強くてどっかに飛んでいきました」「代金は保証します」→宝塚の「宙",
+      "title": "コミカライズの仕事を請けた漫画家が1話目を書き終えた時点で「原作がつまらないと思",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "退職者の送別会を退職者本人が欠席し「そんな人ではなかったのに…」とざわついてたら",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -158,12 +164,6 @@
       "title": "縮小社会に生きる：出生率2.95の「奇跡のまち」　注目浴びる独自の子育て支援 |",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "昔、バイト先の居酒屋で板前から好きなバンドを尋ねられ、「解散しましたけど〇〇とか",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
