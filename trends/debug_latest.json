@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T15:31:00+09:00",
+  "generated_at": "2026-06-21T19:56:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,48 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 11,
-    "passed_total": 116,
+    "neg_excluded": 3,
+    "dedup_excluded": 10,
+    "passed_total": 119,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "news_web": 13,
-      "x_realtime": 7,
-      "yahoo_news_ranking": 3
+      "x_realtime": 8,
+      "yahoo_news_ranking": 5,
+      "news_web": 12
     }
   },
   "note_category_counts": {
-    "social_reaction": 34,
-    "personal_story": 1,
+    "social_reaction": 32,
     "opinion": 10,
-    "medical_science": 3,
-    "hard_fact": 17,
-    "policy": 5
+    "personal_story": 1,
+    "policy": 5,
+    "medical_science": 5,
+    "hard_fact": 17
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 34,
+    "policy": 5,
+    "social_reaction": 31,
     "opinion": 10,
-    "hard_fact": 18,
-    "personal_story": 1,
-    "policy": 6,
-    "medical_science": 1
+    "hard_fact": 21,
+    "medical_science": 2,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "マダガスカルを旅行中、大通りの歩道で立ち止まっていたら、妻が知らない男から注射針",
+      "title": "政府が称賛「日立の裁量労働制」のガッカリな実態　労働時間を過少申告させる会社の圧",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "中国を真っ当に批判しただけで「犯罪者」に…習近平が7月1日から日本人を標的にする",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中国を真っ当に批判しただけで｢犯罪者｣に…習近平が7月1日から日本人を標的にする",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -63,51 +75,45 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "吉高由里子",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "本木雅弘",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "もっくん",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "森本慎太郎",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
       "title": "｢ボディーバッグ｣より評判が悪い…休日のイオンで見かける一発で｢だらしないお父さ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "ニチレイレディス 2026",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "柿谷曜一朗",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "fifa world cup 2026™",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "氷のうに新市場 背景に危険な暑さ",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "タクシーが暑かったので「クーラーつけて頂けますか」とお願いしたら「私は朝から運転",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "竹内涼真 弟",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "マダガスカルを旅行中、大通りの歩道で立ち止まっていたら、妻が知らない男から注射針",
+      "title": "中国を真っ当に批判しただけで「犯罪者」に…習近平が7月1日から日本人を標的にする",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中国を真っ当に批判しただけで｢犯罪者｣に…習近平が7月1日から日本人を標的にする",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -131,10 +137,22 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "タクシーが暑かったので「クーラーつけて頂けますか」とお願いしたら「私は朝から運転",
+      "title": "少年鑑別所の医務課長が性加害者の少年と面談した際、少年は「ここではAV見られない",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「完全に嗜好品に近い」結婚式の見積もりを取ったら900万円もして笑うしかない、し",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "あぜ道を一直線に歩いてくるアナグマが人間に気づく瞬間の動画「気づいてなかったんか",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
       "title": "男は暮らしに興味がないのか",
@@ -143,27 +161,9 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "駅にいたら、目の前でおっさんがぶっ倒れたが、意識不明どころか呼吸なし… 即通報し",
+      "title": "W杯 日本がチュニジアに勝利 鎌田 上田 伊東ゴール【詳しく】",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "少年鑑別所の医務課長が性加害者の少年と面談した際、少年は「ここではAV見られない",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "連載第1話やらかし漫画といえば「メダリスト」ですら作者自らやり過ぎだったと反省し",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "画像から場所を特定するゲームでくまモンの存在をひたすら無視するマンガ→「この人の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
