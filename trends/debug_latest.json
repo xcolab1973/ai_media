@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T19:56:00+09:00",
+  "generated_at": "2026-06-22T00:04:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,45 +16,45 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 3,
-    "dedup_excluded": 10,
-    "passed_total": 119,
+    "neg_excluded": 2,
+    "dedup_excluded": 9,
+    "passed_total": 121,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 37,
       "google_trends": 10,
+      "news_web": 14,
       "x_realtime": 8,
-      "yahoo_news_ranking": 5,
-      "news_web": 12
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
+    "social_reaction": 34,
+    "personal_story": 2,
     "opinion": 10,
-    "personal_story": 1,
-    "policy": 5,
+    "policy": 4,
     "medical_science": 5,
-    "hard_fact": 17
+    "hard_fact": 15
   },
   "b2b_topic_category_counts": {
-    "policy": 5,
     "social_reaction": 31,
+    "policy": 4,
     "opinion": 10,
     "hard_fact": 21,
-    "medical_science": 2,
-    "personal_story": 1
+    "personal_story": 2,
+    "medical_science": 2
   },
   "b2b_top10": [
-    {
-      "title": "政府が称賛「日立の裁量労働制」のガッカリな実態　労働時間を過少申告させる会社の圧",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
     {
       "title": "中国を真っ当に批判しただけで「犯罪者」に…習近平が7月1日から日本人を標的にする",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "政府が称賛「日立の裁量労働制」のガッカリな実態　労働時間を過少申告させる会社の圧",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
     },
     {
       "title": "中国を真っ当に批判しただけで｢犯罪者｣に…習近平が7月1日から日本人を標的にする",
@@ -63,46 +63,46 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "茅乃舎で3000円以上の買い物をして、まさかの紙袋が有料で165円もして激萎え…",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ボディーバッグ」より評判が悪い…休日のイオンで見かける一発で「だらしないお父さ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "吉高由里子",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "本木雅弘",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "もっくん",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "森本慎太郎",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
       "title": "｢ボディーバッグ｣より評判が悪い…休日のイオンで見かける一発で｢だらしないお父さ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "生田絵梨花",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "森高千里",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "小栗旬",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "化学テロ対策で専門家組織創設へ",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_domestic",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "「完全に嗜好品に近い」結婚式の見積もりを取ったら900万円もして笑うしかない、し",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "松浦亜弥",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
@@ -119,51 +119,51 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "茅乃舎で3000円以上の買い物をして、まさかの紙袋が有料で165円もして激萎え…",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ボディーバッグ」より評判が悪い…休日のイオンで見かける一発で「だらしないお父さ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "｢ボディーバッグ｣より評判が悪い…休日のイオンで見かける一発で｢だらしないお父さ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "少年鑑別所の医務課長が性加害者の少年と面談した際、少年は「ここではAV見られない",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "「完全に嗜好品に近い」結婚式の見積もりを取ったら900万円もして笑うしかない、し",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
-      "title": "あぜ道を一直線に歩いてくるアナグマが人間に気づく瞬間の動画「気づいてなかったんか",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "男は暮らしに興味がないのか",
+      "title": "職業訓練校を通学中に就職が決まって途中退校したポスト主が、訓練校に関してメリット",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "W杯 日本がチュニジアに勝利 鎌田 上田 伊東ゴール【詳しく】",
+      "title": "「ひぐらしのなく頃に」新作TVアニメーション制作決定PV",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "父親からクレカ支払いの詳細調査依頼→調査した結果、妹が父親名義で、刀剣乱舞に毎月",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ヤマト運輸「風が強くてどっかに飛んでいきました」「代金は保証します」→宝塚の「宙",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "縮小社会に生きる：出生率2.95の「奇跡のまち」　注目浴びる独自の子育て支援 |",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "昔、バイト先の居酒屋で板前から好きなバンドを尋ねられ、「解散しましたけど〇〇とか",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
