@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T22:20:00+09:00",
+  "generated_at": "2026-06-23T02:20:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,42 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 14,
-    "dedup_excluded": 8,
-    "passed_total": 110,
+    "neg_excluded": 9,
+    "dedup_excluded": 11,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "x_realtime": 8,
-      "yahoo_realtime": 31,
+      "yahoo_realtime": 34,
+      "x_realtime": 7,
       "google_trends": 10,
-      "yahoo_news_ranking": 4,
+      "yahoo_news_ranking": 2,
       "news_web": 17
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "personal_story": 2,
+    "social_reaction": 29,
+    "personal_story": 3,
     "opinion": 10,
     "medical_science": 2,
-    "hard_fact": 23,
-    "policy": 5
+    "policy": 8,
+    "hard_fact": 18
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
+    "social_reaction": 29,
+    "policy": 10,
     "opinion": 10,
-    "personal_story": 2,
-    "hard_fact": 21,
-    "policy": 8,
+    "hard_fact": 17,
+    "personal_story": 3,
     "medical_science": 1
   },
   "b2b_top10": [
     {
       "title": "「活動終了理由が未曾有すぎる」VTuberが自分のリスナーをストーカーかつ性的暴",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "トランポリンパークがGoogleマップに付いた低評価レビューに対して反応してバズ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -63,43 +69,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "総菜屋の店員「今○○が出来立てなのでお付けしてもいいですか？」客「え、でもお金払",
+      "title": "ジャングリアにも絡む「クールジャパン機構」廃止か　累積赤字383億円、巨額の税金",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "argentina",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "アルゼンチン 対 オーストリア",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "フランスでは高温で道路のアスファルトが溶けて大変なことになっているが日本ではアス",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "稲本潤一",
+      "title": "コンラート・ライマー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "内田篤人",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「家庭を持つ」ことを諦めたという30歳男性のnoteへの反応と、「家庭を持つこと",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "楽天 西武",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "マイクロン 決算",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "楽天イーグルス",
+      "title": "ヤフーファイナンス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -108,6 +108,12 @@
   "note_top10": [
     {
       "title": "「活動終了理由が未曾有すぎる」VTuberが自分のリスナーをストーカーかつ性的暴",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "トランポリンパークがGoogleマップに付いた低評価レビューに対して反応してバズ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -125,25 +131,25 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "フランスでは高温で道路のアスファルトが溶けて大変なことになっているが日本ではアス",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "総菜屋の店員「今○○が出来立てなのでお付けしてもいいですか？」客「え、でもお金払",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「家庭を持つ」ことを諦めたという30歳男性のnoteへの反応と、「家庭を持つこと",
+      "title": "量子力学を「虚数なし」で書き直すことに成功──実数で綴る量子の世界 - ナゾロジ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ゼレンスキー氏、ポーランド最高勲章を返上　剥奪すると言われ - BBCニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ある日、信楽焼の工房に社長が出社したらとんでもない状況に陥っているタヌキを発見し",
+      "title": "1ルームのアパートで寝ていた夜、ふとかすかな音に目覚めるも偶にある幻聴かと思って",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
@@ -155,13 +161,7 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ロリータの隣を歩く男性の服装の最適解は何か？」という問いに結論が出なかった→様",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "DAZN「ベースボールもだまされた」の声　月2300円と思ったら年2万7600円",
+      "title": "男は「丁寧な暮らし」に興味がないだけで「機能的な暮らし」は興味津々",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
