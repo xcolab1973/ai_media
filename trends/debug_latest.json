@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T07:47:00+09:00",
+  "generated_at": "2026-06-22T16:05:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,89 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 2,
-    "dedup_excluded": 13,
-    "passed_total": 117,
+    "neg_excluded": 12,
+    "dedup_excluded": 8,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 39,
+      "yahoo_realtime": 32,
+      "yahoo_news_ranking": 4,
       "google_trends": 10,
-      "x_realtime": 5,
-      "yahoo_news_ranking": 1,
+      "x_realtime": 9,
       "news_web": 15
     }
   },
   "note_category_counts": {
-    "medical_science": 6,
-    "social_reaction": 30,
-    "personal_story": 4,
+    "social_reaction": 32,
     "opinion": 9,
-    "policy": 4,
-    "hard_fact": 17
+    "personal_story": 1,
+    "policy": 8,
+    "hard_fact": 19,
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "medical_science": 3,
-    "hard_fact": 20,
-    "policy": 4,
-    "social_reaction": 30,
+    "policy": 9,
+    "hard_fact": 19,
+    "social_reaction": 32,
     "opinion": 9,
-    "personal_story": 4
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "「うちの猫はなぜか海苔が異様に好き」猫の食生活には縁がなさそうなのに、海苔が大好",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "台風",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "政府が称賛「日立の裁量労働制」のガッカリな実態　労働時間を過少申告させる会社の圧",
+      "title": "副首都法案に憲法学者ら「違憲疑い」指摘　自民は修正案、維新は反論：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "中国を真っ当に批判しただけで｢犯罪者｣に…習近平が7月1日から日本人を標的にする",
+      "title": "森保J なぜMTG映像を無料配信",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_it",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "女性乗組員を入れるようになってから潜水艦内で真水の使用量が増えたので「やはり女性",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "中国を真っ当に批判しただけで「犯罪者」に…習近平が7月1日から日本人を標的にする",
+      "title": "【速報】内田梨瑚被告に求刑通り懲役27年判決　女子高校生殺害　弁護側は殺人罪否認",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "hard_fact"
     },
     {
-      "title": "昔から「盛ってるやろ」と言われるが小学校の学区にヤクザ事務所や組幹部自宅と県警官",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ウルグアイ",
+      "title": "ジュー ジンイー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "部長",
+      "title": "物価",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "郵政 民営 化",
+      "title": "大迫傑",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "京成電鉄",
+      "title": "起訴",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "qvcジャパン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "山田孝之",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +106,61 @@
   ],
   "note_top10": [
     {
-      "title": "「うちの猫はなぜか海苔が異様に好き」猫の食生活には縁がなさそうなのに、海苔が大好",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "中国を真っ当に批判しただけで｢犯罪者｣に…習近平が7月1日から日本人を標的にする",
+      "title": "女性乗組員を入れるようになってから潜水艦内で真水の使用量が増えたので「やはり女性",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "中国を真っ当に批判しただけで「犯罪者」に…習近平が7月1日から日本人を標的にする",
+      "title": "DAZN「ベースボールもだまされた」の声　月2300円と思ったら年2万7600円",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "昔から「盛ってるやろ」と言われるが小学校の学区にヤクザ事務所や組幹部自宅と県警官",
+      "title": "「ロリータの隣を歩く男性の服装の最適解は何か？」という問いに結論が出なかった→様",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "職業訓練校を通学中に就職が決まって途中退校したポスト主が、訓練校に関してメリット",
+      "title": "「ちょっといい」めんつゆおすすめ5選！いつものそうめんがワンランク上の美味しさに",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「103万の壁より圧倒的に分厚くて害悪」生活保護、就労支援の現場でも「週2なら行",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ヤマト運輸「風が強くてどっかに飛んでいきました」「代金は保証します」→宝塚の「宙",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "コミカライズの仕事を請けた漫画家が1話目を書き終えた時点で「原作がつまらないと思",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "退職者の送別会を退職者本人が欠席し「そんな人ではなかったのに…」とざわついてたら",
+      "title": "トルコ人のお笑い芸人がイスラム教をやめた理由『こんないい人たち(日本人)がイスラ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "縮小社会に生きる：出生率2.95の「奇跡のまち」　注目浴びる独自の子育て支援 |",
+      "title": "駅で若い人がペットボトルに口をつけない飲み方をしていて「衛生的でいいな」と真似し",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "聖飢魔IIがファンクラブ向けの保養施設「それいけ！あく魔の森」を運営していると聞",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「自分より後にエレベーターに乗った人が、自分より先にお店に並び始めるのが気になる",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "男は「丁寧な暮らし」に興味がないだけで「機能的な暮らし」は興味津々",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "新作紹介で500冊以上売れる。モノを売るための文章術「セールスライティング」をご",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
