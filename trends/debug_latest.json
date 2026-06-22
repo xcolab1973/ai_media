@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T16:05:00+09:00",
+  "generated_at": "2026-06-22T22:20:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,89 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
+    "neg_excluded": 14,
     "dedup_excluded": 8,
-    "passed_total": 112,
+    "passed_total": 110,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
-      "yahoo_news_ranking": 4,
+      "x_realtime": 8,
+      "yahoo_realtime": 31,
       "google_trends": 10,
-      "x_realtime": 9,
-      "news_web": 15
+      "yahoo_news_ranking": 4,
+      "news_web": 17
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
-    "opinion": 9,
-    "personal_story": 1,
-    "policy": 8,
-    "hard_fact": 19,
-    "medical_science": 1
+    "social_reaction": 28,
+    "personal_story": 2,
+    "opinion": 10,
+    "medical_science": 2,
+    "hard_fact": 23,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "policy": 9,
-    "hard_fact": 19,
-    "social_reaction": 32,
-    "opinion": 9,
-    "personal_story": 1
+    "social_reaction": 28,
+    "opinion": 10,
+    "personal_story": 2,
+    "hard_fact": 21,
+    "policy": 8,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "副首都法案に憲法学者ら「違憲疑い」指摘　自民は修正案、維新は反論：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "title": "「活動終了理由が未曾有すぎる」VTuberが自分のリスナーをストーカーかつ性的暴",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "森保J なぜMTG映像を無料配信",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_it",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "女性乗組員を入れるようになってから潜水艦内で真水の使用量が増えたので「やはり女性",
+      "title": "コンドルを導入してから鞄が劇的に軽くなった",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【速報】内田梨瑚被告に求刑通り懲役27年判決　女子高校生殺害　弁護側は殺人罪否認",
+      "title": "「バズると思って」段ボールかぶり通行人に胸触らせたか　男女3人書類送検（2026",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "ジュー ジンイー",
+      "title": "総菜屋の店員「今○○が出来立てなのでお付けしてもいいですか？」客「え、でもお金払",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "稲本潤一",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "物価",
+      "title": "内田篤人",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "大迫傑",
+      "title": "「家庭を持つ」ことを諦めたという30歳男性のnoteへの反応と、「家庭を持つこと",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "楽天 西武",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "起訴",
+      "title": "マイクロン 決算",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "qvcジャパン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "山田孝之",
+      "title": "楽天イーグルス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,15 +107,51 @@
   ],
   "note_top10": [
     {
-      "title": "女性乗組員を入れるようになってから潜水艦内で真水の使用量が増えたので「やはり女性",
+      "title": "「活動終了理由が未曾有すぎる」VTuberが自分のリスナーをストーカーかつ性的暴",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "コンドルを導入してから鞄が劇的に軽くなった",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "DAZN「ベースボールもだまされた」の声　月2300円と思ったら年2万7600円",
+      "title": "「バズると思って」段ボールかぶり通行人に胸触らせたか　男女3人書類送検（2026",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "総菜屋の店員「今○○が出来立てなのでお付けしてもいいですか？」客「え、でもお金払",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「家庭を持つ」ことを諦めたという30歳男性のnoteへの反応と、「家庭を持つこと",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ゼレンスキー氏、ポーランド最高勲章を返上　剥奪すると言われ - BBCニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ある日、信楽焼の工房に社長が出社したらとんでもない状況に陥っているタヌキを発見し",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "車を運転していたら、後方に突如白バイが現れ、車を停められた→22キロの速度オーバ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -124,43 +161,7 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ちょっといい」めんつゆおすすめ5選！いつものそうめんがワンランク上の美味しさに",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "トルコ人のお笑い芸人がイスラム教をやめた理由『こんないい人たち(日本人)がイスラ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "駅で若い人がペットボトルに口をつけない飲み方をしていて「衛生的でいいな」と真似し",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "聖飢魔IIがファンクラブ向けの保養施設「それいけ！あく魔の森」を運営していると聞",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「自分より後にエレベーターに乗った人が、自分より先にお店に並び始めるのが気になる",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "男は「丁寧な暮らし」に興味がないだけで「機能的な暮らし」は興味津々",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "新作紹介で500冊以上売れる。モノを売るための文章術「セールスライティング」をご",
+      "title": "DAZN「ベースボールもだまされた」の声　月2300円と思ったら年2万7600円",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
