@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T02:20:00+09:00",
+  "generated_at": "2026-06-23T08:05:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,104 +16,104 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 11,
-    "passed_total": 112,
+    "neg_excluded": 8,
+    "dedup_excluded": 9,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
-      "x_realtime": 7,
+      "yahoo_realtime": 35,
+      "x_realtime": 9,
       "google_trends": 10,
-      "yahoo_news_ranking": 2,
-      "news_web": 17
+      "news_web": 14,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "personal_story": 3,
-    "opinion": 10,
-    "medical_science": 2,
-    "policy": 8,
-    "hard_fact": 18
+    "personal_story": 4,
+    "social_reaction": 25,
+    "opinion": 9,
+    "policy": 10,
+    "hard_fact": 18,
+    "medical_science": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
+    "personal_story": 4,
     "policy": 10,
-    "opinion": 10,
-    "hard_fact": 17,
-    "personal_story": 3,
-    "medical_science": 1
+    "social_reaction": 25,
+    "hard_fact": 19,
+    "opinion": 9,
+    "medical_science": 3
   },
   "b2b_top10": [
     {
-      "title": "「活動終了理由が未曾有すぎる」VTuberが自分のリスナーをストーカーかつ性的暴",
+      "title": "結婚後しばらくは幸せな日々を送っていたが、1年ほどして夫が「仕事が辛い」というの",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "トランポリンパークがGoogleマップに付いた低評価レビューに対して反応してバズ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "コンドルを導入してから鞄が劇的に軽くなった",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「バズると思って」段ボールかぶり通行人に胸触らせたか　男女3人書類送検（2026",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ジャングリアにも絡む「クールジャパン機構」廃止か　累積赤字383億円、巨額の税金",
+      "title": "リニア静岡工区、知事が7月にも着工容認へ　住民説明会終える - 日本経済新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "argentina",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "「顔が激変した。それが全てだと思った」裁判員が記者会見　内田梨瑚被告への印象語る",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
-      "title": "アルゼンチン 対 オーストリア",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "「活動終了理由が未曾有すぎる」VTuberが自分のリスナーをストーカーかつ性的暴",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "フランスでは高温で道路のアスファルトが溶けて大変なことになっているが日本ではアス",
+      "title": "KDDI、“物価高”に伴い手数料値上げ　店頭は3850円→4950円に　Webの",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "コンドルを導入してから鞄が劇的に軽くなった",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "コンラート・ライマー",
+      "title": "ツインズ 対 ドジャース",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ヤフーファイナンス",
+      "title": "フォーミュラ1",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
+    },
+    {
+      "title": "風、薫る",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「バズると思って」段ボールかぶり通行人に胸触らせたか　男女3人書類送検（2026",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
-      "title": "「活動終了理由が未曾有すぎる」VTuberが自分のリスナーをストーカーかつ性的暴",
+      "title": "結婚後しばらくは幸せな日々を送っていたが、1年ほどして夫が「仕事が辛い」というの",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "トランポリンパークがGoogleマップに付いた低評価レビューに対して反応してバズ",
+      "title": "「活動終了理由が未曾有すぎる」VTuberが自分のリスナーをストーカーかつ性的暴",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -131,37 +131,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "フランスでは高温で道路のアスファルトが溶けて大変なことになっているが日本ではアス",
+      "title": "「顔が激変した。それが全てだと思った」裁判員が記者会見　内田梨瑚被告への印象語る",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "総菜屋の店員「今○○が出来立てなのでお付けしてもいいですか？」客「え、でもお金払",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "量子力学を「虚数なし」で書き直すことに成功──実数で綴る量子の世界 - ナゾロジ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "1ルームのアパートで寝ていた夜、ふとかすかな音に目覚めるも偶にある幻聴かと思って",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
     },
     {
-      "title": "車を運転していたら、後方に突如白バイが現れ、車を停められた→22キロの速度オーバ",
+      "title": "880円のお子様ランチ、おもちゃも付いててこの価格…すごい→メニューが逆詐欺すぎ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "男は「丁寧な暮らし」に興味がないだけで「機能的な暮らし」は興味津々",
+      "title": "ツインズ 対 ドジャース",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "フォーミュラ1",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "風、薫る",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "『ネットの有名な誹謗中傷者の正体を暴くために誹謗中傷者を徹底的に煽って訴えられて",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
