@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T08:05:00+09:00",
+  "generated_at": "2026-06-23T14:51:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,46 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 9,
-    "passed_total": 115,
+    "neg_excluded": 6,
+    "dedup_excluded": 12,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
-      "x_realtime": 9,
+      "yahoo_realtime": 33,
       "google_trends": 10,
-      "news_web": 14,
-      "yahoo_news_ranking": 2
+      "news_web": 18,
+      "x_realtime": 8,
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "personal_story": 4,
-    "social_reaction": 25,
+    "social_reaction": 29,
+    "personal_story": 3,
     "opinion": 9,
-    "policy": 10,
-    "hard_fact": 18,
-    "medical_science": 4
+    "hard_fact": 21,
+    "medical_science": 3,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "personal_story": 4,
-    "policy": 10,
-    "social_reaction": 25,
-    "hard_fact": 19,
+    "social_reaction": 28,
+    "personal_story": 3,
+    "hard_fact": 24,
     "opinion": 9,
-    "medical_science": 3
+    "policy": 5,
+    "medical_science": 1
   },
   "b2b_top10": [
+    {
+      "title": "都内某所の交差点で遭遇した「児童の飛び出し」のドラレコ映像が、どれだけドライバー",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『ギャバン インフィニティ』異例の短期終了へ　半年サイクルがもたらすメリットと課",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "結婚後しばらくは幸せな日々を送っていたが、1年ほどして夫が「仕事が辛い」というの",
       "source_category": "yahoo_realtime",
@@ -51,21 +63,9 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "リニア静岡工区、知事が7月にも着工容認へ　住民説明会終える - 日本経済新聞",
+      "title": "リチウムイオン電池総合対策ポータル本部 | 総務省消防庁",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "「顔が激変した。それが全てだと思った」裁判員が記者会見　内田梨瑚被告への印象語る",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「活動終了理由が未曾有すぎる」VTuberが自分のリスナーをストーカーかつ性的暴",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -75,37 +75,61 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "コンドルを導入してから鞄が劇的に軽くなった",
+      "title": "投資",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "特撮「ギャバン」短期終了へ 課題",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_entertainment",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "【緊急】マツダ鉄心氏が“ククリーナの母親”と接触した事が話題に！｜金土里美",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ツインズ 対 ドジャース",
+      "title": "ジュリアス ランドル",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "フォーミュラ1",
+      "title": "トキエア",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
-    },
-    {
-      "title": "風、薫る",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「バズると思って」段ボールかぶり通行人に胸触らせたか　男女3人書類送検（2026",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
+    {
+      "title": "都内某所の交差点で遭遇した「児童の飛び出し」のドラレコ映像が、どれだけドライバー",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『ギャバン インフィニティ』異例の短期終了へ　半年サイクルがもたらすメリットと課",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "リチウムイオン電池総合対策ポータル本部 | 総務省消防庁",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【緊急】マツダ鉄心氏が“ククリーナの母親”と接触した事が話題に！｜金土里美",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "結婚後しばらくは幸せな日々を送っていたが、1年ほどして夫が「仕事が辛い」というの",
       "source_category": "yahoo_realtime",
@@ -113,57 +137,33 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "「活動終了理由が未曾有すぎる」VTuberが自分のリスナーをストーカーかつ性的暴",
+      "title": "「朝方にアイスコーヒー約30リットルを…」国の研究機関による健康被害の症例報告を",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "アパレルブランド”SauRas Being”が「サカナクションに自社ロゴをパクら",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ジムの水素水サーバーについて「体になんかいいことあるんすか？」と聞いた俺に「あー",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "コンドルを導入してから鞄が劇的に軽くなった",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「バズると思って」段ボールかぶり通行人に胸触らせたか　男女3人書類送検（2026",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「顔が激変した。それが全てだと思った」裁判員が記者会見　内田梨瑚被告への印象語る",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "880円のお子様ランチ、おもちゃも付いててこの価格…すごい→メニューが逆詐欺すぎ",
+      "title": "東京都現代美術館のエリック・カール展に酒を飲むあおむし君がいてよかった「まさかの",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ツインズ 対 ドジャース",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "フォーミュラ1",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "風、薫る",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "『ネットの有名な誹謗中傷者の正体を暴くために誹謗中傷者を徹底的に煽って訴えられて",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "コーヒー飲む人のイメージと「コーヒ好きな人の実態」思ってたよりも限界オタクな仕草",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
