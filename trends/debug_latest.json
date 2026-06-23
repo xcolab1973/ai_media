@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T00:41:00+09:00",
+  "generated_at": "2026-06-24T07:50:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 9,
-    "passed_total": 114,
+    "neg_excluded": 7,
+    "dedup_excluded": 10,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
+      "yahoo_realtime": 36,
       "google_trends": 10,
-      "x_realtime": 8,
-      "news_web": 12,
-      "yahoo_news_ranking": 6
+      "x_realtime": 7,
+      "news_web": 14,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
     "personal_story": 3,
-    "opinion": 9,
+    "social_reaction": 29,
+    "opinion": 10,
     "medical_science": 4,
-    "policy": 4,
-    "hard_fact": 20
+    "policy": 7,
+    "hard_fact": 17
   },
   "b2b_topic_category_counts": {
-    "policy": 5,
-    "social_reaction": 30,
-    "opinion": 9,
     "personal_story": 3,
-    "hard_fact": 20,
+    "policy": 8,
+    "opinion": 10,
+    "social_reaction": 29,
+    "hard_fact": 17,
     "medical_science": 3
   },
   "b2b_top10": [
+    {
+      "title": "ハムバッカーをP-90化したい！無加工で交換できるハムサイズP90を試してみた【",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
     {
       "title": "高市首相の「反社会性パーソナリティー」を精神科医が懸念…海外メディアもG7での“",
       "source_category": "yahoo_realtime",
@@ -51,55 +57,49 @@
       "topic_category": "policy"
     },
     {
-      "title": "都内某所の交差点で遭遇した「児童の飛び出し」のドラレコ映像が、どれだけドライバー",
+      "title": "パイレーツ 対 マリナーズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "パナマ 対 クロアチア",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "カイジ 人生 逆転 ゲーム",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "レイズ 対 ロイヤルズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "溜まった小銭をセルフレジに突っ込んでまとまった小銭に変換する「マネーロンダリング",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『ギャバン インフィニティ』異例の短期終了へ　半年サイクルがもたらすメリットと課",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "ランチでカレーを注文したら、大将が「兄ちゃん、少しだけだけど、ハヤシライスも食べ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "菅田将暉",
+      "title": "steam",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "高校時代にアメリカ人英語教師がいてみんな「Hi！ブライアン」と呼び続けていたがそ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「SK-IIって滋賀に工場あるんだ」とマップを調べたら、トラック運転手たちの悲痛",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "enc valorant",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "フリアン・アルバレス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "missa",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "党首討論",
+      "title": "ベッカム",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,22 +107,22 @@
   ],
   "note_top10": [
     {
-      "title": "都内某所の交差点で遭遇した「児童の飛び出し」のドラレコ映像が、どれだけドライバー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『ギャバン インフィニティ』異例の短期終了へ　半年サイクルがもたらすメリットと課",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "高校時代にアメリカ人英語教師がいてみんな「Hi！ブライアン」と呼び続けていたがそ",
+      "title": "ハムバッカーをP-90化したい！無加工で交換できるハムサイズP90を試してみた【",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
+    },
+    {
+      "title": "溜まった小銭をセルフレジに突っ込んでまとまった小銭に変換する「マネーロンダリング",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ランチでカレーを注文したら、大将が「兄ちゃん、少しだけだけど、ハヤシライスも食べ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
       "title": "「SK-IIって滋賀に工場あるんだ」とマップを調べたら、トラック運転手たちの悲痛",
@@ -131,40 +131,40 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ていねいな暮らしという規範に従う以外に道はない - シロクマの屑籠",
+      "title": "「ていねいな暮らしという規範」に従う以外に道はない - シロクマの屑籠",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『めっちゃカメレオン』はなぜ成功したのか？｜Jini | ゲームゼミ",
+      "title": "高出生率の秘密がここに!?　驚きの「フランス出産体験記」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "病院に行け",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "初代ウォークマンの内部が「どうやって量産化したか謎なくらいに複雑で意味不明」→配",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "パイレーツ 対 マリナーズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "「意外と安定する0.5センチくらいのフチ」満員電車で吊り革を掴めなかったときに始",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "パナマ 対 クロアチア",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "銀行から電話があって、「同じ住所に同じ生年月日の方がおられますが……何かの間違い",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「川を濡れずに渡る方法を見つけた」という地雷系女子の動画がいろいろ力技すぎる「天",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "カイジ 人生 逆転 ゲーム",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
