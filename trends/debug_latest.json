@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T14:51:00+09:00",
+  "generated_at": "2026-06-23T19:50:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,33 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 12,
-    "passed_total": 114,
+    "neg_excluded": 2,
+    "dedup_excluded": 10,
+    "passed_total": 120,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
+      "yahoo_realtime": 27,
+      "news_web": 16,
       "google_trends": 10,
-      "news_web": 18,
-      "x_realtime": 8,
-      "yahoo_news_ranking": 1
+      "yahoo_news_ranking": 7,
+      "x_realtime": 10
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
+    "social_reaction": 37,
     "personal_story": 3,
+    "analysis": 1,
     "opinion": 9,
-    "hard_fact": 21,
-    "medical_science": 3,
-    "policy": 5
-  },
-  "b2b_topic_category_counts": {
-    "social_reaction": 28,
-    "personal_story": 3,
-    "hard_fact": 24,
-    "opinion": 9,
+    "hard_fact": 14,
     "policy": 5,
     "medical_science": 1
+  },
+  "b2b_topic_category_counts": {
+    "social_reaction": 30,
+    "hard_fact": 22,
+    "policy": 5,
+    "personal_story": 3,
+    "opinion": 9,
+    "analysis": 1
   },
   "b2b_top10": [
     {
@@ -57,10 +58,16 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "結婚後しばらくは幸せな日々を送っていたが、1年ほどして夫が「仕事が辛い」というの",
+      "title": "通学路に危険空き家 行政は動けず",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_local",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "高市首相の「反社会性パーソナリティー」を精神科医が懸念…海外メディアもG7での“",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "policy"
     },
     {
       "title": "リチウムイオン電池総合対策ポータル本部 | 総務省消防庁",
@@ -69,43 +76,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "KDDI、“物価高”に伴い手数料値上げ　店頭は3850円→4950円に　Webの",
+      "title": "結婚後しばらくは幸せな日々を送っていたが、1年ほどして夫が「仕事が辛い」というの",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "personal_story"
     },
     {
-      "title": "投資",
+      "title": "小泉孝太郎",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "特撮「ギャバン」短期終了へ 課題",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_entertainment",
+      "title": "亀田製菓 柿の種など10月値上げ",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
       "topic_category": "hard_fact"
     },
     {
-      "title": "【緊急】マツダ鉄心氏が“ククリーナの母親”と接触した事が話題に！｜金土里美",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "AI時代の「自動応募犯罪」対策は",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_it",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "ジュリアス ランドル",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "トキエア",
+      "title": "菅原 英介",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     }
   ],
   "note_top10": [
+    {
+      "title": "リチウムイオン電池総合対策ポータル本部 | 総務省消防庁",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "都内某所の交差点で遭遇した「児童の飛び出し」のドラレコ映像が、どれだけドライバー",
       "source_category": "yahoo_realtime",
@@ -119,52 +126,46 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "リチウムイオン電池総合対策ポータル本部 | 総務省消防庁",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【緊急】マツダ鉄心氏が“ククリーナの母親”と接触した事が話題に！｜金土里美",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "結婚後しばらくは幸せな日々を送っていたが、1年ほどして夫が「仕事が辛い」というの",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "「朝方にアイスコーヒー約30リットルを…」国の研究機関による健康被害の症例報告を",
+      "title": "【詳しく】市長の“肝いり”給食で緑茶が大量飲み残し　「お茶になじみがないことに驚",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "アパレルブランド”SauRas Being”が「サカナクションに自社ロゴをパクら",
+      "title": "川に取り囲まれた”埼玉の島”へ行き、埼玉ローカルフードを食べる - 今夜はいやほ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ジムの水素水サーバーについて「体になんかいいことあるんすか？」と聞いた俺に「あー",
+      "title": "高校時代にアメリカ人英語教師がいてみんな「Hi！ブライアン」と呼び続けていたがそ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "東京都現代美術館のエリック・カール展に酒を飲むあおむし君がいてよかった「まさかの",
+      "title": "大阪が犯罪率高いのを見ると他の都道府県の警察がサボってるだけだと思う、関東の体感",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "コーヒー飲む人のイメージと「コーヒ好きな人の実態」思ってたよりも限界オタクな仕草",
+      "title": "気まぐれで人生初のペペロンチーノ作ったら、ニンニクは消し炭になるし茹で汁は腐れ湖",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "ゼロから作るな。パクれ。｜すてぃお",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     }
   ]
 }
