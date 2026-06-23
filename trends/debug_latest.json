@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T19:50:00+09:00",
+  "generated_at": "2026-06-24T00:41:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,53 +16,34 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 2,
-    "dedup_excluded": 10,
-    "passed_total": 120,
+    "neg_excluded": 9,
+    "dedup_excluded": 9,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 27,
-      "news_web": 16,
+      "yahoo_realtime": 34,
       "google_trends": 10,
-      "yahoo_news_ranking": 7,
-      "x_realtime": 10
+      "x_realtime": 8,
+      "news_web": 12,
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 37,
+    "social_reaction": 30,
     "personal_story": 3,
-    "analysis": 1,
     "opinion": 9,
-    "hard_fact": 14,
-    "policy": 5,
-    "medical_science": 1
+    "medical_science": 4,
+    "policy": 4,
+    "hard_fact": 20
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
-    "hard_fact": 22,
     "policy": 5,
-    "personal_story": 3,
+    "social_reaction": 30,
     "opinion": 9,
-    "analysis": 1
+    "personal_story": 3,
+    "hard_fact": 20,
+    "medical_science": 3
   },
   "b2b_top10": [
-    {
-      "title": "都内某所の交差点で遭遇した「児童の飛び出し」のドラレコ映像が、どれだけドライバー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『ギャバン インフィニティ』異例の短期終了へ　半年サイクルがもたらすメリットと課",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "通学路に危険空き家 行政は動けず",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_local",
-      "topic_category": "hard_fact"
-    },
     {
       "title": "高市首相の「反社会性パーソナリティー」を精神科医が懸念…海外メディアもG7での“",
       "source_category": "yahoo_realtime",
@@ -70,49 +51,61 @@
       "topic_category": "policy"
     },
     {
-      "title": "リチウムイオン電池総合対策ポータル本部 | 総務省消防庁",
+      "title": "都内某所の交差点で遭遇した「児童の飛び出し」のドラレコ映像が、どれだけドライバー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "結婚後しばらくは幸せな日々を送っていたが、1年ほどして夫が「仕事が辛い」というの",
+      "title": "『ギャバン インフィニティ』異例の短期終了へ　半年サイクルがもたらすメリットと課",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "小泉孝太郎",
+      "title": "菅田将暉",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "亀田製菓 柿の種など10月値上げ",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
+      "title": "高校時代にアメリカ人英語教師がいてみんな「Hi！ブライアン」と呼び続けていたがそ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
-      "title": "AI時代の「自動応募犯罪」対策は",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_it",
-      "topic_category": "hard_fact"
+      "title": "「SK-IIって滋賀に工場あるんだ」とマップを調べたら、トラック運転手たちの悲痛",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "菅原 英介",
+      "title": "enc valorant",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "フリアン・アルバレス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "missa",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "党首討論",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     }
   ],
   "note_top10": [
-    {
-      "title": "リチウムイオン電池総合対策ポータル本部 | 総務省消防庁",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
     {
       "title": "都内某所の交差点で遭遇した「児童の飛び出し」のドラレコ映像が、どれだけドライバー",
       "source_category": "yahoo_realtime",
@@ -126,46 +119,52 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "結婚後しばらくは幸せな日々を送っていたが、1年ほどして夫が「仕事が辛い」というの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "【詳しく】市長の“肝いり”給食で緑茶が大量飲み残し　「お茶になじみがないことに驚",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "川に取り囲まれた”埼玉の島”へ行き、埼玉ローカルフードを食べる - 今夜はいやほ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "高校時代にアメリカ人英語教師がいてみんな「Hi！ブライアン」と呼び続けていたがそ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "大阪が犯罪率高いのを見ると他の都道府県の警察がサボってるだけだと思う、関東の体感",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "気まぐれで人生初のペペロンチーノ作ったら、ニンニクは消し炭になるし茹で汁は腐れ湖",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ゼロから作るな。パクれ。｜すてぃお",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
+    },
+    {
+      "title": "「SK-IIって滋賀に工場あるんだ」とマップを調べたら、トラック運転手たちの悲痛",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ていねいな暮らしという規範に従う以外に道はない - シロクマの屑籠",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『めっちゃカメレオン』はなぜ成功したのか？｜Jini | ゲームゼミ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "初代ウォークマンの内部が「どうやって量産化したか謎なくらいに複雑で意味不明」→配",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「意外と安定する0.5センチくらいのフチ」満員電車で吊り革を掴めなかったときに始",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "銀行から電話があって、「同じ住所に同じ生年月日の方がおられますが……何かの間違い",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「川を濡れずに渡る方法を見つけた」という地雷系女子の動画がいろいろ力技すぎる「天",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ]
 }
