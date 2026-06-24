@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T07:50:00+09:00",
+  "generated_at": "2026-06-24T14:49:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,155 +16,154 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 10,
+    "neg_excluded": 5,
+    "dedup_excluded": 12,
     "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
+      "yahoo_realtime": 37,
       "google_trends": 10,
-      "x_realtime": 7,
       "news_web": 14,
+      "x_realtime": 6,
       "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
+    "social_reaction": 35,
     "personal_story": 3,
-    "social_reaction": 29,
     "opinion": 10,
-    "medical_science": 4,
-    "policy": 7,
-    "hard_fact": 17
+    "policy": 3,
+    "hard_fact": 18,
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "personal_story": 3,
-    "policy": 8,
+    "social_reaction": 35,
     "opinion": 10,
-    "social_reaction": 29,
-    "hard_fact": 17,
-    "medical_science": 3
+    "hard_fact": 20,
+    "personal_story": 3,
+    "policy": 2
   },
   "b2b_top10": [
     {
-      "title": "ハムバッカーをP-90化したい！無加工で交換できるハムサイズP90を試してみた【",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "高市首相の「反社会性パーソナリティー」を精神科医が懸念…海外メディアもG7での“",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "パイレーツ 対 マリナーズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "パナマ 対 クロアチア",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "カイジ 人生 逆転 ゲーム",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "レイズ 対 ロイヤルズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "溜まった小銭をセルフレジに突っ込んでまとまった小銭に変換する「マネーロンダリング",
+      "title": "著名人の例に学ぶ生前対策｜独身・子なし夫婦で「相続人がいない場合」財産は国へ⁉",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ランチでカレーを注文したら、大将が「兄ちゃん、少しだけだけど、ハヤシライスも食べ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "韓国人「ドイツでキムチを漬けようとしたら白菜の品種が違ってうまく漬けられない」日",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "steam",
+      "title": "現金",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ベッカム",
+      "title": "吉村紗也香",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
+    },
+    {
+      "title": "大橋秀行",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "nvidia",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "仏で44.3℃ 熱中症などで40人死亡",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "ドイツには肉まんの皮だけみたいな食べ物があり、日本からの留学生がそれにひき肉を詰",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ワンピースカードの店舗大会で優勝したが、勝手に優勝を辞退したことにされた話… 窓",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「小学生の頃、とあるスナイパーに狙われていた時の話」それを解決してくれたH氏くん",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
-      "title": "ハムバッカーをP-90化したい！無加工で交換できるハムサイズP90を試してみた【",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "溜まった小銭をセルフレジに突っ込んでまとまった小銭に変換する「マネーロンダリング",
+      "title": "著名人の例に学ぶ生前対策｜独身・子なし夫婦で「相続人がいない場合」財産は国へ⁉",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ランチでカレーを注文したら、大将が「兄ちゃん、少しだけだけど、ハヤシライスも食べ",
+      "title": "韓国人「ドイツでキムチを漬けようとしたら白菜の品種が違ってうまく漬けられない」日",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ドイツには肉まんの皮だけみたいな食べ物があり、日本からの留学生がそれにひき肉を詰",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ワンピースカードの店舗大会で優勝したが、勝手に優勝を辞退したことにされた話… 窓",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「小学生の頃、とあるスナイパーに狙われていた時の話」それを解決してくれたH氏くん",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "会社の帰国子女、指示が気に食わないとき「日本語は罵倒表現が少ない！」って英語で何",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「SK-IIって滋賀に工場あるんだ」とマップを調べたら、トラック運転手たちの悲痛",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ていねいな暮らしという規範」に従う以外に道はない - シロクマの屑籠",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "高出生率の秘密がここに!?　驚きの「フランス出産体験記」",
+      "title": "「電話鳴り止まない」AI予約サービス「オートリザーブ」に飲食店困惑　“勝手に”公",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "病院に行け",
+      "title": "自転車追い抜き「新ルール」が交通違反引き起こす？　7割超が黄色線はみ出し　白いセ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "パイレーツ 対 マリナーズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "ホスト4人でアメリカ旅行に行った人、「君たちの職業では純粋な旅行として認められな",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "パナマ 対 クロアチア",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "カイジ 人生 逆転 ゲーム",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "姉がガムランにはまりすぎている話　まったりした音楽と、知らない単語を話すようにな",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ]
 }
