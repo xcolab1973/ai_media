@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T00:27:00+09:00",
+  "generated_at": "2026-06-25T07:50:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,153 +16,154 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 13,
-    "passed_total": 110,
+    "neg_excluded": 7,
+    "dedup_excluded": 12,
+    "passed_total": 113,
     "b2b_category_counts": {
       "google_trends": 10,
-      "yahoo_realtime": 32,
-      "x_realtime": 5,
-      "news_web": 18,
-      "yahoo_news_ranking": 5
+      "x_realtime": 6,
+      "news_web": 17,
+      "yahoo_realtime": 34,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
-    "opinion": 10,
+    "social_reaction": 31,
+    "opinion": 9,
     "personal_story": 2,
     "hard_fact": 23,
-    "medical_science": 1,
-    "policy": 2
+    "medical_science": 2,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "opinion": 10,
-    "social_reaction": 32,
     "hard_fact": 24,
-    "personal_story": 2,
-    "policy": 2
+    "social_reaction": 31,
+    "opinion": 9,
+    "medical_science": 1,
+    "policy": 3,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "fifaワールドカップ 2026 順位表",
+      "title": "最大震度6強の地震",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "topic_category": "hard_fact"
     },
     {
-      "title": "ゲームの海外向け翻訳をやった人なら分かると思うけど、日本語の圧縮効率は半端じゃな",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "息子が車に轢かれ鎖骨骨折･打撲の大怪我をしたが相手から「免許証に傷をつけたくない",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「大会名が簡単に使われてしまった」ある企業がタミヤと共同で『製造業対抗ミニ四駆大",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "植松聖",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "トラウデン直美",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "宇佐美 貴史",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "のん",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ポケポケ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "“タイミー”に店長が自分の名前で応募 自身の給料とは別にバイト代約30万円を騙し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    }
-  ],
-  "note_top10": [
-    {
-      "title": "ゲームの海外向け翻訳をやった人なら分かると思うけど、日本語の圧縮効率は半端じゃな",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "息子が車に轢かれ鎖骨骨折･打撲の大怪我をしたが相手から「免許証に傷をつけたくない",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「大会名が簡単に使われてしまった」ある企業がタミヤと共同で『製造業対抗ミニ四駆大",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中国で拘束の２邦人、富士電機などの関係者…レアアース加工製品を国外に持ち出そうと",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "“タイミー”に店長が自分の名前で応募 自身の給料とは別にバイト代約30万円を騙し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「黒のパンティはきなさい！」偶然、教え子のミニスカートの中を見てしまった画家・長",
+      "title": "親にバレないように中古の3DSを買ったが、没収対策として友達から同色の壊れた別の",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "岡崎体育 オフィシャルウェブサイト",
+      "title": "安全確保を 地震発生時のNG行動",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "遠足で熱中症になった娘　「お茶買って」認めなかった学校の責任は：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "相次ぐ｢全知全能｣の取締役　総会招集通知のスキル開示、透明性に課題 - 日本経済",
+      "title": "東日本大震災",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ブラジル",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "福岡市長",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "親父がジャンボタニシにはナマズが効果あると言い出し、ナマズ5～6匹程捕獲して田ん",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "グループc",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "喜多ゆかり",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    }
+  ],
+  "note_top10": [
+    {
+      "title": "親にバレないように中古の3DSを買ったが、没収対策として友達から同色の壊れた別の",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "遠足で熱中症になった娘　「お茶買って」認めなかった学校の責任は：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "未着工のまま94億円支出、名古屋城天守木造復元　事業の見通し立たず、資材費や人件",
+      "title": "料理下手に対して弱火強火の例えで「おばあちゃんの肩を優しくとんとん50回するのを",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "親父がジャンボタニシにはナマズが効果あると言い出し、ナマズ5～6匹程捕獲して田ん",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "息子が車に轢かれ鎖骨骨折･打撲の大怪我をしたが相手から「免許証に傷をつけたくない",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "20歳の本当にお金がなかった学生時代に、地元の同級生の結婚式に「ご祝儀5000円",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "「華々しい経歴で入社したAさん」に好かれすぎた先輩が振り返るエッセイ、よくあるネ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "行政書士試験の勉強あるある「土地の時効取得がわりとヤバくて二度見する」…わりと適",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中学生の時は生徒会長をして冬のひざ掛け禁止というブラック校則を改正したが同窓会系",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中国で拘束の２邦人、富士電機などの関係者…レアアース加工製品を国外に持ち出そうと",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
