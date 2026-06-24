@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T14:49:00+09:00",
+  "generated_at": "2026-06-24T19:35:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,153 +16,153 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 12,
-    "passed_total": 115,
+    "neg_excluded": 9,
+    "dedup_excluded": 10,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
+      "yahoo_realtime": 34,
       "google_trends": 10,
-      "news_web": 14,
-      "x_realtime": 6,
-      "yahoo_news_ranking": 3
+      "news_web": 15,
+      "x_realtime": 7,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
-    "personal_story": 3,
+    "social_reaction": 33,
     "opinion": 10,
-    "policy": 3,
-    "hard_fact": 18,
+    "personal_story": 2,
+    "hard_fact": 22,
+    "policy": 2,
     "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 35,
+    "social_reaction": 33,
     "opinion": 10,
-    "hard_fact": 20,
-    "personal_story": 3,
-    "policy": 2
+    "hard_fact": 22,
+    "personal_story": 2,
+    "policy": 3
   },
   "b2b_top10": [
     {
-      "title": "著名人の例に学ぶ生前対策｜独身・子なし夫婦で「相続人がいない場合」財産は国へ⁉",
+      "title": "「日本人は食への執念がすさまじく、執拗に工夫しながら食べてきた」と言われるが、世",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "韓国人「ドイツでキムチを漬けようとしたら白菜の品種が違ってうまく漬けられない」日",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "現金",
+      "title": "よみうりランド",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "吉村紗也香",
+      "title": "有吉の壁",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "大橋秀行",
+      "title": "中国 レアアース",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "nvidia",
+      "title": "岡田 克也",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "仏で44.3℃ 熱中症などで40人死亡",
+      "title": "サル山",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "巨人 浦田",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ホンダ フィット",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "相葉 雅紀",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "岡崎体育 心身の不調で活動休止",
       "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
+      "raw_source_key": "yahoo_news_entertainment",
       "topic_category": "hard_fact"
-    },
-    {
-      "title": "ドイツには肉まんの皮だけみたいな食べ物があり、日本からの留学生がそれにひき肉を詰",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ワンピースカードの店舗大会で優勝したが、勝手に優勝を辞退したことにされた話… 窓",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「小学生の頃、とあるスナイパーに狙われていた時の話」それを解決してくれたH氏くん",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
-      "title": "著名人の例に学ぶ生前対策｜独身・子なし夫婦で「相続人がいない場合」財産は国へ⁉",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "韓国人「ドイツでキムチを漬けようとしたら白菜の品種が違ってうまく漬けられない」日",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ドイツには肉まんの皮だけみたいな食べ物があり、日本からの留学生がそれにひき肉を詰",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ワンピースカードの店舗大会で優勝したが、勝手に優勝を辞退したことにされた話… 窓",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「小学生の頃、とあるスナイパーに狙われていた時の話」それを解決してくれたH氏くん",
+      "title": "「日本人は食への執念がすさまじく、執拗に工夫しながら食べてきた」と言われるが、世",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "会社の帰国子女、指示が気に食わないとき「日本語は罵倒表現が少ない！」って英語で何",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "人生で辞めて一番良かったのはこのアプリゲームで、かなり苦労したけど、色のついた水",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「電話鳴り止まない」AI予約サービス「オートリザーブ」に飲食店困惑　“勝手に”公",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "自転車追い抜き「新ルール」が交通違反引き起こす？　7割超が黄色線はみ出し　白いセ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ホスト4人でアメリカ旅行に行った人、「君たちの職業では純粋な旅行として認められな",
+      "title": "『ご入居者様各位、受付期限までにご希望の日時の回答をお願いします』とあたかも管理",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "姉がガムランにはまりすぎている話　まったりした音楽と、知らない単語を話すようにな",
+      "title": "「大会名が簡単に使われてしまった」ある企業がタミヤと共同で『製造業対抗ミニ四駆大",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ゲーム持ってないことで仲間外れにするような子とは付き合わなくていいは正論だけれど",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "自転車旅行がキツくなってきてしまった",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "夕飯を作る時間がない時は子供に1000円を渡すが、緑のたぬきとギルティ炭酸NOP",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "日本って韓国人の言う白玉の「玉」を丸いものだと思ってる？→韓国コスメでもよく見る",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "部屋に迷い込んだコガネムシを猫さんに見せてあげようとした結果、宗教画みたいになっ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
