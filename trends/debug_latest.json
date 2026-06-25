@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T19:30:00+09:00",
+  "generated_at": "2026-06-26T00:34:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -20,51 +20,39 @@
     "dedup_excluded": 8,
     "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 31,
+      "yahoo_realtime": 35,
+      "news_web": 13,
       "google_trends": 10,
-      "news_web": 18,
-      "yahoo_news_ranking": 3,
-      "x_realtime": 8
+      "x_realtime": 9,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "personal_story": 5,
     "social_reaction": 29,
+    "personal_story": 3,
     "opinion": 10,
-    "hard_fact": 23,
-    "policy": 3
+    "policy": 6,
+    "hard_fact": 22
   },
   "b2b_topic_category_counts": {
-    "personal_story": 5,
-    "social_reaction": 27,
-    "hard_fact": 26,
+    "policy": 6,
+    "hard_fact": 22,
+    "social_reaction": 29,
     "opinion": 10,
-    "policy": 2
+    "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "小学生の頃、「平和のためにできること」みたいな作文が出された際、あるゲームをプレ",
+      "title": "自民党の税制調査会幹部・小渕優子氏が辞意　消費税減税に反対 - 日本経済新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "policy"
     },
     {
-      "title": "散々注意していたのに…するなと何度も言っていたのに…教育実習生が記念撮影した写真",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ドミノ・ピザ、宅配値下げ　「お持ち帰り半額」終了",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "作業員のダンス動画炎上 会社謝罪",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
-    },
-    {
-      "title": "辻仁成さん『フランスは44度…でもフランスにはほぼクーラーがないんですよ。マジで",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
     },
     {
       "title": "高市「高圧経済」はインフレ昂進の逆効果、実質賃金が伸びない「潜在成長率低下」を食",
@@ -73,96 +61,108 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "mリーグ ドラフト",
+      "title": "「カンピロは甘く考えてると痛い目に遭う」客の目の前で丸鶏をさばくという焼鳥店に本",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ラメロボールトレード",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "楽天 対 西武",
+      "title": "内田篤人",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "土屋アンナ",
+      "title": "ipad",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "フジクラ株",
+      "title": "ドクターストーン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "内田梨瑚 被害者",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "「ていねいな暮らしという規範」と、階級・階層の問題 - シロクマの屑籠",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「福岡県」を「福岡府」に変更？　副首都構想めぐり県議会が国に要望：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
-      "title": "小学生の頃、「平和のためにできること」みたいな作文が出された際、あるゲームをプレ",
+      "title": "「ていねいな暮らしという規範」と、階級・階層の問題 - シロクマの屑籠",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "散々注意していたのに…するなと何度も言っていたのに…教育実習生が記念撮影した写真",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "辻仁成さん『フランスは44度…でもフランスにはほぼクーラーがないんですよ。マジで",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "知人の店にお酒を飲みに行ったら知らないおっさんに「あんた苦労したことないだろ」と",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ひなこのーとで有名な三月先生に7700円を払ってみた｜とっきー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「少しずつ綺麗になっていくタイルの謎」連日店の前の床に少しずつ白い部分が増えてい",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中学校勤務での修学旅行引率の際、お弁当に緑茶が付いていたのだが、飲まずに残す生徒",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「光年」の意味を勘違いしている歌詞ってこんなにあるのか→もちろん時間の単位じゃな",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "「カンピロは甘く考えてると痛い目に遭う」客の目の前で丸鶏をさばくという焼鳥店に本",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「福岡県」を「福岡府」に変更？　副首都構想めぐり県議会が国に要望：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「強く生きて欲しい」東京・北区の小学校で起きた火災、原因が当初ストーブの点検と言",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ワイが若い頃は職場でなんで30のおっさんがこっち(18~20歳)の話してるグルー",
+      "title": "「オーバーキルやめて」既婚者がよく愚痴を言っているので独身の方が幸福だと思ってい",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ネコニスズ舘野のサブカルと青春 - お笑いナタリー",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【検証】文字通り『三日三晩』悩んでみたら答えは出るのか！？【後輩を救え！】",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "都知事選ポスター枠を貸した弁護士の責任、高裁が認定　大津綾香さんが即日提訴 - ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
+    },
+    {
+      "title": "広告がなければサイトを運営できないのは理解できるが、全画面を覆うような広告を出さ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "小児科に連れて来られた幼児さん、診察室のドアが開いて名前を呼ばれたとたん全力で拒",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ]
 }
