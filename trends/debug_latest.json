@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T14:50:00+09:00",
+  "generated_at": "2026-06-25T19:30:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,31 +16,30 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 12,
-    "passed_total": 113,
+    "neg_excluded": 10,
+    "dedup_excluded": 8,
+    "passed_total": 114,
     "b2b_category_counts": {
       "yahoo_realtime": 31,
-      "news_web": 19,
       "google_trends": 10,
-      "x_realtime": 7,
-      "yahoo_news_ranking": 3
+      "news_web": 18,
+      "yahoo_news_ranking": 3,
+      "x_realtime": 8
     }
   },
   "note_category_counts": {
-    "personal_story": 6,
-    "social_reaction": 27,
+    "personal_story": 5,
+    "social_reaction": 29,
     "opinion": 10,
-    "hard_fact": 24,
-    "medical_science": 1,
-    "policy": 2
+    "hard_fact": 23,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "personal_story": 6,
-    "social_reaction": 26,
-    "hard_fact": 27,
+    "personal_story": 5,
+    "social_reaction": 27,
+    "hard_fact": 26,
     "opinion": 10,
-    "policy": 1
+    "policy": 2
   },
   "b2b_top10": [
     {
@@ -56,49 +55,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "そこそこ優秀だった上司が異動先で冷遇されてる⇒人事評価なんて時と場所で変わるし、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "犬型ロボ「aibo」国内販売を終了",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "行政書士試験の勉強あるある「土地の時効取得がわりとヤバくて二度見する」…わりと適",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "オランダ チュニジア 中止",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "危険運転に数値基準 改正法成立",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
       "title": "ドミノ・ピザ、宅配値下げ　「お持ち帰り半額」終了",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
     },
     {
-      "title": "ようやく長男の志望校が決まり、塾にも夏期講習にも大金を払ったのに、高校説明会に現",
+      "title": "辻仁成さん『フランスは44度…でもフランスにはほぼクーラーがないんですよ。マジで",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "バトオペ",
+      "title": "高市「高圧経済」はインフレ昂進の逆効果、実質賃金が伸びない「潜在成長率低下」を食",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "mリーグ ドラフト",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "楽天 対 西武",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "土屋アンナ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "フジクラ株",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "内田梨瑚 被害者",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -118,21 +117,45 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "行政書士試験の勉強あるある「土地の時効取得がわりとヤバくて二度見する」…わりと適",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "そこそこ優秀だった上司が異動先で冷遇されてる⇒人事評価なんて時と場所で変わるし、",
+      "title": "辻仁成さん『フランスは44度…でもフランスにはほぼクーラーがないんですよ。マジで",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ようやく長男の志望校が決まり、塾にも夏期講習にも大金を払ったのに、高校説明会に現",
+      "title": "知人の店にお酒を飲みに行ったら知らないおっさんに「あんた苦労したことないだろ」と",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ひなこのーとで有名な三月先生に7700円を払ってみた｜とっきー",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「少しずつ綺麗になっていくタイルの謎」連日店の前の床に少しずつ白い部分が増えてい",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中学校勤務での修学旅行引率の際、お弁当に緑茶が付いていたのだが、飲まずに残す生徒",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「光年」の意味を勘違いしている歌詞ってこんなにあるのか→もちろん時間の単位じゃな",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「カンピロは甘く考えてると痛い目に遭う」客の目の前で丸鶏をさばくという焼鳥店に本",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -140,30 +163,6 @@
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
-    },
-    {
-      "title": "フタを凍らせる弁当箱「GEL-COOL square」で真夏も保冷剤いらず！ 使",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「女性蔑視」中国人男主体の昏睡レイプネットワーク、ドイツで同胞女性らを食い物に",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "さくらんぼを乗せるとかわいい　プリンアラモードやクリームソーダのように、豆腐も電",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "国立映画アーカイブ、活動存続へクラウドファンディング　運営費交付金の削減受け -",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
     }
   ]
 }
