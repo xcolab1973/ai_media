@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T07:50:00+09:00",
+  "generated_at": "2026-06-25T14:50:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -20,86 +20,85 @@
     "dedup_excluded": 12,
     "passed_total": 113,
     "b2b_category_counts": {
+      "yahoo_realtime": 31,
+      "news_web": 19,
       "google_trends": 10,
-      "x_realtime": 6,
-      "news_web": 17,
-      "yahoo_realtime": 34,
+      "x_realtime": 7,
       "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 31,
-    "opinion": 9,
-    "personal_story": 2,
-    "hard_fact": 23,
-    "medical_science": 2,
-    "policy": 3
+    "personal_story": 6,
+    "social_reaction": 27,
+    "opinion": 10,
+    "hard_fact": 24,
+    "medical_science": 1,
+    "policy": 2
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 24,
-    "social_reaction": 31,
-    "opinion": 9,
-    "medical_science": 1,
-    "policy": 3,
-    "personal_story": 2
+    "personal_story": 6,
+    "social_reaction": 26,
+    "hard_fact": 27,
+    "opinion": 10,
+    "policy": 1
   },
   "b2b_top10": [
     {
-      "title": "最大震度6強の地震",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
+      "title": "小学生の頃、「平和のためにできること」みたいな作文が出された際、あるゲームをプレ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
-      "title": "親にバレないように中古の3DSを買ったが、没収対策として友達から同色の壊れた別の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "安全確保を 地震発生時のNG行動",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "遠足で熱中症になった娘　「お茶買って」認めなかった学校の責任は：朝日新聞",
+      "title": "散々注意していたのに…するなと何度も言っていたのに…教育実習生が記念撮影した写真",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "東日本大震災",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ブラジル",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "福岡市長",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "親父がジャンボタニシにはナマズが効果あると言い出し、ナマズ5～6匹程捕獲して田ん",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "そこそこ優秀だった上司が異動先で冷遇されてる⇒人事評価なんて時と場所で変わるし、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "グループc",
+      "title": "犬型ロボ「aibo」国内販売を終了",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "行政書士試験の勉強あるある「土地の時効取得がわりとヤバくて二度見する」…わりと適",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "オランダ チュニジア 中止",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "喜多ゆかり",
+      "title": "危険運転に数値基準 改正法成立",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "ドミノ・ピザ、宅配値下げ　「お持ち帰り半額」終了",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "ようやく長男の志望校が決まり、塾にも夏期講習にも大金を払ったのに、高校説明会に現",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "バトオペ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +106,61 @@
   ],
   "note_top10": [
     {
-      "title": "親にバレないように中古の3DSを買ったが、没収対策として友達から同色の壊れた別の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "遠足で熱中症になった娘　「お茶買って」認めなかった学校の責任は：朝日新聞",
+      "title": "小学生の頃、「平和のためにできること」みたいな作文が出された際、あるゲームをプレ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "料理下手に対して弱火強火の例えで「おばあちゃんの肩を優しくとんとん50回するのを",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "親父がジャンボタニシにはナマズが効果あると言い出し、ナマズ5～6匹程捕獲して田ん",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "息子が車に轢かれ鎖骨骨折･打撲の大怪我をしたが相手から「免許証に傷をつけたくない",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "20歳の本当にお金がなかった学生時代に、地元の同級生の結婚式に「ご祝儀5000円",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「華々しい経歴で入社したAさん」に好かれすぎた先輩が振り返るエッセイ、よくあるネ",
+      "title": "散々注意していたのに…するなと何度も言っていたのに…教育実習生が記念撮影した写真",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "行政書士試験の勉強あるある「土地の時効取得がわりとヤバくて二度見する」…わりと適",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "そこそこ優秀だった上司が異動先で冷遇されてる⇒人事評価なんて時と場所で変わるし、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "中学生の時は生徒会長をして冬のひざ掛け禁止というブラック校則を改正したが同窓会系",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "ようやく長男の志望校が決まり、塾にも夏期講習にも大金を払ったのに、高校説明会に現",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "中国で拘束の２邦人、富士電機などの関係者…レアアース加工製品を国外に持ち出そうと",
+      "title": "ワイが若い頃は職場でなんで30のおっさんがこっち(18~20歳)の話してるグルー",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "フタを凍らせる弁当箱「GEL-COOL square」で真夏も保冷剤いらず！ 使",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「女性蔑視」中国人男主体の昏睡レイプネットワーク、ドイツで同胞女性らを食い物に",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "さくらんぼを乗せるとかわいい　プリンアラモードやクリームソーダのように、豆腐も電",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "国立映画アーカイブ、活動存続へクラウドファンディング　運営費交付金の削減受け -",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
