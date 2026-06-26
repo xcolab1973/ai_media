@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T19:39:00+09:00",
+  "generated_at": "2026-06-27T00:17:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,31 +16,34 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 9,
-    "passed_total": 117,
+    "neg_excluded": 4,
+    "dedup_excluded": 13,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 27,
+      "yahoo_realtime": 37,
       "google_trends": 10,
-      "news_web": 17,
-      "yahoo_news_ranking": 7,
-      "x_realtime": 9
+      "news_web": 11,
+      "x_realtime": 7,
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
     "personal_story": 3,
-    "social_reaction": 33,
-    "opinion": 10,
+    "analysis": 1,
+    "social_reaction": 26,
     "medical_science": 1,
-    "policy": 9,
-    "hard_fact": 14
+    "opinion": 7,
+    "policy": 12,
+    "hard_fact": 20
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 24,
+    "social_reaction": 26,
     "personal_story": 3,
-    "opinion": 10,
-    "hard_fact": 24,
-    "policy": 9
+    "policy": 12,
+    "analysis": 1,
+    "medical_science": 1,
+    "hard_fact": 20,
+    "opinion": 7
   },
   "b2b_top10": [
     {
@@ -50,72 +53,78 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "【鷹（タカ）で団地の害鳥対策?!】鳩やカラスを撃退、糞害やゴミ荒らしが激減！「鷹",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
       "title": "フルタイム共働き、シルバー人材の家事代行を3ヶ月使ってみたら、月1万円で未処理タ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "「円城塔、ただひたすらゲームを語りだす」『土人形と動死体』刊行記念対談！【円城塔",
+      "title": "高市首相は筋金入りの嘘つき！ 経歴詐称疑惑で米下院関係者が決定的証言「インターン",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "policy"
     },
     {
-      "title": "風間俊介",
+      "title": "日本 fifaランキング",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "topic_category": "analysis"
     },
     {
-      "title": "ゴディバ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "図書館が破壊する「書物」のエコシステム、「図書館の無料貸し出しは本を滅ぼす」と語",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
     },
     {
-      "title": "dena 対 巨人",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "【鷹（タカ）で団地の害鳥対策?!】鳩やカラスを撃退、糞害やゴミ荒らしが激減！「鷹",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
-      "title": "西武 対 日本ハム",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "広島 対 阪神",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "地震続く関東・東北 土砂災害注意",
+      "title": "安全確保を 地震発生時のNG行動",
       "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
+      "raw_source_key": "yahoo_news_domestic",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "チャンス大城",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "能登半島地震",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "首都直下地震",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
       "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
     {
+      "title": "フルタイム共働き、シルバー人材の家事代行を3ヶ月使ってみたら、月1万円で未処理タ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
       "title": "【鷹（タカ）で団地の害鳥対策?!】鳩やカラスを撃退、糞害やゴミ荒らしが激減！「鷹",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "フルタイム共働き、シルバー人材の家事代行を3ヶ月使ってみたら、月1万円で未処理タ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "日本 fifaランキング",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "analysis"
     },
     {
       "title": "孫正義「上等だよ。どっちかが潰れるまでやってやるよ」PayPay「100億円キャ",
@@ -124,46 +133,40 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「円城塔、ただひたすらゲームを語りだす」『土人形と動死体』刊行記念対談！【円城塔",
+      "title": "フランス熱波報道見てて思ったんですけどもしかしてあいつらエアコンなくても生きてい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "劇場版新作『ケロロ軍曹』、制作過程における不手際を謝罪　他作品を想起させる演出・",
+      "title": "一限目の英語の先生が隣のサッカー見せてるクラスまで行って『常識的に考えろよ！！』",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "自分の喋る言葉のイントネーションが標準語と違うと夫が笑いながら指摘してきて最近は",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "映画『ケロロ軍曹』について、一部作品の権利者の意向に反した表現を進めたとバンダイ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中国で撮影されたらしき、山の斜面が崩れ水面にじわじわと波が発生する様子に「土砂崩",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "ハダカデバネズミはうんちを舐めて子供を産まないようにしている…と思われていたが最",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "去年の7月末に予約したフィギュアが販売店から「商品を確保できないからキャンセル」",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「食文化は守るものでもあり、変化するものでもあるんだなと感じます」ベトナムのサン",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「依存症ってどうしてギャンブルやアルコールなど、いかにも破滅しそうなものしかない",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "図書館が破壊する「書物」のエコシステム、「図書館の無料貸し出しは本を滅ぼす」と語",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
     }
   ]
 }
