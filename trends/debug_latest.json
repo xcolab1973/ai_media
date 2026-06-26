@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T00:17:00+09:00",
+  "generated_at": "2026-06-27T07:48:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,52 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 4,
-    "dedup_excluded": 13,
-    "passed_total": 115,
+    "neg_excluded": 9,
+    "dedup_excluded": 11,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
+      "yahoo_realtime": 35,
+      "x_realtime": 6,
       "google_trends": 10,
-      "news_web": 11,
-      "x_realtime": 7,
-      "yahoo_news_ranking": 5
+      "news_web": 13,
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "personal_story": 3,
-    "analysis": 1,
-    "social_reaction": 26,
+    "social_reaction": 25,
+    "personal_story": 2,
     "medical_science": 1,
-    "opinion": 7,
-    "policy": 12,
-    "hard_fact": 20
+    "opinion": 10,
+    "policy": 10,
+    "hard_fact": 22
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 26,
-    "personal_story": 3,
-    "policy": 12,
-    "analysis": 1,
+    "social_reaction": 25,
+    "personal_story": 2,
+    "policy": 10,
+    "opinion": 10,
     "medical_science": 1,
-    "hard_fact": 20,
-    "opinion": 7
+    "hard_fact": 22
   },
   "b2b_top10": [
+    {
+      "title": "東京・お台場が少しずつ廃墟と化している…「観覧車と大江戸温泉がなくなった時点で魅",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "チーズ作りに必要な牛乳を凝固させる酵素は生後数ヶ月の仔牛の第4胃からしか採取でき",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "学校健診なぜやるの？なぜ上半身裸？脱がない診察だってあるじゃん？お医者さんのコメ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "孫正義「上等だよ。どっちかが潰れるまでやってやるよ」PayPay「100億円キャ",
       "source_category": "yahoo_realtime",
@@ -65,66 +81,54 @@
       "topic_category": "policy"
     },
     {
-      "title": "日本 fifaランキング",
+      "title": "習近平",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
-      "topic_category": "analysis"
+      "topic_category": "opinion"
+    },
+    {
+      "title": "大谷",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "senegal national football team vs iraq n",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "図書館が破壊する「書物」のエコシステム、「図書館の無料貸し出しは本を滅ぼす」と語",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "medical_science"
-    },
-    {
-      "title": "【鷹（タカ）で団地の害鳥対策?!】鳩やカラスを撃退、糞害やゴミ荒らしが激減！「鷹",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "安全確保を 地震発生時のNG行動",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "チャンス大城",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "能登半島地震",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "首都直下地震",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
+    {
+      "title": "東京・お台場が少しずつ廃墟と化している…「観覧車と大江戸温泉がなくなった時点で魅",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "チーズ作りに必要な牛乳を凝固させる酵素は生後数ヶ月の仔牛の第4胃からしか採取でき",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "学校健診なぜやるの？なぜ上半身裸？脱がない診察だってあるじゃん？お医者さんのコメ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "フルタイム共働き、シルバー人材の家事代行を3ヶ月使ってみたら、月1万円で未処理タ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
-    },
-    {
-      "title": "【鷹（タカ）で団地の害鳥対策?!】鳩やカラスを撃退、糞害やゴミ荒らしが激減！「鷹",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "日本 fifaランキング",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "analysis"
     },
     {
       "title": "孫正義「上等だよ。どっちかが潰れるまでやってやるよ」PayPay「100億円キャ",
@@ -139,27 +143,15 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "一限目の英語の先生が隣のサッカー見せてるクラスまで行って『常識的に考えろよ！！』",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ハダカデバネズミはうんちを舐めて子供を産まないようにしている…と思われていたが最",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "去年の7月末に予約したフィギュアが販売店から「商品を確保できないからキャンセル」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "俳優・高嶋政伸さん、子供の頃に刑事と4〜5か月間の共同生活をしたことを告白→高嶋",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「依存症ってどうしてギャンブルやアルコールなど、いかにも破滅しそうなものしかない",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -167,6 +159,12 @@
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "medical_science"
+    },
+    {
+      "title": "「16年ぶりにケロロの映画をみる前の私と、みた後の私」→あるファンのビフォーアフ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ]
 }
