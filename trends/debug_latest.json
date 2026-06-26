@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T08:01:00+09:00",
+  "generated_at": "2026-06-26T14:56:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,86 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
-    "dedup_excluded": 11,
-    "passed_total": 110,
+    "neg_excluded": 8,
+    "dedup_excluded": 10,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "google_trends": 10,
-      "news_web": 16,
       "yahoo_realtime": 33,
-      "x_realtime": 7,
-      "yahoo_news_ranking": 4
+      "google_trends": 10,
+      "yahoo_news_ranking": 6,
+      "x_realtime": 8,
+      "news_web": 13
     }
   },
   "note_category_counts": {
-    "social_reaction": 31,
+    "personal_story": 1,
+    "social_reaction": 33,
     "opinion": 10,
-    "policy": 7,
-    "hard_fact": 22
+    "medical_science": 1,
+    "policy": 9,
+    "hard_fact": 16
   },
   "b2b_topic_category_counts": {
+    "personal_story": 1,
+    "social_reaction": 29,
     "opinion": 10,
-    "hard_fact": 22,
-    "social_reaction": 31,
-    "policy": 7
+    "hard_fact": 20,
+    "policy": 9,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "dazn",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "【鷹（タカ）で団地の害鳥対策?!】鳩やカラスを撃退、糞害やゴミ荒らしが激減！「鷹",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
-      "title": "nhk",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ワールドカップ 順位",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "寝屋川流域 レベル4氾濫危険警報",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "教師に「戦争をなくすには？」と問われ「人類滅亡」と答えた…真面目だったのに「真面",
+      "title": "「円城塔、ただひたすらゲームを語りだす」『土人形と動死体』刊行記念対談！【円城塔",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【解説】 「クールダウン拠点」、映画無料券、窓に「白い粉」……欧州各国の熱波対策",
+      "title": "[ブックマーカー分析] co■■■■■ 過去ログと本文確認で陰湿に刺し続ける、は",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "自民党の税制調査会幹部・小渕優子氏が辞意　消費税減税に反対 - 日本経済新聞",
+      "title": "「依存症ってどうしてギャンブルやアルコールなど、いかにも破滅しそうなものしかない",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "高市「高圧経済」はインフレ昂進の逆効果、実質賃金が伸びない「潜在成長率低下」を食",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "nhk one ワールドカップ",
+      "title": "セルジオ越後",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ワーるカップ日本",
+      "title": "iPadなど値上げ Appleの株価下落",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "「高くしても売れる」熱波に襲われているフランスだが、現地のエアコン業者では「ダイ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中居 正広",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "孫正義",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "メーガン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -103,64 +107,64 @@
   ],
   "note_top10": [
     {
-      "title": "【解説】 「クールダウン拠点」、映画無料券、窓に「白い粉」……欧州各国の熱波対策",
+      "title": "【鷹（タカ）で団地の害鳥対策?!】鳩やカラスを撃退、糞害やゴミ荒らしが激減！「鷹",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「依存症ってどうしてギャンブルやアルコールなど、いかにも破滅しそうなものしかない",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "19歳の娘がクレジットカード15万円を払えず、催促状が。最初は肩代わりしようと思",
+      "title": "「円城塔、ただひたすらゲームを語りだす」『土人形と動死体』刊行記念対談！【円城塔",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ワンピースカードゲーム大会なりすまし優勝辞退事件で、優勝者にトレカ専門店の責任あ",
+      "title": "「高くしても売れる」熱波に襲われているフランスだが、現地のエアコン業者では「ダイ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "[ブックマーカー分析] co■■■■■ 過去ログと本文確認で陰湿に刺し続ける、は",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「バンダイも動いたか」ワンピースカードゲーム大会なりすまし優勝辞退事件に進展… ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "仕事用の手土産を買いに「3000〜4000円で、4000円以下で箱に詰めて下さい",
+      "title": "『ぎゃー－－－しんじゃうー！！ママ！』パスタを茹でてたお湯を流してたらキッチンに",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "教師に「戦争をなくすには？」と問われ「人類滅亡」と答えた…真面目だったのに「真面",
+      "title": "「今まで読んだTwitter記事の中で1番好き」ウォーターサーバー販売のブラック",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "LINEヤフーグループ、自己都合退職急増　前年度比65％増の2791人",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "バトル・ロワイアルとかいう最高シチュエーション大好き、おすすめ教えて",
+      "title": "俳優の村上虹郎さんを傷害疑いで書類送検 交際相手に暴行か | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ていねいな暮らしという規範」と、階級・階層の問題 - シロクマの屑籠",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "dazn",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "nhk",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ワールドカップ 順位",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ]
 }
