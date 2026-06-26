@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T14:56:00+09:00",
+  "generated_at": "2026-06-26T19:39:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,47 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 10,
-    "passed_total": 114,
+    "neg_excluded": 6,
+    "dedup_excluded": 9,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
+      "yahoo_realtime": 27,
       "google_trends": 10,
-      "yahoo_news_ranking": 6,
-      "x_realtime": 8,
-      "news_web": 13
+      "news_web": 17,
+      "yahoo_news_ranking": 7,
+      "x_realtime": 9
     }
   },
   "note_category_counts": {
-    "personal_story": 1,
+    "personal_story": 3,
     "social_reaction": 33,
     "opinion": 10,
     "medical_science": 1,
     "policy": 9,
-    "hard_fact": 16
+    "hard_fact": 14
   },
   "b2b_topic_category_counts": {
-    "personal_story": 1,
-    "social_reaction": 29,
+    "social_reaction": 24,
+    "personal_story": 3,
     "opinion": 10,
-    "hard_fact": 20,
-    "policy": 9,
-    "medical_science": 1
+    "hard_fact": 24,
+    "policy": 9
   },
   "b2b_top10": [
     {
+      "title": "孫正義「上等だよ。どっちかが潰れるまでやってやるよ」PayPay「100億円キャ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "【鷹（タカ）で団地の害鳥対策?!】鳩やカラスを撃退、糞害やゴミ荒らしが激減！「鷹",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "フルタイム共働き、シルバー人材の家事代行を3ヶ月使ってみたら、月1万円で未処理タ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
@@ -57,52 +68,40 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "[ブックマーカー分析] co■■■■■ 過去ログと本文確認で陰湿に刺し続ける、は",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「依存症ってどうしてギャンブルやアルコールなど、いかにも破滅しそうなものしかない",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "セルジオ越後",
+      "title": "風間俊介",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "iPadなど値上げ Appleの株価下落",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
+      "title": "ゴディバ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "dena 対 巨人",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "西武 対 日本ハム",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "広島 対 阪神",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "地震続く関東・東北 土砂災害注意",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
-    },
-    {
-      "title": "「高くしても売れる」熱波に襲われているフランスだが、現地のエアコン業者では「ダイ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中居 正広",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "孫正義",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "メーガン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ],
   "note_top10": [
@@ -113,7 +112,13 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "「依存症ってどうしてギャンブルやアルコールなど、いかにも破滅しそうなものしかない",
+      "title": "フルタイム共働き、シルバー人材の家事代行を3ヶ月使ってみたら、月1万円で未処理タ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "孫正義「上等だよ。どっちかが潰れるまでやってやるよ」PayPay「100億円キャ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,45 +130,39 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「高くしても売れる」熱波に襲われているフランスだが、現地のエアコン業者では「ダイ",
+      "title": "劇場版新作『ケロロ軍曹』、制作過程における不手際を謝罪　他作品を想起させる演出・",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "[ブックマーカー分析] co■■■■■ 過去ログと本文確認で陰湿に刺し続ける、は",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「バンダイも動いたか」ワンピースカードゲーム大会なりすまし優勝辞退事件に進展… ",
+      "title": "自分の喋る言葉のイントネーションが標準語と違うと夫が笑いながら指摘してきて最近は",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『ぎゃー－－－しんじゃうー！！ママ！』パスタを茹でてたお湯を流してたらキッチンに",
+      "title": "映画『ケロロ軍曹』について、一部作品の権利者の意向に反した表現を進めたとバンダイ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「今まで読んだTwitter記事の中で1番好き」ウォーターサーバー販売のブラック",
+      "title": "中国で撮影されたらしき、山の斜面が崩れ水面にじわじわと波が発生する様子に「土砂崩",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "LINEヤフーグループ、自己都合退職急増　前年度比65％増の2791人",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "ハダカデバネズミはうんちを舐めて子供を産まないようにしている…と思われていたが最",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "俳優の村上虹郎さんを傷害疑いで書類送検 交際相手に暴行か | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「食文化は守るものでもあり、変化するものでもあるんだなと感じます」ベトナムのサン",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
