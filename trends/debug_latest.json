@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T07:48:00+09:00",
+  "generated_at": "2026-06-27T14:38:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,154 +16,154 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
+    "neg_excluded": 11,
     "dedup_excluded": 11,
-    "passed_total": 112,
+    "passed_total": 110,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
-      "x_realtime": 6,
+      "yahoo_realtime": 32,
+      "x_realtime": 7,
       "google_trends": 10,
-      "news_web": 13,
+      "news_web": 15,
       "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 25,
-    "personal_story": 2,
-    "medical_science": 1,
+    "social_reaction": 24,
+    "personal_story": 1,
     "opinion": 10,
-    "policy": 10,
+    "medical_science": 4,
+    "policy": 9,
     "hard_fact": 22
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 25,
-    "personal_story": 2,
-    "policy": 10,
+    "social_reaction": 24,
     "opinion": 10,
-    "medical_science": 1,
-    "hard_fact": 22
+    "medical_science": 4,
+    "hard_fact": 22,
+    "personal_story": 1,
+    "policy": 9
   },
   "b2b_top10": [
     {
-      "title": "東京・お台場が少しずつ廃墟と化している…「観覧車と大江戸温泉がなくなった時点で魅",
+      "title": "女性でもズボンをはくのが普通になったが、男性もスカートをはいた方がいいのでは？→",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "チーズ作りに必要な牛乳を凝固させる酵素は生後数ヶ月の仔牛の第4胃からしか採取でき",
+      "title": "ガムみたいなおしゃぶり昆布を箱買いした「ガチで冗談抜きで食いすぎには注意」→その",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "学校健診なぜやるの？なぜ上半身裸？脱がない診察だってあるじゃん？お医者さんのコメ",
+      "title": "バンドＴシャツ論争：ロマン優光連載398",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "孫正義「上等だよ。どっちかが潰れるまでやってやるよ」PayPay「100億円キャ",
+      "title": "新宿のバーに勤めていたとき、よく来る紳士がいたが、ある日「少しニッチなものを注文",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "フルタイム共働き、シルバー人材の家事代行を3ヶ月使ってみたら、月1万円で未処理タ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "高市首相は筋金入りの嘘つき！ 経歴詐称疑惑で米下院関係者が決定的証言「インターン",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "習近平",
+      "title": "福本莉子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "大谷",
+      "title": "荒木村重",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "senegal national football team vs iraq n",
+      "title": "cnn",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "図書館が破壊する「書物」のエコシステム、「図書館の無料貸し出しは本を滅ぼす」と語",
+      "title": "ガールズバーで働いてた時、母と二人暮らしの50代無職男性に「いくら貯金あったら結",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "記者",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "二田理央",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "東京・お台場が少しずつ廃墟と化している…「観覧車と大江戸温泉がなくなった時点で魅",
+      "title": "女性でもズボンをはくのが普通になったが、男性もスカートをはいた方がいいのでは？→",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "チーズ作りに必要な牛乳を凝固させる酵素は生後数ヶ月の仔牛の第4胃からしか採取でき",
+      "title": "ガムみたいなおしゃぶり昆布を箱買いした「ガチで冗談抜きで食いすぎには注意」→その",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "学校健診なぜやるの？なぜ上半身裸？脱がない診察だってあるじゃん？お医者さんのコメ",
+      "title": "バンドＴシャツ論争：ロマン優光連載398",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "フルタイム共働き、シルバー人材の家事代行を3ヶ月使ってみたら、月1万円で未処理タ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "孫正義「上等だよ。どっちかが潰れるまでやってやるよ」PayPay「100億円キャ",
+      "title": "ガールズバーで働いてた時、母と二人暮らしの50代無職男性に「いくら貯金あったら結",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "フランス熱波報道見てて思ったんですけどもしかしてあいつらエアコンなくても生きてい",
+      "title": "新宿のバーに勤めていたとき、よく来る紳士がいたが、ある日「少しニッチなものを注文",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "去年の7月末に予約したフィギュアが販売店から「商品を確保できないからキャンセル」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "俳優・高嶋政伸さん、子供の頃に刑事と4〜5か月間の共同生活をしたことを告白→高嶋",
+      "title": "シングルマザーの忙しいアニメーターが高校生の子供に「自分で料理して弁当に詰め込ん",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "図書館が破壊する「書物」のエコシステム、「図書館の無料貸し出しは本を滅ぼす」と語",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "「16年ぶりにケロロの映画をみる前の私と、みた後の私」→あるファンのビフォーアフ",
+      "title": "ヨーロッパの熱波騒動を見ていると「そもそもあの気温に耐えられるエアコンを現地で作",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "自称女医「裸にしなければ聴診器を当てる場所がわからない内科医なんていません。側弯",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ずっと独り身だったら孤独死しないようにみんなで暮らそう」そう約束した高校時代の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "考・皇室－確保策 私の意見：「男系継承は中国文化」養子案は日本の伝統脅かす　落合",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
