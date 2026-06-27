@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T18:52:00+09:00",
+  "generated_at": "2026-06-27T23:19:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,40 +16,34 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 10,
-    "passed_total": 114,
+    "neg_excluded": 6,
+    "dedup_excluded": 11,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 31,
-      "x_realtime": 8,
+      "yahoo_realtime": 34,
+      "x_realtime": 7,
       "google_trends": 10,
-      "news_web": 15,
-      "yahoo_news_ranking": 6
+      "news_web": 14,
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "personal_story": 1,
-    "social_reaction": 27,
+    "social_reaction": 33,
+    "personal_story": 3,
     "opinion": 10,
-    "hard_fact": 23,
-    "medical_science": 4,
-    "policy": 5
+    "hard_fact": 18,
+    "medical_science": 3,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "personal_story": 1,
-    "hard_fact": 27,
-    "social_reaction": 26,
+    "hard_fact": 21,
+    "personal_story": 3,
+    "social_reaction": 32,
     "opinion": 10,
-    "medical_science": 4,
+    "medical_science": 2,
     "policy": 2
   },
   "b2b_top10": [
-    {
-      "title": "アラスカに住んでいたことがあるが、モノが腐らない、カビない、人間も洗わなくても臭",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
     {
       "title": "「テレビ離れ」全世代で加速「世代間の共通記憶がなくなる」懸念も ひろゆき氏「高齢",
       "source_category": "yahoo_realtime",
@@ -57,15 +51,21 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "DELLでパソコンを注文したが、入金済みなのに遅延の嵐、さらに値上げ告知、3か月",
+      "title": "アラスカに住んでいたことがあるが、モノが腐らない、カビない、人間も洗わなくても臭",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "Dellでパソコンを注文したが、入金済みなのに遅延の嵐、さらに値上げ告知、3か月",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "大阪で道が氾濫していたので泳ごうとしたら母に止められた話…破傷風リスクとかマンホ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "バンドＴシャツ論争：ロマン優光連載398",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -75,31 +75,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "地震のたびにXが重くなる今、「Twitterは災害インフラだった」記憶との落差に",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "バンドＴシャツ論争：ロマン優光連載398",
+      "title": "Murphy Details Unprecedented Corruption ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "横浜denaベイスターズ",
+      "title": "enc valorant",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "熱中症死者早期に1000人未満 方針",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
-      "topic_category": "hard_fact"
+      "title": "twitch",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "栗山巧",
+      "title": "村上虹郎父",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "山口達也",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,27 +107,21 @@
   ],
   "note_top10": [
     {
+      "title": "KEYUCA（ケユカ）の雨の日グッズで梅雨対策！おしゃれ＆機能性を両立したアイテ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "アラスカに住んでいたことがあるが、モノが腐らない、カビない、人間も洗わなくても臭",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "DELLでパソコンを注文したが、入金済みなのに遅延の嵐、さらに値上げ告知、3か月",
+      "title": "Dellでパソコンを注文したが、入金済みなのに遅延の嵐、さらに値上げ告知、3か月",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "大阪で道が氾濫していたので泳ごうとしたら母に止められた話…破傷風リスクとかマンホ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "女性でもズボンをはくのが普通になったが、男性もスカートをはいた方がいいのでは？→",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -137,31 +131,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "うちの猫は外で10年暮らした生粋の野良育ちなんだけど、家猫になってからは全く外に",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "新宿のバーに勤めていたとき、よく来る紳士がいたが、ある日「少しニッチなものを注文",
+      "title": "女性でもズボンをはくのが普通になったが、男性もスカートをはいた方がいいのでは？→",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "バンス氏、ウォーターゲート事件を軽視 今なら「半日で忘れられる」",
+      "title": "Murphy Details Unprecedented Corruption ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "富山空港の愛称に岐阜の「高山」？…利用客低迷の打破に「越県」案浮上、双方の地元か",
+      "title": "「小学校の職員室やんけ」熱波に襲われているEU本部だが、上級職員がいるフロアのみ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "不機嫌なタクシー運転手に当たったんだけど、私も客商売だから「やなことあるのわかる",
+      "title": "ド素人がサッカーを見る度に思うこと「めちゃくちゃ痛がって見せてるけど、審判がファ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "ある雑誌でクラシック鑑賞に行く時の服として露出の多いドレスが紹介されていて音楽演",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "等身大人形の中に金塊などを隠して、中国から成田空港への密輸が企てられるも、東京税",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
