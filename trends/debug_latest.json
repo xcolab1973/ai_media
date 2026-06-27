@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T23:19:00+09:00",
+  "generated_at": "2026-06-28T07:41:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,58 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
+    "neg_excluded": 7,
     "dedup_excluded": 11,
-    "passed_total": 115,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
-      "x_realtime": 7,
+      "yahoo_realtime": 37,
       "google_trends": 10,
-      "news_web": 14,
-      "yahoo_news_ranking": 5
+      "x_realtime": 6,
+      "news_web": 13,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
+    "social_reaction": 30,
     "personal_story": 3,
     "opinion": 10,
-    "hard_fact": 18,
-    "medical_science": 3,
-    "policy": 3
+    "hard_fact": 17,
+    "medical_science": 1,
+    "policy": 9
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 21,
-    "personal_story": 3,
-    "social_reaction": 32,
+    "social_reaction": 30,
+    "policy": 9,
     "opinion": 10,
-    "medical_science": 2,
-    "policy": 2
+    "hard_fact": 17,
+    "personal_story": 3,
+    "medical_science": 1
   },
   "b2b_top10": [
+    {
+      "title": "フルリモート勤務の知り合いが都内まで特急1時間で敷地150坪の豪邸を2000万円",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "“人為的にバズらせる” SNS操る「農場」ビジネスを取材　「テスト」と書かれただ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "2027年には｢スマホより小さい一切れ｣で500円…サバの塩焼きが4倍値上げで｢",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ワールドカップ 三位通過 順位",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
     {
       "title": "「テレビ離れ」全世代で加速「世代間の共通記憶がなくなる」懸念も ひろゆき氏「高齢",
       "source_category": "yahoo_realtime",
@@ -57,49 +81,25 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "Dellでパソコンを注文したが、入金済みなのに遅延の嵐、さらに値上げ告知、3か月",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "バンドＴシャツ論争：ロマン優光連載398",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "女性でもズボンをはくのが普通になったが、男性もスカートをはいた方がいいのでは？→",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Murphy Details Unprecedented Corruption ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "enc valorant",
+      "title": "nhkのど自慢",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "twitch",
+      "title": "陥没",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "村上虹郎父",
+      "title": "愛知県高校野球",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "山口達也",
+      "title": "山本耕史",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,7 +107,13 @@
   ],
   "note_top10": [
     {
-      "title": "KEYUCA（ケユカ）の雨の日グッズで梅雨対策！おしゃれ＆機能性を両立したアイテ",
+      "title": "フルリモート勤務の知り合いが都内まで特急1時間で敷地150坪の豪邸を2000万円",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "2027年には｢スマホより小さい一切れ｣で500円…サバの塩焼きが4倍値上げで｢",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -119,25 +125,37 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "Dellでパソコンを注文したが、入金済みなのに遅延の嵐、さらに値上げ告知、3か月",
+      "title": "ゴディバが経営不振らしいが、「コンビニに置いたこと」が価値を損ねた説→「ブランド",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ディズニーが疲れる理由を仙台市中心部に例えて可視化した図が分かりやすい「それは疲",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ワールドカップ 三位通過 順位",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "フランスの地下鉄、以前は電波が悪くてスマホを見る人が少ないと言われていたが、フラ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "バンドＴシャツ論争：ロマン優光連載398",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "新幹線で品川駅から乗って東京駅で降りる人には一体どんな物語があるのか→実際に乗っ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "女性でもズボンをはくのが普通になったが、男性もスカートをはいた方がいいのでは？→",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Murphy Details Unprecedented Corruption ",
+      "title": "弟が何で彼女できないのかわからない。現役東工だし、顔も結構良いし、服装も綺麗だし",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -146,24 +164,6 @@
       "title": "「小学校の職員室やんけ」熱波に襲われているEU本部だが、上級職員がいるフロアのみ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ド素人がサッカーを見る度に思うこと「めちゃくちゃ痛がって見せてるけど、審判がファ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "ある雑誌でクラシック鑑賞に行く時の服として露出の多いドレスが紹介されていて音楽演",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "等身大人形の中に金塊などを隠して、中国から成田空港への密輸が企てられるも、東京税",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
