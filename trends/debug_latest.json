@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T14:38:00+09:00",
+  "generated_at": "2026-06-27T18:52:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,58 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
-    "dedup_excluded": 11,
-    "passed_total": 110,
+    "neg_excluded": 8,
+    "dedup_excluded": 10,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
-      "x_realtime": 7,
+      "yahoo_realtime": 31,
+      "x_realtime": 8,
       "google_trends": 10,
       "news_web": 15,
       "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 24,
     "personal_story": 1,
+    "social_reaction": 27,
     "opinion": 10,
+    "hard_fact": 23,
     "medical_science": 4,
-    "policy": 9,
-    "hard_fact": 22
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 24,
+    "personal_story": 1,
+    "hard_fact": 27,
+    "social_reaction": 26,
     "opinion": 10,
     "medical_science": 4,
-    "hard_fact": 22,
-    "personal_story": 1,
-    "policy": 9
+    "policy": 2
   },
   "b2b_top10": [
+    {
+      "title": "アラスカに住んでいたことがあるが、モノが腐らない、カビない、人間も洗わなくても臭",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「テレビ離れ」全世代で加速「世代間の共通記憶がなくなる」懸念も ひろゆき氏「高齢",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "DELLでパソコンを注文したが、入金済みなのに遅延の嵐、さらに値上げ告知、3か月",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "大阪で道が氾濫していたので泳ごうとしたら母に止められた話…破傷風リスクとかマンホ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "女性でもズボンをはくのが普通になったが、男性もスカートをはいた方がいいのでは？→",
       "source_category": "yahoo_realtime",
@@ -51,10 +75,10 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ガムみたいなおしゃぶり昆布を箱買いした「ガチで冗談抜きで食いすぎには注意」→その",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "地震のたびにXが重くなる今、「Twitterは災害インフラだった」記憶との落差に",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
     },
     {
       "title": "バンドＴシャツ論争：ロマン優光連載398",
@@ -63,43 +87,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "新宿のバーに勤めていたとき、よく来る紳士がいたが、ある日「少しニッチなものを注文",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "福本莉子",
+      "title": "横浜denaベイスターズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "荒木村重",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "熱中症死者早期に1000人未満 方針",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_domestic",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "cnn",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ガールズバーで働いてた時、母と二人暮らしの50代無職男性に「いくら貯金あったら結",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "記者",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "二田理央",
+      "title": "栗山巧",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,15 +107,27 @@
   ],
   "note_top10": [
     {
-      "title": "女性でもズボンをはくのが普通になったが、男性もスカートをはいた方がいいのでは？→",
+      "title": "アラスカに住んでいたことがあるが、モノが腐らない、カビない、人間も洗わなくても臭",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "DELLでパソコンを注文したが、入金済みなのに遅延の嵐、さらに値上げ告知、3か月",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ガムみたいなおしゃぶり昆布を箱買いした「ガチで冗談抜きで食いすぎには注意」→その",
+      "title": "大阪で道が氾濫していたので泳ごうとしたら母に止められた話…破傷風リスクとかマンホ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "女性でもズボンをはくのが普通になったが、男性もスカートをはいた方がいいのでは？→",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -125,9 +137,9 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ガールズバーで働いてた時、母と二人暮らしの50代無職男性に「いくら貯金あったら結",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "うちの猫は外で10年暮らした生粋の野良育ちなんだけど、家猫になってからは全く外に",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -137,33 +149,21 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "シングルマザーの忙しいアニメーターが高校生の子供に「自分で料理して弁当に詰め込ん",
+      "title": "バンス氏、ウォーターゲート事件を軽視 今なら「半日で忘れられる」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "富山空港の愛称に岐阜の「高山」？…利用客低迷の打破に「越県」案浮上、双方の地元か",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "不機嫌なタクシー運転手に当たったんだけど、私も客商売だから「やなことあるのわかる",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ヨーロッパの熱波騒動を見ていると「そもそもあの気温に耐えられるエアコンを現地で作",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "自称女医「裸にしなければ聴診器を当てる場所がわからない内科医なんていません。側弯",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ずっと独り身だったら孤独死しないようにみんなで暮らそう」そう約束した高校時代の",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "考・皇室－確保策 私の意見：「男系継承は中国文化」養子案は日本の伝統脅かす　落合",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
