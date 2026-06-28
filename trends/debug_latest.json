@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T15:02:00+09:00",
+  "generated_at": "2026-06-28T19:16:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,62 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 13,
-    "dedup_excluded": 10,
-    "passed_total": 109,
+    "neg_excluded": 15,
+    "dedup_excluded": 11,
+    "passed_total": 106,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
-      "google_trends": 9,
-      "x_realtime": 8,
-      "news_web": 13,
-      "yahoo_news_ranking": 6
+      "yahoo_realtime": 31,
+      "x_realtime": 7,
+      "google_trends": 10,
+      "news_web": 17,
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "personal_story": 3,
-    "social_reaction": 29,
-    "opinion": 9,
-    "medical_science": 1,
-    "hard_fact": 24,
-    "policy": 4
+    "social_reaction": 28,
+    "opinion": 10,
+    "medical_science": 3,
+    "policy": 5,
+    "hard_fact": 24
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "personal_story": 3,
-    "hard_fact": 23,
-    "policy": 5,
-    "opinion": 9,
-    "medical_science": 1
+    "social_reaction": 28,
+    "policy": 7,
+    "opinion": 10,
+    "hard_fact": 22,
+    "medical_science": 3
   },
   "b2b_top10": [
+    {
+      "title": "ドイツに長く住んでから日本に戻ってまず思ったのは「自然やべえ」だった、ドイツでは",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ANAのオーバーブッキング問題がSNSで炎上したが、企業側でANAを避ける動きが",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "オリエンタルランドの株主総会で「チケットをこれ以上値上げしたら将来のファンを失っ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「このゴミ作品からいくら貰ったんや」――ゲーム『Mixtape』の炎上騒動が日本",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ポスト高市」の暗闘が始まった!　政界のドン「麻生太郎」が決める「次の首相」 |",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
     {
       "title": "三宅香帆の校正刷（ゲラ）晒しの違和感、あるいは炎上マーケティングの危うさ",
       "source_category": "yahoo_realtime",
@@ -51,55 +79,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "双子を見てもらおうと19～22時でシッターさんをお願い…外出から帰宅後、終了の1",
+      "title": "DAZNとANAのネット炎上から考える「怒りのコスト」の重み - 日本経済新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "【地震情報】青森県 岩手県で震度5弱 今後1週間程度 注意を | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "“人為的にバズらせる” SNS操る「農場」ビジネスを取材　「テスト」と書かれただ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "［社説］消費税減税はやはり道理に合わない - 日本経済新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "レアル マドリード",
+      "title": "シャドバ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "三菱自動車の「給電機能があるUSB機器を接続しつづけると不具合が起きる可能性があ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "イラン攻撃",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "2027年には｢スマホより小さい一切れ｣で500円…サバの塩焼きが4倍値上げで｢",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "猫はスマホが『ギュイっ！ギュイっ！』って鳴るせいで地震が起こるんだ！と理解したよ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "習近平が｢日本に行くな｣と煽った悲惨な結果…タイ･韓国に流れた中国人観光客が受け",
+      "title": "“人為的にバズらせる” SNS操る「農場」ビジネスを取材　「テスト」と書かれただ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
@@ -107,10 +105,28 @@
   ],
   "note_top10": [
     {
-      "title": "双子を見てもらおうと19～22時でシッターさんをお願い…外出から帰宅後、終了の1",
+      "title": "ドイツに長く住んでから日本に戻ってまず思ったのは「自然やべえ」だった、ドイツでは",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ANAのオーバーブッキング問題がSNSで炎上したが、企業側でANAを避ける動きが",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "オリエンタルランドの株主総会で「チケットをこれ以上値上げしたら将来のファンを失っ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「このゴミ作品からいくら貰ったんや」――ゲーム『Mixtape』の炎上騒動が日本",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "三宅香帆の校正刷（ゲラ）晒しの違和感、あるいは炎上マーケティングの危うさ",
@@ -119,7 +135,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "スマホ乗り換えの「ホッパー」　国の対策を逆手、「うまみ」狙う | 毎日新聞",
+      "title": "DAZNとANAのネット炎上から考える「怒りのコスト」の重み - 日本経済新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "サッカー・ウルグアイ代表に「チャーター便はキャンセルした、各自で帰れ」という厳し",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -131,40 +153,16 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "2027年には｢スマホより小さい一切れ｣で500円…サバの塩焼きが4倍値上げで｢",
+      "title": "「スマホを捨てて東京を出て地方で人間らしい暮らしをしよう」と言って若者を搾取する",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "フォルクスワーゲン、10万人規模の人員削減を計画か　独誌報道",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "中学生の娘がこの世の終わりのような顔で部活から帰宅「先輩がとんでもない事をした、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ドイツに長く住んでから日本に戻ってまず思ったのは「自然やべえ」だった、ドイツでは",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "未開封品ではないカードをヤフオクで出品したら、カード屋さん？が落札して「本件は重",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "携帯会社のキャッチ→『iPhone最新機種1円です！今使ってるiPhone見せて",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "私は『パンどろぼう』に心を奪われた38歳サラリーマン… 今まで誰にもそのことを言",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
     }
   ]
 }
