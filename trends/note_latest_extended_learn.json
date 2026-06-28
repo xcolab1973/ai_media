@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-28T23:24:34+09:00",
+ "generated_at": "2026-06-29T02:30:00+09:00",
  "valid_until": "2026-07-05T23:11:08+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -8,7 +8,7 @@
  "total_count": 8,
  "merge": {
   "parent": "learn",
-  "from_current": 0,
+  "from_current": 8,
   "from_new": 10,
   "expired_pruned": 0,
   "retention_dropped": 2,
