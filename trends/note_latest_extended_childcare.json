@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-29T02:30:00+09:00",
+ "generated_at": "2026-06-29T06:34:35+09:00",
  "valid_until": "2026-07-12T23:12:44+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,7 +9,7 @@
  "merge": {
   "parent": "childcare",
   "from_current": 6,
-  "from_new": 6,
+  "from_new": 0,
   "expired_pruned": 0,
   "retention_dropped": 0,
   "genres": 1,
