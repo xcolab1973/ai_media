@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T19:16:00+09:00",
+  "generated_at": "2026-06-28T23:28:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,57 +7,57 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 124,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
-      "news_web": 48,
+      "news_web": 40,
       "yahoo_news_ranking": 24,
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 15,
-    "dedup_excluded": 11,
-    "passed_total": 106,
+    "neg_excluded": 11,
+    "dedup_excluded": 10,
+    "passed_total": 103,
     "b2b_category_counts": {
-      "yahoo_realtime": 31,
-      "x_realtime": 7,
+      "yahoo_realtime": 34,
+      "x_realtime": 6,
       "google_trends": 10,
-      "news_web": 17,
-      "yahoo_news_ranking": 5
+      "news_web": 16,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
+    "social_reaction": 30,
     "opinion": 10,
-    "medical_science": 3,
-    "policy": 5,
+    "medical_science": 2,
+    "policy": 4,
     "hard_fact": 24
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
-    "policy": 7,
+    "social_reaction": 30,
+    "policy": 6,
     "opinion": 10,
     "hard_fact": 22,
-    "medical_science": 3
+    "medical_science": 2
   },
   "b2b_top10": [
+    {
+      "title": "オリエンタルランドの株主総会で「チケットをこれ以上値上げしたら将来のファンを失っ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "外国人が臭うのって、環境の良さにかまけて対策してないから、湿度の地獄に足を踏み入",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "ドイツに長く住んでから日本に戻ってまず思ったのは「自然やべえ」だった、ドイツでは",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ANAのオーバーブッキング問題がSNSで炎上したが、企業側でANAを避ける動きが",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "オリエンタルランドの株主総会で「チケットをこれ以上値上げしたら将来のファンを失っ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -73,53 +73,53 @@
       "topic_category": "policy"
     },
     {
-      "title": "三宅香帆の校正刷（ゲラ）晒しの違和感、あるいは炎上マーケティングの危うさ",
+      "title": "ドイツ、どこもかしこも冷凍冷蔵機能が壊滅的でスタバも氷がないから氷なしのドリンク",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "DAZNとANAのネット炎上から考える「怒りのコスト」の重み - 日本経済新聞",
+      "title": "白石聖",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "fifa world cup 2026 bracket",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "小学5年生のころに母親が蒸発したので父にご飯係を任命され1000円を握りしめてス",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "シャドバ",
+      "title": "藤原 紀香",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
-    },
-    {
-      "title": "イラン攻撃",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "“人為的にバズらせる” SNS操る「農場」ビジネスを取材　「テスト」と書かれただ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
     }
   ],
   "note_top10": [
     {
+      "title": "オリエンタルランドの株主総会で「チケットをこれ以上値上げしたら将来のファンを失っ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "外国人が臭うのって、環境の良さにかまけて対策してないから、湿度の地獄に足を踏み入",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "ドイツに長く住んでから日本に戻ってまず思ったのは「自然やべえ」だった、ドイツでは",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ANAのオーバーブッキング問題がSNSで炎上したが、企業側でANAを避ける動きが",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "オリエンタルランドの株主総会で「チケットをこれ以上値上げしたら将来のファンを失っ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -129,39 +129,39 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "三宅香帆の校正刷（ゲラ）晒しの違和感、あるいは炎上マーケティングの危うさ",
+      "title": "ドイツ、どこもかしこも冷凍冷蔵機能が壊滅的でスタバも氷がないから氷なしのドリンク",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "DAZNとANAのネット炎上から考える「怒りのコスト」の重み - 日本経済新聞",
+      "title": "小学5年生のころに母親が蒸発したので父にご飯係を任命され1000円を握りしめてス",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "サッカー・ウルグアイ代表に「チャーター便はキャンセルした、各自で帰れ」という厳し",
+      "title": "住宅街の一角にできるお菓子屋さんの建築デザインに「素人の浅慮ながら再考してほしい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "三菱自動車の「給電機能があるUSB機器を接続しつづけると不具合が起きる可能性があ",
+      "title": "愛子さま皇位継承「あり得ず」　中曽根氏、結婚する人ない",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「スマホを捨てて東京を出て地方で人間らしい暮らしをしよう」と言って若者を搾取する",
+      "title": "行方不明になっていた実家の猫が『変わり果てた姿で帰って来たのですぐ戻って来い』と",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "フォルクスワーゲン、10万人規模の人員削減を計画か　独誌報道",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "50年前、貧困母子家庭で母が洋裁の内職をしていたが、契約先で高額な洋服が大量に売",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
