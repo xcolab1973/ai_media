@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T07:41:00+09:00",
+  "generated_at": "2026-06-28T15:02:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,39 +16,51 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 11,
-    "passed_total": 114,
+    "neg_excluded": 13,
+    "dedup_excluded": 10,
+    "passed_total": 109,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
-      "google_trends": 10,
-      "x_realtime": 6,
+      "yahoo_realtime": 34,
+      "google_trends": 9,
+      "x_realtime": 8,
       "news_web": 13,
-      "yahoo_news_ranking": 4
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
     "personal_story": 3,
-    "opinion": 10,
-    "hard_fact": 17,
+    "social_reaction": 29,
+    "opinion": 9,
     "medical_science": 1,
-    "policy": 9
+    "hard_fact": 24,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
-    "policy": 9,
-    "opinion": 10,
-    "hard_fact": 17,
+    "social_reaction": 29,
     "personal_story": 3,
+    "hard_fact": 23,
+    "policy": 5,
+    "opinion": 9,
     "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "フルリモート勤務の知り合いが都内まで特急1時間で敷地150坪の豪邸を2000万円",
+      "title": "三宅香帆の校正刷（ゲラ）晒しの違和感、あるいは炎上マーケティングの危うさ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "双子を見てもらおうと19～22時でシッターさんをお願い…外出から帰宅後、終了の1",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "【地震情報】青森県 岩手県で震度5弱 今後1週間程度 注意を | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
     },
     {
       "title": "“人為的にバズらせる” SNS操る「農場」ビジネスを取材　「テスト」と書かれただ",
@@ -57,57 +69,63 @@
       "topic_category": "policy"
     },
     {
+      "title": "［社説］消費税減税はやはり道理に合わない - 日本経済新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "レアル マドリード",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "三菱自動車の「給電機能があるUSB機器を接続しつづけると不具合が起きる可能性があ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "2027年には｢スマホより小さい一切れ｣で500円…サバの塩焼きが4倍値上げで｢",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ワールドカップ 三位通過 順位",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「テレビ離れ」全世代で加速「世代間の共通記憶がなくなる」懸念も ひろゆき氏「高齢",
+      "title": "猫はスマホが『ギュイっ！ギュイっ！』って鳴るせいで地震が起こるんだ！と理解したよ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
     },
     {
-      "title": "アラスカに住んでいたことがあるが、モノが腐らない、カビない、人間も洗わなくても臭",
+      "title": "習近平が｢日本に行くな｣と煽った悲惨な結果…タイ･韓国に流れた中国人観光客が受け",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    }
+  ],
+  "note_top10": [
+    {
+      "title": "双子を見てもらおうと19～22時でシッターさんをお願い…外出から帰宅後、終了の1",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "nhkのど自慢",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "三宅香帆の校正刷（ゲラ）晒しの違和感、あるいは炎上マーケティングの危うさ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "陥没",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "スマホ乗り換えの「ホッパー」　国の対策を逆手、「うまみ」狙う | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "愛知県高校野球",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "山本耕史",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    }
-  ],
-  "note_top10": [
-    {
-      "title": "フルリモート勤務の知り合いが都内まで特急1時間で敷地150坪の豪邸を2000万円",
+      "title": "三菱自動車の「給電機能があるUSB機器を接続しつづけると不具合が起きる可能性があ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -119,52 +137,34 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "アラスカに住んでいたことがあるが、モノが腐らない、カビない、人間も洗わなくても臭",
+      "title": "中学生の娘がこの世の終わりのような顔で部活から帰宅「先輩がとんでもない事をした、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ドイツに長く住んでから日本に戻ってまず思ったのは「自然やべえ」だった、ドイツでは",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "未開封品ではないカードをヤフオクで出品したら、カード屋さん？が落札して「本件は重",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "携帯会社のキャッチ→『iPhone最新機種1円です！今使ってるiPhone見せて",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "私は『パンどろぼう』に心を奪われた38歳サラリーマン… 今まで誰にもそのことを言",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
-    },
-    {
-      "title": "ゴディバが経営不振らしいが、「コンビニに置いたこと」が価値を損ねた説→「ブランド",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ディズニーが疲れる理由を仙台市中心部に例えて可視化した図が分かりやすい「それは疲",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ワールドカップ 三位通過 順位",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "フランスの地下鉄、以前は電波が悪くてスマホを見る人が少ないと言われていたが、フラ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "新幹線で品川駅から乗って東京駅で降りる人には一体どんな物語があるのか→実際に乗っ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "弟が何で彼女できないのかわからない。現役東工だし、顔も結構良いし、服装も綺麗だし",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「小学校の職員室やんけ」熱波に襲われているEU本部だが、上級職員がいるフロアのみ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
     }
   ]
 }
