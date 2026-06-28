@@ -1,0 +1,29 @@
+{
+ "generated_at": "2026-06-28T22:03:14+09:00",
+ "schema": "ext-index-1.0",
+ "parent_count": 3,
+ "total_candidates": 33,
+ "parents": {
+  "health": {
+   "file": "note_latest_extended_health.json",
+   "generated_at": "2026-06-28T22:03:14+09:00",
+   "count": 6,
+   "freshness_majority": "stable",
+   "valid_until_max": "2026-07-12T22:03:04+09:00"
+  },
+  "legal": {
+   "file": "note_latest_extended_legal.json",
+   "generated_at": "2026-06-28T22:03:14+09:00",
+   "count": 12,
+   "freshness_majority": "quarterly",
+   "valid_until_max": "2026-07-05T22:03:04+09:00"
+  },
+  "tech": {
+   "file": "note_latest_extended_tech.json",
+   "generated_at": "2026-06-28T22:03:14+09:00",
+   "count": 15,
+   "freshness_majority": "monthly",
+   "valid_until_max": "2026-07-03T22:03:04+09:00"
+  }
+ }
+}
