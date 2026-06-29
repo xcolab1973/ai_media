@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T15:23:00+09:00",
+  "generated_at": "2026-06-29T21:19:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,31 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
+    "neg_excluded": 5,
     "dedup_excluded": 10,
-    "passed_total": 115,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
-      "google_trends": 10,
-      "news_web": 12,
+      "yahoo_realtime": 38,
       "yahoo_news_ranking": 4,
-      "x_realtime": 7
+      "google_trends": 10,
+      "x_realtime": 7,
+      "news_web": 11
     }
   },
   "note_category_counts": {
-    "social_reaction": 36,
-    "analysis": 1,
-    "opinion": 8,
-    "personal_story": 4,
-    "policy": 4,
-    "medical_science": 3,
-    "hard_fact": 14
+    "social_reaction": 31,
+    "opinion": 10,
+    "personal_story": 1,
+    "policy": 11,
+    "hard_fact": 15,
+    "medical_science": 2
   },
   "b2b_topic_category_counts": {
-    "policy": 4,
-    "social_reaction": 35,
-    "opinion": 8,
-    "hard_fact": 16,
-    "analysis": 1,
-    "personal_story": 4,
-    "medical_science": 2
+    "policy": 11,
+    "social_reaction": 31,
+    "opinion": 10,
+    "hard_fact": 17,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
@@ -53,7 +50,13 @@
       "topic_category": "policy"
     },
     {
-      "title": "X投稿でテロ疑われ「まさか」　公安警察の捜査受けた女性が証言（毎日新聞） - Y",
+      "title": "元レイバー・北アフリカ渡航経験者が記録する映画「シラート」のログ／エンディングあ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "真相・ニュースの現場から：「火炎瓶作ってる？」突然来訪した公安警察　テロ対策の一",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -65,49 +68,49 @@
       "topic_category": "policy"
     },
     {
-      "title": "和製トランプ 高市総理「官邸機能不全のワケ」",
+      "title": "X投稿でテロ疑われ「まさか」　公安警察の捜査受けた女性が証言（毎日新聞） - Y",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ガソリン補助金 7月～算定法変更",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
+      "topic_category": "policy"
+    },
+    {
+      "title": "志田未来",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "sixtones",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "高野 線",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "女性同士で結婚してパートナーシップ制度を利用していたが相手が勝手に解消…家に行っ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
-    },
+    }
+  ],
+  "note_top10": [
     {
       "title": "真相・ニュースの現場から：「火炎瓶作ってる？」突然来訪した公安警察　テロ対策の一",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
-    {
-      "title": "亀梨和也",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "男子 バレー フランス 戦",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "叔母が亡くなり、生命保険会社に電話…次に道銀に電話すると保険の件で念押しされる…",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中国輸出規制リスト",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "policy"
-    },
-    {
-      "title": "沖縄地方が梅雨明け 熱中症に注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    }
-  ],
-  "note_top10": [
     {
       "title": "X投稿でテロ疑われ「まさか」　公安警察の捜査受けた女性が証言（毎日新聞） - Y",
       "source_category": "yahoo_realtime",
@@ -115,57 +118,51 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "真相・ニュースの現場から：「火炎瓶作ってる？」突然来訪した公安警察　テロ対策の一",
+      "title": "元レイバー・北アフリカ渡航経験者が記録する映画「シラート」のログ／エンディングあ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【独自】生態系対策、イエネコ追加へ　環境省、希少種の捕食などで | NEWSjp",
+      "title": "「テレビ界に大きな事件」「45歳以上に思い切って振り切る番組がもっとあっていい」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "叔母が亡くなり、生命保険会社に電話…次に道銀に電話すると保険の件で念押しされる…",
+      "title": "中国の観光地にはこういうアイスがだいたい存在するから思い出として食べる「造形が細",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "fifa ランキング 2026",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "analysis"
-    },
-    {
-      "title": "恋愛漫画は大好きだけど、自分が大人になりすぎて「先生と生徒の恋愛はちょっと…」「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "子どもたちが体操教室に通っているが、持って生まれた身体能力と運動神経の差は本当に",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "亀梨和也",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "お前……どこから湧いてでた…！？→「なんか可愛いものが出てきた」「やはり液体か」",
+      "title": "妻に「今年一年これ以上ゲーム買わないから新しいGPU買わせて」と相談したところ「",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "昔からこのビスケットのコーヒーの方はカレーの味がするって言ってるんだけど誰もわか",
+      "title": "後輩とパチンコを打って近くの喫煙所でタバコを吸っていたら、かつて世間を震撼させた",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "メルカリで「傷があるので安い」iPhoneを買ったら…盗品としてロックされ、メル",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "コツを押さえて失敗しない！フライパンで作るゆで卵のレシピ | デリッシュキッチン",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "愛子さま皇位継承「あり得ない」発言 自民・中曽根氏の釈明全文：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
