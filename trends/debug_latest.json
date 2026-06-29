@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T01:29:00+09:00",
+  "generated_at": "2026-06-30T07:40:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,43 +16,55 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 8,
-    "passed_total": 117,
+    "neg_excluded": 6,
+    "dedup_excluded": 10,
+    "passed_total": 116,
     "b2b_category_counts": {
-      "google_trends": 10,
-      "x_realtime": 9,
+      "news_web": 16,
       "yahoo_realtime": 36,
-      "yahoo_news_ranking": 1,
-      "news_web": 14
+      "google_trends": 10,
+      "x_realtime": 8
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
+    "social_reaction": 29,
+    "personal_story": 1,
     "opinion": 10,
-    "personal_story": 2,
-    "policy": 9,
-    "hard_fact": 15,
-    "medical_science": 2
+    "medical_science": 3,
+    "policy": 11,
+    "hard_fact": 16
   },
   "b2b_topic_category_counts": {
+    "policy": 11,
+    "social_reaction": 29,
     "opinion": 10,
-    "social_reaction": 32,
-    "policy": 9,
-    "hard_fact": 17,
-    "personal_story": 2
+    "personal_story": 1,
+    "hard_fact": 18,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "dazn ワールドカップ 無料",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "JAL補助金不正受給 2億円返還へ",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "policy"
     },
     {
-      "title": "熱中症になった母がつらくて横になっていたら、心配した猫たちがいっぱい集まって来て",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「なんでこうらが重いのにういてるんですか？」との質問に対するウミガメ公園の回答が",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【一覧】経産省、コンテンツ産業補助金の「大規模作品支援」で27社採択…DeNA、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "元レイバー・北アフリカ渡航経験者が記録する映画「シラート」のログ／エンディングあ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -62,43 +74,31 @@
       "topic_category": "policy"
     },
     {
-      "title": "“DeNAに最大15億円支援”など、経産省がXで説明　「大企業への利益提供ではな",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "元レイバー・北アフリカ渡航経験者が記録する映画「シラート」のログ／エンディングあ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "真相・ニュースの現場から：「火炎瓶作ってる？」突然来訪した公安警察　テロ対策の一",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "X投稿でテロ疑われ「まさか」　公安警察の捜査受けた女性が証言（毎日新聞） - Y",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "番組表",
+      "title": "フィリーズ 対 パイレーツ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ブルーノ・ギマランイス",
+      "title": "惨敗",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "brasil x japão",
+      "title": "近鉄",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "サウンドハウスお姉さんTシャツ＆キーホルダーレビュー！SSRどころではない超レア",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "今井春花",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,28 +106,10 @@
   ],
   "note_top10": [
     {
-      "title": "熱中症になった母がつらくて横になっていたら、心配した猫たちがいっぱい集まって来て",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "真相・ニュースの現場から：「火炎瓶作ってる？」突然来訪した公安警察　テロ対策の一",
+      "title": "「なんでこうらが重いのにういてるんですか？」との質問に対するウミガメ公園の回答が",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "X投稿でテロ疑われ「まさか」　公安警察の捜査受けた女性が証言（毎日新聞） - Y",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "dazn ワールドカップ 無料",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     },
     {
       "title": "元レイバー・北アフリカ渡航経験者が記録する映画「シラート」のログ／エンディングあ",
@@ -136,34 +118,52 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "アニメ『サイバーパンク: エッジランナーズ2』公式ティーザー2",
+      "title": "サウンドハウスお姉さんTシャツ＆キーホルダーレビュー！SSRどころではない超レア",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「本当に嘘じゃなく“泣きながら歩いて帰った“事がある靴」お人形さんみたいで可愛い",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "インドネシアで売られてる蚊取り線香は効き目抜群だが人間にも効いてしまうので日本製",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "日本、ブラジルに屈す…佐野先制点も逆転負け「ヒューストンの悲劇」3大会連続16強",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "「選んでもらう立場だからだよ」高校古典の教科書に載っている「稚児のそら寝」という",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "習近平は「負けを認めない日本」を笑っている…「インドネシアの中国高速鉄道の失敗」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "セクシービデオの撮影のアルバイトをした時にやってみて意外だったのは「裸に慣れる」",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「おまえだったのか」ドイツに熱波が来ていて、すごく暑いはずなのに家の中は涼しいの",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "コツを押さえて失敗しない！フライパンで作るゆで卵のレシピ | デリッシュキッチン",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "メルカリで「傷があるので安い」iPhoneを買ったら…盗品としてロックされ、メル",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "フィリーズ 対 パイレーツ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
