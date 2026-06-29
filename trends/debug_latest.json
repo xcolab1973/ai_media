@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T21:19:00+09:00",
+  "generated_at": "2026-06-30T01:29:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,33 +16,45 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 10,
+    "neg_excluded": 7,
+    "dedup_excluded": 8,
     "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_realtime": 38,
-      "yahoo_news_ranking": 4,
       "google_trends": 10,
-      "x_realtime": 7,
-      "news_web": 11
+      "x_realtime": 9,
+      "yahoo_realtime": 36,
+      "yahoo_news_ranking": 1,
+      "news_web": 14
     }
   },
   "note_category_counts": {
-    "social_reaction": 31,
+    "social_reaction": 32,
     "opinion": 10,
-    "personal_story": 1,
-    "policy": 11,
+    "personal_story": 2,
+    "policy": 9,
     "hard_fact": 15,
     "medical_science": 2
   },
   "b2b_topic_category_counts": {
-    "policy": 11,
-    "social_reaction": 31,
     "opinion": 10,
+    "social_reaction": 32,
+    "policy": 9,
     "hard_fact": 17,
-    "personal_story": 1
+    "personal_story": 2
   },
   "b2b_top10": [
+    {
+      "title": "dazn ワールドカップ 無料",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "熱中症になった母がつらくて横になっていたら、心配した猫たちがいっぱい集まって来て",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "「DeNAのスマホゲーに国が15億円支援」賛否、MIXI社長「たかだか15億円」",
       "source_category": "yahoo_realtime",
@@ -50,6 +62,12 @@
       "topic_category": "policy"
     },
     {
+      "title": "“DeNAに最大15億円支援”など、経産省がXで説明　「大企業への利益提供ではな",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
       "title": "元レイバー・北アフリカ渡航経験者が記録する映画「シラート」のログ／エンディングあ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
@@ -62,87 +80,81 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "高市総理「自民党内からも法案大反対」で成立絶望的",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
       "title": "X投稿でテロ疑われ「まさか」　公安警察の捜査受けた女性が証言（毎日新聞） - Y",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ガソリン補助金 7月～算定法変更",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "policy"
-    },
-    {
-      "title": "志田未来",
+      "title": "番組表",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "sixtones",
+      "title": "ブルーノ・ギマランイス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "高野 線",
+      "title": "brasil x japão",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
-    },
-    {
-      "title": "女性同士で結婚してパートナーシップ制度を利用していたが相手が勝手に解消…家に行っ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
     }
   ],
   "note_top10": [
     {
-      "title": "真相・ニュースの現場から：「火炎瓶作ってる？」突然来訪した公安警察　テロ対策の一",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "X投稿でテロ疑われ「まさか」　公安警察の捜査受けた女性が証言（毎日新聞） - Y",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "元レイバー・北アフリカ渡航経験者が記録する映画「シラート」のログ／エンディングあ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「テレビ界に大きな事件」「45歳以上に思い切って振り切る番組がもっとあっていい」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中国の観光地にはこういうアイスがだいたい存在するから思い出として食べる「造形が細",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "妻に「今年一年これ以上ゲーム買わないから新しいGPU買わせて」と相談したところ「",
+      "title": "熱中症になった母がつらくて横になっていたら、心配した猫たちがいっぱい集まって来て",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "後輩とパチンコを打って近くの喫煙所でタバコを吸っていたら、かつて世間を震撼させた",
+      "title": "真相・ニュースの現場から：「火炎瓶作ってる？」突然来訪した公安警察　テロ対策の一",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "X投稿でテロ疑われ「まさか」　公安警察の捜査受けた女性が証言（毎日新聞） - Y",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "dazn ワールドカップ 無料",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "元レイバー・北アフリカ渡航経験者が記録する映画「シラート」のログ／エンディングあ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "アニメ『サイバーパンク: エッジランナーズ2』公式ティーザー2",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「本当に嘘じゃなく“泣きながら歩いて帰った“事がある靴」お人形さんみたいで可愛い",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「選んでもらう立場だからだよ」高校古典の教科書に載っている「稚児のそら寝」という",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「おまえだったのか」ドイツに熱波が来ていて、すごく暑いはずなのに家の中は涼しいの",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -151,18 +163,6 @@
       "title": "メルカリで「傷があるので安い」iPhoneを買ったら…盗品としてロックされ、メル",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "コツを押さえて失敗しない！フライパンで作るゆで卵のレシピ | デリッシュキッチン",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "愛子さま皇位継承「あり得ない」発言 自民・中曽根氏の釈明全文：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
