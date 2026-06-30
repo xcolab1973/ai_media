@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T07:40:00+09:00",
+  "generated_at": "2026-06-30T14:56:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,44 +16,67 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 10,
-    "passed_total": 116,
+    "neg_excluded": 10,
+    "dedup_excluded": 11,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "news_web": 16,
-      "yahoo_realtime": 36,
+      "yahoo_realtime": 33,
       "google_trends": 10,
-      "x_realtime": 8
+      "x_realtime": 7,
+      "news_web": 16,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "personal_story": 1,
-    "opinion": 10,
-    "medical_science": 3,
+    "social_reaction": 25,
     "policy": 11,
-    "hard_fact": 16
+    "opinion": 8,
+    "medical_science": 5,
+    "hard_fact": 21
   },
   "b2b_topic_category_counts": {
     "policy": 11,
-    "social_reaction": 29,
-    "opinion": 10,
-    "personal_story": 1,
-    "hard_fact": 18,
-    "medical_science": 1
+    "social_reaction": 25,
+    "hard_fact": 22,
+    "opinion": 8,
+    "medical_science": 4
   },
   "b2b_top10": [
     {
-      "title": "JAL補助金不正受給 2億円返還へ",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
+      "title": "「想像以上にエグかった」わずか6分でインプレッションが100万超え…『報道特集』",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
+    },
+    {
+      "title": "「まさかあの書き込みで捜査を受けるとは」衆院選を控えた時期、Xにとある言葉を含む",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "エンジンオイル不足、スズキ4割値上げ　調達も拡大し長期化に備え - 日本経済新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ワールドカップ2026 日本がブラジルに逆転負け 決勝トーナメント1回戦で敗退 ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "「なんでこうらが重いのにういてるんですか？」との質問に対するウミガメ公園の回答が",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "ドル円",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
     },
     {
       "title": "【一覧】経産省、コンテンツ産業補助金の「大規模作品支援」で27社採択…DeNA、",
@@ -62,43 +85,19 @@
       "topic_category": "policy"
     },
     {
-      "title": "元レイバー・北アフリカ渡航経験者が記録する映画「シラート」のログ／エンディングあ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「DeNAのスマホゲーに国が15億円支援」賛否、MIXI社長「たかだか15億円」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "フィリーズ 対 パイレーツ",
+      "title": "ハロー キティ スリー コインズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "惨敗",
+      "title": "新車",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "近鉄",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "サウンドハウスお姉さんTシャツ＆キーホルダーレビュー！SSRどころではない超レア",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "今井春花",
+      "title": "伊藤浩子編み物",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,28 +105,52 @@
   ],
   "note_top10": [
     {
+      "title": "「まさかあの書き込みで捜査を受けるとは」衆院選を控えた時期、Xにとある言葉を含む",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "エンジンオイル不足、スズキ4割値上げ　調達も拡大し長期化に備え - 日本経済新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ワールドカップ2026 日本がブラジルに逆転負け 決勝トーナメント1回戦で敗退 ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "「なんでこうらが重いのにういてるんですか？」との質問に対するウミガメ公園の回答が",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "元レイバー・北アフリカ渡航経験者が記録する映画「シラート」のログ／エンディングあ",
+      "title": "徹夜仕事をする予定の父「おいしいとたらふく食べて寝ちゃうから家にあるもので適当に",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "サウンドハウスお姉さんTシャツ＆キーホルダーレビュー！SSRどころではない超レア",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "一人暮らしで450Lの冷蔵庫を持つとこうなる→野菜室を開けると…「その手があるの",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "インドネシアで売られてる蚊取り線香は効き目抜群だが人間にも効いてしまうので日本製",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "大物YouTuberのHIKAKINとはじめしゃちょーの現在、大きく評価が割れて",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "韓国語でむかしむかしのことを『虎が葉巻を吸っていた頃』と表現しているのを見かけた",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
       "title": "日本、ブラジルに屈す…佐野先制点も逆転負け「ヒューストンの悲劇」3大会連続16強",
@@ -136,34 +159,10 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「選んでもらう立場だからだよ」高校古典の教科書に載っている「稚児のそら寝」という",
+      "title": "「想像以上にエグかった」わずか6分でインプレッションが100万超え…『報道特集』",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "習近平は「負けを認めない日本」を笑っている…「インドネシアの中国高速鉄道の失敗」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "セクシービデオの撮影のアルバイトをした時にやってみて意外だったのは「裸に慣れる」",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "コツを押さえて失敗しない！フライパンで作るゆで卵のレシピ | デリッシュキッチン",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "フィリーズ 対 パイレーツ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "topic_category": "policy"
     }
   ]
 }
