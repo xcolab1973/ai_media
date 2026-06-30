@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T19:44:00+09:00",
+  "generated_at": "2026-07-01T00:20:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,45 +16,57 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 11,
+    "neg_excluded": 9,
+    "dedup_excluded": 10,
     "passed_total": 113,
     "b2b_category_counts": {
       "yahoo_realtime": 36,
-      "x_realtime": 6,
-      "yahoo_news_ranking": 2,
-      "news_web": 16,
-      "google_trends": 10
+      "google_trends": 9,
+      "yahoo_news_ranking": 4,
+      "news_web": 14,
+      "x_realtime": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 22,
     "personal_story": 2,
-    "opinion": 10,
-    "medical_science": 2,
-    "policy": 13,
-    "hard_fact": 21
+    "social_reaction": 28,
+    "opinion": 9,
+    "policy": 8,
+    "hard_fact": 22,
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 22,
     "personal_story": 2,
-    "policy": 14,
-    "hard_fact": 21,
-    "opinion": 10,
+    "social_reaction": 28,
+    "policy": 8,
+    "opinion": 9,
+    "hard_fact": 22,
     "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "【閲覧注意】ナメクジって貝の仲間なのになんでも食べる日本人中国人ですら絶対食べな",
+      "title": "流行していた「賃貸フロアタイルアレンジ」だが一年使って剥がしてみたらフローリング",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "【分析】炎上するロシア、それでもプーチン氏が屈すると期待してはいけない理由",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "流行していた「賃貸フロアタイルアレンジ」だが一年使って剥がしてみたらフローリング",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
+      "title": "喉に骨が刺さって病院に行ったら1万円かかった😭",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "冴え渡ったアンチェロッティ采配…“日本攻略”の修正＆交代策に海外メディア「極めて",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "「想像以上にエグかった」わずか6分でインプレッションが100万超え…『報道特集』",
@@ -63,60 +75,66 @@
       "topic_category": "policy"
     },
     {
-      "title": "飲食料値上げ 年間2万品目ペース",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "閉山期の富士登山 禁止巡り論争に",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_local",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "弟の卒業式と自分の卒業式がかぶった時に両親は弟の方に行った…「出生時の重さの米を",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ワールドカップ2026 日本がブラジルに逆転負け 決勝トーナメント1回戦で敗退 ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ストロベリームーン",
+      "title": "皇室典範改正",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "フェルメール 展",
+      "title": "ヒカル",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "韓国人「中日韓三カ国の怪談話を色々探して読んでいたんだけど、日本の怪談が一番神秘",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "パスポート申請",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "スプラトゥーン レイダース",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "国旗損壊罪",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "【閲覧注意】ナメクジって貝の仲間なのになんでも食べる日本人中国人ですら絶対食べな",
+      "title": "流行していた「賃貸フロアタイルアレンジ」だが一年使って剥がしてみたらフローリング",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "喉に骨が刺さって病院に行ったら1万円かかった😭",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "流行していた「賃貸フロアタイルアレンジ」だが一年使って剥がしてみたらフローリング",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
+      "title": "冴え渡ったアンチェロッティ采配…“日本攻略”の修正＆交代策に海外メディア「極めて",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【分析】炎上するロシア、それでもプーチン氏が屈すると期待してはいけない理由",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ゴールドシップ、誇張じゃなくマジでファンサがエグく放牧地の一番奥からわざわざ近づ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "弟の卒業式と自分の卒業式がかぶった時に両親は弟の方に行った…「出生時の重さの米を",
@@ -125,15 +143,15 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ワールドカップ2026 日本がブラジルに逆転負け 決勝トーナメント1回戦で敗退 ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "特殊清掃業者の語る「他社が断った自死現場」が死者の几帳面さも見えて辛い、厳重に目",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "韓国人「中日韓三カ国の怪談話を色々探して読んでいたんだけど、日本の怪談が一番神秘",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「すごい…想像以上の毛玉具合だ…」ケンカしている2匹のネコが最後にギャフベロハギ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -143,27 +161,9 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "｢愛子さまと結婚する人ない｣発言でバレた…島田裕巳が読み取った｢自民党の強い焦り",
+      "title": "【セルジオ越後】結果が全て…４年前より力落ち森保采配も失敗　続投論も真の反省なし",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "小6のとき、パパが美容師の女の子が毎日休み時間にクラスの女子の髪を綺麗な編み込み",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「佐藤二朗とムロツヨシはあの監督と縁を切ってほしい」どんな弱みを握られたらあんな",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "こち亀の中川がワインを色だけで当てるコマに対して元ワイン屋が無粋だと知りながら「",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
