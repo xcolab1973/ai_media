@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T00:20:00+09:00",
+  "generated_at": "2026-07-01T07:55:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,38 +17,38 @@
       "x_realtime": 10
     },
     "neg_excluded": 9,
-    "dedup_excluded": 10,
-    "passed_total": 113,
+    "dedup_excluded": 9,
+    "passed_total": 114,
     "b2b_category_counts": {
       "yahoo_realtime": 36,
-      "google_trends": 9,
+      "google_trends": 10,
+      "x_realtime": 8,
       "yahoo_news_ranking": 4,
-      "news_web": 14,
-      "x_realtime": 7
+      "news_web": 12
     }
   },
   "note_category_counts": {
-    "personal_story": 2,
     "social_reaction": 28,
-    "opinion": 9,
-    "policy": 8,
+    "opinion": 10,
+    "personal_story": 2,
     "hard_fact": 22,
+    "policy": 7,
     "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "personal_story": 2,
-    "social_reaction": 28,
-    "policy": 8,
-    "opinion": 9,
     "hard_fact": 22,
-    "medical_science": 1
+    "social_reaction": 28,
+    "policy": 7,
+    "opinion": 10,
+    "medical_science": 1,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "流行していた「賃貸フロアタイルアレンジ」だが一年使って剥がしてみたらフローリング",
+      "title": "「何の罪にもならないのであれば、私は母を捨てたい」と苦しむ中で認知症の母を16年",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "hard_fact"
     },
     {
       "title": "【分析】炎上するロシア、それでもプーチン氏が屈すると期待してはいけない理由",
@@ -63,43 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "冴え渡ったアンチェロッティ采配…“日本攻略”の修正＆交代策に海外メディア「極めて",
+      "title": "安くて長持ちする冷凍・缶詰の果物や野菜を選ぶ時の注意点とは？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「想像以上にエグかった」わずか6分でインプレッションが100万超え…『報道特集』",
+      "title": "〈富士山は“登ってはいけない山”になるのか〉「考え方がズルい」市長発言にクライマ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "皇室典範改正",
+      "title": "めざまし占い",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ヒカル",
+      "title": "ビットコイン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "パスポート申請",
+      "title": "ここ家賃9000円…どれほどの地獄かとビビってたけど、普通に住めててお得！→お隣",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "フィジカルai",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "スプラトゥーン レイダース",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "国旗損壊罪",
+      "title": "nvda",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,10 +107,10 @@
   ],
   "note_top10": [
     {
-      "title": "流行していた「賃貸フロアタイルアレンジ」だが一年使って剥がしてみたらフローリング",
+      "title": "安くて長持ちする冷凍・缶詰の果物や野菜を選ぶ時の注意点とは？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
       "title": "喉に骨が刺さって病院に行ったら1万円かかった😭",
@@ -119,9 +119,9 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "冴え渡ったアンチェロッティ采配…“日本攻略”の修正＆交代策に海外メディア「極めて",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "ここ家賃9000円…どれほどの地獄かとビビってたけど、普通に住めててお得！→お隣",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -131,37 +131,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ゴールドシップ、誇張じゃなくマジでファンサがエグく放牧地の一番奥からわざわざ近づ",
+      "title": "自分の分のアイスを買うとき息子に食べられてしまわないようにミント味を買うようにし",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "弟の卒業式と自分の卒業式がかぶった時に両親は弟の方に行った…「出生時の重さの米を",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "特殊清掃業者の語る「他社が断った自死現場」が死者の几帳面さも見えて辛い、厳重に目",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「すごい…想像以上の毛玉具合だ…」ケンカしている2匹のネコが最後にギャフベロハギ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "郵便局で、心が弾む絵本との出会いを。ポプラ社と日本郵便による、児童書販売のトライ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
     },
     {
       "title": "【セルジオ越後】結果が全て…４年前より力落ち森保采配も失敗　続投論も真の反省なし",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "めざまし占い",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ビットコイン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "トランプ政権の「出生地主義」見直し、米最高裁が「違憲」判断…「不法滞在者から生ま",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "スプラトゥーン レイダース Direct 2026.6.30",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
