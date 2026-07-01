@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T15:10:00+09:00",
+  "generated_at": "2026-07-01T19:57:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,70 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
+    "neg_excluded": 8,
     "dedup_excluded": 11,
-    "passed_total": 109,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
+      "news_web": 17,
+      "x_realtime": 7,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "news_web": 16,
-      "yahoo_news_ranking": 6,
-      "x_realtime": 4
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "personal_story": 4,
-    "social_reaction": 23,
-    "opinion": 9,
-    "policy": 6,
-    "medical_science": 3,
-    "hard_fact": 25
+    "social_reaction": 29,
+    "personal_story": 3,
+    "opinion": 10,
+    "medical_science": 2,
+    "hard_fact": 21,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
+    "hard_fact": 20,
+    "social_reaction": 29,
+    "opinion": 10,
     "policy": 6,
-    "social_reaction": 23,
-    "opinion": 9,
-    "personal_story": 4,
-    "hard_fact": 25,
-    "medical_science": 3
+    "medical_science": 2,
+    "personal_story": 3
   },
   "b2b_top10": [
+    {
+      "title": "スムージー再び半額へ セブン対策",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "風呂場の換気をする時はドアを閉めて！ドアや窓が空いていると設計通りの換気ができず",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『デッドプール：SAMURAI』『スパイダーマン：絆』など集英社とMARVELの",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "橋本愛（30）が号泣した佐藤二朗（57）の“爆弾ハラスメント”「彼女の楽屋に乗",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "高嶋ちさ子",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "山下健二郎の番組終了 広告主事情",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_entertainment",
+      "topic_category": "hard_fact"
+    },
     {
       "title": "トランプ氏の看板政策に痛手、米最高裁が「出生地主義」見直しは「違憲」と判断",
       "source_category": "yahoo_realtime",
@@ -51,55 +87,19 @@
       "topic_category": "policy"
     },
     {
-      "title": "旅先からトコジラミを持って帰らないようにするために、鞄の外と中に『ゼロノナイト』",
+      "title": "中国では抗日ドラマが多かった時代があるが、史実にない爆美女の帝国軍人が「けがらわ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "三菱自動車もホンダも中国を捨てて本当によかった…\"勝ちすぎたドイツ車メーカー\"が",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ロシア人男性から「どうやったら日本に住める？」と頻繁に訊かれるので「税金高いし路",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "雨",
+      "title": "玉森裕太",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "小4〜高1まで欧州に滞在して帰国後、数年に渡って日本のソーセージやハム、パスタ、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "那須塩原市",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "アドマイヤテラ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "エース小吉",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "毎日放送",
+      "title": "エフエヌエス歌謡祭タイムテーブル",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,34 +107,46 @@
   ],
   "note_top10": [
     {
+      "title": "風呂場の換気をする時はドアを閉めて！ドアや窓が空いていると設計通りの換気ができず",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "橋本愛（30）が号泣した佐藤二朗（57）の“爆弾ハラスメント”「彼女の楽屋に乗",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中国では抗日ドラマが多かった時代があるが、史実にない爆美女の帝国軍人が「けがらわ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「1年目だけど大学ってこんなもんなの？」朝8:00にあった授業中止の連絡が9:4",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「滝壺は慌てて上に出ようとするともれなく死にます」川で大量の水が流れ落ちているよ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ロッテンマイヤーさんのイメージが…」アン・サリヴァン先生がヘレン・ケラーのもと",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "小4〜高1まで欧州に滞在して帰国後、数年に渡って日本のソーセージやハム、パスタ、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
-    },
-    {
-      "title": "旅先からトコジラミを持って帰らないようにするために、鞄の外と中に『ゼロノナイト』",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "三菱自動車もホンダも中国を捨てて本当によかった…\"勝ちすぎたドイツ車メーカー\"が",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ロシア人男性から「どうやったら日本に住める？」と頻繁に訊かれるので「税金高いし路",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ここ家賃9000円…どれほどの地獄かとビビってたけど、普通に住めててお得！→お隣",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
     },
     {
       "title": "「帰省したくない」実家や地元が苦手で夏休み・お盆休みが憂鬱　人間関係のヒントと心",
@@ -143,25 +155,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "蒲鉾工場で人生を取り戻してきたよ　かまぼこづくり体験教室と工場見学を楽しみ尽くす",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "高嶋ちさ子",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "防衛省、LUUP導入　「庁舎内の移動をスムーズに」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ペットOKの物件ということで、猫を迎えるのに申請をしたが、まさかの「否認」 なん",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "モナコの住宅で爆発、「暗殺未遂」でウクライナ出身の富豪が負傷",
+      "title": "S&P500やオルカンに投資してる人は、将来、「全世界版 失われた30年」なんか",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
