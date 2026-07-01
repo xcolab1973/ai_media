@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T07:55:00+09:00",
+  "generated_at": "2026-07-01T15:10:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 9,
-    "passed_total": 114,
+    "neg_excluded": 12,
+    "dedup_excluded": 11,
+    "passed_total": 109,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
+      "yahoo_realtime": 34,
       "google_trends": 10,
-      "x_realtime": 8,
-      "yahoo_news_ranking": 4,
-      "news_web": 12
+      "news_web": 16,
+      "yahoo_news_ranking": 6,
+      "x_realtime": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "opinion": 10,
-    "personal_story": 2,
-    "hard_fact": 22,
-    "policy": 7,
-    "medical_science": 1
+    "personal_story": 4,
+    "social_reaction": 23,
+    "opinion": 9,
+    "policy": 6,
+    "medical_science": 3,
+    "hard_fact": 25
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 22,
-    "social_reaction": 28,
-    "policy": 7,
-    "opinion": 10,
-    "medical_science": 1,
-    "personal_story": 2
+    "policy": 6,
+    "social_reaction": 23,
+    "opinion": 9,
+    "personal_story": 4,
+    "hard_fact": 25,
+    "medical_science": 3
   },
   "b2b_top10": [
     {
-      "title": "「何の罪にもならないのであれば、私は母を捨てたい」と苦しむ中で認知症の母を16年",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "【分析】炎上するロシア、それでもプーチン氏が屈すると期待してはいけない理由",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "喉に骨が刺さって病院に行ったら1万円かかった😭",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "安くて長持ちする冷凍・缶詰の果物や野菜を選ぶ時の注意点とは？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "〈富士山は“登ってはいけない山”になるのか〉「考え方がズルい」市長発言にクライマ",
+      "title": "トランプ氏の看板政策に痛手、米最高裁が「出生地主義」見直しは「違憲」と判断",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "めざまし占い",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ビットコイン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ここ家賃9000円…どれほどの地獄かとビビってたけど、普通に住めててお得！→お隣",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "旅先からトコジラミを持って帰らないようにするために、鞄の外と中に『ゼロノナイト』",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "フィジカルai",
+      "title": "三菱自動車もホンダも中国を捨てて本当によかった…\"勝ちすぎたドイツ車メーカー\"が",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ロシア人男性から「どうやったら日本に住める？」と頻繁に訊かれるので「税金高いし路",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "雨",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "nvda",
+      "title": "小4〜高1まで欧州に滞在して帰国後、数年に渡って日本のソーセージやハム、パスタ、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "那須塩原市",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "アドマイヤテラ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "エース小吉",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "毎日放送",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
-      "title": "安くて長持ちする冷凍・缶詰の果物や野菜を選ぶ時の注意点とは？",
+      "title": "小4〜高1まで欧州に滞在して帰国後、数年に渡って日本のソーセージやハム、パスタ、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "旅先からトコジラミを持って帰らないようにするために、鞄の外と中に『ゼロノナイト』",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "喉に骨が刺さって病院に行ったら1万円かかった😭",
+      "title": "三菱自動車もホンダも中国を捨てて本当によかった…\"勝ちすぎたドイツ車メーカー\"が",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ロシア人男性から「どうやったら日本に住める？」と頻繁に訊かれるので「税金高いし路",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "ここ家賃9000円…どれほどの地獄かとビビってたけど、普通に住めててお得！→お隣",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【分析】炎上するロシア、それでもプーチン氏が屈すると期待してはいけない理由",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "自分の分のアイスを買うとき息子に食べられてしまわないようにミント味を買うようにし",
+      "title": "「帰省したくない」実家や地元が苦手で夏休み・お盆休みが憂鬱　人間関係のヒントと心",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【セルジオ越後】結果が全て…４年前より力落ち森保采配も失敗　続投論も真の反省なし",
+      "title": "蒲鉾工場で人生を取り戻してきたよ　かまぼこづくり体験教室と工場見学を楽しみ尽くす",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "防衛省、LUUP導入　「庁舎内の移動をスムーズに」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "めざまし占い",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ビットコイン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "トランプ政権の「出生地主義」見直し、米最高裁が「違憲」判断…「不法滞在者から生ま",
+      "title": "ペットOKの物件ということで、猫を迎えるのに申請をしたが、まさかの「否認」 なん",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "スプラトゥーン レイダース Direct 2026.6.30",
+      "title": "モナコの住宅で爆発、「暗殺未遂」でウクライナ出身の富豪が負傷",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
