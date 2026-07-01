@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T00:32:00+09:00",
+  "generated_at": "2026-07-02T07:50:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,38 +17,56 @@
       "x_realtime": 10
     },
     "neg_excluded": 10,
-    "dedup_excluded": 10,
-    "passed_total": 112,
+    "dedup_excluded": 12,
+    "passed_total": 110,
     "b2b_category_counts": {
+      "yahoo_realtime": 31,
       "x_realtime": 8,
-      "yahoo_realtime": 33,
-      "news_web": 17,
       "google_trends": 10,
+      "news_web": 19,
       "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "personal_story": 2,
+    "social_reaction": 24,
+    "personal_story": 1,
     "opinion": 10,
-    "medical_science": 3,
-    "hard_fact": 22,
-    "policy": 5
+    "medical_science": 2,
+    "policy": 7,
+    "hard_fact": 26
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
-    "hard_fact": 22,
+    "social_reaction": 24,
+    "policy": 7,
     "opinion": 10,
-    "medical_science": 3,
-    "policy": 5,
-    "personal_story": 2
+    "hard_fact": 26,
+    "medical_science": 2,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "「前リュックは迷惑、手に持って」と鉄道会社は呼びかけるけど、防犯・痴漢冤罪・足元",
+      "title": "「親子のクマらしき動物4頭が川の方から出てきた」京都で観光客が通報　注意呼び掛け",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "PayPay、他社クレカを使うなら「利用券」が必要に　8月末で従来方式は終了",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "とある書店でナツコミの特典配布が急遽中止に… 理由について「ルールをお守りいただ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "《親子揃って“時代錯誤”》自民・中曽根氏　愛子さまめぐる“不適切”発言で大炎上…",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
     },
     {
       "title": "超ときめき♡宣伝部より大切なお知らせ",
@@ -57,10 +75,16 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "PayPay、他社クレカ使用は「利用券」が必要に　従来方式は8月末で終了",
+      "title": "米最高裁、出生地主義を堅持　トランプ氏の不法移民対策に打撃",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "policy"
+    },
+    {
+      "title": "ミルク 宝塚",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "PS新作ゲーム ディスク版終了へ",
@@ -69,37 +93,13 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "『デッドプール：SAMURAI』『スパイダーマン：絆』など集英社とMARVELの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "「なんだこれ。チャンスか？」慶應アメフト部→電通→プルデンシャル生命保険で最年少",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "草間リチャード敬太",
+      "title": "フィリーズ 対 パイレーツ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "england vs dr congo",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "松井珠理奈",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "出口クリスタ",
+      "title": "トロサール",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,7 +107,19 @@
   ],
   "note_top10": [
     {
-      "title": "「前リュックは迷惑、手に持って」と鉄道会社は呼びかけるけど、防犯・痴漢冤罪・足元",
+      "title": "「親子のクマらしき動物4頭が川の方から出てきた」京都で観光客が通報　注意呼び掛け",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "PayPay、他社クレカを使うなら「利用券」が必要に　8月末で従来方式は終了",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "とある書店でナツコミの特典配布が急遽中止に… 理由について「ルールをお守りいただ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -119,40 +131,28 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "PayPay、他社クレカ使用は「利用券」が必要に　従来方式は8月末で終了",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「なんだこれ。チャンスか？」慶應アメフト部→電通→プルデンシャル生命保険で最年少",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中国では抗日ドラマが多かった時代があるが、史実にない爆美女の帝国軍人が「けがらわ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "”虚無の味”どころではない、阿鼻叫喚のレビューが集まるトップバリュの餃子…しかし",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ヘビ毒の血清はだいたい(一財)日本蛇族学術研究所が作っているが財政キツキツっぽい",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "佐藤二朗　ハラスメント報道にコメント「大変残念。事実明らかに」　所属事務所「到底",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ナ マ モ ノ」フォロワーからとんでもない品名の届け物が送られてくるが、テロす",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "初めての葬式の火葬で「喉仏でございます」と職員に説明されて「それ軸椎」と指摘した",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ミルク 宝塚",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "他社クレジットカード継続利用の方法について - PayPayからのお知らせ",
