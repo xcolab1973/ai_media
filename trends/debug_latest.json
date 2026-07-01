@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T19:57:00+09:00",
+  "generated_at": "2026-07-02T00:32:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,45 +16,57 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 11,
-    "passed_total": 113,
+    "neg_excluded": 10,
+    "dedup_excluded": 10,
+    "passed_total": 112,
     "b2b_category_counts": {
+      "x_realtime": 8,
+      "yahoo_realtime": 33,
       "news_web": 17,
-      "x_realtime": 7,
-      "yahoo_realtime": 35,
       "google_trends": 10,
-      "yahoo_news_ranking": 1
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "personal_story": 3,
+    "social_reaction": 28,
+    "personal_story": 2,
     "opinion": 10,
-    "medical_science": 2,
-    "hard_fact": 21,
+    "medical_science": 3,
+    "hard_fact": 22,
     "policy": 5
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 20,
-    "social_reaction": 29,
+    "social_reaction": 28,
+    "hard_fact": 22,
     "opinion": 10,
-    "policy": 6,
-    "medical_science": 2,
-    "personal_story": 3
+    "medical_science": 3,
+    "policy": 5,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "スムージー再び半額へ セブン対策",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "風呂場の換気をする時はドアを閉めて！ドアや窓が空いていると設計通りの換気ができず",
+      "title": "「前リュックは迷惑、手に持って」と鉄道会社は呼びかけるけど、防犯・痴漢冤罪・足元",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "超ときめき♡宣伝部より大切なお知らせ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "PayPay、他社クレカ使用は「利用券」が必要に　従来方式は8月末で終了",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "PS新作ゲーム ディスク版終了へ",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     },
     {
       "title": "『デッドプール：SAMURAI』『スパイダーマン：絆』など集英社とMARVELの",
@@ -63,43 +75,31 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "橋本愛（30）が号泣した佐藤二朗（57）の“爆弾ハラスメント”「彼女の楽屋に乗",
+      "title": "「なんだこれ。チャンスか？」慶應アメフト部→電通→プルデンシャル生命保険で最年少",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "高嶋ちさ子",
+      "title": "草間リチャード敬太",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "山下健二郎の番組終了 広告主事情",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_entertainment",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "トランプ氏の看板政策に痛手、米最高裁が「出生地主義」見直しは「違憲」と判断",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "中国では抗日ドラマが多かった時代があるが、史実にない爆美女の帝国軍人が「けがらわ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "玉森裕太",
+      "title": "england vs dr congo",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "エフエヌエス歌謡祭タイムテーブル",
+      "title": "松井珠理奈",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "出口クリスタ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,13 +107,25 @@
   ],
   "note_top10": [
     {
-      "title": "風呂場の換気をする時はドアを閉めて！ドアや窓が空いていると設計通りの換気ができず",
+      "title": "「前リュックは迷惑、手に持って」と鉄道会社は呼びかけるけど、防犯・痴漢冤罪・足元",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "橋本愛（30）が号泣した佐藤二朗（57）の“爆弾ハラスメント”「彼女の楽屋に乗",
+      "title": "超ときめき♡宣伝部より大切なお知らせ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "PayPay、他社クレカ使用は「利用券」が必要に　従来方式は8月末で終了",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「なんだこれ。チャンスか？」慶應アメフト部→電通→プルデンシャル生命保険で最年少",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,43 +137,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「1年目だけど大学ってこんなもんなの？」朝8:00にあった授業中止の連絡が9:4",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「滝壺は慌てて上に出ようとするともれなく死にます」川で大量の水が流れ落ちているよ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ロッテンマイヤーさんのイメージが…」アン・サリヴァン先生がヘレン・ケラーのもと",
+      "title": "”虚無の味”どころではない、阿鼻叫喚のレビューが集まるトップバリュの餃子…しかし",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "小4〜高1まで欧州に滞在して帰国後、数年に渡って日本のソーセージやハム、パスタ、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "ヘビ毒の血清はだいたい(一財)日本蛇族学術研究所が作っているが財政キツキツっぽい",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "「帰省したくない」実家や地元が苦手で夏休み・お盆休みが憂鬱　人間関係のヒントと心",
+      "title": "佐藤二朗　ハラスメント報道にコメント「大変残念。事実明らかに」　所属事務所「到底",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "高嶋ちさ子",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "他社クレジットカード継続利用の方法について - PayPayからのお知らせ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "S&P500やオルカンに投資してる人は、将来、「全世界版 失われた30年」なんか",
+      "title": "軽くて小さい中華包丁は使いやすい - 黒色中国BLOG",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
