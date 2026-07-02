@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T19:22:00+09:00",
+  "generated_at": "2026-07-03T00:00:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,42 +16,48 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 4,
+    "neg_excluded": 8,
     "dedup_excluded": 10,
-    "passed_total": 118,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 25,
-      "x_realtime": 9,
+      "x_realtime": 8,
+      "yahoo_realtime": 33,
       "google_trends": 10,
-      "news_web": 15,
-      "yahoo_news_ranking": 11
+      "news_web": 16,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "personal_story": 3,
+    "social_reaction": 32,
+    "personal_story": 1,
     "opinion": 10,
-    "hard_fact": 18,
-    "medical_science": 3,
-    "policy": 3
+    "medical_science": 4,
+    "hard_fact": 21,
+    "policy": 2
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 29,
-    "social_reaction": 25,
-    "personal_story": 2,
+    "social_reaction": 32,
+    "hard_fact": 22,
     "opinion": 10,
-    "medical_science": 2,
+    "medical_science": 3,
+    "personal_story": 1,
     "policy": 2
   },
   "b2b_top10": [
     {
-      "title": "【速報】フジテレビ、男性俳優を厳重注意",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "title": "【虫注意】農家に生まれて50年、見つけて触るのは年に1回あるかないかの珍しい虫「",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "ネット民はSNS中心で考えてしまいがちだが…映画「ケロロ軍曹」の公開記念イベント",
+      "title": "生食用の鶏肉 衛生基準などのガイドライン初めて策定へ 厚労省 | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ちょっとしたイタズラのつもりが、一生歩けなくなるリスクのある危険な行為」子供が",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -63,43 +69,37 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "祖母を高野山の宿坊体験に連れて行く事になったが、2022年はどこも一泊一万円台だ",
+      "title": "【速報】フジテレビ、男性俳優を厳重注意",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "hard_fact"
     },
     {
-      "title": "ガス人間",
+      "title": "『ネコは繁殖力が非常に高い』",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "佐藤二朗と橋本愛の件は誰がどう悪かったのかを整理した文章が話題に…「顎に触れたと",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "アイドル",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "せいや",
+      "title": "田久保眞紀",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "4者連続ホームラン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "国立競技場",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "増田大輝",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "佳子 内親王",
+      "title": "ベイスターズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,9 +107,39 @@
   ],
   "note_top10": [
     {
-      "title": "ネット民はSNS中心で考えてしまいがちだが…映画「ケロロ軍曹」の公開記念イベント",
+      "title": "生食用の鶏肉 衛生基準などのガイドライン初めて策定へ 厚労省 | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【虫注意】農家に生まれて50年、見つけて触るのは年に1回あるかないかの珍しい虫「",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ちょっとしたイタズラのつもりが、一生歩けなくなるリスクのある危険な行為」子供が",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『ネコは繁殖力が非常に高い』",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "佐藤二朗と橋本愛の件は誰がどう悪かったのかを整理した文章が話題に…「顎に触れたと",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東京 小学校火事 電気ストーブは音楽教諭の私物 私服など干す | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -119,9 +149,9 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "祖母が50代で「人生は何でも思い通りになる」と気がついて運気が爆裂向上し始め、8",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "文庫なのに値段が高すぎることで有名な講談社学術文庫と選書メチエがKindleの夏",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -131,37 +161,7 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「タイミーさん」と呼ばれて働いたのに…「直前キャンセル」めぐる全国初の集団訴訟は",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "最近短期留学から帰ってきた友達のインスタを見ているとついつい冷笑したくなってしま",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "仕事辞めるときに上司から「お前なんかどこ行っても通用しない」と言われ、「でも私は",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "佐藤二朗と橋本愛の件は誰がどう悪かったのかを整理した文章が話題に…「顎に触れたと",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "「日本は新鮮な刺身はあるがペラペラのベーコンしかない」日本人的な生活を米国でやろ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "椎名林檎×成田悠輔「親密デート＆密会現場…そしてそのままラブホへ…」撮った | ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
