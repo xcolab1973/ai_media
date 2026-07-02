@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T14:43:00+09:00",
+  "generated_at": "2026-07-02T19:22:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,46 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 13,
-    "passed_total": 113,
+    "neg_excluded": 4,
+    "dedup_excluded": 10,
+    "passed_total": 118,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
-      "news_web": 16,
+      "yahoo_realtime": 25,
+      "x_realtime": 9,
       "google_trends": 10,
-      "x_realtime": 5,
-      "yahoo_news_ranking": 7
+      "news_web": 15,
+      "yahoo_news_ranking": 11
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
-    "personal_story": 2,
+    "social_reaction": 33,
+    "personal_story": 3,
     "opinion": 10,
-    "hard_fact": 22,
+    "hard_fact": 18,
     "medical_science": 3,
-    "policy": 1
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 26,
-    "social_reaction": 29,
-    "opinion": 10,
+    "hard_fact": 29,
+    "social_reaction": 25,
     "personal_story": 2,
-    "policy": 1,
-    "medical_science": 2
+    "opinion": 10,
+    "medical_science": 2,
+    "policy": 2
   },
   "b2b_top10": [
+    {
+      "title": "【速報】フジテレビ、男性俳優を厳重注意",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "ネット民はSNS中心で考えてしまいがちだが…映画「ケロロ軍曹」の公開記念イベント",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "フジテレビ、佐藤二朗主演ドラマめぐる『文春』報道にコメント「再発防止を求めたこと",
       "source_category": "yahoo_realtime",
@@ -51,55 +63,43 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "塩貝健人の発言 なぜここまで炎上",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "危険運転に「新基準」捜査の懸念",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "本屋にはブックカバーするより本を紙でくるんでほしい",
+      "title": "祖母を高野山の宿坊体験に連れて行く事になったが、2022年はどこも一泊一万円台だ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "オカムラ食品工業「青森サーモン」ガチレビュー！刺身派がしっとり感に大感動本音口コ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "埼玉新聞",
+      "title": "ガス人間",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "dayday.",
+      "title": "せいや",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "国がすすめるNISAとかをやっとかないと、とは思うが、祖母の「戦中に買った国債全",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "4者連続ホームラン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "『週刊文春』で俳優の佐藤二朗さんが橋本愛さんにハラスメントを行ったと報じられる→",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "title": "国立競技場",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "電気自動車",
+      "title": "増田大輝",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "佳子 内親王",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
-      "title": "オカムラ食品工業「青森サーモン」ガチレビュー！刺身派がしっとり感に大感動本音口コ",
+      "title": "ネット民はSNS中心で考えてしまいがちだが…映画「ケロロ軍曹」の公開記念イベント",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "祖母を高野山の宿坊体験に連れて行く事になったが、2022年はどこも一泊一万円台だ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "祖母が50代で「人生は何でも思い通りになる」と気がついて運気が爆裂向上し始め、8",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「初音ミク」をデザインしたストリートピアノ『LovePiano feat. HA",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "本屋にはブックカバーするより本を紙でくるんでほしい",
+      "title": "「タイミーさん」と呼ばれて働いたのに…「直前キャンセル」めぐる全国初の集団訴訟は",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "国がすすめるNISAとかをやっとかないと、とは思うが、祖母の「戦中に買った国債全",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "最近短期留学から帰ってきた友達のインスタを見ているとついつい冷笑したくなってしま",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "過酷さを知ってもらうために、高校生に介護バイトをしてもらうのは？→活気のある高校",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "人の一生を8ページだけで描く。超高密度に描かれた「やっぱ人間なんだよな」～いがら",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "転職先に初出勤して早々にITの筆記テスト…全く分からずに提出したら、担当の人から",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "いじめでランドセルを便器に入れられたが、いじめっ子がどんな気持ちでやったのか知り",
+      "title": "仕事辞めるときに上司から「お前なんかどこ行っても通用しない」と言われ、「でも私は",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
     },
     {
-      "title": "その国には奇妙な伝統がある、14歳のときに必ず行かなければならない修学旅行で“裸",
+      "title": "佐藤二朗と橋本愛の件は誰がどう悪かったのかを整理した文章が話題に…「顎に触れたと",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "無印良品の爪切り、一生これ以外を使いたくなくなる切れ味。どこが作っているんだろう",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「日本は新鮮な刺身はあるがペラペラのベーコンしかない」日本人的な生活を米国でやろ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "純烈・酒井一圭が語る「オタクの終活」。ファン高齢化で実家や財産の話があがる中、遺",
+      "title": "椎名林檎×成田悠輔「親密デート＆密会現場…そしてそのままラブホへ…」撮った | ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
