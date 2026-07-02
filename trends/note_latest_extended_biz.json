@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-02T06:46:48+09:00",
+ "generated_at": "2026-07-02T11:53:36+09:00",
  "valid_until": "2026-07-15T06:38:30+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "biz",
   "from_current": 23,
-  "from_new": 4,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 3,
+  "retention_dropped": 1,
   "genres": 3,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "決算で在庫が多いとどうなる？減らすべき理由・過剰在庫への対処法",
+   "url": "https://www.fmclub.jp/blog/zaimu/181",
+   "summary": "売れ残り在庫は決算期末に課税対象になるため、夏の閑散期・下半期決算前の在庫処分セールは節税にもつながる。EC事業者が季節の変わり目に在庫と資金繰りをどう整理するかという二次質問が生まれやすい領域。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "biz-ec-shop",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "株式会社エフアンドエム",
+    "expert_origin": true,
+    "search_query": "ネットショップ 夏 在庫処分 セール 下半期 決算準備 個人事業主 悩み OKWAVE",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": true,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-07T11:44:55+09:00",
+   "validity_days": 5
+  },
   {
    "source_category": "news_web",
    "raw_title": "インボイス制度の2割特例が終わった後どうする？2026年10月以降の消費税申告で損しないための準備ガイド",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-06T06:38:30+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "インボイス経過措置が2026年10月に80%→70%縮小：EC事業者の免税仕入先コスト増と帳簿区分対応",
-   "url": "https://www.fas-calm.co.jp/blog/2025/12/17/invoice-keikasochi-menzei-taiou-2026/",
-   "summary": "2026年10月1日以降、免税事業者からの仕入れに適用できる仕入税額控除率が80%から70%に引き下げ。以降2028年9月まで70%、2030年9月まで50%、2031年9月まで30%と段階縮小。免税の小規模仕入先や個人ハンドメイド作家から仕入れるEC事業者は毎改定ごとに実質コストが上昇。帳簿記載に「70%控除対象」等の区分記載が必要で経理処理の手間も増大する。値下げ要求か課税転換促進かの経営判断が迫られる。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "biz-ec-shop",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "fas-calm会計事務所",
-    "expert_origin": true,
-    "search_query": "インボイス 経過措置 80% 70% 2026年10月 ECサイト 仕入先 免税事業者 対応",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-05T16:43:05+09:00",
    "validity_days": 5
   },
   {
