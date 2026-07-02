@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-07-02T06:46:48+09:00",
- "valid_until": "2026-07-15T11:51:56+09:00",
+ "generated_at": "2026-07-02T16:51:38+09:00",
+ "valid_until": "2026-07-16T16:43:37+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "mgmt",
- "total_count": 25,
+ "total_count": 26,
  "merge": {
   "parent": "mgmt",
   "from_current": 25,
-  "from_new": 5,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 5,
+  "retention_dropped": 0,
   "genres": 4,
   "retention_per_genre": 8
  },
@@ -674,6 +674,36 @@
     "rescued": false
    },
    "valid_until": "2026-07-13T11:49:57+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "カスハラ対策義務化について｜人事のQ&A『日本の人事部』",
+   "url": "https://jinjibu.jp/qa/detl/160771/1/",
+   "summary": "人事担当者が「法改正でカスハラ対策が義務化されるが、具体的に何をどこまで行えばいいか分からない」と相談。社労士から方針明確化・相談窓口設置・対応マニュアル整備など7項目の実務対応と就業規則条文例が回答された。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "mgmt-orga",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "日本の人事部Q&A",
+    "expert_origin": false,
+    "search_query": "カスハラ対策 就業規則 何から手をつければ 中小企業 悩み OKWAVE",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-16T16:43:37+09:00",
    "validity_days": 14
   },
   {
