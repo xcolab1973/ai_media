@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T07:44:00+09:00",
+  "generated_at": "2026-07-03T14:35:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,54 +16,84 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 10,
-    "passed_total": 113,
+    "neg_excluded": 7,
+    "dedup_excluded": 13,
+    "passed_total": 112,
     "b2b_category_counts": {
       "yahoo_realtime": 33,
       "google_trends": 10,
       "news_web": 16,
-      "x_realtime": 7,
-      "yahoo_news_ranking": 4
+      "yahoo_news_ranking": 5,
+      "x_realtime": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "opinion": 9,
-    "personal_story": 1,
+    "social_reaction": 26,
+    "hard_fact": 27,
+    "opinion": 10,
     "medical_science": 5,
-    "hard_fact": 23,
-    "policy": 3
+    "personal_story": 1,
+    "policy": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "opinion": 9,
-    "hard_fact": 24,
-    "policy": 3,
-    "medical_science": 4,
-    "personal_story": 1
+    "hard_fact": 29,
+    "social_reaction": 26,
+    "opinion": 10,
+    "medical_science": 3,
+    "personal_story": 1,
+    "policy": 1
   },
   "b2b_top10": [
     {
-      "title": "佐藤二朗と橋本愛の件で…元役者が「役者の世界」はそれが正しいとは言わないが「芝居",
+      "title": "「嘘はやめて下さい。」佐藤二朗さんがハラスメント騒動に更なる反論、さらに佐藤さん",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "3DO復活計画、1週間でスピード終了　権利をほぼ持たないまま見切り発車（多根清史",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "フジテレビ　佐藤二朗に厳重注意　接触よりも発した言葉を問題視（スポニチアネックス",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "ピザ１枚いくらで買える？…「物を買う力」測る実質実効為替レート、「円」は半分程度",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "現在妊娠12週、よく「フランスと日本の妊娠・出産の違いって何？」と聞かれるが今な",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ポルトガル 対 クロアチア",
+      "title": "津波予報",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "渋谷の危険盛り土 告発状を受理",
+      "title": "クマ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "クロアチア「幻の劇的弾」が波紋",
       "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
+      "raw_source_key": "yahoo_news_sports",
       "topic_category": "hard_fact"
     },
     {
-      "title": "生食用の鶏肉 衛生基準などのガイドライン初めて策定へ 厚労省 | NHKニュース",
+      "title": "日本がサッカーW杯優勝のために必要なのは野球の世界浸透だ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -73,47 +103,11 @@
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
-    },
-    {
-      "title": "日本がサッカーW杯優勝のために必要なのは野球の世界浸透だ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『ネコは繁殖力が非常に高い』",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "阿部亮平",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "トイストーリー5",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "portugal vs croatia",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "生食用の鶏肉 衛生基準などのガイドライン初めて策定へ 厚労省 | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "佐藤二朗と橋本愛の件で…元役者が「役者の世界」はそれが正しいとは言わないが「芝居",
+      "title": "現在妊娠12週、よく「フランスと日本の妊娠・出産の違いって何？」と聞かれるが今な",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,46 +119,52 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "『ネコは繁殖力が非常に高い』",
+      "title": "「うさぎ」を英語で言うと「Rabbit」ですが…なんと英語の「Rabbit」は日",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ノーサブウェイ、ノーサンドウィッチ、ノー」外国人にサブウェイはどこと聞かれたの",
+      "title": "玄関のベルが鳴って出てみたら向かいの小1の坊やが「お母さんがいなくておうちに入れ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "高校演劇の経験者が乞食の役をするために3日間絶食したり先輩と「何日絶食すべきか」",
+      "title": "ノブコブ吉村崇が語る北海道の実家じまい。80代の父「雪かきがない暮らし」のために",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『邦画プレゼン女子高生　邦キチ！ 映子さん』Season16／1本目 ゴジラの逆",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ああ新作映画で制作陣が良かれと思って投入した要素がファンに受けず爆死」なんてよ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「障害者の関係者なら本当に嬉しい」佳子様が公務でお召しになっていたワンピースが「",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ポルトガル 対 クロアチア",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ヤニねこ 第1話「ニャーがヤニねこにゃ」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "期待通りの最高の作画でライン超えのお下品ギャグ満載だったアニメ「ヤニねこ」がトレ",
+      "title": "「ひさびさに幸福の科学カフェきた」AV女優がInstagramに投稿したストーリ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "祖母を高野山の宿坊体験に連れて行く事になったが、2022年はどこも一泊一万円台だ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "喪主「霊柩車って緑ナンバーだから二種免許ないと運転できないの？」私「いらないです",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ]
 }
