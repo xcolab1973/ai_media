@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-03T09:49:32+09:00",
+ "generated_at": "2026-07-03T11:50:30+09:00",
  "valid_until": "2026-07-15T06:43:42+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "sports",
   "from_current": 16,
-  "from_new": 2,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 2,
+  "retention_dropped": 1,
   "genres": 2,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "一般財団法人 東京都高等学校野球連盟 試合日程について",
+   "url": "https://www.tokyo-hbf.com/schedule.php",
+   "summary": "東京都高等学校野球連盟公式サイト。第108回夏の東京大会は7月4日から試合開始、西東京決勝7月26日・東東京決勝7月27日の日程。予選観戦を計画する読者が地区別の組み合わせ・会場を確認する際の一次情報源。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "official_instruction",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "sports-watch",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "東京都高等学校野球連盟（公式）",
+    "expert_origin": true,
+    "search_query": "高校野球 東東京 西東京 予選 組み合わせ 日程 2026年7月",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-08T11:48:57+09:00",
+   "validity_days": 5
+  },
   {
    "source_category": "news_web",
    "raw_title": "《チケット》夏の甲子園2026年発売日・料金《前売券・当日券》",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-07T11:50:34+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "ファン投票実施要項｜マイナビオールスターゲーム2026",
-   "url": "https://npb.jp/allstar/2026/fanballot.html",
-   "summary": "2026年のNPBオールスターは7月28・29日に東京ドームと富山市民球場で開催。ファン投票は投手・野手各ポジション別に投票し、規定試合数・打席数を満たした選手が対象。選手間投票・監督推薦と合わせ複数段階で選出される仕組み。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "sports-watch",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "NPB.jp 日本野球機構",
-    "expert_origin": true,
-    "search_query": "プロ野球 オールスター 2026 ファン投票 見どころ 初心者",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-07T06:44:04+09:00",
    "validity_days": 5
   },
   {
