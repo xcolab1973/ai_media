@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T14:35:00+09:00",
+  "generated_at": "2026-07-03T19:19:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,41 +17,47 @@
       "x_realtime": 10
     },
     "neg_excluded": 7,
-    "dedup_excluded": 13,
-    "passed_total": 112,
+    "dedup_excluded": 12,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
+      "yahoo_realtime": 31,
+      "news_web": 11,
       "google_trends": 10,
-      "news_web": 16,
-      "yahoo_news_ranking": 5,
-      "x_realtime": 6
+      "yahoo_news_ranking": 10,
+      "x_realtime": 8
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
-    "hard_fact": 27,
+    "social_reaction": 29,
+    "medical_science": 9,
+    "personal_story": 2,
     "opinion": 10,
-    "medical_science": 5,
-    "personal_story": 1,
+    "hard_fact": 19,
     "policy": 1
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 29,
-    "social_reaction": 26,
+    "medical_science": 7,
+    "hard_fact": 25,
+    "social_reaction": 25,
     "opinion": 10,
-    "medical_science": 3,
-    "personal_story": 1,
-    "policy": 1
+    "policy": 1,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "「嘘はやめて下さい。」佐藤二朗さんがハラスメント騒動に更なる反論、さらに佐藤さん",
+      "title": "佐藤二朗さんのハラスメント報道について脚本家・野木亜紀子さんがポストした内容が中",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "「黒いチョウ」急増 市が注意喚起",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "3DO復活計画、1週間でスピード終了　権利をほぼ持たないまま見切り発車（多根清史",
+      "title": "ピザ１枚いくらで買える？…「物を買う力」測る実質実効為替レート、「円」は半分程度",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
@@ -63,46 +69,40 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "ピザ１枚いくらで買える？…「物を買う力」測る実質実効為替レート、「円」は半分程度",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
       "title": "現在妊娠12週、よく「フランスと日本の妊娠・出産の違いって何？」と聞かれるが今な",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "津波予報",
+      "title": "3DO復活計画、1週間でスピード終了　権利をほぼ持たないまま見切り発車（多根清史",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "今朝丸裕喜",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "クマ",
+      "title": "薬師寺保栄",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "クロアチア「幻の劇的弾」が波紋",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_sports",
-      "topic_category": "hard_fact"
+      "title": "カプコン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "日本がサッカーW杯優勝のために必要なのは野球の世界浸透だ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "物価考：町の洋菓子店が大ピンチ　値上げしても売り上げ減　倒産過去最多 | 毎日新",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "title": "ダルトン ラッシング",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
@@ -113,55 +113,55 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "佐藤二朗さんのハラスメント報道について脚本家・野木亜紀子さんがポストした内容が中",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
       "title": "日本がサッカーW杯優勝のために必要なのは野球の世界浸透だ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「うさぎ」を英語で言うと「Rabbit」ですが…なんと英語の「Rabbit」は日",
+      "title": "授業中、同性婚についてのグループワークで「見てて不快だから反対」と言った学生がい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "玄関のベルが鳴って出てみたら向かいの小1の坊やが「お母さんがいなくておうちに入れ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "職場体験に来た中学生達があまりにもふざけていたのでガチ説教したが、後悔はない「学",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
     },
     {
-      "title": "ノブコブ吉村崇が語る北海道の実家じまい。80代の父「雪かきがない暮らし」のために",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『邦画プレゼン女子高生　邦キチ！ 映子さん』Season16／1本目 ゴジラの逆",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ああ新作映画で制作陣が良かれと思って投入した要素がファンに受けず爆死」なんてよ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「障害者の関係者なら本当に嬉しい」佳子様が公務でお召しになっていたワンピースが「",
+      "title": "精神科で『自炊が出来なくなって落ち込む』と言ったら『外食でいいんです、ぼくもよく",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ひさびさに幸福の科学カフェきた」AV女優がInstagramに投稿したストーリ",
+      "title": "池袋で麻辣湯の大盛り頼んだら…外国人店員の不意打ちの一言にワロタ「間違っては無い",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "喪主「霊柩車って緑ナンバーだから二種免許ないと運転できないの？」私「いらないです",
+      "title": "前職で校正にピキってた時、このダブルクォーテーションの使い方が意味わかんなすぎて",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "帰省したのでおばあちゃんを遊びに誘ったら「今日はしそをしぼって梅にかけないといけ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ラトビアは今、ありえないほどの猛暑です」「限界の暑さなんです」→ラトビア人にと",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
