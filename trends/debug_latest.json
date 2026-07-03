@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T19:19:00+09:00",
+  "generated_at": "2026-07-03T23:59:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,45 +16,51 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 12,
-    "passed_total": 113,
+    "neg_excluded": 8,
+    "dedup_excluded": 14,
+    "passed_total": 110,
     "b2b_category_counts": {
-      "yahoo_realtime": 31,
-      "news_web": 11,
+      "x_realtime": 6,
+      "yahoo_realtime": 33,
       "google_trends": 10,
-      "yahoo_news_ranking": 10,
-      "x_realtime": 8
+      "yahoo_news_ranking": 8,
+      "news_web": 13
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "medical_science": 9,
+    "social_reaction": 21,
     "personal_story": 2,
     "opinion": 10,
-    "hard_fact": 19,
-    "policy": 1
+    "medical_science": 7,
+    "hard_fact": 28,
+    "policy": 2
   },
   "b2b_topic_category_counts": {
-    "medical_science": 7,
-    "hard_fact": 25,
-    "social_reaction": 25,
+    "social_reaction": 21,
+    "hard_fact": 29,
+    "personal_story": 2,
     "opinion": 10,
-    "policy": 1,
-    "personal_story": 2
+    "medical_science": 5,
+    "policy": 3
   },
   "b2b_top10": [
     {
-      "title": "佐藤二朗さんのハラスメント報道について脚本家・野木亜紀子さんがポストした内容が中",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "title": "大学教員になりたての頃、とある学生が授業中なのに全然やる気がなく、ぼーっとしてい",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "「黒いチョウ」急増 市が注意喚起",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
+      "title": "【速報】日本郵便、ゆうパック最大40％値上げ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
+    },
+    {
+      "title": "週刊文春の佐藤二朗「ハラスメント」記事に何が書かれていたか～読まずに憶測で語り事",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
       "title": "ピザ１枚いくらで買える？…「物を買う力」測る実質実効為替レート、「円」は半分程度",
@@ -69,37 +75,31 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "現在妊娠12週、よく「フランスと日本の妊娠・出産の違いって何？」と聞かれるが今な",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "3DO復活計画、1週間でスピード終了　権利をほぼ持たないまま見切り発車（多根清史",
+      "title": "米版「図書館流通センター」が事業終了…Amazonの図書館市場参入へ賛否",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
     },
     {
-      "title": "今朝丸裕喜",
+      "title": "トイストーリー4 声優",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "薬師寺保栄",
+      "title": "チョウ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "カプコン",
+      "title": "洗濯",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ダルトン ラッシング",
+      "title": "ビッコミ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,19 +107,25 @@
   ],
   "note_top10": [
     {
-      "title": "現在妊娠12週、よく「フランスと日本の妊娠・出産の違いって何？」と聞かれるが今な",
+      "title": "大学教員になりたての頃、とある学生が授業中なのに全然やる気がなく、ぼーっとしてい",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "週刊文春の佐藤二朗「ハラスメント」記事に何が書かれていたか～読まずに憶測で語り事",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "海外に学生を連れて行った際、現地でコーディネートしてくれたOBが学生に「これを日",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "佐藤二朗さんのハラスメント報道について脚本家・野木亜紀子さんがポストした内容が中",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "日本がサッカーW杯優勝のために必要なのは野球の世界浸透だ",
+      "title": "芸人・中山功太さん『僕の単独ライブの最前列ど真ん中で毎回メンチ切ってくる女性の方",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -131,37 +137,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "職場体験に来た中学生達があまりにもふざけていたのでガチ説教したが、後悔はない「学",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "精神科で『自炊が出来なくなって落ち込む』と言ったら『外食でいいんです、ぼくもよく",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "植民地支配から引き継がれた加害―朝鮮と水俣（加藤圭木さんインタビュー）　|　Di",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "池袋で麻辣湯の大盛り頼んだら…外国人店員の不意打ちの一言にワロタ「間違っては無い",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "日本語でぬから始まる言葉、盗っ人と柳宿しかない",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "前職で校正にピキってた時、このダブルクォーテーションの使い方が意味わかんなすぎて",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "わいせつ被害の女性横浜市議が実名会見「強引に唇を押し当てた」立憲民主党関係者の「",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "帰省したのでおばあちゃんを遊びに誘ったら「今日はしそをしぼって梅にかけないといけ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "音楽でストレス解消する仕組みとは｜精神科医が解説",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ラトビアは今、ありえないほどの猛暑です」「限界の暑さなんです」→ラトビア人にと",
+      "title": "激エロお下品ギャグかつ人情物な江川達也原作の『ゴールデンボーイ』は英語圏の日本ア",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
