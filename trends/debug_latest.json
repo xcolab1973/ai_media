@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T23:59:00+09:00",
+  "generated_at": "2026-07-04T07:39:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,32 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 14,
-    "passed_total": 110,
+    "neg_excluded": 7,
+    "dedup_excluded": 12,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "x_realtime": 6,
+      "x_realtime": 8,
       "yahoo_realtime": 33,
       "google_trends": 10,
       "yahoo_news_ranking": 8,
-      "news_web": 13
+      "news_web": 11
     }
   },
   "note_category_counts": {
-    "social_reaction": 21,
-    "personal_story": 2,
+    "social_reaction": 24,
+    "personal_story": 4,
     "opinion": 10,
-    "medical_science": 7,
-    "hard_fact": 28,
+    "medical_science": 6,
+    "hard_fact": 24,
     "policy": 2
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 21,
-    "hard_fact": 29,
-    "personal_story": 2,
+    "social_reaction": 24,
+    "personal_story": 4,
+    "hard_fact": 25,
     "opinion": 10,
-    "medical_science": 5,
-    "policy": 3
+    "policy": 3,
+    "medical_science": 4
   },
   "b2b_top10": [
     {
@@ -51,55 +51,55 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "【速報】日本郵便、ゆうパック最大40％値上げ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
       "title": "週刊文春の佐藤二朗「ハラスメント」記事に何が書かれていたか～読まずに憶測で語り事",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "ピザ１枚いくらで買える？…「物を買う力」測る実質実効為替レート、「円」は半分程度",
+      "title": "【速報】日本郵便、ゆうパック最大40％値上げ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
     },
     {
-      "title": "フジテレビ　佐藤二朗に厳重注意　接触よりも発した言葉を問題視（スポニチアネックス",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "米版「図書館流通センター」が事業終了…Amazonの図書館市場参入へ賛否",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "トイストーリー4 声優",
+      "title": "ベッカム",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "チョウ",
+      "title": "カーボベルデ サッカー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "洗濯",
+      "title": "argentina vs tanjung verde",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ビッコミ",
+      "title": "福岡天気",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ムーキー ベッツ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "エンソ・フェルナンデス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "エミリアーノ・マルティネス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -119,52 +119,52 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "海外に学生を連れて行った際、現地でコーディネートしてくれたOBが学生に「これを日",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "芸人・中山功太さん『僕の単独ライブの最前列ど真ん中で毎回メンチ切ってくる女性の方",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "授業中、同性婚についてのグループワークで「見てて不快だから反対」と言った学生がい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "植民地支配から引き継がれた加害―朝鮮と水俣（加藤圭木さんインタビュー）　|　Di",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日本語でぬから始まる言葉、盗っ人と柳宿しかない",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "わいせつ被害の女性横浜市議が実名会見「強引に唇を押し当てた」立憲民主党関係者の「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "音楽でストレス解消する仕組みとは｜精神科医が解説",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "激エロお下品ギャグかつ人情物な江川達也原作の『ゴールデンボーイ』は英語圏の日本ア",
+      "title": "「現代社会の風刺みたい」話題の池袋ヨドバシに寄ってみたら、照明の色温度が異なる西",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "兵庫・斎藤知事が名誉毀損罪で男性２人を刑事告訴　Xで「人殺し」と投稿",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「葬送のフリーレン」は「魔族とは対話ができない」というのがよくわからない話…しか",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ベッカム",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "カーボベルデ サッカー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "argentina vs tanjung verde",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "福岡天気",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
