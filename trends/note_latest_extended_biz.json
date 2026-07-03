@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-03T11:50:29+09:00",
+ "generated_at": "2026-07-03T16:51:59+09:00",
  "valid_until": "2026-07-15T06:38:30+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "biz",
   "from_current": 23,
-  "from_new": 3,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 3,
+  "retention_dropped": 1,
   "genres": 3,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "Yahoo!ショッピングが2026年9月から有料化──12年続いた「eコマース革命」の終焉と、中小EC事業者がとるべき戦略",
+   "url": "https://uruchikara.jp/yahoo-shopping-paid-ecommerce-revolution-end-2026/",
+   "summary": "2026年9月1日よりYahoo!ショッピングが月額システム利用料1万円・売上ロイヤリティ2.5%を新設し有償化。LINEショッピングタブ経由は追加で2〜4%上乗せ。120万店舗の大半が休眠店で、無料前提で出店していた小規模事業者はコスト増への対応（撤退・値上げ・他モール分散）を迫られる。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "hard_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "biz-ec-shop",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "うるチカラ",
+    "expert_origin": true,
+    "search_query": "Yahoo!ショッピング 有償化 2026年9月 出店プラン 月額1万円 ロイヤリティ2.5% 個人事業主",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-08T16:42:50+09:00",
+   "validity_days": 5
+  },
   {
    "source_category": "news_web",
    "raw_title": "米国10%追加関税(2026年2〜7月)で変わる日本越境EC戦略、EC事業者が今すぐ取るべき対応7選",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-07T16:44:28+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "決算で在庫が多いとどうなる？減らすべき理由・過剰在庫への対処法",
-   "url": "https://www.fmclub.jp/blog/zaimu/181",
-   "summary": "売れ残り在庫は決算期末に課税対象になるため、夏の閑散期・下半期決算前の在庫処分セールは節税にもつながる。EC事業者が季節の変わり目に在庫と資金繰りをどう整理するかという二次質問が生まれやすい領域。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "biz-ec-shop",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "株式会社エフアンドエム",
-    "expert_origin": true,
-    "search_query": "ネットショップ 夏 在庫処分 セール 下半期 決算準備 個人事業主 悩み OKWAVE",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": true,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-07T11:44:55+09:00",
    "validity_days": 5
   },
   {
