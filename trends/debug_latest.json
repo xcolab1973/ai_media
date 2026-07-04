@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T07:39:00+09:00",
+  "generated_at": "2026-07-04T14:28:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,39 +16,51 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 12,
-    "passed_total": 113,
+    "neg_excluded": 11,
+    "dedup_excluded": 11,
+    "passed_total": 110,
     "b2b_category_counts": {
-      "x_realtime": 8,
-      "yahoo_realtime": 33,
-      "google_trends": 10,
-      "yahoo_news_ranking": 8,
-      "news_web": 11
+      "x_realtime": 5,
+      "yahoo_realtime": 37,
+      "google_trends": 9,
+      "news_web": 14,
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 24,
-    "personal_story": 4,
-    "opinion": 10,
-    "medical_science": 6,
-    "hard_fact": 24,
-    "policy": 2
+    "social_reaction": 26,
+    "personal_story": 6,
+    "opinion": 9,
+    "medical_science": 2,
+    "hard_fact": 20,
+    "policy": 7
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 24,
-    "personal_story": 4,
-    "hard_fact": 25,
-    "opinion": 10,
-    "policy": 3,
-    "medical_science": 4
+    "social_reaction": 26,
+    "personal_story": 6,
+    "opinion": 9,
+    "hard_fact": 21,
+    "policy": 7,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "大学教員になりたての頃、とある学生が授業中なのに全然やる気がなく、ぼーっとしてい",
+      "title": "「10年前に1万円で買えたミシンは今1万円で買えないということを忘れてる人が多す",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "書店で夜間の無人営業を実施…入店にはスマホとLINE登録が必要とのことだが…→結",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "大谷翔平",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "週刊文春の佐藤二朗「ハラスメント」記事に何が書かれていたか～読まずに憶測で語り事",
@@ -57,49 +69,37 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "【速報】日本郵便、ゆうパック最大40％値上げ",
+      "title": "ミゲル・ロハス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "校長",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "専門的な教育を受けていない人が多いのに、日本人の多くが『カラオケ』でまあまあ正確",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "ベッカム",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "毎日、トンカツを揚げてしまう認知症のおばあちゃん…→そんなおばあちゃんにひたすら",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "カーボベルデ サッカー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "競走馬として全く才能がないため見切りを付けられ、乗馬クラブに譲渡→数か月後「絶賛",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "argentina vs tanjung verde",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "福岡天気",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ムーキー ベッツ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "エンソ・フェルナンデス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "エミリアーノ・マルティネス",
+      "title": "中島 翔哉",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,10 +107,16 @@
   ],
   "note_top10": [
     {
-      "title": "大学教員になりたての頃、とある学生が授業中なのに全然やる気がなく、ぼーっとしてい",
+      "title": "「10年前に1万円で買えたミシンは今1万円で買えないということを忘れてる人が多す",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "書店で夜間の無人営業を実施…入店にはスマホとLINE登録が必要とのことだが…→結",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
       "title": "週刊文春の佐藤二朗「ハラスメント」記事に何が書かれていたか～読まずに憶測で語り事",
@@ -119,52 +125,46 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "芸人・中山功太さん『僕の単独ライブの最前列ど真ん中で毎回メンチ切ってくる女性の方",
+      "title": "専門的な教育を受けていない人が多いのに、日本人の多くが『カラオケ』でまあまあ正確",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「現代社会の風刺みたい」話題の池袋ヨドバシに寄ってみたら、照明の色温度が異なる西",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "兵庫・斎藤知事が名誉毀損罪で男性２人を刑事告訴　Xで「人殺し」と投稿",
+      "title": "毎日、トンカツを揚げてしまう認知症のおばあちゃん…→そんなおばあちゃんにひたすら",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「葬送のフリーレン」は「魔族とは対話ができない」というのがよくわからない話…しか",
+      "title": "競走馬として全く才能がないため見切りを付けられ、乗馬クラブに譲渡→数か月後「絶賛",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "男性がフェリー内に車も荷物も残したまま姿を消した…「定期的にあるよねこれ」「フェ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "歯が痛くて「こんなんで呼んですいません」と救急要請→バイタル測定で高血圧を確認し",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ベッカム",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "映画『ケロロ軍曹』が酷評されているが、福田雄一監督は『33分探偵』『アオイホノオ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "カーボベルデ サッカー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "argentina vs tanjung verde",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "福岡天気",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "小学生の娘の登校班集合場所にたまに現れるサラリーマンのおじさんの話… 子供達から",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ]
 }
