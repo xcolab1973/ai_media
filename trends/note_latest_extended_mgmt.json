@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-07-04T11:52:41+09:00",
- "valid_until": "2026-07-16T16:43:37+09:00",
+ "generated_at": "2026-07-04T16:50:54+09:00",
+ "valid_until": "2026-07-18T16:44:56+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "mgmt",
- "total_count": 26,
+ "total_count": 27,
  "merge": {
   "parent": "mgmt",
   "from_current": 26,
-  "from_new": 2,
+  "from_new": 1,
   "expired_pruned": 0,
   "retention_dropped": 0,
   "genres": 4,
@@ -674,6 +674,36 @@
     "rescued": false
    },
    "valid_until": "2026-07-13T11:49:57+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "社長が変わってから重要ポジションだった社員がどんどん辞めていく",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10274956350",
+   "summary": "経営交代後にキーパーソンの離職が連鎖する悩み相談。中小企業では社長個人の裁量が評価制度に強く反映されやすく、コミュニケーション不足やビジョン不透明さが離職の連鎖を招く構造的ペインが背景にある。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "mgmt-orga",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "社員が辞めていく 中小企業 社長 悩み 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-18T16:44:56+09:00",
    "validity_days": 14
   },
   {
