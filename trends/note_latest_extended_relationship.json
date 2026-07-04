@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-04T06:42:53+09:00",
+ "generated_at": "2026-07-04T11:52:41+09:00",
  "valid_until": "2026-07-18T06:39:19+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -11,7 +11,7 @@
   "from_current": 32,
   "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 1,
+  "retention_dropped": 0,
   "genres": 4,
   "retention_per_genre": 8
  },
