@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T23:19:00+09:00",
+  "generated_at": "2026-07-05T07:37:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,52 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 12,
-    "passed_total": 111,
+    "neg_excluded": 7,
+    "dedup_excluded": 10,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
+      "yahoo_realtime": 34,
       "google_trends": 10,
-      "x_realtime": 6,
+      "x_realtime": 8,
       "yahoo_news_ranking": 4,
-      "news_web": 18
+      "news_web": 14
     }
   },
   "note_category_counts": {
-    "medical_science": 3,
     "social_reaction": 29,
-    "opinion": 10,
+    "medical_science": 3,
     "personal_story": 2,
-    "policy": 4,
-    "hard_fact": 22
+    "opinion": 10,
+    "hard_fact": 19,
+    "policy": 7
   },
   "b2b_topic_category_counts": {
+    "social_reaction": 29,
+    "hard_fact": 21,
     "medical_science": 1,
     "opinion": 10,
-    "social_reaction": 29,
-    "policy": 4,
-    "hard_fact": 24,
-    "personal_story": 2
+    "personal_story": 2,
+    "policy": 7
   },
   "b2b_top10": [
+    {
+      "title": "「もう厚労省推薦アニメにしようぜ」ヤニねこ、あまりの汚さに見れば見るほどタバコを",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【ふつうの軽音部×忘れらんねえよ「アイラブ言う」】詞にならない、想いは歌に。【1",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "公開当日に制作会社が謝罪する異例の事態　映画「ケロロ軍曹」炎上の核心にある“原作",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
     {
       "title": "「臓器直撃」「口腔がん手術で顔貌激変」無煙たばこの深刻リスクに学会トップが本気の",
       "source_category": "yahoo_realtime",
@@ -51,117 +69,99 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "森保監督",
+      "title": "テイラースウィフト",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "北九州記念 過去",
+      "title": "ブラジル対ノルウェー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "広重果音",
+      "title": "静岡県高校野球",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "東京で泊まったカプセルホテルのシャワー室が男女共用で、4～5人の若い女子がキャー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "グレイヘア",
+      "title": "パラグアイ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "給食",
+      "title": "福岡天気",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "志村秀哉",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ホラン千秋",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "アメリカが建国250周年の節目だと言うので、お祝いごとが好きな日本人が「おめでと",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "妻が“パイの実1年分”に当選、大きい3箱+小さい1箱が届き、中には計185個… ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
+      "title": "「もう厚労省推薦アニメにしようぜ」ヤニねこ、あまりの汚さに見れば見るほどタバコを",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【ふつうの軽音部×忘れらんねえよ「アイラブ言う」】詞にならない、想いは歌に。【1",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "「臓器直撃」「口腔がん手術で顔貌激変」無煙たばこの深刻リスクに学会トップが本気の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "medical_science"
     },
     {
-      "title": "東京で泊まったカプセルホテルのシャワー室が男女共用で、4～5人の若い女子がキャー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "中華圏の贈り物文化、マジでありがたいけど困るんだよな…「諸葛孔明が好き」と言った",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
     },
     {
-      "title": "アメリカが建国250周年の節目だと言うので、お祝いごとが好きな日本人が「おめでと",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『このメッシって人にシュートさせないようにしたらいいんじゃないの？』って家族に聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【MV】Afterglow / にじさんじ・今宵、××と夢を見る。【にじさんじ甲",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【W杯】大活躍したカーボベルデ、日本人はやはり料理が気になるようで早速様々な情報",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「あなたが思うほど快便です」ヨドバシ池袋、くっせぇくっせぇ下痢便がぶちまけられて",
+      "title": "妻が“パイの実1年分”に当選、大きい3箱+小さい1箱が届き、中には計185個… ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ガンダムのことを全く知らない同僚の女性が9年目の付き合いにして初めて「実はガンプ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「松明を買うと合法的に山に放火できる」700年前からの伝統行事に現代人が参加した",
+      "title": "日本の専門書は「noteで売られる100万円分くらいの情報」がある…日本のオタク",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "「世界最古」希少ネコ5匹誕生　神戸、すくすく成長中 | NEWSjp",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "テイラースウィフト",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "世論調査をめぐって拡散された誤情報への見解｜三春充希(はる) ⭐未来社会プロジェ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "兵庫県、借金返済先送りのツケ　30年度に493億円一括返済 | 毎日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
