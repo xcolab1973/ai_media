@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T14:28:00+09:00",
+  "generated_at": "2026-07-04T18:53:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,38 +16,44 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
-    "dedup_excluded": 11,
+    "neg_excluded": 10,
+    "dedup_excluded": 12,
     "passed_total": 110,
     "b2b_category_counts": {
-      "x_realtime": 5,
-      "yahoo_realtime": 37,
-      "google_trends": 9,
-      "news_web": 14,
-      "yahoo_news_ranking": 5
+      "yahoo_realtime": 34,
+      "google_trends": 10,
+      "yahoo_news_ranking": 6,
+      "x_realtime": 6,
+      "news_web": 14
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
-    "personal_story": 6,
-    "opinion": 9,
-    "medical_science": 2,
+    "social_reaction": 27,
+    "personal_story": 4,
+    "medical_science": 3,
+    "opinion": 10,
     "hard_fact": 20,
-    "policy": 7
+    "policy": 6
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 26,
-    "personal_story": 6,
-    "opinion": 9,
-    "hard_fact": 21,
-    "policy": 7,
-    "medical_science": 1
+    "medical_science": 3,
+    "social_reaction": 27,
+    "personal_story": 4,
+    "opinion": 10,
+    "hard_fact": 20,
+    "policy": 6
   },
   "b2b_top10": [
     {
+      "title": "「臓器直撃」「口腔がん手術で顔貌激変」無煙たばこの深刻リスクに学会トップが本気の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
       "title": "「10年前に1万円で買えたミシンは今1万円で買えないということを忘れてる人が多す",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -57,49 +63,43 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "大谷翔平",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "週刊文春の佐藤二朗「ハラスメント」記事に何が書かれていたか～読まずに憶測で語り事",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "ミゲル・ロハス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "校長",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "専門的な教育を受けていない人が多いのに、日本人の多くが『カラオケ』でまあまあ正確",
+      "title": "妻子がいるのに「バツイチ」と嘘をついて交際、相手の女性はその男との間に子供を妊娠",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "毎日、トンカツを揚げてしまう認知症のおばあちゃん…→そんなおばあちゃんにひたすら",
+      "title": "「東京駅でウェディングフォトを撮るのはダサい」という意見に無言で投下された画像が",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "競走馬として全く才能がないため見切りを付けられ、乗馬クラブに譲渡→数か月後「絶賛",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "ランディバスケス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "中島 翔哉",
+      "title": "前田 大 然",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "バレーボール",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "テイラー スウィフト 結婚",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "伊藤匠",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -108,8 +108,8 @@
   "note_top10": [
     {
       "title": "「10年前に1万円で買えたミシンは今1万円で買えないということを忘れてる人が多す",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -119,13 +119,31 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "週刊文春の佐藤二朗「ハラスメント」記事に何が書かれていたか～読まずに憶測で語り事",
+      "title": "「臓器直撃」「口腔がん手術で顔貌激変」無煙たばこの深刻リスクに学会トップが本気の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "medical_science"
     },
     {
-      "title": "専門的な教育を受けていない人が多いのに、日本人の多くが『カラオケ』でまあまあ正確",
+      "title": "「東京駅でウェディングフォトを撮るのはダサい」という意見に無言で投下された画像が",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「田舎は車がないと生活できない」と投稿したら「自転車で移動すればいいだけ」とコメ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "個人懇談会で「お母さん、これは褒め言葉として受け取っていただきたいのですが、次男",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "妻子がいるのに「バツイチ」と嘘をついて交際、相手の女性はその男との間に子供を妊娠",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -137,31 +155,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "競走馬として全く才能がないため見切りを付けられ、乗馬クラブに譲渡→数か月後「絶賛",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "男性がフェリー内に車も荷物も残したまま姿を消した…「定期的にあるよねこれ」「フェ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "歯が痛くて「こんなんで呼んですいません」と救急要請→バイタル測定で高血圧を確認し",
+      "title": "『このメッシって人にシュートさせないようにしたらいいんじゃないの？』って家族に聞",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "映画『ケロロ軍曹』が酷評されているが、福田雄一監督は『33分探偵』『アオイホノオ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "小学生の娘の登校班集合場所にたまに現れるサラリーマンのおじさんの話… 子供達から",
+      "title": "すごく残念な話なんですけど、「編集者からのパワハラ、セクハラ」に対して一番有効な",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
