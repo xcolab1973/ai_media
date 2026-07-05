@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T23:21:00+09:00",
+  "generated_at": "2026-07-06T07:37:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,45 +16,53 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 10,
-    "passed_total": 115,
+    "neg_excluded": 5,
+    "dedup_excluded": 13,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
+      "yahoo_realtime": 39,
+      "news_web": 12,
       "google_trends": 10,
-      "news_web": 14,
-      "x_realtime": 8,
-      "yahoo_news_ranking": 4
+      "yahoo_news_ranking": 5,
+      "x_realtime": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 34,
-    "personal_story": 3,
-    "opinion": 10,
+    "personal_story": 6,
+    "analysis": 1,
+    "social_reaction": 29,
+    "opinion": 9,
     "medical_science": 5,
-    "hard_fact": 13,
+    "hard_fact": 15,
     "policy": 5
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 32,
-    "opinion": 10,
-    "personal_story": 3,
+    "personal_story": 6,
     "hard_fact": 19,
+    "social_reaction": 29,
+    "opinion": 9,
+    "analysis": 1,
     "policy": 5,
     "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "トクリュウ下見？　気づくと自宅に監視カメラ　被害者が語る恐怖 | 毎日新聞",
+      "title": "デンソー期間工を3年やって貯金が1460万円を達成した方の体験談がためになる「家",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "九州～東海 激しい雨や落雷に注意",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "俺は、お前らのためにも死刑は廃止させない。 死刑廃止を訴えてる人って、..",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "みその 旦那",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     },
     {
       "title": "AV禁止・風俗NGが「最低条件」…女性の恋愛基準は高望みか？Xで大議論",
@@ -63,43 +71,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「焼きポンデリングおいしい、フライパンいっぱいに焼いて食べたい」→「…その願い叶",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "佐藤 二 朗 橋本 愛",
+      "title": "ワールドカップ 組み合わせ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "根尾昂2軍で炎上 1回持たず4失点",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_sports",
+      "title": "ワールドカップ 結果",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "neymar",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ワールドカップ 得点ランキング",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "analysis"
+    },
+    {
+      "title": "一発退場した米代表FWの出場停止処分が猶予に…次戦出場可能　トランプ大統領は「T",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
     },
     {
-      "title": "野村周平",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "堀田真由",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ソ ジソブ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "石川真佑",
+      "title": "エデルソン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,7 +109,19 @@
   ],
   "note_top10": [
     {
-      "title": "トクリュウ下見？　気づくと自宅に監視カメラ　被害者が語る恐怖 | 毎日新聞",
+      "title": "デンソー期間工を3年やって貯金が1460万円を達成した方の体験談がためになる「家",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "ワールドカップ 得点ランキング",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "analysis"
+    },
+    {
+      "title": "俺は、お前らのためにも死刑は廃止させない。 死刑廃止を訴えてる人って、..",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -119,52 +133,40 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「焼きポンデリングおいしい、フライパンいっぱいに焼いて食べたい」→「…その願い叶",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "ヒマラヤ山中で見つかった200年前の人骨と4年前に行方不明になった妹のDNAが一",
+      "title": "「今日はお前らにタイ人の給料日前飯を3つ紹介する」とあるタイ人女性が金欠レベルに",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "家登みろく氏、日本共産党を離党。赤旗記事に不満表明",
+      "title": "ちょまって適当に入った店バカ高い ロイヤルホストってとこ→「そこ高級レストランで",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "突然国際郵便が届いた…内容を読んでみたら半年前のイタリア旅行時にスピード違反をし",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「主人公の気持ちは？」といった問題の意味がわからなかったASDの方が「テクニカル",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
       "title": "ラーメン屋で40分待っても料理が来ず、二口食べた後に店員からバイクを駐輪場に移動",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「一番えげつないプレイ」4歳の息子と桃鉄やってたら、貧乏神に取り憑かれた状態から",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「主人公の気持ちは？」といった問題の意味がわからなかったASDの方が「テクニカル",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "みその 旦那",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "翻訳家「他社の編集者が誤訳を指摘してきた。ハラスメントだ、怖い」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "誹謗中傷動画めぐる高市総理の対応「納得できず」51%、内閣支持率65.9% 先月",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     }
   ]
 }
