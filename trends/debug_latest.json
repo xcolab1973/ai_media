@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T18:57:00+09:00",
+  "generated_at": "2026-07-05T23:21:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,46 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 13,
-    "dedup_excluded": 8,
-    "passed_total": 111,
+    "neg_excluded": 7,
+    "dedup_excluded": 10,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
+      "yahoo_realtime": 34,
       "google_trends": 10,
-      "news_web": 12,
-      "x_realtime": 7,
-      "yahoo_news_ranking": 9
+      "news_web": 14,
+      "x_realtime": 8,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
+    "social_reaction": 34,
     "personal_story": 3,
-    "opinion": 9,
-    "medical_science": 7,
-    "hard_fact": 15,
-    "policy": 4
+    "opinion": 10,
+    "medical_science": 5,
+    "hard_fact": 13,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
-    "opinion": 9,
-    "hard_fact": 22,
-    "medical_science": 4,
+    "social_reaction": 32,
+    "opinion": 10,
     "personal_story": 3,
-    "policy": 4
+    "hard_fact": 19,
+    "policy": 5,
+    "medical_science": 1
   },
   "b2b_top10": [
+    {
+      "title": "トクリュウ下見？　気づくと自宅に監視カメラ　被害者が語る恐怖 | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "みその 旦那",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
     {
       "title": "AV禁止・風俗NGが「最低条件」…女性の恋愛基準は高望みか？Xで大議論",
       "source_category": "yahoo_realtime",
@@ -51,55 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ウクライナ、サンクトペテルブルクの石油施設を攻撃　無人機で - 日本経済新聞",
+      "title": "「焼きポンデリングおいしい、フライパンいっぱいに焼いて食べたい」→「…その願い叶",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "「もう厚労省推薦アニメにしようぜ」ヤニねこ、あまりの汚さに見れば見るほどタバコを",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "長谷川健太",
+      "title": "佐藤 二 朗 橋本 愛",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "栗原はるみ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "熊本県",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ブルーノ マーズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "京都市動物園の歌 採用で一生無料",
+      "title": "根尾昂2軍で炎上 1回持たず4失点",
       "source_category": "news_web",
-      "raw_source_key": "yahoo_news_local",
+      "raw_source_key": "yahoo_news_sports",
       "topic_category": "hard_fact"
     },
     {
-      "title": "「天地開闢以来、あらゆる性癖が一堂に会した夜だった」いいものが見れると言って友人",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "野村周平",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "収入",
+      "title": "堀田真由",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ソ ジソブ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "石川真佑",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
+      "title": "トクリュウ下見？　気づくと自宅に監視カメラ　被害者が語る恐怖 | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "AV禁止・風俗NGが「最低条件」…女性の恋愛基準は高望みか？Xで大議論",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「もう厚労省推薦アニメにしようぜ」ヤニねこ、あまりの汚さに見れば見るほどタバコを",
+      "title": "「焼きポンデリングおいしい、フライパンいっぱいに焼いて食べたい」→「…その願い叶",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「とても奇妙な体験をした」電車の中で隣の若い女性二人の会話が中国語のように聞こえ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
     },
     {
-      "title": "新幹線駅なのに改札横に温泉施設があって2度見した→「ここはいいぞ！」とおすすめ情",
+      "title": "ヒマラヤ山中で見つかった200年前の人骨と4年前に行方不明になった妹のDNAが一",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "家登みろく氏、日本共産党を離党。赤旗記事に不満表明",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "ラーメン屋で40分待っても料理が来ず、二口食べた後に店員からバイクを駐輪場に移動",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「天地開闢以来、あらゆる性癖が一堂に会した夜だった」いいものが見れると言って友人",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「一番えげつないプレイ」4歳の息子と桃鉄やってたら、貧乏神に取り憑かれた状態から",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ウクライナ、サンクトペテルブルクの石油施設を攻撃　無人機で - 日本経済新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「主人公の気持ちは？」といった問題の意味がわからなかったASDの方が「テクニカル",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "借金250万は「人が死ぬ金額」と言われるが、個人で300万借金があるとほとんどの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "みその 旦那",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "東京２３区初のＪ１スタジアム、葛飾区が構想策定へ…ＪＲ新小岩駅近くに用地取得",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "婚活中に相手がトイレに行っている間に、相手のスマホの通知が来て「パパ何時に帰って",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "水質めぐりパリ五輪で物議を醸したセーヌ川、今や人気の遊泳スポットに",
+      "title": "翻訳家「他社の編集者が誤訳を指摘してきた。ハラスメントだ、怖い」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
