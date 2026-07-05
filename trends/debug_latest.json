@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T14:47:00+09:00",
+  "generated_at": "2026-07-05T18:57:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,39 +16,34 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 12,
-    "passed_total": 114,
+    "neg_excluded": 13,
+    "dedup_excluded": 8,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
+      "yahoo_realtime": 32,
       "google_trends": 10,
-      "x_realtime": 6,
-      "yahoo_news_ranking": 4,
-      "news_web": 14
+      "news_web": 12,
+      "x_realtime": 7,
+      "yahoo_news_ranking": 9
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
+    "social_reaction": 32,
     "personal_story": 3,
-    "opinion": 10,
-    "hard_fact": 19,
-    "medical_science": 3,
-    "policy": 6
+    "opinion": 9,
+    "medical_science": 7,
+    "hard_fact": 15,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "hard_fact": 20,
-    "opinion": 10,
+    "social_reaction": 28,
+    "opinion": 9,
+    "hard_fact": 22,
+    "medical_science": 4,
     "personal_story": 3,
-    "policy": 8
+    "policy": 4
   },
   "b2b_top10": [
-    {
-      "title": "葬儀屋から父親の遺影の写真は『色眼鏡以外・顔全体が写ってる写真のみ』と言われたの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
     {
       "title": "AV禁止・風俗NGが「最低条件」…女性の恋愛基準は高望みか？Xで大議論",
       "source_category": "yahoo_realtime",
@@ -68,49 +63,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "公開当日に制作会社が謝罪する異例の事態　映画「ケロロ軍曹」炎上の核心にある“原作",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "長谷川健太",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "栗原はるみ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "熊本県",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ブルーノ マーズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "京都市動物園の歌 採用で一生無料",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_local",
       "topic_category": "hard_fact"
     },
     {
-      "title": "ドジャース 順位",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "「天地開闢以来、あらゆる性癖が一堂に会した夜だった」いいものが見れると言って友人",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "オリックス 対 西武",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "line ブロック 新機能",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "音楽番組",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "井岡弘樹",
+      "title": "収入",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     }
   ],
   "note_top10": [
-    {
-      "title": "葬儀屋から父親の遺影の写真は『色眼鏡以外・顔全体が写ってる写真のみ』と言われたの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
     {
       "title": "AV禁止・風俗NGが「最低条件」…女性の恋愛基準は高望みか？Xで大議論",
       "source_category": "yahoo_realtime",
@@ -124,7 +119,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "新卒採用のセミナーに参加して、人事担当者や経営者と腹を割った話をする機会があった",
+      "title": "「とても奇妙な体験をした」電車の中で隣の若い女性二人の会話が中国語のように聞こえ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "新幹線駅なのに改札横に温泉施設があって2度見した→「ここはいいぞ！」とおすすめ情",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「天地開闢以来、あらゆる性癖が一堂に会した夜だった」いいものが見れると言って友人",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -142,27 +149,21 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "東京２３区初のＪ１スタジアム、葛飾区が構想策定へ…ＪＲ新小岩駅近くに用地取得",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "婚活中に相手がトイレに行っている間に、相手のスマホの通知が来て「パパ何時に帰って",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "アニメ「ヤニねこ」に出てくる部屋は、「貧困者の家を回ってた時に見てた映像」が相当",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "弟が釣った不思議な魚、浮袋の謎に挑んだ小3　研究成果が文科大臣賞：朝日新聞",
+      "title": "水質めぐりパリ五輪で物議を醸したセーヌ川、今や人気の遊泳スポットに",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "宝塚が好きなニート不労所得大富豪の幼馴染が宝塚に家を買い、公演やイベントに足繁く",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
