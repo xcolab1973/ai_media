@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T07:37:00+09:00",
+  "generated_at": "2026-07-05T14:47:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,42 +16,53 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 10,
-    "passed_total": 115,
+    "neg_excluded": 6,
+    "dedup_excluded": 12,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
+      "yahoo_realtime": 36,
       "google_trends": 10,
-      "x_realtime": 8,
+      "x_realtime": 6,
       "yahoo_news_ranking": 4,
       "news_web": 14
     }
   },
   "note_category_counts": {
     "social_reaction": 29,
-    "medical_science": 3,
-    "personal_story": 2,
+    "personal_story": 3,
     "opinion": 10,
     "hard_fact": 19,
-    "policy": 7
+    "medical_science": 3,
+    "policy": 6
   },
   "b2b_topic_category_counts": {
     "social_reaction": 29,
-    "hard_fact": 21,
-    "medical_science": 1,
+    "hard_fact": 20,
     "opinion": 10,
-    "personal_story": 2,
-    "policy": 7
+    "personal_story": 3,
+    "policy": 8
   },
   "b2b_top10": [
     {
-      "title": "「もう厚労省推薦アニメにしようぜ」ヤニねこ、あまりの汚さに見れば見るほどタバコを",
+      "title": "葬儀屋から父親の遺影の写真は『色眼鏡以外・顔全体が写ってる写真のみ』と言われたの",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【ふつうの軽音部×忘れらんねえよ「アイラブ言う」】詞にならない、想いは歌に。【1",
+      "title": "AV禁止・風俗NGが「最低条件」…女性の恋愛基準は高望みか？Xで大議論",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ウクライナ、サンクトペテルブルクの石油施設を攻撃　無人機で - 日本経済新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「もう厚労省推薦アニメにしようぜ」ヤニねこ、あまりの汚さに見れば見るほどタバコを",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -63,49 +74,49 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "「臓器直撃」「口腔がん手術で顔貌激変」無煙たばこの深刻リスクに学会トップが本気の",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "テイラースウィフト",
+      "title": "ドジャース 順位",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ブラジル対ノルウェー",
+      "title": "オリックス 対 西武",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "静岡県高校野球",
+      "title": "line ブロック 新機能",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "パラグアイ",
+      "title": "音楽番組",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "福岡天気",
+      "title": "井岡弘樹",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
-    },
-    {
-      "title": "妻が“パイの実1年分”に当選、大きい3箱+小さい1箱が届き、中には計185個… ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
+    {
+      "title": "葬儀屋から父親の遺影の写真は『色眼鏡以外・顔全体が写ってる写真のみ』と言われたの",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "AV禁止・風俗NGが「最低条件」…女性の恋愛基準は高望みか？Xで大議論",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "「もう厚労省推薦アニメにしようぜ」ヤニねこ、あまりの汚さに見れば見るほどタバコを",
       "source_category": "yahoo_realtime",
@@ -113,57 +124,45 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "【ふつうの軽音部×忘れらんねえよ「アイラブ言う」】詞にならない、想いは歌に。【1",
+      "title": "新卒採用のセミナーに参加して、人事担当者や経営者と腹を割った話をする機会があった",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「臓器直撃」「口腔がん手術で顔貌激変」無煙たばこの深刻リスクに学会トップが本気の",
+      "title": "ウクライナ、サンクトペテルブルクの石油施設を攻撃　無人機で - 日本経済新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "中華圏の贈り物文化、マジでありがたいけど困るんだよな…「諸葛孔明が好き」と言った",
+      "title": "借金250万は「人が死ぬ金額」と言われるが、個人で300万借金があるとほとんどの",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "婚活中に相手がトイレに行っている間に、相手のスマホの通知が来て「パパ何時に帰って",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "アニメ「ヤニねこ」に出てくる部屋は、「貧困者の家を回ってた時に見てた映像」が相当",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "妻が“パイの実1年分”に当選、大きい3箱+小さい1箱が届き、中には計185個… ",
+      "title": "弟が釣った不思議な魚、浮袋の謎に挑んだ小3　研究成果が文科大臣賞：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "宝塚が好きなニート不労所得大富豪の幼馴染が宝塚に家を買い、公演やイベントに足繁く",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日本の専門書は「noteで売られる100万円分くらいの情報」がある…日本のオタク",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「世界最古」希少ネコ5匹誕生　神戸、すくすく成長中 | NEWSjp",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "テイラースウィフト",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "世論調査をめぐって拡散された誤情報への見解｜三春充希(はる) ⭐未来社会プロジェ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "兵庫県、借金返済先送りのツケ　30年度に493億円一括返済 | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
