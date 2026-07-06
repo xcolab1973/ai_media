@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-06T06:46:24+09:00",
+ "generated_at": "2026-07-07T06:42:13+09:00",
  "valid_until": "2026-07-19T06:36:26+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -258,6 +258,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "小規模事業者持続化補助金、なぜ落ちた？知っておくべき不採択理由と失敗回避のポイント",
+   "url": "https://soyogi-office.jp/hojocolu/20250718_fusaitaku/",
+   "summary": "持続化補助金の不採択理由をまとめた記事。誰に何をどう売るかが不明確、根拠のない数値目標、販路開拓が計画の柱になっていない、経費計上の曖昧さが主な原因とされる。申請者は不採択理由の開示がなく手探りになりがち。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "biz-subsidy",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "そよぎ行政書士事務所",
+    "expert_origin": true,
+    "search_query": "持続化補助金 不採択 理由 わからない 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-14T06:33:55+09:00",
+   "validity_days": 7
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "IT導入補助金2026の変更点を解説｜デジタル化・AI導入補助金へ刷新された背景と申請のポイント",
    "url": "https://ukiyo.co.jp/media/it-subsidy/",
    "summary": "過去の交付決定事業者には翌事業年度以降3年間の事業計画策定・実行、給与支給総額の年平均成長率1.5%以上向上などの要件が追加され、未達・報告怠りは補助金の全部または一部返還対象になると解説。過去採択者が見落としやすい落とし穴。",
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-09T06:35:46+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "最新版 デジタル化AI導入補助金2026とは 旧IT導入補助金からの変更点と申請スケジュールを解説",
-   "url": "https://www.uchida-it.co.jp/info/2026it/",
-   "summary": "IT導入補助金が2026年度より「デジタル化・AI導入補助金2026」に改称。主な変更点はAI活用枠の新設、効果報告義務化（未達で返還）、賃上げ要件の追加（2回目以降）。1次締切採択率は通常枠43.9%、インボイス枠46.9%。次回申請は秋以降。GビズID取得が前提で2週間かかる。最大の落とし穴は交付決定前の発注・支払いで補助金全額対象外になる点。支援事業者選びが採択率を左右する。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "biz-subsidy",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "内田洋行ITソリューションズ",
-    "expert_origin": true,
-    "search_query": "デジタル化AI導入補助金2026 申請要件 採択率 スケジュール 中小企業 2026",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-08T06:38:30+09:00",
    "validity_days": 7
   },
   {
