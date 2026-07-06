@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T01:10:00+09:00",
+  "generated_at": "2026-07-07T07:46:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 15,
-    "dedup_excluded": 7,
+    "neg_excluded": 14,
+    "dedup_excluded": 8,
     "passed_total": 110,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "x_realtime": 9,
-      "news_web": 14,
-      "yahoo_news_ranking": 4
+      "news_web": 12,
+      "x_realtime": 8,
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 27,
-    "medical_science": 8,
     "personal_story": 1,
-    "opinion": 8,
-    "hard_fact": 21,
-    "policy": 5
+    "social_reaction": 28,
+    "opinion": 10,
+    "medical_science": 8,
+    "hard_fact": 17,
+    "policy": 6
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 27,
+    "personal_story": 1,
+    "social_reaction": 28,
+    "opinion": 10,
+    "hard_fact": 22,
     "medical_science": 3,
-    "opinion": 8,
-    "hard_fact": 26,
-    "policy": 5,
-    "personal_story": 1
+    "policy": 6
   },
   "b2b_top10": [
+    {
+      "title": "「ずっと悩んでたVR酔いが扇風機で解決した」というポストに同じく悩まされている人",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
     {
       "title": "佐藤二朗の発言は「演劇史的に間違い」では？──身体接触NGでも夫婦役はできるし、",
       "source_category": "yahoo_realtime",
@@ -51,117 +57,111 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「メンタルが落ち込んだらステーキ食え！」「甘いもの食って寝ろ！」系の話はガチの精",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "八村塁",
+      "title": "エルドアン大統領",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "しゃべくり007",
+      "title": "エビアン 選手権 日本 人",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ぐらんぶる",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "奈良新聞",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "若者による不正アクセスの事件が起きると必ず「才能があるからホワイトハッカーにすれ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "編集長からある日、「今月から原稿料なしになった。うちみたいに歴史ある雑誌に発表で",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "スペイン劇的弾 ポルトガルに勝利",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "にじさんじ",
+      "title": "夏の福袋 2026",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ハメネイ師 死亡",
+      "title": "運転",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
+      "topic_category": "opinion"
+    },
+    {
+      "title": "徹子の部屋",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ブロードコム",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "サムアルトマン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
+      "title": "「ずっと悩んでたVR酔いが扇風機で解決した」というポストに同じく悩まされている人",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
       "title": "佐藤二朗の発言は「演劇史的に間違い」では？──身体接触NGでも夫婦役はできるし、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "若者による不正アクセスの事件が起きると必ず「才能があるからホワイトハッカーにすれ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "車を運転中、娘に「青信号だよ」と言われ、信号を見たら赤で「？」となっていたら「チ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "某中央官庁に勤務していた頃、出張先でタクシーを使って総務から「なぜ、バスを使わな",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「人の数だけフェチがある」姉に対する4つのセリフに対する反応でわかる論理クイズみ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "南部せんべい！？南部せんべいじゃないか！どうしたんだこんなところで！「シティボー",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "3COINSの新商品に既視感があるなと思ったら、ずいぶん昔に流行した市女姿だった",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「メンタルが落ち込んだらステーキ食え！」「甘いもの食って寝ろ！」系の話はガチの精",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "JAXA | 小惑星探査機「はやぶさ２」が取得した小惑星「トリフネ」の画像",
+      "title": "米首都ワシントンの大気汚染に最大級の警報　独立記念日の花火で",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "音楽を志して音大に行ったけど自分には手の届かないことを知り、全然別の..",
+      "title": "首をコキコキする度に自衛隊みたいな音がするので整骨院に行ったら「今年1番硬いです",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "とあるTikTokerがノーマル無加工写真を公開してアドバイスを募集、集まったア",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「フランス現代思想」とは何か、それはどこから来て、どこへ行くのか――2020年代",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "エルドアン大統領",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "エビアン 選手権 日本 人",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「『果てしなきスカーレット』は爆死してしまった」細田守が語る最新作の苦戦…「細田",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「再起不能だと思った」細田守が語る“完成しなかった幻の『ハウルの動く城』”…バイ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
