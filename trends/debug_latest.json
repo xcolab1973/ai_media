@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T15:10:00+09:00",
+  "generated_at": "2026-07-06T20:50:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,154 +16,154 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 11,
-    "passed_total": 111,
+    "neg_excluded": 12,
+    "dedup_excluded": 6,
+    "passed_total": 114,
     "b2b_category_counts": {
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "yahoo_realtime": 36,
-      "news_web": 16,
-      "x_realtime": 6,
-      "yahoo_news_ranking": 2
+      "x_realtime": 10,
+      "news_web": 12,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "personal_story": 3,
     "social_reaction": 32,
+    "personal_story": 2,
     "opinion": 9,
-    "medical_science": 6,
-    "policy": 4,
-    "hard_fact": 16
+    "medical_science": 7,
+    "hard_fact": 16,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "opinion": 9,
     "social_reaction": 32,
-    "personal_story": 3,
+    "hard_fact": 21,
+    "opinion": 9,
+    "personal_story": 2,
     "medical_science": 2,
-    "hard_fact": 20,
     "policy": 4
   },
   "b2b_top10": [
     {
-      "title": "中国 弾道ミサイル",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "塩 貝 発言",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "俺は、お前らのためにも死刑は廃止させない。 死刑廃止を訴えてる人って、..",
+      "title": "佐藤二朗の発言は「演劇史的に間違い」では？──身体接触NGでも夫婦役はできるし、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "デンソー期間工を3年やって貯金が1460万円を達成した方の体験談がためになる「家",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "ロト6当選番号速報",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "薬師寺保栄",
+      "title": "ネプリーグ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "高市早苗",
+      "title": "韓国 対 日本",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "若隆景渥",
+      "title": "皇位継承問題",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "100年前の女性誌読んでたら『こんなこと本当は人に聞けないけど、間違えたら社交的",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "ニュース ウオッチ9",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "「コロナで完全に消えた」現役世代の「高齢者を敬う気持ち」に様々な意見が集まるが、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "音楽の日",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "大便をぶちまけられたヨドバシ池袋、停電騒動が起きる中、またもや脱糞騒動が起きてし",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "中村克",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "スターダストプロモーション",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "tver",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "デンソー期間工を3年やって貯金が1460万円を達成した方の体験談がためになる「家",
+      "title": "佐藤二朗の発言は「演劇史的に間違い」では？──身体接触NGでも夫婦役はできるし、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「その手があったか！」アニメ『天幕のジャードゥーガル』ではモンゴル兵の声をモンゴ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "3COINSの新商品に既視感があるなと思ったら、ずいぶん昔に流行した市女姿だった",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「インターネットは匿名ではありません」誹謗中傷を繰り返してきたアカウントに対し、",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「ガチの変な人で笑うしかない」20年以上漫画家をしてきた中で、変な編集は沢山いた",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "南部せんべい！？南部せんべいじゃないか！どうしたんだこんなところで！「シティボー",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "アイドルの文化「宿題チェキ」をやってみたい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "俺は、お前らのためにも死刑は廃止させない。 死刑廃止を訴えてる人って、..",
+      "title": "JAXA | 小惑星探査機「はやぶさ２」が取得した小惑星「トリフネ」の画像",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "100年前の女性誌読んでたら『こんなこと本当は人に聞けないけど、間違えたら社交的",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "中華料理店でご飯を食べた後、腹痛がしたので会計前にトイレに行き、出てくると店内が",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「コロナで完全に消えた」現役世代の「高齢者を敬う気持ち」に様々な意見が集まるが、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "大便をぶちまけられたヨドバシ池袋、停電騒動が起きる中、またもや脱糞騒動が起きてし",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「脱糞を行政が許可するべき」池袋辺りは、人の多さに対してトイレが少なすぎる→池袋",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "トランプ氏のコインで約100万人が計6200億円の損失、本人は大もうけ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "飲み会で後輩の婚活話を聞いている際、上司が「傲慢と善良」を読んだ方がいいと勧めた",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "沖縄研修旅行で私が感じたこと - 沖縄研修旅行で私が感じたこと（同級生E (同志",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "世界はまだEVOで三度優勝した男のことを知らない②｜ちょもす",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「シンデレラの魔法使いはなんでシンデレラを助けたの？」日本版の童話ではある大事な",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
