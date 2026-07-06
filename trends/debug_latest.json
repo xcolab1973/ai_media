@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T20:50:00+09:00",
+  "generated_at": "2026-07-07T01:10:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,32 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 6,
-    "passed_total": 114,
+    "neg_excluded": 15,
+    "dedup_excluded": 7,
+    "passed_total": 110,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 33,
       "google_trends": 10,
-      "x_realtime": 10,
-      "news_web": 12,
-      "yahoo_news_ranking": 3
+      "x_realtime": 9,
+      "news_web": 14,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
-    "personal_story": 2,
-    "opinion": 9,
-    "medical_science": 7,
-    "hard_fact": 16,
-    "policy": 4
+    "social_reaction": 27,
+    "medical_science": 8,
+    "personal_story": 1,
+    "opinion": 8,
+    "hard_fact": 21,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 32,
-    "hard_fact": 21,
-    "opinion": 9,
-    "personal_story": 2,
-    "medical_science": 2,
-    "policy": 4
+    "social_reaction": 27,
+    "medical_science": 3,
+    "opinion": 8,
+    "hard_fact": 26,
+    "policy": 5,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
@@ -51,58 +51,58 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ロト6当選番号速報",
+      "title": "「メンタルが落ち込んだらステーキ食え！」「甘いもの食って寝ろ！」系の話はガチの精",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "八村塁",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "しゃべくり007",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ぐらんぶる",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "奈良新聞",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "若者による不正アクセスの事件が起きると必ず「才能があるからホワイトハッカーにすれ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "編集長からある日、「今月から原稿料なしになった。うちみたいに歴史ある雑誌に発表で",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "hard_fact"
     },
     {
-      "title": "ネプリーグ",
+      "title": "にじさんじ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "韓国 対 日本",
+      "title": "ハメネイ師 死亡",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "皇位継承問題",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ニュース ウオッチ9",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "音楽の日",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "中村克",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "スターダストプロモーション",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "tver",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
@@ -113,25 +113,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「その手があったか！」アニメ『天幕のジャードゥーガル』ではモンゴル兵の声をモンゴ",
+      "title": "若者による不正アクセスの事件が起きると必ず「才能があるからホワイトハッカーにすれ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "3COINSの新商品に既視感があるなと思ったら、ずいぶん昔に流行した市女姿だった",
+      "title": "車を運転中、娘に「青信号だよ」と言われ、信号を見たら赤で「？」となっていたら「チ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「インターネットは匿名ではありません」誹謗中傷を繰り返してきたアカウントに対し、",
+      "title": "某中央官庁に勤務していた頃、出張先でタクシーを使って総務から「なぜ、バスを使わな",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "「ガチの変な人で笑うしかない」20年以上漫画家をしてきた中で、変な編集は沢山いた",
+      "title": "「人の数だけフェチがある」姉に対する4つのセリフに対する反応でわかる論理クイズみ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -143,10 +143,16 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "アイドルの文化「宿題チェキ」をやってみたい",
+      "title": "3COINSの新商品に既視感があるなと思ったら、ずいぶん昔に流行した市女姿だった",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「メンタルが落ち込んだらステーキ食え！」「甘いもの食って寝ろ！」系の話はガチの精",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "medical_science"
     },
     {
       "title": "JAXA | 小惑星探査機「はやぶさ２」が取得した小惑星「トリフネ」の画像",
@@ -155,15 +161,9 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "中華料理店でご飯を食べた後、腹痛がしたので会計前にトイレに行き、出てくると店内が",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「シンデレラの魔法使いはなんでシンデレラを助けたの？」日本版の童話ではある大事な",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "音楽を志して音大に行ったけど自分には手の届かないことを知り、全然別の..",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
