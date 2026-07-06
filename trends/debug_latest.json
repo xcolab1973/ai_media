@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T07:37:00+09:00",
+  "generated_at": "2026-07-06T15:10:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,47 +16,45 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 13,
-    "passed_total": 114,
+    "neg_excluded": 10,
+    "dedup_excluded": 11,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "yahoo_realtime": 39,
-      "news_web": 12,
       "google_trends": 10,
-      "yahoo_news_ranking": 5,
-      "x_realtime": 4
+      "yahoo_realtime": 36,
+      "news_web": 16,
+      "x_realtime": 6,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "personal_story": 6,
-    "analysis": 1,
-    "social_reaction": 29,
+    "personal_story": 3,
+    "social_reaction": 32,
     "opinion": 9,
-    "medical_science": 5,
-    "hard_fact": 15,
-    "policy": 5
+    "medical_science": 6,
+    "policy": 4,
+    "hard_fact": 16
   },
   "b2b_topic_category_counts": {
-    "personal_story": 6,
-    "hard_fact": 19,
-    "social_reaction": 29,
     "opinion": 9,
-    "analysis": 1,
-    "policy": 5,
-    "medical_science": 1
+    "social_reaction": 32,
+    "personal_story": 3,
+    "medical_science": 2,
+    "hard_fact": 20,
+    "policy": 4
   },
   "b2b_top10": [
     {
-      "title": "デンソー期間工を3年やって貯金が1460万円を達成した方の体験談がためになる「家",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "中国 弾道ミサイル",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "九州～東海 激しい雨や落雷に注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
+      "title": "塩 貝 発言",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "俺は、お前らのためにも死刑は廃止させない。 死刑廃止を訴えてる人って、..",
@@ -65,46 +63,46 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "AV禁止・風俗NGが「最低条件」…女性の恋愛基準は高望みか？Xで大議論",
+      "title": "デンソー期間工を3年やって貯金が1460万円を達成した方の体験談がためになる「家",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "薬師寺保栄",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "高市早苗",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "若隆景渥",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "100年前の女性誌読んでたら『こんなこと本当は人に聞けないけど、間違えたら社交的",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ワールドカップ 組み合わせ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ワールドカップ 結果",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "neymar",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ワールドカップ 得点ランキング",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "analysis"
-    },
-    {
-      "title": "一発退場した米代表FWの出場停止処分が猶予に…次戦出場可能　トランプ大統領は「T",
+      "title": "「コロナで完全に消えた」現役世代の「高齢者を敬う気持ち」に様々な意見が集まるが、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "エデルソン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "大便をぶちまけられたヨドバシ池袋、停電騒動が起きる中、またもや脱糞騒動が起きてし",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
@@ -115,58 +113,58 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "ワールドカップ 得点ランキング",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "analysis"
-    },
-    {
       "title": "俺は、お前らのためにも死刑は廃止させない。 死刑廃止を訴えてる人って、..",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "AV禁止・風俗NGが「最低条件」…女性の恋愛基準は高望みか？Xで大議論",
+      "title": "100年前の女性誌読んでたら『こんなこと本当は人に聞けないけど、間違えたら社交的",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「今日はお前らにタイ人の給料日前飯を3つ紹介する」とあるタイ人女性が金欠レベルに",
+      "title": "「コロナで完全に消えた」現役世代の「高齢者を敬う気持ち」に様々な意見が集まるが、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ちょまって適当に入った店バカ高い ロイヤルホストってとこ→「そこ高級レストランで",
+      "title": "大便をぶちまけられたヨドバシ池袋、停電騒動が起きる中、またもや脱糞騒動が起きてし",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "突然国際郵便が届いた…内容を読んでみたら半年前のイタリア旅行時にスピード違反をし",
+      "title": "「脱糞を行政が許可するべき」池袋辺りは、人の多さに対してトイレが少なすぎる→池袋",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「主人公の気持ちは？」といった問題の意味がわからなかったASDの方が「テクニカル",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "ラーメン屋で40分待っても料理が来ず、二口食べた後に店員からバイクを駐輪場に移動",
+      "title": "トランプ氏のコインで約100万人が計6200億円の損失、本人は大もうけ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "誹謗中傷動画めぐる高市総理の対応「納得できず」51%、内閣支持率65.9% 先月",
+      "title": "飲み会で後輩の婚活話を聞いている際、上司が「傲慢と善良」を読んだ方がいいと勧めた",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "沖縄研修旅行で私が感じたこと - 沖縄研修旅行で私が感じたこと（同級生E (同志",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "世界はまだEVOで三度優勝した男のことを知らない②｜ちょもす",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ]
 }
