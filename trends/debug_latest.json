@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T07:46:00+09:00",
+  "generated_at": "2026-07-07T14:50:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 14,
+    "neg_excluded": 10,
     "dedup_excluded": 8,
-    "passed_total": 110,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 37,
       "google_trends": 10,
       "news_web": 12,
       "x_realtime": 8,
-      "yahoo_news_ranking": 5
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "personal_story": 1,
-    "social_reaction": 28,
+    "social_reaction": 34,
+    "personal_story": 2,
     "opinion": 10,
-    "medical_science": 8,
     "hard_fact": 17,
-    "policy": 6
+    "policy": 2,
+    "medical_science": 5
   },
   "b2b_topic_category_counts": {
-    "personal_story": 1,
-    "social_reaction": 28,
+    "hard_fact": 20,
+    "social_reaction": 34,
     "opinion": 10,
-    "hard_fact": 22,
-    "medical_science": 3,
-    "policy": 6
+    "policy": 3,
+    "personal_story": 2,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "「ずっと悩んでたVR酔いが扇風機で解決した」というポストに同じく悩まされている人",
+      "title": "漫画家・植田まさし氏　連載作品をすべて終了　出版社が合同で感謝　45年間連載「お",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "hard_fact"
     },
     {
-      "title": "佐藤二朗の発言は「演劇史的に間違い」では？──身体接触NGでも夫婦役はできるし、",
+      "title": "EASY 8BIT EDITOR｜無料の8bit・チップチューン作曲ツール",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "エルドアン大統領",
+      "title": "スピード違反は「戦争の道に引きづり込みはしない」　れいわ奥田氏、山本代表「アクロ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "レイプを合法化する法律ができたとします。これを受けてAさんは「レイプが犯罪になら",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "愛甲ひかり",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "エビアン 選手権 日本 人",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "スペイン劇的弾 ポルトガルに勝利",
+      "title": "植田まさし氏 3つの漫画連載終了",
       "source_category": "news_web",
       "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "夏の福袋 2026",
+      "title": "「病欠も忌引きも配慮するつもりはなかったが世界選手権への日本代表選手になったとい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "鈴木 彩 艶",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "運転",
+      "title": "ドラマ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "徹子の部屋",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ブロードコム",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "サムアルトマン",
+      "title": "神戸山口組",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
-      "title": "「ずっと悩んでたVR酔いが扇風機で解決した」というポストに同じく悩まされている人",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "佐藤二朗の発言は「演劇史的に間違い」では？──身体接触NGでも夫婦役はできるし、",
+      "title": "EASY 8BIT EDITOR｜無料の8bit・チップチューン作曲ツール",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "米首都ワシントンの大気汚染に最大級の警報　独立記念日の花火で",
+      "title": "レイプを合法化する法律ができたとします。これを受けてAさんは「レイプが犯罪になら",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "首をコキコキする度に自衛隊みたいな音がするので整骨院に行ったら「今年1番硬いです",
+      "title": "「病欠も忌引きも配慮するつもりはなかったが世界選手権への日本代表選手になったとい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "とあるTikTokerがノーマル無加工写真を公開してアドバイスを募集、集まったア",
+      "title": "自分の作品が出版社により無断で電子書籍化され...印税が支払われていないことを指",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "米国、ベルギーに4―1で敗れる　北中米W杯",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "出くわした道路工事の完成後を見る　工事中→工事後を見て答え合わせ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "転職が決まった友人が、会議の議決事項を平気で覆す人に「それ罷り通るなら前回の会議",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「フランス現代思想」とは何か、それはどこから来て、どこへ行くのか――2020年代",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "シンガポールからの帰国を決めた中田敦彦氏はどうして叩かれてるの？←移住に際し「日",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "エルドアン大統領",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "エビアン 選手権 日本 人",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「『果てしなきスカーレット』は爆死してしまった」細田守が語る最新作の苦戦…「細田",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "池袋ヨドバシの脱糞騒動が話題になっているが、今度は東武百貨店の食品街で糞がぶちま",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「再起不能だと思った」細田守が語る“完成しなかった幻の『ハウルの動く城』”…バイ",
+      "title": "出場停止猶予のアメリカ代表ＦＷバログン、ベルギー戦にスタメン出場…１－４で敗れる",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
