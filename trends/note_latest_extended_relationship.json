@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-07T16:50:29+09:00",
- "valid_until": "2026-07-21T16:48:13+09:00",
+ "generated_at": "2026-07-08T06:47:55+09:00",
+ "valid_until": "2026-07-22T06:43:24+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,18 +9,18 @@
  "merge": {
   "parent": "relationship",
   "from_current": 32,
-  "from_new": 5,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 5,
+  "retention_dropped": 0,
   "genres": 4,
   "retention_per_genre": 8
  },
  "candidates": [
   {
    "source_category": "news_web",
-   "raw_title": "お盆の帰省について、するべきか",
+   "raw_title": "お盆の帰省について、するべきか（あみい。さん）｜家族関係の相談",
    "url": "https://www.mwed.jp/community/questions/23636",
-   "summary": "お盆に義実家へ帰省すべきか悩む相談。夫と事前に意向をすり合わせておくこと、気を遣いすぎるとそれが当然の扱いになってしまう懸念が語られている生の悩み。",
+   "summary": "お盆に帰省すべきか悩む相談投稿。義実家との関係や体調不安から帰省の要不要で迷う声。角度の種：『帰省は義務ではない』という前提と、断る際の伝え方・距離の取り方に読者の実需がありそう（公開claimにはしない）。",
    "signal_type": "evergreen",
    "engagement_signal": false,
    "approx_traffic": "100+",
@@ -33,9 +33,9 @@
    "account_id": "default",
    "origin": "pre_collector_extended",
    "provenance": {
-    "source_name": "みんなのウェディング（家族関係相談）",
+    "source_name": "mwed.jp（家族関係相談コミュニティ）",
     "expert_origin": false,
-    "search_query": "帰省 義実家 気まずい 知恵袋 お盆",
+    "search_query": "お盆 帰省 親戚付き合い 気疲れ 対処法 距離の置き方",
     "freshness": "evergreen",
     "integrity_warning": null,
     "provenance_kind": "pain_seed",
@@ -43,7 +43,7 @@
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-07-20T06:42:38+09:00",
+   "valid_until": "2026-07-22T06:43:24+09:00",
    "validity_days": 14
   },
   {

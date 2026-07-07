@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-07T11:55:26+09:00",
+ "generated_at": "2026-07-08T06:47:54+09:00",
  "valid_until": "2026-07-21T11:51:07+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "mgmt",
   "from_current": 29,
-  "from_new": 3,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 3,
+  "retention_dropped": 1,
   "genres": 4,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "中小企業の社長は資金繰りが苦しい時は自ら負担すると聞きますがどうしてそんな事が出来るのですか？",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11313107391",
+   "summary": "資金繰りが厳しい局面で経営者個人の資産を会社に投入することへの素朴な疑問。会社と経営者個人の財布の境界がどこまで曖昧になり得るのかという生のペイン。角度の種であり公開claimにはしない。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "mgmt-finance",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "資金繰り 苦しい 経営者 相談 site:chiebukuro.yahoo.co.jp OR site:okwave.jp",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-15T06:42:30+09:00",
+   "validity_days": 7
+  },
   {
    "source_category": "news_web",
    "raw_title": "資金ショートを防止するための方法・考え方",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-12T06:36:39+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "非上場・中小企業向けの株主総会対応とは？Ｑ＆Ａ形式で詳しく説明",
-   "url": "https://ylo-corporatelaw.com/corporate/gms-qa/0",
-   "summary": "6月に定時株主総会を終えたばかりの非上場・中小企業向けに、議事録作成・保存義務、決議事項が登記事項の場合は2週間以内の変更登記が必要な点などをQ&A形式で解説。総会後にやるべき実務対応が漏れると法令違反リスクにつながる。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "mgmt-finance",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "吉田総合法律事務所",
-    "expert_origin": true,
-    "search_query": "株主総会後 7月 議事録 対応 中小企業 経営者 やるべきこと 2026",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-11T06:42:27+09:00",
    "validity_days": 7
   },
   {

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-07T16:50:29+09:00",
+ "generated_at": "2026-07-08T06:47:55+09:00",
  "valid_until": "2026-07-21T16:49:24+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -8,14 +8,44 @@
  "total_count": 23,
  "merge": {
   "parent": "travel",
-  "from_current": 24,
-  "from_new": 3,
+  "from_current": 23,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 3,
+  "retention_dropped": 1,
   "genres": 3,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "海外旅行の隠れコスト? 値上がり続くクレカの「海外事務手数料」に注意",
+   "url": "https://www.watch.impress.co.jp/docs/topic/2038281.html",
+   "summary": "クレジットカードの海外事務手数料率がカード会社により1.6%〜3.85%超まで開きがあり、同じ10万円相当の利用でも手数料差が2千円超になり得る。現地通貨決済を選び、店舗側が任意設定するDCC（日本円決済）を避けることで上乗せ手数料を回避できる点が実務上の要点。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "travel-abroad",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Impress Watch",
+    "expert_origin": true,
+    "search_query": "海外旅行 円安 クレジットカード 手数料 損 知恵袋",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-15T06:43:10+09:00",
+   "validity_days": 7
+  },
   {
    "source_category": "news_web",
    "raw_title": "2026年7月から“10年パスポート”の手数料が「1万6300円」→「9300円」に下がると聞いてビックリ！5月・6月中に申請すると損でしょうか？",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-13T06:43:03+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "【国内】2026年7月1日申請分からパスポート発行手数料が大幅値下げへ！10年用は7,000円減額",
-   "url": "https://jts-travel.jp/biztabi/blog-passport/",
-   "summary": "7月1日以降の申請は交付まで3週間〜1か月程度を要する可能性があり、7月出発の海外旅行者は6月中の受取を推奨。値下げと引き換えに交付遅延リスクが生じる点が読者の判断ポイントになる。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "travel-abroad",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "日本ツアーサービス Biz旅",
-    "expert_origin": true,
-    "search_query": "パスポート 手数料 改定 2026年7月 いつ申請すべき 得",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-12T06:42:09+09:00",
    "validity_days": 7
   },
   {
