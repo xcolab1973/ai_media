@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T19:40:00+09:00",
+  "generated_at": "2026-07-08T00:37:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,46 +16,33 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
-    "dedup_excluded": 9,
+    "neg_excluded": 10,
+    "dedup_excluded": 10,
     "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
+      "yahoo_realtime": 37,
       "google_trends": 10,
-      "news_web": 17,
-      "x_realtime": 9,
-      "yahoo_news_ranking": 2
+      "x_realtime": 6,
+      "news_web": 16,
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
     "personal_story": 3,
+    "social_reaction": 30,
     "opinion": 10,
-    "medical_science": 3,
-    "hard_fact": 22,
-    "policy": 4
+    "hard_fact": 17,
+    "policy": 8,
+    "medical_science": 2
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 26,
-    "hard_fact": 26,
-    "opinion": 10,
+    "social_reaction": 30,
     "personal_story": 3,
-    "policy": 4,
-    "medical_science": 1
+    "opinion": 10,
+    "hard_fact": 18,
+    "policy": 9
   },
   "b2b_top10": [
-    {
-      "title": "今YouTubeで無料で観るべき『ゆきゆきて、神軍』以外の映画 - YAMDAS",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "漫画家・植田まさし氏　連載作品すべて終了　出版社が異例の合同声明　46年連載「か",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
     {
       "title": "EASY 8BIT EDITOR｜無料の8bit・チップチューン作曲ツール",
       "source_category": "yahoo_realtime",
@@ -63,54 +50,66 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "スピード違反は「戦争の道に引きづり込みはしない」　れいわ奥田氏、山本代表「アクロ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "「こんな場所もあるんだ、って衝撃的だった」コンゴ民主共和国を走る列車の前面展望動",
+      "title": "今YouTubeで無料で観るべき『ゆきゆきて、神軍』以外の映画 - YAMDAS",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "佐藤龍之介",
+      "title": "これ、何回か何したらいいんだ「全員わからんまま何回か何かした結果よけいおかしくな",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "新卒研修の職場でマニュアルを作らずに「オレがいないと回らないな」と豪語するオジサ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "アルゼンチン エジプト テレビ放送",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "dena 対 中日",
+      "title": "マクロン大統領",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "国内最南端のスキー場 廃止を表明",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_local",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "細田守",
+      "title": "教諭",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "蓮舫",
+      "title": "滝沢カレン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
+    },
+    {
+      "title": "緒方佑奈",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "今まで中途採用の面接であまり落とされたことがなかったので、「私は第一印象が良いん",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     }
   ],
   "note_top10": [
     {
-      "title": "今YouTubeで無料で観るべき『ゆきゆきて、神軍』以外の映画 - YAMDAS",
+      "title": "新卒研修の職場でマニュアルを作らずに「オレがいないと回らないな」と豪語するオジサ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
       "title": "EASY 8BIT EDITOR｜無料の8bit・チップチューン作曲ツール",
@@ -119,7 +118,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「こんな場所もあるんだ、って衝撃的だった」コンゴ民主共和国を走る列車の前面展望動",
+      "title": "今YouTubeで無料で観るべき『ゆきゆきて、神軍』以外の映画 - YAMDAS",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "これ、何回か何したらいいんだ「全員わからんまま何回か何かした結果よけいおかしくな",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "今まで中途採用の面接であまり落とされたことがなかったので、「私は第一印象が良いん",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "喫茶店で店員さんに「お食事はされますか？」と聞かれ『今食って来たばかりなのに食う",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -131,37 +148,19 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "当社ドラマ制作に関するご説明",
+      "title": "“バログン事件”を発端に…イングランド＆フランスもカード取り消しをFIFAに要請",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "若い女の子2人組に写真撮って欲しいと頼まれカメラを向けていたが、ずっと目線ずらし",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "喫茶店で店員さんに「お食事はされますか？」と聞かれ『今食って来たばかりなのに食う",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "先週クレーマーが来たから部署の全員でハカを踊って追い返したんだけど、その後人事課",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "全東信、破産を招いた「2つの事件」　カード決済の”駆け込み寺”消滅が飲食店に与え",
+      "title": "『当社ドラマ制作に関するご説明』へのコメント",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "｢口座残高は209円ですよ。見ますか？｣　就職氷河期世代の49歳男性が｢月収11",
+      "title": "リニアが生む6600万人の「メガ経済圏」　日本の大動脈、実現へ前進 - 日本経済",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
