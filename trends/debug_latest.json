@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T14:50:00+09:00",
+  "generated_at": "2026-07-07T19:40:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,42 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 8,
-    "passed_total": 114,
+    "neg_excluded": 11,
+    "dedup_excluded": 9,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
+      "yahoo_realtime": 32,
       "google_trends": 10,
-      "news_web": 12,
-      "x_realtime": 8,
-      "yahoo_news_ranking": 3
+      "news_web": 17,
+      "x_realtime": 9,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 34,
-    "personal_story": 2,
+    "social_reaction": 28,
+    "personal_story": 3,
     "opinion": 10,
-    "hard_fact": 17,
-    "policy": 2,
-    "medical_science": 5
+    "medical_science": 3,
+    "hard_fact": 22,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 20,
-    "social_reaction": 34,
+    "social_reaction": 26,
+    "hard_fact": 26,
     "opinion": 10,
-    "policy": 3,
-    "personal_story": 2,
+    "personal_story": 3,
+    "policy": 4,
     "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "漫画家・植田まさし氏　連載作品をすべて終了　出版社が合同で感謝　45年間連載「お",
+      "title": "今YouTubeで無料で観るべき『ゆきゆきて、神軍』以外の映画 - YAMDAS",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "漫画家・植田まさし氏　連載作品すべて終了　出版社が異例の合同声明　46年連載「か",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
@@ -63,43 +69,37 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "レイプを合法化する法律ができたとします。これを受けてAさんは「レイプが犯罪になら",
+      "title": "「こんな場所もあるんだ、って衝撃的だった」コンゴ民主共和国を走る列車の前面展望動",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "愛甲ひかり",
+      "title": "佐藤龍之介",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "植田まさし氏 3つの漫画連載終了",
+      "title": "dena 対 中日",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "国内最南端のスキー場 廃止を表明",
       "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
+      "raw_source_key": "yahoo_news_local",
       "topic_category": "hard_fact"
     },
     {
-      "title": "「病欠も忌引きも配慮するつもりはなかったが世界選手権への日本代表選手になったとい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "鈴木 彩 艶",
+      "title": "細田守",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ドラマ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "神戸山口組",
+      "title": "蓮舫",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
+      "title": "今YouTubeで無料で観るべき『ゆきゆきて、神軍』以外の映画 - YAMDAS",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "EASY 8BIT EDITOR｜無料の8bit・チップチューン作曲ツール",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "レイプを合法化する法律ができたとします。これを受けてAさんは「レイプが犯罪になら",
+      "title": "「こんな場所もあるんだ、って衝撃的だった」コンゴ民主共和国を走る列車の前面展望動",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「病欠も忌引きも配慮するつもりはなかったが世界選手権への日本代表選手になったとい",
+      "title": "ハッカ油には蚊が嫌う成分が含まれていると知り「ならば風呂に入れれば全身からハッカ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "当社ドラマ制作に関するご説明",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "自分の作品が出版社により無断で電子書籍化され...印税が支払われていないことを指",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "米国、ベルギーに4―1で敗れる　北中米W杯",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "出くわした道路工事の完成後を見る　工事中→工事後を見て答え合わせ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "転職が決まった友人が、会議の議決事項を平気で覆す人に「それ罷り通るなら前回の会議",
+      "title": "若い女の子2人組に写真撮って欲しいと頼まれカメラを向けていたが、ずっと目線ずらし",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "シンガポールからの帰国を決めた中田敦彦氏はどうして叩かれてるの？←移住に際し「日",
+      "title": "喫茶店で店員さんに「お食事はされますか？」と聞かれ『今食って来たばかりなのに食う",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "池袋ヨドバシの脱糞騒動が話題になっているが、今度は東武百貨店の食品街で糞がぶちま",
+      "title": "先週クレーマーが来たから部署の全員でハカを踊って追い返したんだけど、その後人事課",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "出場停止猶予のアメリカ代表ＦＷバログン、ベルギー戦にスタメン出場…１－４で敗れる",
+      "title": "全東信、破産を招いた「2つの事件」　カード決済の”駆け込み寺”消滅が飲食店に与え",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "｢口座残高は209円ですよ。見ますか？｣　就職氷河期世代の49歳男性が｢月収11",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
