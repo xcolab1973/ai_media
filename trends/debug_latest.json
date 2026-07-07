@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T00:37:00+09:00",
+  "generated_at": "2026-07-08T07:42:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,35 +16,47 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 10,
-    "passed_total": 112,
+    "neg_excluded": 9,
+    "dedup_excluded": 8,
+    "passed_total": 115,
     "b2b_category_counts": {
       "yahoo_realtime": 37,
       "google_trends": 10,
-      "x_realtime": 6,
-      "news_web": 16,
-      "yahoo_news_ranking": 1
+      "news_web": 14,
+      "x_realtime": 9
     }
   },
   "note_category_counts": {
-    "personal_story": 3,
-    "social_reaction": 30,
+    "social_reaction": 32,
     "opinion": 10,
-    "hard_fact": 17,
-    "policy": 8,
-    "medical_science": 2
+    "personal_story": 2,
+    "hard_fact": 18,
+    "medical_science": 3,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
-    "personal_story": 3,
+    "hard_fact": 20,
+    "social_reaction": 32,
     "opinion": 10,
-    "hard_fact": 18,
-    "policy": 9
+    "medical_science": 1,
+    "personal_story": 2,
+    "policy": 5
   },
   "b2b_top10": [
     {
-      "title": "EASY 8BIT EDITOR｜無料の8bit・チップチューン作曲ツール",
+      "title": "EU、中国製の偽造避妊具20万個超押収 性感染症リスク警告",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "見苦しくうるさすぎ、あまりに米国的？ 　フランスで巻き起こるエアコン論争",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "腎臓に大きなダメージを与え寿命にかかわる…｢食品表示欄を見てもわからない｣スーパ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -56,63 +68,51 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "これ、何回か何したらいいんだ「全員わからんまま何回か何かした結果よけいおかしくな",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "新卒研修の職場でマニュアルを作らずに「オレがいないと回らないな」と豪語するオジサ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "アルゼンチン エジプト テレビ放送",
+      "title": "マーリンズ 対 マリナーズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "マクロン大統領",
+      "title": "能登空港 ポケモン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "教諭",
+      "title": "すぐ寝られる音",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "滝沢カレン",
+      "title": "結婚",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "緒方佑奈",
+      "title": "レイズ 対 ヤンキース",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "今まで中途採用の面接であまり落とされたことがなかったので、「私は第一印象が良いん",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "しまむら 日本 代表",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "新卒研修の職場でマニュアルを作らずに「オレがいないと回らないな」と豪語するオジサ",
+      "title": "見苦しくうるさすぎ、あまりに米国的？ 　フランスで巻き起こるエアコン論争",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "EASY 8BIT EDITOR｜無料の8bit・チップチューン作曲ツール",
+      "title": "腎臓に大きなダメージを与え寿命にかかわる…｢食品表示欄を見てもわからない｣スーパ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -124,43 +124,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "これ、何回か何したらいいんだ「全員わからんまま何回か何かした結果よけいおかしくな",
+      "title": "小川哲　「理解できない」を楽しむ［『図書』2026年7月号より］",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "今まで中途採用の面接であまり落とされたことがなかったので、「私は第一印象が良いん",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "マーリンズ 対 マリナーズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "喫茶店で店員さんに「お食事はされますか？」と聞かれ『今食って来たばかりなのに食う",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "能登空港 ポケモン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "ハッカ油には蚊が嫌う成分が含まれていると知り「ならば風呂に入れれば全身からハッカ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "すぐ寝られる音",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "結婚",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "佐藤二朗、主演ドラマめぐるフジ側の経緯説明受け再反論「僕は心から、もう関わりたく",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
       "title": "“バログン事件”を発端に…イングランド＆フランスもカード取り消しをFIFAに要請",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『当社ドラマ制作に関するご説明』へのコメント",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "リニアが生む6600万人の「メガ経済圏」　日本の大動脈、実現へ前進 - 日本経済",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
