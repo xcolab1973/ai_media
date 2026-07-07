@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-07T06:42:13+09:00",
- "valid_until": "2026-07-21T06:35:38+09:00",
+ "generated_at": "2026-07-07T11:55:26+09:00",
+ "valid_until": "2026-07-21T11:52:40+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -8,10 +8,10 @@
  "total_count": 32,
  "merge": {
   "parent": "relationship",
-  "from_current": 31,
-  "from_new": 4,
+  "from_current": 32,
+  "from_new": 3,
   "expired_pruned": 0,
-  "retention_dropped": 3,
+  "retention_dropped": 0,
   "genres": 4,
   "retention_per_genre": 8
  },
@@ -523,7 +523,7 @@
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-07-19T11:52:40+09:00",
+   "valid_until": "2026-07-21T11:52:40+09:00",
    "validity_days": 14
   },
   {
@@ -553,7 +553,7 @@
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-07-19T11:52:40+09:00",
+   "valid_until": "2026-07-21T11:52:40+09:00",
    "validity_days": 14
   },
   {
@@ -583,7 +583,7 @@
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-07-19T11:52:40+09:00",
+   "valid_until": "2026-07-21T11:52:40+09:00",
    "validity_days": 14
   },
   {
