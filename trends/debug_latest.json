@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T00:02:00+09:00",
+  "generated_at": "2026-07-09T07:40:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,30 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 16,
-    "dedup_excluded": 7,
-    "passed_total": 109,
+    "neg_excluded": 18,
+    "dedup_excluded": 9,
+    "passed_total": 105,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
-      "x_realtime": 8,
+      "yahoo_realtime": 35,
+      "x_realtime": 6,
       "google_trends": 10,
-      "news_web": 13,
+      "news_web": 16,
       "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
-    "personal_story": 1,
+    "social_reaction": 27,
     "opinion": 10,
-    "medical_science": 3,
-    "policy": 3,
-    "hard_fact": 21
+    "medical_science": 2,
+    "hard_fact": 25,
+    "policy": 6
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 32,
+    "social_reaction": 27,
     "opinion": 10,
-    "hard_fact": 21,
-    "policy": 3,
-    "medical_science": 3,
-    "personal_story": 1
+    "hard_fact": 25,
+    "policy": 6,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
@@ -51,55 +49,55 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "静岡大学馬術部、馬の近くに「キャベツと人参」を置いていった人に対し「キャベツは馬",
+      "title": "トイ・ストーリーのおもちゃたちが日本のぬい活を見たらびっくらこいて加水分解起こす",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ラストノート",
+      "title": "内田有紀",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "フランス モロッコ 放送",
+      "title": "ドジャース",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "蒼井優",
+      "title": "サッカーワールドカップ ベスト8",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ftse",
+      "title": "親族が急死し空き家になった山奥の一軒家… 整理して一度業者に買取や回収をして貰っ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "流してる音楽が車外にもダダ漏れの車、大抵低音ドコドコの治安悪そうな曲のイメージだ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "マーリンズ 対 マリナーズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "個人情報保護法改正",
+      "title": "パイレーツ 対 ブレーブス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "シリアルキラー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "九州 電力 送 配電",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ミッドナイトタクシー",
+      "title": "めざましテレビ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,58 +111,58 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "静岡大学馬術部、馬の近くに「キャベツと人参」を置いていった人に対し「キャベツは馬",
+      "title": "トイ・ストーリーのおもちゃたちが日本のぬい活を見たらびっくらこいて加水分解起こす",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "裏金事件指揮の主任検事　捜査対象の女性と不適切交際　懲戒処分へ | 毎日新聞",
+      "title": "親族が急死し空き家になった山奥の一軒家… 整理して一度業者に買取や回収をして貰っ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「今天早上、」から始まる中国語の文章、「本日早朝、」と偽中国語にすることによって",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "間違いなく「男子トイレが減るだけ」だから怒ってるんだよ。",
+      "title": "流してる音楽が車外にもダダ漏れの車、大抵低音ドコドコの治安悪そうな曲のイメージだ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「『宝島』という映画を見に行く気が失せた理由の一つです」映画の予告編を見たら直木",
+      "title": "調剤薬局を経営している人から「薬剤師募集の広告を出すと、毎回一定数、薬剤師免許を",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "なんでこんな名前なんだろうと思う中国の食べ物1位『撒尿牛肉丸（シッコ撒き牛肉丸）",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "特殊清掃の現場で、休憩から戻るとトラックの荷台に「頼まれていないはずの洗濯機」が",
+      "title": "アニメ「攻殻機動隊 THE GHOST IN THE SHELL」第1話が配信開",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "部下に間違えて「ちょっとパパに見せて」と言ってしまった医師に対する部下と患者の反",
+      "title": "コンプした人もいるにはいるが「吉野家ドラクエウォーク」コラボが「ひとくい紅生姜ば",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ねえ、ほんとにこれは夏？ほんとはおれたちみんな死んでんじゃないの？「能天気すぎる",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "内田有紀",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ドジャース",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "サッカーワールドカップ ベスト8",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
