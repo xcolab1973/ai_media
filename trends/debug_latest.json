@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T19:00:00+09:00",
+  "generated_at": "2026-07-09T00:02:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,89 +17,89 @@
       "x_realtime": 10
     },
     "neg_excluded": 16,
-    "dedup_excluded": 6,
-    "passed_total": 110,
+    "dedup_excluded": 7,
+    "passed_total": 109,
     "b2b_category_counts": {
-      "x_realtime": 10,
-      "yahoo_realtime": 35,
-      "news_web": 14,
-      "google_trends": 8,
+      "yahoo_realtime": 36,
+      "x_realtime": 8,
+      "google_trends": 10,
+      "news_web": 13,
       "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 38,
-    "opinion": 8,
+    "social_reaction": 32,
     "personal_story": 1,
-    "medical_science": 5,
-    "hard_fact": 17,
-    "policy": 1
+    "opinion": 10,
+    "medical_science": 3,
+    "policy": 3,
+    "hard_fact": 21
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 37,
-    "hard_fact": 18,
-    "opinion": 8,
+    "social_reaction": 32,
+    "opinion": 10,
+    "hard_fact": 21,
     "policy": 3,
     "medical_science": 3,
     "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "「身体接触にNGがあっても夫婦役はできるし、『芝居の神さま』は唯一神じゃない」演",
+      "title": "究極の節約レシピ本を出版しました。 - 東雲製作所",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "静岡大学馬術部、馬の近くに「キャベツと人参」を置いていった人に対し「キャベツは馬",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "昔の職場に「開けないで」「切らないで」と注意書きがあるものを全部実行するおばさん",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "スマホ版マリカー サービス終了へ",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "見苦しくうるさすぎ、あまりに米国的？ 　フランスで巻き起こるエアコン論争",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "佐藤二朗を信じていたエンタメ記者が｢ムムム｣…｢危険信号｣をかぎとったXから削除",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "高市早苗",
+      "title": "ラストノート",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "西武 対 楽天",
+      "title": "フランス モロッコ 放送",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "yahoo!ニュース",
+      "title": "蒼井優",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "oricon news",
+      "title": "ftse",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ファーストクライ",
+      "title": "個人情報保護法改正",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "シリアルキラー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "九州 電力 送 配電",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ミッドナイトタクシー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,63 +107,63 @@
   ],
   "note_top10": [
     {
-      "title": "「身体接触にNGがあっても夫婦役はできるし、『芝居の神さま』は唯一神じゃない」演",
+      "title": "究極の節約レシピ本を出版しました。 - 東雲製作所",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "静岡大学馬術部、馬の近くに「キャベツと人参」を置いていった人に対し「キャベツは馬",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "昔の職場に「開けないで」「切らないで」と注意書きがあるものを全部実行するおばさん",
+      "title": "裏金事件指揮の主任検事　捜査対象の女性と不適切交際　懲戒処分へ | 毎日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "見苦しくうるさすぎ、あまりに米国的？ 　フランスで巻き起こるエアコン論争",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "佐藤二朗を信じていたエンタメ記者が｢ムムム｣…｢危険信号｣をかぎとったXから削除",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ウエストランド井口と作家飯塚とリニア酒井が語る「2026年6月のお笑い」 | 今",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "今年から園で「泥遊び」が導入され、「よごれてもいいふく」と書いてある服を着せてい",
+      "title": "「今天早上、」から始まる中国語の文章、「本日早朝、」と偽中国語にすることによって",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「乙嫁語りは中央アジアとの親交のために国費で制作された」と現地の人が勘違いしてい",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "間違いなく「男子トイレが減るだけ」だから怒ってるんだよ。",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "「『宝島』という映画を見に行く気が失せた理由の一つです」映画の予告編を見たら直木",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「おい社畜ども！仔猫の配給だ！」週の半ばの疲れ切った社会人に子猫画像が染み渡る（",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "女性の吐き気や嘔吐の原因となっていた胃石を「ダイエットコーラ」で溶かしたという事",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "なんでこんな名前なんだろうと思う中国の食べ物1位『撒尿牛肉丸（シッコ撒き牛肉丸）",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "特殊清掃の現場で、休憩から戻るとトラックの荷台に「頼まれていないはずの洗濯機」が",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "部下に間違えて「ちょっとパパに見せて」と言ってしまった医師に対する部下と患者の反",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ねえ、ほんとにこれは夏？ほんとはおれたちみんな死んでんじゃないの？「能天気すぎる",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
