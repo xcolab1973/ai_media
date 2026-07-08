@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T07:42:00+09:00",
+  "generated_at": "2026-07-08T13:52:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,97 +16,126 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 8,
-    "passed_total": 115,
+    "neg_excluded": 11,
+    "dedup_excluded": 10,
+    "passed_total": 111,
     "b2b_category_counts": {
       "yahoo_realtime": 37,
       "google_trends": 10,
-      "news_web": 14,
-      "x_realtime": 9
+      "news_web": 15,
+      "x_realtime": 6,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
+    "social_reaction": 31,
     "opinion": 10,
     "personal_story": 2,
-    "hard_fact": 18,
-    "medical_science": 3,
-    "policy": 5
+    "hard_fact": 21,
+    "medical_science": 6
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 20,
-    "social_reaction": 32,
+    "social_reaction": 31,
     "opinion": 10,
-    "medical_science": 1,
-    "personal_story": 2,
-    "policy": 5
+    "hard_fact": 23,
+    "medical_science": 4,
+    "personal_story": 2
   },
   "b2b_top10": [
+    {
+      "title": "昔の職場に「開けないで」「切らないで」と注意書きがあるものを全部実行するおばさん",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "時短勤務なのに毎日残業して死ぬほど仕事を頑張り、子供の延長保育までしたのに、前年",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "明治にできた日本最古の有料トンネル（今は無料）が静岡市にある",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "迫る｢iPhone値上げ｣　メモリー価格3倍、転嫁なら13万円→15万円超 - ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ドジャース 対 ロッキーズ 試合 選手データ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "見苦しくうるさすぎ、あまりに米国的？ 　フランスで巻き起こるエアコン論争",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "古舘伊知郎",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "メッシが涙 劇的勝利後に胴上げ",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_sports",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "佐藤二朗を信じていたエンタメ記者が｢ムムム｣…｢危険信号｣をかぎとったXから削除",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "EU、中国製の偽造避妊具20万個超押収 性感染症リスク警告",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
-    },
-    {
-      "title": "見苦しくうるさすぎ、あまりに米国的？ 　フランスで巻き起こるエアコン論争",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "腎臓に大きなダメージを与え寿命にかかわる…｢食品表示欄を見てもわからない｣スーパ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "今YouTubeで無料で観るべき『ゆきゆきて、神軍』以外の映画 - YAMDAS",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "マーリンズ 対 マリナーズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "能登空港 ポケモン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "すぐ寝られる音",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "結婚",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "レイズ 対 ヤンキース",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "しまむら 日本 代表",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
+      "title": "時短勤務なのに毎日残業して死ぬほど仕事を頑張り、子供の延長保育までしたのに、前年",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "昔の職場に「開けないで」「切らないで」と注意書きがあるものを全部実行するおばさん",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "明治にできた日本最古の有料トンネル（今は無料）が静岡市にある",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "迫る｢iPhone値上げ｣　メモリー価格3倍、転嫁なら13万円→15万円超 - ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "見苦しくうるさすぎ、あまりに米国的？ 　フランスで巻き起こるエアコン論争",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "佐藤二朗を信じていたエンタメ記者が｢ムムム｣…｢危険信号｣をかぎとったXから削除",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -118,49 +147,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "今YouTubeで無料で観るべき『ゆきゆきて、神軍』以外の映画 - YAMDAS",
+      "title": "女性の吐き気や嘔吐の原因となっていた胃石を「ダイエットコーラ」で溶かしたという事",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "小川哲　「理解できない」を楽しむ［『図書』2026年7月号より］",
+      "title": "「自動ブレーキ機能がなかったら2人轢き殺してた、勘弁してくれ」対向車の死角から子",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "マーリンズ 対 マリナーズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "能登空港 ポケモン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "すぐ寝られる音",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "結婚",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "佐藤二朗、主演ドラマめぐるフジ側の経緯説明受け再反論「僕は心から、もう関わりたく",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "“バログン事件”を発端に…イングランド＆フランスもカード取り消しをFIFAに要請",
+      "title": "毎朝、通勤電車で全身モンベルの男性がおり『モンベルマン』と勝手に呼んでいたが、あ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
