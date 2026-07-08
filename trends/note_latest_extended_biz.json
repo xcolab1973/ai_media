@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-08T06:47:54+09:00",
+ "generated_at": "2026-07-08T11:57:50+09:00",
  "valid_until": "2026-07-19T06:36:26+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "biz",
   "from_current": 24,
-  "from_new": 3,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 3,
+  "retention_dropped": 1,
   "genres": 3,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "Yahoo!ショッピング出店料 有料化・値上げ時代の生存戦略",
+   "url": "https://note.com/ec_consulting/n/nbe86e5948699",
+   "summary": "2026年9月の出店有料化を見据え、月商規模別のコスト試算とLINE・AI活用による生存戦略を提示。月商が低いショップほど売上比の負担率が重くなるため、値付け見直しや他モールへの移行判断を早期に行う必要性を指摘。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "biz-ec-shop",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "note（EC-Consulting Japan）",
+    "expert_origin": true,
+    "search_query": "Yahoo!ショッピング 出店 有料化 個人 対応 2026年9月",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-13T11:48:27+09:00",
+   "validity_days": 5
+  },
   {
    "source_category": "news_web",
    "raw_title": "2割特例終了後の経過措置「3割特例」、個人事業主限定で2年間新設",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-11T06:35:17+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "ヤフーショッピング出店費用が有料化へ◆eコマース革命（手数料無料化）終了→月額１万＋売上2.5％＋LINE経由4％「Yahoo! EC Pilot」の導入",
-   "url": "https://note.com/netshops/n/n58d74c282e2b",
-   "summary": "有料化で休眠店舗の大量離脱が起きる可能性を指摘。中小EC事業者が生き残るには、楽天への追加出店や複数モール運用など、Yahoo!一本足打法からの脱却を検討する動きが出ていることを紹介。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "biz-ec-shop",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "note（EC卒業）",
-    "expert_origin": true,
-    "search_query": "ヤフーショッピング 有料化 撤退 楽天 移行 知恵袋 OKWAVE",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-10T17:41:18+09:00",
    "validity_days": 5
   },
   {
