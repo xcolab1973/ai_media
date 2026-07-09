@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-09T16:54:22+09:00",
- "valid_until": "2026-07-23T16:43:05+09:00",
+ "generated_at": "2026-07-10T06:43:40+09:00",
+ "valid_until": "2026-07-24T06:35:02+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -16,6 +16,36 @@
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "【完全ガイド】里帰り出産で後悔しない！準備スケジュールからパパの役割、実家へのお礼まで",
+   "url": "https://note.com/purimoco/n/na0edcf88f744",
+   "summary": "里帰り出産を予定していたが帰省前に破水し準備が間に合わなかった体験を交えつつ、後悔しないための準備スケジュールや実家への配慮を個人の視点で共有するnote記事。「早めの準備」の重要性を訴える一次体験ベースの内容。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "childcare-pregnancy",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "note（個人体験談・purimoco）",
+    "expert_origin": false,
+    "search_query": "妊娠中 夏 出産準備 里帰り出産 いつから 準備リスト",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-24T06:35:02+09:00",
+   "validity_days": 14
+  },
   {
    "source_category": "news_web",
    "raw_title": "「正常分娩を現物給付化し妊婦の費用負担をゼロに」＋「新現金給付を設け妊婦の諸費用負担を支援」―社保審・医療保険部会",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-18T06:34:28+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "つわりで仕事を休む目安と母健連絡カードの使い方",
-   "url": "https://www.bosei-navi.mhlw.go.jp/senmon/senmon09.html",
-   "summary": "つわりのピークは妊娠8〜10週で16週頃までに軽快することが多い。医師の指導があれば母性健康管理指導事項連絡カードを事業主に提出し、休暇や業務軽減を申し出られるが、この制度の存在自体を知らない妊婦が多い。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "childcare-pregnancy",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "働く女性の心とからだの応援サイト（厚生労働省）",
-    "expert_origin": true,
-    "search_query": "つわり 仕事 いつ報告 妊娠初期 対応",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-16T06:35:50+09:00",
    "validity_days": 14
   },
   {

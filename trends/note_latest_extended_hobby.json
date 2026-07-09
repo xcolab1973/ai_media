@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-09T16:54:22+09:00",
+ "generated_at": "2026-07-10T06:43:40+09:00",
  "valid_until": "2026-07-23T16:43:18+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "hobby",
   "from_current": 64,
-  "from_new": 6,
+  "from_new": 0,
   "expired_pruned": 0,
-  "retention_dropped": 6,
+  "retention_dropped": 0,
   "genres": 8,
   "retention_per_genre": 8
  },
