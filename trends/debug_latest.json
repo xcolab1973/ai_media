@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T00:49:00+09:00",
+  "generated_at": "2026-07-10T07:53:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 8,
+    "neg_excluded": 10,
+    "dedup_excluded": 10,
     "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
-      "x_realtime": 9,
+      "x_realtime": 8,
+      "yahoo_realtime": 33,
       "google_trends": 10,
-      "news_web": 16,
-      "yahoo_news_ranking": 3
+      "news_web": 15,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
     "social_reaction": 28,
     "opinion": 10,
+    "personal_story": 2,
+    "medical_science": 6,
     "policy": 5,
-    "hard_fact": 23,
-    "medical_science": 4
+    "hard_fact": 19
   },
   "b2b_topic_category_counts": {
-    "policy": 5,
     "social_reaction": 28,
-    "hard_fact": 24,
+    "policy": 5,
+    "medical_science": 5,
     "opinion": 10,
-    "medical_science": 3
+    "hard_fact": 20,
+    "personal_story": 2
   },
   "b2b_top10": [
+    {
+      "title": "美容室でパーマ液が垂れてきて溺れかけた話…笑い話に見えるがパーマ液はわりと危険な",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "備蓄米の早期買い戻し浮上　官邸難色「何で今」物価高対策に逆行懸念：朝日新聞",
       "source_category": "yahoo_realtime",
@@ -49,10 +57,10 @@
       "topic_category": "policy"
     },
     {
-      "title": "スーパーで生イカのパックを指で押してた小学生に、隣にいた女性が注意してたのでちゃ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "浜名湖でも鹿児島でもなく“下呂温泉”でうなぎ養殖、「脂がのって軽い口当たり、しか",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
     },
     {
       "title": "夜釣り中に突然暴行を受けた件について（経緯と注意喚起）",
@@ -61,43 +69,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "YouTube Premium値上げの1カ月後にDuckDuckGoが「YouT",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "【速報】元宮内庁長官、皇室典範に「構造的欠陥」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
       "title": "〈池袋で“人糞”騒動〉「クソったれ…テロか？」と大炎上、家電量販店で相次ぐ目撃投",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ドコモsmtbネット銀行",
+      "title": "【5日前のパスタを食べた20歳の学生が死亡】電子レンジの再加熱での殺菌効果も期待",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "タイガース 対 アスレチックス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ミュージックステーション",
+      "title": "マーリンズ 対 マリナーズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "あおり運転",
+      "title": "祇園祭 2026",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ガウフ",
+      "title": "ev",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,7 +107,7 @@
   ],
   "note_top10": [
     {
-      "title": "スーパーで生イカのパックを指で押してた小学生に、隣にいた女性が注意してたのでちゃ",
+      "title": "美容室でパーマ液が垂れてきて溺れかけた話…笑い話に見えるがパーマ液はわりと危険な",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -118,6 +120,18 @@
     },
     {
       "title": "〈池袋で“人糞”騒動〉「クソったれ…テロか？」と大炎上、家電量販店で相次ぐ目撃投",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ヤニねこ 第2話「ニャーの後輩たちにゃ」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "引っ越し先の物件にちゃんとした和室があったので、和室気分を盛り上げるためにちゃぶ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -129,37 +143,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "あまり関わりたくない親戚から連絡… 要件を聞くと、その親戚のそのまた親戚が就職に",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "引っ越し先の物件にちゃんとした和室があったので、和室気分を盛り上げるためにちゃぶ",
+      "title": "「世界史でモンゴルはマイナー」と言われたが「モンゴルが世界史を作った」という話…",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "東京に引っ越してきて感じたのは「京阪神と比べると食文化がそこまで発達していない」",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "今日ビバホームの掃除用品売り場で園児を乗せたベビーカートとすれ違ったんだけど、ホ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "母から「めまいが酷くて起き上がれない」と電話… 明らかにヤバいので喋れるうちに1",
+      "title": "あまり関わりたくない親戚から連絡… 要件を聞くと、その親戚のそのまた親戚が就職に",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "初めて大阪で「道頓堀今井」のうどんを食べた時は、大阪人が東京の飯をまずいと言う理",
+      "title": "原作クラッシャーアニメ監督の最高峰は押井守ではなく宮崎駿…ボロネーゼを作らせてナ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
