@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T07:40:00+09:00",
+  "generated_at": "2026-07-09T14:47:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,88 +16,88 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 18,
-    "dedup_excluded": 9,
-    "passed_total": 105,
+    "neg_excluded": 9,
+    "dedup_excluded": 10,
+    "passed_total": 113,
     "b2b_category_counts": {
       "yahoo_realtime": 35,
-      "x_realtime": 6,
+      "x_realtime": 8,
       "google_trends": 10,
-      "news_web": 16,
-      "yahoo_news_ranking": 3
+      "news_web": 15,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 27,
+    "social_reaction": 34,
     "opinion": 10,
-    "medical_science": 2,
-    "hard_fact": 25,
-    "policy": 6
+    "medical_science": 1,
+    "hard_fact": 20,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 27,
+    "social_reaction": 34,
     "opinion": 10,
-    "hard_fact": 25,
-    "policy": 6,
-    "medical_science": 2
+    "hard_fact": 20,
+    "policy": 5,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "究極の節約レシピ本を出版しました。 - 東雲製作所",
+      "title": "吉野家は好調、すき家は値上げ、松屋は併設店で勝つ。牛丼で稼げぬ時代の中の、牛丼3",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "トイ・ストーリーのおもちゃたちが日本のぬい活を見たらびっくらこいて加水分解起こす",
+      "title": "「危険警報で全員避難」の危うさ　避難情報の役割と区別を｜牛山素行",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "厚生年金に加入してたが、学生免除で勘違いがあったのか未納扱いになり、障害年金が受",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "内田有紀",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ドジャース",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "サッカーワールドカップ ベスト8",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "親族が急死し空き家になった山奥の一軒家… 整理して一度業者に買取や回収をして貰っ",
+      "title": "経済プラス：スマホがないと生きられない?　デジタル強制に疑問、必要な視点 | 毎",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "流してる音楽が車外にもダダ漏れの車、大抵低音ドコドコの治安悪そうな曲のイメージだ",
+      "title": "75歳への年金繰り下げ、本当は大損（日経ヴェリタス連載128回） – 橘玲 公式",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "マーリンズ 対 マリナーズ",
+      "title": "「日本イスラム共和国からミサイル攻撃を受けた」アメリカ・トランプ大統領が、イラン",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "タイピング",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "パイレーツ 対 ブレーブス",
+      "title": "ポケモン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "めざましテレビ",
+      "title": "パドレス 対 dバックス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "本広 克行",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,64 +105,64 @@
   ],
   "note_top10": [
     {
-      "title": "究極の節約レシピ本を出版しました。 - 東雲製作所",
+      "title": "吉野家は好調、すき家は値上げ、松屋は併設店で勝つ。牛丼で稼げぬ時代の中の、牛丼3",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "トイ・ストーリーのおもちゃたちが日本のぬい活を見たらびっくらこいて加水分解起こす",
+      "title": "経済プラス：スマホがないと生きられない?　デジタル強制に疑問、必要な視点 | 毎",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「危険警報で全員避難」の危うさ　避難情報の役割と区別を｜牛山素行",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "厚生年金に加入してたが、学生免除で勘違いがあったのか未納扱いになり、障害年金が受",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "親族が急死し空き家になった山奥の一軒家… 整理して一度業者に買取や回収をして貰っ",
+      "title": "75歳への年金繰り下げ、本当は大損（日経ヴェリタス連載128回） – 橘玲 公式",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "流してる音楽が車外にもダダ漏れの車、大抵低音ドコドコの治安悪そうな曲のイメージだ",
+      "title": "農村で育った人に「トトロを見始めて、これ昔の話だ…ってどの段階で気付きました？」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "調剤薬局を経営している人から「薬剤師募集の広告を出すと、毎回一定数、薬剤師免許を",
+      "title": "歌唱3秒の「は・か・た・の・しお」　カラオケ週間ランキング1位に：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "アニメ「攻殻機動隊 THE GHOST IN THE SHELL」第1話が配信開",
+      "title": "「日本イスラム共和国からミサイル攻撃を受けた」アメリカ・トランプ大統領が、イラン",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【独自】「刺」「殺」を使わない指導目指す　宮城県高野連、今秋にも検討委設置へ＜再",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "飲食店のスタッフが転倒した客を助けたら同行者に「従業員が私達を笑った事はXで拡散",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "コンプした人もいるにはいるが「吉野家ドラクエウォーク」コラボが「ひとくい紅生姜ば",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "内田有紀",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ドジャース",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "サッカーワールドカップ ベスト8",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ]
 }
