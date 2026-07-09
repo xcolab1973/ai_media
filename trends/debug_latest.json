@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T14:47:00+09:00",
+  "generated_at": "2026-07-09T19:50:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,37 +16,49 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 10,
-    "passed_total": 113,
+    "neg_excluded": 12,
+    "dedup_excluded": 9,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
-      "x_realtime": 8,
+      "yahoo_realtime": 33,
+      "x_realtime": 7,
       "google_trends": 10,
       "news_web": 15,
-      "yahoo_news_ranking": 2
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 34,
-    "opinion": 10,
-    "medical_science": 1,
-    "hard_fact": 20,
-    "policy": 5
+    "social_reaction": 28,
+    "opinion": 9,
+    "medical_science": 4,
+    "hard_fact": 26,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 34,
-    "opinion": 10,
-    "hard_fact": 20,
-    "policy": 5,
-    "medical_science": 1
+    "hard_fact": 27,
+    "social_reaction": 28,
+    "opinion": 9,
+    "medical_science": 3,
+    "policy": 3
   },
   "b2b_top10": [
     {
-      "title": "吉野家は好調、すき家は値上げ、松屋は併設店で勝つ。牛丼で稼げぬ時代の中の、牛丼3",
+      "title": "【速報】元宮内庁長官、皇室典範に「構造的欠陥」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "【虫注意】マクドナルドに行ったら『緊急閉店のお知らせ』が貼り出してあった「店外よ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "YouTube Premium値上げの1カ月後にDuckDuckGoが「YouT",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
     },
     {
       "title": "「危険警報で全員避難」の危うさ　避難情報の役割と区別を｜牛山素行",
@@ -55,9 +67,15 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "厚生年金に加入してたが、学生免除で勘違いがあったのか未納扱いになり、障害年金が受",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "ネーションズリーグ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "75歳への年金繰り下げ、本当は大損（日経ヴェリタス連載128回） – 橘玲 公式",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -67,37 +85,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "75歳への年金繰り下げ、本当は大損（日経ヴェリタス連載128回） – 橘玲 公式",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「日本イスラム共和国からミサイル攻撃を受けた」アメリカ・トランプ大統領が、イラン",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "タイピング",
+      "title": "山本太郎",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ポケモン",
+      "title": "石川佳純",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "パドレス 対 dバックス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "本広 克行",
+      "title": "タイ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,9 +105,9 @@
   ],
   "note_top10": [
     {
-      "title": "吉野家は好調、すき家は値上げ、松屋は併設店で勝つ。牛丼で稼げぬ時代の中の、牛丼3",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "【虫注意】マクドナルドに行ったら『緊急閉店のお知らせ』が貼り出してあった「店外よ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -123,9 +123,9 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "厚生年金に加入してたが、学生免除で勘違いがあったのか未納扱いになり、障害年金が受",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "今日ビバホームの掃除用品売り場で園児を乗せたベビーカートとすれ違ったんだけど、ホ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -135,9 +135,21 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "農村で育った人に「トトロを見始めて、これ昔の話だ…ってどの段階で気付きました？」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "駅のホームに落ちていた切符を拾ったら『新幹線を含むJRが2週間乗り放題で8万円』",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "うどん打ちが趣味の父が吉池の生うどんを食べたらうどんを打つのをやめてしまった、今",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "父がLINEでは部下に「お疲れ様」の代わりに「お疲れファーストサマーウイカです」",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -147,22 +159,10 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「日本イスラム共和国からミサイル攻撃を受けた」アメリカ・トランプ大統領が、イラン",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【独自】「刺」「殺」を使わない指導目指す　宮城県高野連、今秋にも検討委設置へ＜再",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "飲食店のスタッフが転倒した客を助けたら同行者に「従業員が私達を笑った事はXで拡散",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "ネーションズリーグ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
