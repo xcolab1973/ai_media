@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T19:50:00+09:00",
+  "generated_at": "2026-07-10T00:49:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,41 +17,47 @@
       "x_realtime": 10
     },
     "neg_excluded": 12,
-    "dedup_excluded": 9,
-    "passed_total": 111,
+    "dedup_excluded": 8,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
-      "x_realtime": 7,
+      "yahoo_realtime": 32,
+      "x_realtime": 9,
       "google_trends": 10,
-      "news_web": 15,
-      "yahoo_news_ranking": 5
+      "news_web": 16,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
     "social_reaction": 28,
-    "opinion": 9,
-    "medical_science": 4,
-    "hard_fact": 26,
-    "policy": 3
+    "opinion": 10,
+    "policy": 5,
+    "hard_fact": 23,
+    "medical_science": 4
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 27,
+    "policy": 5,
     "social_reaction": 28,
-    "opinion": 9,
-    "medical_science": 3,
-    "policy": 3
+    "hard_fact": 24,
+    "opinion": 10,
+    "medical_science": 3
   },
   "b2b_top10": [
     {
-      "title": "【速報】元宮内庁長官、皇室典範に「構造的欠陥」",
+      "title": "備蓄米の早期買い戻し浮上　官邸難色「何で今」物価高対策に逆行懸念：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "policy"
     },
     {
-      "title": "【虫注意】マクドナルドに行ったら『緊急閉店のお知らせ』が貼り出してあった「店外よ",
+      "title": "スーパーで生イカのパックを指で押してた小学生に、隣にいた女性が注意してたのでちゃ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "夜釣り中に突然暴行を受けた件について（経緯と注意喚起）",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -61,43 +67,37 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "「危険警報で全員避難」の危うさ　避難情報の役割と区別を｜牛山素行",
+      "title": "【速報】元宮内庁長官、皇室典範に「構造的欠陥」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "〈池袋で“人糞”騒動〉「クソったれ…テロか？」と大炎上、家電量販店で相次ぐ目撃投",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ネーションズリーグ",
+      "title": "ドコモsmtbネット銀行",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "75歳への年金繰り下げ、本当は大損（日経ヴェリタス連載128回） – 橘玲 公式",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "経済プラス：スマホがないと生きられない?　デジタル強制に疑問、必要な視点 | 毎",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "山本太郎",
+      "title": "ミュージックステーション",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "石川佳純",
+      "title": "あおり運転",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "タイ",
+      "title": "ガウフ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,21 +105,45 @@
   ],
   "note_top10": [
     {
-      "title": "【虫注意】マクドナルドに行ったら『緊急閉店のお知らせ』が貼り出してあった「店外よ",
+      "title": "スーパーで生イカのパックを指で押してた小学生に、隣にいた女性が注意してたのでちゃ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "経済プラス：スマホがないと生きられない?　デジタル強制に疑問、必要な視点 | 毎",
+      "title": "夜釣り中に突然暴行を受けた件について（経緯と注意喚起）",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「危険警報で全員避難」の危うさ　避難情報の役割と区別を｜牛山素行",
+      "title": "〈池袋で“人糞”騒動〉「クソったれ…テロか？」と大炎上、家電量販店で相次ぐ目撃投",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "韓国人「日本の正倉院に所蔵されているような美しい碁盤がまた作られてほしいよ」日本",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "あまり関わりたくない親戚から連絡… 要件を聞くと、その親戚のそのまた親戚が就職に",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "引っ越し先の物件にちゃんとした和室があったので、和室気分を盛り上げるためにちゃぶ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東京に引っ越してきて感じたのは「京阪神と比べると食文化がそこまで発達していない」",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -129,40 +153,16 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "75歳への年金繰り下げ、本当は大損（日経ヴェリタス連載128回） – 橘玲 公式",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "駅のホームに落ちていた切符を拾ったら『新幹線を含むJRが2週間乗り放題で8万円』",
+      "title": "母から「めまいが酷くて起き上がれない」と電話… 明らかにヤバいので喋れるうちに1",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "うどん打ちが趣味の父が吉池の生うどんを食べたらうどんを打つのをやめてしまった、今",
+      "title": "初めて大阪で「道頓堀今井」のうどんを食べた時は、大阪人が東京の飯をまずいと言う理",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "父がLINEでは部下に「お疲れ様」の代わりに「お疲れファーストサマーウイカです」",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "歌唱3秒の「は・か・た・の・しお」　カラオケ週間ランキング1位に：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ネーションズリーグ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ]
 }
