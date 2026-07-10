@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T00:24:00+09:00",
+  "generated_at": "2026-07-11T07:38:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,38 +16,50 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
+    "neg_excluded": 6,
     "dedup_excluded": 11,
-    "passed_total": 114,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
-      "x_realtime": 7,
+      "yahoo_realtime": 38,
+      "x_realtime": 6,
       "google_trends": 10,
-      "news_web": 14,
-      "yahoo_news_ranking": 3
+      "news_web": 15,
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
+    "social_reaction": 27,
     "personal_story": 3,
     "opinion": 10,
-    "policy": 5,
+    "policy": 6,
     "medical_science": 5,
-    "hard_fact": 21
+    "hard_fact": 19
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 26,
-    "policy": 5,
-    "hard_fact": 23,
+    "social_reaction": 27,
+    "policy": 6,
+    "hard_fact": 21,
     "opinion": 10,
-    "medical_science": 3,
-    "personal_story": 3
+    "personal_story": 3,
+    "medical_science": 3
   },
   "b2b_top10": [
     {
       "title": "「ごめんなさい名古屋はマジで美味しい店ないです東京よりないです」と発言したリュウ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "博士号取得、30年度までに年2万人　政府のイノベーション戦略 - 日本経済新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "落ち着いて聞いてください…スポーツドリンク160円をケチって飲まず熱中症で倒れた",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -69,37 +81,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「熱中症っぽいとき、AIに頼るのは危ないので病院行け」実際にAIに丸投げしてアド",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ワールドカップサッカー",
+      "title": "南シナ海",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "DOMOTO STARTO社と契約終了へ",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "東美スタディ｜デザインの基本を、さわって学ぶ｜東洋美術学校",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "javaリング",
+      "title": "オールスターゲーム",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "宝くじ ロト7",
+      "title": "冠番組",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "usj",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,58 +113,58 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "落ち着いて聞いてください…スポーツドリンク160円をケチって飲まず熱中症で倒れた",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "「デザイン関連職に興味ある人、全員見た方がいい」東洋美術学校がデザインの基礎と歴",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「熱中症っぽいとき、AIに頼るのは危ないので病院行け」実際にAIに丸投げしてアド",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "東美スタディ｜デザインの基本を、さわって学ぶ｜東洋美術学校",
+      "title": "マジで30代にもなって経験がないから、世間の人がどういう流れで性行為するのかわか",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "遠足中に「お茶買えず」、帰宅した児童が熱中症　公立小側は責任否定 - 日本経済新",
+      "title": "アニメ『ヤニねこ』、ついにガッツリヤクを決めるシーンが出てしまう…あまりに詳しい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "毎回新幹線で東京に向かうたびに「品川ってなんのためにあるの？」って思う→混雑緩和",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "東京在住27年目による「都内ヤバい飯屋ワード完全早見表」がさすがの解像度→「珍し",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「1泊朝食付きで1250円」天理教の詰所に宿泊してみたが、強引な勧誘がなくここま",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
     },
     {
       "title": "新幹線で座席を倒す際の声かけは要らないと聞いていたので、自分もそれに倣って座席を",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "朝の6時にピンポンが鳴り、玄関を開けたら小学生の女の子が泣きながら立っていたが、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "MADE IN YAMATO - 第７話　幻の果実を求めて | ヤンマガWeb",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ロマンス詐欺にひっかかった親友を救う話」が勢いのあるギャグとナニコレ展開が癖に",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "世のあらゆる作品に登場する漫画界のイースターエッグとして扱われている実在する人物",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ]
 }
