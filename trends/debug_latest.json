@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T07:53:00+09:00",
+  "generated_at": "2026-07-10T14:45:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 10,
-    "passed_total": 112,
+    "neg_excluded": 4,
+    "dedup_excluded": 11,
+    "passed_total": 117,
     "b2b_category_counts": {
+      "yahoo_realtime": 29,
       "x_realtime": 8,
-      "yahoo_realtime": 33,
       "google_trends": 10,
-      "news_web": 15,
-      "yahoo_news_ranking": 4
+      "news_web": 20,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
+    "social_reaction": 30,
     "opinion": 10,
-    "personal_story": 2,
     "medical_science": 6,
-    "policy": 5,
-    "hard_fact": 19
+    "personal_story": 2,
+    "policy": 4,
+    "hard_fact": 18
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
-    "policy": 5,
-    "medical_science": 5,
+    "social_reaction": 27,
     "opinion": 10,
-    "hard_fact": 20,
-    "personal_story": 2
+    "hard_fact": 26,
+    "medical_science": 3,
+    "policy": 3,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "美容室でパーマ液が垂れてきて溺れかけた話…笑い話に見えるがパーマ液はわりと危険な",
+      "title": "西来院に行ったら『着物を着た人は入れません』という注意書きがあった…「神社仏閣は",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "山道でタバコを吸っている外国人がいたので英語で注意したが「はぁ？」という顔で伝わ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "備蓄米の早期買い戻し浮上　官邸難色「何で今」物価高対策に逆行懸念：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "浜名湖でも鹿児島でもなく“下呂温泉”でうなぎ養殖、「脂がのって軽い口当たり、しか",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "夜釣り中に突然暴行を受けた件について（経緯と注意喚起）",
+      "title": "遠足中に「お茶買えず」、帰宅した児童が熱中症　公立小側は責任否定 - 日本経済新",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "〈池袋で“人糞”騒動〉「クソったれ…テロか？」と大炎上、家電量販店で相次ぐ目撃投",
+      "title": "間借り営業は「気軽」なだけじゃない。間借りカレーウォッチャーが語る、続く店、続か",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【5日前のパスタを食べた20歳の学生が死亡】電子レンジの再加熱での殺菌効果も期待",
+      "title": "ご自愛のルーツ　～宮田愛萌～ - lala a live(ララアライブ)│フォー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "タイガース 対 アスレチックス",
+      "title": "東美スタディ｜デザインの基本を、さわって学ぶ｜東洋美術学校",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "皇室典範",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "マーリンズ 対 マリナーズ",
+      "title": "ホンダ cb400 super four",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "祇園祭 2026",
+      "title": "ジブリパーク",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ev",
+      "title": "たばこ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,63 +107,63 @@
   ],
   "note_top10": [
     {
-      "title": "美容室でパーマ液が垂れてきて溺れかけた話…笑い話に見えるがパーマ液はわりと危険な",
+      "title": "西来院に行ったら『着物を着た人は入れません』という注意書きがあった…「神社仏閣は",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ご自愛のルーツ　～宮田愛萌～ - lala a live(ララアライブ)│フォー",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "山道でタバコを吸っている外国人がいたので英語で注意したが「はぁ？」という顔で伝わ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "夜釣り中に突然暴行を受けた件について（経緯と注意喚起）",
+      "title": "間借り営業は「気軽」なだけじゃない。間借りカレーウォッチャーが語る、続く店、続か",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "〈池袋で“人糞”騒動〉「クソったれ…テロか？」と大炎上、家電量販店で相次ぐ目撃投",
+      "title": "遠足中に「お茶買えず」、帰宅した児童が熱中症　公立小側は責任否定 - 日本経済新",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ヤニねこ 第2話「ニャーの後輩たちにゃ」",
+      "title": "東美スタディ｜デザインの基本を、さわって学ぶ｜東洋美術学校",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "引っ越し先の物件にちゃんとした和室があったので、和室気分を盛り上げるためにちゃぶ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "韓国人「日本の正倉院に所蔵されているような美しい碁盤がまた作られてほしいよ」日本",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「世界史でモンゴルはマイナー」と言われたが「モンゴルが世界史を作った」という話…",
+      "title": "「除湿機使ってない人は知らないだろうけど、梅雨ってこれくらいの水が数時間で溜まる",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "東京に引っ越してきて感じたのは「京阪神と比べると食文化がそこまで発達していない」",
+      "title": "次女の個人懇談で、机の中にあった出すべき宿題のプリントの山を見せられた…次女は宿",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "あまり関わりたくない親戚から連絡… 要件を聞くと、その親戚のそのまた親戚が就職に",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "俺は佐藤二朗に同情しかない",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "原作クラッシャーアニメ監督の最高峰は押井守ではなく宮崎駿…ボロネーゼを作らせてナ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "成田空港 新滑走路整備へ 用地を強制取得できる手続きに合意 | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
