@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-10T16:54:52+09:00",
- "valid_until": "2026-07-23T06:40:31+09:00",
+ "generated_at": "2026-07-11T06:46:15+09:00",
+ "valid_until": "2026-07-25T06:37:33+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "biz",
   "from_current": 24,
-  "from_new": 0,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 0,
+  "retention_dropped": 1,
   "genres": 3,
   "retention_per_genre": 8
  },
@@ -498,6 +498,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "2026年10月に注意！ インボイス制度の経過措置と2割特例、影響を数値例でチェック",
+   "url": "https://www.mjs.co.jp/topics/keieisense/20260413/",
+   "summary": "2026年10月から免税事業者からの仕入税額控除が80%から70%に縮小されることを受け、個人店・小規模事業者が取引先との価格交渉や課税転換の損益分岐点をどう見極めるべきか、数値例を交えて解説。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "biz-small-shop",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "ミロク情報サービス",
+    "expert_origin": true,
+    "search_query": "インボイス2割特例 終了 2026年10月 消費税 いくら増える 個人事業主",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-25T06:37:33+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "カスハラ対策の義務化とは？2026年10月施行で企業が講ずべき措置を弁護士が解説",
    "url": "https://houmu-pro.com/legalrevision/392/",
    "summary": "2026年10月1日施行の改正労働施策総合推進法で、カスタマーハラスメント防止措置が労働者を1人でも雇う全事業主の義務に。中小企業向けの経過措置はなく、個人店も同時に義務化対象。基本方針の明文化・相談窓口整備・対応マニュアル作成・研修が求められる。",
@@ -704,36 +734,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-15T06:38:30+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "【2026年10月義務化】個人店・小規模店がカスハラ対応マニュアルを1日で作る最小構成テンプレート",
-   "url": "https://www.businesslawyers.jp/articles/1457",
-   "summary": "2026年10月1日施行の改正労働施策総合推進法でカスハラ防止措置が全事業主義務化。従業員1名でも雇用していれば中小・個人店も対象で適用猶予なし。義務内容は①方針の明文化②相談窓口③対応マニュアル④記録保全。小規模店でチームが少ない現場では「現場従業員が1人でも対応できる基本フロー」をマニュアル化しておかないと義務不履行となる。厚労省の業種別マニュアル（スーパー・宅配業編）を流用する最小コスト対応法が注目されている。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "biz-small-shop",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "BUSINESS LAWYERS",
-    "expert_origin": true,
-    "search_query": "カスタマーハラスメント 防止措置 義務化 2026年10月 小規模店 個人店 対応 準備",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-13T06:23:56+09:00",
    "validity_days": 14
   }
  ]

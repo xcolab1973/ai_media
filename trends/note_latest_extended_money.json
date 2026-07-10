@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-10T16:54:52+09:00",
+ "generated_at": "2026-07-11T06:46:15+09:00",
  "valid_until": "2026-07-24T16:49:00+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -8,10 +8,10 @@
  "total_count": 85,
  "merge": {
   "parent": "money",
-  "from_current": 87,
-  "from_new": 9,
-  "expired_pruned": 4,
-  "retention_dropped": 7,
+  "from_current": 85,
+  "from_new": 1,
+  "expired_pruned": 0,
+  "retention_dropped": 1,
   "genres": 12,
   "retention_per_genre": 8
  },
@@ -258,6 +258,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "予定納税の減額申請、7月15日締切に間に合わせる方法",
+   "url": "https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/shinkoku/annai/02.htm",
+   "summary": "所得税の予定納税第1期・第2期分の減額申請は7月1日〜7月15日が提出期限。廃業・休業・業況不振などで見積納税額が予定納税基準額を下回る場合に対象となり、申請書と所得減少を示す書類の添付が必要。期限を過ぎると当年は前年実績ベースの満額を納付することになる。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "official_instruction",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "money-tax-individual",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "国税庁",
+    "expert_origin": true,
+    "search_query": "予定納税 減額申請 やり方 2026年7月期限",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-18T06:39:47+09:00",
+   "validity_days": 7
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "相続税及び贈与税の税制改正のあらまし",
    "url": "https://www.nta.go.jp/publication/pamph/pdf/0023006-004.pdf",
    "summary": "生前贈与の相続財産への持ち戻し（加算）期間が3年から7年に延長。2027年1月以降開始の相続から段階的に影響が本格化し、延長された4年分は合計100万円まで加算除外の緩和措置がある。暦年贈与での相続対策を続けてきた層に見直し要。",
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-14T06:34:32+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "ふるさと納税の返礼品選びで後悔しない！よくある失敗7つと回避方法",
-   "url": "https://furusato-tax.hideharublog.com/furusato-tax-failure-avoid/",
-   "summary": "写真と実物のギャップ、収納困難な家電、冷蔵庫に入りきらない大量の肉、配送時期のずれ（お正月用のカニが1月中旬着など）といった返礼品選びの失敗事例をまとめた記事。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "money-tax-individual",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "ふるさと納税ブログ",
-    "expert_origin": false,
-    "search_query": "ふるさと納税 返礼品 選び方 失敗 知恵袋 後悔",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-13T06:45:53+09:00",
    "validity_days": 7
   },
   {
