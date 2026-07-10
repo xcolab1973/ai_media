@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T19:38:00+09:00",
+  "generated_at": "2026-07-11T00:24:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,33 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 10,
-    "passed_total": 117,
+    "neg_excluded": 7,
+    "dedup_excluded": 11,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
-      "x_realtime": 8,
+      "yahoo_realtime": 36,
+      "x_realtime": 7,
       "google_trends": 10,
-      "news_web": 15,
-      "yahoo_news_ranking": 4
+      "news_web": 14,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "policy": 6,
+    "social_reaction": 26,
+    "personal_story": 3,
     "opinion": 10,
-    "medical_science": 6,
-    "hard_fact": 17,
-    "personal_story": 1
+    "policy": 5,
+    "medical_science": 5,
+    "hard_fact": 21
   },
   "b2b_topic_category_counts": {
-    "policy": 7,
-    "hard_fact": 22,
-    "social_reaction": 27,
+    "social_reaction": 26,
+    "policy": 5,
+    "hard_fact": 23,
     "opinion": 10,
-    "medical_science": 4
+    "medical_science": 3,
+    "personal_story": 3
   },
   "b2b_top10": [
+    {
+      "title": "「ごめんなさい名古屋はマジで美味しい店ないです東京よりないです」と発言したリュウ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "退職自衛官の支援へ「庁」新設検討　再就職や年金、なり手不足対策 - 日本経済新聞",
       "source_category": "yahoo_realtime",
@@ -56,71 +63,65 @@
       "topic_category": "hard_fact"
     },
     {
+      "title": "「デザイン関連職に興味ある人、全員見た方がいい」東洋美術学校がデザインの基礎と歴",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "「熱中症っぽいとき、AIに頼るのは危ないので病院行け」実際にAIに丸投げしてアド",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "遠足中に「お茶買えず」、帰宅した児童が熱中症　公立小側は責任否定 - 日本経済新",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "西来院に行ったら『着物を着た人は入れません』という注意書きがあった…「神社仏閣は",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "間借り営業は「気軽」なだけじゃない。間借りカレーウォッチャーが語る、続く店、続か",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "エンカーナシオン",
+      "title": "ワールドカップサッカー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "徳島 あおり 運転",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "dena 対 巨人",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "無料給水スポット 街や学校で急増",
+      "title": "DOMOTO STARTO社と契約終了へ",
       "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
+    },
+    {
+      "title": "東美スタディ｜デザインの基本を、さわって学ぶ｜東洋美術学校",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "javaリング",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "宝くじ ロト7",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
+      "title": "「ごめんなさい名古屋はマジで美味しい店ないです東京よりないです」と発言したリュウ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「デザイン関連職に興味ある人、全員見た方がいい」東洋美術学校がデザインの基礎と歴",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "「熱中症っぽいとき、AIに頼るのは危ないので病院行け」実際にAIに丸投げしてアド",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "西来院に行ったら『着物を着た人は入れません』という注意書きがあった…「神社仏閣は",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "間借り営業は「気軽」なだけじゃない。間借りカレーウォッチャーが語る、続く店、続か",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -136,34 +137,34 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "一度おしっこを入れたコップを完全にキレイになるまで洗っても、そのコップでお茶を飲",
+      "title": "毎回新幹線で東京に向かうたびに「品川ってなんのためにあるの？」って思う→混雑緩和",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "退職自衛官の支援へ「庁」新設検討　再就職や年金、なり手不足対策 - 日本経済新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "ブラジャー買ったら内側が「手形」になっててキモすぎる→ブラのデザインとして割と良",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【独自】内閣広報官がSNS（X）で「虚偽情報」を発信か",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "免停講習の時に講習官が「いないと思うけど車で来た人いる？前いたの、取消2年になる",
+      "title": "東京在住27年目による「都内ヤバい飯屋ワード完全早見表」がさすがの解像度→「珍し",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "「1泊朝食付きで1250円」天理教の詰所に宿泊してみたが、強引な勧誘がなくここま",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "新幹線で座席を倒す際の声かけは要らないと聞いていたので、自分もそれに倣って座席を",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "朝の6時にピンポンが鳴り、玄関を開けたら小学生の女の子が泣きながら立っていたが、",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
     }
   ]
 }
