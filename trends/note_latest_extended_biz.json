@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-11T06:46:15+09:00",
+ "generated_at": "2026-07-11T16:52:40+09:00",
  "valid_until": "2026-07-25T06:37:33+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -16,6 +16,36 @@
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "副業yahooショッピング Yahooショッピングの副業についてです。クラウドワークス経由でネットショップの副業の依頼を受け...",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11284503851",
+   "summary": "クラウドワークス経由で副業としてネットショップ運営を請け負おうとしている質問者の生の悩み。個人が片手間でYahoo!ショッピング運営に関わる際の不安・知識不足が背景にあり、有償化後の副業ハードル上昇を裏付ける生の反応。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "biz-ec-shop",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "Yahooショッピング 有料化 知恵袋 個人 副業",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-16T16:43:48+09:00",
+   "validity_days": 5
+  },
   {
    "source_category": "news_web",
    "raw_title": "特定商取引法とは？個人のネットショップにも必要な表示を5分で解説",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-13T16:44:53+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "Yahoo!ショッピング出店料 有料化・値上げ時代の生存戦略",
-   "url": "https://note.com/ec_consulting/n/nbe86e5948699",
-   "summary": "2026年9月の出店有料化を見据え、月商規模別のコスト試算とLINE・AI活用による生存戦略を提示。月商が低いショップほど売上比の負担率が重くなるため、値付け見直しや他モールへの移行判断を早期に行う必要性を指摘。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "biz-ec-shop",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "note（EC-Consulting Japan）",
-    "expert_origin": true,
-    "search_query": "Yahoo!ショッピング 出店 有料化 個人 対応 2026年9月",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-13T11:48:27+09:00",
    "validity_days": 5
   },
   {
