@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T18:10:00+09:00",
+  "generated_at": "2026-07-11T23:14:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,42 +16,66 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 12,
-    "passed_total": 113,
+    "neg_excluded": 6,
+    "dedup_excluded": 10,
+    "passed_total": 116,
     "b2b_category_counts": {
-      "x_realtime": 6,
-      "yahoo_realtime": 36,
+      "yahoo_realtime": 35,
+      "x_realtime": 9,
+      "news_web": 12,
       "google_trends": 10,
-      "news_web": 17,
-      "yahoo_news_ranking": 1
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "personal_story": 2,
+    "social_reaction": 35,
+    "medical_science": 5,
+    "personal_story": 1,
     "opinion": 10,
-    "medical_science": 7,
-    "policy": 5,
-    "hard_fact": 16
+    "hard_fact": 16,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
-    "personal_story": 2,
+    "social_reaction": 35,
+    "medical_science": 3,
+    "hard_fact": 16,
+    "personal_story": 1,
     "opinion": 10,
-    "medical_science": 4,
-    "hard_fact": 19,
     "policy": 5
   },
   "b2b_top10": [
     {
-      "title": "現場の安全対策の一例、ブレーカーを物理的に操作できないように固定する器具の使い方",
+      "title": "実家からSOS「お風呂場に知らないネコチャンがいる」確認したら子猫が蛇口にしがみ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「罪悪感を利用する裏技」マンガ『ドンケツ』に登場する警察官・佐藤の発言にヤクザと",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "東西食文化論争の中で、名古屋は美味しい店がない！紹介されるのもチェーン店ばっかり",
+      "title": "デビュー間もない頃の西川貴教さんは華奢な体型で太りにくい体質だったが、ライブ後の",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "マナー講師が「明るく、1オクターブ上げて」と指導してきて音楽勢が全員「は？」にな",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "1日千人使うバス廃止へ 住民困惑",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "イナダシュンスケさんが質問に回答しました | mond",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -69,37 +93,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "一般道１６０キロで走行、信号無視も　愛媛県警の巡査を減給処分　別の巡査２人も車で",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ちゃん みな 東京 ドーム",
+      "title": "kemio",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "「洗顔料はトロメタミンが入ってるのを買ってね」というアドバイスからスキンケアを意",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "土用の丑の日",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "未解決事件",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ババ抜き最弱王 2026",
+      "title": "プレサンスコーポレーション",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,13 +107,31 @@
   ],
   "note_top10": [
     {
-      "title": "現場の安全対策の一例、ブレーカーを物理的に操作できないように固定する器具の使い方",
+      "title": "「罪悪感を利用する裏技」マンガ『ドンケツ』に登場する警察官・佐藤の発言にヤクザと",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "東西食文化論争の中で、名古屋は美味しい店がない！紹介されるのもチェーン店ばっかり",
+      "title": "実家からSOS「お風呂場に知らないネコチャンがいる」確認したら子猫が蛇口にしがみ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "デビュー間もない頃の西川貴教さんは華奢な体型で太りにくい体質だったが、ライブ後の",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "マナー講師が「明るく、1オクターブ上げて」と指導してきて音楽勢が全員「は？」にな",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "イナダシュンスケさんが質問に回答しました | mond",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,43 +143,25 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "一般道１６０キロで走行、信号無視も　愛媛県警の巡査を減給処分　別の巡査２人も車で",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「洗顔料はトロメタミンが入ってるのを買ってね」というアドバイスからスキンケアを意",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「たくさんのファンアートのお礼にヤニおじを解放します」ヤニねこ公式の性別逆転で急",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "体調が悪くて吐いたが、「6日連続鳥刺し爆食い」「炎天下の中爆散歩」「カフェイン弱",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "リチャード三世の遺骨のDNA分析で、父系の血統の断絶が発覚した一方、彼を演じたこ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "「医者を馬鹿にしている」眼科医が“2569円の支払い”求めた裁判で勝訴…コンタク",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "実家からSOS「お風呂場に知らないネコチャンがいる」確認したら子猫が蛇口にしがみ",
+      "title": "工場を建ててから20年以上、毎月電気代が赤字ながらも地元の人達の喉を潤してくれた",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「未来人だな」攻殻機動隊の連載が始まった1989年、日本ではまだインターネットも",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "夏のお墓で起こった本当にあった怖い話… その日は「あ、ちょっと、今日はやばいな」",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
