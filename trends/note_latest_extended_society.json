@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-07-11T16:52:41+09:00",
+ "generated_at": "2026-07-12T06:45:54+09:00",
  "valid_until": "2026-07-24T16:53:38+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "society",
- "total_count": 50,
+ "total_count": 49,
  "merge": {
   "parent": "society",
-  "from_current": 51,
-  "from_new": 6,
+  "from_current": 50,
+  "from_new": 0,
   "expired_pruned": 1,
-  "retention_dropped": 6,
+  "retention_dropped": 0,
   "genres": 7,
   "retention_per_genre": 8
  },
@@ -224,36 +224,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-13T06:45:43+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "障害者雇用納付金制度の概要",
-   "url": "https://www.jeed.go.jp/disability/about_levy_grant_system.html",
-   "summary": "常用労働者100人超で法定雇用率未達成の事業主は、不足人数×月額5万円の納付金を納める必要がある制度の公式解説。今回の対象拡大で新規に該当する中小企業が増える見込み。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "society-issue",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "独立行政法人 高齢・障害・求職者雇用支援機構（JEED）",
-    "expert_origin": true,
-    "search_query": "障害者雇用率 引き上げ 納付金 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-12T06:44:32+09:00",
    "validity_days": 7
   },
   {

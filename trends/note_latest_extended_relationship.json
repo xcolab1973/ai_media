@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-11T16:52:40+09:00",
+ "generated_at": "2026-07-12T06:45:54+09:00",
  "valid_until": "2026-07-25T16:49:48+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "relationship",
   "from_current": 32,
-  "from_new": 3,
+  "from_new": 0,
   "expired_pruned": 0,
-  "retention_dropped": 3,
+  "retention_dropped": 0,
   "genres": 4,
   "retention_per_genre": 8
  },
