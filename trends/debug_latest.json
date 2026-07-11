@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T07:38:00+09:00",
+  "generated_at": "2026-07-11T13:47:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,39 +16,69 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 11,
-    "passed_total": 115,
+    "neg_excluded": 3,
+    "dedup_excluded": 13,
+    "passed_total": 116,
     "b2b_category_counts": {
       "yahoo_realtime": 38,
-      "x_realtime": 6,
+      "x_realtime": 5,
       "google_trends": 10,
       "news_web": 15,
-      "yahoo_news_ranking": 1
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 27,
-    "personal_story": 3,
+    "social_reaction": 28,
     "opinion": 10,
+    "personal_story": 4,
     "policy": 6,
     "medical_science": 5,
-    "hard_fact": 19
+    "hard_fact": 17
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 27,
+    "social_reaction": 28,
     "policy": 6,
-    "hard_fact": 21,
     "opinion": 10,
-    "personal_story": 3,
-    "medical_science": 3
+    "hard_fact": 19,
+    "medical_science": 3,
+    "personal_story": 4
   },
   "b2b_top10": [
     {
-      "title": "「ごめんなさい名古屋はマジで美味しい店ないです東京よりないです」と発言したリュウ",
+      "title": "東西食文化論争の中で、名古屋は美味しい店がない！紹介されるのもチェーン店ばっかり",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "とあるVTuberのもとに中学生から「推しにするのでイラストとアニメーションを無",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「洗顔料はトロメタミンが入ってるのを買ってね」というアドバイスからスキンケアを意",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「医者を馬鹿にしている」眼科医が“2569円の支払い”求めた裁判で勝訴…コンタク",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "一般道１６０キロで走行、信号無視も　愛媛県警の巡査を減給処分　別の巡査２人も車で",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "欧州議会が復活した「チャットコントロール」法案について暗号化メッセージを除外する",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
     },
     {
       "title": "博士号取得、30年度までに年2万人　政府のイノベーション戦略 - 日本経済新聞",
@@ -57,49 +87,19 @@
       "topic_category": "policy"
     },
     {
-      "title": "落ち着いて聞いてください…スポーツドリンク160円をケチって飲まず熱中症で倒れた",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "退職自衛官の支援へ「庁」新設検討　再就職や年金、なり手不足対策 - 日本経済新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "MBSラジオ「ありがとう浜村淳です」が9月でレギュラー放送終了と発表　放送開始か",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "「デザイン関連職に興味ある人、全員見た方がいい」東洋美術学校がデザインの基礎と歴",
+      "title": "体調が悪くて吐いたが、「6日連続鳥刺し爆食い」「炎天下の中爆散歩」「カフェイン弱",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "南シナ海",
+      "title": "音楽 の 日 2026",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "オールスターゲーム",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "冠番組",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "usj",
+      "title": "野村勇",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,63 +107,63 @@
   ],
   "note_top10": [
     {
-      "title": "「ごめんなさい名古屋はマジで美味しい店ないです東京よりないです」と発言したリュウ",
+      "title": "東西食文化論争の中で、名古屋は美味しい店がない！紹介されるのもチェーン店ばっかり",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "落ち着いて聞いてください…スポーツドリンク160円をケチって飲まず熱中症で倒れた",
+      "title": "とあるVTuberのもとに中学生から「推しにするのでイラストとアニメーションを無",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「デザイン関連職に興味ある人、全員見た方がいい」東洋美術学校がデザインの基礎と歴",
+      "title": "「洗顔料はトロメタミンが入ってるのを買ってね」というアドバイスからスキンケアを意",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "マジで30代にもなって経験がないから、世間の人がどういう流れで性行為するのかわか",
+      "title": "一般道１６０キロで走行、信号無視も　愛媛県警の巡査を減給処分　別の巡査２人も車で",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "アニメ『ヤニねこ』、ついにガッツリヤクを決めるシーンが出てしまう…あまりに詳しい",
+      "title": "体調が悪くて吐いたが、「6日連続鳥刺し爆食い」「炎天下の中爆散歩」「カフェイン弱",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "新幹線で座席を倒す際の声かけは要らないと聞いていたので、自分もそれに倣って座席を",
+      "title": "猟師をやっている人、友人の結婚式に招待されるも、翌日「招待取消」の連絡が→相手の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "朝の6時にピンポンが鳴り、玄関を開けたら小学生の女の子が泣きながら立っていたが、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "MADE IN YAMATO - 第７話　幻の果実を求めて | ヤンマガWeb",
+      "title": "ある女性アイドルの「俺の素敵な爪✨」という自分目線の写真に「どうやって撮ってるの",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ロマンス詐欺にひっかかった親友を救う話」が勢いのあるギャグとナニコレ展開が癖に",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「医者を馬鹿にしている」眼科医が“2569円の支払い”求めた裁判で勝訴…コンタク",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "世のあらゆる作品に登場する漫画界のイースターエッグとして扱われている実在する人物",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "地雷店の避け方（基礎編）",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "渋谷のビル1室で「3千社」起業の実態　誰もいないオフィス、会社は一体どこにある？",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
