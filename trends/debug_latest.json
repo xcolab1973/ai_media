@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T23:14:00+09:00",
+  "generated_at": "2026-07-12T07:29:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,50 +17,74 @@
       "x_realtime": 10
     },
     "neg_excluded": 6,
-    "dedup_excluded": 10,
-    "passed_total": 116,
+    "dedup_excluded": 11,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
-      "x_realtime": 9,
-      "news_web": 12,
+      "yahoo_realtime": 36,
       "google_trends": 10,
-      "yahoo_news_ranking": 4
+      "news_web": 14,
+      "x_realtime": 7,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
     "medical_science": 5,
+    "social_reaction": 32,
     "personal_story": 1,
     "opinion": 10,
-    "hard_fact": 16,
-    "policy": 3
+    "policy": 6,
+    "hard_fact": 16
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 35,
     "medical_science": 3,
+    "policy": 8,
     "hard_fact": 16,
-    "personal_story": 1,
     "opinion": 10,
-    "policy": 5
+    "social_reaction": 32,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "実家からSOS「お風呂場に知らないネコチャンがいる」確認したら子猫が蛇口にしがみ",
+      "title": "デビュー間もない頃の西川貴教さんは華奢な体型で太りにくい体質だったが、ライブ後の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "medical_science"
     },
     {
       "title": "「罪悪感を利用する裏技」マンガ『ドンケツ』に登場する警察官・佐藤の発言にヤクザと",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
     },
     {
-      "title": "デビュー間もない頃の西川貴教さんは華奢な体型で太りにくい体質だったが、ライブ後の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "medical_science"
+      "title": "プーチン含めて政府もガソリン不足への対策を表明し、軍事ブロガーは政府..",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "米、「種の保存法」見直し　開発優先、生息地の破壊容認",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "【速報】京都市の寺近くでクマの目撃情報、観光ガイドが通報　京都府警が注意喚起｜京",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "監督 代行",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "東吉野村",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "マナー講師が「明るく、1オクターブ上げて」と指導してきて音楽勢が全員「は？」にな",
@@ -69,59 +93,29 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "1日千人使うバス廃止へ 住民困惑",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "イナダシュンスケさんが質問に回答しました | mond",
+      "title": "システム停止なら他行が代替へ　３メガバンク、ＡＩサイバー対策：東京新聞デジタル",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【紅/X Japan】紅だーーーーーーーーーーー！【Kurenai】 #XJap",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「医者を馬鹿にしている」眼科医が“2569円の支払い”求めた裁判で勝訴…コンタク",
+      "title": "マジ料理できる【おもちゃ】が一番テンション上がるよな？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "kemio",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "プレサンスコーポレーション",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "「罪悪感を利用する裏技」マンガ『ドンケツ』に登場する警察官・佐藤の発言にヤクザと",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "実家からSOS「お風呂場に知らないネコチャンがいる」確認したら子猫が蛇口にしがみ",
+      "title": "デビュー間もない頃の西川貴教さんは華奢な体型で太りにくい体質だったが、ライブ後の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "medical_science"
     },
     {
-      "title": "デビュー間もない頃の西川貴教さんは華奢な体型で太りにくい体質だったが、ライブ後の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「罪悪感を利用する裏技」マンガ『ドンケツ』に登場する警察官・佐藤の発言にヤクザと",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "medical_science"
     },
     {
@@ -131,39 +125,45 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "イナダシュンスケさんが質問に回答しました | mond",
+      "title": "システム停止なら他行が代替へ　３メガバンク、ＡＩサイバー対策：東京新聞デジタル",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【紅/X Japan】紅だーーーーーーーーーーー！【Kurenai】 #XJap",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「医者を馬鹿にしている」眼科医が“2569円の支払い”求めた裁判で勝訴…コンタク",
+      "title": "マジ料理できる【おもちゃ】が一番テンション上がるよな？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "工場を建ててから20年以上、毎月電気代が赤字ながらも地元の人達の喉を潤してくれた",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "就活の集団面接で「初任給で何を買いたいですか？」と聞かれ、とっさに「…まくら？」",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "最近は健康に気を遣ってサラダ中心の食生活にしてる、これは豚肉と小麦のサラダ「そん",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「未来人だな」攻殻機動隊の連載が始まった1989年、日本ではまだインターネットも",
+      "title": "「東京の飯はマズい」と言い張るの東京をディスりたいだけの戯言だと思うが、富士そば",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "夏のお墓で起こった本当にあった怖い話… その日は「あ、ちょっと、今日はやばいな」",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「いい文章だなぁ」上京して一人暮らしの際、隣の人が家事をしてる音を聞いただけでめ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
