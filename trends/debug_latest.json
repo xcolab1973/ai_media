@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T18:30:00+09:00",
+  "generated_at": "2026-07-12T23:18:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,46 +16,34 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 11,
-    "passed_total": 112,
+    "neg_excluded": 15,
+    "dedup_excluded": 9,
+    "passed_total": 108,
     "b2b_category_counts": {
+      "yahoo_realtime": 29,
       "google_trends": 10,
+      "x_realtime": 9,
       "news_web": 16,
-      "yahoo_realtime": 34,
-      "x_realtime": 6,
-      "yahoo_news_ranking": 4
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
     "social_reaction": 29,
+    "personal_story": 3,
     "opinion": 10,
-    "medical_science": 5,
-    "personal_story": 1,
-    "policy": 5,
-    "hard_fact": 20
+    "medical_science": 2,
+    "hard_fact": 22,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
+    "social_reaction": 29,
     "opinion": 10,
+    "personal_story": 3,
     "hard_fact": 22,
-    "social_reaction": 28,
     "policy": 5,
-    "medical_science": 4,
-    "personal_story": 1
+    "medical_science": 1
   },
   "b2b_top10": [
-    {
-      "title": "dena 対 巨人",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "W杯得点王争い大白熱 実質6人に",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_sports",
-      "topic_category": "hard_fact"
-    },
     {
       "title": "佐藤二朗批判勢「Xで犬笛を吹きまくって！橋本さんは限界だと弁護士から厳重注意受け",
       "source_category": "yahoo_realtime",
@@ -69,40 +57,52 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "米、「種の保存法」見直し　開発優先、生息地の破壊容認",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "フランス",
+      "title": "一次元の挿し木",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "tシャツが乾くまで 相関図",
+      "title": "佐野勇斗",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "エンカーナシオン",
+      "title": "マイフィクション",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "「利益に固執すると大局を見誤る」18円の経費削減のためエレベーター使用が禁止にな",
+      "title": "知人のお子さんに「心太」と書いて「ここた」と読む名前の男の子がいるが、ご両親には",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "「対応が負担になるのでやめてほしい」学校の体育館を地域住民に開放するアイデアに現",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "title": "窪田正孝",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "鈴木亮平",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "motogp",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "カルロス・アルカラス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
@@ -119,49 +119,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "旅行中のおっさんが財布を落として話しかけてきた…PayPayの残高1000円分と",
+      "title": "知人のお子さんに「心太」と書いて「ここた」と読む名前の男の子がいるが、ご両親には",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "なんで旦那の枕カバーだけこんなに黄ばむの？何が出てるの？出汁？「世界共通、何出て",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "高知の骨董屋で古伊万里の馬柄に一目惚れして買おうとしたら、店主のマダムが「あんた",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "高校時代のバンドで、毎回音が外れていたボーカルにそのことを指摘したら、「いや、こ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "育児と読書の趣味相性悪いなぁ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "価値はスケールしない。発酵する。 - ニューロサイエンスとマーケティングの間 -",
+      "title": "大雨が降っていたので心配になり水門の見回りに行ったら、当番が水門開けないからえら",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "深夜2時に天下一品にて「MAXの大、粉落としで」とオーダーしたら隣の席のヤンキー",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「日本人が思い浮かべるのは漁師町の醍醐味」小説『老人と海』で、釣ったマグロを捌き",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "料理研究家・リュウジ氏が「名古屋はマジで美味しい店ないです」発言を謝罪… 「主語",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "麻生太郎が「皇室典範」改正を急ぐ理由は…“日本会議の30年の集い”に間に合わせた",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "dena 対 巨人",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "仏像から平安時代末期の古文書 大量に見つかる 源義仲の記述も | NHKニュース",
+      "title": "レンタルスペースがぼったくりバーに　現場見た記者「見抜くの困難」：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
