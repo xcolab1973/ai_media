@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T13:58:00+09:00",
+  "generated_at": "2026-07-12T18:30:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,54 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 10,
-    "passed_total": 114,
+    "neg_excluded": 9,
+    "dedup_excluded": 11,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
       "google_trends": 10,
       "news_web": 16,
-      "x_realtime": 8,
-      "yahoo_news_ranking": 2
+      "yahoo_realtime": 34,
+      "x_realtime": 6,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
     "social_reaction": 29,
-    "medical_science": 5,
     "opinion": 10,
-    "policy": 4,
-    "hard_fact": 22
+    "medical_science": 5,
+    "personal_story": 1,
+    "policy": 5,
+    "hard_fact": 20
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "policy": 4,
-    "medical_science": 3,
     "opinion": 10,
-    "hard_fact": 24
+    "hard_fact": 22,
+    "social_reaction": 28,
+    "policy": 5,
+    "medical_science": 4,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
+      "title": "dena 対 巨人",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "W杯得点王争い大白熱 実質6人に",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_sports",
+      "topic_category": "hard_fact"
+    },
+    {
       "title": "佐藤二朗批判勢「Xで犬笛を吹きまくって！橋本さんは限界だと弁護士から厳重注意受け",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "1日1000人利用のバス廃止へ　千葉市花見川区　「運転士不足」代替交通なし　住民",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -55,52 +75,34 @@
       "topic_category": "policy"
     },
     {
-      "title": "1日1000人利用のバス廃止へ　千葉市花見川区　「運転士不足」代替交通なし　住民",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "フランス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "「こんだけ薬物に漬け込んでも死なねえのか」医療論文に載った親戚が、1日で煙草を1",
+      "title": "tシャツが乾くまで 相関図",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "エンカーナシオン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「利益に固執すると大局を見誤る」18円の経費削減のためエレベーター使用が禁止にな",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "medical_science"
     },
     {
-      "title": "佐々木麟太郎ドラフト",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ブルース キャ リントン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "金",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ヘンリー王子",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "僻地工場勤務の理系院卒が田舎にデカい家を建て、庭で野菜を育て、美味しい肉を食べる",
+      "title": "「対応が負担になるのでやめてほしい」学校の体育館を地域住民に開放するアイデアに現",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ナフサ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "topic_category": "policy"
     }
   ],
   "note_top10": [
@@ -117,7 +119,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "僻地工場勤務の理系院卒が田舎にデカい家を建て、庭で野菜を育て、美味しい肉を食べる",
+      "title": "旅行中のおっさんが財布を落として話しかけてきた…PayPayの残高1000円分と",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "なんで旦那の枕カバーだけこんなに黄ばむの？何が出てるの？出汁？「世界共通、何出て",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "高知の骨董屋で古伊万里の馬柄に一目惚れして買おうとしたら、店主のマダムが「あんた",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "高校時代のバンドで、毎回音が外れていたボーカルにそのことを指摘したら、「いや、こ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "育児と読書の趣味相性悪いなぁ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -129,37 +155,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "座椅子に座ってたら、珍しく愛猫がこちらの顔をじっと見てきたので、寂しかったのかな",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "dena 対 巨人",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "死ぬほど令嬢もの読んでる知人が「全部同じだからどのキャラがどの作品に出てたとかは",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "アフリカのホテルは「シャワーが出ない」「エアコンがない」など様々な不満があるが、",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「こんだけ薬物に漬け込んでも死なねえのか」医療論文に載った親戚が、1日で煙草を1",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "そもそもロシア人ってプーチンのどこが良くて20年近くも支持してるん？ よ..",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "頭が透明の深海魚デメニギスの仲間「クロデメニギス」生きた姿が初めて撮影される",
+      "title": "仏像から平安時代末期の古文書 大量に見つかる 源義仲の記述も | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
