@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T23:18:00+09:00",
+  "generated_at": "2026-07-13T07:28:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,89 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 15,
-    "dedup_excluded": 9,
+    "neg_excluded": 12,
+    "dedup_excluded": 12,
     "passed_total": 108,
     "b2b_category_counts": {
-      "yahoo_realtime": 29,
       "google_trends": 10,
+      "yahoo_realtime": 28,
       "x_realtime": 9,
-      "news_web": 16,
-      "yahoo_news_ranking": 6
+      "yahoo_news_ranking": 3,
+      "news_web": 20
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "personal_story": 3,
+    "social_reaction": 32,
     "opinion": 10,
-    "medical_science": 2,
+    "personal_story": 1,
+    "policy": 4,
     "hard_fact": 22,
-    "policy": 4
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
     "opinion": 10,
-    "personal_story": 3,
+    "social_reaction": 32,
     "hard_fact": 22,
     "policy": 5,
-    "medical_science": 1
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "佐藤二朗批判勢「Xで犬笛を吹きまくって！橋本さんは限界だと弁護士から厳重注意受け",
+      "title": "キック",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "トランプ空港に初めて着陸したのは",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "なぜ設計ソフトは無料で使えるようになったのか──3D-CAD民主化の40年史",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "1日1000人利用のバス廃止へ　千葉市花見川区　「運転士不足」代替交通なし　住民",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "武豊",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "レッドソックス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "鎌倉でインコに逃げられた方いませんか？懐かれて困ってます→その特徴で飼い主が見つ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "一次元の挿し木",
+      "title": "武豊 妻",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "佐野勇斗",
+      "title": "ゼンデイヤ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "マイフィクション",
+      "title": "西山貴浩",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "知人のお子さんに「心太」と書いて「ここた」と読む名前の男の子がいるが、ご両親には",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "窪田正孝",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "鈴木亮平",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "motogp",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "カルロス・アルカラス",
+      "title": "ジョゼ・モウリーニョ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,21 +106,51 @@
   ],
   "note_top10": [
     {
-      "title": "佐藤二朗批判勢「Xで犬笛を吹きまくって！橋本さんは限界だと弁護士から厳重注意受け",
+      "title": "なぜ設計ソフトは無料で使えるようになったのか──3D-CAD民主化の40年史",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "1日1000人利用のバス廃止へ　千葉市花見川区　「運転士不足」代替交通なし　住民",
+      "title": "鎌倉でインコに逃げられた方いませんか？懐かれて困ってます→その特徴で飼い主が見つ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "関西の大学に行ったときに「北海道は素材がいいだけ。料理はカスの地方」といわれた話",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "知人のお子さんに「心太」と書いて「ここた」と読む名前の男の子がいるが、ご両親には",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "キック",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "トランプ空港に初めて着陸したのは",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "アニメソングの祭典・アニサマ2026に、2025年にヒットしたアニソンアーティス",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「クッッッッッッッッッッッッッッッッッッッッッッッッッッッッッッサいのでお安くし",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「短歌ってドパガキ向けの小説だ 尺短いし、縦画面だし」恋愛ネタ多いし、伏線とか貼",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -131,37 +160,7 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "大雨が降っていたので心配になり水門の見回りに行ったら、当番が水門開けないからえら",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "深夜2時に天下一品にて「MAXの大、粉落としで」とオーダーしたら隣の席のヤンキー",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「日本人が思い浮かべるのは漁師町の醍醐味」小説『老人と海』で、釣ったマグロを捌き",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "料理研究家・リュウジ氏が「名古屋はマジで美味しい店ないです」発言を謝罪… 「主語",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "麻生太郎が「皇室典範」改正を急ぐ理由は…“日本会議の30年の集い”に間に合わせた",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "レンタルスペースがぼったくりバーに　現場見た記者「見抜くの困難」：朝日新聞",
+      "title": "育児と読書の趣味相性悪いなぁ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
