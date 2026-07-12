@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-12T06:45:54+09:00",
+ "generated_at": "2026-07-12T16:52:14+09:00",
  "valid_until": "2026-07-26T06:37:04+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "marketing",
   "from_current": 54,
-  "from_new": 5,
+  "from_new": 2,
   "expired_pruned": 0,
-  "retention_dropped": 5,
+  "retention_dropped": 2,
   "genres": 7,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "2026年最新トレンドを反映した予算の決め方と、費用を抑える「サイト改善×広告設定」の秘訣",
+   "url": "https://webmarke.funaisoken.co.jp/blogs/column/we048",
+   "summary": "中小企業向けに2026年の広告予算配分の考え方を解説。現状の予算配分の可視化から始め、ROAS/ROIで効果測定し、四半期ごとに配分を見直す「選択と集中」のアプローチを提案している。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "marketing-web",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "船井総合研究所 Webマーケ支援ブログ",
+    "expert_origin": false,
+    "search_query": "下半期 広告予算 見直し 中小企業 何から始める 2026",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-17T16:44:21+09:00",
+   "validity_days": 5
+  },
   {
    "source_category": "news_web",
    "raw_title": "ホームページで集客できない原因とは？ SEOや広告など施策の選び方も解説",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-16T06:37:38+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "【2026年7月最新】Googleコアアップデートとは？概要・傾向・メディアグロース流の対策を解説！",
-   "url": "https://media-growth.co.jp/core-update/",
-   "summary": "2026年5月のコアアップデート以降、同一ドメイン内でもキーワードごとに評価が大きく分かれる傾向が確認されている。優先すべきはコンテンツ品質とE-E-A-Tの充足度と解説。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "marketing-web",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "メディアグロース",
-    "expert_origin": true,
-    "search_query": "SEOコアアップデート 2026年7月 順位変動 原因",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-15T06:35:06+09:00",
    "validity_days": 5
   },
   {
@@ -498,6 +498,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "Instagramどんどんフォロワーが減っていく。 - 現在2900人フォロ...",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13175810328",
+   "summary": "Instagramアカウント運用者が、フォロワーが継続的に減っていく状況に困惑し、原因と対処法を尋ねている質問。事業アカウント運用者にも共通しがちな「増減の正しい捉え方」への不安がうかがえる。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "marketing-sns",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "Instagram フォロワー 減った 対策 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-17T16:44:21+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "インフルエンサー起用による炎上を防ぐ。リスクのポイントと対策とは？",
    "url": "https://eltes-solution.jp/column/digitalrisk-23",
    "summary": "インフルエンサーの過去の炎上・不祥事歴やフォロワー層のリサーチ不足が企業ブランド毀損に直結するリスク。契約書締結がリスクヘッジの一つとされる。",
@@ -704,36 +734,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-15T06:35:06+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "景品表示法改正とステルスマーケティング規制 広報担当者が押さえるべき最新動向と実務対策",
-   "url": "https://effectual.co.jp/sorila/blog/keihyoho-kaisei-stemama-kisei/",
-   "summary": "2023年施行のステマ規制から2年以上経過した2026年も、インフルエンサーPRで「どこまでやれば良いか」迷う事業者が多く、EU・米国の規制強化を背景に日本でも今後の厳格化の可能性が指摘されている。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "marketing-sns",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "エフェクチュアル（風評被害対策）",
-    "expert_origin": true,
-    "search_query": "ステマ規制 景品表示法 インフルエンサーマーケティング 2026 最新動向",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-13T16:46:15+09:00",
    "validity_days": 5
   },
   {

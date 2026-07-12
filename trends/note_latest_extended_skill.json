@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-12T06:45:54+09:00",
+ "generated_at": "2026-07-12T16:52:14+09:00",
  "valid_until": "2026-07-26T06:44:02+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "skill",
   "from_current": 64,
-  "from_new": 2,
+  "from_new": 0,
   "expired_pruned": 0,
-  "retention_dropped": 2,
+  "retention_dropped": 0,
   "genres": 8,
   "retention_per_genre": 8
  },
