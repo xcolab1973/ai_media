@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T07:29:00+09:00",
+  "generated_at": "2026-07-12T13:58:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,51 +16,37 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 11,
-    "passed_total": 115,
+    "neg_excluded": 8,
+    "dedup_excluded": 10,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
+      "yahoo_realtime": 34,
       "google_trends": 10,
-      "news_web": 14,
-      "x_realtime": 7,
-      "yahoo_news_ranking": 3
+      "news_web": 16,
+      "x_realtime": 8,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
+    "social_reaction": 29,
     "medical_science": 5,
-    "social_reaction": 32,
-    "personal_story": 1,
     "opinion": 10,
-    "policy": 6,
-    "hard_fact": 16
+    "policy": 4,
+    "hard_fact": 22
   },
   "b2b_topic_category_counts": {
+    "social_reaction": 29,
+    "policy": 4,
     "medical_science": 3,
-    "policy": 8,
-    "hard_fact": 16,
     "opinion": 10,
-    "social_reaction": 32,
-    "personal_story": 1
+    "hard_fact": 24
   },
   "b2b_top10": [
     {
-      "title": "デビュー間もない頃の西川貴教さんは華奢な体型で太りにくい体質だったが、ライブ後の",
+      "title": "佐藤二朗批判勢「Xで犬笛を吹きまくって！橋本さんは限界だと弁護士から厳重注意受け",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "「罪悪感を利用する裏技」マンガ『ドンケツ』に登場する警察官・佐藤の発言にヤクザと",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "プーチン含めて政府もガソリン不足への対策を表明し、軍事ブロガーは政府..",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "topic_category": "social_reaction"
     },
     {
       "title": "米、「種の保存法」見直し　開発優先、生息地の破壊容認",
@@ -69,99 +55,111 @@
       "topic_category": "policy"
     },
     {
-      "title": "【速報】京都市の寺近くでクマの目撃情報、観光ガイドが通報　京都府警が注意喚起｜京",
+      "title": "1日1000人利用のバス廃止へ　千葉市花見川区　「運転士不足」代替交通なし　住民",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "監督 代行",
+      "title": "「こんだけ薬物に漬け込んでも死なねえのか」医療論文に載った親戚が、1日で煙草を1",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "佐々木麟太郎ドラフト",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "東吉野村",
+      "title": "ブルース キャ リントン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "マナー講師が「明るく、1オクターブ上げて」と指導してきて音楽勢が全員「は？」にな",
+      "title": "金",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ヘンリー王子",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "僻地工場勤務の理系院卒が田舎にデカい家を建て、庭で野菜を育て、美味しい肉を食べる",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "システム停止なら他行が代替へ　３メガバンク、ＡＩサイバー対策：東京新聞デジタル",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "マジ料理できる【おもちゃ】が一番テンション上がるよな？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "ナフサ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "デビュー間もない頃の西川貴教さんは華奢な体型で太りにくい体質だったが、ライブ後の",
+      "title": "佐藤二朗批判勢「Xで犬笛を吹きまくって！橋本さんは限界だと弁護士から厳重注意受け",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "1日1000人利用のバス廃止へ　千葉市花見川区　「運転士不足」代替交通なし　住民",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "僻地工場勤務の理系院卒が田舎にデカい家を建て、庭で野菜を育て、美味しい肉を食べる",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "価値はスケールしない。発酵する。 - ニューロサイエンスとマーケティングの間 -",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "座椅子に座ってたら、珍しく愛猫がこちらの顔をじっと見てきたので、寂しかったのかな",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "死ぬほど令嬢もの読んでる知人が「全部同じだからどのキャラがどの作品に出てたとかは",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "アフリカのホテルは「シャワーが出ない」「エアコンがない」など様々な不満があるが、",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「こんだけ薬物に漬け込んでも死なねえのか」医療論文に載った親戚が、1日で煙草を1",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "medical_science"
     },
     {
-      "title": "「罪悪感を利用する裏技」マンガ『ドンケツ』に登場する警察官・佐藤の発言にヤクザと",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "マナー講師が「明るく、1オクターブ上げて」と指導してきて音楽勢が全員「は？」にな",
+      "title": "そもそもロシア人ってプーチンのどこが良くて20年近くも支持してるん？ よ..",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "システム停止なら他行が代替へ　３メガバンク、ＡＩサイバー対策：東京新聞デジタル",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "マジ料理できる【おもちゃ】が一番テンション上がるよな？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "工場を建ててから20年以上、毎月電気代が赤字ながらも地元の人達の喉を潤してくれた",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "就活の集団面接で「初任給で何を買いたいですか？」と聞かれ、とっさに「…まくら？」",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "最近は健康に気を遣ってサラダ中心の食生活にしてる、これは豚肉と小麦のサラダ「そん",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「東京の飯はマズい」と言い張るの東京をディスりたいだけの戯言だと思うが、富士そば",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「いい文章だなぁ」上京して一人暮らしの際、隣の人が家事をしてる音を聞いただけでめ",
+      "title": "頭が透明の深海魚デメニギスの仲間「クロデメニギス」生きた姿が初めて撮影される",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
