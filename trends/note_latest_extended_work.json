@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-13T06:47:28+09:00",
- "valid_until": "2026-07-27T06:44:12+09:00",
+ "generated_at": "2026-07-13T16:51:31+09:00",
+ "valid_until": "2026-07-27T16:48:48+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -8,8 +8,8 @@
  "total_count": 56,
  "merge": {
   "parent": "work",
-  "from_current": 55,
-  "from_new": 2,
+  "from_current": 56,
+  "from_new": 1,
   "expired_pruned": 0,
   "retention_dropped": 1,
   "genres": 7,
@@ -498,6 +498,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "給与とは別に「年間40万円ほどの副業収入」があります。会社にバレたくないのですが、確定申告をすると住民税で必ず知られてしまうのでしょうか…？",
+   "url": "https://news.yahoo.co.jp/articles/f8e1fc887d4077f8a57eb92704c2bd138a8256e2",
+   "summary": "副業年収40万円の会社員が「確定申告すれば住民税で会社に必ずバレるのか」と不安を訴える相談。普通徴収を選んでも自治体運用次第で結果が変わる分かりにくさが生ペインとして表れている。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "work-sidejob-start",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!ニュース（ファイナンシャルフィールド）",
+    "expert_origin": false,
+    "search_query": "副業 バレる 不安 知恵袋 住民税 会社員",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-27T16:48:48+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "106万円の壁が撤廃。130万円の壁との違いも解説",
    "url": "https://maki-sharoushi.com/106kabe_teppai/",
    "summary": "2026年10月施行、社会保険加入基準『106万円の壁（月収8.8万円要件）』が撤廃され『週20時間』基準に一本化。社労士事務所が130万円の壁との違い、扶養内で働くパート・副業層への影響を解説。副業と掛け持ちする読者が社会保険加入判断を誤らないための制度整理。",
@@ -704,36 +734,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-21T16:48:50+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "住民税額によって「副業が会社にバレる」と聞きます。会社にバレない方法はないのでしょうか？",
-   "url": "https://news.yahoo.co.jp/articles/81cf8479de28c8771bbc412dda2446a902d92ab0",
-   "summary": "ファイナンシャルフィールド監修のQ&A形式記事。読者の『会社にバレたくない』という一次不安から出発し、パート・アルバイト（給与所得）は普通徴収に切り替えにくく、実質バレやすいという盲点を指摘している。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "work-sidejob-start",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!ニュース（ファイナンシャルフィールド）",
-    "expert_origin": true,
-    "search_query": "副業 会社にバレる 住民税 知恵袋 不安",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-19T17:48:23+09:00",
    "validity_days": 14
   },
   {
