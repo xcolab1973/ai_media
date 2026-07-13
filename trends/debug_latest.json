@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T07:28:00+09:00",
+  "generated_at": "2026-07-13T14:05:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,153 +16,153 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 12,
-    "passed_total": 108,
+    "neg_excluded": 8,
+    "dedup_excluded": 11,
+    "passed_total": 113,
     "b2b_category_counts": {
       "google_trends": 10,
-      "yahoo_realtime": 28,
+      "yahoo_realtime": 33,
+      "news_web": 17,
       "x_realtime": 9,
-      "yahoo_news_ranking": 3,
-      "news_web": 20
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
-    "opinion": 10,
+    "social_reaction": 36,
+    "opinion": 9,
     "personal_story": 1,
-    "policy": 4,
-    "hard_fact": 22,
-    "medical_science": 1
+    "hard_fact": 21,
+    "medical_science": 1,
+    "policy": 2
   },
   "b2b_topic_category_counts": {
-    "opinion": 10,
-    "social_reaction": 32,
-    "hard_fact": 22,
-    "policy": 5,
-    "personal_story": 1
+    "opinion": 9,
+    "social_reaction": 36,
+    "hard_fact": 23,
+    "personal_story": 1,
+    "policy": 1
   },
   "b2b_top10": [
     {
-      "title": "キック",
+      "title": "上場廃止",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "トランプ空港に初めて着陸したのは",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "なぜ設計ソフトは無料で使えるようになったのか──3D-CAD民主化の40年史",
+      "title": "たった5分で表面温度20℃以上の差!?　夏の炎天下で熱をもちにくい服の色　熱中症",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "武豊",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "レッドソックス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "鎌倉でインコに逃げられた方いませんか？懐かれて困ってます→その特徴で飼い主が見つ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "次の戦争では陸軍の「兵站」が崩壊する危険性があり早急な方針転換が必要だとアメリカ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "武豊 妻",
+      "title": "サーキットブレーカー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ゼンデイヤ",
+      "title": "ぺえ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "西山貴浩",
+      "title": "ラヴィット",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ジョゼ・モウリーニョ",
+      "title": "ゾンビたばこ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
+    },
+    {
+      "title": "学校で水筒に「異物」混入 対策は",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_domestic",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "九州南部が梅雨明け 熱中症に警戒",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_local",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "kospi 株価",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
     {
-      "title": "なぜ設計ソフトは無料で使えるようになったのか──3D-CAD民主化の40年史",
+      "title": "たった5分で表面温度20℃以上の差!?　夏の炎天下で熱をもちにくい服の色　熱中症",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "鎌倉でインコに逃げられた方いませんか？懐かれて困ってます→その特徴で飼い主が見つ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "関西の大学に行ったときに「北海道は素材がいいだけ。料理はカスの地方」といわれた話",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "キック",
+      "title": "上場廃止",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "トランプ空港に初めて着陸したのは",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "アニメソングの祭典・アニサマ2026に、2025年にヒットしたアニソンアーティス",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「クッッッッッッッッッッッッッッッッッッッッッッッッッッッッッッサいのでお安くし",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「短歌ってドパガキ向けの小説だ 尺短いし、縦画面だし」恋愛ネタ多いし、伏線とか貼",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "なんで旦那の枕カバーだけこんなに黄ばむの？何が出てるの？出汁？「世界共通、何出て",
+      "title": "次の戦争では陸軍の「兵站」が崩壊する危険性があり早急な方針転換が必要だとアメリカ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "育児と読書の趣味相性悪いなぁ",
+      "title": "2002年の動画を撮る・2002年のファッションで集まって2002年のカメラで撮",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ドイツの屋外施設でオムツをつけた子が迷子になり、受付に行ったら「我々の仕事じゃな",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "浜辺で見つかった謎の球体、地球に再突入した宇宙ごみか　豪州",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「お父上からお叱りを受けませんように」「前、手で持ってるだけや……」平安時代、女",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "子どもたちが好きなアニメの同じ話を何度も繰り返し見る理由がわからなかったが、ある",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "クラスの奴隷が決まったと思ったら共和政ローマ時代に実在した知識層の奴隷だったマン",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "日本には「県内なのに遠すぎて隣県のほうが近い場所」がある→時代が違えばそこがすべ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
