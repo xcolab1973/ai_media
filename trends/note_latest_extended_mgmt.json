@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-13T16:51:31+09:00",
+ "generated_at": "2026-07-14T06:46:12+09:00",
  "valid_until": "2026-07-27T06:37:06+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "mgmt",
   "from_current": 32,
-  "from_new": 5,
-  "expired_pruned": 0,
+  "from_new": 1,
+  "expired_pruned": 1,
   "retention_dropped": 0,
   "genres": 4,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "2026年の中小企業のボーナス相場を最新統計から解説。節税目的の「決算賞与」が招く黒字倒産や資金ショートの罠とは？RBF活用で還元と成長投資を両立する財務戦略",
+   "url": "https://yoii.jp/posts/bonus-standards-and-payment-strategies_smes",
+   "summary": "2026年夏季賞与は5年連続増加見込みだが、節税目的の決算賞与が運転資金・納税資金の急減を招き黒字倒産リスクにつながると指摘。就業規則での業績連動化やRBF(将来債権売却型資金調達)活用など、賞与支給と資金繰りを両立させる財務戦略を紹介。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "mgmt-finance",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "yoii.jp",
+    "expert_origin": true,
+    "search_query": "中小企業 夏季賞与 資金繰り 資金調達 中間決算 対策 2026",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-21T06:41:07+09:00",
+   "validity_days": 7
+  },
   {
    "source_category": "news_web",
    "raw_title": "確定拠出年金の改正を徹底解説｜企業が押さえるべき変更点と対応ポイント",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-15T06:42:30+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "資金ショートを防止するための方法・考え方",
-   "url": "https://biz.moneyforward.com/accounting/basic/44525/",
-   "summary": "黒字経営でも売掛金入金より買掛金支払いが先行すると資金ショートが起こり得る。今後1年の収支を月単位で予測し不足時期を事前に特定すること、入金を早め支払いを遅らせることが対策の基本となる。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "mgmt-finance",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "マネーフォワード biz",
-    "expert_origin": true,
-    "search_query": "中小企業 夏季賞与後 資金繰り 資金ショート 対策",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-14T06:34:13+09:00",
    "validity_days": 7
   },
   {
