@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T00:36:00+09:00",
+  "generated_at": "2026-07-14T07:33:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,46 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 11,
-    "passed_total": 116,
+    "neg_excluded": 6,
+    "dedup_excluded": 12,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 38,
-      "google_trends": 10,
-      "news_web": 14,
       "x_realtime": 6,
-      "yahoo_news_ranking": 2
+      "news_web": 16,
+      "yahoo_realtime": 35,
+      "google_trends": 10,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "personal_story": 3,
-    "medical_science": 6,
+    "social_reaction": 28,
+    "personal_story": 4,
     "opinion": 10,
-    "policy": 6,
-    "hard_fact": 16
+    "medical_science": 3,
+    "policy": 5,
+    "hard_fact": 20
   },
   "b2b_topic_category_counts": {
-    "policy": 6,
-    "social_reaction": 29,
+    "social_reaction": 28,
+    "hard_fact": 21,
+    "policy": 5,
     "opinion": 10,
-    "hard_fact": 17,
-    "medical_science": 5,
-    "personal_story": 3
+    "medical_science": 2,
+    "personal_story": 4
   },
   "b2b_top10": [
+    {
+      "title": "人類には早すぎる「傷口と包帯」がアニメ化でとうとうヨワラー概念が知られてしまう日",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "猛暑日100地点超えか 熱中症警戒",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_domestic",
+      "topic_category": "hard_fact"
+    },
     {
       "title": "高市総理の米国元上司が明かした「全真相メール」を公開",
       "source_category": "yahoo_realtime",
@@ -57,49 +69,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "近くでクマ目撃投稿→5秒以内に通知「クマップ」提供開始　秋田の学生スタートアップ",
+      "title": "中村倫也",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "桂川新駅",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「上野千鶴子、竹中平蔵に続くとか胸熱だな……」アニメ『ヤニねこ』は中国で反響が大",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "保育園でオムツ忘れが大量発生し、息子の「肌いち」が使われ続ける状態が約1か月続い",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "待つのがどのくらい得意かというと、ソフトバンク光のコールセンターの保留を6時間待",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "たった5分で表面温度20℃以上の差!?　夏の炎天下で熱をもちにくい服の色　熱中症",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "夫を殺したはずなのに",
+      "title": "ジブリパーク",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "カルビー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ローソン おにぎり",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ミセス スパイダーマン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "刺傷",
+      "title": "原油価格",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,27 +107,27 @@
   ],
   "note_top10": [
     {
+      "title": "人類には早すぎる「傷口と包帯」がアニメ化でとうとうヨワラー概念が知られてしまう日",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "「日本はスパイの巣窟」と米紙報道、木原官房長官が外国諜報活動の対策強化表明",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "たった5分で表面温度20℃以上の差!?　夏の炎天下で熱をもちにくい服の色　熱中症",
+      "title": "「上野千鶴子、竹中平蔵に続くとか胸熱だな……」アニメ『ヤニねこ』は中国で反響が大",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "近くでクマ目撃投稿→5秒以内に通知「クマップ」提供開始　秋田の学生スタートアップ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "保育園でオムツ忘れが大量発生し、息子の「肌いち」が使われ続ける状態が約1か月続い",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "待つのがどのくらい得意かというと、ソフトバンク光のコールセンターの保留を6時間待",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -137,7 +137,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "某番組の中吊り広告をデザインしたとき、広告を挟む上の部分に余白をもたせていたら、",
+      "title": "【続報を待て】母が生前、「おじいさんは竹久夢二と交流があって、よく二人で絵を描い",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ベルギー人の友達、高齢運転者のマークが好きすぎて買って帰って車につけて走ってるら",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "トランプ氏、イランへの海上封鎖再開を表明　「対価20%」を船舶に：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -150,18 +162,6 @@
     },
     {
       "title": "「本物の芋女代表」を主張するポストに「ナメんな」とビフォーアフターを投稿したら→",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中国山西省の屋台床屋（160円）で「ハーランドにしてください」と言ったら、現地民",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "都内のアエロフロート事務所、ロシア人スパイの活動拠点か…身分偽った軍将校がハイテ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
