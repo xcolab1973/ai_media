@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T19:43:00+09:00",
+  "generated_at": "2026-07-14T00:36:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,32 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
+    "neg_excluded": 5,
     "dedup_excluded": 11,
-    "passed_total": 112,
+    "passed_total": 116,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 38,
       "google_trends": 10,
-      "news_web": 16,
-      "x_realtime": 8,
-      "yahoo_news_ranking": 1
+      "news_web": 14,
+      "x_realtime": 6,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "personal_story": 2,
+    "social_reaction": 29,
+    "personal_story": 3,
+    "medical_science": 6,
     "opinion": 10,
-    "policy": 5,
-    "medical_science": 3,
-    "hard_fact": 17
+    "policy": 6,
+    "hard_fact": 16
   },
   "b2b_topic_category_counts": {
-    "policy": 5,
-    "social_reaction": 33,
+    "policy": 6,
+    "social_reaction": 29,
     "opinion": 10,
-    "hard_fact": 18,
-    "medical_science": 2,
-    "personal_story": 2
+    "hard_fact": 17,
+    "medical_science": 5,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
@@ -51,13 +51,19 @@
       "topic_category": "policy"
     },
     {
+      "title": "「日本はスパイの巣窟」と米紙報道、木原官房長官が外国諜報活動の対策強化表明",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "近くでクマ目撃投稿→5秒以内に通知「クマップ」提供開始　秋田の学生スタートアップ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「日本はスパイの巣窟」と米紙報道、木原官房長官が外国諜報活動の対策強化表明",
+      "title": "保育園でオムツ忘れが大量発生し、息子の「肌いち」が使われ続ける状態が約1か月続い",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -69,37 +75,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "次の戦争では陸軍の「兵站」が崩壊する危険性があり早急な方針転換が必要だとアメリカ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "cdtv",
+      "title": "夫を殺したはずなのに",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ティーレマンス",
+      "title": "カルビー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "二階堂 ふみ",
+      "title": "ローソン おにぎり",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "アンナ",
+      "title": "ミセス スパイダーマン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ペンタゴン",
+      "title": "刺傷",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,16 +113,40 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "たった5分で表面温度20℃以上の差!?　夏の炎天下で熱をもちにくい服の色　熱中症",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "近くでクマ目撃投稿→5秒以内に通知「クマップ」提供開始　秋田の学生スタートアップ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "たった5分で表面温度20℃以上の差!?　夏の炎天下で熱をもちにくい服の色　熱中症",
+      "title": "保育園でオムツ忘れが大量発生し、息子の「肌いち」が使われ続ける状態が約1か月続い",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "新しい楽天カードが届かないので問い合わせたら「1週間前に普通郵便で送りました」と",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "某番組の中吊り広告をデザインしたとき、広告を挟む上の部分に余白をもたせていたら、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "無印良品「ごはんにかける 四川麻婆豆腐」が本格的な痺れで手軽すぎた｜編集部の買っ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
       "title": "「本物の芋女代表」を主張するポストに「ナメんな」とビフォーアフターを投稿したら→",
@@ -131,39 +155,15 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "子どもをプールに連れて行きたいけど、自分が水着になるのは難しい体型だから連れて行",
+      "title": "中国山西省の屋台床屋（160円）で「ハーランドにしてください」と言ったら、現地民",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「毎日腕立て伏せ100回を50日間した結果……」腕立て伏せだけでどこまで変化する",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "次の戦争では陸軍の「兵站」が崩壊する危険性があり早急な方針転換が必要だとアメリカ",
+      "title": "都内のアエロフロート事務所、ロシア人スパイの活動拠点か…身分偽った軍将校がハイテ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「冷しカップヌードル」2品 (7月20日発売)",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「後輩に準備の大切さを教えるにはどうしたらよいか？」という質問とその回答が、後輩",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「起床直後なのに引き込まれて一気読みしてしまった」『死』というタイトルの改行のな",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
