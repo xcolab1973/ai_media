@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-14T16:55:22+09:00",
- "valid_until": "2026-07-28T16:46:14+09:00",
+ "generated_at": "2026-07-15T06:47:34+09:00",
+ "valid_until": "2026-07-29T06:35:46+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "health",
   "from_current": 56,
-  "from_new": 5,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 5,
+  "retention_dropped": 1,
   "genres": 7,
   "retention_per_genre": 8
  },
@@ -258,6 +258,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "テレワークの運動不足どうする？マイナスの影響をプラスに変えるコツ",
+   "url": "https://megalos.co.jp/blog/archives/3277",
+   "summary": "在宅ワーク（仕事)による運動不足という健康×働き方の交点ペインを、フィットネスクラブ運営会社が解説。デスクワーク中心の生活で無理なく体を動かす工夫を紹介し、続けやすさに焦点を当てている。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "health-fitness",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "メガロス（フィットネスクラブ）",
+    "expert_origin": true,
+    "search_query": "在宅ワーク 運動不足 解消 続けられるコツ",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-29T06:35:46+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "筋トレがやる気おきない時みなさんどうしてますか？ - Yahoo!知恵袋",
    "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1144715431",
    "summary": "筋トレを続けたいのにやる気が続かないという相談投稿。薄着シーズンを前に見た目を変えたい気持ちはあるがモチベーションが保てない、という読者の生の悩みが見える質問。",
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-25T06:35:18+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "熱中症予防対策に筋トレ（熱中症予防シリーズ①）",
-   "url": "https://operacity-clinic.com/blog/%E7%86%B1%E4%B8%AD%E7%97%87%E4%BA%88%E9%98%B2%E3%81%AB%E5%AF%9D%E3%82%8B%E5%89%8D%E3%81%AE%E7%AD%8B%E3%83%88%E3%83%AC%E3%81%8C%E6%9C%89%E5%8A%B9%EF%BC%81",
-   "summary": "筋肉量が多いほど体内に水分を蓄えやすく熱中症予防につながる。夏の筋トレは涼しい時間帯を選び、汗で失う塩分と水分を意識的に補給することが重要と医療機関のブログが解説。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "safety_claim",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "health-fitness",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "オペラシティクリニック",
-    "expert_origin": true,
-    "search_query": "筋トレ 夏 熱中症 対策 水分補給 2026",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-23T06:37:19+09:00",
    "validity_days": 14
   },
   {

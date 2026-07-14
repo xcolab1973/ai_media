@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-14T16:55:22+09:00",
+ "generated_at": "2026-07-15T06:47:35+09:00",
  "valid_until": "2026-07-27T16:49:16+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "travel",
   "from_current": 19,
-  "from_new": 0,
-  "expired_pruned": 0,
+  "from_new": 1,
+  "expired_pruned": 1,
   "retention_dropped": 0,
   "genres": 3,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "ETIAS (European Travel Information and Authorisation System) 公式案内",
+   "url": "https://travel-europe.europa.eu/etias_en",
+   "summary": "欧州渡航に必要な電子渡航認証ETIASの導入時期が2026年第4四半期（10〜12月目安）に延期。EU出入国管理システムEESの先行稼働が前提のため実施が後ろ倒しに。夏休み中の渡航者への即時影響は薄いが、秋以降にシェンゲン圏へ行く人は事前申請の要否・時期を把握しておく必要がある。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "official_instruction",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "travel-abroad",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "欧州委員会 ETIAS公式サイト",
+    "expert_origin": true,
+    "search_query": "ETIAS 2026 導入 延期 いつから 日本 外務省",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-22T06:43:45+09:00",
+   "validity_days": 7
+  },
   {
    "source_category": "news_web",
    "raw_title": "欧州渡航認証（ETIAS）｜在フランス日本国大使館",
@@ -104,36 +134,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-16T06:44:07+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "海外旅行の隠れコスト? 値上がり続くクレカの「海外事務手数料」に注意",
-   "url": "https://www.watch.impress.co.jp/docs/topic/2038281.html",
-   "summary": "クレジットカードの海外事務手数料率がカード会社により1.6%〜3.85%超まで開きがあり、同じ10万円相当の利用でも手数料差が2千円超になり得る。現地通貨決済を選び、店舗側が任意設定するDCC（日本円決済）を避けることで上乗せ手数料を回避できる点が実務上の要点。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "travel-abroad",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Impress Watch",
-    "expert_origin": true,
-    "search_query": "海外旅行 円安 クレジットカード 手数料 損 知恵袋",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-15T06:43:10+09:00",
    "validity_days": 7
   },
   {
