@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-14T06:46:12+09:00",
- "valid_until": "2026-07-27T06:37:06+09:00",
+ "generated_at": "2026-07-14T16:55:22+09:00",
+ "valid_until": "2026-07-28T16:46:10+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -10,8 +10,8 @@
   "parent": "mgmt",
   "from_current": 32,
   "from_new": 1,
-  "expired_pruned": 1,
-  "retention_dropped": 0,
+  "expired_pruned": 0,
+  "retention_dropped": 1,
   "genres": 4,
   "retention_per_genre": 8
  },
@@ -738,6 +738,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "106万円の壁の撤廃でパート採用はどう変わる？中小企業の求人・募集要項の見直し方【2026年10月〜】",
+   "url": "https://saiyo-kakaricho.com/wp/social-insurance-wall-2026/",
+   "summary": "2026年10月、社会保険の「106万円の壁」が撤廃され「週20時間の壁」に一本化。週20時間以上のパート・アルバイトは社会保険加入が必須になり、企業は所定労働時間20時間以上の従業員の洗い出しと契約書突合、求人・募集要項の見直し、加入メリットや手取り変動の説明が必要と採用支援メディアが解説。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "mgmt-orga",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "採用係長の採用アカデミー",
+    "expert_origin": false,
+    "search_query": "106万円の壁 撤廃 週20時間 パート 社会保険加入 人事 対応 2026年10月",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-28T16:46:10+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "2026年夏季賞与の動向アンケート｜株式会社 帝国データバンク[TDB]",
    "url": "https://www.tdb.co.jp/report/economic/20260611-2026summerbonus/",
    "summary": "2026年夏季賞与は増加見込み企業が全体で約37.1%、平均支給額47.7万円。ただし大企業と中小・小規模企業の間には実質50万円以上の差があり、中小企業は大企業の相場をそのまま真似せず、自社の賃金改定状況や賞与原資の決め方を踏まえた判断が必要とTDBが指摘。",
@@ -944,36 +974,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-18T16:44:56+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "カスハラ対策義務化について｜人事のQ&A『日本の人事部』",
-   "url": "https://jinjibu.jp/qa/detl/160771/1/",
-   "summary": "人事担当者が「法改正でカスハラ対策が義務化されるが、具体的に何をどこまで行えばいいか分からない」と相談。社労士から方針明確化・相談窓口設置・対応マニュアル整備など7項目の実務対応と就業規則条文例が回答された。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "mgmt-orga",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "日本の人事部Q&A",
-    "expert_origin": false,
-    "search_query": "カスハラ対策 就業規則 何から手をつければ 中小企業 悩み OKWAVE",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-16T16:43:37+09:00",
    "validity_days": 14
   }
  ]
