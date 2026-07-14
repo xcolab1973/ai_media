@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T13:34:00+09:00",
+  "generated_at": "2026-07-14T18:30:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,33 +17,57 @@
       "x_realtime": 10
     },
     "neg_excluded": 10,
-    "dedup_excluded": 12,
-    "passed_total": 110,
+    "dedup_excluded": 9,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
-      "x_realtime": 5,
-      "google_trends": 9,
-      "news_web": 20,
-      "yahoo_news_ranking": 2
+      "yahoo_realtime": 28,
+      "news_web": 21,
+      "google_trends": 10,
+      "x_realtime": 8,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "opinion": 9,
+    "social_reaction": 28,
+    "opinion": 10,
     "medical_science": 2,
-    "personal_story": 2,
+    "personal_story": 1,
     "hard_fact": 25,
-    "policy": 3
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "opinion": 9,
-    "hard_fact": 25,
+    "social_reaction": 24,
+    "hard_fact": 30,
+    "opinion": 10,
     "policy": 4,
     "medical_science": 1,
-    "personal_story": 2
+    "personal_story": 1
   },
   "b2b_top10": [
+    {
+      "title": "義祖母が息子に中学受験をひたすら勧めて困っていたら、義母が「口出すなら金と労力も",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "インターネット接続で「光配線」と言われて光回線を契約したのに、実際に工事が始まっ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "GMO 在宅勤務を完全に廃止",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "GMO、在宅勤務を完全廃止　コロナ禍以降続けてきた週1日の「推奨」も終了",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "山などでこんな感じのちまきを見つけても絶対に開けてはいけません…「節子...それ",
       "source_category": "yahoo_realtime",
@@ -57,49 +81,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "GMO、在宅勤務を完全廃止　コロナ禍以降続けてきた週1日の「推奨」も終了",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "TOKYO MER 地震描写に注意案内",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_entertainment",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "バーガーキングに「ハーフカット」というオプションがあったので気まぐれでチェックを",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日本の河川技術の基礎をつくった人々・略史",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "大家目線からすると、入居者に自炊されると物件の寿命が縮まるため、「自炊できそうで",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ワンピース カード ジャンプ ルフィ 買取",
+      "title": "サッカー南アフリカ共和国代表",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "高嶋政伸",
+      "title": "チェ・ジョンヒョプ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "英検",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "佐野 勇 斗",
+      "title": "山内晶大",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,7 +107,25 @@
   ],
   "note_top10": [
     {
+      "title": "義祖母が息子に中学受験をひたすら勧めて困っていたら、義母が「口出すなら金と労力も",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "GMO、在宅勤務を完全廃止　コロナ禍以降続けてきた週1日の「推奨」も終了",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "インターネット接続で「光配線」と言われて光回線を契約したのに、実際に工事が始まっ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "日本の河川技術の基礎をつくった人々・略史",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,45 +143,27 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "バーガーキングに「ハーフカット」というオプションがあったので気まぐれでチェックを",
+      "title": "上海ディズニーに行く予定の友達、節約したいだけなのに難癖つけて「パークご飯食べな",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本の河川技術の基礎をつくった人々・略史",
+      "title": "『舐められない人』になるための方法を記したX記事がかなりためになる…大事なのは「",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "もし俺がエアコンで、部屋の除湿を指示されたなら何をどうしたらいいかわからず泣く「",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「コーヒーを飲む時間帯」で寿命が変わる？　ベストな時間は……米大学が4万人で健康",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "大家目線からすると、入居者に自炊されると物件の寿命が縮まるため、「自炊できそうで",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "冷感おりものシート買ってみたらすごく良くて夫に自慢したら、次の日からなんとなく減",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「これは酷い…」友達からもらったアイスがクール便で届いたが中を開けたら溶けていた",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "はま寿司へ行こうと車を運転していたらレクサスに突っ込まれ1時間半拘束→過失割合1",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "物価高すぎて日帰り旅行に行っただけでこれ…もう終わりだよこの国「旅行代抜きにして",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
