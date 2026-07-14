@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T23:30:00+09:00",
+  "generated_at": "2026-07-15T07:37:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,155 +16,155 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 10,
-    "passed_total": 116,
+    "neg_excluded": 2,
+    "dedup_excluded": 9,
+    "passed_total": 121,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
-      "x_realtime": 8,
+      "news_web": 11,
+      "yahoo_realtime": 38,
       "google_trends": 10,
-      "news_web": 15,
-      "yahoo_news_ranking": 5
+      "x_realtime": 9,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "personal_story": 5,
+    "social_reaction": 32,
     "opinion": 9,
-    "medical_science": 1,
-    "hard_fact": 22,
-    "policy": 4
+    "medical_science": 2,
+    "personal_story": 4,
+    "hard_fact": 16,
+    "policy": 7
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
+    "hard_fact": 16,
+    "social_reaction": 32,
     "opinion": 9,
-    "hard_fact": 25,
-    "policy": 4,
-    "medical_science": 1,
-    "personal_story": 3
+    "medical_science": 2,
+    "policy": 7,
+    "personal_story": 4
   },
   "b2b_top10": [
     {
-      "title": "GMO、在宅勤務を廃止　熊谷正寿会長兼社長｢トータルではマイナス｣ - 日本経済",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "GMO、在宅勤務を完全廃止　コロナ禍以降続けてきた週1日の「推奨」も終了",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "義祖母が息子に中学受験をひたすら勧めて困っていたら、義母が「口出すなら金と労力も",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日本の河川技術の基礎をつくった人々・略史",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ケンタッキー ニチレイ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "鈴木 亮平",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "巨人・浦田「熱中症」で途中交代",
+      "title": "GMO在宅勤務を完全廃止 狙いは",
       "source_category": "news_web",
       "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "梅雨明け直後 熱中症患者なぜ急増",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_science",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "客よりキャストの数の方が多くガラガラ、怒涛のオペレーションミス…ジャングリア沖縄",
+      "title": "『めちゃイケ』総監督の片岡飛鳥がNHKでたどり着いた新境地…「今は人と人の関わり",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "最近あたりめの栄養価に気づいておやつとして食べるようになった、ある日会社で食べて",
+      "title": "GMO、在宅勤務を廃止　熊谷正寿会長兼社長「トータルではマイナス」 - 日本経済",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "ガブリエラ ギマラエス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "梅雨明け 東京",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "直木賞",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "クマップ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "小瀧望",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "胃がん",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "フェーン現象",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "GMO、在宅勤務を完全廃止　コロナ禍以降続けてきた週1日の「推奨」も終了",
+      "title": "『めちゃイケ』総監督の片岡飛鳥がNHKでたどり着いた新境地…「今は人と人の関わり",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "GMO、在宅勤務を廃止　熊谷正寿会長兼社長｢トータルではマイナス｣ - 日本経済",
+      "title": "GMO、在宅勤務を廃止　熊谷正寿会長兼社長「トータルではマイナス」 - 日本経済",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本の河川技術の基礎をつくった人々・略史",
+      "title": "送迎の時、たまたま娘に暴言を吐いている子に出会ったので、「〇〇のお母さんだけど、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "義祖母が息子に中学受験をひたすら勧めて困っていたら、義母が「口出すなら金と労力も",
+      "title": "「スマホの普及によるAIの進歩の弊害」「描かれた人々はまさにドパガキ」まさに予言",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "客よりキャストの数の方が多くガラガラ、怒涛のオペレーションミス…ジャングリア沖縄",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "最近あたりめの栄養価に気づいておやつとして食べるようになった、ある日会社で食べて",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "健康診断当日の水分摂取量は制限があるため、喉がカラカラの状態で健診センターに到着",
+      "title": "シンガポール国立大学の教員住宅にいた頃、住人向け電子掲示板に「夜な夜なフルアーマ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "京都アニメーションホームページ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "富山の53歳が起こそうとした無差別殺人計画…それを食い止めたのは秋葉原通り魔事件",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【レビュー】敵は数多のエイリアン！シンプルに爽快な地球防衛FPS！『最終回収SQ",
+      "title": "ガブリエラ ギマラエス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "梅雨明け 東京",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "胃がん",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "今回のジャンプ転売で見えたのは、転売ヤーが倫理観のない特殊な悪人というより「みん",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "JR東日本、新型新幹線専用検測車の愛称は「SOAR」　デザイン公開",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
     }
   ]
 }
