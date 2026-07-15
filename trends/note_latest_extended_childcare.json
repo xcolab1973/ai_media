@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-15T16:55:49+09:00",
- "valid_until": "2026-07-29T16:47:06+09:00",
+ "generated_at": "2026-07-16T06:49:33+09:00",
+ "valid_until": "2026-07-30T06:38:58+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -16,6 +16,36 @@
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "妊娠中の熱中症について",
+   "url": "https://mothers-clinic.jp/blog/9551/",
+   "summary": "産婦人科クリニック院長執筆。妊娠中はホルモン影響で発汗・水分バランスが崩れやすく、悪阻で水分が取れない人は特に脱水になりやすいと解説。対策はこまめな水分・塩分補給、外出は涼しい時間帯を選び日傘や通気性の良い服を着用、室内も室温28度以下を目安にエアコンを活用。めまい・吐き気・頭痛・だるさがあれば休息し、必要なら受診を促す内容。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "safety_claim",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "childcare-pregnancy",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "東京マザーズクリニック",
+    "expert_origin": true,
+    "search_query": "妊娠中 熱中症 対策 産婦人科医 むくみ 夏",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-30T06:38:58+09:00",
+   "validity_days": 14
+  },
   {
    "source_category": "news_web",
    "raw_title": "残暑にも注意！「熱中症」「めまい」など、妊婦さんが気をつけたい症状と対処法【産婦人科医】",
@@ -219,36 +249,6 @@
     "freshness": "fresh",
     "integrity_warning": null,
     "provenance_kind": "evidence",
-    "opportunity_gap": true,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-20T06:35:12+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "はじめての里帰り出産。いつまでに何をしたらいい？",
-   "url": "https://www.aeta-baby.jp/articles/childbirth/0124",
-   "summary": "産院探し・予約は妊娠5カ月（16〜19週）頃まで、実際の里帰りは32〜34週までが目安とされるが、里帰り先の産院探しと現在の産院での紹介状手配のタイミング調整、真夏の移動と体調管理の両立で読者が具体的にいつ何をすべきか迷いやすい。準備リスト起点の記事は多いが、猛暑期に里帰りする場合の移動時対策への言及は薄い。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "childcare-pregnancy",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "aeta",
-    "expert_origin": true,
-    "search_query": "妊婦 里帰り出産 準備 いつから 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
     "opportunity_gap": true,
     "discovered_angle": null,
     "rescued": false
