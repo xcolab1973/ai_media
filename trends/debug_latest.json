@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T07:37:00+09:00",
+  "generated_at": "2026-07-15T13:33:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,38 +16,56 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 2,
-    "dedup_excluded": 9,
-    "passed_total": 121,
+    "neg_excluded": 4,
+    "dedup_excluded": 12,
+    "passed_total": 116,
     "b2b_category_counts": {
-      "news_web": 11,
-      "yahoo_realtime": 38,
-      "google_trends": 10,
-      "x_realtime": 9,
-      "yahoo_news_ranking": 2
+      "yahoo_realtime": 30,
+      "news_web": 18,
+      "google_trends": 9,
+      "x_realtime": 7,
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
+    "personal_story": 1,
+    "social_reaction": 30,
     "opinion": 9,
-    "medical_science": 2,
-    "personal_story": 4,
-    "hard_fact": 16,
-    "policy": 7
+    "hard_fact": 25,
+    "medical_science": 1,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 16,
-    "social_reaction": 32,
+    "social_reaction": 28,
+    "personal_story": 1,
+    "hard_fact": 30,
     "opinion": 9,
-    "medical_science": 2,
-    "policy": 7,
-    "personal_story": 4
+    "medical_science": 1,
+    "policy": 1
   },
   "b2b_top10": [
     {
-      "title": "GMO在宅勤務を完全廃止 狙いは",
+      "title": "さくら田中社長「フルリモートは廃止しません」　GMOの“在宅勤務廃止”受け明言",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "さくらインターネット田中社長「フルリモートは廃止しません」--GMOの在宅勤務廃",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "円安時代の海外旅行　上がり続けるクレカ「海外事務手数料」の注意と対策",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "体温並みの暑さの所も 熱中症警戒",
       "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
+      "raw_source_key": "yahoo_news_domestic",
       "topic_category": "hard_fact"
     },
     {
@@ -57,49 +75,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "GMO、在宅勤務を廃止　熊谷正寿会長兼社長「トータルではマイナス」 - 日本経済",
+      "title": "「疑惑を逆手に取る、しなやかなStyle」西川貴教がTHE FIRST TAKE",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ガブリエラ ギマラエス",
+      "title": "社会人になってから一度も科博に行っていなかった人が、子供が生まれた途端「教育のた",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "徹子の部屋",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "梅雨明け 東京",
+      "title": "山本 由伸 オールスター",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "直木賞",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "クマップ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "小瀧望",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "胃がん",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "フェーン現象",
+      "title": "福永祐一",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
+      "title": "円安時代の海外旅行　上がり続けるクレカ「海外事務手数料」の注意と対策",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "さくら田中社長「フルリモートは廃止しません」　GMOの“在宅勤務廃止”受け明言",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "さくらインターネット田中社長「フルリモートは廃止しません」--GMOの在宅勤務廃",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "『めちゃイケ』総監督の片岡飛鳥がNHKでたどり着いた新境地…「今は人と人の関わり",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "GMO、在宅勤務を廃止　熊谷正寿会長兼社長「トータルではマイナス」 - 日本経済",
+      "title": "「疑惑を逆手に取る、しなやかなStyle」西川貴教がTHE FIRST TAKE",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "送迎の時、たまたま娘に暴言を吐いている子に出会ったので、「〇〇のお母さんだけど、",
+      "title": "社会人になってから一度も科博に行っていなかった人が、子供が生まれた途端「教育のた",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「スマホの普及によるAIの進歩の弊害」「描かれた人々はまさにドパガキ」まさに予言",
+      "title": "『アポカリプスホテル』みたいな、原作なしオリジナルアニメって知らないだけでたくさ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "シンガポール国立大学の教員住宅にいた頃、住人向け電子掲示板に「夜な夜なフルアーマ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "とある堰に伝わる悲しい話… 昔、ある川では何度塞き止め工事をしても水流で破壊され",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "富山の53歳が起こそうとした無差別殺人計画…それを食い止めたのは秋葉原通り魔事件",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "フェンダー、ストラトキャスター・タイプ・ギターの製造業者に送付している停止通告書",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ガブリエラ ギマラエス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "梅雨明け 東京",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "胃がん",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "今回のジャンプ転売で見えたのは、転売ヤーが倫理観のない特殊な悪人というより「みん",
+      "title": "ばらまき土産をひとりじめしたい　一人でひと箱ぜんぶ食べてもおいしいのだろうか",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
