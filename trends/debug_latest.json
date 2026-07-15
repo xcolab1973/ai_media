@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T23:29:00+09:00",
+  "generated_at": "2026-07-16T07:38:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -20,28 +20,35 @@
     "dedup_excluded": 9,
     "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "news_web": 14,
       "yahoo_news_ranking": 6,
+      "news_web": 12,
       "x_realtime": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
+    "social_reaction": 32,
+    "personal_story": 1,
     "opinion": 10,
-    "medical_science": 2,
-    "policy": 3,
-    "hard_fact": 26
-  },
-  "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "policy": 3,
-    "opinion": 10,
-    "hard_fact": 27,
+    "policy": 6,
+    "hard_fact": 20,
     "medical_science": 1
   },
+  "b2b_topic_category_counts": {
+    "policy": 6,
+    "social_reaction": 32,
+    "opinion": 10,
+    "personal_story": 1,
+    "hard_fact": 21
+  },
   "b2b_top10": [
+    {
+      "title": "皇位継承議論に欠けている２つの視点 | ニューズウィーク日本版 オフィシャルサイ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
     {
       "title": "一部のテスラ乗りは、なぜ他人のクルマを罵るのか～自分の選択を「正解」にしたくなる",
       "source_category": "yahoo_realtime",
@@ -49,55 +56,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "病歴や犯罪歴もAI開発に利用可能へ…改正個人情報保護法「統計特例」は本当に危険な",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "さくらインターネット田中社長「フルリモートは廃止しません」--GMOの在宅勤務廃",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "さくら田中社長「フルリモートは廃止しません」　GMOの“在宅勤務廃止”受け明言",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日本人がカレーパンを手作りしたポストを見たアメリカ人『カレーパン！？こんなの初め",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "マーリンズ",
+      "title": "ソフトテニス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "全国高等学校野球選手権地方大会",
+      "title": "武蔵村山市",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "たばこ",
+      "title": "守田英正",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "suv",
+      "title": "東京大学医学部附属病院",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "zimbabwe vs bangladesh",
+      "title": "吉田結衣",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "schd",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "奈良新聞",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "中井卓大",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -111,13 +112,7 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "さくらインターネット田中社長「フルリモートは廃止しません」--GMOの在宅勤務廃",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "さくら田中社長「フルリモートは廃止しません」　GMOの“在宅勤務廃止”受け明言",
+      "title": "スタジオを予約しようとしたら、本人確認で「マイナンバーカードの裏面まで提出してく",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -129,39 +124,45 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "高速道路で降りたい出口をウッカリ通り過ぎそうになったら→普通ならそのまま通り過ぎ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "「自分の能力を大きく超えたものに対して、焦りながら必死に付いていくもの」12年前",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
-      "title": "京都府南部の京阪電車「駅前」でマンション建設がストップ　幕末の遺跡見つかり「開発",
+      "title": "1食わずか29円！ フライパンで作れる簡単ピザ - 東雲製作所",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ベテラン保育士さんに「手に手足口病みたいな発疹が…」と言われたが特に見当たらない",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "突っ張り棒と棚板でぬいぐるみ収納！ カーテンレール上のデッドスペースに居場所をつ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "不登校の娘が何もかも嫌だから学校に行かないと宣言、朝から晩までネットやゲーム漬け",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "ソフトテニス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "「ただ事ではない漫画が掲載されている」と話題になった小学館新人コミック賞青年部門",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "武蔵村山市",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "守田英正",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "客に鰹節の事で突然ブチキレられて空手チョップされて意味わからんのだが",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
