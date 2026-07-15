@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-15T06:47:35+09:00",
+ "generated_at": "2026-07-15T16:55:50+09:00",
  "valid_until": "2026-07-29T06:43:35+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "sports",
   "from_current": 16,
-  "from_new": 3,
+  "from_new": 0,
   "expired_pruned": 0,
-  "retention_dropped": 3,
+  "retention_dropped": 0,
   "genres": 2,
   "retention_per_genre": 8
  },
