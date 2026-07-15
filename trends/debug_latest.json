@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T18:33:00+09:00",
+  "generated_at": "2026-07-15T23:29:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,40 +17,35 @@
       "x_realtime": 10
     },
     "neg_excluded": 10,
-    "dedup_excluded": 8,
-    "passed_total": 114,
+    "dedup_excluded": 9,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "x_realtime": 9,
-      "yahoo_realtime": 30,
-      "news_web": 17,
+      "yahoo_realtime": 33,
       "google_trends": 10,
-      "yahoo_news_ranking": 4
+      "news_web": 14,
+      "yahoo_news_ranking": 6,
+      "x_realtime": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
+    "social_reaction": 29,
     "opinion": 10,
-    "policy": 5,
-    "hard_fact": 22,
-    "medical_science": 1
+    "medical_science": 2,
+    "policy": 3,
+    "hard_fact": 26
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 31,
+    "social_reaction": 29,
     "policy": 3,
-    "hard_fact": 26,
-    "opinion": 10
+    "opinion": 10,
+    "hard_fact": 27,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "小1の娘が家や学校で騒がしくて注意しても直らないため、「今のあなたは嫌い」など何",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ジャンプの件で分かったのは転売対策をしても無意味なのではないか？ということだった",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "一部のテスラ乗りは、なぜ他人のクルマを罵るのか～自分の選択を「正解」にしたくなる",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -60,12 +55,6 @@
       "topic_category": "policy"
     },
     {
-      "title": "通話アプリPOPOPO 半年で終了へ",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
       "title": "さくらインターネット田中社長「フルリモートは廃止しません」--GMOの在宅勤務廃",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
@@ -78,25 +67,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "16日も危険な暑さ 熱中症に警戒",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "職場で20代半ばのジュニアに質問された時、「マニュアルを読んで分からなかったら聞",
+      "title": "日本人がカレーパンを手作りしたポストを見たアメリカ人『カレーパン！？こんなの初め",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "今朝丸裕喜",
+      "title": "マーリンズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "大ノ里",
+      "title": "全国高等学校野球選手権地方大会",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "たばこ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "suv",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "zimbabwe vs bangladesh",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -104,15 +105,9 @@
   ],
   "note_top10": [
     {
-      "title": "ジャンプの件で分かったのは転売対策をしても無意味なのではないか？ということだった",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "小1の娘が家や学校で騒がしくて注意しても直らないため、「今のあなたは嫌い」など何",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "一部のテスラ乗りは、なぜ他人のクルマを罵るのか～自分の選択を「正解」にしたくなる",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -128,37 +123,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "職場で20代半ばのジュニアに質問された時、「マニュアルを読んで分からなかったら聞",
+      "title": "日本人がカレーパンを手作りしたポストを見たアメリカ人『カレーパン！？こんなの初め",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "マヤ遺跡の壁に刻まれた数式から当時の学者の名前が初めて明らかに、「古代の大数学者",
+      "title": "高速道路で降りたい出口をウッカリ通り過ぎそうになったら→普通ならそのまま通り過ぎ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「自分の能力を大きく超えたものに対して、焦りながら必死に付いていくもの」12年前",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "京都府南部の京阪電車「駅前」でマンション建設がストップ　幕末の遺跡見つかり「開発",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "スタバでテイクアウトで頼んだものがガラスカップで渡され「あ、テイクアウト…」と言",
+      "title": "ベテラン保育士さんに「手に手足口病みたいな発疹が…」と言われたが特に見当たらない",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "コミケ初出展でド緊張していると告白する山善「扇風機でおなじみ」「コレクションケー",
+      "title": "不登校の娘が何もかも嫌だから学校に行かないと宣言、朝から晩までネットやゲーム漬け",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "メイクレッスン大好き侍が教える、人気コスメブランドのメイクレッスン紹介と良いレッ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ちいかわとセブン-イレブンがコラボして赤魚の煮付けを発売！→あまりにも意味深なメ",
+      "title": "「ただ事ではない漫画が掲載されている」と話題になった小学館新人コミック賞青年部門",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
