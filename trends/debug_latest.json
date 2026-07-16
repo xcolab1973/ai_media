@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T07:38:00+09:00",
+  "generated_at": "2026-07-16T13:44:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,151 +16,150 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 9,
+    "neg_excluded": 8,
+    "dedup_excluded": 11,
     "passed_total": 113,
     "b2b_category_counts": {
       "yahoo_realtime": 35,
       "google_trends": 10,
-      "yahoo_news_ranking": 6,
-      "news_web": 12,
-      "x_realtime": 7
+      "yahoo_news_ranking": 9,
+      "x_realtime": 5,
+      "news_web": 11
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
-    "personal_story": 1,
-    "opinion": 10,
-    "policy": 6,
-    "hard_fact": 20,
-    "medical_science": 1
+    "social_reaction": 37,
+    "opinion": 9,
+    "medical_science": 2,
+    "policy": 4,
+    "hard_fact": 18
   },
   "b2b_topic_category_counts": {
-    "policy": 6,
-    "social_reaction": 32,
-    "opinion": 10,
-    "personal_story": 1,
-    "hard_fact": 21
+    "social_reaction": 34,
+    "policy": 4,
+    "hard_fact": 22,
+    "opinion": 9,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "皇位継承議論に欠けている２つの視点 | ニューズウィーク日本版 オフィシャルサイ",
+      "title": "「息子に何が起きたのか…」ある朝、いつものように中学生の息子を起こしにいったら、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "服に響かない「下着扱いできる水冷服」をシャープが開発中　“涼しい顔”でおめかしで",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「エアコンは使わない」善意で寄せられた災害義援金が”収入”にー　生活保護が廃止に",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "一部のテスラ乗りは、なぜ他人のクルマを罵るのか～自分の選択を「正解」にしたくなる",
+      "title": "日経平均株価",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "炎天下 犬の熱中症で気をつける点",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_science",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "子どもが大好きな「トマトと卵の炒め物」を作ったと投稿したら、中国の人から作り方の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ソフトテニス",
+      "title": "高田馬場女性配信者刺殺事件、懲役16年の実刑判決に様々な意見→これに「諦めるんだ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "濱口優",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "武蔵村山市",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "JR西日本 5年以内に運賃値上げへ",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "守田英正",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "東京大学医学部附属病院",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "吉田結衣",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "schd",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "奈良新聞",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "中井卓大",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "家の窓ガラスが割れていたので専門家に見てもらったら、「こんなの見られて君はラッキ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
-      "title": "一部のテスラ乗りは、なぜ他人のクルマを罵るのか～自分の選択を「正解」にしたくなる",
+      "title": "「息子に何が起きたのか…」ある朝、いつものように中学生の息子を起こしにいったら、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "スタジオを予約しようとしたら、本人確認で「マイナンバーカードの裏面まで提出してく",
+      "title": "服に響かない「下着扱いできる水冷服」をシャープが開発中　“涼しい顔”でおめかしで",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本人がカレーパンを手作りしたポストを見たアメリカ人『カレーパン！？こんなの初め",
+      "title": "子どもが大好きな「トマトと卵の炒め物」を作ったと投稿したら、中国の人から作り方の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「自分の能力を大きく超えたものに対して、焦りながら必死に付いていくもの」12年前",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "1食わずか29円！ フライパンで作れる簡単ピザ - 東雲製作所",
+      "title": "家の窓ガラスが割れていたので専門家に見てもらったら、「こんなの見られて君はラッキ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "突っ張り棒と棚板でぬいぐるみ収納！ カーテンレール上のデッドスペースに居場所をつ",
+      "title": "米ICE執行官がまた移民男性を射殺　25歳の父親、善良な働き者の若者がなぜ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ソフトテニス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "公用車カーナビのNHK受信料、事実上の免除要請へ　全国知事会（朝日新聞） - Y",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "武蔵村山市",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "日本のカレーパンの存在を知ったアメリカ人、早速作ってみた様子を投稿「海外の見たこ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "守田英正",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "米国では2026年上半期　CDの販売枚数が急増　CDの販売増加率はレコードの約7",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "客に鰹節の事で突然ブチキレられて空手チョップされて意味わからんのだが",
+      "title": "小学1〜6年生の好きな本ランキング、どの学年もほとんど『りんごかもしれない』と『",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「不法占拠、私の代でやめたい」市ケ谷の人気釣り堀、経営者が語る：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
