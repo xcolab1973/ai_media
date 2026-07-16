@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-07-16T16:57:08+09:00",
+ "generated_at": "2026-07-17T06:44:54+09:00",
  "valid_until": "2026-07-29T16:50:54+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "travel",
- "total_count": 18,
+ "total_count": 19,
  "merge": {
   "parent": "travel",
   "from_current": 18,
@@ -16,6 +16,36 @@
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "海外旅行保険入るべきか知恵袋の回答は？韓国・台湾・クレジットカード付帯の落とし穴 | ヨムーノ",
+   "url": "https://yomuno.jp/posts/136340",
+   "summary": "海外旅行保険は必要かという知恵袋的な疑問に答える記事。クレジットカード付帯保険の補償額不足、利用付帯条件で補償ゼロになるケース、複数枚所持でも保険金が増えない落とし穴を紹介する生の読者ペイン。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "travel-abroad",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "ヨムーノ",
+    "expert_origin": false,
+    "search_query": "海外旅行 円安 海外旅行保険 クレジットカード 落とし穴 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": true,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-24T06:43:05+09:00",
+   "validity_days": 7
+  },
   {
    "source_category": "news_web",
    "raw_title": "パスポートは切れる前に更新すべき？それとも切れてから？【2026年7月大幅値下げ】",
