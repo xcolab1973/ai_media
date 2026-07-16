@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T13:44:00+09:00",
+  "generated_at": "2026-07-16T18:49:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
+    "neg_excluded": 6,
     "dedup_excluded": 11,
-    "passed_total": 113,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 28,
       "google_trends": 10,
+      "news_web": 16,
       "yahoo_news_ranking": 9,
-      "x_realtime": 5,
-      "news_web": 11
+      "x_realtime": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 37,
+    "social_reaction": 36,
     "opinion": 9,
-    "medical_science": 2,
-    "policy": 4,
-    "hard_fact": 18
+    "medical_science": 3,
+    "hard_fact": 19,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 34,
-    "policy": 4,
-    "hard_fact": 22,
+    "hard_fact": 28,
+    "social_reaction": 26,
     "opinion": 9,
-    "medical_science": 1
+    "medical_science": 2,
+    "policy": 5
   },
   "b2b_top10": [
     {
-      "title": "「息子に何が起きたのか…」ある朝、いつものように中学生の息子を起こしにいったら、",
+      "title": "「電気代をケチって命を危険に晒したりしないで」東京23区で、熱中症死亡者の9割は",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "もっとシンプルなLINEが欲しい…1億人突破の国民的インフラが｢無料→有料アプリ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -55,63 +61,57 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「エアコンは使わない」善意で寄せられた災害義援金が”収入”にー　生活保護が廃止に",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "日経平均株価",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "炎天下 犬の熱中症で気をつける点",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_science",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "子どもが大好きな「トマトと卵の炒め物」を作ったと投稿したら、中国の人から作り方の",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "高田馬場女性配信者刺殺事件、懲役16年の実刑判決に様々な意見→これに「諦めるんだ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "濱口優",
+      "title": "有吉弘行",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "JR西日本 5年以内に運賃値上げへ",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
+      "title": "熱帯低気圧",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "赤ちゃん",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "マイナ保険証移行 8月以降注意点",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "家の窓ガラスが割れていたので専門家に見てもらったら、「こんなの見られて君はラッキ",
+      "title": "車内で熱中症か 搬送先で乳児死亡",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "やす子「炎上は小さな村の祭り」",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_entertainment",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "イベルメクチンの研究でノーベル賞を受賞した大村智博士、現在の発言にショックを受け",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "medical_science"
     }
   ],
   "note_top10": [
     {
-      "title": "「息子に何が起きたのか…」ある朝、いつものように中学生の息子を起こしにいったら、",
+      "title": "服に響かない「下着扱いできる水冷服」をシャープが開発中　“涼しい顔”でおめかしで",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "服に響かない「下着扱いできる水冷服」をシャープが開発中　“涼しい顔”でおめかしで",
+      "title": "もっとシンプルなLINEが欲しい…1億人突破の国民的インフラが｢無料→有料アプリ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -123,25 +123,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "家の窓ガラスが割れていたので専門家に見てもらったら、「こんなの見られて君はラッキ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "妻の部下が「明後日から2週間の休暇」を希望したので、急過ぎると却下したら「1週間",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "米ICE執行官がまた移民男性を射殺　25歳の父親、善良な働き者の若者がなぜ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "駅でエレベーターを上がっていたとき、バタンと大きな音がしたので振り返ってみたら、",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "公用車カーナビのNHK受信料、事実上の免除要請へ　全国知事会（朝日新聞） - Y",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "6年ぶりに占いに行ったら開口一番に『あなたは見た目は女なんだけど中身が男なの』と",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本のカレーパンの存在を知ったアメリカ人、早速作ってみた様子を投稿「海外の見たこ",
+      "title": "秋葉原で3年働いた人が語るおすすめ飯屋｜める",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -153,13 +153,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "小学1〜6年生の好きな本ランキング、どの学年もほとんど『りんごかもしれない』と『",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "有吉弘行",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "「不法占拠、私の代でやめたい」市ケ谷の人気釣り堀、経営者が語る：朝日新聞",
+      "title": "米ICE執行官がまた移民男性を射殺　25歳の父親、善良な働き者の若者がなぜ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
