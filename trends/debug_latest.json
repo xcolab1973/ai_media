@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T23:49:00+09:00",
+  "generated_at": "2026-07-17T07:35:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,42 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 4,
-    "dedup_excluded": 8,
-    "passed_total": 120,
+    "neg_excluded": 6,
+    "dedup_excluded": 13,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 29,
-      "news_web": 14,
-      "yahoo_news_ranking": 8,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "x_realtime": 9
+      "yahoo_news_ranking": 6,
+      "news_web": 12,
+      "x_realtime": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 34,
+    "social_reaction": 28,
     "personal_story": 2,
-    "opinion": 8,
+    "opinion": 10,
     "medical_science": 3,
-    "hard_fact": 20,
-    "policy": 3
+    "hard_fact": 25,
+    "policy": 2
   },
   "b2b_topic_category_counts": {
     "social_reaction": 28,
-    "hard_fact": 28,
-    "opinion": 8,
-    "policy": 3,
+    "opinion": 10,
+    "hard_fact": 26,
+    "policy": 2,
     "medical_science": 2,
-    "personal_story": 1
+    "personal_story": 2
   },
   "b2b_top10": [
     {
       "title": "リュウジ氏のレシピに異を唱えた人物が、氏の「そこまでいうなら作り方教えてください",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "もっとシンプルなLINEが欲しい…1億人突破の国民的インフラが｢無料→有料アプリ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -57,49 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "人権NGOでパワハラ 告発した心境",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "人権NGOでパワハラ 組織の内情は",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "もっとシンプルなLINEが欲しい…1億人突破の国民的インフラが｢無料→有料アプリ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "服に響かない「下着扱いできる水冷服」をシャープが開発中　“涼しい顔”でおめかしで",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "仲里依紗",
+      "title": "ニチレイショック",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "熱中症で127人救急搬送 東京",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
+      "title": "フィリーズ 対 メッツ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "口臭リスク ドライマウス対策は",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_science",
-      "topic_category": "hard_fact"
+      "title": "コンビニの駐車場に窓を全開にしてエンジン止めてる車があり、中に汗びっしょりでグッ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "若槻千夏",
+      "title": "フィッシャーズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "nhk 受信料",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "gmo",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "仙台天気",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,7 +113,7 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "服に響かない「下着扱いできる水冷服」をシャープが開発中　“涼しい顔”でおめかしで",
+      "title": "もっとシンプルなLINEが欲しい…1億人突破の国民的インフラが｢無料→有料アプリ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,46 +125,46 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "もっとシンプルなLINEが欲しい…1億人突破の国民的インフラが｢無料→有料アプリ",
+      "title": "鉄道会社の給料ランキング【主要19社】10位京阪HD、9位JR東、8位近鉄GHD",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "コンビニの駐車場に窓を全開にしてエンジン止めてる車があり、中に汗びっしょりでグッ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "国民会議で中低所得者への「所得連動給付」を2029年度に導入することに大筋合意→",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「バスの墓場」に消えた75億円　入手資料で追う万博EV失敗の真相 | 毎日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "「子供をたくさん産んで欲しいと、共働きして欲しいは成り立たない」子育て世帯のうち",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「写真で一言 ボケて」が18年間にわたるサービスに幕…という衝撃に、18年分の「",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「中学生レベルの英語力」の娘が軽い気持ちでワーホリに行った結果、親ですら「なんな",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『舞姫』明治時代当時は許されたのか？→当時でもかなりアウトだった上に、旧日本軍で",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "メディチ家にまつわる謎、400年以上の時を経て解明か　新研究",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "3〜4歳ぐらいの女児を連れたパパさんが多目的トイレを待っていたが、なかなか空かず",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "秋葉原で3年働いた人が語るおすすめ飯屋｜める",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "長谷川あかりさんの「薬味たっぷり出汁カレー」を作る",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     }
   ]
 }
