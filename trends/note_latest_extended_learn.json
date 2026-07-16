@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-07-16T06:49:34+09:00",
+ "generated_at": "2026-07-16T16:57:07+09:00",
  "valid_until": "2026-07-30T06:35:32+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "learn",
- "total_count": 29,
+ "total_count": 28,
  "merge": {
   "parent": "learn",
   "from_current": 29,
   "from_new": 3,
-  "expired_pruned": 0,
-  "retention_dropped": 3,
+  "expired_pruned": 1,
+  "retention_dropped": 0,
   "genres": 4,
   "retention_per_genre": 8
  },
@@ -854,36 +854,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-18T11:47:25+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "記憶には「繰り返し」より〇〇が効く！脳の特性を使った常識破りの記憶術",
-   "url": "https://studyhacker.net/joshikiyaburi-kioku",
-   "summary": "分散学習（学習と復習の間に間隔を空ける）が長期記憶定着に効果的と科学的に示されている。単純な繰り返し暗記や下線引きは、理解不十分だと記憶に残らない可能性が高いという誤解を指摘。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "learn-science",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "STUDY HACKER",
-    "expert_origin": true,
-    "search_query": "科学的に正しい 記憶術 勘違い 最新研究",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-16T11:44:08+09:00",
    "validity_days": 14
   }
  ]

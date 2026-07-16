@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-16T06:49:34+09:00",
- "valid_until": "2026-07-29T06:38:42+09:00",
+ "generated_at": "2026-07-16T16:57:07+09:00",
+ "valid_until": "2026-07-30T16:43:56+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -8,10 +8,10 @@
  "total_count": 28,
  "merge": {
   "parent": "mgmt",
-  "from_current": 31,
+  "from_current": 28,
   "from_new": 1,
-  "expired_pruned": 4,
-  "retention_dropped": 0,
+  "expired_pruned": 0,
+  "retention_dropped": 1,
   "genres": 4,
   "retention_per_genre": 8
  },
@@ -618,6 +618,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "事業主の方へ｜厚生労働省",
+   "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/jigyounushi/page10.html",
+   "summary": "厚労省公式ページ。2026年7月から対象事業主の範囲が常用労働者37.5人以上に拡大し、法定雇用率も2.7%へ引き上げ。自社が対象になるか判断できない中小企業向けに、常用労働者数の正確な把握と対象範囲の確認方法を提示している。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "official_instruction",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "mgmt-orga",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "厚生労働省",
+    "expert_origin": true,
+    "search_query": "中小企業 障害者雇用 対象になるか分からない 知恵袋",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-30T16:43:56+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "106万円の壁の撤廃でパート採用はどう変わる？中小企業の求人・募集要項の見直し方【2026年10月〜】",
    "url": "https://saiyo-kakaricho.com/wp/social-insurance-wall-2026/",
    "summary": "2026年10月、社会保険の「106万円の壁」が撤廃され「週20時間の壁」に一本化。週20時間以上のパート・アルバイトは社会保険加入が必須になり、企業は所定労働時間20時間以上の従業員の洗い出しと契約書突合、求人・募集要項の見直し、加入メリットや手取り変動の説明が必要と採用支援メディアが解説。",
@@ -824,36 +854,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-22T16:46:58+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "社長が変わってから重要ポジションだった社員がどんどん辞めていく",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10274956350",
-   "summary": "経営交代後にキーパーソンの離職が連鎖する悩み相談。中小企業では社長個人の裁量が評価制度に強く反映されやすく、コミュニケーション不足やビジョン不透明さが離職の連鎖を招く構造的ペインが背景にある。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "mgmt-orga",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "社員が辞めていく 中小企業 社長 悩み 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-18T16:44:56+09:00",
    "validity_days": 14
   }
  ]
