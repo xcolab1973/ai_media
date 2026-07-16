@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T18:49:00+09:00",
+  "generated_at": "2026-07-16T23:49:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,56 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 11,
-    "passed_total": 115,
+    "neg_excluded": 4,
+    "dedup_excluded": 8,
+    "passed_total": 120,
     "b2b_category_counts": {
-      "yahoo_realtime": 28,
+      "yahoo_realtime": 29,
+      "news_web": 14,
+      "yahoo_news_ranking": 8,
       "google_trends": 10,
-      "news_web": 16,
-      "yahoo_news_ranking": 9,
-      "x_realtime": 7
+      "x_realtime": 9
     }
   },
   "note_category_counts": {
-    "social_reaction": 36,
-    "opinion": 9,
+    "social_reaction": 34,
+    "personal_story": 2,
+    "opinion": 8,
     "medical_science": 3,
-    "hard_fact": 19,
+    "hard_fact": 20,
     "policy": 3
   },
   "b2b_topic_category_counts": {
+    "social_reaction": 28,
     "hard_fact": 28,
-    "social_reaction": 26,
-    "opinion": 9,
+    "opinion": 8,
+    "policy": 3,
     "medical_science": 2,
-    "policy": 5
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "「電気代をケチって命を危険に晒したりしないで」東京23区で、熱中症死亡者の9割は",
+      "title": "リュウジ氏のレシピに異を唱えた人物が、氏の「そこまでいうなら作り方教えてください",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「どうしても伝えたいことがあります」GMOとは対照的にフルリモートを廃止しないこ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "人権NGOでパワハラ 告発した心境",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "人権NGOでパワハラ 組織の内情は",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
       "topic_category": "hard_fact"
     },
     {
@@ -61,51 +81,45 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "有吉弘行",
+      "title": "仲里依紗",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "熱帯低気圧",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "赤ちゃん",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "マイナ保険証移行 8月以降注意点",
+      "title": "熱中症で127人救急搬送 東京",
       "source_category": "news_web",
       "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "車内で熱中症か 搬送先で乳児死亡",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
+      "title": "口臭リスク ドライマウス対策は",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_science",
       "topic_category": "hard_fact"
     },
     {
-      "title": "やす子「炎上は小さな村の祭り」",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_entertainment",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "イベルメクチンの研究でノーベル賞を受賞した大村智博士、現在の発言にショックを受け",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "title": "若槻千夏",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
+      "title": "リュウジ氏のレシピに異を唱えた人物が、氏の「そこまでいうなら作り方教えてください",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "服に響かない「下着扱いできる水冷服」をシャープが開発中　“涼しい顔”でおめかしで",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「どうしても伝えたいことがあります」GMOとは対照的にフルリモートを廃止しないこ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -117,51 +131,39 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "子どもが大好きな「トマトと卵の炒め物」を作ったと投稿したら、中国の人から作り方の",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "妻の部下が「明後日から2週間の休暇」を希望したので、急過ぎると却下したら「1週間",
+      "title": "「子供をたくさん産んで欲しいと、共働きして欲しいは成り立たない」子育て世帯のうち",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "駅でエレベーターを上がっていたとき、バタンと大きな音がしたので振り返ってみたら、",
+      "title": "「写真で一言 ボケて」が18年間にわたるサービスに幕…という衝撃に、18年分の「",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "6年ぶりに占いに行ったら開口一番に『あなたは見た目は女なんだけど中身が男なの』と",
+      "title": "「中学生レベルの英語力」の娘が軽い気持ちでワーホリに行った結果、親ですら「なんな",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "秋葉原で3年働いた人が語るおすすめ飯屋｜める",
+      "title": "『舞姫』明治時代当時は許されたのか？→当時でもかなりアウトだった上に、旧日本軍で",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "メディチ家にまつわる謎、400年以上の時を経て解明か　新研究",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "米国では2026年上半期　CDの販売枚数が急増　CDの販売増加率はレコードの約7",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "有吉弘行",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "米ICE執行官がまた移民男性を射殺　25歳の父親、善良な働き者の若者がなぜ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "3〜4歳ぐらいの女児を連れたパパさんが多目的トイレを待っていたが、なかなか空かず",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
