@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-16T16:57:07+09:00",
- "valid_until": "2026-07-30T06:38:58+09:00",
+ "generated_at": "2026-07-17T17:46:31+09:00",
+ "valid_until": "2026-07-31T16:45:10+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -8,10 +8,10 @@
  "total_count": 29,
  "merge": {
   "parent": "childcare",
-  "from_current": 32,
+  "from_current": 29,
   "from_new": 1,
-  "expired_pruned": 3,
-  "retention_dropped": 0,
+  "expired_pruned": 0,
+  "retention_dropped": 1,
   "genres": 4,
   "retention_per_genre": 8
  },
@@ -498,6 +498,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "赤ちゃんの熱中症・暑さ対策は？新生児から1歳までの予防とケア｜グーン（GOO.N）｜エリエール｜大王製紙",
+   "url": "https://www.elleair.jp/goo-n/article/useful/203783/",
+   "summary": "新生児〜1歳児の熱中症対策ガイド。室温26〜28度、外気温との差5度目安に設定し冷風を直接当てない。生後1ヶ月以降は涼しい時間帯に短時間の外気浴から。水分補給は室内2〜3時間おき・屋外1時間おき目安。車内放置は厳禁と注意喚起。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "childcare-newborn",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "エリエール goo-n（大王製紙）",
+    "expert_origin": true,
+    "search_query": "新生児 夏 帰省 熱中症対策 乳児 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": true,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-31T16:45:10+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "産後のこころの健康",
    "url": "https://www.pref.miyagi.jp/site/kosodate/stage-shussan02.html",
    "summary": "宮城県公式サイト。産後うつは出産後数週間〜産後3〜6カ月以内に発症しやすく、気分の落ち込み・不眠・食欲不振・赤ちゃんへの愛情が持てない等の状態が2週間以上続く場合は受診の目安。エジンバラ産後うつ病質問票（EPDS）でのセルフチェックや、いきなり精神科でなく身近な自治体の相談窓口も使えると案内。",
@@ -704,36 +734,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-23T16:43:05+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "出生後休業支援給付金を分かりやすく解説！手取り10割が育休中にもらえる条件",
-   "url": "https://biz.moneyforward.com/payroll/basic/83666/",
-   "summary": "2025年4月開始の出生後休業支援給付金により、両親が14日以上育休取得等の要件を満たすと最長28日間、給付率が合計80%（社会保険料免除等で実質手取り10割相当）になる制度を解説。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "childcare-newborn",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "マネーフォワード クラウド給与",
-    "expert_origin": true,
-    "search_query": "新生児 育児休業給付金 手取り10割 男性育休 2026",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": true,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-21T16:42:56+09:00",
    "validity_days": 14
   },
   {

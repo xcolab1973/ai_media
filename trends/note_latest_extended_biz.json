@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-17T06:44:53+09:00",
+ "generated_at": "2026-07-17T17:46:31+09:00",
  "valid_until": "2026-07-31T06:36:50+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -8,14 +8,44 @@
  "total_count": 23,
  "merge": {
   "parent": "biz",
-  "from_current": 24,
-  "from_new": 3,
-  "expired_pruned": 2,
-  "retention_dropped": 2,
+  "from_current": 23,
+  "from_new": 1,
+  "expired_pruned": 0,
+  "retention_dropped": 1,
   "genres": 3,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "ゆうパック約10%値上げ・クリックポスト240円に【2026年10月】｜新旧料金比較とEC事業者が取るべき対策",
+   "url": "https://stockcrew.co.jp/insights/article_jiji_japanpost_neage_2026-07-06",
+   "summary": "日本郵便が2026年10月からゆうパックを平均約10%（140サイズ以上の中長距離は約20%）値上げ。ゆうパケットは厚さ問わず一律360円（最大44%upの帯もあり）。EC事業者は梱包仕様・キャリアミックス・送料設定を10月までに再設計する必要があり、送料無料施策の維持可否が焦点。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "hard_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "biz-ec-shop",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "stockcrew.co.jp",
+    "expert_origin": true,
+    "search_query": "ゆうパック値上げ インボイス経過措置 EC 送料 価格転嫁",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-22T16:46:10+09:00",
+   "validity_days": 5
+  },
   {
    "source_category": "news_web",
    "raw_title": "【2026年】カゴ落ち対策17選│成果を出すためにやるべきことが分かる",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-21T06:41:37+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "インボイス2割特例はいつまで？2026年9月終了後の3割特例の対象者・適用条件・対策を解説",
-   "url": "https://www.all-senmonka.jp/moneyizm/money/314805/",
-   "summary": "2割特例は2026年分で終了し、後継の「3割特例」は基準期間の課税売上高1000万円以下の個人事業主限定で2027・2028年分の2年間だけ使える経過措置。法人は対象外で事前届出不要、確定申告時に付記するだけで適用でき、2029年分以降は本則課税か簡易課税への移行が必要。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "biz-ec-shop",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "MONEYIZM（税理士監修）",
-    "expert_origin": true,
-    "search_query": "インボイス 3割特例 対象条件 期間 いつまで 個人事業主 2027年",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-20T16:45:30+09:00",
    "validity_days": 5
   },
   {
