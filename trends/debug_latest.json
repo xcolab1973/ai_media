@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T23:20:00+09:00",
+  "generated_at": "2026-07-18T07:28:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,58 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 13,
-    "dedup_excluded": 10,
+    "neg_excluded": 12,
+    "dedup_excluded": 11,
     "passed_total": 109,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
+      "news_web": 15,
+      "yahoo_realtime": 31,
+      "x_realtime": 8,
       "google_trends": 10,
-      "news_web": 14,
-      "x_realtime": 7,
       "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "personal_story": 2,
-    "opinion": 8,
-    "analysis": 1,
-    "medical_science": 4,
-    "hard_fact": 17,
-    "policy": 8
+    "social_reaction": 26,
+    "medical_science": 5,
+    "opinion": 10,
+    "personal_story": 1,
+    "hard_fact": 22,
+    "policy": 6
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "opinion": 8,
-    "hard_fact": 19,
-    "policy": 9,
-    "analysis": 1,
-    "personal_story": 2,
-    "medical_science": 2
+    "hard_fact": 21,
+    "medical_science": 4,
+    "social_reaction": 26,
+    "opinion": 10,
+    "policy": 8,
+    "personal_story": 1
   },
   "b2b_top10": [
+    {
+      "title": "Apple 日本でiPhone一斉値上げ",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "熱中症研究者が100種類検証して見つけた…｢40℃の環境に負けない体｣をつくるス",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "「国産〇〇バズらんかなぁ」100社以上の国内企業がバズりたくて自己PRブームに→",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「現場仕事は危険と隣り合わせ」「労災死の96％は男性」←フェミニスト「それは違法",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
     {
       "title": "改正皇室典範が成立　男系維持、養子子孫に継承権　婚姻後も女性皇族の身分保持",
       "source_category": "yahoo_realtime",
@@ -53,55 +75,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "男子バレーボールネーションズリーグ",
+      "title": "ヤンキース 対 ドジャース",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "中島歩",
+      "title": "날씨",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "住民票の写しが必要なのに住民票のコピーを持って来られた時に言葉の難しさを痛感した",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "身分明かさず取材した「ルポ路上メシ」、困窮者らの抗議で回収に　出版社と著者に問わ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "園児ら64人食中毒 八王子の保育園",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_local",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "劇的 G坂本勇人がサヨナラ3ラン",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_sports",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "昔、スーツ+ビジネス鞄で病院の待合室にいると、若い医者に「オイ裏回れよ!!何して",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "藤ヶ谷 太輔",
+      "title": "フィラデルフィア半導体株指数",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "トット",
+      "title": "横田真悠",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "クラウドファンディング",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -109,10 +107,22 @@
   ],
   "note_top10": [
     {
+      "title": "「国産〇〇バズらんかなぁ」100社以上の国内企業がバズりたくて自己PRブームに→",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "改正皇室典範が成立　男系維持、養子子孫に継承権　婚姻後も女性皇族の身分保持",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "熱中症研究者が100種類検証して見つけた…｢40℃の環境に負けない体｣をつくるス",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
     },
     {
       "title": "住民票の写しが必要なのに住民票のコピーを持って来られた時に言葉の難しさを痛感した",
@@ -121,52 +131,40 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "身分明かさず取材した「ルポ路上メシ」、困窮者らの抗議で回収に　出版社と著者に問わ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「見た目は美少女、中身はおじさん」だらけのVR空間を取材し、カオスぶりを伝える記",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "昔、スーツ+ビジネス鞄で病院の待合室にいると、若い医者に「オイ裏回れよ!!何して",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【社説】皇室典範の見直し　時代錯誤の「物語」には賛同できぬ：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "企業からスカウトが届いてカジュアル面談に行くと何故か志望動機を聞かれ「スカウトを",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "MADE IN YAMATO - 第８話　獣害大怪獣タオパゴダ | ヤンマガWe",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "リュウジ氏とさいか氏のレシピを作り、食べ比べをした人がレポ…それぞれの対比が現れ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "T.M.Revolutionの「THE FIRST TAKE」への口パク疑惑に対",
+      "title": "「演劇こそが世界で一番つまらないものを作れる」ことの確認のためにケロロ軍曹も果て",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『ドタバタで葬儀社を決めて超お金がかかった話』病院には長時間遺体を置けないので相",
+      "title": "復讐譚は本質的に復讐に向いてない人物が復讐鬼を演じるから面白いと思うしノリノリで",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "男子バレーボールネーションズリーグ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "家事のキツイところって、文句を言われるところ何だよな。 ひとり暮らしな..",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ]
 }
