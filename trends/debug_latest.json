@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T07:35:00+09:00",
+  "generated_at": "2026-07-17T13:46:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,45 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 13,
-    "passed_total": 113,
+    "neg_excluded": 5,
+    "dedup_excluded": 9,
+    "passed_total": 118,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 24,
       "google_trends": 10,
-      "yahoo_news_ranking": 6,
-      "news_web": 12,
-      "x_realtime": 7
+      "news_web": 19,
+      "x_realtime": 9,
+      "yahoo_news_ranking": 8
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "personal_story": 2,
+    "social_reaction": 39,
+    "personal_story": 3,
     "opinion": 10,
-    "medical_science": 3,
-    "hard_fact": 25,
-    "policy": 2
+    "medical_science": 2,
+    "hard_fact": 15,
+    "policy": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
+    "social_reaction": 29,
     "opinion": 10,
-    "hard_fact": 26,
+    "hard_fact": 27,
     "policy": 2,
-    "medical_science": 2,
     "personal_story": 2
   },
   "b2b_top10": [
+    {
+      "title": "身分明かさず取材した「ルポ路上メシ」、困窮者らの抗議で回収に　出版社と著者に問わ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ニュース",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
     {
       "title": "リュウジ氏のレシピに異を唱えた人物が、氏の「そこまでいうなら作り方教えてください",
       "source_category": "yahoo_realtime",
@@ -51,55 +62,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "もっとシンプルなLINEが欲しい…1億人突破の国民的インフラが｢無料→有料アプリ",
+      "title": "浦和レッドダイヤモンズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "あいみょん",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "フジロック・フェスティバル",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "東京・千葉・神奈川 大雨危険警報",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "「女性だけにメールしています」と総務からメールがあり「椅子が血に染まっていた。処",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「どうしても伝えたいことがあります」GMOとは対照的にフルリモートを廃止しないこ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ニチレイショック",
+      "title": "ヒルナンデス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "フィリーズ 対 メッツ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "コンビニの駐車場に窓を全開にしてエンジン止めてる車があり、中に汗びっしょりでグッ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "フィッシャーズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "nhk 受信料",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "gmo",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "仙台天気",
+      "title": "鬼越 トマホーク 渡部",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +106,64 @@
   ],
   "note_top10": [
     {
+      "title": "身分明かさず取材した「ルポ路上メシ」、困窮者らの抗議で回収に　出版社と著者に問わ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "リュウジ氏のレシピに異を唱えた人物が、氏の「そこまでいうなら作り方教えてください",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "もっとシンプルなLINEが欲しい…1億人突破の国民的インフラが｢無料→有料アプリ",
+      "title": "「地方移住」成功の答え。いきなり田舎に住むと詰む？47都道府県を取材した編集者が",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「どうしても伝えたいことがあります」GMOとは対照的にフルリモートを廃止しないこ",
+      "title": "キッチン引き出し収納にリッチェル トトノが優秀！掛けるゴミ袋収納や立てる食器収納",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "鉄道会社の給料ランキング【主要19社】10位京阪HD、9位JR東、8位近鉄GHD",
+      "title": "「女性だけにメールしています」と総務からメールがあり「椅子が血に染まっていた。処",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "コンビニの駐車場に窓を全開にしてエンジン止めてる車があり、中に汗びっしょりでグッ",
+      "title": "国旗損壊処罰法 参議院本会議で可決・成立 | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "国民会議で中低所得者への「所得連動給付」を2029年度に導入することに大筋合意→",
+      "title": "皇族数確保に向けた改正皇室典範 参議院本会議で可決・成立 | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「バスの墓場」に消えた75億円　入手資料で追う万博EV失敗の真相 | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「子供をたくさん産んで欲しいと、共働きして欲しいは成り立たない」子育て世帯のうち",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "秋葉原で3年働いた人が語るおすすめ飯屋｜める",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "長谷川あかりさんの「薬味たっぷり出汁カレー」を作る",
+      "title": "国立国語研究所の資料室ツアーに参加してみた～一般公開イベント「ニホンゴ探検202",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
+    },
+    {
+      "title": "ロマンス詐欺被害に遭った71歳法学者が赤裸々告白「私は自分が賢い人間だと思ってい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「二度としません」とテスラ社は謝罪…横浜市が激怒した大黒埠頭での「ゲリラ納車」ト",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ]
 }
