@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-17T17:46:31+09:00",
- "valid_until": "2026-07-31T17:45:08+09:00",
+ "generated_at": "2026-07-18T06:47:13+09:00",
+ "valid_until": "2026-08-01T06:40:29+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -8,14 +8,44 @@
  "total_count": 27,
  "merge": {
   "parent": "relationship",
-  "from_current": 32,
-  "from_new": 3,
-  "expired_pruned": 5,
-  "retention_dropped": 3,
+  "from_current": 27,
+  "from_new": 1,
+  "expired_pruned": 0,
+  "retention_dropped": 1,
   "genres": 4,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "「帰省」で疲れてしまう人へ。家族や親戚との関係を無理せず保つ方法",
+   "url": "https://allabout.co.jp/gm/gc/490735/",
+   "summary": "お盆や年末年始の帰省で親戚づきあいに疲れる人向けに、滞在時間を区切る、無理して会わない選択肢を持つ、相性が合わない相手とは物理的に距離を取るなど、心の負担を減らす付き合い方のコツを紹介している。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "relationship-social",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "All About",
+    "expert_origin": true,
+    "search_query": "お盆 帰省 親戚付き合い 気まずい 距離の置き方 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-01T06:40:29+09:00",
+   "validity_days": 14
+  },
   {
    "source_category": "news_web",
    "raw_title": "転職して半年経ったのに馴染めません。私は今20人くらいの部で働いて…",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-22T06:43:24+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "カスハラしてきた人の職場を把握している場合、クレームを送りつけるのはアリですか",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327248308",
-   "summary": "カスハラ被害を受けた側が、加害者の職場が分かっている場合に仕返し的にクレームを送ることの是非を問う相談。感情的な報復衝動と実際に取るべき行動のギャップが生々しく表れている。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "relationship-social",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "職場 カスハラ 従業員 助けてくれない 相談 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-20T06:42:38+09:00",
    "validity_days": 14
   },
   {
