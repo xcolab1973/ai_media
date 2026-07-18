@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T07:28:00+09:00",
+  "generated_at": "2026-07-18T13:32:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,50 +16,50 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 11,
-    "passed_total": 109,
+    "neg_excluded": 8,
+    "dedup_excluded": 17,
+    "passed_total": 107,
     "b2b_category_counts": {
-      "news_web": 15,
-      "yahoo_realtime": 31,
-      "x_realtime": 8,
+      "x_realtime": 4,
+      "yahoo_realtime": 32,
       "google_trends": 10,
-      "yahoo_news_ranking": 6
+      "news_web": 15,
+      "yahoo_news_ranking": 9
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
-    "medical_science": 5,
-    "opinion": 10,
+    "social_reaction": 24,
     "personal_story": 1,
-    "hard_fact": 22,
-    "policy": 6
+    "medical_science": 3,
+    "opinion": 10,
+    "hard_fact": 27,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 21,
-    "medical_science": 4,
-    "social_reaction": 26,
+    "social_reaction": 24,
+    "personal_story": 1,
+    "hard_fact": 28,
+    "medical_science": 2,
     "opinion": 10,
-    "policy": 8,
-    "personal_story": 1
+    "policy": 5
   },
   "b2b_top10": [
     {
-      "title": "Apple 日本でiPhone一斉値上げ",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "熱中症研究者が100種類検証して見つけた…｢40℃の環境に負けない体｣をつくるス",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "「国産〇〇バズらんかなぁ」100社以上の国内企業がバズりたくて自己PRブームに→",
+      "title": "ラーメン屋『突然ですが、大量の鶏油が取れたので100㏄あたり300円で販売します",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「演劇こそが世界で一番つまらないものを作れる」ことの確認のためにケロロ軍曹も果て",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "北海道の寿司屋にて、私「1人だけどいけますか？」大将「断ってやれ！」女将「皆さん",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -69,51 +69,7 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "改正皇室典範が成立　男系維持、養子子孫に継承権　婚姻後も女性皇族の身分保持",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ヤンキース 対 ドジャース",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "날씨",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "フィラデルフィア半導体株指数",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "横田真悠",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "クラウドファンディング",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    }
-  ],
-  "note_top10": [
-    {
-      "title": "「国産〇〇バズらんかなぁ」100社以上の国内企業がバズりたくて自己PRブームに→",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "改正皇室典範が成立　男系維持、養子子孫に継承権　婚姻後も女性皇族の身分保持",
+      "title": "「ブラの下にタンクトップを着る」のが流行っているらしいが、それを解説した画像がこ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,45 +81,89 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "住民票の写しが必要なのに住民票のコピーを持って来られた時に言葉の難しさを痛感した",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "オリックス 対 日本ハム",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "企業からスカウトが届いてカジュアル面談に行くと何故か志望動機を聞かれ「スカウトを",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "資産",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "MADE IN YAMATO - 第８話　獣害大怪獣タオパゴダ | ヤンマガWe",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "2026 音楽 の 日 タイム テーブル",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "リュウジ氏とさいか氏のレシピを作り、食べ比べをした人がレポ…それぞれの対比が現れ",
+      "title": "吉本新喜劇",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    }
+  ],
+  "note_top10": [
+    {
+      "title": "ラーメン屋『突然ですが、大量の鶏油が取れたので100㏄あたり300円で販売します",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "「演劇こそが世界で一番つまらないものを作れる」ことの確認のためにケロロ軍曹も果て",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "復讐譚は本質的に復讐に向いてない人物が復讐鬼を演じるから面白いと思うしノリノリで",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "家事のキツイところって、文句を言われるところ何だよな。 ひとり暮らしな..",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "北海道の寿司屋にて、私「1人だけどいけますか？」大将「断ってやれ！」女将「皆さん",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ブラの下にタンクトップを着る」のが流行っているらしいが、それを解説した画像がこ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "近所の建築現場の業者から“お宅の出窓からいつも覗いている白い大きな猫のようなモノ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "フードコートでポスト主の隣の席に、パパらしき人が1歳ぐらいの子を座らせ「ちょっと",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "博士課程の頃、出版社から「1ページ30,000円で研究内容について執筆お願いしま",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "バス車内で「定期券の期限切れてるよ」と何度説明しても読取機にかざす小学生…見送り",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "アムネスティ、ハリポタ作者の性暴力被害者支援施設に「アンチ・ライツ」のレッテル ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "いつも病院食を「これは絶品だ！うまい！」と言って食べる患者さんが調理師さんに手紙",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
