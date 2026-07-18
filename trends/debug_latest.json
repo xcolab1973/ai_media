@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T23:11:00+09:00",
+  "generated_at": "2026-07-19T07:29:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,46 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 4,
+    "neg_excluded": 3,
     "dedup_excluded": 11,
-    "passed_total": 117,
+    "passed_total": 118,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
-      "yahoo_news_ranking": 8,
-      "google_trends": 10,
+      "yahoo_realtime": 37,
       "x_realtime": 7,
-      "news_web": 11
+      "news_web": 10,
+      "google_trends": 10,
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "personal_story": 3,
-    "social_reaction": 31,
+    "personal_story": 2,
+    "social_reaction": 33,
     "opinion": 10,
-    "hard_fact": 18,
     "medical_science": 2,
-    "policy": 6
+    "hard_fact": 16,
+    "policy": 7
   },
   "b2b_topic_category_counts": {
-    "personal_story": 3,
-    "social_reaction": 29,
-    "hard_fact": 21,
+    "social_reaction": 33,
+    "personal_story": 2,
+    "hard_fact": 17,
     "opinion": 10,
-    "policy": 6,
-    "medical_science": 1
+    "medical_science": 1,
+    "policy": 7
   },
   "b2b_top10": [
+    {
+      "title": "「青春18きっぷの利用者離れが止まらない？」度重なるルール変更が需要に合ってない",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "千葉県のスーパーで、これがしれっと売られているので2度見してしまった… 別名、北",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "女の40%「メンタル不調による八つ当たりモラハラ大爆発で恋人を失った経験がある」",
       "source_category": "yahoo_realtime",
@@ -51,55 +63,43 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "ディズニーランドと言えば友達の金持ち家族が毎回鬼課金してて、年頃になった娘がデー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "iPhone値上げ 中古の需要急増か",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_it",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "中森 明菜 30 年 ぶり m ステ",
+      "title": "走り屋",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "フードコートで食事中、先に食べ終わった娘がトレイを返しに行ってる間に娘の席に突然",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "コンビニでおじいさんが店長から「あなた出禁です。もうこの店で買い物できません。わ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "2026 國際足總世界盃",
+      "title": "長谷川唯",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "田中圭",
+      "title": "全国高等学校野球選手権愛知大会",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "fod",
+      "title": "テレ朝",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "イプスウィッチ",
+      "title": "バルコラ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "オリー・ワトキンス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,13 +113,19 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "ディズニーランドと言えば友達の金持ち家族が毎回鬼課金してて、年頃になった娘がデー",
+      "title": "「青春18きっぷの利用者離れが止まらない？」度重なるルール変更が需要に合ってない",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "フードコートで食事中、先に食べ終わった娘がトレイを返しに行ってる間に娘の席に突然",
+      "title": "千葉県のスーパーで、これがしれっと売られているので2度見してしまった… 別名、北",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "個人的に信用しないレシピの煽り文句3選… 3位→クリームチーズがなくても大丈夫、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -131,33 +137,9 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "タイトーのサウンドチーム「ZUNTATA」がゲーム音楽にもたらしたもの",
+      "title": "フードコートで食事中、先に食べ終わった娘がトレイを返しに行ってる間に娘の席に突然",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "可愛くても最近はこれに袖さえあれば…っていう服が多すぎる「二の腕もだけど脇見られ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「これは完全にいざという時」高2の息子が緊急時の1000円を使用、何に使ったのか",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『西之島、草生える』大規模噴火によって植生がすべて失われていたが、偶然によって再",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "水商売の女の子に興味本位で「なんでこの仕事をはじめたの？」と聞いていたら…「母子",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -165,6 +147,24 @@
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
+    },
+    {
+      "title": "タイトーのサウンドチーム「ZUNTATA」がゲーム音楽にもたらしたもの",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "有害鳥獣捕獲のため巡回中の40代のハンターの男性がクマに襲われ重傷「素手で目を潰",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "共産・田村氏、改正皇室典範に「白紙撤回求める」　男系男子に「2600年？神話でし",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ]
 }
