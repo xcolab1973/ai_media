@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-07-18T06:47:13+09:00",
+ "generated_at": "2026-07-19T06:47:14+09:00",
  "valid_until": "2026-07-29T16:50:54+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "travel",
- "total_count": 17,
+ "total_count": 18,
  "merge": {
   "parent": "travel",
-  "from_current": 16,
+  "from_current": 17,
   "from_new": 1,
   "expired_pruned": 0,
   "retention_dropped": 0,
@@ -16,6 +16,36 @@
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "ETIAS（ヨーロッパへ渡航する際の事前渡航認証）について質問です！... - Yahoo!知恵袋",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14310354484",
+   "summary": "ヨーロッパ渡航を予定する質問者が、ETIASという新しい渡航認証制度の存在自体を知らず、申請要否や手続き方法に戸惑っている生の声。制度の認知度がまだ低く、渡航直前になって初めて存在を知るケースがうかがえる。数値・要件は断定せず角度の種として扱う。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "travel-abroad",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "ETIAS 申請 忘れた OKWAVE 知恵袋 空港",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-26T06:43:07+09:00",
+   "validity_days": 7
+  },
   {
    "source_category": "news_web",
    "raw_title": "パスポート発行手数料値下げはなんでなんですか？円安が厳しすぎて海外行けないですよね",

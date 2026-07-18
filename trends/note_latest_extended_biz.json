@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-18T16:52:50+09:00",
- "valid_until": "2026-07-31T06:36:50+09:00",
+ "generated_at": "2026-07-19T06:47:13+09:00",
+ "valid_until": "2026-08-02T06:35:28+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -10,8 +10,8 @@
   "parent": "biz",
   "from_current": 24,
   "from_new": 3,
-  "expired_pruned": 0,
-  "retention_dropped": 3,
+  "expired_pruned": 1,
+  "retention_dropped": 1,
   "genres": 3,
   "retention_per_genre": 8
  },
@@ -258,9 +258,9 @@
   },
   {
    "source_category": "news_web",
-   "raw_title": "中小企業省力化投資補助金（一般型）第7回公募要領を公開",
+   "raw_title": "中小企業省力化投資補助事業（一般型）の第7回公募要領を公開しました",
    "url": "https://www.chusho.meti.go.jp/koukai/hojyokin/kobo/2026/260605001.html",
-   "summary": "中小企業庁が2026年6月5日、省力化投資補助金（一般型）第7回公募要領を公開。申請受付は2026年7月1日〜31日17時、採択発表は11月中旬予定。申請にはGビズIDプライムアカウントが必須で取得に時間を要するため早期取得が必要。上限額は最大1億円規模。",
+   "summary": "中小企業庁公式発表。省力化投資補助金（一般型）第7回公募は申請受付が7月1日開始、締切は7月31日17:00。GビズIDプライムの取得に時間がかかるため早めの準備が必要と案内。",
    "signal_type": "trend",
    "engagement_signal": false,
    "approx_traffic": "100+",
@@ -275,7 +275,7 @@
    "provenance": {
     "source_name": "中小企業庁",
     "expert_origin": true,
-    "search_query": "中小企業 省力化投資補助金 2026 令和8年度 公募要領 締切",
+    "search_query": "中小企業省力化投資補助金 第7回公募 締切 7月31日 必要書類",
     "freshness": "fresh",
     "integrity_warning": null,
     "provenance_kind": "evidence",
@@ -283,7 +283,37 @@
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-07-25T06:35:12+09:00",
+   "valid_until": "2026-07-26T06:35:28+09:00",
+   "validity_days": 7
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "IT導入補助金の主な不採択理由は？再チャレンジを成功させるコツや注意点を解説！",
+   "url": "https://planbase.co.jp/column/it-rejection/",
+   "summary": "不採択の主因は事業計画の具体性不足・書類不備・対象外経費・ツール選定の必然性欠如など。再申請時は前回の不採択理由を洗い出して事業計画を作り込むことが重要と解説。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "biz-subsidy",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "株式会社Planbase",
+    "expert_origin": true,
+    "search_query": "IT導入補助金 不採択 知恵袋 再申請 OKWAVE",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-26T06:35:28+09:00",
    "validity_days": 7
   },
   {
@@ -468,33 +498,33 @@
   },
   {
    "source_category": "news_web",
-   "raw_title": "IT導入補助金を検討している個人事業主です。IT導入支援事業者のことでわから...",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13285647538",
-   "summary": "IT導入支援事業者の選び方や手数料の仕組みが分からず不安を抱える個人事業主の質問。補助金申請の入口でつまずく典型的な生ペインとして表れている。",
-   "signal_type": "evergreen",
+   "raw_title": "法定雇用率の引き上げはいつから？2026年7月に2.7%への変更と対象企業を解説｜エスプールプラス",
+   "url": "https://plus.spool.co.jp/article/statutory-employment-rate-increase.html",
+   "summary": "2026年7月の法定雇用率2.7%引き上げの施行時期と対象企業の判定方法を解説。基準となる常用労働者数が37.5人以上に拡大し、これまで義務がなかった中小規模の事業主が新たに対象となる点を整理。",
+   "signal_type": "trend",
    "engagement_signal": false,
    "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
+   "preliminary_claim_type": "official_instruction",
    "relevance_to_niche": "high",
    "topic_category": null,
-   "primary_genre": "biz-subsidy",
+   "primary_genre": "biz-small-shop",
    "karte_matched_category": null,
    "karte_aligned": false,
    "account_id": "default",
    "origin": "pre_collector_extended",
    "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "IT導入補助金 不採択 個人事業主 知恵袋",
-    "freshness": "evergreen",
+    "source_name": "エスプールプラス",
+    "expert_origin": true,
+    "search_query": "障害者法定雇用率2.7% 中小企業 対応 2026年7月",
+    "freshness": "fresh",
     "integrity_warning": null,
-    "provenance_kind": "pain_seed",
+    "provenance_kind": "evidence",
     "opportunity_gap": false,
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-07-20T06:37:35+09:00",
-   "validity_days": 7
+   "valid_until": "2026-08-02T06:35:28+09:00",
+   "validity_days": 14
   },
   {
    "source_category": "news_web",
@@ -704,36 +734,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-23T06:40:31+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "免税事業者及びその取引先のインボイス制度への対応に関するQ&A",
-   "url": "https://www.jftc.go.jp/dk/guideline/unyoukijun/invoice_qanda.html",
-   "summary": "公正取引委員会のQ&A。免税事業者への値引き交渉は独占禁止法上の優越的地位の濫用に当たり得る場合があり、一方的な取引価格引き下げの強要や取引打ち切りの示唆は問題になり得ると整理。個人店が取引先から値下げを迫られた際の拠り所となる。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "biz-small-shop",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "公正取引委員会",
-    "expert_origin": true,
-    "search_query": "インボイス 免税事業者 取引先 値引き 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-19T06:36:26+09:00",
    "validity_days": 14
   }
  ]
