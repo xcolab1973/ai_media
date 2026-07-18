@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T18:11:00+09:00",
+  "generated_at": "2026-07-18T23:11:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,155 +16,155 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
+    "neg_excluded": 4,
     "dedup_excluded": 11,
-    "passed_total": 114,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "x_realtime": 6,
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 34,
+      "yahoo_news_ranking": 8,
       "google_trends": 10,
-      "yahoo_news_ranking": 9,
-      "news_web": 10
+      "x_realtime": 7,
+      "news_web": 11
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
     "personal_story": 3,
-    "opinion": 9,
-    "hard_fact": 24,
+    "social_reaction": 31,
+    "opinion": 10,
+    "hard_fact": 18,
     "medical_science": 2,
     "policy": 6
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 25,
     "personal_story": 3,
-    "hard_fact": 26,
-    "opinion": 9,
+    "social_reaction": 29,
+    "hard_fact": 21,
+    "opinion": 10,
     "policy": 6,
     "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "「大きめのアームホールは非常に危険です」本格的な夏到来、女児を持つ親御さんは、一",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「演劇こそが世界で一番つまらないものを作れる」ことの確認のためにケロロ軍曹も果て",
+      "title": "女の40%「メンタル不調による八つ当たりモラハラ大爆発で恋人を失った経験がある」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "「現場仕事は危険と隣り合わせ」「労災死の96％は男性」←フェミニスト「それは違法",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "west",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ツイッター",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "オランダでの学年最終日にパーティがあり、クラスメイトから「君は寿司を持ってくるよ",
+      "title": "ディズニーランドと言えば友達の金持ち家族が毎回鬼課金してて、年頃になった娘がデー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "柏木 由紀",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "中野拓夢",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "関東地方",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "大相撲 結果 速報",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
+      "title": "iPhone値上げ 中古の需要急増か",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_it",
       "topic_category": "hard_fact"
+    },
+    {
+      "title": "中森 明菜 30 年 ぶり m ステ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "フードコートで食事中、先に食べ終わった娘がトレイを返しに行ってる間に娘の席に突然",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "コンビニでおじいさんが店長から「あなた出禁です。もうこの店で買い物できません。わ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "2026 國際足總世界盃",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "田中圭",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "fod",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "イプスウィッチ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "「大きめのアームホールは非常に危険です」本格的な夏到来、女児を持つ親御さんは、一",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「演劇こそが世界で一番つまらないものを作れる」ことの確認のためにケロロ軍曹も果て",
+      "title": "女の40%「メンタル不調による八つ当たりモラハラ大爆発で恋人を失った経験がある」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
-    },
-    {
-      "title": "オランダでの学年最終日にパーティがあり、クラスメイトから「君は寿司を持ってくるよ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "北海道の寿司屋にて、私「1人だけどいけますか？」大将「断ってやれ！」女将「皆さん",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ブラの下にタンクトップを着る」のが流行っているらしいが、それを解説した画像がこ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "娘の友達が学校帰りに「麦茶もらえませんか」と我が家に来た… そっかー家もうちょっ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「猫の模様を決める神様はきみたち姉妹の模様を一体どうやって決めたんだろうね」ペッ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "早朝にとうもろこしを収穫してたら、忙しいのに「何やってんすか？」とか声かけてくる",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
     },
     {
       "title": "ディズニーランドと言えば友達の金持ち家族が毎回鬼課金してて、年頃になった娘がデー",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "フードコートで食事中、先に食べ終わった娘がトレイを返しに行ってる間に娘の席に突然",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "コンビニでおじいさんが店長から「あなた出禁です。もうこの店で買い物できません。わ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "タイトーのサウンドチーム「ZUNTATA」がゲーム音楽にもたらしたもの",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "可愛くても最近はこれに袖さえあれば…っていう服が多すぎる「二の腕もだけど脇見られ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "大学生の頃、後輩の女子から「好きな人がいるんだけどどんなにアピールしてもクソ鈍感",
+      "title": "「これは完全にいざという時」高2の息子が緊急時の1000円を使用、何に使ったのか",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "『西之島、草生える』大規模噴火によって植生がすべて失われていたが、偶然によって再",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "水商売の女の子に興味本位で「なんでこの仕事をはじめたの？」と聞いていたら…「母子",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "妻の通勤は往復3時間｜それでも共働き生活が回る、夫の凄いところ - ゆる節約妻×",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     }
   ]
 }
