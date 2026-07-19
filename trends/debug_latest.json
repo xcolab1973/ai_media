@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T13:54:00+09:00",
+  "generated_at": "2026-07-19T18:31:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,35 +17,41 @@
       "x_realtime": 10
     },
     "neg_excluded": 2,
-    "dedup_excluded": 9,
-    "passed_total": 121,
+    "dedup_excluded": 10,
+    "passed_total": 120,
     "b2b_category_counts": {
-      "x_realtime": 9,
-      "yahoo_realtime": 27,
-      "news_web": 15,
+      "x_realtime": 8,
+      "yahoo_realtime": 24,
       "google_trends": 10,
+      "news_web": 19,
       "yahoo_news_ranking": 9
     }
   },
   "note_category_counts": {
     "social_reaction": 31,
-    "personal_story": 5,
+    "personal_story": 4,
     "opinion": 10,
-    "medical_science": 3,
+    "medical_science": 2,
     "hard_fact": 17,
-    "policy": 4
+    "policy": 6
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 24,
-    "hard_fact": 24,
-    "personal_story": 5,
+    "social_reaction": 22,
+    "personal_story": 4,
     "opinion": 10,
-    "policy": 5,
-    "medical_science": 2
+    "policy": 4,
+    "hard_fact": 29,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "不定期に午前2時頃、監視カメラがあるのに賽銭泥棒をする男がいたので、夜間だけ写真",
+      "title": "職場でスマホをいじっていたら「勤務中にそういうの良くない」って注意された→なんで",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "HUNTER×HUNTERが期間限定で全巻無料なので夫に「絶対に読んでほしい」と",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -57,22 +63,16 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "これはロシアに痛い！　ワイルドベリーズ倉庫の被害で広がる波紋 #エキスパートトピ",
+      "title": "高市政権の目指す改憲「こんなに危ない」　20の問題点を法律家の立場から解説　Q＆",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "千葉県のスーパーで、これがしれっと売られているので2度見してしまった… 別名、北",
+      "title": "欧州では最近、中国製エアコンを買い漁っているが安いからじゃない→日本製は一流だが",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "三浦市沖で釣り船炎上 全員避難",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
     },
     {
       "title": "高校野球はグロい",
@@ -81,25 +81,25 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "データセンターは本当に一般市民の電気料金値上げの原因なのか？",
+      "title": "越後鶴亀",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "偏食の激しい母親から「人間の食べ物じゃないから」と複数の食材を禁止されて育ち、成",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "山口茜",
+      "title": "excessive heat warning",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "草彅剛",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "百川 晴香 始球 式",
+      "title": "河北新報",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,7 +107,13 @@
   ],
   "note_top10": [
     {
-      "title": "不定期に午前2時頃、監視カメラがあるのに賽銭泥棒をする男がいたので、夜間だけ写真",
+      "title": "職場でスマホをいじっていたら「勤務中にそういうの良くない」って注意された→なんで",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "HUNTER×HUNTERが期間限定で全巻無料なので夫に「絶対に読んでほしい」と",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -119,13 +125,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "千葉県のスーパーで、これがしれっと売られているので2度見してしまった… 別名、北",
+      "title": "高市政権の目指す改憲「こんなに危ない」　20の問題点を法律家の立場から解説　Q＆",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "これはロシアに痛い！　ワイルドベリーズ倉庫の被害で広がる波紋 #エキスパートトピ",
+      "title": "欧州では最近、中国製エアコンを買い漁っているが安いからじゃない→日本製は一流だが",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -137,31 +143,25 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "データセンターは本当に一般市民の電気料金値上げの原因なのか？",
+      "title": "偏食の激しい母親から「人間の食べ物じゃないから」と複数の食材を禁止されて育ち、成",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "息子はゾロリが大好きで全巻読了したが「じゃあ次は…の本がないんですよね～」という",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "「ここ最近1番物価高を痛感した場面、コレ」2018年くらいに買った漫画と今月買っ",
+      "title": "余り物同士の結婚",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "セカストで税込5万何某で見つけたこの指輪…ソーティングなどが無いためにこの値段だ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "博物館の企画展を見に行ったが、この「餅の餅つき図」が1番謎で好き→「なにこれかわ",
+      "title": "毎朝のように「すみません、ミスを起こしました」という連絡をしてきてた部下が退職し",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
