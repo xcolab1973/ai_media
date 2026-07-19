@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T07:29:00+09:00",
+  "generated_at": "2026-07-19T13:54:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 3,
-    "dedup_excluded": 11,
-    "passed_total": 118,
+    "neg_excluded": 2,
+    "dedup_excluded": 9,
+    "passed_total": 121,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
-      "x_realtime": 7,
-      "news_web": 10,
+      "x_realtime": 9,
+      "yahoo_realtime": 27,
+      "news_web": 15,
       "google_trends": 10,
-      "yahoo_news_ranking": 6
+      "yahoo_news_ranking": 9
     }
   },
   "note_category_counts": {
-    "personal_story": 2,
-    "social_reaction": 33,
+    "social_reaction": 31,
+    "personal_story": 5,
     "opinion": 10,
-    "medical_science": 2,
-    "hard_fact": 16,
-    "policy": 7
+    "medical_science": 3,
+    "hard_fact": 17,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
-    "personal_story": 2,
-    "hard_fact": 17,
+    "social_reaction": 24,
+    "hard_fact": 24,
+    "personal_story": 5,
     "opinion": 10,
-    "medical_science": 1,
-    "policy": 7
+    "policy": 5,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "「青春18きっぷの利用者離れが止まらない？」度重なるルール変更が需要に合ってない",
+      "title": "不定期に午前2時頃、監視カメラがあるのに賽銭泥棒をする男がいたので、夜間だけ写真",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "小規模マンションを切り捨てる管理会社　「うまみない」と突然解約 - 日本経済新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "これはロシアに痛い！　ワイルドベリーズ倉庫の被害で広がる波紋 #エキスパートトピ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "千葉県のスーパーで、これがしれっと売られているので2度見してしまった… 別名、北",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "女の40%「メンタル不調による八つ当たりモラハラ大爆発で恋人を失った経験がある」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "iPhone値上げ 中古の需要急増か",
+      "title": "三浦市沖で釣り船炎上 全員避難",
       "source_category": "news_web",
       "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "走り屋",
+      "title": "高校野球はグロい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "データセンターは本当に一般市民の電気料金値上げの原因なのか？",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "山口茜",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "長谷川唯",
+      "title": "草彅剛",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "全国高等学校野球選手権愛知大会",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "テレ朝",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "バルコラ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "オリー・ワトキンス",
+      "title": "百川 晴香 始球 式",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,63 +107,63 @@
   ],
   "note_top10": [
     {
-      "title": "女の40%「メンタル不調による八つ当たりモラハラ大爆発で恋人を失った経験がある」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "不定期に午前2時頃、監視カメラがあるのに賽銭泥棒をする男がいたので、夜間だけ写真",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "「青春18きっぷの利用者離れが止まらない？」度重なるルール変更が需要に合ってない",
+      "title": "小規模マンションを切り捨てる管理会社　「うまみない」と突然解約 - 日本経済新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "千葉県のスーパーで、これがしれっと売られているので2度見してしまった… 別名、北",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "個人的に信用しないレシピの煽り文句3選… 3位→クリームチーズがなくても大丈夫、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "コンビニでおじいさんが店長から「あなた出禁です。もうこの店で買い物できません。わ",
+      "title": "これはロシアに痛い！　ワイルドベリーズ倉庫の被害で広がる波紋 #エキスパートトピ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "フードコートで食事中、先に食べ終わった娘がトレイを返しに行ってる間に娘の席に突然",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "妻の通勤は往復3時間｜それでも共働き生活が回る、夫の凄いところ - ゆる節約妻×",
+      "title": "高校野球はグロい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "タイトーのサウンドチーム「ZUNTATA」がゲーム音楽にもたらしたもの",
+      "title": "データセンターは本当に一般市民の電気料金値上げの原因なのか？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "有害鳥獣捕獲のため巡回中の40代のハンターの男性がクマに襲われ重傷「素手で目を潰",
+      "title": "息子はゾロリが大好きで全巻読了したが「じゃあ次は…の本がないんですよね～」という",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「ここ最近1番物価高を痛感した場面、コレ」2018年くらいに買った漫画と今月買っ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "共産・田村氏、改正皇室典範に「白紙撤回求める」　男系男子に「2600年？神話でし",
+      "title": "セカストで税込5万何某で見つけたこの指輪…ソーティングなどが無いためにこの値段だ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "博物館の企画展を見に行ったが、この「餅の餅つき図」が1番謎で好き→「なにこれかわ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
