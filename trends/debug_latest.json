@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T23:16:00+09:00",
+  "generated_at": "2026-07-20T07:31:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,89 +17,89 @@
       "x_realtime": 10
     },
     "neg_excluded": 9,
-    "dedup_excluded": 7,
-    "passed_total": 116,
+    "dedup_excluded": 10,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 31,
+      "yahoo_realtime": 36,
+      "x_realtime": 7,
       "google_trends": 10,
-      "x_realtime": 9,
-      "news_web": 12,
+      "news_web": 9,
       "yahoo_news_ranking": 8
     }
   },
   "note_category_counts": {
-    "personal_story": 6,
-    "social_reaction": 31,
+    "social_reaction": 33,
+    "personal_story": 4,
     "opinion": 10,
-    "hard_fact": 17,
-    "medical_science": 2,
-    "policy": 4
+    "medical_science": 1,
+    "policy": 6,
+    "hard_fact": 16
   },
   "b2b_topic_category_counts": {
+    "social_reaction": 33,
     "personal_story": 4,
-    "hard_fact": 20,
     "opinion": 10,
-    "social_reaction": 30,
-    "policy": 4,
-    "medical_science": 2
+    "policy": 6,
+    "hard_fact": 16,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "高校野球はグロい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「年金と遺児の奨学援助金の支給手続きを止められて…」陸自レンジャー隊員が訓練中に",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "小山慶一郎",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "吉岡里帆",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "欧州では最近、中国製エアコンを買い漁っているが安いからじゃない→日本製は一流だが",
+      "title": "AWSが数兆ドルもの誤見積をしでかす→さらに公式のジョーク交じりの投稿が「正気か",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "入学",
+      "title": "インターホンが鳴って出てみたら、半グレ風の人物が「瓦がどうこう」言い出し「直しま",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "私はアメリカのど田舎で、マナーや丁寧な英語の文化に触れてから、ラフな都会に転職し",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "副首都構想",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "フォートナイト",
+      "title": "ワールドカップ2026 スペインが優勝 4大会ぶり2回目 アルゼンチンとの延長制",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "鈴木 憲和",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "セダン",
+      "title": "クリスティアーノロナウド",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "加藤智大",
+      "title": "西班牙對阿根廷",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ラパルフェ",
+      "title": "藤田悠太郎",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "espagne – argentine",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,39 +107,39 @@
   ],
   "note_top10": [
     {
-      "title": "高校野球はグロい",
+      "title": "AWSが数兆ドルもの誤見積をしでかす→さらに公式のジョーク交じりの投稿が「正気か",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "インターホンが鳴って出てみたら、半グレ風の人物が「瓦がどうこう」言い出し「直しま",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ワールドカップ2026 スペインが優勝 4大会ぶり2回目 アルゼンチンとの延長制",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "私はアメリカのど田舎で、マナーや丁寧な英語の文化に触れてから、ラフな都会に転職し",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "欧州では最近、中国製エアコンを買い漁っているが安いからじゃない→日本製は一流だが",
+      "title": "「良い子でいたら幸せになれるんじゃなかったのかよ」抑圧されてきた人が思っているこ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『辞典には載っていない 絶滅漢字図鑑』によると江戸時代には猫の鳴き声専用の漢字が",
+      "title": "サキュバスシーシャバーに行ったときに会員登録のときに「セラです」といったらトンデ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "亡き母に「あなたは普通じゃない」と言われていたが「なぜそう思うのか」と聞いてみた",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "西武園ゆうえんちで「人力で流れるプールを逆流させる」という無茶なイベントが園長の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「閉じちゃうんでしょ？おマタが」閉経について夫に尋ねた様子を描いたエッセイ漫画に",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -149,21 +149,21 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "タイトルだけで面白いと確信して買った本ってありますか？→惹きが強くて中身が気にな",
+      "title": "副首都構想",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ラノベの伝説的な編集さん「読み飛ばしてもわかるように書け」……大半の読者は、適当",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "オープンキャンパスで高校生に聞かれたこと。「この大学でしかできない研究はあるか？",
+      "title": "山積みの問題吹き飛ばしたW杯北中米大会、FIFAが成功祝う",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "自力で排便が難しい人はうんこをどう出すの？→指を突っ込んで掻き出す「摘便と聞くと",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
