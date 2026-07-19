@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-19T16:53:24+09:00",
- "valid_until": "2026-08-02T06:36:26+09:00",
+ "generated_at": "2026-07-20T06:44:07+09:00",
+ "valid_until": "2026-08-03T06:40:01+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "relationship",
   "from_current": 27,
-  "from_new": 0,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 0,
+  "retention_dropped": 1,
   "genres": 4,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "一度OKしてしまった飲み会の断り方を教えてください。そのメンバーは辞めたバ...",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12300545947",
+   "summary": "一度参加を承諾した職場の飲み会を、後から角を立てずに断りたいという相談。メンバーの一人が退職したことも絡み、気まずさをどう回避するか悩む生の声が投稿されている。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "relationship-social",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "新人 夏 飲み会 断りたい 辞めたい 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-03T06:40:01+09:00",
+   "validity_days": 14
+  },
   {
    "source_category": "news_web",
    "raw_title": "「帰省」で疲れてしまう人へ。家族や親戚との関係を無理せず保つ方法",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-24T06:41:25+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "お盆の帰省について、するべきか（あみい。さん）｜家族関係の相談",
-   "url": "https://www.mwed.jp/community/questions/23636",
-   "summary": "お盆に帰省すべきか悩む相談投稿。義実家との関係や体調不安から帰省の要不要で迷う声。角度の種：『帰省は義務ではない』という前提と、断る際の伝え方・距離の取り方に読者の実需がありそう（公開claimにはしない）。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "relationship-social",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "mwed.jp（家族関係相談コミュニティ）",
-    "expert_origin": false,
-    "search_query": "お盆 帰省 親戚付き合い 気疲れ 対処法 距離の置き方",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-22T06:43:24+09:00",
    "validity_days": 14
   },
   {

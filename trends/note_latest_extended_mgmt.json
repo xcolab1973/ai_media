@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-19T16:53:24+09:00",
+ "generated_at": "2026-07-20T06:44:06+09:00",
  "valid_until": "2026-08-02T06:37:39+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -8,14 +8,44 @@
  "total_count": 27,
  "merge": {
   "parent": "mgmt",
-  "from_current": 30,
-  "from_new": 3,
-  "expired_pruned": 3,
-  "retention_dropped": 0,
+  "from_current": 27,
+  "from_new": 1,
+  "expired_pruned": 0,
+  "retention_dropped": 1,
   "genres": 4,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "インボイスの経過措置【80％控除→70％控除】(令和8年10月から変更)",
+   "url": "https://www.z-with.or.jp/column/invoice_keikasochi/",
+   "summary": "2026年10月1日から免税事業者等からの仕入れに係る仕入税額控除が80%から70%に縮小。当初は50%への引き下げ予定だったが令和8年度税制改正大綱で緩和された。免税事業者ごとの年間適用上限額も10億円から1億円に引き下げ。取引先との価格交渉・帳簿対応の見直しが必要。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "official_instruction",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "mgmt-finance",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "税理士法人ウィズ",
+    "expert_origin": true,
+    "search_query": "インボイス経過措置 70% 2026年10月 資金繰り 中小企業 対策",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-27T06:40:07+09:00",
+   "validity_days": 7
+  },
   {
    "source_category": "news_web",
    "raw_title": "【2027年1月改正】企業型DCの拠出限度額が月6.2万円に！中小企業オーナーが今すぐ準備すべきこと",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-24T06:38:04+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "インボイス経過措置は8割から70%控除へ。2年延長の新スケジュールを解説",
-   "url": "https://koyano-cpa.gr.jp/nobiyo-kaikei/column/8872/",
-   "summary": "2026年10月から始まるインボイス制度の経過措置縮小は、当初予定の80%→50%ではなく80%→70%控除に緩和され2年延長。本則課税で免税事業者からの仕入れがある事業者は消費税負担増を試算し、取引先との価格交渉や契約見直しを早めに進める必要があると税理士法人が解説。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "hard_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "mgmt-finance",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "小谷野税理士法人",
-    "expert_origin": true,
-    "search_query": "インボイス 経過措置 80% 70% 2026年10月 中小企業 消費税 負担 対応",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-23T06:47:14+09:00",
    "validity_days": 7
   },
   {
