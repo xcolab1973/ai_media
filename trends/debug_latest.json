@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T18:31:00+09:00",
+  "generated_at": "2026-07-19T23:16:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,57 +16,57 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 2,
-    "dedup_excluded": 10,
-    "passed_total": 120,
+    "neg_excluded": 9,
+    "dedup_excluded": 7,
+    "passed_total": 116,
     "b2b_category_counts": {
-      "x_realtime": 8,
-      "yahoo_realtime": 24,
+      "yahoo_realtime": 31,
       "google_trends": 10,
-      "news_web": 19,
-      "yahoo_news_ranking": 9
+      "x_realtime": 9,
+      "news_web": 12,
+      "yahoo_news_ranking": 8
     }
   },
   "note_category_counts": {
+    "personal_story": 6,
     "social_reaction": 31,
-    "personal_story": 4,
     "opinion": 10,
-    "medical_science": 2,
     "hard_fact": 17,
-    "policy": 6
+    "medical_science": 2,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 22,
     "personal_story": 4,
+    "hard_fact": 20,
     "opinion": 10,
+    "social_reaction": 30,
     "policy": 4,
-    "hard_fact": 29,
-    "medical_science": 1
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "職場でスマホをいじっていたら「勤務中にそういうの良くない」って注意された→なんで",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "HUNTER×HUNTERが期間限定で全巻無料なので夫に「絶対に読んでほしい」と",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "小規模マンションを切り捨てる管理会社　「うまみない」と突然解約 - 日本経済新聞",
+      "title": "高校野球はグロい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "高市政権の目指す改憲「こんなに危ない」　20の問題点を法律家の立場から解説　Q＆",
+      "title": "「年金と遺児の奨学援助金の支給手続きを止められて…」陸自レンジャー隊員が訓練中に",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "小山慶一郎",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "吉岡里帆",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "欧州では最近、中国製エアコンを買い漁っているが安いからじゃない→日本製は一流だが",
@@ -75,31 +75,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "高校野球はグロい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "越後鶴亀",
+      "title": "入学",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "偏食の激しい母親から「人間の食べ物じゃないから」と複数の食材を禁止されて育ち、成",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "excessive heat warning",
+      "title": "フォートナイト",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "河北新報",
+      "title": "セダン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "加藤智大",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ラパルフェ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,28 +107,10 @@
   ],
   "note_top10": [
     {
-      "title": "職場でスマホをいじっていたら「勤務中にそういうの良くない」って注意された→なんで",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "HUNTER×HUNTERが期間限定で全巻無料なので夫に「絶対に読んでほしい」と",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "小規模マンションを切り捨てる管理会社　「うまみない」と突然解約 - 日本経済新聞",
+      "title": "高校野球はグロい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "高市政権の目指す改憲「こんなに危ない」　20の問題点を法律家の立場から解説　Q＆",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
       "title": "欧州では最近、中国製エアコンを買い漁っているが安いからじゃない→日本製は一流だが",
@@ -137,15 +119,27 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "高校野球はグロい",
+      "title": "『辞典には載っていない 絶滅漢字図鑑』によると江戸時代には猫の鳴き声専用の漢字が",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "亡き母に「あなたは普通じゃない」と言われていたが「なぜそう思うのか」と聞いてみた",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
     },
     {
-      "title": "偏食の激しい母親から「人間の食べ物じゃないから」と複数の食材を禁止されて育ち、成",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "西武園ゆうえんちで「人力で流れるプールを逆流させる」という無茶なイベントが園長の",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「閉じちゃうんでしょ？おマタが」閉経について夫に尋ねた様子を描いたエッセイ漫画に",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -155,13 +149,19 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "余り物同士の結婚",
+      "title": "タイトルだけで面白いと確信して買った本ってありますか？→惹きが強くて中身が気にな",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "毎朝のように「すみません、ミスを起こしました」という連絡をしてきてた部下が退職し",
+      "title": "オープンキャンパスで高校生に聞かれたこと。「この大学でしかできない研究はあるか？",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "自力で排便が難しい人はうんこをどう出すの？→指を突っ込んで掻き出す「摘便と聞くと",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
