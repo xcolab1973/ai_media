@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T07:31:00+09:00",
+  "generated_at": "2026-07-20T14:22:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 10,
-    "passed_total": 113,
+    "neg_excluded": 8,
+    "dedup_excluded": 14,
+    "passed_total": 110,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
-      "x_realtime": 7,
-      "google_trends": 10,
-      "news_web": 9,
-      "yahoo_news_ranking": 8
+      "yahoo_realtime": 37,
+      "google_trends": 8,
+      "x_realtime": 3,
+      "news_web": 16,
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
     "personal_story": 4,
-    "opinion": 10,
+    "social_reaction": 27,
+    "opinion": 8,
     "medical_science": 1,
-    "policy": 6,
-    "hard_fact": 16
+    "hard_fact": 24,
+    "policy": 6
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
+    "social_reaction": 27,
+    "opinion": 8,
     "personal_story": 4,
-    "opinion": 10,
-    "policy": 6,
-    "hard_fact": 16,
-    "medical_science": 1
+    "hard_fact": 24,
+    "medical_science": 1,
+    "policy": 6
   },
   "b2b_top10": [
     {
-      "title": "AWSが数兆ドルもの誤見積をしでかす→さらに公式のジョーク交じりの投稿が「正気か",
+      "title": "生徒指導案件で加害者の保護者を呼ぶ時に「まだ仕事中なので19:30からしか学校に",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "インターホンが鳴って出てみたら、半グレ風の人物が「瓦がどうこう」言い出し「直しま",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "頑張らない・頑張れない親子のプライドを守るために通知表廃止？⇒成績が悪かった時に",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "私はアメリカのど田舎で、マナーや丁寧な英語の文化に触れてから、ラフな都会に転職し",
+      "title": "breakingdown",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "客から「イートインに臭い人がいて座れないから何とかして」と言われて見に行くと、椅",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "私は妊婦だが、会社で隣に座っている男性社員に「もうタバコって辞めたの？本当に子ど",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "副首都構想",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ワールドカップ2026 スペインが優勝 4大会ぶり2回目 アルゼンチンとの延長制",
+      "title": "京都の着物店で着物や扇子をかばんにいれたまま会計をせずに退店した客に、店から「一",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "鈴木 憲和",
+      "title": "代木大和",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "クリスティアーノロナウド",
+      "title": "福岡 県議会",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "西班牙對阿根廷",
+      "title": "mbcニュース",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "藤田悠太郎",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "espagne – argentine",
+      "title": "ジェイソンステイサム",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
-      "title": "AWSが数兆ドルもの誤見積をしでかす→さらに公式のジョーク交じりの投稿が「正気か",
+      "title": "夏休みの体験格差の話、教育実習先の小学校で「僕ハワイに行ったー」「私もー」みたい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "生徒指導案件で加害者の保護者を呼ぶ時に「まだ仕事中なので19:30からしか学校に",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "インターホンが鳴って出てみたら、半グレ風の人物が「瓦がどうこう」言い出し「直しま",
+      "title": "頑張らない・頑張れない親子のプライドを守るために通知表廃止？⇒成績が悪かった時に",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "客から「イートインに臭い人がいて座れないから何とかして」と言われて見に行くと、椅",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "私は妊婦だが、会社で隣に座っている男性社員に「もうタバコって辞めたの？本当に子ど",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "京都の着物店で着物や扇子をかばんにいれたまま会計をせずに退店した客に、店から「一",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "両親が亡くなって空き家になっている実家に、兄が草むしりに行ったら、駐車場に見知ら",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "衰退ポルノ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ほんまにショート動画だけはあかんよ」→幼少期から見せている親は、今は楽でも小学",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ワールドカップ2026 スペインが優勝 4大会ぶり2回目 アルゼンチンとの延長制",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "私はアメリカのど田舎で、マナーや丁寧な英語の文化に触れてから、ラフな都会に転職し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「良い子でいたら幸せになれるんじゃなかったのかよ」抑圧されてきた人が思っているこ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "サキュバスシーシャバーに行ったときに会員登録のときに「セラです」といったらトンデ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "息子はゾロリが大好きで全巻読了したが「じゃあ次は…の本がないんですよね～」という",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "副首都構想",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ラノベの伝説的な編集さん「読み飛ばしてもわかるように書け」……大半の読者は、適当",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "山積みの問題吹き飛ばしたW杯北中米大会、FIFAが成功祝う",
+      "title": "『世界の歴史教科書を読み比べてみた』を読んで分かった、世界で一番公平な歴史教科書",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
