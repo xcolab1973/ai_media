@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T23:58:00+09:00",
+  "generated_at": "2026-07-21T07:35:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,39 +16,43 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 9,
-    "passed_total": 117,
+    "neg_excluded": 5,
+    "dedup_excluded": 11,
+    "passed_total": 116,
     "b2b_category_counts": {
-      "x_realtime": 8,
-      "yahoo_realtime": 36,
+      "yahoo_realtime": 38,
       "news_web": 12,
       "google_trends": 10,
-      "yahoo_news_ranking": 4
+      "x_realtime": 7,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 38,
-    "personal_story": 3,
-    "opinion": 9,
-    "medical_science": 1,
-    "hard_fact": 16,
+    "social_reaction": 36,
+    "personal_story": 4,
+    "opinion": 10,
+    "hard_fact": 17,
     "policy": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 35,
-    "hard_fact": 19,
-    "personal_story": 3,
-    "opinion": 9,
-    "policy": 3,
-    "medical_science": 1
+    "social_reaction": 36,
+    "hard_fact": 17,
+    "opinion": 10,
+    "personal_story": 4,
+    "policy": 3
   },
   "b2b_top10": [
     {
       "title": "日中に外出するのが危険になってくると、「東南アジアでナイトマーケットが盛んな理由",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "東海などで危険な暑さ 酷暑日予想",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     },
     {
       "title": "人権を侵害して治安を急回復させたエルサルバドルの「不都合な成功」（週刊プレイボー",
@@ -57,49 +61,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "42都府県に熱中症警戒アラート",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
-      "topic_category": "hard_fact"
+      "title": "フィリーズ 対 ドジャース",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "親戚から電話で「就職に失敗した遠い親戚のために出版社を紹介してほしい」と言われた",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "相模原市",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "暑すぎて外に人がおらず、京都がコロナ禍の時のようになっているらしい「これはチャン",
+      "title": "バタン諸島",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「喫茶店ってメニュー見た段階で帰っていいんでしたっけ」「メニュー読むだけで不快に",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "夫を殺したはずなのに",
+      "title": "東京駅から半径40km圏内に「どんな人が住んでいるか？」を6タイプに分けた図が興",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ガーディアンズ 対 ツインズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "tohoシネマズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "天神祭",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "マイクロン 株価",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "相模原 コンビニ 事件",
+      "title": "森下翔太",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -108,21 +106,33 @@
   "note_top10": [
     {
       "title": "日中に外出するのが危険になってくると、「東南アジアでナイトマーケットが盛んな理由",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「喫茶店ってメニュー見た段階で帰っていいんでしたっけ」「メニュー読むだけで不快に",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東京駅から半径40km圏内に「どんな人が住んでいるか？」を6タイプに分けた図が興",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "好奇心で購入した「メタルシャワー」を使ってみたらゾクゾクに襲われて気持ちよくて毎",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "親戚から電話で「就職に失敗した遠い親戚のために出版社を紹介してほしい」と言われた",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「上りやすさが段違い」家でよく見る「踊り場あり」と「三角ゾーン」の階段はどっちが",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
-    },
-    {
-      "title": "暑すぎて外に人がおらず、京都がコロナ禍の時のようになっているらしい「これはチャン",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
     },
     {
       "title": "人権を侵害して治安を急回復させたエルサルバドルの「不都合な成功」（週刊プレイボー",
@@ -131,40 +141,28 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "胸に詰めるパッドを忘れたコスプレイヤー、inゼリーを胸に詰めて1日を過ごす→さら",
+      "title": "誰か俺に優しい言葉をかけてくれ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "家の前にルイ・ヴィトンの財布が落ちていた…銀行のカードも入っていたので、炎天下の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東京でおいしいテキサスBBQを食べられる店「PHAT Q」がガチ過ぎて天国、他の",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "入院中、若い看護師さんが先輩に「患者さんはバナナ柄の靴下を履いた人に看護されたい",
+      "title": "ストリートファイターVで遊んでたときに女性から「師匠になって春麗教えて」と言われ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "在日ベトナム人による東京で食べられる『本場ベトナム料理』店まとめがかなり本格的で",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "星街すいせいがZOZOマリンのマウンドに登場、初音ミクのエールを受け“ストライク",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "スペイン代表選手を蹴り倒し、パンチを浴びせる…アルゼンチン代表MFの暴走に批判の",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "星街すいせい、始球式でストライク！球場スピードガンは105キロ表示",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     }
   ]
 }
