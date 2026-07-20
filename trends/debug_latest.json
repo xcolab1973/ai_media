@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T14:22:00+09:00",
+  "generated_at": "2026-07-20T19:32:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 14,
-    "passed_total": 110,
+    "neg_excluded": 7,
+    "dedup_excluded": 12,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
-      "google_trends": 8,
-      "x_realtime": 3,
-      "news_web": 16,
-      "yahoo_news_ranking": 6
+      "yahoo_realtime": 38,
+      "google_trends": 10,
+      "x_realtime": 6,
+      "news_web": 12,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
     "personal_story": 4,
-    "social_reaction": 27,
-    "opinion": 8,
-    "medical_science": 1,
-    "hard_fact": 24,
-    "policy": 6
+    "social_reaction": 33,
+    "opinion": 9,
+    "medical_science": 3,
+    "hard_fact": 20,
+    "policy": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 27,
-    "opinion": 8,
+    "social_reaction": 33,
     "personal_story": 4,
-    "hard_fact": 24,
-    "medical_science": 1,
-    "policy": 6
+    "opinion": 9,
+    "hard_fact": 20,
+    "medical_science": 3,
+    "policy": 1
   },
   "b2b_top10": [
     {
-      "title": "生徒指導案件で加害者の保護者を呼ぶ時に「まだ仕事中なので19:30からしか学校に",
+      "title": "人権を侵害して治安を急回復させたエルサルバドルの「不都合な成功」（週刊プレイボー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "頑張らない・頑張れない親子のプライドを守るために通知表廃止？⇒成績が悪かった時に",
+      "title": "海外には市民が集まれる広場が存在しているが、日本の都市部にはそういう所がないとい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "breakingdown",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "客から「イートインに臭い人がいて座れないから何とかして」と言われて見に行くと、椅",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "私は妊婦だが、会社で隣に座っている男性社員に「もうタバコって辞めたの？本当に子ど",
+      "title": "親戚から電話で「就職に失敗した遠い親戚のために出版社を紹介してほしい」と言われた",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "京都の着物店で着物や扇子をかばんにいれたまま会計をせずに退店した客に、店から「一",
+      "title": "暑いので冷やし中華でも食おうかと通りすがりの店に入ったら、「ハンバーグチャーハン",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "代木大和",
+      "title": "ニッポンの社長",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "福岡 県議会",
+      "title": "橋本環奈",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "mbcニュース",
+      "title": "片岡信和",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ジェイソンステイサム",
+      "title": "プロ野球速報",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "「ほんまにショート動画だけはあかんよ」→幼少期から見せている親は、今は楽でも小学",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "柳原可奈子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,63 +107,63 @@
   ],
   "note_top10": [
     {
-      "title": "夏休みの体験格差の話、教育実習先の小学校で「僕ハワイに行ったー」「私もー」みたい",
+      "title": "親戚から電話で「就職に失敗した遠い親戚のために出版社を紹介してほしい」と言われた",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "生徒指導案件で加害者の保護者を呼ぶ時に「まだ仕事中なので19:30からしか学校に",
+      "title": "海外には市民が集まれる広場が存在しているが、日本の都市部にはそういう所がないとい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "頑張らない・頑張れない親子のプライドを守るために通知表廃止？⇒成績が悪かった時に",
+      "title": "暑いので冷やし中華でも食おうかと通りすがりの店に入ったら、「ハンバーグチャーハン",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "客から「イートインに臭い人がいて座れないから何とかして」と言われて見に行くと、椅",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "私は妊婦だが、会社で隣に座っている男性社員に「もうタバコって辞めたの？本当に子ど",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "京都の着物店で着物や扇子をかばんにいれたまま会計をせずに退店した客に、店から「一",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "両親が亡くなって空き家になっている実家に、兄が草むしりに行ったら、駐車場に見知ら",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "衰退ポルノ",
+      "title": "人権を侵害して治安を急回復させたエルサルバドルの「不都合な成功」（週刊プレイボー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "「ほんまにショート動画だけはあかんよ」→幼少期から見せている親は、今は楽でも小学",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "星街すいせいがZOZOマリンのマウンドに登場、初音ミクのエールを受け“ストライク",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "風邪で咳がひどく、処方されたのは小さなシールで「こんなものに私が救えるか」と思っ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『世界の歴史教科書を読み比べてみた』を読んで分かった、世界で一番公平な歴史教科書",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "山本ゆりさんが「誕生日に毎年作る」というドームゼリーがスイカやみかんなどフルーツ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "在日ベトナム人による東京で食べられる『本場ベトナム料理』店まとめがかなり本格的で",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "アメリカ産の生ジャガイモ輸入解禁に農家が強い警戒を示している理由は「国内のジャガ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
