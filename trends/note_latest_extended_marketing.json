@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-20T16:55:29+09:00",
+ "generated_at": "2026-07-21T06:46:20+09:00",
  "valid_until": "2026-08-03T06:36:58+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "marketing",
   "from_current": 41,
-  "from_new": 4,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 4,
+  "retention_dropped": 1,
   "genres": 6,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "【2026年最新】夏のキャンペーン成功事例10選！使えるネーミング例もあわせて紹介",
+   "url": "https://digi-co.net/blog/campaign-summer/",
+   "summary": "夏季キャンペーンの成功事例とネーミング例をまとめた一般的な紹介記事。季節感の言語化やノベルティ・数量限定施策など定番手法の紹介にとどまり、2026年特有の新規性や一次情報は薄め。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "marketing-web",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "デジコ",
+    "expert_origin": false,
+    "search_query": "2026年 下半期 Webマーケティング 施策 夏キャンペーン",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": true,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-26T06:37:58+09:00",
+   "validity_days": 5
+  },
   {
    "source_category": "news_web",
    "raw_title": "Googleアルゴリズムアップデートの歴史 1998〜2026｜SEOは今後どうなる？",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-22T16:48:23+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "SEO対策で効果が出ない7つの原因と改善策【専門家が解説】",
-   "url": "https://promotioninhouse.com/blog/seo/seo-not-effective-causes-solutions/",
-   "summary": "中小企業がSEO対策の効果を感じない7つの原因を専門家目線で解説。「流入はあるが成約しない」パターンと「そもそも流入がない」パターンを分けて診断する必要性を指摘。検索結果は同種の一般解説記事が多く独自性のある切り口は少ない。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "marketing-web",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "PromotionInhouse",
-    "expert_origin": false,
-    "search_query": "下半期 SEO 施策 何から手をつける 中小企業 2026",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": true,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-22T06:39:05+09:00",
    "validity_days": 5
   },
   {

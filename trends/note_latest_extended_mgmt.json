@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-20T16:55:29+09:00",
- "valid_until": "2026-08-03T16:44:38+09:00",
+ "generated_at": "2026-07-21T06:46:20+09:00",
+ "valid_until": "2026-08-04T06:39:02+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "mgmt",
   "from_current": 27,
-  "from_new": 2,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 2,
+  "retention_dropped": 1,
   "genres": 4,
   "retention_per_genre": 8
  },
@@ -258,6 +258,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "障害者用の求人がほとんど大企業ばかりという疑問",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13301056903",
+   "summary": "障害者向け求人を見ると大企業ばかりが目立つとの疑問が投稿されている。雇用率引き上げで中小企業も対象拡大される中、採用市場で実際どう動くべきか迷う当事者・企業側双方の関心がうかがえる。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "mgmt-startup",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "障害者法定雇用率 対応できない 中小企業 相談 知恵袋 OR 掲示板",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": true,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-04T06:39:02+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "個人事業主がインボイス制度に登録しないとどうなる?取引先への影響と判断基準を徹底解説",
    "url": "https://sogyotecho.jp/invoice-kojin-tourokushinai/",
    "summary": "起業直後の個人事業主がインボイス登録すべきかの判断基準を整理。BtoC中心なら未登録でも影響小、取引先が課税事業者なら登録有利など、創業期特有の意思決定ポイントを解説。",
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-27T06:37:06+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "【保存版】2026年度 主要補助金の公募スケジュール一覧｜申請準備はいつ始める？",
-   "url": "https://note.com/lmooi/n/nd4d1f865d326",
-   "summary": "2026年度の新事業進出補助金・持続化補助金・ものづくり補助金など主要補助金の公募スケジュールをまとめ、申請準備をいつから始めるべきかを解説。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "mgmt-startup",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "note（補助金のプロ L'mooi）",
-    "expert_origin": true,
-    "search_query": "2026年度 創業 補助金 公募 スケジュール 令和8年度",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-25T06:37:07+09:00",
    "validity_days": 14
   },
   {
