@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T19:32:00+09:00",
+  "generated_at": "2026-07-20T23:58:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 12,
-    "passed_total": 113,
+    "neg_excluded": 6,
+    "dedup_excluded": 9,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_realtime": 38,
-      "google_trends": 10,
-      "x_realtime": 6,
+      "x_realtime": 8,
+      "yahoo_realtime": 36,
       "news_web": 12,
+      "google_trends": 10,
       "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "personal_story": 4,
-    "social_reaction": 33,
+    "social_reaction": 38,
+    "personal_story": 3,
     "opinion": 9,
-    "medical_science": 3,
-    "hard_fact": 20,
-    "policy": 1
+    "medical_science": 1,
+    "hard_fact": 16,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
-    "personal_story": 4,
+    "social_reaction": 35,
+    "hard_fact": 19,
+    "personal_story": 3,
     "opinion": 9,
-    "hard_fact": 20,
-    "medical_science": 3,
-    "policy": 1
+    "policy": 3,
+    "medical_science": 1
   },
   "b2b_top10": [
+    {
+      "title": "日中に外出するのが危険になってくると、「東南アジアでナイトマーケットが盛んな理由",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "人権を侵害して治安を急回復させたエルサルバドルの「不都合な成功」（週刊プレイボー",
       "source_category": "yahoo_realtime",
@@ -51,10 +57,10 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "海外には市民が集まれる広場が存在しているが、日本の都市部にはそういう所がないとい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "42都府県に熱中症警戒アラート",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_domestic",
+      "topic_category": "hard_fact"
     },
     {
       "title": "親戚から電話で「就職に失敗した遠い親戚のために出版社を紹介してほしい」と言われた",
@@ -63,43 +69,37 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "暑いので冷やし中華でも食おうかと通りすがりの店に入ったら、「ハンバーグチャーハン",
+      "title": "暑すぎて外に人がおらず、京都がコロナ禍の時のようになっているらしい「これはチャン",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ニッポンの社長",
+      "title": "夫を殺したはずなのに",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "橋本環奈",
+      "title": "tohoシネマズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "片岡信和",
+      "title": "天神祭",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "プロ野球速報",
+      "title": "マイクロン 株価",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "hard_fact"
     },
     {
-      "title": "「ほんまにショート動画だけはあかんよ」→幼少期から見せている親は、今は楽でも小学",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "柳原可奈子",
+      "title": "相模原 コンビニ 事件",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,19 +107,19 @@
   ],
   "note_top10": [
     {
+      "title": "日中に外出するのが危険になってくると、「東南アジアでナイトマーケットが盛んな理由",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "親戚から電話で「就職に失敗した遠い親戚のために出版社を紹介してほしい」と言われた",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "海外には市民が集まれる広場が存在しているが、日本の都市部にはそういう所がないとい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "暑いので冷やし中華でも食おうかと通りすがりの店に入ったら、「ハンバーグチャーハン",
+      "title": "暑すぎて外に人がおらず、京都がコロナ禍の時のようになっているらしい「これはチャン",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -131,7 +131,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ほんまにショート動画だけはあかんよ」→幼少期から見せている親は、今は楽でも小学",
+      "title": "胸に詰めるパッドを忘れたコスプレイヤー、inゼリーを胸に詰めて1日を過ごす→さら",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "入院中、若い看護師さんが先輩に「患者さんはバナナ柄の靴下を履いた人に看護されたい",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "在日ベトナム人による東京で食べられる『本場ベトナム料理』店まとめがかなり本格的で",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -143,27 +155,15 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "風邪で咳がひどく、処方されたのは小さなシールで「こんなものに私が救えるか」と思っ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "スペイン代表選手を蹴り倒し、パンチを浴びせる…アルゼンチン代表MFの暴走に批判の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "山本ゆりさんが「誕生日に毎年作る」というドームゼリーがスイカやみかんなどフルーツ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "在日ベトナム人による東京で食べられる『本場ベトナム料理』店まとめがかなり本格的で",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "アメリカ産の生ジャガイモ輸入解禁に農家が強い警戒を示している理由は「国内のジャガ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "星街すいせい、始球式でストライク！球場スピードガンは105キロ表示",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
