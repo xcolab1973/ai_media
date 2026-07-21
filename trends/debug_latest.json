@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T07:35:00+09:00",
+  "generated_at": "2026-07-21T13:52:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,153 +16,155 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
+    "neg_excluded": 7,
     "dedup_excluded": 11,
-    "passed_total": 116,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 38,
-      "news_web": 12,
+      "yahoo_realtime": 29,
       "google_trends": 10,
-      "x_realtime": 7,
-      "yahoo_news_ranking": 3
+      "news_web": 18,
+      "x_realtime": 6,
+      "yahoo_news_ranking": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 36,
-    "personal_story": 4,
+    "social_reaction": 33,
+    "personal_story": 2,
     "opinion": 10,
-    "hard_fact": 17,
-    "policy": 3
+    "medical_science": 3,
+    "policy": 3,
+    "hard_fact": 19
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 36,
-    "hard_fact": 17,
+    "social_reaction": 30,
+    "personal_story": 1,
     "opinion": 10,
-    "personal_story": 4,
-    "policy": 3
+    "hard_fact": 24,
+    "policy": 4,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "日中に外出するのが危険になってくると、「東南アジアでナイトマーケットが盛んな理由",
+      "title": "普通の土と“カインズの砂”に種をまいたら……　2日後、驚きの結果に「こんな便利な",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "東海などで危険な暑さ 酷暑日予想",
+      "title": "GMO熊谷氏、在宅勤務の「完全廃止」投稿を謝罪　真意も説明",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「話す」チンパンジー、最後の2頭に　研究者はなぜ後悔したのか",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "危険運転致死傷罪を適用する数値基準盛り込んだ改正法が施行 | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ZARAの「死のパンツ」に注意を。夏に人気のアイテムだが…怪我の報告、海外で相次",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "皇室 典範 改正",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "黒柳徹子",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "伊集院光",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "アンディバーナム氏",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "路上で倒れた44歳死亡 熱中症疑い",
       "source_category": "news_web",
       "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
-    },
-    {
-      "title": "人権を侵害して治安を急回復させたエルサルバドルの「不都合な成功」（週刊プレイボー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "フィリーズ 対 ドジャース",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "相模原市",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "バタン諸島",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「喫茶店ってメニュー見た段階で帰っていいんでしたっけ」「メニュー読むだけで不快に",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "東京駅から半径40km圏内に「どんな人が住んでいるか？」を6タイプに分けた図が興",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ガーディアンズ 対 ツインズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "森下翔太",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "日中に外出するのが危険になってくると、「東南アジアでナイトマーケットが盛んな理由",
+      "title": "普通の土と“カインズの砂”に種をまいたら……　2日後、驚きの結果に「こんな便利な",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「喫茶店ってメニュー見た段階で帰っていいんでしたっけ」「メニュー読むだけで不快に",
+      "title": "「話す」チンパンジー、最後の2頭に　研究者はなぜ後悔したのか",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "東京駅から半径40km圏内に「どんな人が住んでいるか？」を6タイプに分けた図が興",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "好奇心で購入した「メタルシャワー」を使ってみたらゾクゾクに襲われて気持ちよくて毎",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「上りやすさが段違い」家でよく見る「踊り場あり」と「三角ゾーン」の階段はどっちが",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
     },
     {
-      "title": "人権を侵害して治安を急回復させたエルサルバドルの「不都合な成功」（週刊プレイボー",
+      "title": "GMO熊谷氏、在宅勤務の「完全廃止」投稿を謝罪　真意も説明",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "誰か俺に優しい言葉をかけてくれ",
+      "title": "「本当に草が生えてこない」　カインズの“防草できる砂”に「庭に6袋撒きました」「",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "家の前にルイ・ヴィトンの財布が落ちていた…銀行のカードも入っていたので、炎天下の",
+      "title": "危険運転致死傷罪を適用する数値基準盛り込んだ改正法が施行 | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "東京でおいしいテキサスBBQを食べられる店「PHAT Q」がガチ過ぎて天国、他の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "ZARAの「死のパンツ」に注意を。夏に人気のアイテムだが…怪我の報告、海外で相次",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ストリートファイターVで遊んでたときに女性から「師匠になって春麗教えて」と言われ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
+      "title": "『バナナ流水で30秒洗ったらコバエが沸かない』 っての見て、買ってきたら毎回洗っ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "イノベーターのキャリーケースを遠征や旅行に！機内持ち込みOKから大容量までおすす",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "セブンイレブンのセルフレジで理由を理解しつつも「小銭が使いづらい」との不満、周り",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "介護職にもっと男性が増えたらいいのにな！と言ったら、「問題多いで〜特に障害者支援",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ]
 }
