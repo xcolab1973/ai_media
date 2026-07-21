@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T19:08:00+09:00",
+  "generated_at": "2026-07-21T23:51:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 12,
-    "passed_total": 113,
+    "neg_excluded": 10,
+    "dedup_excluded": 11,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "yahoo_realtime": 28,
+      "news_web": 15,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "news_web": 20,
-      "x_realtime": 5,
-      "yahoo_news_ranking": 7
+      "yahoo_news_ranking": 5,
+      "x_realtime": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
+    "social_reaction": 27,
     "personal_story": 3,
     "medical_science": 3,
-    "opinion": 9,
-    "hard_fact": 19,
-    "policy": 4
+    "opinion": 10,
+    "hard_fact": 17,
+    "policy": 10
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 25,
-    "opinion": 9,
-    "hard_fact": 25,
-    "personal_story": 2,
+    "hard_fact": 19,
+    "social_reaction": 26,
+    "personal_story": 3,
+    "opinion": 10,
     "medical_science": 2,
-    "policy": 7
+    "policy": 10
   },
   "b2b_top10": [
+    {
+      "title": "「夜の熱中症」潜む危険と対策",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
     {
       "title": "5個入りの冷凍食品を見て、「値上げしていいので、こんな難しい容器作らず、素直に6",
       "source_category": "yahoo_realtime",
@@ -51,19 +57,7 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "GMO熊谷氏、在宅勤務の「完全廃止」投稿を謝罪　真意も説明",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "普通の土と“カインズの砂”に種をまいたら……　2日後、驚きの結果に「こんな便利な",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "GMO熊谷代表、原則出社の投稿について謝罪　「タイピングという説明が一人歩き」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -75,45 +69,51 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ヤコビアン 予想",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "元山飛優",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "熱中症疑い死亡 発見時体温42.6℃",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "小籔「コヤソニ」終了を電撃発表",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_entertainment",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "闇バイト勧誘の活発化恐れ 対策は",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_local",
-      "topic_category": "hard_fact"
-    }
-  ],
-  "note_top10": [
-    {
-      "title": "5個入りの冷凍食品を見て、「値上げしていいので、こんな難しい容器作らず、素直に6",
+      "title": "GMO熊谷氏、在宅勤務の「完全廃止」投稿を謝罪　真意も説明",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
+      "title": "「高輪ゲートウェイの再開発は大失敗」「ビオトープのせいで蚊が大集結」→現地確認し",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "酷暑 高校野球の強豪校も対策困難",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_sports",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "「話す」チンパンジー、最後の2頭に　研究者はなぜ後悔したのか",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "相席食堂",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ゴキブリ人民党",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    }
+  ],
+  "note_top10": [
+    {
       "title": "普通の土と“カインズの砂”に種をまいたら……　2日後、驚きの結果に「こんな便利な",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「高輪ゲートウェイの再開発は大失敗」「ビオトープのせいで蚊が大集結」→現地確認し",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,19 +125,7 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "「本当に草が生えてこない」　カインズの“防草できる砂”に「庭に6袋撒きました」「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "GMO熊谷氏、在宅勤務の「完全廃止」投稿を謝罪　真意も説明",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "GMO熊谷代表、原則出社の投稿について謝罪　「タイピングという説明が一人歩き」",
+      "title": "5個入りの冷凍食品を見て、「値上げしていいので、こんな難しい容器作らず、素直に6",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -149,19 +137,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ブドウに見えるけど、間引いていないリンゴです→甘く大きくするには「95%以上」を",
+      "title": "GMO熊谷氏、在宅勤務の「完全廃止」投稿を謝罪　真意も説明",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "猫の水に氷を入れるとちょいちょいするついでに水をよく飲むようになる、と聞いて試し",
+      "title": "くら寿司に行ったが、お寿司が全く流れておらず、注文しても全然来ず、周りの席も全て",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "同乗者がいないことを理由に救急搬送を拒否された女性が高松市を提訴→この報道を疑問",
+      "title": "「こんな古いロゴ見たことない！」20年以上前に買ったユニクロのトップスをミラノの",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "台湾・高雄市で起きた伝説のハプニング『台湾セブン-イレブンのマスコットキャラ・O",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "同乗者がいないことを理由に救急搬送を拒否された女性が高松市を提訴へ→この報道を疑",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "medical_science"
