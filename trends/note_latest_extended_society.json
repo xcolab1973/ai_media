@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T16:55:24+09:00",
+ "generated_at": "2026-07-22T06:40:51+09:00",
  "valid_until": "2026-08-03T16:50:29+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "society",
   "from_current": 47,
-  "from_new": 6,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 5,
+  "retention_dropped": 1,
   "genres": 6,
   "retention_per_genre": 8
  },
@@ -228,6 +228,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "国家情報局の設置法案、衆院内閣委員会で可決",
+   "url": "https://www.nikkei.com/article/DGXZQOUA224Y10S6A420C2000000/",
+   "summary": "国家情報局の設置法案が衆院内閣委員会で可決されたと報じる一次報道。内閣情報調査室を格上げし対外情報機能と省庁横断の情報集約機能を担わせる内容を伝える。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "hard_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "society-news-explainer",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "日本経済新聞",
+    "expert_origin": true,
+    "search_query": "国家情報局 国家情報会議 発足 解説 2026年",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-27T06:39:43+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "国家情報会議設置法が参議院で可決・成立-内閣情報調査室を格上げした「国家情報局」が誕生",
    "url": "https://rocket-boys.co.jp/security-measures-lab/japan-establishes-national-intelligence-agency/",
    "summary": "国家情報会議設置法が2026年5月27日に参議院で可決・成立し、これを受けて2026年7月に内閣情報調査室を改組して「国家情報局」に名称変更。首相を議長とする国家情報会議も新設され、各省庁の情報機関への総合調整権が付与される見込み。",
@@ -434,36 +464,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-25T06:43:28+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "特定秘密保護法とは何か——国家情報局新設で変わる「知る権利」の論点",
-   "url": "https://www.cas.go.jp/jp/tokuteihimitsu/",
-   "summary": "2026年8月発足予定の国家情報局は情報収集・分析機能を強化するが、既存の特定秘密保護法の「特定秘密」指定範囲や運用にどう関わるかが焦点。内閣官房は指定状況・通報窓口を公開しており、読者が自分の知る権利への影響を判断する材料になる。特定の立場は取らず制度の骨格を事実解説する。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "society-news-explainer",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "内閣官房",
-    "expert_origin": true,
-    "search_query": "国家情報局 特定秘密保護法 情報公開 市民 影響 わかりやすく",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-24T16:52:58+09:00",
    "validity_days": 5
   },
   {
