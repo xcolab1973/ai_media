@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T07:33:00+09:00",
+  "generated_at": "2026-07-22T13:51:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,89 +16,89 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
+    "neg_excluded": 7,
     "dedup_excluded": 10,
-    "passed_total": 114,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
-      "news_web": 15,
-      "google_trends": 10,
+      "yahoo_realtime": 33,
       "x_realtime": 8,
-      "yahoo_news_ranking": 1
+      "google_trends": 10,
+      "news_web": 17,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
     "social_reaction": 29,
+    "personal_story": 3,
+    "policy": 7,
     "opinion": 10,
-    "personal_story": 2,
-    "hard_fact": 16,
-    "policy": 11,
-    "medical_science": 2
+    "medical_science": 3,
+    "hard_fact": 18
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "hard_fact": 18,
+    "policy": 7,
+    "social_reaction": 28,
     "opinion": 10,
-    "policy": 11,
-    "personal_story": 2
+    "hard_fact": 22,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "卑劣な犯行！うきは市の農園から梨５０００個盗まれる（テレQ（TVQ九州放送）） ",
+      "title": "政府、次期マイナンバーカードを2029年度に導入へ　デザイン刷新、券面の記載情報",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "高温注意報が出たので、父が「今日はチャンスだ」と言いながら車の中に枕やぬいぐるみ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "米津玄師｜わたしの推薦図書｜SHUEISHA MANGA EXPO -集英社創業",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "緊急降板したDeNA・伊勢 熱中症",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_sports",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "米、中国海警局による比軍兵殴打を非難 ASEAN会合でルビオ氏訪比",
+      "title": "「受け入れがたい思想」5月には10代の高校生が強盗殺人の実行役となる事件も起きた",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "5個入りの冷凍食品を見て、「値上げしていいので、こんな難しい容器作らず、素直に6",
+      "title": "ジョゼ モウリーニョ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "Refaのドライヤーを欲しがっていた娘、泊まったホテルの大浴場のドライヤーが全部",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "爆撃機",
+      "title": "ひるおび",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "かれい 川 の 湯",
+      "title": "北斗晶",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "バレーボールカナダ男子代表",
+      "title": "チビノリダー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "tsla",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "強盗",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ワールドカップ ベストイレブン",
+      "title": "ビリヤード",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,63 +106,63 @@
   ],
   "note_top10": [
     {
-      "title": "卑劣な犯行！うきは市の農園から梨５０００個盗まれる（テレQ（TVQ九州放送）） ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "5個入りの冷凍食品を見て、「値上げしていいので、こんな難しい容器作らず、素直に6",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「高輪ゲートウェイの再開発は大失敗」「ビオトープのせいで蚊が大集結」→現地確認し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "米、中国海警局による比軍兵殴打を非難 ASEAN会合でルビオ氏訪比",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "くら寿司に行ったが、お寿司が全く流れておらず、注文しても全然来ず、周りの席も全て",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "父は祖父の葬儀で「見たことない自称親族が大量に来訪」「なぜかお坊さんが二人来る」",
+      "title": "高温注意報が出たので、父が「今日はチャンスだ」と言いながら車の中に枕やぬいぐるみ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「セルフレジでありえん吐かれるなと思ったらなんだこれ」Xに投稿された謎の？硬貨に",
+      "title": "Refaのドライヤーを欲しがっていた娘、泊まったホテルの大浴場のドライヤーが全部",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "米津玄師｜わたしの推薦図書｜SHUEISHA MANGA EXPO -集英社創業",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「受け入れがたい思想」5月には10代の高校生が強盗殺人の実行役となる事件も起きた",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "運動習慣のない高齢者は腰や膝の可動域が年々悪くなり、痛みは寝ていても良くならずに",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "約款、読まなきゃだめですか？～生命保険の聞きにくいことを聞く",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "詩の朗読会をやりたい　海外ドラマで誘い合ってやっているあのイベント、そんなに楽し",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東南アジア中華暗黒ベルト特殊詐欺拠点のしくみ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "昔スーパーで働いていたとき、なかなか入荷のない商品のPOPを普段のように作ろうと",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "爆撃機",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "かれい 川 の 湯",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "眠れてない、って隠さなきゃいけないことなのかな",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "友人が夜中に胸の激痛で目覚めるも起き上がれなくなって7119に電話→「それだけ話",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
