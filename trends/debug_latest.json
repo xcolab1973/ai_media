@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T19:08:00+09:00",
+  "generated_at": "2026-07-22T23:48:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,31 +16,31 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
-    "dedup_excluded": 9,
-    "passed_total": 112,
+    "neg_excluded": 8,
+    "dedup_excluded": 8,
+    "passed_total": 116,
     "b2b_category_counts": {
-      "yahoo_realtime": 30,
-      "x_realtime": 8,
+      "yahoo_realtime": 34,
+      "x_realtime": 10,
       "google_trends": 10,
-      "news_web": 18,
-      "yahoo_news_ranking": 4
+      "news_web": 14,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "personal_story": 3,
-    "social_reaction": 32,
-    "policy": 5,
-    "opinion": 9,
-    "hard_fact": 17,
-    "medical_science": 4
+    "personal_story": 2,
+    "social_reaction": 37,
+    "opinion": 10,
+    "policy": 6,
+    "medical_science": 5,
+    "hard_fact": 10
   },
   "b2b_topic_category_counts": {
-    "personal_story": 3,
+    "personal_story": 2,
+    "social_reaction": 34,
     "policy": 6,
-    "social_reaction": 28,
-    "opinion": 9,
-    "hard_fact": 23,
+    "opinion": 10,
+    "hard_fact": 17,
     "medical_science": 1
   },
   "b2b_top10": [
@@ -51,10 +51,16 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "ストーカー加害者にGPS装着案　被害者に接近通知、政府が法整備へ - 日本経済新",
+      "title": "JR大阪駅前にできた「排除アート」に危険では？と批判集まる→たしかに「いけず石」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【大阪市、動く】JR大阪駅前にできた「排除アート」に危険では？と批判集まる→たし",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
       "title": "1日空調効いた屋内にいた結果が熱中症、後遺症セットだったという人の熱中症備忘録が",
@@ -63,19 +69,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ファッションブランド『MISAMARU』公式アカウントで公開された、とあるコーデ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「イヤフォンじゃなくて補聴器です」誤認心配のユーザー　自転車“青切符”制度の不安",
+      "title": "ストーカー加害者にGPS装着案　被害者に接近通知、政府が法整備へ - 日本経済新",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "熱中症になった人で「水分や塩分摂ったりして気をつけていたんですが」と言う人もいる",
+      "title": "ファッションブランド『MISAMARU』公式アカウントで公開された、とあるコーデ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -93,15 +93,15 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "全国高等学校野球選手権栃木大会",
+      "title": "インスタ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "天気 台風",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
+      "title": "WANDS第5期 27年3月活動終了",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_entertainment",
       "topic_category": "hard_fact"
     }
   ],
@@ -111,6 +111,18 @@
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
+    },
+    {
+      "title": "JR大阪駅前にできた「排除アート」に危険では？と批判集まる→たしかに「いけず石」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【大阪市、動く】JR大阪駅前にできた「排除アート」に危険では？と批判集まる→たし",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
       "title": "1日空調効いた屋内にいた結果が熱中症、後遺症セットだったという人の熱中症備忘録が",
@@ -125,46 +137,34 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "熱中症になった人で「水分や塩分摂ったりして気をつけていたんですが」と言う人もいる",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "女性YouTuberが案件詐欺でほぼ全財産を失ったと涙を流す→似たような事例、被",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "米津玄師｜わたしの推薦図書｜SHUEISHA MANGA EXPO -集英社創業",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "東京都、猛暑で男性のハーフパンツ勤務を推奨　女性からは「スネハラ」との声も（BB",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "監視ソフトを全社展開したことがあるけど社用PCを私用に使うのがどれだけ怖いかを実",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "昔の母親は子供と遊ぶことがほとんどなく、専業主婦でも常に掃除や縫い物をしていたが",
+      "title": "前まで夏にブーツ！？と思ってたけどミニスカの時はおしゃれじゃない！？→賛否両論に",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "企業のキャラに性癖を壊されると人生が大変",
+      "title": "ヴァージニア・ウルフ「灯台へ」 - 読書の愉楽",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "春節に知り合いの中国人宅で餃子を包ませてもらった。母親は「餃子は家族と同じ。形が",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「このマインドで生きてたら彼氏に振られた」Xでは\"私を不快にするような人間はどん",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ]
 }
