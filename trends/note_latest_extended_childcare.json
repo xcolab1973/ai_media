@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-07-22T06:40:50+09:00",
+ "generated_at": "2026-07-23T06:45:55+09:00",
  "valid_until": "2026-08-04T16:43:43+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "childcare",
- "total_count": 17,
+ "total_count": 15,
  "merge": {
   "parent": "childcare",
-  "from_current": 18,
+  "from_current": 17,
   "from_new": 0,
-  "expired_pruned": 1,
+  "expired_pruned": 2,
   "retention_dropped": 0,
-  "genres": 3,
+  "genres": 2,
   "retention_per_genre": 8
  },
  "candidates": [
@@ -464,66 +464,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-27T16:45:21+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "学童対策、夏休みや「小1の壁」解消重点 待機は1.7万人",
-   "url": "https://www.nikkei.com/article/DGXZQOUA237E50T21C24A2000000/",
-   "summary": "こども家庭庁が放課後児童クラブの待機児童解消に向けた対策パッケージを策定。夏休み限定で開く「サマー学童」への補助拡充や小学1年生の待機児童解消を重点課題とし、共働き家庭の『小1の壁』緩和を図る方針。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "childcare-primary",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "日本経済新聞",
-    "expert_origin": true,
-    "search_query": "学童保育 待機児童 小1の壁 2026年 夏休み 対策",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-22T11:48:13+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "中学生の家庭でのスマホルールについて（Yahoo!知恵袋 Q&A）",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13325261548",
-   "summary": "「1日何時間までが普通か」など、家庭のスマホ利用時間ルールの妥当性に迷う保護者・子どもからの質問。小学校高学年〜中学の節目で、親子とも『他の家はどうしているか』の相場感がつかめず不安を抱えている様子がうかがえる。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "childcare-primary",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "小学生 夏休み スマホ ルール 知恵袋 悩み",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-22T11:48:13+09:00",
    "validity_days": 14
   }
  ]
