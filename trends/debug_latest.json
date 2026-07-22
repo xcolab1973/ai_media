@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T23:48:00+09:00",
+  "generated_at": "2026-07-23T07:38:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,46 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 8,
-    "passed_total": 116,
+    "neg_excluded": 12,
+    "dedup_excluded": 12,
+    "passed_total": 108,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
-      "x_realtime": 10,
       "google_trends": 10,
-      "news_web": 14,
-      "yahoo_news_ranking": 2
+      "yahoo_news_ranking": 4,
+      "yahoo_realtime": 34,
+      "news_web": 17,
+      "x_realtime": 5
     }
   },
   "note_category_counts": {
-    "personal_story": 2,
-    "social_reaction": 37,
+    "personal_story": 4,
     "opinion": 10,
-    "policy": 6,
-    "medical_science": 5,
-    "hard_fact": 10
+    "social_reaction": 26,
+    "medical_science": 6,
+    "hard_fact": 20,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "personal_story": 2,
-    "social_reaction": 34,
-    "policy": 6,
     "opinion": 10,
-    "hard_fact": 17,
-    "medical_science": 1
+    "hard_fact": 23,
+    "personal_story": 4,
+    "social_reaction": 26,
+    "medical_science": 2,
+    "policy": 5
   },
   "b2b_top10": [
+    {
+      "title": "熱中症特別警戒アラート",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "オンカジ対策 強制遮断を排除せず",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_it",
+      "topic_category": "hard_fact"
+    },
     {
       "title": "案件詐欺で全財産を失いました【注意喚起】｜ネクラのまーちゃろ",
       "source_category": "yahoo_realtime",
@@ -51,58 +63,46 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "JR大阪駅前にできた「排除アート」に危険では？と批判集まる→たしかに「いけず石」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "【大阪市、動く】JR大阪駅前にできた「排除アート」に危険では？と批判集まる→たし",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "1日空調効いた屋内にいた結果が熱中症、後遺症セットだったという人の熱中症備忘録が",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ストーカー加害者にGPS装着案　被害者に接近通知、政府が法整備へ - 日本経済新",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "ファッションブランド『MISAMARU』公式アカウントで公開された、とあるコーデ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "政府、次期マイナンバーカードを2029年度に導入へ　デザイン刷新、券面の記載情報",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "米津玄師｜わたしの推薦図書｜SHUEISHA MANGA EXPO -集英社創業",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "インスタ",
+      "title": "熱中症備忘録｜十夜",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "セブン-イレブン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "WANDS第5期 27年3月活動終了",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_entertainment",
-      "topic_category": "hard_fact"
+      "title": "ドラクエ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "咽頭癌にかかった祖父が声帯を摘出する前、最後だからと名前を呼んでくれたのに、ゲー",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "anaホールディングス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ジョイポリス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
@@ -113,55 +113,55 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "JR大阪駅前にできた「排除アート」に危険では？と批判集まる→たしかに「いけず石」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "熱中症特別警戒アラート",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "【大阪市、動く】JR大阪駅前にできた「排除アート」に危険では？と批判集まる→たし",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "1日空調効いた屋内にいた結果が熱中症、後遺症セットだったという人の熱中症備忘録が",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ファッションブランド『MISAMARU』公式アカウントで公開された、とあるコーデ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "米津玄師｜わたしの推薦図書｜SHUEISHA MANGA EXPO -集英社創業",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "前まで夏にブーツ！？と思ってたけどミニスカの時はおしゃれじゃない！？→賛否両論に",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "熱中症備忘録｜十夜",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ヴァージニア・ウルフ「灯台へ」 - 読書の愉楽",
+      "title": "咽頭癌にかかった祖父が声帯を摘出する前、最後だからと名前を呼んでくれたのに、ゲー",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "アエロフロート東京支店長、ロシアのスパイ報道直後に出国…ウクライナが日本製品の輸",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「このマインドで生きてたら彼氏に振られた」Xでは\"私を不快にするような人間はどん",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "春節に知り合いの中国人宅で餃子を包ませてもらった。母親は「餃子は家族と同じ。形が",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「このマインドで生きてたら彼氏に振られた」Xでは\"私を不快にするような人間はどん",
+      "title": "ウルトラファインバブルの高圧洗浄機にしたら、エアコンとベランダ掃除が捗った【老師",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "ちいかわ公式が出した「2分くらいでわかる予習ムービー」がガチで「ちいかわの世界」",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
