@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T07:38:00+09:00",
+  "generated_at": "2026-07-23T13:57:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 12,
-    "passed_total": 108,
+    "neg_excluded": 9,
+    "dedup_excluded": 13,
+    "passed_total": 110,
     "b2b_category_counts": {
-      "google_trends": 10,
-      "yahoo_news_ranking": 4,
-      "yahoo_realtime": 34,
       "news_web": 17,
-      "x_realtime": 5
+      "yahoo_realtime": 35,
+      "google_trends": 10,
+      "x_realtime": 5,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "personal_story": 4,
-    "opinion": 10,
     "social_reaction": 26,
-    "medical_science": 6,
-    "hard_fact": 20,
-    "policy": 4
+    "personal_story": 5,
+    "opinion": 10,
+    "medical_science": 7,
+    "hard_fact": 17,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "opinion": 10,
-    "hard_fact": 23,
-    "personal_story": 4,
+    "hard_fact": 20,
     "social_reaction": 26,
-    "medical_science": 2,
+    "opinion": 10,
+    "personal_story": 5,
+    "medical_science": 4,
     "policy": 5
   },
   "b2b_top10": [
     {
-      "title": "熱中症特別警戒アラート",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "オンカジ対策 強制遮断を排除せず",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_it",
+      "title": "ミドル脂臭 働き盛り世代の対策",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "案件詐欺で全財産を失いました【注意喚起】｜ネクラのまーちゃろ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "【大阪市、動く】JR大阪駅前にできた「排除アート」に危険では？と批判集まる→たし",
+      "title": "「セルフレジ」万引きにスーパー対応苦慮…「故意」「精算ミス」見分けにくく、被害額",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "熱中症備忘録｜十夜",
+      "title": "ゴンの母親 イックションペ説 【HUNTER×HUNTER考察】｜ちーどる",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "セブン-イレブン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ドラクエ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "咽頭癌にかかった祖父が声帯を摘出する前、最後だからと名前を呼んでくれたのに、ゲー",
+      "title": "3時間以上は100円かかる駐輪場で、小学生の男子3人のうち1人がお金がなくて困っ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "anaホールディングス",
+      "title": "「撮った人の心が映り込んでいる」ダム計画で無くなる岐阜県徳山村の姿を残そうとした",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "都市対抗野球",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ジョイポリス",
+      "title": "高校野球 岡山",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "くじ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "随分前、コンビニで最後のエクレアを取ったら知らない親子に譲ってほしいと言われ「早",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "佐藤琢磨",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
-      "title": "案件詐欺で全財産を失いました【注意喚起】｜ネクラのまーちゃろ",
+      "title": "「セルフレジ」万引きにスーパー対応苦慮…「故意」「精算ミス」見分けにくく、被害額",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「なんで今までこの食べ方してこなかったんだろう」友達の実家で、今までやってこなか",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "熱中症特別警戒アラート",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "【大阪市、動く】JR大阪駅前にできた「排除アート」に危険では？と批判集まる→たし",
+      "title": "ゴンの母親 イックションペ説 【HUNTER×HUNTER考察】｜ちーどる",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "熱中症備忘録｜十夜",
+      "title": "3時間以上は100円かかる駐輪場で、小学生の男子3人のうち1人がお金がなくて困っ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "咽頭癌にかかった祖父が声帯を摘出する前、最後だからと名前を呼んでくれたのに、ゲー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "アエロフロート東京支店長、ロシアのスパイ報道直後に出国…ウクライナが日本製品の輸",
+      "title": "随分前、コンビニで最後のエクレアを取ったら知らない親子に譲ってほしいと言われ「早",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「このマインドで生きてたら彼氏に振られた」Xでは\"私を不快にするような人間はどん",
+      "title": "ワイヤレスイヤホンを装着してランニングした後の帰宅途中、パトカー3台が停まってい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "春節に知り合いの中国人宅で餃子を包ませてもらった。母親は「餃子は家族と同じ。形が",
+      "title": "「撮った人の心が映り込んでいる」ダム計画で無くなる岐阜県徳山村の姿を残そうとした",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ウルトラファインバブルの高圧洗浄機にしたら、エアコンとベランダ掃除が捗った【老師",
+      "title": "PayPayとセブンが顧客データ統合　1億IDで国内最大級のポイント経済圏 - ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "ちいかわ公式が出した「2分くらいでわかる予習ムービー」がガチで「ちいかわの世界」",
+      "title": "子供会の人「すみません、夏休みの工作教室で牛乳パックやラップの芯を集めてまして…",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "寝室にエアコンが付いておらず、サーキュレーターを駆使しても暑い！→あのソリューシ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
