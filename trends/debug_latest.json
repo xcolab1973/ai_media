@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T13:57:00+09:00",
+  "generated_at": "2026-07-23T19:06:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,42 +16,54 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 13,
-    "passed_total": 110,
+    "neg_excluded": 12,
+    "dedup_excluded": 9,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "news_web": 17,
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 31,
       "google_trends": 10,
-      "x_realtime": 5,
-      "yahoo_news_ranking": 3
+      "yahoo_news_ranking": 8,
+      "x_realtime": 8,
+      "news_web": 13
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
-    "personal_story": 5,
+    "social_reaction": 33,
+    "personal_story": 4,
     "opinion": 10,
-    "medical_science": 7,
-    "hard_fact": 17,
-    "policy": 5
+    "medical_science": 5,
+    "hard_fact": 14,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 20,
-    "social_reaction": 26,
+    "social_reaction": 32,
     "opinion": 10,
-    "personal_story": 5,
-    "medical_science": 4,
-    "policy": 5
+    "hard_fact": 18,
+    "policy": 5,
+    "medical_science": 1,
+    "personal_story": 4
   },
   "b2b_top10": [
     {
-      "title": "ミドル脂臭 働き盛り世代の対策",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
+      "title": "男性社員が育休を上限ギリギリまで取得し、育休中に資格を取って転職活動をし、育休終",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "日本サッカー界の門番「JFL」が持つ唯一無二の魅力とは？…人間の生き様が交錯する",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "「セルフレジ」万引きにスーパー対応苦慮…「故意」「精算ミス」見分けにくく、被害額",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【直木賞作家・万城目学氏Ｗ杯コラム番外編】森保日本が少しずつ失っていったアルゼン",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -63,43 +75,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "3時間以上は100円かかる駐輪場で、小学生の男子3人のうち1人がお金がなくて困っ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「撮った人の心が映り込んでいる」ダム計画で無くなる岐阜県徳山村の姿を残そうとした",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "都市対抗野球",
+      "title": "皇室 典範 改正",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "高校野球 岡山",
+      "title": "ドラゴンクエスト",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "くじ",
+      "title": "大東駿介",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "随分前、コンビニで最後のエクレアを取ったら知らない親子に譲ってほしいと言われ「早",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "蔵内勇夫事務所",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "佐藤琢磨",
+      "title": "ポケモン夜マック",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,16 +107,28 @@
   ],
   "note_top10": [
     {
+      "title": "男性社員が育休を上限ギリギリまで取得し、育休中に資格を取って転職活動をし、育休終",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "「セルフレジ」万引きにスーパー対応苦慮…「故意」「精算ミス」見分けにくく、被害額",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「なんで今までこの食べ方してこなかったんだろう」友達の実家で、今までやってこなか",
+      "title": "日本サッカー界の門番「JFL」が持つ唯一無二の魅力とは？…人間の生き様が交錯する",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【直木賞作家・万城目学氏Ｗ杯コラム番外編】森保日本が少しずつ失っていったアルゼン",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "ゴンの母親 イックションペ説 【HUNTER×HUNTER考察】｜ちーどる",
@@ -125,43 +137,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "3時間以上は100円かかる駐輪場で、小学生の男子3人のうち1人がお金がなくて困っ",
+      "title": "【熊本・コンビニ強盗】日本の警察官が拳銃を発砲して相手に当てるのを映した映像って",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "随分前、コンビニで最後のエクレアを取ったら知らない親子に譲ってほしいと言われ「早",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ワイヤレスイヤホンを装着してランニングした後の帰宅途中、パトカー3台が停まってい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「撮った人の心が映り込んでいる」ダム計画で無くなる岐阜県徳山村の姿を残そうとした",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "PayPayとセブンが顧客データ統合　1億IDで国内最大級のポイント経済圏 - ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "子供会の人「すみません、夏休みの工作教室で牛乳パックやラップの芯を集めてまして…",
+      "title": "新人がスマホを録画状態にして席を離れ、自分がいない時の陰口を録音して会社に「イジ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "寝室にエアコンが付いておらず、サーキュレーターを駆使しても暑い！→あのソリューシ",
+      "title": "静岡の猫用かつおぶしを食べた猫がずっと余韻に浸っていてかわいい「まだおいしいみた",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "イギリス人に説明してもらった、現在完了形と過去形の違いのイラスト化が「分かりやす",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「1人だけ外れ値」歴代総理が寝られないのを嘆いたり体を壊したりしているのに、1人",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
