@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T19:06:00+09:00",
+  "generated_at": "2026-07-23T23:55:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,46 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 9,
-    "passed_total": 111,
+    "neg_excluded": 10,
+    "dedup_excluded": 15,
+    "passed_total": 107,
     "b2b_category_counts": {
-      "yahoo_realtime": 31,
+      "yahoo_realtime": 32,
       "google_trends": 10,
-      "yahoo_news_ranking": 8,
-      "x_realtime": 8,
-      "news_web": 13
+      "news_web": 14,
+      "x_realtime": 5,
+      "yahoo_news_ranking": 9
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "personal_story": 4,
-    "opinion": 10,
-    "medical_science": 5,
-    "hard_fact": 14,
-    "policy": 4
+    "social_reaction": 28,
+    "opinion": 9,
+    "personal_story": 2,
+    "medical_science": 3,
+    "hard_fact": 23,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 32,
-    "opinion": 10,
-    "hard_fact": 18,
+    "social_reaction": 28,
+    "hard_fact": 25,
+    "opinion": 9,
     "policy": 5,
     "medical_science": 1,
-    "personal_story": 4
+    "personal_story": 2
   },
   "b2b_top10": [
+    {
+      "title": "JR大阪駅前の“排除アート”について、大阪市議会議員が現地確認&工営所へ確認… ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "漫画『負けヒロインを勝たせたい！！』秋田書店で連載中止＆出版停止で謝罪　作者、編",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "男性社員が育休を上限ギリギリまで取得し、育休中に資格を取って転職活動をし、育休終",
       "source_category": "yahoo_realtime",
@@ -63,43 +75,31 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "テスラ株価",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "仲里依紗",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "日本郵便",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
       "title": "【直木賞作家・万城目学氏Ｗ杯コラム番外編】森保日本が少しずつ失っていったアルゼン",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ゴンの母親 イックションペ説 【HUNTER×HUNTER考察】｜ちーどる",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "皇室 典範 改正",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ドラゴンクエスト",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "大東駿介",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "蔵内勇夫事務所",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ポケモン夜マック",
+      "title": "塩貝健人",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,13 +107,25 @@
   ],
   "note_top10": [
     {
-      "title": "男性社員が育休を上限ギリギリまで取得し、育休中に資格を取って転職活動をし、育休終",
+      "title": "JR大阪駅前の“排除アート”について、大阪市議会議員が現地確認&工営所へ確認… ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "漫画『負けヒロインを勝たせたい！！』秋田書店で連載中止＆出版停止で謝罪　作者、編",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "「セルフレジ」万引きにスーパー対応苦慮…「故意」「精算ミス」見分けにくく、被害額",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "男性社員が育休を上限ギリギリまで取得し、育休中に資格を取って転職活動をし、育休終",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -131,37 +143,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ゴンの母親 イックションペ説 【HUNTER×HUNTER考察】｜ちーどる",
+      "title": "男子中高だった夫が「女の人って温泉で◯◯ちゃんの胸大きい～♡えーそんなことないよ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【熊本・コンビニ強盗】日本の警察官が拳銃を発砲して相手に当てるのを映した映像って",
+      "title": "新宿駅で高所作業している人に「暑い中お疲れ様です！」と思っていたら、思わぬ展開に",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "新人がスマホを録画状態にして席を離れ、自分がいない時の陰口を録音して会社に「イジ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "静岡の猫用かつおぶしを食べた猫がずっと余韻に浸っていてかわいい「まだおいしいみた",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "イギリス人に説明してもらった、現在完了形と過去形の違いのイラスト化が「分かりやす",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「1人だけ外れ値」歴代総理が寝られないのを嘆いたり体を壊したりしているのに、1人",
+      "title": "スマホを転売し自己破産、家を追い出されホームレス、家賃滞納…19歳の生活保護Yo",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
