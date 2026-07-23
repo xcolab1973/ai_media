@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T23:55:00+09:00",
+  "generated_at": "2026-07-24T07:36:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,32 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 15,
-    "passed_total": 107,
+    "neg_excluded": 14,
+    "dedup_excluded": 9,
+    "passed_total": 109,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
+      "yahoo_realtime": 29,
+      "x_realtime": 10,
       "google_trends": 10,
-      "news_web": 14,
-      "x_realtime": 5,
-      "yahoo_news_ranking": 9
+      "yahoo_news_ranking": 8,
+      "news_web": 13
     }
   },
   "note_category_counts": {
     "social_reaction": 28,
-    "opinion": 9,
+    "opinion": 10,
     "personal_story": 2,
     "medical_science": 3,
-    "hard_fact": 23,
-    "policy": 5
+    "hard_fact": 21,
+    "policy": 6
   },
   "b2b_topic_category_counts": {
     "social_reaction": 28,
-    "hard_fact": 25,
-    "opinion": 9,
-    "policy": 5,
-    "medical_science": 1,
-    "personal_story": 2
+    "opinion": 10,
+    "hard_fact": 23,
+    "policy": 6,
+    "personal_story": 2,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
@@ -51,55 +51,55 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "熱中症のおばあさんに遭遇したので涼しい場所に運んで介抱… その後、救急隊員に引き",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "漫画『負けヒロインを勝たせたい！！』秋田書店で連載中止＆出版停止で謝罪　作者、編",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "男性社員が育休を上限ギリギリまで取得し、育休中に資格を取って転職活動をし、育休終",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日本サッカー界の門番「JFL」が持つ唯一無二の魅力とは？…人間の生き様が交錯する",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「セルフレジ」万引きにスーパー対応苦慮…「故意」「精算ミス」見分けにくく、被害額",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "テスラ株価",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "仲里依紗",
+      "title": "モスクワ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "日本郵便",
+      "title": "高橋海人",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "【直木賞作家・万城目学氏Ｗ杯コラム番外編】森保日本が少しずつ失っていったアルゼン",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "野村周平",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "塩貝健人",
+      "title": "秋田市天気",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "米価",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "山形市 天気",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "グッドモーニング",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,31 +113,37 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "熱中症のおばあさんに遭遇したので涼しい場所に運んで介抱… その後、救急隊員に引き",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "漫画『負けヒロインを勝たせたい！！』秋田書店で連載中止＆出版停止で謝罪　作者、編",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「セルフレジ」万引きにスーパー対応苦慮…「故意」「精算ミス」見分けにくく、被害額",
+      "title": "「お前だけ、幸せになりやがって」…同級生に吐き捨てられた大家・山本一郎が立ち尽く",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "男性社員が育休を上限ギリギリまで取得し、育休中に資格を取って転職活動をし、育休終",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "シャチがマンボウに猛スピードで突撃し、爆発四散させる映像が衝撃的すぎる…イタズラ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本サッカー界の門番「JFL」が持つ唯一無二の魅力とは？…人間の生き様が交錯する",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "モスクワ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "【直木賞作家・万城目学氏Ｗ杯コラム番外編】森保日本が少しずつ失っていったアルゼン",
+      "title": "日本、約370兆円の賭け──「未来が最初にやってくる国」は再始動するか | Fo",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -149,19 +155,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "新宿駅で高所作業している人に「暑い中お疲れ様です！」と思っていたら、思わぬ展開に",
+      "title": "理系の就職先は基本的に生産現場で、研究職だとしても一度は工場に回されることが多く",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "新人がスマホを録画状態にして席を離れ、自分がいない時の陰口を録音して会社に「イジ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "スマホを転売し自己破産、家を追い出されホームレス、家賃滞納…19歳の生活保護Yo",
+      "title": "クレーンゲームしてたら、息子が景品をたかる親子に絡まれ断るも、「ごめんねお金無く",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
