@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-23T16:54:58+09:00",
+ "generated_at": "2026-07-24T06:46:34+09:00",
  "valid_until": "2026-08-06T06:36:31+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "auto",
   "from_current": 16,
-  "from_new": 6,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 0,
+  "retention_dropped": 1,
   "genres": 2,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "【2026年】ミニバンおすすめランキング！満足度の高い人気車種",
+   "url": "https://221616.com/car-topics/minivan-recommend/",
+   "summary": "中古車メディアによる2026年版ミニバンおすすめランキング。シエンタが新車販売トップを維持、デリカD:5が2026年1月にマイナーチェンジしS-AWD採用で走行性能向上と紹介。家族人数・用途別の比較が中心で、夏の帰省移動特有の荷室量や車中泊対応など具体的な悩みへの踏み込みは薄い。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "auto-choose-review",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "ガリバー（221616.com）",
+    "expert_origin": true,
+    "search_query": "夏 帰省 車選び ミニバン SUV 何人乗り 選び方 2026",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": true,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-31T06:35:24+09:00",
+   "validity_days": 7
+  },
   {
    "source_category": "news_web",
    "raw_title": "車輪脱落事故 | 自動車 - 国土交通省",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-28T06:36:56+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "タイヤナットの締め忘れをされた体験への相談（Yahoo!知恵袋）",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12183551187",
-   "summary": "新車購入店で部品交換を受けた2日後、走行中にナットの緩みに気づいたという体験談。締め忘れ・増し締め不足への不安が投稿されている。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "auto-choose-review",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "タイヤ交換 増し締め 知恵袋 忘れた 不安",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-27T06:33:47+09:00",
    "validity_days": 7
   },
   {

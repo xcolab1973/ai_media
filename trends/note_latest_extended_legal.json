@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-23T16:54:58+09:00",
- "valid_until": "2026-07-30T16:47:27+09:00",
+ "generated_at": "2026-07-24T06:46:34+09:00",
+ "valid_until": "2026-07-31T06:36:03+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -8,14 +8,44 @@
  "total_count": 37,
  "merge": {
   "parent": "legal",
-  "from_current": 39,
-  "from_new": 6,
-  "expired_pruned": 3,
-  "retention_dropped": 4,
+  "from_current": 37,
+  "from_new": 2,
+  "expired_pruned": 0,
+  "retention_dropped": 2,
   "genres": 5,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "労働基準監督署で、給料未払いの対応はしてもらえますか？",
+   "url": "https://www.vbest.jp/roudoumondai/faq/labor_standard/786/",
+   "summary": "給料未払いは労基署に相談すれば臨検・行政指導や刑事処分につながる可能性があるが、指導に強制力はなく証拠がないと動いてもらえないこともある。夏季賞与の未払いに特化した解説は薄く、賞与固有の請求可否・時効を掘り下げた記事が少ない。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "legal-labor",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "vbest.jp（法律事務所FAQ）",
+    "expert_origin": true,
+    "search_query": "夏季賞与 未払い 相談 労働基準監督署 2026",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": true,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-31T06:36:03+09:00",
+   "validity_days": 7
+  },
   {
    "source_category": "news_web",
    "raw_title": "ボーナスもらってすぐ辞める。注意点を退職代行弁護士が解説",
@@ -228,36 +258,6 @@
   },
   {
    "source_category": "news_web",
-   "raw_title": "ボーナスが支給されたのを確認してすぐ退職代行サービスにお願いして退職しようと考えています。",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12281042427",
-   "summary": "夏のボーナス支給を確認してから退職代行を使って辞めたいという相談。支給日在籍要件やタイミングを誤ると受け取れなくなる不安が背景にある、生の悩み投稿。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "legal-labor",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "夏のボーナス 減額 不満 退職代行 利用 増える 理由",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-27T06:35:55+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
    "raw_title": "インボイス2割特例について。実家の経理を担当していますが終了後どうなるか不安という質問",
    "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13291934818",
    "summary": "2割特例終了後の消費税負担増や取引先からの値引き圧力が続くのではという不安を訴える個人事業主の投稿。制度は知っていても自分の事業でどう変わるか判断できない中小事業者の生の疑問。",
@@ -404,6 +404,36 @@
     "rescued": false
    },
    "valid_until": "2026-07-24T16:49:47+09:00",
+   "validity_days": 7
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "認知症の親を詐欺や訪問販売から守る対策は？事例から相談先まで徹底解説！",
+   "url": "https://trinity-tech.co.jp/oyatoko/column/101/",
+   "summary": "帰省時に実家へ知らない訪問者が来ていないか、不要な契約書や商品がないか確認することが重要。ドアを開ける前に訪問目的を確認し、業者を家に入れず、一人で対応せず家族や近所に同席してもらうことが勧められている。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "legal-consumer",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "おやとこ（trinity-tech.co.jp）",
+    "expert_origin": false,
+    "search_query": "お盆 帰省 訪問販売 悪徳商法 詐欺 高齢者 実家",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-31T06:36:03+09:00",
    "validity_days": 7
   },
   {
@@ -614,36 +644,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-28T06:39:40+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "【プロが解説】旅行需要を狙う詐欺が急増！ “偽予約サイト”にだまされないための3つのチェックポイント",
-   "url": "https://osharetecho.com/column/81724/",
-   "summary": "夏の旅行需要期に偽の予約サイト詐欺が急増。正規URLかどうか、運営会社情報の明記、相場より極端に安い料金、銀行振込限定などの支払い方法という4つの視点で見分けるポイントをプロが解説。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "legal-consumer",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "大人のおしゃれ手帖web",
-    "expert_origin": true,
-    "search_query": "帰省 旅行 予約サイト 偽サイト 詐欺 見分け方 知恵袋",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-27T06:35:55+09:00",
    "validity_days": 7
   },
   {
