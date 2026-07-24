@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T13:53:00+09:00",
+  "generated_at": "2026-07-24T19:00:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,56 +17,68 @@
       "x_realtime": 10
     },
     "neg_excluded": 6,
-    "dedup_excluded": 13,
-    "passed_total": 113,
+    "dedup_excluded": 11,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 30,
-      "news_web": 21,
+      "yahoo_realtime": 34,
+      "x_realtime": 8,
+      "news_web": 15,
       "google_trends": 10,
-      "x_realtime": 5,
-      "yahoo_news_ranking": 4
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "personal_story": 2,
+    "social_reaction": 30,
+    "personal_story": 4,
     "opinion": 10,
-    "medical_science": 5,
-    "hard_fact": 16,
-    "policy": 9
+    "medical_science": 3,
+    "hard_fact": 15,
+    "policy": 8
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 25,
-    "hard_fact": 25,
+    "social_reaction": 29,
+    "hard_fact": 19,
     "opinion": 10,
-    "personal_story": 2,
-    "policy": 7,
-    "medical_science": 1
+    "personal_story": 4,
+    "policy": 6,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "「Pay attention」と「注意を払う」のような「直訳しても意味が変わらな",
+      "title": "卒業制作で旧帝国ホテルをレゴで作った人、帝国ホテル本館での展示が実現…しかも現在",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "世銀、中国への融資を2031年までに段階的に廃止",
+      "title": "カビ対策のため、エアコンをつけっぱなしにして2週間不在にしたら、那覇の借家が水浸",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「全ネット民に読んでほしい」炎上案件にコメントせずにはいられない理由を解説したマ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ちいかわの映画　始まるまで20分かかる",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "吉野家「ドラクエコラボ」転売ヤー対策も、結局「即終了」に追い込まれた根深い理由",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "甲子園7回制より必要な暑さ対策は",
+      "title": "世銀 中国への融資を段階的に廃止",
       "source_category": "news_web",
-      "raw_source_key": "yahoo_news_sports",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
+    },
+    {
+      "title": "［社説］日本はICCを支持し続けよ - 日本経済新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "熱中症のおばあさんに遭遇したので涼しい場所に運んで介抱… その後、救急隊員に引き",
@@ -75,31 +87,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "詐欺",
+      "title": "にじさんじオフィシャルストア",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ロシア",
+      "title": "豊昇龍",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "バスで幼児連れママが「○○で降りるよ！ボタン押してね！」と大声で連呼していたのに",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "杉浦悠太",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "王座戦",
+      "title": "坂祝町",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,19 +107,25 @@
   ],
   "note_top10": [
     {
-      "title": "「Pay attention」と「注意を払う」のような「直訳しても意味が変わらな",
+      "title": "卒業制作で旧帝国ホテルをレゴで作った人、帝国ホテル本館での展示が実現…しかも現在",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "吉野家「ドラクエコラボ」転売ヤー対策も、結局「即終了」に追い込まれた根深い理由",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "カビ対策のため、エアコンをつけっぱなしにして2週間不在にしたら、那覇の借家が水浸",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "世銀、中国への融資を2031年までに段階的に廃止",
+      "title": "「全ネット民に読んでほしい」炎上案件にコメントせずにはいられない理由を解説したマ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ちいかわの映画　始まるまで20分かかる",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -131,40 +137,34 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "「帰りは親戚のお通夜みたいでした！」原作を知らない人が上映中ざわめき、憂鬱な気持",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "［社説］日本はICCを支持し続けよ - 日本経済新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "トイザらス、初の“大人向け玩具専門店”を上野マルイにオープン",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「もうギャンブルと変わらんやん」小学生がポケカの『オリパ』で1等7500円のカー",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
       "title": "森保続投“半年限定”の内幕　いびつな日本代表監督人事を招いた宮本会長の独断と失敗",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "ニトリのキャリーケース5選！1万円以下 機内持ち込みOK 拡張タイプなど - ソ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "バスで幼児連れママが「○○で降りるよ！ボタン押してね！」と大声で連呼していたのに",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "さっき仕事帰りに電車乗ってたら、自分含め周りの女性みんなこれ系の格好でうけた「ラ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「頼むから、自分の人生と他人の命をドブに捨てるような運転はやめてほしい」教習所指",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "昔、実家の猫が脱走した時によく庭に来てた地域猫に「ウチの猫見なかった？」と聞いた",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
     }
   ]
 }
