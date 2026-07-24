@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-24T06:46:34+09:00",
+ "generated_at": "2026-07-24T16:59:33+09:00",
  "valid_until": "2026-08-06T06:35:52+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "biz",
   "from_current": 23,
-  "from_new": 3,
-  "expired_pruned": 1,
-  "retention_dropped": 2,
+  "from_new": 1,
+  "expired_pruned": 0,
+  "retention_dropped": 1,
   "genres": 3,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "ゆうパック、10月1日から値上げへ 基本運賃を平均約10％引き上げ",
+   "url": "https://ascii.jp/elem/000/004/416/4416365/",
+   "summary": "日本郵便は2026年10月1日にゆうパック等の基本運賃を平均約10%改定（サイズ・地域により2〜40%の幅）。ゆうパケットは360円均一、クリックポストは185円→240円。EC事業者は送料設定・利益率の見直しが急務。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "hard_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "biz-ec-shop",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "ASCII.jp",
+    "expert_origin": true,
+    "search_query": "ゆうパック 運賃改定 2026年10月 EC 送料 利益率 見直し",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-07-29T16:44:39+09:00",
+   "validity_days": 5
+  },
   {
    "source_category": "news_web",
    "raw_title": "2026年6月の食品値上げ1,078品目と物流費高騰｜食品EC事業者が夏の値上げラッシュに取るべき対策",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-27T16:45:47+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "日本郵便、2026年10月1日より「ゆうパック」「ゆうパケット」などの基本運賃を改定",
-   "url": "https://netshop.impress.co.jp/n/2026/07/07/16365",
-   "summary": "日本郵便がゆうパックを平均約10%値上げ、ゆうパケットは厚さ区分廃止で一律360円、クリックポストは185円から240円に改定（2026年10月〜）。EC販売に依存する中小事業者は送料設定・利益率の見直しが必須になる。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "hard_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "biz-ec-shop",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "ネットショップ担当者フォーラム",
-    "expert_origin": true,
-    "search_query": "ゆうパック 運賃改定 2026年10月 値上げ EC事業者 送料",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-26T06:39:17+09:00",
    "validity_days": 5
   },
   {
