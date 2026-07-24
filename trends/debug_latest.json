@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T19:00:00+09:00",
+  "generated_at": "2026-07-24T23:28:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,48 +16,48 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 11,
+    "neg_excluded": 5,
+    "dedup_excluded": 12,
     "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
-      "x_realtime": 8,
-      "news_web": 15,
+      "yahoo_realtime": 37,
+      "x_realtime": 6,
       "google_trends": 10,
-      "yahoo_news_ranking": 3
+      "yahoo_news_ranking": 4,
+      "news_web": 13
     }
   },
   "note_category_counts": {
     "social_reaction": 30,
-    "personal_story": 4,
     "opinion": 10,
+    "personal_story": 3,
     "medical_science": 3,
-    "hard_fact": 15,
-    "policy": 8
+    "hard_fact": 19,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "hard_fact": 19,
+    "social_reaction": 30,
     "opinion": 10,
-    "personal_story": 4,
+    "hard_fact": 19,
+    "personal_story": 3,
     "policy": 6,
     "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "卒業制作で旧帝国ホテルをレゴで作った人、帝国ホテル本館での展示が実現…しかも現在",
+      "title": "カビ対策のため、エアコンをつけっぱなしにして2週間不在にしたら、那覇の借家が水浸",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "カビ対策のため、エアコンをつけっぱなしにして2週間不在にしたら、那覇の借家が水浸",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「全ネット民に読んでほしい」炎上案件にコメントせずにはいられない理由を解説したマ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「全ネット民に読んでほしい」炎上案件にコメントせずにはいられない理由を解説したマ",
+      "title": "「反省できるのえらい、100億点すぎる」カフェの共同テーブルで勉強中、女子学生2",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -69,10 +69,16 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "世銀 中国への融資を段階的に廃止",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
+      "title": "卒業制作で旧帝国ホテルをレゴで作った人、帝国ホテル本館での展示が実現…しかも現在",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "tシャツが乾くまで",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "［社説］日本はICCを支持し続けよ - 日本経済新聞",
@@ -81,25 +87,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "熱中症のおばあさんに遭遇したので涼しい場所に運んで介抱… その後、救急隊員に引き",
+      "title": "trực tiếp bóng đá hôm nay",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「国内旅行は国内サイトを使ってください」現役ホテルマンから国内の宿泊予約に対して",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "にじさんじオフィシャルストア",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "豊昇龍",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "坂祝町",
+      "title": "f c 大阪",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,19 +107,19 @@
   ],
   "note_top10": [
     {
-      "title": "卒業制作で旧帝国ホテルをレゴで作った人、帝国ホテル本館での展示が実現…しかも現在",
+      "title": "カビ対策のため、エアコンをつけっぱなしにして2週間不在にしたら、那覇の借家が水浸",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "カビ対策のため、エアコンをつけっぱなしにして2週間不在にしたら、那覇の借家が水浸",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「全ネット民に読んでほしい」炎上案件にコメントせずにはいられない理由を解説したマ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「全ネット民に読んでほしい」炎上案件にコメントせずにはいられない理由を解説したマ",
+      "title": "「反省できるのえらい、100億点すぎる」カフェの共同テーブルで勉強中、女子学生2",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -131,15 +131,27 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "熱中症のおばあさんに遭遇したので涼しい場所に運んで介抱… その後、救急隊員に引き",
+      "title": "卒業制作で旧帝国ホテルをレゴで作った人、帝国ホテル本館での展示が実現…しかも現在",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「帰りは親戚のお通夜みたいでした！」原作を知らない人が上映中ざわめき、憂鬱な気持",
+      "title": "「国内旅行は国内サイトを使ってください」現役ホテルマンから国内の宿泊予約に対して",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「日本は昔はもっと涼しかった！！！」←ほんとぉ？",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "旅行のとき靴は一足で行きたい派なんだけど、ワンピースにもデニムにも合いつつ200",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -149,19 +161,7 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "トイザらス、初の“大人向け玩具専門店”を上野マルイにオープン",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「もうギャンブルと変わらんやん」小学生がポケカの『オリパ』で1等7500円のカー",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "森保続投“半年限定”の内幕　いびつな日本代表監督人事を招いた宮本会長の独断と失敗",
+      "title": "「帰りは親戚のお通夜みたいでした！」原作を知らない人が上映中ざわめき、憂鬱な気持",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
