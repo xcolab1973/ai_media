@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-24T16:59:32+09:00",
- "valid_until": "2026-08-06T06:36:31+09:00",
+ "generated_at": "2026-07-25T06:52:04+09:00",
+ "valid_until": "2026-08-08T06:38:20+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "auto",
   "from_current": 16,
-  "from_new": 1,
+  "from_new": 2,
   "expired_pruned": 0,
-  "retention_dropped": 0,
+  "retention_dropped": 2,
   "genres": 2,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "中古車の買い替え時の流れについて初めて車を買い替える予定ですが...",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11288652021",
+   "summary": "初めて車を買い替える人が手続きの流れや決め手が分からず迷っている質問。走行距離・維持費・下取り価格など複数要素が絡み判断が止まりやすい実例。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "auto-choose-review",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "中古車 買い替え 決め手 迷う 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-01T06:38:20+09:00",
+   "validity_days": 7
+  },
   {
    "source_category": "news_web",
    "raw_title": "【2026年】ミニバンおすすめランキング！満足度の高い人気車種",
@@ -228,16 +258,16 @@
   },
   {
    "source_category": "news_web",
-   "raw_title": "車検切れに気づいたのですがまず何からしたら良いでしょうか？助けてください",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14299421469",
-   "summary": "車検が切れていることに気づき、車検の仕組み自体を知らないまま慌てて対処法を調べている質問者の投稿。帰省や長距離移動前に車の状態確認を怠るとどうなるかという生の不安が見える。",
+   "raw_title": "バイクのことで初回点検を忘れてました。50日も過ぎ、100...",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12162511262",
+   "summary": "バイクの初回点検を忘れて50日・100km以上経過してしまった人の不安相談。点検タイミングを見失いがちな初心者の実例。",
    "signal_type": "evergreen",
    "engagement_signal": false,
    "approx_traffic": "100+",
    "preliminary_claim_type": "opinion",
    "relevance_to_niche": "high",
    "topic_category": null,
-   "primary_genre": "auto-choose-review",
+   "primary_genre": "auto-bike",
    "karte_matched_category": null,
    "karte_aligned": false,
    "account_id": "default",
@@ -245,7 +275,7 @@
    "provenance": {
     "source_name": "Yahoo!知恵袋",
     "expert_origin": false,
-    "search_query": "車検切れ 動かせない 焦ってる 知恵袋",
+    "search_query": "バイク ツーリング 出発前 点検 忘れ 不安 知恵袋",
     "freshness": "evergreen",
     "integrity_warning": null,
     "provenance_kind": "pain_seed",
@@ -253,8 +283,8 @@
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-07-28T06:36:56+09:00",
-   "validity_days": 7
+   "valid_until": "2026-08-08T06:38:20+09:00",
+   "validity_days": 14
   },
   {
    "source_category": "news_web",
@@ -459,36 +489,6 @@
     "freshness": "fresh",
     "integrity_warning": null,
     "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-02T06:35:36+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "原付免許で125ccバイク解禁へ「新基準原付」ついに始動！でも油断すると…",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12321457037",
-   "summary": "新基準原付の解禁について、結局自分がどのバイクに乗れるのか分からず混乱している読者の生の質問。制度の複雑さから来る不安がそのまま可視化されている。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "auto-bike",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "新基準原付 125cc 免許 知恵袋 勘違い",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
     "opportunity_gap": false,
     "discovered_angle": null,
     "rescued": false

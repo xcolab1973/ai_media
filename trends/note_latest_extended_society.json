@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-24T16:59:33+09:00",
+ "generated_at": "2026-07-25T06:52:05+09:00",
  "valid_until": "2026-08-07T16:56:19+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "society",
   "from_current": 48,
-  "from_new": 4,
+  "from_new": 2,
   "expired_pruned": 0,
-  "retention_dropped": 4,
+  "retention_dropped": 2,
   "genres": 6,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "＜社説＞外国人技能実習 人権を尊重した制度に",
+   "url": "https://www.tokyo-np.co.jp/article/244939",
+   "summary": "東京新聞社説。技能実習制度で賃金不払いや人権侵害の報告が相次ぎ、失踪者数も高止まりしていた経緯を踏まえ、育成就労制度への移行にあたり人権配慮を求める論説。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "society-issue",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "東京新聞",
+    "expert_origin": true,
+    "search_query": "技能実習制度 廃止 理由 人権問題 失踪",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-01T06:49:08+09:00",
+   "validity_days": 7
+  },
   {
    "source_category": "news_web",
    "raw_title": "日本のジェンダーギャップ指数は上がっても…女性活躍は全く道半ば",
@@ -228,24 +258,24 @@
   },
   {
    "source_category": "news_web",
-   "raw_title": "民間企業の法定雇用率 2.3%⇒2.5%⇒2.7%（対象事業主範囲の拡大）",
-   "url": "https://www.mhlw.go.jp/content/001064502.pdf",
-   "summary": "2026年7月から障害者法定雇用率が2.5%から2.7%へ引き上げ。対象事業主の範囲も従業員40人以上から37.5人以上に拡大され、新たに義務対象となる中小企業が増える。",
+   "raw_title": "【1分解説】政府のインテリジェンス体制の再編とは？（国家情報局・国家情報会議構想）",
+   "url": "https://www.dlri.co.jp/report/ld/582749.html",
+   "summary": "第一生命経済研究所の解説レポート。国家情報局・国家情報会議構想の狙いを、既存の縦割り情報収集体制の課題と絡めて短く整理。一般読者向けに背景を平易に解説。",
    "signal_type": "trend",
    "engagement_signal": false,
    "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
+   "preliminary_claim_type": "soft_fact",
    "relevance_to_niche": "high",
    "topic_category": null,
-   "primary_genre": "society-issue",
+   "primary_genre": "society-news-explainer",
    "karte_matched_category": null,
    "karte_aligned": false,
    "account_id": "default",
    "origin": "pre_collector_extended",
    "provenance": {
-    "source_name": "厚生労働省",
+    "source_name": "第一生命経済研究所",
     "expert_origin": true,
-    "search_query": "障害者雇用率 2.7% 引き上げ 中小企業 対応",
+    "search_query": "国家情報局 内閣情報調査室 改組 2026年8月 わかりやすく解説",
     "freshness": "fresh",
     "integrity_warning": null,
     "provenance_kind": "evidence",
@@ -253,8 +283,8 @@
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-07-26T06:45:31+09:00",
-   "validity_days": 7
+   "valid_until": "2026-07-30T06:49:08+09:00",
+   "validity_days": 5
   },
   {
    "source_category": "news_web",
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-28T06:44:58+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "国家情報局の設置法案、衆院内閣委員会で可決",
-   "url": "https://www.nikkei.com/article/DGXZQOUA224Y10S6A420C2000000/",
-   "summary": "国家情報局の設置法案が衆院内閣委員会で可決されたと報じる一次報道。内閣情報調査室を格上げし対外情報機能と省庁横断の情報集約機能を担わせる内容を伝える。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "hard_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "society-news-explainer",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "日本経済新聞",
-    "expert_origin": true,
-    "search_query": "国家情報局 国家情報会議 発足 解説 2026年",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-27T06:39:43+09:00",
    "validity_days": 5
   },
   {
