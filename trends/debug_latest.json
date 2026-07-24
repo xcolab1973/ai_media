@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T07:36:00+09:00",
+  "generated_at": "2026-07-24T13:53:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 14,
-    "dedup_excluded": 9,
-    "passed_total": 109,
+    "neg_excluded": 6,
+    "dedup_excluded": 13,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 29,
-      "x_realtime": 10,
+      "yahoo_realtime": 30,
+      "news_web": 21,
       "google_trends": 10,
-      "yahoo_news_ranking": 8,
-      "news_web": 13
+      "x_realtime": 5,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
     "social_reaction": 28,
-    "opinion": 10,
     "personal_story": 2,
-    "medical_science": 3,
-    "hard_fact": 21,
-    "policy": 6
+    "opinion": 10,
+    "medical_science": 5,
+    "hard_fact": 16,
+    "policy": 9
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
+    "social_reaction": 25,
+    "hard_fact": 25,
     "opinion": 10,
-    "hard_fact": 23,
-    "policy": 6,
     "personal_story": 2,
+    "policy": 7,
     "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "JR大阪駅前の“排除アート”について、大阪市議会議員が現地確認&工営所へ確認… ",
+      "title": "「Pay attention」と「注意を払う」のような「直訳しても意味が変わらな",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "世銀、中国への融資を2031年までに段階的に廃止",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "吉野家「ドラクエコラボ」転売ヤー対策も、結局「即終了」に追い込まれた根深い理由",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "甲子園7回制より必要な暑さ対策は",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_sports",
+      "topic_category": "hard_fact"
     },
     {
       "title": "熱中症のおばあさんに遭遇したので涼しい場所に運んで介抱… その後、救急隊員に引き",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "漫画『負けヒロインを勝たせたい！！』秋田書店で連載中止＆出版停止で謝罪　作者、編",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "モスクワ",
+      "title": "詐欺",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "高橋海人",
+      "title": "ロシア",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "野村周平",
+      "title": "バスで幼児連れママが「○○で降りるよ！ボタン押してね！」と大声で連呼していたのに",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "杉浦悠太",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "秋田市天気",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "米価",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "山形市 天気",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "グッドモーニング",
+      "title": "王座戦",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +107,64 @@
   ],
   "note_top10": [
     {
-      "title": "JR大阪駅前の“排除アート”について、大阪市議会議員が現地確認&工営所へ確認… ",
+      "title": "「Pay attention」と「注意を払う」のような「直訳しても意味が変わらな",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "吉野家「ドラクエコラボ」転売ヤー対策も、結局「即終了」に追い込まれた根深い理由",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "世銀、中国への融資を2031年までに段階的に廃止",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "熱中症のおばあさんに遭遇したので涼しい場所に運んで介抱… その後、救急隊員に引き",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "漫画『負けヒロインを勝たせたい！！』秋田書店で連載中止＆出版停止で謝罪　作者、編",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「お前だけ、幸せになりやがって」…同級生に吐き捨てられた大家・山本一郎が立ち尽く",
+      "title": "森保続投“半年限定”の内幕　いびつな日本代表監督人事を招いた宮本会長の独断と失敗",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "シャチがマンボウに猛スピードで突撃し、爆発四散させる映像が衝撃的すぎる…イタズラ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "モスクワ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "日本、約370兆円の賭け──「未来が最初にやってくる国」は再始動するか | Fo",
+      "title": "ニトリのキャリーケース5選！1万円以下 機内持ち込みOK 拡張タイプなど - ソ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "男子中高だった夫が「女の人って温泉で◯◯ちゃんの胸大きい～♡えーそんなことないよ",
+      "title": "バスで幼児連れママが「○○で降りるよ！ボタン押してね！」と大声で連呼していたのに",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "理系の就職先は基本的に生産現場で、研究職だとしても一度は工場に回されることが多く",
+      "title": "さっき仕事帰りに電車乗ってたら、自分含め周りの女性みんなこれ系の格好でうけた「ラ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "クレーンゲームしてたら、息子が景品をたかる親子に絡まれ断るも、「ごめんねお金無く",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「頼むから、自分の人生と他人の命をドブに捨てるような運転はやめてほしい」教習所指",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "昔、実家の猫が脱走した時によく庭に来てた地域猫に「ウチの猫見なかった？」と聞いた",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     }
   ]
 }
