@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T13:49:00+09:00",
+  "generated_at": "2026-07-25T18:21:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
+    "neg_excluded": 10,
     "dedup_excluded": 16,
-    "passed_total": 108,
+    "passed_total": 106,
     "b2b_category_counts": {
-      "news_web": 20,
       "yahoo_realtime": 31,
       "google_trends": 10,
-      "yahoo_news_ranking": 4,
-      "x_realtime": 5
+      "yahoo_news_ranking": 5,
+      "x_realtime": 4,
+      "news_web": 20
     }
   },
   "note_category_counts": {
-    "social_reaction": 27,
-    "personal_story": 3,
+    "social_reaction": 22,
     "opinion": 10,
-    "policy": 6,
-    "hard_fact": 23,
-    "medical_science": 1
+    "medical_science": 4,
+    "personal_story": 2,
+    "hard_fact": 25,
+    "policy": 7
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 23,
-    "social_reaction": 27,
-    "policy": 6,
+    "social_reaction": 22,
     "opinion": 10,
-    "medical_science": 1,
-    "personal_story": 3
+    "medical_science": 3,
+    "hard_fact": 25,
+    "policy": 8,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "酷暑屋外でハンディファン  注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "夏休み 子供のスマホトラブル注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "「カイジの和也役に亀梨和也をキャスティングしたの誰だよ、国民栄誉賞与えろ！」漫画",
+      "title": "「もう限界です」「儲けもなく趣味でラーメン作ってる状態です」→あるラーメン屋の切",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "高市早苗首相が目指す「富国強兵」　支持率低下も織り込み済みか | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "真夏でもクーラーをつけない祖父母にいくら説得しても「身体に悪いし暑くない」と聞く",
+      "title": "注文した覚えのないワイシャツが佐川を通してAmazonから届いた…「最近注文した",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「高校野球はお返ししていいかも」と阪神電鉄重鎮　猛暑で熱中症続出、夏の甲子園も岐",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "冷感ポンチョっていうやつを買って試しに水で濡らしてから灼熱の中を歩いてみたら「こ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "桑名市",
+      "title": "日曜劇場 vivant",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "日本ハム 対 楽天",
+      "title": "あおにしき",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "meta",
+      "title": "熱海富士",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ガンで緩和治療中の義祖父が「白いかき氷が食べたい」と言うので「そんなのどこにある",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "東京の若者が村へ2週間滞在しにやって来たが、ウーバーを使うつもりが配達エリア外…",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "停電情報",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "大阪 花火",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "和田アキ子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,13 +107,19 @@
   ],
   "note_top10": [
     {
-      "title": "「高校野球はお返ししていいかも」と阪神電鉄重鎮　猛暑で熱中症続出、夏の甲子園も岐",
+      "title": "「もう限界です」「儲けもなく趣味でラーメン作ってる状態です」→あるラーメン屋の切",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「カイジの和也役に亀梨和也をキャスティングしたの誰だよ、国民栄誉賞与えろ！」漫画",
+      "title": "注文した覚えのないワイシャツが佐川を通してAmazonから届いた…「最近注文した",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東京の若者が村へ2週間滞在しにやって来たが、ウーバーを使うつもりが配達エリア外…",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,46 +131,40 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "冷感ポンチョっていうやつを買って試しに水で濡らしてから灼熱の中を歩いてみたら「こ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "小2息子がJRの「改札から出なければ初乗り運賃で一筆書きで丸一日首都圏の路線に乗",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "富士山頂のコーラが600円する投稿が話題になり、山小屋の主が「輸送コストや維持費",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「夫が買ってきた安いラップを使ってみたマンガ」猛烈に嫌な予感がするが、結果は…？",
+      "title": "ベランダに置かれたメダカの水槽にとんでもないものが現れた「想像をはるかに超えてき",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "猫が水を飲むたびに「えらいね〜」と声掛けするようにしていたら、猫が学習して「水を",
+      "title": "彬子さま 大英博物館展の開会式に 東京 上野 | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "スイスの公共放送のアーカイブ動画、鉄道での作業シーンで思わず声が出た「待て待て待",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "知り合いのオッサンが有休を取って、リゾート地に旅行してきたが、「昔見た、偏屈な文",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "畑の肥料の香りが漂ってきて顔のパーツがぜんぶギュッと真ん中に集まってしまった秋田",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "｢この仕事1本では食べていけない｣…直木賞作家･角田光代が50代でパソコン教室に",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "日曜劇場 vivant",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "あおにしき",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
