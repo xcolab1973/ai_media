@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-24T16:59:33+09:00",
- "valid_until": "2026-08-07T06:36:43+09:00",
+ "generated_at": "2026-07-25T16:58:10+09:00",
+ "valid_until": "2026-08-08T16:47:53+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "childcare",
   "from_current": 16,
-  "from_new": 4,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 0,
+  "retention_dropped": 1,
   "genres": 2,
   "retention_per_genre": 8
  },
@@ -258,6 +258,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "【酷暑でもぐっすり】眠れない赤ちゃんが寝てくれるためのワザ6選【専門家解説】",
+   "url": "https://news.yahoo.co.jp/expert/articles/98d37742fd7be92e876f7626a8667b31d6f3d712",
+   "summary": "乳幼児睡眠コンサルタント監修のYahoo!ニュースエキスパート記事。酷暑期に赤ちゃんが眠れない原因と対策を紹介。エアコン設定温度の目安、冷気の当て方、背中・お腹での体温チェックなど夜泣き対策の具体策を専門家が解説。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "safety_claim",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "childcare-newborn",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!ニュース エキスパート（ねんねママ）",
+    "expert_origin": true,
+    "search_query": "赤ちゃん 夜泣き 夏 エアコン 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-08T16:47:53+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "【2026年最新】子どもの暑さ対策アイテムまとめ｜去年売り切れてた人気グッズも！",
    "url": "https://ameblo.jp/hiyokomama-life/entry-12965971583.html",
    "summary": "4歳児のママが自身の体験から選んだ暑さ対策アイテムを紹介するブログ。人気グッズが売り切れる前に準備したいという実感がにじむ内容で、帰省や外出時の暑さ対策への不安がうかがえる。",
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-31T16:45:10+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "産後のこころの健康",
-   "url": "https://www.pref.miyagi.jp/site/kosodate/stage-shussan02.html",
-   "summary": "宮城県公式サイト。産後うつは出産後数週間〜産後3〜6カ月以内に発症しやすく、気分の落ち込み・不眠・食欲不振・赤ちゃんへの愛情が持てない等の状態が2週間以上続く場合は受診の目安。エジンバラ産後うつ病質問票（EPDS）でのセルフチェックや、いきなり精神科でなく身近な自治体の相談窓口も使えると案内。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "safety_claim",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "childcare-newborn",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "宮城県",
-    "expert_origin": true,
-    "search_query": "産後うつ サイン チェック 新生児 育児 いつまで 相談窓口",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-29T16:47:06+09:00",
    "validity_days": 14
   }
  ]
