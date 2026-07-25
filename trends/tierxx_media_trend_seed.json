@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-07-25T07:35:50+0900",
+    "generated_at": "2026-07-25T14:29:01+0900",
     "record_count": 44,
-    "source_total_in_db": 642,
+    "source_total_in_db": 644,
     "provenance_breakdown": {
-      "evidence": 394,
+      "evidence": 396,
       "pain_seed": 248
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_a060c85d2c5f",
+      "trend_term": "再生医療の臨床応用",
+      "raw_title": "たばこで傷ついた肺を「再生」へ 東京慈恵会医大がCOPD向け新薬開発へ前進 - 東京報道新聞",
+      "summary": "東京慈恵会医大がCOPD向け再生医療新薬開発に前進。美容医療と異分野の再生医療研究の最新動向を示す事例。",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNQXphc1pPM1hnSGdDalRUbkZPcUV4QkxEbDhwWEYzWUlXdXplZldDT3JLTFpCR1AzVFR5TUtxdlVDY0NKU1hPMjlQRDhBai14a2Rv?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNQXphc1pPM1hnSGdDalRUbkZPcUV4QkxEbDhwWEYzWUlXdXplZldDT3JLTFpCR1AzVFR5TUtxdlVDY0NKU1hPMjlQRDhBai14a2Rv?oc=5",
+      "source_name": "東京報道新聞",
+      "monitor_id": "bm-regen-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-07-30T14:28:51+0900",
+      "status": "candidate",
+      "created_at": "2026-07-25T14:28:51+0900"
+    },
+    {
+      "seed_id": "seed_b3ba98d826b7",
+      "trend_term": "美容×再生医療の制度",
+      "raw_title": "「美容×再生医療」の制度逸脱 - 集中出版",
+      "summary": "美容と再生医療の組み合わせにおける制度的課題について論じた記事。医療規制との関係性を理解する上で重要。",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1STHhCOGlYdElJRExYeXFXLVNsS2VFWUd2YzN2YjFCSHdXZ0FwZHhmN09IZ25nZ1owTF9tSHp4b0xWcWNEYmtCbU5QNzNmY2ZRbmloZUxKVmdwV2psaGQ2amc5ejIyUlJvTU9V?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1STHhCOGlYdElJRExYeXFXLVNsS2VFWUd2YzN2YjFCSHdXZ0FwZHhmN09IZ25nZ1owTF9tSHp4b0xWcWNEYmtCbU5QNzNmY2ZRbmloZUxKVmdwV2psaGQ2amc5ejIyUlJvTU9V?oc=5",
+      "source_name": "集中出版",
+      "monitor_id": "bm-regen-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-07-30T14:28:51+0900",
+      "status": "candidate",
+      "created_at": "2026-07-25T14:28:51+0900"
+    },
     {
       "seed_id": "seed_f598f0cad22e",
       "trend_term": "ステマ規制対策・SNS運用",
@@ -337,24 +373,6 @@
       "created_at": "2026-07-23T19:00:43+0900"
     },
     {
-      "seed_id": "seed_be713206c6a9",
-      "trend_term": "エクソソーム美容液",
-      "raw_title": "再生医療×美容皮膚科学の融合。テルース製薬から、独自浸透技術「NUC」とエクソソームを凝縮した次世代セラム『METOS - ニコニコニュース",
-      "summary": "テルース製薬が独自浸透技術「NUC」とエクソソームを配合した次世代セラム『METOS』を開発。再生医療と美容皮膚科学の融合を実現。",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Cbmpnbkg0MUI2Q1VYS01OX2RtelZGQUVnVzhNLTNFdnBsbEdIZDJPcmxyZURRWk9LY2ppU3FqZ0FvSHV4VmhPakpDYWNiNG5JSE12Tw?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Cbmpnbkg0MUI2Q1VYS01OX2RtelZGQUVnVzhNLTNFdnBsbEdIZDJPcmxyZURRWk9LY2ppU3FqZ0FvSHV4VmhPakpDYWNiNG5JSE12Tw?oc=5",
-      "source_name": "ニコニコニュース",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-07-28T19:00:31+0900",
-      "status": "candidate",
-      "created_at": "2026-07-23T19:00:31+0900"
-    },
-    {
       "seed_id": "seed_0a7f74d16c2e",
       "trend_term": "男性包茎自覚率調査",
       "raw_title": "男性の56%が「自分は包茎」と自覚–SNSライブ最大1,693名の本音調査｜PRO CLINIC二瓶ライブ620日 - 宮崎日日新聞",
@@ -425,24 +443,6 @@
       "valid_until": "2026-07-28T14:39:09+0900",
       "status": "candidate",
       "created_at": "2026-07-23T14:39:09+0900"
-    },
-    {
-      "seed_id": "seed_0ccd1d0bae72",
-      "trend_term": "エクソソーム肌再生",
-      "raw_title": "【肌再生医療】話題のエクソソームも導入！肌再生医療ができること Rangers Vs Hibernian (vxgnFEKefJ) - Mshale",
-      "summary": "エクソソームを導入した肌再生医療の具体的な効果や可能性について、読者の関心を反映した角度の記事",
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42czBMZjB4U1B3d2N6OEtXNGJtSlIzVVlqTGVVVzlKREJWWW50QTNKRnJjYjI1Zkp0WkZpRmpNWk9nNDh0YXVMM0ZXVjFUYnRyNjlBd05Ed0RJV28?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42czBMZjB4U1B3d2N6OEtXNGJtSlIzVVlqTGVVVzlKREJWWW50QTNKRnJjYjI1Zkp0WkZpRmpNWk9nNDh0YXVMM0ZXVjFUYnRyNjlBd05Ed0RJV28?oc=5",
-      "source_name": "Mshale",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-07-28T07:34:21+0900",
-      "status": "candidate",
-      "created_at": "2026-07-23T07:34:21+0900"
     },
     {
       "seed_id": "seed_04894114bcbd",
