@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T07:39:00+09:00",
+  "generated_at": "2026-07-25T13:49:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,35 +16,48 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 4,
-    "dedup_excluded": 8,
-    "passed_total": 120,
+    "neg_excluded": 8,
+    "dedup_excluded": 16,
+    "passed_total": 108,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
+      "news_web": 20,
+      "yahoo_realtime": 31,
       "google_trends": 10,
-      "x_realtime": 10,
-      "yahoo_news_ranking": 2,
-      "news_web": 11
+      "yahoo_news_ranking": 4,
+      "x_realtime": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 36,
-    "personal_story": 2,
+    "social_reaction": 27,
+    "personal_story": 3,
     "opinion": 10,
-    "policy": 5,
-    "hard_fact": 16,
+    "policy": 6,
+    "hard_fact": 23,
     "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 36,
+    "hard_fact": 23,
+    "social_reaction": 27,
     "policy": 6,
     "opinion": 10,
-    "personal_story": 2,
-    "hard_fact": 16
+    "medical_science": 1,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "「高校野球はお返ししていいかも」と阪神電鉄重鎮　猛暑で熱中症続出、夏の甲子園も岐",
+      "title": "酷暑屋外でハンディファン  注意",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "夏休み 子供のスマホトラブル注意",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "「カイジの和也役に亀梨和也をキャスティングしたの誰だよ、国民栄誉賞与えろ！」漫画",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -56,49 +69,37 @@
       "topic_category": "policy"
     },
     {
-      "title": "「反省できるのえらい、100億点すぎる」カフェの共同テーブルで勉強中、女子学生2",
+      "title": "真夏でもクーラーをつけない祖父母にいくら説得しても「身体に悪いし暑くない」と聞く",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "卒業制作で旧帝国ホテルをレゴで作った人、帝国ホテル本館での展示が実現…しかも現在",
+      "title": "「高校野球はお返ししていいかも」と阪神電鉄重鎮　猛暑で熱中症続出、夏の甲子園も岐",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "［社説］日本はICCを支持し続けよ - 日本経済新聞",
+      "title": "冷感ポンチョっていうやつを買って試しに水で濡らしてから灼熱の中を歩いてみたら「こ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "メッツ 対 ドジャース",
+      "title": "桑名市",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "断水",
+      "title": "日本ハム 対 楽天",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ちいかわの映画　始まるまで20分かかる",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "オリオールズ 対 ブレーブス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "レイズ 対 ガーディアンズ",
+      "title": "meta",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -112,58 +113,58 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「反省できるのえらい、100億点すぎる」カフェの共同テーブルで勉強中、女子学生2",
+      "title": "「カイジの和也役に亀梨和也をキャスティングしたの誰だよ、国民栄誉賞与えろ！」漫画",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "卒業制作で旧帝国ホテルをレゴで作った人、帝国ホテル本館での展示が実現…しかも現在",
+      "title": "真夏でもクーラーをつけない祖父母にいくら説得しても「身体に悪いし暑くない」と聞く",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ちいかわの映画　始まるまで20分かかる",
+      "title": "冷感ポンチョっていうやつを買って試しに水で濡らしてから灼熱の中を歩いてみたら「こ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "［社説］日本はICCを支持し続けよ - 日本経済新聞",
+      "title": "小2息子がJRの「改札から出なければ初乗り運賃で一筆書きで丸一日首都圏の路線に乗",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「副首都構想」関連法が参院本会議で成立…付帯決議合意、野党が採決応じる",
+      "title": "富士山頂のコーラが600円する投稿が話題になり、山小屋の主が「輸送コストや維持費",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "旅行のとき靴は一足で行きたい派なんだけど、ワンピースにもデニムにも合いつつ200",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【憲法９条】改憲案は何のためか？ どこへ向かうのか？ 西川美和さんと木村草太さん",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ミリしらなので映画「ちいかわ」とコンビニのコラボ商品は既存商品にこじつけた商品と",
+      "title": "「夫が買ってきた安いラップを使ってみたマンガ」猛烈に嫌な予感がするが、結果は…？",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "映画「ちいかわ」の上映終わりに館内が明るくなったら6歳くらいの子が悲しそうに声を",
+      "title": "猫が水を飲むたびに「えらいね〜」と声掛けするようにしていたら、猫が学習して「水を",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "知り合いのオッサンが有休を取って、リゾート地に旅行してきたが、「昔見た、偏屈な文",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
+    },
+    {
+      "title": "｢この仕事1本では食べていけない｣…直木賞作家･角田光代が50代でパソコン教室に",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ]
 }
