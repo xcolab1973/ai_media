@@ -1,47 +1,45 @@
 {
-  "generated_at": "2026-07-25T18:21:00+09:00",
+  "generated_at": "2026-07-25T23:22:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
     "yahoo_realtime": "ok",
-    "x_realtime": "ok",
+    "x_realtime": "error",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
-      "x_realtime": 10
+      "yahoo_realtime": 40
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 16,
-    "passed_total": 106,
+    "neg_excluded": 8,
+    "dedup_excluded": 7,
+    "passed_total": 107,
     "b2b_category_counts": {
-      "yahoo_realtime": 31,
+      "yahoo_realtime": 36,
       "google_trends": 10,
       "yahoo_news_ranking": 5,
-      "x_realtime": 4,
-      "news_web": 20
+      "news_web": 19
     }
   },
   "note_category_counts": {
-    "social_reaction": 22,
+    "social_reaction": 21,
     "opinion": 10,
-    "medical_science": 4,
-    "personal_story": 2,
-    "hard_fact": 25,
-    "policy": 7
+    "personal_story": 1,
+    "medical_science": 5,
+    "policy": 7,
+    "hard_fact": 26
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 22,
+    "social_reaction": 21,
     "opinion": 10,
-    "medical_science": 3,
-    "hard_fact": 25,
-    "policy": 8,
-    "personal_story": 2
+    "hard_fact": 27,
+    "policy": 7,
+    "medical_science": 4,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
@@ -51,55 +49,55 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "注文した覚えのないワイシャツが佐川を通してAmazonから届いた…「最近注文した",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日曜劇場 vivant",
+      "title": "エリック・ラウアー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "あおにしき",
+      "title": "クラブ親善試合",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "熱海富士",
+      "title": "将来戦闘機",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ガンで緩和治療中の義祖父が「白いかき氷が食べたい」と言うので「そんなのどこにある",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "東京の若者が村へ2週間滞在しにやって来たが、ウーバーを使うつもりが配達エリア外…",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "停電情報",
+      "title": "エンソ フェルナンデス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "大阪 花火",
+      "title": "風呂",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "和田アキ子",
+      "title": "堀田真由",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "小久保 裕紀",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "浅田真央",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "cb500",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,27 +111,51 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "注文した覚えのないワイシャツが佐川を通してAmazonから届いた…「最近注文した",
+      "title": "婚活の調子を訊かれた時にぼちぼちと答えたら「コミュニケーションをユーモアに頼って",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "東京の若者が村へ2週間滞在しにやって来たが、ウーバーを使うつもりが配達エリア外…",
+      "title": "はてなの11億円流出事件の報告書が生々しい…狙われた経理部長の判断ミスだけでなく",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "真夏でもクーラーをつけない祖父母にいくら説得しても「身体に悪いし暑くない」と聞く",
+      "title": "「東京に人や金が集中」副首都法成立で東京都、地方の一部からの「東京悪者論」加速を",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ベランダに置かれたメダカの水槽にとんでもないものが現れた「想像をはるかに超えてき",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "副都心線の電車に乗ってたら、急に大量の人がこちらに押し寄せ、「誰か非常ボタン押し",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "はてな11億円流出事件はなぜ起きたのか　報告書を読んでみた（山口健太） - エキ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "近所に『鎌倉のハム』と書かれた出店があり、買おうと思って待っていたらお店のお姉さ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "二階級特進＝殉職を意味することを知らず、「二階級特進おめでとう」「二階級特進でき",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【文書入手】陸自・現地情報隊が、市民の「愛国心」など思想調査／小泉防衛大臣に問う",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -141,30 +163,6 @@
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "スイスの公共放送のアーカイブ動画、鉄道での作業シーンで思わず声が出た「待て待て待",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "畑の肥料の香りが漂ってきて顔のパーツがぜんぶギュッと真ん中に集まってしまった秋田",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日曜劇場 vivant",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "あおにしき",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ]
 }
