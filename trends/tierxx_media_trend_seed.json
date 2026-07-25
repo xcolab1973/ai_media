@@ -2,8 +2,8 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-07-25T18:18:52+0900",
-    "record_count": 44,
+    "generated_at": "2026-07-26T07:38:06+0900",
+    "record_count": 43,
     "source_total_in_db": 650,
     "provenance_breakdown": {
       "evidence": 402,
@@ -623,24 +623,6 @@
       "valid_until": "2026-07-26T14:35:53+0900",
       "status": "candidate",
       "created_at": "2026-07-21T14:35:53+0900"
-    },
-    {
-      "seed_id": "seed_3409d61935c1",
-      "trend_term": "bFGF注射の安全性問題",
-      "raw_title": "顔のくま取りや肌質改善を謳う「bFGF注射」に製薬会社が注意喚起、訴訟相次ぐ…それでも大手美容クリニックが施術を止めない本当の理由 - ダイヤモンド・オンライン",
-      "summary": "製薬会社がbFGF注射による顔のくま取り・肌質改善の施術に注意喚起し、訴訟が相次いでいる。大手美容クリニックが継続施術する実態について報道",
-      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tSXN5TUpKZDktTXRUeGZFbzNhZjRHUWZpTFQ4czVCa0wwd21lblVvOTRzZTk3RFNuMHlQdUVXWlRwcmV2QWZvR0N3akHSAU9BVV95cUxQV1pPaEhuUy1JdnIxOUgyT1FJWnpEck1lNXg3eF9YRjRyRTNwejJhd1BpV05ieHlRZU92djV5ZUVqRlhYb0Rxa3pVRWZ0TkFn?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tSXN5TUpKZDktTXRUeGZFbzNhZjRHUWZpTFQ4czVCa0wwd21lblVvOTRzZTk3RFNuMHlQdUVXWlRwcmV2QWZvR0N3akHSAU9BVV95cUxQV1pPaEhuUy1JdnIxOUgyT1FJWnpEck1lNXg3eF9YRjRyRTNwejJhd1BpV05ieHlRZU92djV5ZUVqRlhYb0Rxa3pVRWZ0TkFn?oc=5",
-      "source_name": "ダイヤモンド・オンライン",
-      "monitor_id": "bm-safety-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "safety_claim",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-07-26T07:32:06+0900",
-      "status": "candidate",
-      "created_at": "2026-07-21T07:32:06+0900"
     },
     {
       "seed_id": "seed_32dfa4f6af95",
