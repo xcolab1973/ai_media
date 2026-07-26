@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T14:03:00+09:00",
+  "generated_at": "2026-07-26T18:46:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,32 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
-    "dedup_excluded": 8,
-    "passed_total": 113,
+    "neg_excluded": 4,
+    "dedup_excluded": 10,
+    "passed_total": 118,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
+      "yahoo_realtime": 30,
+      "x_realtime": 8,
       "google_trends": 10,
-      "news_web": 14,
-      "yahoo_news_ranking": 4,
-      "x_realtime": 8
+      "news_web": 15,
+      "yahoo_news_ranking": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "opinion": 10,
-    "personal_story": 1,
-    "policy": 8,
-    "medical_science": 2,
-    "hard_fact": 21
+    "social_reaction": 27,
+    "personal_story": 4,
+    "opinion": 9,
+    "medical_science": 1,
+    "hard_fact": 20,
+    "policy": 9
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
-    "policy": 9,
-    "opinion": 10,
-    "hard_fact": 21,
-    "medical_science": 1,
-    "personal_story": 1
+    "social_reaction": 24,
+    "personal_story": 3,
+    "opinion": 9,
+    "hard_fact": 25,
+    "policy": 8,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
@@ -51,55 +51,55 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "天皇制廃止すればいいって言ってる人って廃止して本当に困らないと思ってる？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "title": "バンコク高架鉄道車内で騒ぐイタリア人学生達に、タイ人女性が注意したが暴言を吐かれ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "「ITテック系は右翼じゃない」は無理がある",
+      "title": "「売れ残り」が「ブランド体験」に変わる クリスピー・クリーム・ドーナツのフードロ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "小笠原慎之介",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "城島茂",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "企画部署から「新機種は突起をあと0.3mm低くして」と要望を受け、「人間がわかる",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "井の頭線",
+      "title": "陥没",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "yg安田",
+      "title": "インドネシア",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "皇族",
+      "title": "住之江競艇",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "田中碧",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "昨夏世界バズ 金融OLの人生変化",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_entertainment",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ios",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "イージス艦",
+      "title": "三戸舜介",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,57 +113,57 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ITテック系は右翼じゃない」は無理がある",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "陸自部隊の情報収集　「愛国心や性的嗜好は記録する必要ない」「身分隠して収集なら違",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日立のエアコンを買ったのに昼間冷えず、室温が30℃近くになるのに、修理依頼したら",
+      "title": "バンコク高架鉄道車内で騒ぐイタリア人学生達に、タイ人女性が注意したが暴言を吐かれ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "地図で最高気温を見ていたら一箇所だけ桁違いな気温の場所があり、よく考えたらそりゃ",
+      "title": "「売れ残り」が「ブランド体験」に変わる クリスピー・クリーム・ドーナツのフードロ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "掃除機を買ったら、悩みに悩んでぴったりなサイズの箱を決めた猫がいた「猫によるサイ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "家では食べない食材や味付けのものを息子が保育園では完食してくるので、どうやって食",
+      "title": "企画部署から「新機種は突起をあと0.3mm低くして」と要望を受け、「人間がわかる",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "職場で昼前に日頃よく注文する弁当屋が「大量注文が突然キャンセルになった」とのこと",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "やまゆり園事件10年：「彼は変わっていない」　知人が語る植松死刑囚の今　相模原殺",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「飛鳥・藤原の宮都」、世界文化遺産に登録決定　国内22件目 | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「飛鳥・藤原の宮都」を世界遺産に登録　世界遺産委員会が正式に決定：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "自宅の庭には昔からフキノトウやミョウガが自生していて、たまに盗まれることがあった",
+      "title": "「ダイソー様、お願いします！うちの猫バイクのためにこの猫じゃらしを増産してくださ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "落雷で電柱から火花 東京 世田谷 | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ニトリの似鳥昭雄会長が「子どもたちが喜ぶ」と直感した恐竜パーク、北海道にオープン",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ピースサインで勤怠打刻」　Joshinが全事業所に導入した顔認証が“従業員から",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
