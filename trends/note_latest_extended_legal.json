@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-26T16:56:01+09:00",
- "valid_until": "2026-08-02T16:45:33+09:00",
+ "generated_at": "2026-07-27T06:45:59+09:00",
+ "valid_until": "2026-08-03T06:36:42+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "legal",
   "from_current": 37,
-  "from_new": 1,
+  "from_new": 2,
   "expired_pruned": 0,
-  "retention_dropped": 1,
+  "retention_dropped": 2,
   "genres": 5,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "カスハラって言い返したらダメなんですか - 今日女のお客さんに商品... - Yahoo!知恵袋",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13286404243",
+   "summary": "接客業で客からの理不尽な物言いに『言い返してはいけないのか』と疑問を投げる知恵袋の質問。カスハラ対策が会社の義務になる一方、現場の個人がどこまで反論・拒否してよいかという心理的な線引きへの疑問が生々しく表れている。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "legal-labor",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "カスタマーハラスメント 対応 従業員 会社 どうすればいい 相談",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": true,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-03T06:36:42+09:00",
+   "validity_days": 7
+  },
   {
    "source_category": "news_web",
    "raw_title": "【2026年10月施行】106万円の壁撤廃！社会保険適用拡大の実務対応を社労士が解説",
@@ -228,36 +258,6 @@
   },
   {
    "source_category": "news_web",
-   "raw_title": "未払い残業代の時効は3年、退職後の請求と起算点を解説",
-   "url": "https://office-tree.jp/blog/statute-of-limitations/unpaid-wages-statute-of-limitations/",
-   "summary": "未払い残業代の消滅時効は当分の間3年（2020年労基法改正で2年から延長）。退職者は退職金の請求時効や起算点にも注意が必要と行政書士法人が解説。夏季賞与の精算時期に合わせ確認したい論点。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "hard_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "legal-labor",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "行政書士法人Tree",
-    "expert_origin": true,
-    "search_query": "夏季賞与 残業代 未払い 精算 2026",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-28T06:39:40+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
    "raw_title": "会社のカスハラ対策を強化したところ、全体的にクレームは減少したのですが…という投稿",
    "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14288797834",
    "summary": "社内でカスハラ対策を強化した結果クレーム全体は減少したが、一部の問題客は逆に態度が悪化したという経営側の生の声。対策の実効性への迷いが表れた投稿。",
@@ -404,6 +404,36 @@
     "rescued": false
    },
    "valid_until": "2026-07-27T16:45:50+09:00",
+   "validity_days": 7
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "アプリのサブスクリプションをキャンセルするのを忘れて5400円溶けました。返金できますか？ - もう、1年間のサブスクリプションが... - Yahoo!知恵袋",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10221283365",
+   "summary": "アプリのサブスク解約を忘れて課金され『返金できますか』と焦る知恵袋の質問。うっかり課金への後悔と、返金交渉がどこまで通るか分からない不安が生の相談として表れている。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "legal-consumer",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "サブスク 解約できない 返金 どうすればいい 相談",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": true,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-03T06:36:42+09:00",
    "validity_days": 7
   },
   {
@@ -614,36 +644,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-30T06:36:56+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "サブスクの法律・規制とは？返金・解約・自動更新で事業者が守るべきルール【2026年版】",
-   "url": "https://taketin.com/knowledge/subscription/subscription-legal-basics/",
-   "summary": "定期課金ビジネスには特定商取引法・消費者契約法・改正割賦販売法・個人情報保護法が関わる。解約のしやすさ・自動更新の明示・返金や中途解約の扱い・価格表示義務が消費者トラブルや行政指導に直結しやすいと整理。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "legal-consumer",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "TAKETIN（サブスク導入支援サイト）",
-    "expert_origin": false,
-    "search_query": "特定商取引法 定期購入 トラブル 消費者庁 2026 解約",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-29T06:34:45+09:00",
    "validity_days": 7
   },
   {

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-26T16:56:01+09:00",
- "valid_until": "2026-08-09T06:33:50+09:00",
+ "generated_at": "2026-07-27T06:45:59+09:00",
+ "valid_until": "2026-08-10T06:35:22+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "health",
   "from_current": 40,
-  "from_new": 0,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 0,
+  "retention_dropped": 1,
   "genres": 5,
   "retention_per_genre": 8
  },
@@ -498,6 +498,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "暑い夏に運動する際の注意点とは？無理せず続けられるコツとトレーニング方法を解説",
+   "url": "https://www.kamaboko.com/sakanano/column/athlete/post27946.html",
+   "summary": "汗で失われる水分・塩分のこまめな補給の重要性、2週間程度で体が暑さに慣れる「暑熱順化」の活用、空調完備のジムでの継続が屋外猛暑時の熱中症リスクを下げる土台になる点、運動直後の乳製品による栄養補給が発汗能力向上に有効という知見を紹介。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "health-fitness",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "魚肉ペプチドLab（丸善食品工業運営コラム）",
+    "expert_origin": true,
+    "search_query": "真夏 筋トレ 熱中症 継続 コツ 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-10T06:35:22+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "サプリメントの定義とGMPについて（消費者庁 食品衛生審議会 新開発食品調査部会 資料）",
    "url": "https://www.caa.go.jp/policies/council/fssc/meeting_materials/assets/fscc_cms105_251126_06.pdf",
    "summary": "消費者庁の審議会資料。機能性表示食品のうち錠剤・カプセル等のGMP（適正製造規範）基準を2026年9月1日から義務化する制度改正の一次情報。プロテイン等サプリ利用者にも関わる。",
@@ -704,36 +734,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-06T06:36:16+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "機能性表示食品のサプリGMP義務化 義務でない第三者認証のメリットは？｜ウェルネスデイリーニュース",
-   "url": "https://wellness-news.co.jp/posts/250407-2/",
-   "summary": "GMP義務化は国が定めた基準の遵守が求められるものであり、民間の第三者認証取得自体は法令上の必須要件ではないと整理する業界専門メディアの記事。プロテイン等の愛用者が抱きやすい『買えなくなる』という誤解を訂正する内容。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "health-fitness",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "ウェルネスデイリーニュース",
-    "expert_origin": true,
-    "search_query": "プロテイン GMP義務化 サプリ 買えなくなる 知恵袋 掲示板",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": true,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-04T06:35:54+09:00",
    "validity_days": 14
   },
   {

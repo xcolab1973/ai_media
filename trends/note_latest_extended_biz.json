@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-26T16:56:00+09:00",
+ "generated_at": "2026-07-27T06:45:59+09:00",
  "valid_until": "2026-08-08T06:37:12+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "biz",
   "from_current": 22,
-  "from_new": 1,
-  "expired_pruned": 0,
+  "from_new": 2,
+  "expired_pruned": 1,
   "retention_dropped": 1,
   "genres": 3,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "９月からのYahoo!ショッピング有料化！不安なあれこれと最適な形の運用とは",
+   "url": "https://crossma.jp/column/%EF%BC%99%E6%9C%88%E3%81%8B%E3%82%89%E3%81%AEyahoo%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E6%9C%89%E6%96%99%E5%8C%96%EF%BC%81%E4%B8%8D%E5%AE%89%E3%81%AA%E3%81%82%E3%82%8C%E3%81%93/",
+   "summary": "年間固定費約12万円の発生で、月間利益がそれを下回る小規模ショップや副業出店者は継続するだけで赤字化するリスクを指摘。突然の変更に戸惑う出店者の不安を扱うが、具体的な移行先の比較は薄め。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "biz-ec-shop",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "crossma",
+    "expert_origin": false,
+    "search_query": "Yahoo!ショッピング 有料化 不安 知恵袋",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": true,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-01T06:36:25+09:00",
+   "validity_days": 5
+  },
   {
    "source_category": "news_web",
    "raw_title": "インボイスの2割特例はいつまで続く？終了後の対策と簡易課税の選び方",
@@ -228,24 +258,24 @@
   },
   {
    "source_category": "news_web",
-   "raw_title": "「Yahoo!ショッピング」で起きている客離れ。ポイント戦略の転換、出店者の声など現状まとめ",
-   "url": "https://netshop.impress.co.jp/node/11112",
-   "summary": "LINEヤフーは2026年9月1日からYahoo!ショッピングの出店プランを変更し、月額システム利用料1万円・売上ロイヤリティ2.5%を新設。約12年間無料だったモデルが終了し、出店約6.5万店のうち売上ほぼゼロが約2万店・半数以上が非アクティブという実態の中、撤退や他モールへの移行を検討する店舗が増えている。",
+   "raw_title": "【2026年最新】IT導入補助金は個人事業主でも申請可能！フリーランスの条件や必要書類など解説（デジタル化・AI導入補助金）",
+   "url": "https://carearc.co.jp/blog/3567/",
+   "summary": "デジタル化・AI導入補助金は個人事業主も対象だが、IT導入支援事業者経由の申請、交付決定前の契約・発注・支払い禁止、実績報告・効果報告義務など初申請者が見落としやすい注意点を整理。",
    "signal_type": "trend",
    "engagement_signal": false,
    "approx_traffic": "100+",
    "preliminary_claim_type": "soft_fact",
    "relevance_to_niche": "high",
    "topic_category": null,
-   "primary_genre": "biz-ec-shop",
+   "primary_genre": "biz-subsidy",
    "karte_matched_category": null,
    "karte_aligned": false,
    "account_id": "default",
    "origin": "pre_collector_extended",
    "provenance": {
-    "source_name": "ネットショップ担当者フォーラム（Impress）",
+    "source_name": "CAREARC BLOG",
     "expert_origin": true,
-    "search_query": "Yahoo!ショッピング 出店 有償化 2026年9月 個人事業主 対応",
+    "search_query": "デジタル化・AI導入補助金 2026 採択率 個人事業主 申請要件",
     "freshness": "fresh",
     "integrity_warning": null,
     "provenance_kind": "evidence",
@@ -253,8 +283,8 @@
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-07-27T16:45:47+09:00",
-   "validity_days": 5
+   "valid_until": "2026-08-03T06:36:25+09:00",
+   "validity_days": 7
   },
   {
    "source_category": "news_web",
@@ -404,36 +434,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-28T06:39:17+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "補助金を利用したくてgBizIDプライムに登録したのですが、銀行の方に申し込んでもらうのにCから始まる9桁の番号を教え...",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13261593903",
-   "summary": "補助金申請のためgBizIDプライムを取得しようとした事業者が、銀行への申請手続きで詰まっている生の声。制度は知っていても手続きの細部でつまずく実態が見える。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "biz-subsidy",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "中小企業省力化投資補助金 GビズID 間に合わない 教えて 知恵袋",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-27T06:35:22+09:00",
    "validity_days": 7
   },
   {
