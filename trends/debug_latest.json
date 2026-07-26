@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T23:19:00+09:00",
+  "generated_at": "2026-07-27T07:39:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,49 +16,56 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 2,
-    "dedup_excluded": 11,
-    "passed_total": 119,
+    "neg_excluded": 5,
+    "dedup_excluded": 9,
+    "passed_total": 118,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
-      "x_realtime": 7,
+      "yahoo_realtime": 37,
+      "x_realtime": 8,
       "google_trends": 10,
-      "news_web": 16,
-      "yahoo_news_ranking": 4
+      "yahoo_news_ranking": 5,
+      "news_web": 10
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
+    "social_reaction": 34,
     "personal_story": 2,
     "opinion": 10,
-    "policy": 4,
-    "hard_fact": 18,
-    "medical_science": 1
+    "medical_science": 2,
+    "policy": 5,
+    "hard_fact": 17
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
+    "social_reaction": 34,
     "personal_story": 2,
+    "policy": 6,
     "opinion": 10,
-    "hard_fact": 23,
-    "policy": 5
+    "hard_fact": 17,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "バンコク高架鉄道車内で騒ぐイタリア人学生達に、タイ人女性が注意したが暴言を吐かれ",
+      "title": "「やけに汗が出ないなって時はまじ危ない」熱中症でやられた時、医務室の人から「脇の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "飲食店で子どもがテーブルの間を走り回っていたので、親が「ほら！周りの人に怒られる",
+      "title": "【閲覧注意】ヨドバシ池袋、平穏が訪れたと思ったら今度はトイレの近くで脱糞されてし",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『当クリニックはエアコンを廃止しました』",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「当クリニックはエアコンを使用しています」エアコン廃止クリニックが波紋を起こす中",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ホテルサンルート新潟の地下駐車場が完全に水没してる」との声に去年あった四日市の",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -68,37 +75,31 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "中川翔子",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "福澤克雄",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "角田夏実",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "職場で昼前に日頃よく注文する弁当屋が「大量注文が突然キャンセルになった」とのこと",
+      "title": "飲食店で子どもがテーブルの間を走り回っていたので、親が「ほら！周りの人に怒られる",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "Threadsで「着物を買わされない着付け教室ありませんか？」という投稿を見たけ",
+      "title": "首相のSNS投稿を公文書として扱う法律が、日本にはない",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "policy"
     },
     {
-      "title": "大韓民国",
+      "title": "月刊陸上競技",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "二刀流選手",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "マスク",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,13 +107,13 @@
   ],
   "note_top10": [
     {
-      "title": "バンコク高架鉄道車内で騒ぐイタリア人学生達に、タイ人女性が注意したが暴言を吐かれ",
+      "title": "「やけに汗が出ないなって時はまじ危ない」熱中症でやられた時、医務室の人から「脇の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "飲食店で子どもがテーブルの間を走り回っていたので、親が「ほら！周りの人に怒られる",
+      "title": "【閲覧注意】ヨドバシ池袋、平穏が訪れたと思ったら今度はトイレの近くで脱糞されてし",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -124,13 +125,19 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "『当クリニックはエアコンを廃止しました』",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「当クリニックはエアコンを使用しています」エアコン廃止クリニックが波紋を起こす中",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "職場で昼前に日頃よく注文する弁当屋が「大量注文が突然キャンセルになった」とのこと",
+      "title": "「ホテルサンルート新潟の地下駐車場が完全に水没してる」との声に去年あった四日市の",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "飲食店で子どもがテーブルの間を走り回っていたので、親が「ほら！周りの人に怒られる",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -142,27 +149,21 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "映画ちいかわを観終わってモヤモヤする息子に「誰が一番悪いと思った？」と聞いたら、",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『タマゴタケ』を採ってきたけど、色が鮮やかすぎるせいで食えるキノコだと説明してる",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "共産党「大谷翔平、あまりに愚か」ANTIFA「大谷翔平ボイコットするわ」しばき隊",
+      "title": "【フジロック26大トリ】マッシブアタック―「音楽の記憶」を再構築する編集者―｜長",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ダイソー様、お願いします！うちの猫バイクのためにこの猫じゃらしを増産してくださ",
+      "title": "『『みいちゃんと山田さん』のアニメ化がもたらす問題｜郡司 真子 Masako G",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ちいかわの作者・ナガノ先生のことを「食べ歩きが好きなヒト」「ファンシーキャラが得",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
