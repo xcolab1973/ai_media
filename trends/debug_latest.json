@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T18:46:00+09:00",
+  "generated_at": "2026-07-26T23:19:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,44 +16,49 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 4,
-    "dedup_excluded": 10,
-    "passed_total": 118,
+    "neg_excluded": 2,
+    "dedup_excluded": 11,
+    "passed_total": 119,
     "b2b_category_counts": {
-      "yahoo_realtime": 30,
-      "x_realtime": 8,
+      "yahoo_realtime": 33,
+      "x_realtime": 7,
       "google_trends": 10,
-      "news_web": 15,
-      "yahoo_news_ranking": 7
+      "news_web": 16,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 27,
-    "personal_story": 4,
-    "opinion": 9,
-    "medical_science": 1,
-    "hard_fact": 20,
-    "policy": 9
+    "social_reaction": 35,
+    "personal_story": 2,
+    "opinion": 10,
+    "policy": 4,
+    "hard_fact": 18,
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 24,
-    "personal_story": 3,
-    "opinion": 9,
-    "hard_fact": 25,
-    "policy": 8,
-    "medical_science": 1
+    "social_reaction": 30,
+    "personal_story": 2,
+    "opinion": 10,
+    "hard_fact": 23,
+    "policy": 5
   },
   "b2b_top10": [
     {
-      "title": "『当クリニックはエアコンを廃止しました』",
+      "title": "バンコク高架鉄道車内で騒ぐイタリア人学生達に、タイ人女性が注意したが暴言を吐かれ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "バンコク高架鉄道車内で騒ぐイタリア人学生達に、タイ人女性が注意したが暴言を吐かれ",
+      "title": "飲食店で子どもがテーブルの間を走り回っていたので、親が「ほら！周りの人に怒られる",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『当クリニックはエアコンを廃止しました』",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -63,43 +68,37 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "小笠原慎之介",
+      "title": "中川翔子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "城島茂",
+      "title": "福澤克雄",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "企画部署から「新機種は突起をあと0.3mm低くして」と要望を受け、「人間がわかる",
+      "title": "角田夏実",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "職場で昼前に日頃よく注文する弁当屋が「大量注文が突然キャンセルになった」とのこと",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "陥没",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "Threadsで「着物を買わされない着付け教室ありませんか？」という投稿を見たけ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "インドネシア",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "住之江競艇",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "三戸舜介",
+      "title": "大韓民国",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,13 +106,13 @@
   ],
   "note_top10": [
     {
-      "title": "『当クリニックはエアコンを廃止しました』",
+      "title": "バンコク高架鉄道車内で騒ぐイタリア人学生達に、タイ人女性が注意したが暴言を吐かれ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "バンコク高架鉄道車内で騒ぐイタリア人学生達に、タイ人女性が注意したが暴言を吐かれ",
+      "title": "飲食店で子どもがテーブルの間を走り回っていたので、親が「ほら！周りの人に怒られる",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -125,43 +124,43 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "掃除機を買ったら、悩みに悩んでぴったりなサイズの箱を決めた猫がいた「猫によるサイ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "企画部署から「新機種は突起をあと0.3mm低くして」と要望を受け、「人間がわかる",
+      "title": "『当クリニックはエアコンを廃止しました』",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "職場で昼前に日頃よく注文する弁当屋が「大量注文が突然キャンセルになった」とのこと",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "Threadsで「着物を買わされない着付け教室ありませんか？」という投稿を見たけ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "映画ちいかわを観終わってモヤモヤする息子に「誰が一番悪いと思った？」と聞いたら、",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『タマゴタケ』を採ってきたけど、色が鮮やかすぎるせいで食えるキノコだと説明してる",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "共産党「大谷翔平、あまりに愚か」ANTIFA「大谷翔平ボイコットするわ」しばき隊",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "「ダイソー様、お願いします！うちの猫バイクのためにこの猫じゃらしを増産してくださ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "落雷で電柱から火花 東京 世田谷 | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ニトリの似鳥昭雄会長が「子どもたちが喜ぶ」と直感した恐竜パーク、北海道にオープン",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ピースサインで勤怠打刻」　Joshinが全事業所に導入した顔認証が“従業員から",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
