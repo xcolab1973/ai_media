@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-27T16:59:53+09:00",
+ "generated_at": "2026-07-28T06:45:15+09:00",
  "valid_until": "2026-08-10T06:43:22+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "sports",
   "from_current": 16,
-  "from_new": 3,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 3,
+  "retention_dropped": 1,
   "genres": 2,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "プロ野球中継が見られるおすすめサブスク16選を徹底比較！無料で見る方法も紹介",
+   "url": "https://millenvpn.jp/sports/npb_prefer_subscription/",
+   "summary": "プロ野球中継対応の動画配信サービス16件を料金・視聴可能球団・無料視聴可否で比較。DAZNは「DAZN BASEBALL」で11球団の主催試合を配信するが広島東洋カープの主催試合は非対応など、球団ごとに視聴可否が異なる点を整理し、サブスク選びで損をしないための比較軸を提示。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "sports-watch",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "MillenVPNスポーツ",
+    "expert_origin": false,
+    "search_query": "プロ野球 中継 サブスク DAZN 見れる試合 少ない 損した 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-02T06:43:06+09:00",
+   "validity_days": 5
+  },
   {
    "source_category": "news_web",
    "raw_title": "【2026年夏の甲子園高校野球】チケットの取り方・買い方と、おすすめ座席まとめ",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-31T16:52:49+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "FIFA、W杯2026アジア勢を「期待外れ」と総括 日本は痛恨の敗退",
-   "url": "https://www.footballchannel.jp/2026/07/24/post953265/",
-   "summary": "FIFA公式が2026年W杯を振り返り、優勝を目指した森保ジャパンがラウンド32でブラジルに逆転負けし3大会連続で初戦突破ならずと総括。後半にアンチェロッティ監督がクロス攻撃で守備の甘さを突いた戦術分析も伝えている。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "sports-watch",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "footballchannel.jp",
-    "expert_origin": true,
-    "search_query": "FIFAワールドカップ2026 日本代表 敗退 総括 なぜ 采配",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-31T06:44:50+09:00",
    "validity_days": 5
   },
   {

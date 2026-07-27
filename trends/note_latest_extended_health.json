@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-27T16:59:53+09:00",
- "valid_until": "2026-08-10T16:46:06+09:00",
+ "generated_at": "2026-07-28T06:45:14+09:00",
+ "valid_until": "2026-08-11T06:34:34+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -16,6 +16,36 @@
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "熱帯夜は何度以上のこと？快適に就寝できるエアコン活用方法や電気代の節約術まで徹底解説",
+   "url": "https://www.eneos-power.co.jp/article/saving/sultry-night-temperature/",
+   "summary": "熱帯夜の定義と、就寝時に快適とされる室温26〜28度・湿度40〜60%への調整方法、就寝中つけっぱなしにした場合の電気代の目安を解説。エアコンを切ると室温が急上昇し中途覚醒や熱中症リスクが高まるため夜通しの運転が推奨されるという知見。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "health-sleep",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "ENEOS Power株式会社（ENEeee!マガジン）",
+    "expert_origin": true,
+    "search_query": "熱帯夜 エアコン 設定温度 眠れない 対策 2026",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-11T06:34:34+09:00",
+   "validity_days": 14
+  },
   {
    "source_category": "news_web",
    "raw_title": "中途覚醒・早朝覚醒とは？20代でも多い？夜中に目が覚めるときの予防と対処法を紹介",
@@ -220,36 +250,6 @@
     "integrity_warning": null,
     "provenance_kind": "evidence",
     "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-05T06:34:08+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "「冷房つけっぱなしで寝ると体に悪い？」への不安の声",
-   "url": "https://www.irisohyama.co.jp/plusoneday/electronics/400",
-   "summary": "「エアコンをつけっぱなしで寝ると体に悪いのでは」という不安から検索・記事化が多く、乾燥や冷えすぎへの誤解と、正しい使い方の情報ニーズが根強く存在する。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "health-sleep",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "複数の家電・寝具メディア（集計傾向）",
-    "expert_origin": false,
-    "search_query": "冷房 つけっぱなし 寝る 体に悪い 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": true,
     "discovered_angle": null,
     "rescued": false
    },

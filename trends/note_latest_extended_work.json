@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-27T16:59:53+09:00",
- "valid_until": "2026-08-10T16:53:55+09:00",
+ "generated_at": "2026-07-28T06:45:15+09:00",
+ "valid_until": "2026-08-11T06:44:09+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -8,14 +8,44 @@
  "total_count": 32,
  "merge": {
   "parent": "work",
-  "from_current": 31,
-  "from_new": 3,
-  "expired_pruned": 1,
+  "from_current": 32,
+  "from_new": 1,
+  "expired_pruned": 0,
   "retention_dropped": 1,
   "genres": 4,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "【40代転職厳しい】未経験から異業種転職は？男性・女性別に解説",
+   "url": "https://mirai-works.co.jp/media-career/column/40dai-kouhan-tenshoku-kibishii/",
+   "summary": "40歳以上の転職者の4人に1人が「異業種×異職種」へ、6割超が異業種転職を経験しているというデータを紹介。40代は柔軟性やスキル習得の伸びしろが低く見られがちで、企業側が教育コストをかけにくいという本音も指摘。過去の経験を活かせる職域選びが成功の鍵になるとまとめている。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "work-career-change",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "みらいワークス",
+    "expert_origin": true,
+    "search_query": "異業種 未経験 転職 40代 失敗 後悔",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-11T06:44:09+09:00",
+   "validity_days": 14
+  },
   {
    "source_category": "news_web",
    "raw_title": "30代の未経験からの転職は厳しい？転職成功のコツとおすすめの業界を解説",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-05T06:40:23+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "雇用・労働 教育訓練休暇給付金",
-   "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/koyouhoken/kyukakyufukin.html",
-   "summary": "厚生労働省の公式ページ。労働者が離職せずに教育訓練に専念するため、就業規則等に基づき30日以上の無給休暇を取得した場合、基本手当相当（賃金の50〜80%）を給付する新制度「教育訓練休暇給付金」を解説。休暇開始前2年間に12か月以上の被保険者期間が必要。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "work-career-change",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "厚生労働省",
-    "expert_origin": true,
-    "search_query": "教育訓練給付金 給付率80% 2026年10月 教育訓練休暇給付金 新設 対象者",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-03T06:42:14+09:00",
    "validity_days": 14
   },
   {
