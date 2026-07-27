@@ -1,169 +1,165 @@
 {
-  "generated_at": "2026-07-27T07:39:00+09:00",
+  "generated_at": "2026-07-27T14:29:00+09:00",
   "fetch_status": {
-    "google_trends": "ok",
+    "google_trends": "error",
     "yahoo_news_ranking": "ok",
     "yahoo_realtime": "ok",
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
-      "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 9,
-    "passed_total": 118,
+    "neg_excluded": 7,
+    "dedup_excluded": 11,
+    "passed_total": 104,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
-      "x_realtime": 8,
-      "google_trends": 10,
-      "yahoo_news_ranking": 5,
-      "news_web": 10
+      "yahoo_realtime": 36,
+      "x_realtime": 7,
+      "yahoo_news_ranking": 8,
+      "news_web": 19
     }
   },
   "note_category_counts": {
-    "social_reaction": 34,
-    "personal_story": 2,
-    "opinion": 10,
-    "medical_science": 2,
-    "policy": 5,
-    "hard_fact": 17
+    "social_reaction": 27,
+    "personal_story": 1,
+    "medical_science": 3,
+    "policy": 10,
+    "hard_fact": 29
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 34,
-    "personal_story": 2,
-    "policy": 6,
-    "opinion": 10,
-    "hard_fact": 17,
-    "medical_science": 1
+    "social_reaction": 27,
+    "policy": 11,
+    "medical_science": 2,
+    "hard_fact": 29,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "「やけに汗が出ないなって時はまじ危ない」熱中症でやられた時、医務室の人から「脇の",
+      "title": "花火大会のトイレにて、4人前の先頭の女性が「和式」が開いたのに入らないので、思わ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "【閲覧注意】ヨドバシ池袋、平穏が訪れたと思ったら今度はトイレの近くで脱糞されてし",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「当クリニックはエアコンを使用しています」エアコン廃止クリニックが波紋を起こす中",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ホテルサンルート新潟の地下駐車場が完全に水没してる」との声に去年あった四日市の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「売れ残り」が「ブランド体験」に変わる クリスピー・クリーム・ドーナツのフードロ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "飲食店で子どもがテーブルの間を走り回っていたので、親が「ほら！周りの人に怒られる",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "首相のSNS投稿を公文書として扱う法律が、日本にはない",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "月刊陸上競技",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "二刀流選手",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "マスク",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    }
-  ],
-  "note_top10": [
-    {
-      "title": "「やけに汗が出ないなって時はまじ危ない」熱中症でやられた時、医務室の人から「脇の",
+      "title": "夫から「妹が家族旅行するからデリカ（私の車）を借りたいんだって」と言ってきたので",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【閲覧注意】ヨドバシ池袋、平穏が訪れたと思ったら今度はトイレの近くで脱糞されてし",
+      "title": "発達に遅れのある娘が来年小学校に進学するのを控えてる身として、『みいちゃん』のア",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "観光地でタクシー乗務員になるのはいいぞ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「もうわからない」中学生の娘が21時から出かけると言ってきたので止めたら、「友達",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「売れ残り」が「ブランド体験」に変わる クリスピー・クリーム・ドーナツのフードロ",
+      "title": "クリニックで医師に「セックスはしてますか？」と言われ「はい…？」と思ったけど、不",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "休日の夕方にお客さんから電話がかかってきて、既に進行している仕事を相手都合でキャ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「みいちゃんには幸せになってほしい」自称サバサバ女・網浜さんが、『みいちゃんと網",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "はてな11.8億円詐欺被害　休職明け経理部長、千葉県警名乗る電話にPC遠隔操作を",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    }
+  ],
+  "note_top10": [
+    {
+      "title": "花火大会のトイレにて、4人前の先頭の女性が「和式」が開いたのに入らないので、思わ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "夫から「妹が家族旅行するからデリカ（私の車）を借りたいんだって」と言ってきたので",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "発達に遅れのある娘が来年小学校に進学するのを控えてる身として、『みいちゃん』のア",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "観光地でタクシー乗務員になるのはいいぞ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【しっぱい実録】「実家が売れたのに、200万円が消えた。」“いつか売ろう”で後悔",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "「当クリニックはエアコンを使用しています」エアコン廃止クリニックが波紋を起こす中",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ホテルサンルート新潟の地下駐車場が完全に水没してる」との声に去年あった四日市の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "飲食店で子どもがテーブルの間を走り回っていたので、親が「ほら！周りの人に怒られる",
+      "title": "車の維持費は年間いくらかかる？ 削るならどこ？ ファイナンシャルプランナーが教え",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "Threadsで「着物を買わされない着付け教室ありませんか？」という投稿を見たけ",
+      "title": "はてな11.8億円詐欺被害　休職明け経理部長、千葉県警名乗る電話にPC遠隔操作を",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【フジロック26大トリ】マッシブアタック―「音楽の記憶」を再構築する編集者―｜長",
+      "title": "【分析】「あれを覚えているか？」　起きたことのない出来事を国民に思い出すよう求め",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『『みいちゃんと山田さん』のアニメ化がもたらす問題｜郡司 真子 Masako G",
+      "title": "IT企業「はてな」資金流出で報告書公表 特殊詐欺による被害 | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ちいかわの作者・ナガノ先生のことを「食べ歩きが好きなヒト」「ファンシーキャラが得",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "ドイツの食卓で使われる「ゆで卵の殻にスパッと切れ目を入れる金属器具」謎の道具の使",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
