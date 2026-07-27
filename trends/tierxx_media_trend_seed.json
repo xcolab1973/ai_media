@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-07-27T15:04:36+0900",
-    "record_count": 41,
-    "source_total_in_db": 667,
+    "generated_at": "2026-07-27T19:55:04+0900",
+    "record_count": 40,
+    "source_total_in_db": 668,
     "provenance_breakdown": {
-      "evidence": 413,
+      "evidence": 414,
       "pain_seed": 254
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_e32f58c501a1",
+      "trend_term": "美容医療後遺症・リスク負担",
+      "raw_title": "豊胸注射が流れ落ちて、お腹に謎の瘤が…相次ぐ美容医療後遺症トラブルに形成外科学会元理事長が警鐘「美容医に応分のリスクを負わせよ！」 - ダイヤモンド・オンライン",
+      "summary": "豊胸注射の流移やお腹の瘤などの後遺症が報告。形成外科学会元理事長が美容医のリスク責任強化を主張。",
+      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE85dUlqOWRwRUFpMTBSVDJPbVozMXk2SG9EczV6SUtIeEVXa05XMWVsN2NYVlExZERKNVBwemV5dmRxYVp2MFpBaFUtM2nSAU9BVV95cUxOZ0hOQ0ZNclJSZzJVMmhLRjZ5Ym9wakpYSmwtNVg3ZUVZS19lUWJueXhiMDlQUW1NVXA4MldTa1l4enRnNjYwbzd5QkRqZmdR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE85dUlqOWRwRUFpMTBSVDJPbVozMXk2SG9EczV6SUtIeEVXa05XMWVsN2NYVlExZERKNVBwemV5dmRxYVp2MFpBaFUtM2nSAU9BVV95cUxOZ0hOQ0ZNclJSZzJVMmhLRjZ5Ym9wakpYSmwtNVg3ZUVZS19lUWJueXhiMDlQUW1NVXA4MldTa1l4enRnNjYwbzd5QkRqZmdR?oc=5",
+      "source_name": "ダイヤモンド・オンライン",
+      "monitor_id": "bm-market-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-01T19:54:58+0900",
+      "status": "candidate",
+      "created_at": "2026-07-27T19:54:58+0900"
+    },
     {
       "seed_id": "seed_3915bb21cd18",
       "trend_term": "再生医療発想ドクターズコスメ",
@@ -535,24 +553,6 @@
       "created_at": "2026-07-24T07:32:15+0900"
     },
     {
-      "seed_id": "seed_b98e1923492e",
-      "trend_term": "形成外科×美容外科統合診療",
-      "raw_title": "【新潟市秋葉区】『あきは形成外科・美容クリニック』が12月1日に開院！11月1日からはお得なキャンペーン価格のプレオープンを実施♪ - ガタチラ",
-      "summary": "新潟市秋葉区に形成外科と美容外科の統合クリニックが12月開院予定。傷の修復から美容的ニーズまで一貫対応できる院の登場。",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TSk5PRUUzaFdrQWZkR3hReGw0VkJ1MXI5VUJaeVc2NjRWMnNPaDljLXlBUlBxWGpXbGJKVFFGaXhwdFQ1VzROWmxjc1M1VTdwM2o5TFRjeTJ5dw?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TSk5PRUUzaFdrQWZkR3hReGw0VkJ1MXI5VUJaeVc2NjRWMnNPaDljLXlBUlBxWGpXbGJKVFFGaXhwdFQ1VzROWmxjc1M1VTdwM2o5TFRjeTJ5dw?oc=5",
-      "source_name": "ガタチラ",
-      "monitor_id": "bm-market-news",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-07-28T19:00:43+0900",
-      "status": "candidate",
-      "created_at": "2026-07-23T19:00:43+0900"
-    },
-    {
       "seed_id": "seed_0a7f74d16c2e",
       "trend_term": "男性包茎自覚率調査",
       "raw_title": "男性の56%が「自分は包茎」と自覚–SNSライブ最大1,693名の本音調査｜PRO CLINIC二瓶ライブ620日 - 宮崎日日新聞",
@@ -731,24 +731,6 @@
       "valid_until": "2026-07-28T07:29:28+0900",
       "status": "candidate",
       "created_at": "2026-07-14T07:29:28+0900"
-    },
-    {
-      "seed_id": "seed_f9ded444f44d",
-      "trend_term": "HIFU施術選択肢",
-      "raw_title": "仙台の医療ハイフ（HIFU）がおすすめのクリニック - マイベスト",
-      "summary": "仙台エリアでのHIFU（高密度焦点式超音波）治療を提供するクリニックの比較情報。地域別の施術選択肢を求める読者の悩みに対応。",
-      "source_url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBYRzBFT09KT3U3ODRsU2w0YkptZy0tSTgwTWpEWVdLLXc5S2ltLXNfbG96ekN1NERkOUN0NWVR?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBYRzBFT09KT3U3ODRsU2w0YkptZy0tSTgwTWpEWVdLLXc5S2ltLXNfbG96ekN1NERkOUN0NWVR?oc=5",
-      "source_name": "マイベスト",
-      "monitor_id": "bm-machine-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-07-27T19:39:56+0900",
-      "status": "candidate",
-      "created_at": "2026-07-13T19:39:56+0900"
     }
   ]
 }
