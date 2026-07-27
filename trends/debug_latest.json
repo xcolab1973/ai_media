@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T19:56:00+09:00",
+  "generated_at": "2026-07-28T00:32:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 15,
-    "dedup_excluded": 10,
-    "passed_total": 107,
+    "neg_excluded": 16,
+    "dedup_excluded": 8,
+    "passed_total": 108,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
-      "google_trends": 9,
-      "x_realtime": 6,
-      "news_web": 14,
-      "yahoo_news_ranking": 8
+      "x_realtime": 9,
+      "yahoo_realtime": 30,
+      "yahoo_news_ranking": 10,
+      "google_trends": 10,
+      "news_web": 11
     }
   },
   "note_category_counts": {
-    "social_reaction": 27,
-    "personal_story": 4,
-    "opinion": 8,
-    "medical_science": 3,
-    "policy": 8,
-    "hard_fact": 20
+    "social_reaction": 30,
+    "personal_story": 1,
+    "opinion": 10,
+    "hard_fact": 21,
+    "medical_science": 4,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 27,
-    "opinion": 8,
-    "policy": 8,
-    "personal_story": 4,
     "hard_fact": 22,
-    "medical_science": 1
+    "social_reaction": 30,
+    "opinion": 10,
+    "medical_science": 2,
+    "policy": 5,
+    "personal_story": 1
   },
   "b2b_top10": [
+    {
+      "title": "『みいちゃんと山田さん』アニメ化に関して、公式が声明を発表「偏見や誤解を助長する",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "hard_fact"
+    },
     {
       "title": "わなにかかったクマを溺死させ駆除の雫石町　SNSで拡散され非難殺到　県から注意も",
       "source_category": "yahoo_realtime",
@@ -57,49 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "花火大会のトイレにて、4人前の先頭の女性が「和式」が開いたのに入らないので、思わ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "ホテル高騰 「コスパ旅」に熱視線",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "次男に殴られ、蹴られて110番したら、警察に「こんなことで通報しないでください」",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "サブウェイで見かけた夫婦、店員さんが言ったことを奥さんが全部言い直さないと通じな",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "松山千春",
+      "title": "日本維新の会",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "親戚の高校生がなろう小説を書くのに挑戦するということで概要を見せて貰ったら、『呪",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "今日の月",
+      "title": "クレヨンしんちゃん 映画",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "赤星憲広",
+      "title": "伊藤沙莉",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "中島健人 リリイベ",
+      "title": "セレッソ大阪",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "cbd",
+      "title": "sol",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -119,9 +119,9 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "花火大会のトイレにて、4人前の先頭の女性が「和式」が開いたのに入らないので、思わ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "次男に殴られ、蹴られて110番したら、警察に「こんなことで通報しないでください」",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -131,7 +131,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "親戚の高校生がなろう小説を書くのに挑戦するということで概要を見せて貰ったら、『呪",
+      "title": "「臭いが気になるから店内では空調服の電源を切って」という話に「水を差すようで申し",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「立場の優位性を保ちたかった」神奈川県警、今度は暴力団に捜査情報を漏洩する警部補",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【夏休みを乗り切る】フライパン１つで作れる簡単ごはんものレシピまとめ20｜山本ゆ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -149,21 +161,9 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "マレーシアの某モールで息子たちといるときに体験した怖い話… 日本人らしき人物が「",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「いいえ。3種類います。」人間には「これ」を毎日使い続ける人と、すぐさま捨てて旅",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "山中温泉のフォトスポットに行ったら、“M”のところだけ空いていたので、初見ぼく「",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "大容量2.8kgの洗剤で巨大パンツを洗ってみた | となりのカインズさん",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
