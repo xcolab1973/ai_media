@@ -1,45 +1,61 @@
 {
-  "generated_at": "2026-07-27T14:29:00+09:00",
+  "generated_at": "2026-07-27T19:56:00+09:00",
   "fetch_status": {
-    "google_trends": "error",
+    "google_trends": "ok",
     "yahoo_news_ranking": "ok",
     "yahoo_realtime": "ok",
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
+      "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 11,
-    "passed_total": 104,
+    "neg_excluded": 15,
+    "dedup_excluded": 10,
+    "passed_total": 107,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
-      "x_realtime": 7,
-      "yahoo_news_ranking": 8,
-      "news_web": 19
+      "yahoo_realtime": 33,
+      "google_trends": 9,
+      "x_realtime": 6,
+      "news_web": 14,
+      "yahoo_news_ranking": 8
     }
   },
   "note_category_counts": {
     "social_reaction": 27,
-    "personal_story": 1,
+    "personal_story": 4,
+    "opinion": 8,
     "medical_science": 3,
-    "policy": 10,
-    "hard_fact": 29
+    "policy": 8,
+    "hard_fact": 20
   },
   "b2b_topic_category_counts": {
     "social_reaction": 27,
-    "policy": 11,
-    "medical_science": 2,
-    "hard_fact": 29,
-    "personal_story": 1
+    "opinion": 8,
+    "policy": 8,
+    "personal_story": 4,
+    "hard_fact": 22,
+    "medical_science": 1
   },
   "b2b_top10": [
+    {
+      "title": "わなにかかったクマを溺死させ駆除の雫石町　SNSで拡散され非難殺到　県から注意も",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「空調服」のワード、使用しないで　公式が注意喚起「登録商標」　商品名からの一般名",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "花火大会のトイレにて、4人前の先頭の女性が「和式」が開いたのに入らないので、思わ",
       "source_category": "yahoo_realtime",
@@ -47,119 +63,107 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "【閲覧注意】ヨドバシ池袋、平穏が訪れたと思ったら今度はトイレの近くで脱糞されてし",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "夫から「妹が家族旅行するからデリカ（私の車）を借りたいんだって」と言ってきたので",
+      "title": "サブウェイで見かけた夫婦、店員さんが言ったことを奥さんが全部言い直さないと通じな",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "発達に遅れのある娘が来年小学校に進学するのを控えてる身として、『みいちゃん』のア",
+      "title": "松山千春",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "親戚の高校生がなろう小説を書くのに挑戦するということで概要を見せて貰ったら、『呪",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "観光地でタクシー乗務員になるのはいいぞ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "今日の月",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "「もうわからない」中学生の娘が21時から出かけると言ってきたので止めたら、「友達",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "赤星憲広",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "クリニックで医師に「セックスはしてますか？」と言われ「はい…？」と思ったけど、不",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "medical_science"
+      "title": "中島健人 リリイベ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "休日の夕方にお客さんから電話がかかってきて、既に進行している仕事を相手都合でキャ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「みいちゃんには幸せになってほしい」自称サバサバ女・網浜さんが、『みいちゃんと網",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "はてな11.8億円詐欺被害　休職明け経理部長、千葉県警名乗る電話にPC遠隔操作を",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "cbd",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
+      "title": "わなにかかったクマを溺死させ駆除の雫石町　SNSで拡散され非難殺到　県から注意も",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「空調服」のワード、使用しないで　公式が注意喚起「登録商標」　商品名からの一般名",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "花火大会のトイレにて、4人前の先頭の女性が「和式」が開いたのに入らないので、思わ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "夫から「妹が家族旅行するからデリカ（私の車）を借りたいんだって」と言ってきたので",
+      "title": "サブウェイで見かけた夫婦、店員さんが言ったことを奥さんが全部言い直さないと通じな",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "発達に遅れのある娘が来年小学校に進学するのを控えてる身として、『みいちゃん』のア",
+      "title": "親戚の高校生がなろう小説を書くのに挑戦するということで概要を見せて貰ったら、『呪",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "観光地でタクシー乗務員になるのはいいぞ",
+      "title": "【夏休みを乗り切る】火を使わない＆レンジで作れるごはんものレシピまとめ25｜山本",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【しっぱい実録】「実家が売れたのに、200万円が消えた。」“いつか売ろう”で後悔",
+      "title": "ワークマンの遮熱ポンチョというアイテムを使ってみた「日傘が敬遠される場所にいいの",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "マレーシアの某モールで息子たちといるときに体験した怖い話… 日本人らしき人物が「",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
     },
     {
-      "title": "車の維持費は年間いくらかかる？ 削るならどこ？ ファイナンシャルプランナーが教え",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "「いいえ。3種類います。」人間には「これ」を毎日使い続ける人と、すぐさま捨てて旅",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
     },
     {
-      "title": "はてな11.8億円詐欺被害　休職明け経理部長、千葉県警名乗る電話にPC遠隔操作を",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【分析】「あれを覚えているか？」　起きたことのない出来事を国民に思い出すよう求め",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "IT企業「はてな」資金流出で報告書公表 特殊詐欺による被害 | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ドイツの食卓で使われる「ゆで卵の殻にスパッと切れ目を入れる金属器具」謎の道具の使",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "山中温泉のフォトスポットに行ったら、“M”のところだけ空いていたので、初見ぼく「",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
