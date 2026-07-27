@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T00:32:00+09:00",
+  "generated_at": "2026-07-28T07:39:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,39 +16,45 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 16,
-    "dedup_excluded": 8,
-    "passed_total": 108,
+    "neg_excluded": 15,
+    "dedup_excluded": 10,
+    "passed_total": 107,
     "b2b_category_counts": {
-      "x_realtime": 9,
-      "yahoo_realtime": 30,
-      "yahoo_news_ranking": 10,
+      "yahoo_realtime": 33,
       "google_trends": 10,
-      "news_web": 11
+      "x_realtime": 6,
+      "yahoo_news_ranking": 8,
+      "news_web": 13
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "personal_story": 1,
-    "opinion": 10,
-    "hard_fact": 21,
-    "medical_science": 4,
-    "policy": 4
+    "social_reaction": 25,
+    "analysis": 1,
+    "opinion": 9,
+    "policy": 10,
+    "medical_science": 5,
+    "hard_fact": 20
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 22,
-    "social_reaction": 30,
-    "opinion": 10,
-    "medical_science": 2,
-    "policy": 5,
-    "personal_story": 1
+    "policy": 11,
+    "social_reaction": 25,
+    "opinion": 9,
+    "analysis": 1,
+    "hard_fact": 21,
+    "medical_science": 3
   },
   "b2b_top10": [
     {
-      "title": "『みいちゃんと山田さん』アニメ化に関して、公式が声明を発表「偏見や誤解を助長する",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "hard_fact"
+      "title": "高市首相「デフレ脱却と言える状況にない」　インフレ対策巡り | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "東京駅にスゴイ電車がいた→最近あちこちで目撃されている要塞みたいな謎の電車の正体",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "わなにかかったクマを溺死させ駆除の雫石町　SNSで拡散され非難殺到　県から注意も",
@@ -63,43 +69,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ホテル高騰 「コスパ旅」に熱視線",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
+      "title": "今日、好きになりました。",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "次男に殴られ、蹴られて110番したら、警察に「こんなことで通報しないでください」",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "映画ランキング",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "analysis"
+    },
+    {
+      "title": "「とんでもなく迷惑」新潟の冠水被害の動画を見たら、車の走った引き波で「ギリギリ持",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本維新の会",
+      "title": "金沢 天気",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "クレヨンしんちゃん 映画",
+      "title": "レッズ 対 ガーディアンズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "伊藤沙莉",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "セレッソ大阪",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "sol",
+      "title": "メッツ 対 ブレーブス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,6 +107,18 @@
   ],
   "note_top10": [
     {
+      "title": "東京駅にスゴイ電車がいた→最近あちこちで目撃されている要塞みたいな謎の電車の正体",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "映画ランキング",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "analysis"
+    },
+    {
       "title": "わなにかかったクマを溺死させ駆除の雫石町　SNSで拡散され非難殺到　県から注意も",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
@@ -119,49 +131,37 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "「とんでもなく迷惑」新潟の冠水被害の動画を見たら、車の走った引き波で「ギリギリ持",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "徹夜に次ぐ徹夜、出張に次ぐ出張… 限界を迎え一服しようと勢いよくホテルの喫煙所の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ちょっとタイミングがズレてたら死んでたかも」渓流釣りの最中に起きた「クマより1",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "次男に殴られ、蹴られて110番したら、警察に「こんなことで通報しないでください」",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "サブウェイで見かけた夫婦、店員さんが言ったことを奥さんが全部言い直さないと通じな",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「臭いが気になるから店内では空調服の電源を切って」という話に「水を差すようで申し",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「立場の優位性を保ちたかった」神奈川県警、今度は暴力団に捜査情報を漏洩する警部補",
+      "title": "クライアントに送ったラフを生成AIに使われ、「AI出力したものを使うのでもういい",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "【夏休みを乗り切る】フライパン１つで作れる簡単ごはんものレシピまとめ20｜山本ゆ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【夏休みを乗り切る】火を使わない＆レンジで作れるごはんものレシピまとめ25｜山本",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ワークマンの遮熱ポンチョというアイテムを使ってみた「日傘が敬遠される場所にいいの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "大容量2.8kgの洗剤で巨大パンツを洗ってみた | となりのカインズさん",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
