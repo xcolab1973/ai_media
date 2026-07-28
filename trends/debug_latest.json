@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T07:39:00+09:00",
+  "generated_at": "2026-07-28T13:47:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,51 +16,51 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 15,
-    "dedup_excluded": 10,
-    "passed_total": 107,
+    "neg_excluded": 11,
+    "dedup_excluded": 11,
+    "passed_total": 110,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
+      "news_web": 15,
+      "yahoo_realtime": 34,
       "google_trends": 10,
-      "x_realtime": 6,
-      "yahoo_news_ranking": 8,
-      "news_web": 13
+      "x_realtime": 8,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 25,
-    "analysis": 1,
-    "opinion": 9,
-    "policy": 10,
-    "medical_science": 5,
-    "hard_fact": 20
+    "social_reaction": 32,
+    "personal_story": 2,
+    "opinion": 10,
+    "hard_fact": 17,
+    "medical_science": 4,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "policy": 11,
-    "social_reaction": 25,
-    "opinion": 9,
-    "analysis": 1,
-    "hard_fact": 21,
-    "medical_science": 3
+    "hard_fact": 19,
+    "social_reaction": 32,
+    "opinion": 10,
+    "personal_story": 2,
+    "policy": 5,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "高市首相「デフレ脱却と言える状況にない」　インフレ対策巡り | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "title": "BYDが日本で軽EV 実質100万円台",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "東京駅にスゴイ電車がいた→最近あちこちで目撃されている要塞みたいな謎の電車の正体",
+      "title": "「ちょっとタイミングがズレてたら死んでたかも」渓流釣りの最中に起きた「クマより1",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "わなにかかったクマを溺死させ駆除の雫石町　SNSで拡散され非難殺到　県から注意も",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "板東英二",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "「空調服」のワード、使用しないで　公式が注意喚起「登録商標」　商品名からの一般名",
@@ -69,37 +69,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "今日、好きになりました。",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "映画ランキング",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "analysis"
-    },
-    {
-      "title": "「とんでもなく迷惑」新潟の冠水被害の動画を見たら、車の走った引き波で「ギリギリ持",
+      "title": "「空調服」の商標問題について（栗原潔） - エキスパート - Yahoo!ニュー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "金沢 天気",
+      "title": "警視庁がミストファンを導入　機動隊員の熱中症対策で",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "宮城県高校野球",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "レッズ 対 ガーディアンズ",
+      "title": "10年ぶりに家族でプールに行ったら、上裸の男性は自分含めかなり少なくて浦島太郎状",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "aig 女子 オープン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "メッツ 対 ブレーブス",
+      "title": "リーケ・クラバー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,19 +107,7 @@
   ],
   "note_top10": [
     {
-      "title": "東京駅にスゴイ電車がいた→最近あちこちで目撃されている要塞みたいな謎の電車の正体",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "映画ランキング",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "analysis"
-    },
-    {
-      "title": "わなにかかったクマを溺死させ駆除の雫石町　SNSで拡散され非難殺到　県から注意も",
+      "title": "「ちょっとタイミングがズレてたら死んでたかも」渓流釣りの最中に起きた「クマより1",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -131,39 +119,51 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「とんでもなく迷惑」新潟の冠水被害の動画を見たら、車の走った引き波で「ギリギリ持",
+      "title": "「空調服」の商標問題について（栗原潔） - エキスパート - Yahoo!ニュー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "徹夜に次ぐ徹夜、出張に次ぐ出張… 限界を迎え一服しようと勢いよくホテルの喫煙所の",
+      "title": "10年ぶりに家族でプールに行ったら、上裸の男性は自分含めかなり少なくて浦島太郎状",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ちょっとタイミングがズレてたら死んでたかも」渓流釣りの最中に起きた「クマより1",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "次男に殴られ、蹴られて110番したら、警察に「こんなことで通報しないでください」",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "クライアントに送ったラフを生成AIに使われ、「AI出力したものを使うのでもういい",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【夏休みを乗り切る】フライパン１つで作れる簡単ごはんものレシピまとめ20｜山本ゆ",
+      "title": "BYD、軽EV「ラッコ」の価格は214万5000円から スーパートール車形に両側",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "なぜあの人は、職場で不機嫌をまき散らすのか。精神科医に聞く「フキハラ」の正体 -",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "三重県志摩市とヤバTとの“癒着”のひみつ「バンドマン連れて、来週も志摩に行く予定",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「親族が孤独死した」と警察から連絡が⁉司法書士が教える孤独死相続の対応ガイド",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東京駅にスゴイ電車がいた→最近あちこちで目撃されている要塞みたいな謎の電車の正体",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "立ちション被害が多い壁に定期的に防水スプレーをかけておいたら被害がほぼなくなった",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
