@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T19:15:00+09:00",
+  "generated_at": "2026-07-29T00:07:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,31 +16,32 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 9,
-    "passed_total": 114,
+    "neg_excluded": 12,
+    "dedup_excluded": 8,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
-      "news_web": 16,
-      "yahoo_news_ranking": 3,
+      "yahoo_realtime": 34,
       "google_trends": 10,
-      "x_realtime": 9
+      "news_web": 13,
+      "x_realtime": 10,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
-    "personal_story": 3,
-    "opinion": 10,
-    "hard_fact": 17,
-    "medical_science": 2,
+    "social_reaction": 27,
+    "opinion": 9,
+    "personal_story": 1,
+    "medical_science": 3,
+    "hard_fact": 27,
     "policy": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 31,
-    "hard_fact": 22,
-    "opinion": 10,
-    "personal_story": 3,
-    "policy": 4
+    "social_reaction": 27,
+    "opinion": 9,
+    "hard_fact": 28,
+    "medical_science": 1,
+    "policy": 4,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
@@ -48,12 +49,6 @@
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "避難中の熱中症警戒 蒸し暑さ続く",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
-      "topic_category": "hard_fact"
     },
     {
       "title": "「空調服」のワード、使用しないで　公式が注意喚起「登録商標」　商品名からの一般名",
@@ -68,40 +63,46 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "1週間程度は震度7程度の地震注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "津波注意報を全て解除 気象庁",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "災害時 SNS上でのデマなどに注意",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_it",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "日本にある『1年を計れる砂時計』は、製造を依頼した際にドイツの有名ガラスメーカー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【地震】熊本 イオンモール熊本で爆発音 上空からの映像 | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "chelsea vs western sydney wanderers fc",
+      "title": "ルーマニア",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
+    },
+    {
+      "title": "陸上自衛隊 東立川駐屯地",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "トヨタ シエンタ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "sox",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "パランティア 株価",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "sox指数",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "1週間程度は震度7程度の地震注意",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_domestic",
+      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
@@ -124,7 +125,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本にある『1年を計れる砂時計』は、製造を依頼した際にドイツの有名ガラスメーカー",
+      "title": "「AIのセキュリティリスクとしてお堅い説明するよりこれ見せた方が理解が早そう」A",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "料理コラムニスト・山本ゆり氏が、今までで最大のレシピ数を誇る「夏休みを乗り切るレ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -136,33 +143,27 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "低価格帯のかつやでなぜか客離れ…しかし松のやが強すぎる上に、卓上にピッチャーがな",
+      "title": "「３食フライドポテト」で中学生はなぜ死んだのか…司法解剖で見えてきた「500円生",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "友達が作った天然石のブレスレットをつけてから2週間寝たきり…別の友達から厄年の子",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "通販で売られている『単純だけど一定数の人がドはまりするおもちゃ』の誘惑がすごい「",
+      "title": "熊本震度7で大変なのにヘルメット被って長崎の佐世保から中継してるジャパネットさん",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "キングジムが投稿した、テプラとQRコードを活用した家電ライフハックに「こういうの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "小泉防衛大臣「“別班”は存在しない」　ドラマ「VIVANT」で描かれる陸自秘密部",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「再現性が低い行為で恋に落ちた話」をたくさん聞きたい→「ときめきポイントって人そ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "中華料理店に来た大柄でガッチリした体格の男性客が「ご飯少なめで」と言ったら、日本",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
