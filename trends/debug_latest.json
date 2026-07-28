@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T00:07:00+09:00",
+  "generated_at": "2026-07-29T07:40:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,33 +17,51 @@
       "x_realtime": 10
     },
     "neg_excluded": 12,
-    "dedup_excluded": 8,
-    "passed_total": 112,
+    "dedup_excluded": 11,
+    "passed_total": 109,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
       "google_trends": 10,
-      "news_web": 13,
-      "x_realtime": 10,
-      "yahoo_news_ranking": 3
+      "yahoo_realtime": 34,
+      "x_realtime": 7,
+      "news_web": 14,
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 27,
-    "opinion": 9,
+    "social_reaction": 17,
     "personal_story": 1,
-    "medical_science": 3,
-    "hard_fact": 27,
-    "policy": 3
+    "opinion": 9,
+    "medical_science": 2,
+    "hard_fact": 35,
+    "policy": 6
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 27,
+    "social_reaction": 17,
+    "hard_fact": 36,
+    "personal_story": 1,
     "opinion": 9,
-    "hard_fact": 28,
-    "medical_science": 1,
-    "policy": 4,
-    "personal_story": 1
+    "policy": 6,
+    "medical_science": 1
   },
   "b2b_top10": [
+    {
+      "title": "横浜流星 炎上",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "イオンモール熊本の2階部分が崩落、閉じ込め多数の情報　捜索始まる：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "「被災地には、向かってはいけません。電話をしてはいけません。何も送ってはいけませ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "髙嶋政伸さんがエッセイ「インティマシーコーディネーター」を無料公開した理由　「お",
       "source_category": "yahoo_realtime",
@@ -51,83 +69,89 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「空調服」のワード、使用しないで　公式が注意喚起「登録商標」　商品名からの一般名",
+      "title": "中国の対沖縄工作の目的・意味・成果を考える①",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "「空調服」の商標問題について（栗原潔） - エキスパート - Yahoo!ニュー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ルーマニア",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "陸上自衛隊 東立川駐屯地",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "トヨタ シエンタ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "sox",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "パランティア 株価",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "sox指数",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "1週間程度は震度7程度の地震注意",
+      "title": "熊本厳しい暑さ 熱中症と地震警戒",
       "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
+    },
+    {
+      "title": "「高速道路終わった」令和8年熊本地震の影響で破断した高速道路に嘆く人がいるが…実",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "熊本で地震発生…「家大丈夫か？」と気になって防犯カメラを見たら、寝かせていたタイ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "日本通信",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "松山市天気",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
+      "title": "横浜流星 炎上",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「被災地には、向かってはいけません。電話をしてはいけません。何も送ってはいけませ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "髙嶋政伸さんがエッセイ「インティマシーコーディネーター」を無料公開した理由　「お",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「空調服」のワード、使用しないで　公式が注意喚起「登録商標」　商品名からの一般名",
+      "title": "中国の対沖縄工作の目的・意味・成果を考える①",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "施設で働いている友人曰く「絶対に訴えないのでこの子（利用者）を脱走させるか何かし",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「空調服」の商標問題について（栗原潔） - エキスパート - Yahoo!ニュー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「AIのセキュリティリスクとしてお堅い説明するよりこれ見せた方が理解が早そう」A",
+      "title": "「空爆の映像と言われても分からない」爆発が起き、多数の人が閉じ込められているとさ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "家に佐川急便サポートセンターを名乗る者から“荷物の事で話がある”と電話が→デタラ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【夏休みを乗り切る】レンジで作れるパスタ＆ワンパンパスタまとめ22選｜山本ゆり",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -137,33 +161,9 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "はてな、11億円流出の調査報告書を公開　偽警察、口外禁止、残業・休出200時間超",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "「３食フライドポテト」で中学生はなぜ死んだのか…司法解剖で見えてきた「500円生",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "友達が作った天然石のブレスレットをつけてから2週間寝たきり…別の友達から厄年の子",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "熊本震度7で大変なのにヘルメット被って長崎の佐世保から中継してるジャパネットさん",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中華料理店に来た大柄でガッチリした体格の男性客が「ご飯少なめで」と言ったら、日本",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
