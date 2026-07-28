@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-28T06:45:15+09:00",
+ "generated_at": "2026-07-28T16:52:24+09:00",
  "valid_until": "2026-08-11T06:43:48+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "skill",
   "from_current": 48,
-  "from_new": 8,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 8,
+  "retention_dropped": 1,
   "genres": 6,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "【2026年最新】AIプロンプト仕様書の書き方完全ガイド｜エンジニアの新必須スキル",
+   "url": "https://ai-career-japan.jp/posts/ai%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E4%BB%95%E6%A7%98%E6%9B%B8%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%892026/",
+   "summary": "2026年時点のモデル（GPT-5.2/Claude 4.6等）は文脈理解が向上し細かい指示が不要になった一方、モデルごとに最適な記法（Claude=XML、ChatGPT=Markdown）が異なり使い分けが要求される。既存プロンプトの陳腐化という下流の悩みに直結。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "skill-ai-prompt",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "AI Career Japan",
+    "expert_origin": false,
+    "search_query": "AIモデル アップデート 2026年8月 プロンプト 効かなくなった 書き方 変わった",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-02T16:50:45+09:00",
+   "validity_days": 5
+  },
   {
    "source_category": "news_web",
    "raw_title": "生成AI副業「誰でも簡単に稼げる」は誤解、プロンプト設計力とチェック力が収入を左右",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-07-30T06:48:47+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "Claude Opus 4.8 のプロンプティング・ベストプラクティス — 公式ガイドの要点",
-   "url": "https://qiita.com/y-morimatsu/items/ea44baec84417d36b85d",
-   "summary": "Claude Opus 4.8向けプロンプティングの公式ベストプラクティスを解説。ポジティブな例示の重要性、役割・背景を先に置く構成順序、長時間セッションでの精度低下と再設定の工夫などを紹介。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "skill-ai-prompt",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Qiita",
-    "expert_origin": true,
-    "search_query": "Claude Opus 4.5 プロンプト 書き方 コツ 2026",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-29T16:53:19+09:00",
    "validity_days": 5
   },
   {

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-28T06:45:15+09:00",
+ "generated_at": "2026-07-28T16:52:24+09:00",
  "valid_until": "2026-08-10T06:43:22+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -16,6 +16,36 @@
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "ワールドカップ2026決勝の地上波テレビ放送・BS・ネット配信予定は？",
+   "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/tv-net-broadcast-schedule-worldcup-2026-final-spain-argentina/bltcb1cbd9a993f71b4",
+   "summary": "Goal.com記事。ワールドカップ2026決勝戦周辺の地上波・BS・ネット配信予定を紹介。NHK ONEの1週間見逃し配信やDAZNでの無料ライブ配信など、終了後に追いつきたい読者向けの視聴手段情報。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "sports-watch",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Goal.com 日本",
+    "expert_origin": false,
+    "search_query": "ワールドカップ2026 見逃し配信 いつまで 海外サッカー 移籍 追い方",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-02T16:50:18+09:00",
+   "validity_days": 5
+  },
   {
    "source_category": "news_web",
    "raw_title": "プロ野球中継が見られるおすすめサブスク16選を徹底比較！無料で見る方法も紹介",
@@ -220,36 +250,6 @@
     "integrity_warning": null,
     "provenance_kind": "evidence",
     "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-31T16:52:49+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "甲子園チケットが全く買えませんでした。公式戦のチケットは12:00から販売開始...",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14311465369",
-   "summary": "販売開始12時と同時にサイトがサーバー過負荷で数時間繋がらず、繋がった頃には完売という不満。転売業者への懸念や、確実にチケットを取る具体的な方法を知りたいという切実な質問で、実践的な攻略記事は手薄な様子。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "sports-watch",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "甲子園 チケット 買えない 知恵袋",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": true,
     "discovered_angle": null,
     "rescued": false
    },
