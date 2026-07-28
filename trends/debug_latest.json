@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T13:47:00+09:00",
+  "generated_at": "2026-07-28T19:15:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,51 +16,44 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
-    "dedup_excluded": 11,
-    "passed_total": 110,
+    "neg_excluded": 9,
+    "dedup_excluded": 9,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "news_web": 15,
-      "yahoo_realtime": 34,
+      "yahoo_realtime": 32,
+      "news_web": 16,
+      "yahoo_news_ranking": 3,
       "google_trends": 10,
-      "x_realtime": 8,
-      "yahoo_news_ranking": 3
+      "x_realtime": 9
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
-    "personal_story": 2,
+    "social_reaction": 35,
+    "personal_story": 3,
     "opinion": 10,
     "hard_fact": 17,
-    "medical_science": 4,
-    "policy": 5
+    "medical_science": 2,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 19,
-    "social_reaction": 32,
+    "social_reaction": 31,
+    "hard_fact": 22,
     "opinion": 10,
-    "personal_story": 2,
-    "policy": 5,
-    "medical_science": 2
+    "personal_story": 3,
+    "policy": 4
   },
   "b2b_top10": [
     {
-      "title": "BYDが日本で軽EV 実質100万円台",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "「ちょっとタイミングがズレてたら死んでたかも」渓流釣りの最中に起きた「クマより1",
+      "title": "髙嶋政伸さんがエッセイ「インティマシーコーディネーター」を無料公開した理由　「お",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "板東英二",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "避難中の熱中症警戒 蒸し暑さ続く",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_domestic",
+      "topic_category": "hard_fact"
     },
     {
       "title": "「空調服」のワード、使用しないで　公式が注意喚起「登録商標」　商品名からの一般名",
@@ -75,31 +68,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "警視庁がミストファンを導入　機動隊員の熱中症対策で",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "1週間程度は震度7程度の地震注意",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "宮城県高校野球",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "津波注意報を全て解除 気象庁",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_domestic",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "10年ぶりに家族でプールに行ったら、上裸の男性は自分含めかなり少なくて浦島太郎状",
+      "title": "災害時 SNS上でのデマなどに注意",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_it",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "日本にある『1年を計れる砂時計』は、製造を依頼した際にドイツの有名ガラスメーカー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "aig 女子 オープン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "【地震】熊本 イオンモール熊本で爆発音 上空からの映像 | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "リーケ・クラバー",
+      "title": "chelsea vs western sydney wanderers fc",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,7 +106,7 @@
   ],
   "note_top10": [
     {
-      "title": "「ちょっとタイミングがズレてたら死んでたかも」渓流釣りの最中に起きた「クマより1",
+      "title": "髙嶋政伸さんがエッセイ「インティマシーコーディネーター」を無料公開した理由　「お",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,45 +124,45 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "10年ぶりに家族でプールに行ったら、上裸の男性は自分含めかなり少なくて浦島太郎状",
+      "title": "日本にある『1年を計れる砂時計』は、製造を依頼した際にドイツの有名ガラスメーカー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "BYD、軽EV「ラッコ」の価格は214万5000円から スーパートール車形に両側",
+      "title": "はてな、11億円流出の調査報告書を公開　偽警察、口外禁止、残業・休出200時間超",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "低価格帯のかつやでなぜか客離れ…しかし松のやが強すぎる上に、卓上にピッチャーがな",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "通販で売られている『単純だけど一定数の人がドはまりするおもちゃ』の誘惑がすごい「",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "キングジムが投稿した、テプラとQRコードを活用した家電ライフハックに「こういうの",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "なぜあの人は、職場で不機嫌をまき散らすのか。精神科医に聞く「フキハラ」の正体 -",
+      "title": "小泉防衛大臣「“別班”は存在しない」　ドラマ「VIVANT」で描かれる陸自秘密部",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "三重県志摩市とヤバTとの“癒着”のひみつ「バンドマン連れて、来週も志摩に行く予定",
+      "title": "「再現性が低い行為で恋に落ちた話」をたくさん聞きたい→「ときめきポイントって人そ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「親族が孤独死した」と警察から連絡が⁉司法書士が教える孤独死相続の対応ガイド",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "東京駅にスゴイ電車がいた→最近あちこちで目撃されている要塞みたいな謎の電車の正体",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "立ちション被害が多い壁に定期的に防水スプレーをかけておいたら被害がほぼなくなった",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
