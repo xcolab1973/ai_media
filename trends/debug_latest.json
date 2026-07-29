@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T19:20:00+09:00",
+  "generated_at": "2026-07-29T23:59:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,37 +17,37 @@
       "x_realtime": 10
     },
     "neg_excluded": 14,
-    "dedup_excluded": 12,
-    "passed_total": 106,
+    "dedup_excluded": 9,
+    "passed_total": 109,
     "b2b_category_counts": {
-      "news_web": 17,
       "yahoo_realtime": 32,
       "google_trends": 10,
-      "x_realtime": 4,
-      "yahoo_news_ranking": 7
+      "yahoo_news_ranking": 7,
+      "x_realtime": 7,
+      "news_web": 14
     }
   },
   "note_category_counts": {
-    "social_reaction": 22,
+    "social_reaction": 24,
+    "opinion": 8,
     "personal_story": 3,
-    "opinion": 10,
-    "medical_science": 3,
-    "hard_fact": 30,
+    "medical_science": 5,
+    "hard_fact": 28,
     "policy": 2
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 31,
-    "social_reaction": 22,
-    "personal_story": 3,
-    "opinion": 10,
-    "medical_science": 2,
-    "policy": 2
+    "hard_fact": 29,
+    "social_reaction": 24,
+    "medical_science": 4,
+    "opinion": 8,
+    "policy": 2,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "熱中症に注意 避難生活のポイント",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
+      "title": "熊本地震で、コストコ店内のラックから大量の商品が落下する動画が話題に「絶対パニッ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
     },
     {
@@ -57,87 +57,75 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "「inゼリー」をスプーンで食べてみたい",
+      "title": "花火は野生動物への「死刑宣告」のおそれ、どういうこと？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「災害時でもこれとは本当にいい加減にせえよ」NHK ONEは一度登録しても繰り返",
+      "title": "子供の病院で問診の時に「お兄ちゃんが手足口病だったので、手足口病だとは思うんです",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "medical_science"
     },
     {
-      "title": "昭和や平成初期には「社会体制の歯車になりたくない」「決まったレールに乗りたくない",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "森下翔太",
+      "title": "泉房穂",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "野球 オールスター",
+      "title": "ヒコロヒー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "満月 7月",
+      "title": "掃除",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "イオンモール熊本で働いてて、地震が起きて避難した後に上司から「店舗の中撮影してき",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "桜島",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "NHK会長 受信料の値上げ検討せず",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
       "topic_category": "hard_fact"
     },
     {
-      "title": "高橋光成",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "熱中症に注意 避難生活のポイント",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_science",
+      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
     {
-      "title": "「inゼリー」をスプーンで食べてみたい",
+      "title": "花火は野生動物への「死刑宣告」のおそれ、どういうこと？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「災害時でもこれとは本当にいい加減にせえよ」NHK ONEは一度登録しても繰り返",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "昭和や平成初期には「社会体制の歯車になりたくない」「決まったレールに乗りたくない",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「ヒール履かない、スネ毛剃らない女の足はこんなもん」女性でも髭が生える人はいるが",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『みいちゃんと山田さん』のアニメ化、悪意の底が抜けたという意見が一番的確ではない",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "【動画】イオンモール熊本の内部をドローン撮影 陸上自衛隊 | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "打首獄門同好会ってバンドの「ちいかわの映画見てきたよ」の漫画にナガノ先生が島二郎",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『みいちゃんと山田さん』理解者のように見える須崎先生、実は間違った対応をしていた",
+      "title": "「ほんの1万円、タクシーを走らせるだけで日常はあります」被災した時、余裕があるな",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -149,19 +137,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "今、それでも『共通善』を語るために 宇野重規×朱喜哲対談「バラバラな世界で、私た",
+      "title": "掃除",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「みいちゃんと山田さん」について、リエゾン原作者としての意見｜竹村優作（リエゾン",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "態度としての『リベラル』を再考する 宇野重規×朱喜哲対談「バラバラな世界で、私た",
+      "title": "リーンモビリティと豊田通商、3輪EV「Lean3」の国内法人向け販売代理店契約を",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "持ち運びが可能なエアコン約300台 熊本空港へ 防衛省 | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "髭剃りを買うたびに女性は買わなくていいと羨ましくなる→女性でも生える人が写真を投",
+      "title": "日本酒好きの片思いの女性に、たまたま入った店の日本酒の銘柄を「斬九郎、九平次、庭",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
