@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T13:52:00+09:00",
+  "generated_at": "2026-07-29T19:20:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
+    "neg_excluded": 14,
     "dedup_excluded": 12,
-    "passed_total": 109,
+    "passed_total": 106,
     "b2b_category_counts": {
-      "yahoo_realtime": 30,
-      "x_realtime": 7,
-      "news_web": 16,
+      "news_web": 17,
+      "yahoo_realtime": 32,
       "google_trends": 10,
+      "x_realtime": 4,
       "yahoo_news_ranking": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 23,
+    "social_reaction": 22,
     "personal_story": 3,
     "opinion": 10,
     "medical_science": 3,
-    "hard_fact": 27,
-    "policy": 4
+    "hard_fact": 30,
+    "policy": 2
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 29,
+    "hard_fact": 31,
     "social_reaction": 22,
-    "policy": 4,
     "personal_story": 3,
     "opinion": 10,
-    "medical_science": 2
+    "medical_science": 2,
+    "policy": 2
   },
   "b2b_top10": [
+    {
+      "title": "熱中症に注意 避難生活のポイント",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
     {
       "title": "【動画】イオンモール熊本の内部映像を公開 警察庁 | NHKニュース",
       "source_category": "yahoo_realtime",
@@ -57,49 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "キャッシュカードを取られ、水は500mmのペットボトル一本、泡を吹いて搬送された",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「災害時でもこれとは本当にいい加減にせえよ」NHK ONEは一度登録しても繰り返",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "昭和や平成初期には「社会体制の歯車になりたくない」「決まったレールに乗りたくない",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "00000JAPAN 利用時の注意点",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
+      "title": "森下翔太",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "「被災地には、向かってはいけません。電話をしてはいけません。何も送ってはいけませ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "title": "野球 オールスター",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "『みいちゃんと山田さん』のアニメ化、悪意の底が抜けたという意見が一番的確ではない",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "満月 7月",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "九州危険な暑さ 水分や塩分補給を",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "警察庁がイオンモール熊本の内部の映像を公開… 爆発のすさまじさが窺える映像に様々",
+      "title": "イオンモール熊本で働いてて、地震が起きて避難した後に上司から「店舗の中撮影してき",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
     },
     {
-      "title": "中国の対沖縄工作の目的・意味・成果を考える①",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "インターハイバスケ",
+      "title": "高橋光成",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,9 +113,15 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "キャッシュカードを取られ、水は500mmのペットボトル一本、泡を吹いて搬送された",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「災害時でもこれとは本当にいい加減にせえよ」NHK ONEは一度登録しても繰り返",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "昭和や平成初期には「社会体制の歯車になりたくない」「決まったレールに乗りたくない",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -125,43 +131,37 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "中国の対沖縄工作の目的・意味・成果を考える①",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「無い行間を読まない」「見えてない意図を想像しない」などはコミュニケーションにお",
+      "title": "【動画】イオンモール熊本の内部をドローン撮影 陸上自衛隊 | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "マネジメントやりたくない……と疲れていませんか。「心理的リソース」の意識があなた",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ユニバーサルデザインの基本｜バリアフリーとの違い、7原則や身の回りの具体例を紹介",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "現代の創作において、主人公の設定は女性の方が自由で、男性の方は求められる役割が多",
+      "title": "『みいちゃんと山田さん』理解者のように見える須崎先生、実は間違った対応をしていた",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ジミ・ヘンドリックスはなぜ、ステージ上でギターを破壊したのか？　元ローディーはジ",
+      "title": "サイゼリヤは格安だから周りの店が潰れてしまっても叩かれたりしないのに、年金で生活",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "田舎で家族5人が写ったAI生成画像を見て、ポスト主が何で直感的に「AIに作らせた",
+      "title": "今、それでも『共通善』を語るために 宇野重規×朱喜哲対談「バラバラな世界で、私た",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "態度としての『リベラル』を再考する 宇野重規×朱喜哲対談「バラバラな世界で、私た",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "髭剃りを買うたびに女性は買わなくていいと羨ましくなる→女性でも生える人が写真を投",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
