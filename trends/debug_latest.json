@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T23:59:00+09:00",
+  "generated_at": "2026-07-30T07:36:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,46 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 14,
-    "dedup_excluded": 9,
-    "passed_total": 109,
+    "neg_excluded": 11,
+    "dedup_excluded": 8,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "yahoo_news_ranking": 7,
-      "x_realtime": 7,
-      "news_web": 14
+      "yahoo_news_ranking": 6,
+      "x_realtime": 8,
+      "news_web": 11
     }
   },
   "note_category_counts": {
-    "social_reaction": 24,
-    "opinion": 8,
-    "personal_story": 3,
-    "medical_science": 5,
-    "hard_fact": 28,
-    "policy": 2
+    "social_reaction": 21,
+    "personal_story": 5,
+    "opinion": 10,
+    "policy": 4,
+    "hard_fact": 27,
+    "medical_science": 3
   },
   "b2b_topic_category_counts": {
     "hard_fact": 29,
-    "social_reaction": 24,
-    "medical_science": 4,
-    "opinion": 8,
-    "policy": 2,
-    "personal_story": 3
+    "policy": 4,
+    "social_reaction": 21,
+    "opinion": 10,
+    "personal_story": 5,
+    "medical_science": 1
   },
   "b2b_top10": [
+    {
+      "title": "熊本地震で問われた「企業防災」　教訓生かすために必要な視点は | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "熊本地震の死者１２人、心肺停止６人に…イオンモール爆発でガス漏れに引火の可能性",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
     {
       "title": "熊本地震で、コストコ店内のラックから大量の商品が落下する動画が話題に「絶対パニッ",
       "source_category": "yahoo_realtime",
@@ -51,10 +63,10 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "【動画】イオンモール熊本の内部映像を公開 警察庁 | NHKニュース",
+      "title": "熊本 暑さ対策の簡易型クーラー第1便 高齢者施設などに到着 | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "policy"
     },
     {
       "title": "花火は野生動物への「死刑宣告」のおそれ、どういうこと？",
@@ -63,46 +75,34 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "子供の病院で問診の時に「お兄ちゃんが手足口病だったので、手足口病だとは思うんです",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "泉房穂",
+      "title": "半導体株",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ヒコロヒー",
+      "title": "中村倫也",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "掃除",
+      "title": "nasdaq aapl",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "桜島",
+      "title": "リヴァプールfc",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "NHK会長 受信料の値上げ検討せず",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "熱中症に注意 避難生活のポイント",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_science",
-      "topic_category": "hard_fact"
+      "title": "nasdaq amzn",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
@@ -114,54 +114,54 @@
     },
     {
       "title": "「ヒール履かない、スネ毛剃らない女の足はこんなもん」女性でも髭が生える人はいるが",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "打首獄門同好会ってバンドの「ちいかわの映画見てきたよ」の漫画にナガノ先生が島二郎",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ほんの1万円、タクシーを走らせるだけで日常はあります」被災した時、余裕があるな",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "サイゼリヤは格安だから周りの店が潰れてしまっても叩かれたりしないのに、年金で生活",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "掃除",
+      "title": "最近娘が「パパの好きなガンダムの歌がまた聴きたい。むせち◯ぽの歌！」と言うのだが",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "幼い頃から、身の回りにでっかいマタギがいたので、でっかい人間大好きのまま、歳をと",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ちいかわ」作者・ナガノさんが女性と知って驚く人驚かない人…「メイドインアビス」",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "我が子が産まれ、家に連れて帰ったら、ペットの猫と初対面… 猫は我が子にやけに興味",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "半導体株",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "「みいちゃんと山田さん」について、リエゾン原作者としての意見｜竹村優作（リエゾン",
+      "title": "GEZANマヒトゥ・ザ・ピーポーが性加害、バンドは一定期間の活動を休止 - 音楽",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "リーンモビリティと豊田通商、3輪EV「Lean3」の国内法人向け販売代理店契約を",
+      "title": "Prime Video「ブレードランナー」実写ドラマ11月配信。「2049」から",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "持ち運びが可能なエアコン約300台 熊本空港へ 防衛省 | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日本酒好きの片思いの女性に、たまたま入った店の日本酒の銘柄を「斬九郎、九平次、庭",
+      "title": "ファミレスで、注文してからトイレに行って戻ってきたら、自分の席に知らないおじさん",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
