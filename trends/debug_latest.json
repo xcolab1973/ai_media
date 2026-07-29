@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T07:40:00+09:00",
+  "generated_at": "2026-07-29T13:52:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,57 +16,81 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 11,
+    "neg_excluded": 11,
+    "dedup_excluded": 12,
     "passed_total": 109,
     "b2b_category_counts": {
-      "google_trends": 10,
-      "yahoo_realtime": 34,
+      "yahoo_realtime": 30,
       "x_realtime": 7,
-      "news_web": 14,
-      "yahoo_news_ranking": 5
+      "news_web": 16,
+      "google_trends": 10,
+      "yahoo_news_ranking": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 17,
-    "personal_story": 1,
-    "opinion": 9,
-    "medical_science": 2,
-    "hard_fact": 35,
-    "policy": 6
+    "social_reaction": 23,
+    "personal_story": 3,
+    "opinion": 10,
+    "medical_science": 3,
+    "hard_fact": 27,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 17,
-    "hard_fact": 36,
-    "personal_story": 1,
-    "opinion": 9,
-    "policy": 6,
-    "medical_science": 1
+    "hard_fact": 29,
+    "social_reaction": 22,
+    "policy": 4,
+    "personal_story": 3,
+    "opinion": 10,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "横浜流星 炎上",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "イオンモール熊本の2階部分が崩落、閉じ込め多数の情報　捜索始まる：朝日新聞",
+      "title": "【動画】イオンモール熊本の内部映像を公開 警察庁 | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
     },
     {
-      "title": "「被災地には、向かってはいけません。電話をしてはいけません。何も送ってはいけませ",
+      "title": "「inゼリー」をスプーンで食べてみたい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "キャッシュカードを取られ、水は500mmのペットボトル一本、泡を吹いて搬送された",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "髙嶋政伸さんがエッセイ「インティマシーコーディネーター」を無料公開した理由　「お",
+      "title": "00000JAPAN 利用時の注意点",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "「被災地には、向かってはいけません。電話をしてはいけません。何も送ってはいけませ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "policy"
+    },
+    {
+      "title": "『みいちゃんと山田さん』のアニメ化、悪意の底が抜けたという意見が一番的確ではない",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "九州危険な暑さ 水分や塩分補給を",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "警察庁がイオンモール熊本の内部の映像を公開… 爆発のすさまじさが窺える映像に様々",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
     },
     {
       "title": "中国の対沖縄工作の目的・意味・成果を考える①",
@@ -75,31 +99,7 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "熊本厳しい暑さ 熱中症と地震警戒",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "「高速道路終わった」令和8年熊本地震の影響で破断した高速道路に嘆く人がいるが…実",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "熊本で地震発生…「家大丈夫か？」と気になって防犯カメラを見たら、寝かせていたタイ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "日本通信",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "松山市天気",
+      "title": "インターハイバスケ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,22 +107,22 @@
   ],
   "note_top10": [
     {
-      "title": "横浜流星 炎上",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
+      "title": "「inゼリー」をスプーンで食べてみたい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「被災地には、向かってはいけません。電話をしてはいけません。何も送ってはいけませ",
+      "title": "キャッシュカードを取られ、水は500mmのペットボトル一本、泡を吹いて搬送された",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "髙嶋政伸さんがエッセイ「インティマシーコーディネーター」を無料公開した理由　「お",
+      "title": "『みいちゃんと山田さん』のアニメ化、悪意の底が抜けたという意見が一番的確ではない",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
       "title": "中国の対沖縄工作の目的・意味・成果を考える①",
@@ -131,39 +131,39 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "施設で働いている友人曰く「絶対に訴えないのでこの子（利用者）を脱走させるか何かし",
+      "title": "「無い行間を読まない」「見えてない意図を想像しない」などはコミュニケーションにお",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「空爆の映像と言われても分からない」爆発が起き、多数の人が閉じ込められているとさ",
+      "title": "マネジメントやりたくない……と疲れていませんか。「心理的リソース」の意識があなた",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ユニバーサルデザインの基本｜バリアフリーとの違い、7原則や身の回りの具体例を紹介",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "現代の創作において、主人公の設定は女性の方が自由で、男性の方は求められる役割が多",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "家に佐川急便サポートセンターを名乗る者から“荷物の事で話がある”と電話が→デタラ",
+      "title": "ジミ・ヘンドリックスはなぜ、ステージ上でギターを破壊したのか？　元ローディーはジ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "田舎で家族5人が写ったAI生成画像を見て、ポスト主が何で直感的に「AIに作らせた",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【夏休みを乗り切る】レンジで作れるパスタ＆ワンパンパスタまとめ22選｜山本ゆり",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "料理コラムニスト・山本ゆり氏が、今までで最大のレシピ数を誇る「夏休みを乗り切るレ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「３食フライドポテト」で中学生はなぜ死んだのか…司法解剖で見えてきた「500円生",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
