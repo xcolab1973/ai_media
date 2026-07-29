@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-29T17:01:24+09:00",
- "valid_until": "2026-08-11T06:42:45+09:00",
+ "generated_at": "2026-07-30T06:51:25+09:00",
+ "valid_until": "2026-08-13T06:44:19+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "relationship",
   "from_current": 24,
-  "from_new": 0,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 0,
+  "retention_dropped": 1,
   "genres": 3,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "雑談のネタ・話題の選び方！親戚や義実家への帰省、どう乗り切る [話し方・伝え方] All About",
+   "url": "https://allabout.co.jp/gm/gc/472691/",
+   "summary": "お盆や年末年始の帰省時、親戚や義実家との気まずい沈黙・話題選びに悩む読者に向けて、雑談のネタ出しと会話の広げ方を解説。毎年繰り返す季節行事×家族関係の衝突ペインに具体的な会話設計の視点を提示している。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "relationship-social",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "All About",
+    "expert_origin": true,
+    "search_query": "お盆 帰省 実家 家族 気まずい 会話 対処法",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-13T06:44:19+09:00",
+   "validity_days": 14
+  },
   {
    "source_category": "news_web",
    "raw_title": "｢職場の苦手な人｣で心を消耗しない2つのコツ",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-03T06:40:01+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "「帰省」で疲れてしまう人へ。家族や親戚との関係を無理せず保つ方法",
-   "url": "https://allabout.co.jp/gm/gc/490735/",
-   "summary": "お盆や年末年始の帰省で親戚づきあいに疲れる人向けに、滞在時間を区切る、無理して会わない選択肢を持つ、相性が合わない相手とは物理的に距離を取るなど、心の負担を減らす付き合い方のコツを紹介している。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "relationship-social",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "All About",
-    "expert_origin": true,
-    "search_query": "お盆 帰省 親戚付き合い 気まずい 距離の置き方 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-01T06:40:29+09:00",
    "validity_days": 14
   },
   {
