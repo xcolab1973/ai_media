@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-28T16:52:25+09:00",
- "valid_until": "2026-08-11T16:51:59+09:00",
+ "generated_at": "2026-07-29T17:01:25+09:00",
+ "valid_until": "2026-08-12T16:55:15+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "work",
   "from_current": 32,
-  "from_new": 3,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 3,
+  "retention_dropped": 1,
   "genres": 4,
   "retention_per_genre": 8
  },
@@ -498,6 +498,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "週20時間ぴったりのバイトをしています。",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12311059317",
+   "summary": "週20時間ちょうどのシフトで働く投稿者が、社会保険加入の対象になるかどうかを判断できず不安を吐露するQ&A。副業・扶養内勤務者がシフト調整だけで加入を避けられるのか整理できていない実態がうかがえる。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "work-sidejob-start",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "副業 扶養 週20時間 社会保険 加入したくない 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": true,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-12T16:55:15+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "【2026年】サラリーマン副業おすすめ22選｜月2万円を6カテゴリで稼ぐ",
    "url": "https://entrenet.jp/magazine/25168/",
    "summary": "会社員向けにサラリーマン副業のおすすめを22選、月2万円を目安に6カテゴリで紹介する記事。夏休みや季節性に絡めた企画ではなく通年向けの一般的な副業紹介リストで、夏場に副業を始めたい読者向けの具体的な切り口は見当たらなかった。",
@@ -704,36 +734,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-04T16:50:08+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "副業禁止の会社に務めていますが、生活が苦しく、副業を始めたい。でも住民税でバレる。という所でとても悩んでおります。",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10294317100",
-   "summary": "副業禁止の会社に勤めているが生活が苦しく副業を始めたい、住民税で会社にバレるのが不安という相談がYahoo!知恵袋に投稿。普通徴収を選んでも自治体の処理ミスで通知される可能性があるなど、完全にバレない方法はないとの回答が寄せられている。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "work-sidejob-start",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "site:chiebukuro.yahoo.co.jp 副業 会社 バレる 不安",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-02T16:51:25+09:00",
    "validity_days": 14
   },
   {

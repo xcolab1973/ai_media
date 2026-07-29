@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-28T16:52:24+09:00",
+ "generated_at": "2026-07-29T17:01:24+09:00",
  "valid_until": "2026-08-11T16:44:36+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "health",
   "from_current": 40,
-  "from_new": 5,
+  "from_new": 0,
   "expired_pruned": 0,
-  "retention_dropped": 5,
+  "retention_dropped": 0,
   "genres": 5,
   "retention_per_genre": 8
  },
