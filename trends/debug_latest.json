@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T13:39:00+09:00",
+  "generated_at": "2026-07-30T19:05:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -20,85 +20,86 @@
     "dedup_excluded": 11,
     "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
+      "yahoo_realtime": 27,
       "google_trends": 10,
-      "x_realtime": 6,
-      "news_web": 14,
+      "news_web": 18,
+      "x_realtime": 8,
       "yahoo_news_ranking": 7
     }
   },
   "note_category_counts": {
+    "social_reaction": 27,
     "personal_story": 4,
-    "social_reaction": 23,
-    "opinion": 10,
-    "policy": 6,
-    "hard_fact": 24,
-    "medical_science": 3
+    "opinion": 9,
+    "hard_fact": 18,
+    "policy": 7,
+    "medical_science": 5
   },
   "b2b_topic_category_counts": {
     "policy": 8,
-    "hard_fact": 27,
     "social_reaction": 22,
-    "opinion": 10,
+    "hard_fact": 26,
+    "opinion": 9,
+    "medical_science": 2,
     "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "食料品の消費税率 来年4月から2年間 1％ 高市首相が方針表明 | NHKニュー",
+      "title": "食料品消費税 来年4月から2年間 1％ 高市首相が役員会で表明 | NHKニュー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "熊本地震で問われた「企業防災」　教訓生かすために必要な視点は | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "熊本地震の死者１２人、心肺停止６人に…イオンモール爆発でガス漏れに引火の可能性",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "イオンの店員でさえ災害時に逃げたら「客を置いて逃げた」とか言われるんだもん、やっ",
+      "title": "RIKU - あなたが書くべき話が、必ずある。",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "朝、施工場に来たら、ハイエースに違法駐車されてて車の入出庫は出来ないし、トイレに",
+      "title": "滝のように出る水・腐ったような臭いが充満、イオンモール外に出た数分後「ドカーン」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "トランプ氏支持率34％、米国民の半数が「強く不支持」　CNN世論調査",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "雨雲レーダー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "東京 天気",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "SNSで「イオンモール熊本のテナント勤務の母と連絡が取れない」と投稿してる人がい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "マッサン",
+      "title": "ウェザーニュース",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "エドウィン・ディアス",
+      "title": "yahoo天気",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "dcm",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "チェイス・シルセス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ユニバーサル・スタジオ・ジャパン",
+      "title": "天気予報 東京",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,21 +107,45 @@
   ],
   "note_top10": [
     {
-      "title": "3年前、結婚報告した途端に「価値観合わないと思ってたからもう友達やめる」とLIN",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "イオンの店員でさえ災害時に逃げたら「客を置いて逃げた」とか言われるんだもん、やっ",
+      "title": "RIKU - あなたが書くべき話が、必ずある。",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "朝、施工場に来たら、ハイエースに違法駐車されてて車の入出庫は出来ないし、トイレに",
+      "title": "SNSで「イオンモール熊本のテナント勤務の母と連絡が取れない」と投稿してる人がい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "横浜市長のパワハラ認定　部下に「ポンコツ」「人間のくず」、市長室「出禁」も―第三",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【追記あり】朝、施工場に来たら、ハイエースに違法駐車されてて車の入出庫は出来ない",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ファッションに興味がない娘が修学旅行に着ていく服が決まらないが、新しい服を買いた",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "この出品者の商品、一生見てられる…ヤフオクの出品写真に絶対写り込むわんこが話題「",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "元友人から「お前は純血の日本人じゃない」と言われたので、気になって自分のルーツを",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -130,37 +155,13 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "靴を修理する仕事をしたことがあるが、女性の靴は底面の前側が薄すぎるのに、ヒールで",
+      "title": "3年前、結婚報告した途端に「価値観合わないと思ってたからもう友達やめる」とLIN",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "TAKOYAKI・その無限の可能性を探る　たこの代わりにおかずやをスイーツを詰め",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "NANAが話題だけどママレード・ボーイも色々とヤバいよね…小中学生の頃に読んでい",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "スーパーでママさんが「やさいパンここにも売ってないわ」と言っていたので、「西松屋",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ここまで怒っているのか、2人はわかっているはず」ひろゆき氏＆泉房穂議員による新",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "イタリアントマトカフェジュニア",
+      "title": "父が作る麺つゆは醤油、みりん、鶏もも肉、ニンニクたっぷりで煮込むのだが、いつも美",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
