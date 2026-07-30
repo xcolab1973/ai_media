@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-30T16:58:09+09:00",
+ "generated_at": "2026-07-31T06:47:36+09:00",
  "valid_until": "2026-08-08T06:37:12+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "biz",
   "from_current": 20,
-  "from_new": 3,
-  "expired_pruned": 0,
-  "retention_dropped": 3,
+  "from_new": 2,
+  "expired_pruned": 2,
+  "retention_dropped": 0,
   "genres": 3,
   "retention_per_genre": 8
  },
@@ -258,6 +258,66 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "トップページ（一般型）｜中小企業省力化投資補助金",
+   "url": "https://shoryokuka.smrj.go.jp/ippan/",
+   "summary": "中小企業省力化投資補助金・一般型の公式サイト。第7回公募は申請受付開始2026年7月1日、締切2026年7月31日17時、採択発表は11月中旬予定。GビズIDプライム未取得だと申請できず、駆け込み申請者の準備不足リスクが高い。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "official_instruction",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "biz-subsidy",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "中小企業省力化投資補助金事務局(公式)",
+    "expert_origin": true,
+    "search_query": "中小企業省力化投資補助金 第7回 締切 2026年7月31日 間に合う 申請",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-07T06:36:31+09:00",
+   "validity_days": 7
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "中小企業省力化投資補助金は個人事業主でも利用可能か？",
+   "url": "https://mono-support.com/shoujinka/shoryokuka-freelancer/",
+   "summary": "個人事業主が省力化投資補助金を申請できるか整理した解説記事。法人に比べ個人事業主だから採択されにくい傾向はなく、審査は事業内容の実効性と省力化効果が重視されるとする一方、事業計画書作成の負担の大きさを指摘。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "biz-subsidy",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "mono-support.com",
+    "expert_origin": false,
+    "search_query": "持続化補助金 省力化補助金 個人事業主 採択されない 難しい 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-07T06:36:31+09:00",
+   "validity_days": 7
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "補助金不採択時の対応戦略｜不採択理由の見直し・改善版での再申請・別補助金併願の進め方",
    "url": "https://office-tree.jp/blog/subsidy/subsidy-unsuccessful-strategy/",
    "summary": "行政書士法人による専門解説。不採択通知の分析→改善版作成→再申請または別補助金併願という「不採択後、自分はどうすれば」に答える具体的な行動指針を示す。",
@@ -374,36 +434,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-02T06:38:41+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "補助金不採択の理由と5つの改善策｜元審査員が解説",
-   "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/%E4%B8%8D%E5%AE%89%E3%83%BB%E8%A3%9C%E5%8A%A9%E9%87%91/subsidy-application-rejected-reasons",
-   "summary": "持続化補助金は不採択理由が原則非開示でブラックボックス化されており、事業課題と投資内容が結びついていない計画が典型的な不採択パターン。事務局への問い合わせで概要を教えてもらえる場合もあると元審査員が解説。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "biz-subsidy",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "v-spirits（元審査員監修メディア）",
-    "expert_origin": true,
-    "search_query": "持続化補助金 不採択 理由 知恵袋 OR 教えて",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-31T06:35:27+09:00",
    "validity_days": 7
   },
   {
@@ -584,36 +614,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-02T06:35:28+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "資金ショートとは？経営危機を乗り切るための対策を大公開",
-   "url": "https://sikin-rescue.jp/column/current-assets/funds-short",
-   "summary": "個人事業主・小規模事業者向けに資金ショートの主な原因と緊急時の対処法を整理。入金を早め出金を遅らせる管理体制の重要性など、普遍的なつまずきポイントを扱う。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "biz-small-shop",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "資金調達ニュース.com",
-    "expert_origin": false,
-    "search_query": "個人事業主 夏 資金繰り 賞与 下半期 資金ショート 対策",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-07-31T06:36:50+09:00",
    "validity_days": 14
   }
  ]
