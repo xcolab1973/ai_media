@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T19:05:00+09:00",
+  "generated_at": "2026-07-30T23:56:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
+    "neg_excluded": 10,
     "dedup_excluded": 11,
-    "passed_total": 114,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "yahoo_realtime": 27,
+      "yahoo_realtime": 32,
       "google_trends": 10,
-      "news_web": 18,
-      "x_realtime": 8,
-      "yahoo_news_ranking": 7
+      "yahoo_news_ranking": 9,
+      "x_realtime": 6,
+      "news_web": 13
     }
   },
   "note_category_counts": {
-    "social_reaction": 27,
     "personal_story": 4,
+    "social_reaction": 22,
     "opinion": 9,
-    "hard_fact": 18,
+    "hard_fact": 26,
     "policy": 7,
-    "medical_science": 5
+    "medical_science": 2
   },
   "b2b_topic_category_counts": {
-    "policy": 8,
+    "personal_story": 4,
+    "policy": 9,
     "social_reaction": 22,
-    "hard_fact": 26,
+    "hard_fact": 25,
     "opinion": 9,
-    "medical_science": 2,
-    "personal_story": 3
+    "medical_science": 1
   },
   "b2b_top10": [
+    {
+      "title": "チョコようかん、口コミが良かったので非常用に備蓄していたが家族の誰も口に合わなく",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
     {
       "title": "食料品消費税 来年4月から2年間 1％ 高市首相が役員会で表明 | NHKニュー",
       "source_category": "yahoo_realtime",
@@ -63,43 +69,37 @@
       "topic_category": "hard_fact"
     },
     {
+      "title": "セクハラに対する許容度が異様に高い会社に勤めている",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "モンスト あみだくじ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
       "title": "トランプ氏支持率34％、米国民の半数が「強く不支持」　CNN世論調査",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "雨雲レーダー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "東京 天気",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "SNSで「イオンモール熊本のテナント勤務の母と連絡が取れない」と投稿してる人がい",
+      "title": "ビオレの「角栓壊す洗顔」を使ったら角栓は無くなったが、取った後がボコボコなんだけ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ウェザーニュース",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "吉野家の「金目鯛の煮付け」に対して「魚の煮付けは味を染み込ませる料理ではない」と",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
-      "title": "yahoo天気",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "天気予報 東京",
+      "title": "中島佑気ジョセフ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,9 +107,39 @@
   ],
   "note_top10": [
     {
+      "title": "チョコようかん、口コミが良かったので非常用に備蓄していたが家族の誰も口に合わなく",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "セクハラに対する許容度が異様に高い会社に勤めている",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "RIKU - あなたが書くべき話が、必ずある。",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ビオレの「角栓壊す洗顔」を使ったら角栓は無くなったが、取った後がボコボコなんだけ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "吉野家の「金目鯛の煮付け」に対して「魚の煮付けは味を染み込ませる料理ではない」と",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "母親からウォシュレットは汚いと言われてから人生で一度も使ってなかったが、彼氏に「",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -119,49 +149,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "横浜市長のパワハラ認定　部下に「ポンコツ」「人間のくず」、市長室「出禁」も―第三",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【追記あり】朝、施工場に来たら、ハイエースに違法駐車されてて車の入出庫は出来ない",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ファッションに興味がない娘が修学旅行に着ていく服が決まらないが、新しい服を買いた",
+      "title": "Web面接で感じが良くてハキハキしていて適性検査も高得点だった女の子、いざ入社し",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "この出品者の商品、一生見てられる…ヤフオクの出品写真に絶対写り込むわんこが話題「",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "横浜市長のパワハラ認定　部下に「ポンコツ」「くず」―第三者報告：時事ドットコム",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "元友人から「お前は純血の日本人じゃない」と言われたので、気になって自分のルーツを",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【老後破産】「実家は後でいいや」の末路…解体費などで137万円支払った50代会社",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "3年前、結婚報告した途端に「価値観合わないと思ってたからもう友達やめる」とLIN",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "父が作る麺つゆは醤油、みりん、鶏もも肉、ニンニクたっぷりで煮込むのだが、いつも美",
+      "title": "検証：DAZN（ダゾーン）は何クリックで解約できるのか？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
