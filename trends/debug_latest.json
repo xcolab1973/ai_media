@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T07:36:00+09:00",
+  "generated_at": "2026-07-30T13:39:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,39 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
-    "dedup_excluded": 8,
-    "passed_total": 113,
+    "neg_excluded": 7,
+    "dedup_excluded": 11,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 33,
       "google_trends": 10,
-      "yahoo_news_ranking": 6,
-      "x_realtime": 8,
-      "news_web": 11
+      "x_realtime": 6,
+      "news_web": 14,
+      "yahoo_news_ranking": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 21,
-    "personal_story": 5,
+    "personal_story": 4,
+    "social_reaction": 23,
     "opinion": 10,
-    "policy": 4,
-    "hard_fact": 27,
+    "policy": 6,
+    "hard_fact": 24,
     "medical_science": 3
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 29,
-    "policy": 4,
-    "social_reaction": 21,
+    "policy": 8,
+    "hard_fact": 27,
+    "social_reaction": 22,
     "opinion": 10,
-    "personal_story": 5,
-    "medical_science": 1
+    "personal_story": 3
   },
   "b2b_top10": [
+    {
+      "title": "食料品の消費税率 来年4月から2年間 1％ 高市首相が方針表明 | NHKニュー",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
     {
       "title": "熊本地震で問われた「企業防災」　教訓生かすために必要な視点は | 毎日新聞",
       "source_category": "yahoo_realtime",
@@ -57,49 +62,43 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "熊本地震で、コストコ店内のラックから大量の商品が落下する動画が話題に「絶対パニッ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "熊本 暑さ対策の簡易型クーラー第1便 高齢者施設などに到着 | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "花火は野生動物への「死刑宣告」のおそれ、どういうこと？",
+      "title": "イオンの店員でさえ災害時に逃げたら「客を置いて逃げた」とか言われるんだもん、やっ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "半導体株",
+      "title": "朝、施工場に来たら、ハイエースに違法駐車されてて車の入出庫は出来ないし、トイレに",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "マッサン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "中村倫也",
+      "title": "エドウィン・ディアス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "nasdaq aapl",
+      "title": "dcm",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "リヴァプールfc",
+      "title": "チェイス・シルセス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "nasdaq amzn",
+      "title": "ユニバーサル・スタジオ・ジャパン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,63 +106,63 @@
   ],
   "note_top10": [
     {
-      "title": "花火は野生動物への「死刑宣告」のおそれ、どういうこと？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ヒール履かない、スネ毛剃らない女の足はこんなもん」女性でも髭が生える人はいるが",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "最近娘が「パパの好きなガンダムの歌がまた聴きたい。むせち◯ぽの歌！」と言うのだが",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "幼い頃から、身の回りにでっかいマタギがいたので、でっかい人間大好きのまま、歳をと",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ちいかわ」作者・ナガノさんが女性と知って驚く人驚かない人…「メイドインアビス」",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "我が子が産まれ、家に連れて帰ったら、ペットの猫と初対面… 猫は我が子にやけに興味",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "半導体株",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "GEZANマヒトゥ・ザ・ピーポーが性加害、バンドは一定期間の活動を休止 - 音楽",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Prime Video「ブレードランナー」実写ドラマ11月配信。「2049」から",
+      "title": "3年前、結婚報告した途端に「価値観合わないと思ってたからもう友達やめる」とLIN",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "ファミレスで、注文してからトイレに行って戻ってきたら、自分の席に知らないおじさん",
+      "title": "イオンの店員でさえ災害時に逃げたら「客を置いて逃げた」とか言われるんだもん、やっ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "朝、施工場に来たら、ハイエースに違法駐車されてて車の入出庫は出来ないし、トイレに",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【老後破産】「実家は後でいいや」の末路…解体費などで137万円支払った50代会社",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "靴を修理する仕事をしたことがあるが、女性の靴は底面の前側が薄すぎるのに、ヒールで",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "TAKOYAKI・その無限の可能性を探る　たこの代わりにおかずやをスイーツを詰め",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "NANAが話題だけどママレード・ボーイも色々とヤバいよね…小中学生の頃に読んでい",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "スーパーでママさんが「やさいパンここにも売ってないわ」と言っていたので、「西松屋",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ここまで怒っているのか、2人はわかっているはず」ひろゆき氏＆泉房穂議員による新",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "イタリアントマトカフェジュニア",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
