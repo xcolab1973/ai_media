@@ -2,16 +2,88 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-07-30T18:59:54+0900",
+    "generated_at": "2026-07-31T07:37:52+0900",
     "record_count": 43,
-    "source_total_in_db": 707,
+    "source_total_in_db": 711,
     "provenance_breakdown": {
-      "evidence": 440,
-      "pain_seed": 267
+      "evidence": 443,
+      "pain_seed": 268
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_b39e3328d563",
+      "trend_term": "美容医療の安全規制",
+      "raw_title": "美容医療で死亡・HIV感染・無免許手術…17兆円市場で「安全」が置き去りに！世界各国で後手に回る「規制」の実態、日本は？ - ダイヤモンド・オンライン",
+      "summary": "美容医療市場17兆円における死亡・HIV感染・無免許手術などの事例報告。国際的な規制の遅れと日本の対応状況に関する調査報道。",
+      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpNWdNUTl1b3NYbm01QjFpMzdTLTBoM3pOY1FkQlZjWXBmMnQ0UHJxT3J4ZnFRdnJNNU94VUd2dE5SbldxTm9VdzdPU0o?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpNWdNUTl1b3NYbm01QjFpMzdTLTBoM3pOY1FkQlZjWXBmMnQ0UHJxT3J4ZnFRdnJNNU94VUd2dE5SbldxTm9VdzdPU0o?oc=5",
+      "source_name": "ダイヤモンド・オンライン",
+      "monitor_id": "bm-safety-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-05T07:37:41+0900",
+      "status": "candidate",
+      "created_at": "2026-07-31T07:37:41+0900"
+    },
+    {
+      "seed_id": "seed_3d8fe1dea258",
+      "trend_term": "再生医療発想ドクターズコスメ",
+      "raw_title": "再生医療発想のドクターズコスメ「LATINÖU」、スキンケアも叶える美容液UVプロテクション『Daily Serum』7/25新発売 ─ SPF50+／PA++++、医師監修の1本3役 - PR TIMES",
+      "summary": "再生医療発想のドクターズコスメ「LATINÖU」が医師監修のUVプロテクション美容液『Daily Serum』を7/25に新発売。SPF50+／PA++++で1本3役の機能を搭載。",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBScTFXUWZuX1lqZmFXY3pkbVFHSW1vVXRHanc4aFR2RWJIcGU5cEdObVFVZ1lRQmlsdjk0VWJ2QWcyT2d6eXNVck10cTVvZjRla3RfWnltanBxeERpUmVEcjdxRF8yRGVORUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBScTFXUWZuX1lqZmFXY3pkbVFHSW1vVXRHanc4aFR2RWJIcGU5cEdObVFVZ1lRQmlsdjk0VWJ2QWcyT2d6eXNVck10cTVvZjRla3RfWnltanBxeERpUmVEcjdxRF8yRGVORUE?oc=5",
+      "source_name": "PR TIMES",
+      "monitor_id": "bm-regen-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-05T07:37:37+0900",
+      "status": "candidate",
+      "created_at": "2026-07-31T07:37:37+0900"
+    },
+    {
+      "seed_id": "seed_f7002b8b4f1e",
+      "trend_term": "再生医療発想ドクターズコスメ",
+      "raw_title": "再生医療発想のドクターズコスメ「LATINÖU」、スキンケアも叶える美容液UVプロテクション『Daily Serum』7/25新発売 ─ SPF50+／PA++++、医師監修の1本3役 - mantan-web.jp",
+      "summary": "再生医療発想のドクターズコスメ「LATINÖU」が医師監修のUVプロテクション美容液『Daily Serum』を7/25に新発売。SPF50+／PA++++で1本3役の機能を搭載。",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN3h6Z0RCMXIxc2FuS19CdW8zUEpuaGw3MmJJeGxQbmFBc1Jtc00tWTRHSVREQ05fcTFxenNlT2RSODZTcnZsS25QQjNCNDV3OW9qMzlfaW5MR2RLNUdwRXBKc0s0WnVSS2EyaGstekFaYjBRa0NWS2stUHpWSGZWSG01T1A0UUtT?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN3h6Z0RCMXIxc2FuS19CdW8zUEpuaGw3MmJJeGxQbmFBc1Jtc00tWTRHSVREQ05fcTFxenNlT2RSODZTcnZsS25QQjNCNDV3OW9qMzlfaW5MR2RLNUdwRXBKc0s0WnVSS2EyaGstekFaYjBRa0NWS2stUHpWSGZWSG01T1A0UUtT?oc=5",
+      "source_name": "mantan-web.jp",
+      "monitor_id": "bm-regen-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-05T07:37:37+0900",
+      "status": "candidate",
+      "created_at": "2026-07-31T07:37:37+0900"
+    },
+    {
+      "seed_id": "seed_ed9bdde367e0",
+      "trend_term": "HIFU安全性・事故多発",
+      "raw_title": "【ハイフ（HIFU）】エステでの事故が急増。 その危険性とクリニックの選び方 - i-voce.jp",
+      "summary": "エステでのハイフ（HIFU）施術による事故が急増。施術選択時の安全リスク認識と医療機関選定の重要性を指摘。",
+      "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1uejNwel9PdUlOZ1UxNWpPWG04bDlsNzR3UWZHbWM2OThrZmtpY2pLblpMLWRtclo5LXJrRmZCMi1rdVBoY1VnOQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1uejNwel9PdUlOZ1UxNWpPWG04bDlsNzR3UWZHbWM2OThrZmtpY2pLblpMLWRtclo5LXJrRmZCMi1rdVBoY1VnOQ?oc=5",
+      "source_name": "i-voce.jp",
+      "monitor_id": "bm-machine-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "safety_claim",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-05T07:37:32+0900",
+      "status": "candidate",
+      "created_at": "2026-07-31T07:37:32+0900"
+    },
     {
       "seed_id": "seed_0cde0980f384",
       "trend_term": "美容医療×キャラクター",
@@ -499,24 +571,6 @@
       "created_at": "2026-07-29T07:34:39+0900"
     },
     {
-      "seed_id": "seed_20b0fe7cf881",
-      "trend_term": "先制医療センター開設",
-      "raw_title": "医誠会、１０月から先制医療センター始動 健診・人間ドックから再生医療まで集約 - 週刊大阪日日新聞",
-      "summary": "医誠会が10月から先制医療センターを開始。健診・人間ドックから再生医療まで集約した施設。",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50c3ZHRTJpV3FCcmc5SWFkQ3hXdFM2QllrbTRXeElIUFczTEVXYzRXVW44ODlnSU1YMy1PSFVWS0FhcVJselNnY200MzFMYkJvdU9VOGthaHM?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50c3ZHRTJpV3FCcmc5SWFkQ3hXdFM2QllrbTRXeElIUFczTEVXYzRXVW44ODlnSU1YMy1PSFVWS0FhcVJselNnY200MzFMYkJvdU9VOGthaHM?oc=5",
-      "source_name": "週刊大阪日日新聞",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-03T07:34:35+0900",
-      "status": "candidate",
-      "created_at": "2026-07-29T07:34:35+0900"
-    },
-    {
       "seed_id": "seed_594ad470a341",
       "trend_term": "ヒアルロン酸持続期間",
       "raw_title": "「くせじわ」「輪郭じわ」への『ヒアルロン酸注入』ってどのくらい効果が持続するの？【医師に聞く】【Gallery】 - メディカルドック",
@@ -605,24 +659,6 @@
       "valid_until": "2026-08-02T14:30:55+0900",
       "status": "candidate",
       "created_at": "2026-07-28T14:30:55+0900"
-    },
-    {
-      "seed_id": "seed_88b61235be7a",
-      "trend_term": "エクソソーム治療の規制化",
-      "raw_title": "「エクソソーム」治療の規制検討 再生医療安全確保法見直し - 信濃毎日新聞デジタル",
-      "summary": "再生医療安全確保法の見直しにおいて、エクソソーム治療の規制検討が進められている。公的機関による制度改正の動き。",
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlMW04enByN1VNby1udWJvcjBzWTExSkJFYk5majh6Qm9QZ2d2YXFWSmM2VHFKZW83YUhVbmZSb0VxMEF2NVpDVklGVjNkMDRBSjBadmd2eUlxNVR0N1JCalZUVDQ0S1lzRDh3?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlMW04enByN1VNby1udWJvcjBzWTExSkJFYk5majh6Qm9QZ2d2YXFWSmM2VHFKZW83YUhVbmZSb0VxMEF2NVpDVklGVjNkMDRBSjBadmd2eUlxNVR0N1JCalZUVDQ0S1lzRDh3?oc=5",
-      "source_name": "信濃毎日新聞デジタル",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-02T14:30:51+0900",
-      "status": "candidate",
-      "created_at": "2026-07-28T14:30:51+0900"
     },
     {
       "seed_id": "seed_817378bb3a88",
@@ -733,24 +769,6 @@
       "created_at": "2026-07-23T14:39:13+0900"
     },
     {
-      "seed_id": "seed_32dfa4f6af95",
-      "trend_term": "脂肪吸引の安全性と技術選択",
-      "raw_title": "大阪で脂肪吸引の名医を探すなら｜30,000症例・事故ゼロの実績が証明する「技術と安全」の真実 - TOKYO HEADLINE",
-      "summary": "脂肪吸引の医院選びにおいて、症例数と安全性が患者の意思決定基準となっている。技術と安全の両立が訴求軸。",
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05UzduVXpYLUpNZlhNQkxKVnZUUTc3cHl2OFBxTkRtTTR1S3lIZVJzdVJsOXFRNFo2dVlXc0FTTHhrM1VKLXYtMnBtNHZVdHoxc1NyMUVYOVVpa3R6aVJweTNEazQwdF8xbXFlVmowVjRfRW9a?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05UzduVXpYLUpNZlhNQkxKVnZUUTc3cHl2OFBxTkRtTTR1S3lIZVJzdVJsOXFRNFo2dVlXc0FTTHhrM1VKLXYtMnBtNHZVdHoxc1NyMUVYOVVpa3R6aVJweTNEazQwdF8xbXFlVmowVjRfRW9a?oc=5",
-      "source_name": "TOKYO HEADLINE",
-      "monitor_id": "bm-safety-news",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-03T07:27:40+0900",
-      "status": "candidate",
-      "created_at": "2026-07-20T07:27:40+0900"
-    },
-    {
       "seed_id": "seed_4606ec9e12eb",
       "trend_term": "ポテンツァ相場",
       "raw_title": "札幌のポテンツァがおすすめのクリニック【安いか気になる人のために相場も紹介！】 - マイベスト",
@@ -767,24 +785,6 @@
       "valid_until": "2026-07-31T14:26:47+0900",
       "status": "candidate",
       "created_at": "2026-07-17T14:26:47+0900"
-    },
-    {
-      "seed_id": "seed_00bc5062d142",
-      "trend_term": "ポテンツァ相場",
-      "raw_title": "沖縄のポテンツァがおすすめのクリニック【安いか気になる人のために相場も紹介！】 - マイベスト",
-      "summary": "沖縄でのポテンツァ施術の相場情報をまとめたもの。クリニック選びの判断材料として機能",
-      "source_url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBKTzZGNFozVGp4aHlnX2V6djZHeXd4Mkh0Q2h0QmcyQ0RwV0ZDVWRxSS1kVFFiTWRYSWZyOVZ3?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBKTzZGNFozVGp4aHlnX2V6djZHeXd4Mkh0Q2h0QmcyQ0RwV0ZDVWRxSS1kVFFiTWRYSWZyOVZ3?oc=5",
-      "source_name": "マイベスト",
-      "monitor_id": "bm-machine-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-07-31T07:30:04+0900",
-      "status": "candidate",
-      "created_at": "2026-07-17T07:30:04+0900"
     }
   ]
 }
