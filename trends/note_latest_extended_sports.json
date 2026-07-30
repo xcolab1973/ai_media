@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-30T06:51:25+09:00",
+ "generated_at": "2026-07-30T16:58:10+09:00",
  "valid_until": "2026-08-10T06:43:22+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "sports",
   "from_current": 16,
-  "from_new": 3,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 3,
+  "retention_dropped": 1,
   "genres": 2,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "夏の甲子園からビデオ検証を採用！日本高野連・寶会長が辞任",
+   "url": "https://www.hb-nippon.com/articles/12698",
+   "summary": "第108回全国高校野球選手権(2026年8月5日開幕)からDH制とビデオ検証が新たに採用され、女性審判委員も初起用。暑熱対策で2部制も午前1試合・午後3試合に変更される。観戦ファンはルール変更への理解が追いつかない可能性がある。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "hard_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "sports-watch",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "高校野球ドットコム",
+    "expert_origin": true,
+    "search_query": "高校野球 2026 第108回大会 DH制 ビデオ判定 導入",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-04T16:53:32+09:00",
+   "validity_days": 5
+  },
   {
    "source_category": "news_web",
    "raw_title": "令和八年七月場所（名古屋） アクセス",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-02T06:43:06+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "【2026年夏の甲子園高校野球】チケットの取り方・買い方と、おすすめ座席まとめ",
-   "url": "https://kurumicat.com/2026koushien-ticket",
-   "summary": "夏の甲子園チケットの取り方と座席選びのコツを紹介。8月の炎天下では日陰になる席かどうかが観戦の快適性を大きく左右するため最優先で確認すべきと指摘。券種を先に固定してから販売開始直後にアクセスし、取れなければ当日早朝行動へ切替える二段構え戦略も解説。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "sports-watch",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "くるみっこ",
-    "expert_origin": false,
-    "search_query": "高校野球 甲子園 2026年 チケット 入手方法 コツ 観戦",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-01T16:52:48+09:00",
    "validity_days": 5
   },
   {
