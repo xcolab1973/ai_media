@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T23:56:00+09:00",
+  "generated_at": "2026-07-31T07:44:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,69 +16,51 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 11,
-    "passed_total": 111,
+    "neg_excluded": 8,
+    "dedup_excluded": 10,
+    "passed_total": 114,
     "b2b_category_counts": {
       "yahoo_realtime": 32,
+      "news_web": 13,
       "google_trends": 10,
-      "yahoo_news_ranking": 9,
-      "x_realtime": 6,
-      "news_web": 13
+      "yahoo_news_ranking": 7,
+      "x_realtime": 8
     }
   },
   "note_category_counts": {
-    "personal_story": 4,
     "social_reaction": 22,
-    "opinion": 9,
-    "hard_fact": 26,
-    "policy": 7,
+    "personal_story": 2,
+    "opinion": 10,
+    "hard_fact": 25,
+    "policy": 9,
     "medical_science": 2
   },
   "b2b_topic_category_counts": {
-    "personal_story": 4,
-    "policy": 9,
-    "social_reaction": 22,
     "hard_fact": 25,
-    "opinion": 9,
+    "policy": 10,
+    "social_reaction": 22,
+    "opinion": 10,
+    "personal_story": 2,
     "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "チョコようかん、口コミが良かったので非常用に備蓄していたが家族の誰も口に合わなく",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "食料品消費税 来年4月から2年間 1％ 高市首相が役員会で表明 | NHKニュー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "RIKU - あなたが書くべき話が、必ずある。",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "滝のように出る水・腐ったような臭いが充満、イオンモール外に出た数分後「ドカーン」",
+      "title": "熊本地震、相次いだXデマ投稿　注意　「母が安否不明」の投稿は虚偽…問われるネット",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
     },
     {
-      "title": "セクハラに対する許容度が異様に高い会社に勤めている",
+      "title": "【速報】2026年熊本地震の人的被害120人　死者34人に　熊本県（熊本ニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "hard_fact"
     },
     {
-      "title": "モンスト あみだくじ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "九州～関東は広く猛暑 熱中症警戒",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_domestic",
+      "topic_category": "hard_fact"
     },
     {
       "title": "トランプ氏支持率34％、米国民の半数が「強く不支持」　CNN世論調査",
@@ -87,31 +69,43 @@
       "topic_category": "policy"
     },
     {
-      "title": "ビオレの「角栓壊す洗顔」を使ったら角栓は無くなったが、取った後がボコボコなんだけ",
+      "title": "RIKU - あなたが書くべき話が、必ずある。",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "吉野家の「金目鯛の煮付け」に対して「魚の煮付けは味を染み込ませる料理ではない」と",
+      "title": "セクハラに対する許容度が異様に高い会社に勤めている",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "中島佑気ジョセフ",
+      "title": "メッツ 対 マーリンズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "man hôm nay",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "水戸ホーリーホック",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "レッズ 対 パイレーツ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     }
   ],
   "note_top10": [
-    {
-      "title": "チョコようかん、口コミが良かったので非常用に備蓄していたが家族の誰も口に合わなく",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
     {
       "title": "セクハラに対する許容度が異様に高い会社に勤めている",
       "source_category": "yahoo_realtime",
@@ -131,40 +125,46 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "吉野家の「金目鯛の煮付け」に対して「魚の煮付けは味を染み込ませる料理ではない」と",
+      "title": "中国人の大富豪層の奥様が食べている「想像もつかないポテチの美味しい食べ方」を教わ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
+      "title": "パレスチナ人一家の車に間違えて発砲したイスラエル警官、両親殺害に抗議した子どもに",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "母親からウォシュレットは汚いと言われてから人生で一度も使ってなかったが、彼氏に「",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "社内アルバイトがこの展示用マネキンを担いで佐川急便まで持っていこうとしていたので",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "SNSで「イオンモール熊本のテナント勤務の母と連絡が取れない」と投稿してる人がい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Web面接で感じが良くてハキハキしていて適性検査も高得点だった女の子、いざ入社し",
+      "title": "コメダ珈琲店でホットコーヒーとプリンを頼んだら、初心者マークを付けたオニーチャン",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "横浜市長のパワハラ認定　部下に「ポンコツ」「くず」―第三者報告：時事ドットコム",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "痛バ準備してたら乗ってきてネコ入り可愛すぎバッグが爆誕、こちらを睨んでくる視線す",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "検証：DAZN（ダゾーン）は何クリックで解約できるのか？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "メッツ 対 マーリンズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
