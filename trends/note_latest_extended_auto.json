@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-31T06:47:36+09:00",
+ "generated_at": "2026-08-01T06:50:26+09:00",
  "valid_until": "2026-08-14T06:36:15+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -8,14 +8,44 @@
  "total_count": 14,
  "merge": {
   "parent": "auto",
-  "from_current": 15,
-  "from_new": 2,
+  "from_current": 14,
+  "from_new": 1,
   "expired_pruned": 1,
-  "retention_dropped": 2,
+  "retention_dropped": 0,
   "genres": 2,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "中古車の選び方を教えて頂きたいのですが、はじめて車を買うのに「こ...」（相談投稿）",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12291390222",
+   "summary": "初めて車を購入する読者が、中古車の選び方について何を基準に選べばよいか分からず助けを求めている質問投稿。具体的な数値断定は無く、角度探索の種として扱う。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "auto-choose-review",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "中古車 選び方 失敗 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-08T06:34:49+09:00",
+   "validity_days": 7
+  },
   {
    "source_category": "news_web",
    "raw_title": "CEV補助金（クリーンエネルギー自動車導入促進補助金）2026・令和8年 補助上限額が一部増額",
@@ -164,36 +194,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-02T06:38:06+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "中古車の買い替え時の流れについて初めて車を買い替える予定ですが...",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11288652021",
-   "summary": "初めて車を買い替える人が手続きの流れや決め手が分からず迷っている質問。走行距離・維持費・下取り価格など複数要素が絡み判断が止まりやすい実例。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "auto-choose-review",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "中古車 買い替え 決め手 迷う 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-01T06:38:20+09:00",
    "validity_days": 7
   },
   {
