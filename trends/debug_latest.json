@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T00:10:00+09:00",
+  "generated_at": "2026-08-01T07:40:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 11,
+    "neg_excluded": 11,
+    "dedup_excluded": 9,
     "passed_total": 112,
     "b2b_category_counts": {
-      "x_realtime": 8,
       "yahoo_realtime": 31,
+      "x_realtime": 9,
       "news_web": 19,
       "google_trends": 10,
-      "yahoo_news_ranking": 2
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
+    "social_reaction": 27,
+    "opinion": 10,
     "personal_story": 3,
-    "opinion": 9,
-    "medical_science": 1,
     "hard_fact": 27,
+    "medical_science": 1,
     "policy": 2
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
+    "social_reaction": 27,
     "hard_fact": 27,
-    "opinion": 9,
-    "personal_story": 3,
+    "opinion": 10,
     "medical_science": 1,
+    "personal_story": 3,
     "policy": 2
   },
   "b2b_top10": [
+    {
+      "title": "仕事終わり、駐車場に男性が立っており「料金を値上げしたが精算機の設定が変更できて",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "「附属中学校から、こう見えています」窓に「下着が丸見え」という張り紙があった大学",
       "source_category": "x_realtime",
@@ -51,55 +57,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ヤンマガ編集部員が選ぶ注目漫画！【出版社横断】",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "旅行でレンタカー 潜む三つの危険",
+      "title": "九州-関東危険な暑さ 熱中症警戒",
       "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "和田アキ子",
+      "title": "｢暑ければ我慢すればいい｣エアコン普及率3％､教室内40℃､猛暑5000人超死亡",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "オリオールズ 対 フィリーズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "1993年に起きた山形マット死事件、加害者の元生徒に対する賠償命令が確定…これま",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "瀬戸康史",
+      "title": "保険証 資格確認書",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "フェリー",
+      "title": "マツコ・デラックス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "小沢仁志",
+      "title": "エンツォ・マレスカ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "千種ゆり子",
+      "title": "ブルージェイズ 対 カージナルス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "キングスリーグ",
+      "title": "レイズ 対 ホワイトソックス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,52 +107,22 @@
   ],
   "note_top10": [
     {
+      "title": "仕事終わり、駐車場に男性が立っており「料金を値上げしたが精算機の設定が変更できて",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "「附属中学校から、こう見えています」窓に「下着が丸見え」という張り紙があった大学",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ヤンマガ編集部員が選ぶ注目漫画！【出版社横断】",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『みいちゃんと山田さん』作者の亜月ねね先生、「ダイアナ」名義の投稿やX上の情報に",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「猫でも人間でも迫力一緒なんやな」子猫と遊んでいたら母猫が「うちの子に何か？」っ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "終戦の日の直前、バイクで山中を走っていたら道路脇に日本兵…「出た」と思って看板を",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「京都駅ぶらぶらしてたら忍者おってんけど」記念撮影のために置いた忍者の人形が話題",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "1993年に起きた山形マット死事件、加害者の元生徒に対する賠償命令が確定…これま",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "心がふたつある？『映画ちいかわ 人魚の島のひみつ』感想 - 沼の見える街",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "オリオールズ 対 フィリーズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "【メメント・モリ】山田五郎、最後の授業。伝えたい言葉。【皆様へのメッセージ】",
@@ -161,9 +131,39 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "子どもがタクシーで吐いて汚してしまい、運転手さんにクリーニング代2000円を払っ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "日本語で書いたブログが世界中の言語で翻訳されるとしたら何を書くべきなんだろう？ ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "SNS等における記者への誹謗中傷、名誉毀損、人権侵害等について",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "妻に言いたいこと…",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "縺ｫ縺帙■ 縺ｫ縺 繧阪￥縺ｭ繧 縺ｯ縺｡縺後▽縺■",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "POISON GIRL BANDが解散 - お笑いナタリー",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ルポ中年童貞のおならカタカタ」ふんどし一枚で過ごす男の写真…実は文豪な上に、意",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
