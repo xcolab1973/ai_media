@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T14:17:00+09:00",
+  "generated_at": "2026-07-31T19:20:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
+    "neg_excluded": 9,
     "dedup_excluded": 9,
-    "passed_total": 116,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 31,
+      "x_realtime": 9,
+      "yahoo_realtime": 32,
       "google_trends": 10,
-      "news_web": 16,
-      "x_realtime": 8,
+      "news_web": 14,
       "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "personal_story": 2,
+    "social_reaction": 26,
+    "personal_story": 4,
     "opinion": 10,
-    "medical_science": 1,
-    "policy": 7,
-    "hard_fact": 21
+    "medical_science": 2,
+    "hard_fact": 22,
+    "policy": 6
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
+    "social_reaction": 25,
+    "personal_story": 4,
     "opinion": 10,
-    "hard_fact": 23,
+    "hard_fact": 24,
     "policy": 6,
-    "personal_story": 2,
     "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "9月から生活道路における自動車の法定速度が60キロから30キロに引き下げ… 生活",
+      "title": "絵が描ける人のメリットを説明したマンガの一コマ、作者が本当のセリフは違うことを明",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "アルバイト先のトイレでトイレットペーパーの補充をしていたところ、ペーパーを盗んで",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "ヤンマガ編集部員が選ぶ注目漫画！【出版社横断】",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "東日本大震災のとき、国交省の人が言った「備えていたことしか役には立たなかった」と",
+      "title": "『みいちゃんと山田さん』作者の亜月ねね先生、「ダイアナ」名義の投稿やX上の情報に",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "東京の竪穴住居、全部行く - 足跡を辿る",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "繁華街で男が女性をリンチしていたが、誰も止めに入らないので勇気を出して叫ぶと男は",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ファミマ サンリオ",
+      "title": "本郷奏多",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "森保一",
+      "title": "地震の救助 イオン以外は全て終了",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_domestic",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "少女時代・ユリ SMとの契約終了",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_entertainment",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "石原良純",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "タナー・スコット",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "財務省",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "第一三共 決算",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "中井亜美",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "tokyo mer〜走る緊急救命室〜",
+      "title": "戸田花火大会",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,63 +107,63 @@
   ],
   "note_top10": [
     {
-      "title": "9月から生活道路における自動車の法定速度が60キロから30キロに引き下げ… 生活",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "東日本大震災のとき、国交省の人が言った「備えていたことしか役には立たなかった」と",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "繁華街で男が女性をリンチしていたが、誰も止めに入らないので勇気を出して叫ぶと男は",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "淫獄団地 最終話 / 搾精研究所(原作) 丈山雄為(漫画)",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「竹取の翁って何者なの？香川の人？」と子どもが言うので調べたら、おじいさんがただ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「じゃあ1番目はなんだよ…」セクチーなゲームをプレイしている時に「なんか聞き覚え",
+      "title": "絵が描ける人のメリットを説明したマンガの一コマ、作者が本当のセリフは違うことを明",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "八丈島に行った時、漁師が釣れたてのカツオをさばいて「島ではワサビは採れないから唐",
+      "title": "アルバイト先のトイレでトイレットペーパーの補充をしていたところ、ペーパーを盗んで",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "ヤンマガ編集部員が選ぶ注目漫画！【出版社横断】",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『みいちゃんと山田さん』作者の亜月ねね先生、「ダイアナ」名義の投稿やX上の情報に",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "東京の竪穴住居、全部行く - 足跡を辿る",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "放射線技師さんが「健康のために1日1万歩！」を掲げる患者に刃牙みたいな構図で囲ま",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「この夏一番のミステリー」アボカドの種を植えて栽培してた人、実を切ってみたら「全",
+      "title": "セブンイレブンとPayPayが会員ID統合　Vポイントも連携する巨大経済圏",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "『公園の薄暗い部分の味がする』普段は家で1Lのジャスミン茶をラッパ飲みしている人",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "夫が震えるようなひ弱な声で「助けてぇ」と叫んでて、何事かと思って駆けつけたらこう",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "ランダムグッズに関する消費者意識調査2026最終報告 全55項目にわたる特設サイ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「すみません家猫になりたいんですけど……」とやってきた猫、完全野良っぽいのにムー",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "『超かぐや姫！』の彩葉は東大工学部のどこに進学した？ 独自に徹底検証！！ | U",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
