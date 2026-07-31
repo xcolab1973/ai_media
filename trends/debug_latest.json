@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T19:20:00+09:00",
+  "generated_at": "2026-08-01T00:10:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,44 +17,38 @@
       "x_realtime": 10
     },
     "neg_excluded": 9,
-    "dedup_excluded": 9,
-    "passed_total": 114,
+    "dedup_excluded": 11,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "x_realtime": 9,
-      "yahoo_realtime": 32,
+      "x_realtime": 8,
+      "yahoo_realtime": 31,
+      "news_web": 19,
       "google_trends": 10,
-      "news_web": 14,
-      "yahoo_news_ranking": 5
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
-    "personal_story": 4,
-    "opinion": 10,
-    "medical_science": 2,
-    "hard_fact": 22,
-    "policy": 6
+    "social_reaction": 28,
+    "personal_story": 3,
+    "opinion": 9,
+    "medical_science": 1,
+    "hard_fact": 27,
+    "policy": 2
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 25,
-    "personal_story": 4,
-    "opinion": 10,
-    "hard_fact": 24,
-    "policy": 6,
-    "medical_science": 1
+    "social_reaction": 28,
+    "hard_fact": 27,
+    "opinion": 9,
+    "personal_story": 3,
+    "medical_science": 1,
+    "policy": 2
   },
   "b2b_top10": [
     {
-      "title": "絵が描ける人のメリットを説明したマンガの一コマ、作者が本当のセリフは違うことを明",
+      "title": "「附属中学校から、こう見えています」窓に「下着が丸見え」という張り紙があった大学",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "アルバイト先のトイレでトイレットペーパーの補充をしていたところ、ペーパーを盗んで",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
     },
     {
       "title": "ヤンマガ編集部員が選ぶ注目漫画！【出版社横断】",
@@ -63,43 +57,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "『みいちゃんと山田さん』作者の亜月ねね先生、「ダイアナ」名義の投稿やX上の情報に",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "東京の竪穴住居、全部行く - 足跡を辿る",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "本郷奏多",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "地震の救助 イオン以外は全て終了",
+      "title": "旅行でレンタカー 潜む三つの危険",
       "source_category": "news_web",
       "raw_source_key": "yahoo_news_domestic",
       "topic_category": "hard_fact"
     },
     {
-      "title": "少女時代・ユリ SMとの契約終了",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_entertainment",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "石原良純",
+      "title": "和田アキ子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "戸田花火大会",
+      "title": "1993年に起きた山形マット死事件、加害者の元生徒に対する賠償命令が確定…これま",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "瀬戸康史",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "フェリー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "小沢仁志",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "千種ゆり子",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "キングスリーグ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,16 +107,10 @@
   ],
   "note_top10": [
     {
-      "title": "絵が描ける人のメリットを説明したマンガの一コマ、作者が本当のセリフは違うことを明",
+      "title": "「附属中学校から、こう見えています」窓に「下着が丸見え」という張り紙があった大学",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "アルバイト先のトイレでトイレットペーパーの補充をしていたところ、ペーパーを盗んで",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
     },
     {
       "title": "ヤンマガ編集部員が選ぶ注目漫画！【出版社横断】",
@@ -131,39 +125,45 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "東京の竪穴住居、全部行く - 足跡を辿る",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "放射線技師さんが「健康のために1日1万歩！」を掲げる患者に刃牙みたいな構図で囲ま",
+      "title": "「猫でも人間でも迫力一緒なんやな」子猫と遊んでいたら母猫が「うちの子に何か？」っ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "セブンイレブンとPayPayが会員ID統合　Vポイントも連携する巨大経済圏",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "『公園の薄暗い部分の味がする』普段は家で1Lのジャスミン茶をラッパ飲みしている人",
+      "title": "終戦の日の直前、バイクで山中を走っていたら道路脇に日本兵…「出た」と思って看板を",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ランダムグッズに関する消費者意識調査2026最終報告 全55項目にわたる特設サイ",
+      "title": "「京都駅ぶらぶらしてたら忍者おってんけど」記念撮影のために置いた忍者の人形が話題",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "1993年に起きた山形マット死事件、加害者の元生徒に対する賠償命令が確定…これま",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "心がふたつある？『映画ちいかわ 人魚の島のひみつ』感想 - 沼の見える街",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『超かぐや姫！』の彩葉は東大工学部のどこに進学した？ 独自に徹底検証！！ | U",
+      "title": "【メメント・モリ】山田五郎、最後の授業。伝えたい言葉。【皆様へのメッセージ】",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "子どもがタクシーで吐いて汚してしまい、運転手さんにクリーニング代2000円を払っ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
