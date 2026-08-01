@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T13:59:00+09:00",
+  "generated_at": "2026-08-01T18:45:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,38 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 14,
-    "dedup_excluded": 8,
-    "passed_total": 110,
+    "neg_excluded": 10,
+    "dedup_excluded": 11,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "x_realtime": 8,
-      "yahoo_realtime": 31,
+      "yahoo_realtime": 33,
+      "news_web": 19,
       "google_trends": 10,
-      "news_web": 17,
-      "yahoo_news_ranking": 4
+      "yahoo_news_ranking": 2,
+      "x_realtime": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 23,
-    "opinion": 9,
-    "medical_science": 4,
-    "policy": 6,
-    "hard_fact": 28
+    "social_reaction": 27,
+    "opinion": 10,
+    "personal_story": 1,
+    "policy": 9,
+    "medical_science": 2,
+    "hard_fact": 21
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 23,
-    "policy": 7,
-    "hard_fact": 27,
-    "opinion": 9,
-    "medical_science": 4
+    "social_reaction": 27,
+    "policy": 9,
+    "hard_fact": 21,
+    "opinion": 10,
+    "medical_science": 2,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "ミニT着てる人ってインナー何着るの？ブラの上に直接？キャミとか着たら見えちゃうし",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "ロシアの新たな攻撃目標はガソリンスタンド、給油中の民間人が標的に　製油所攻撃への",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -55,59 +57,77 @@
       "topic_category": "policy"
     },
     {
+      "title": "吉川晃司のど不調 公演途中で中止",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "パックに水道水を入れて、冷蔵庫で色がついたら飲むという家に出会ってから他人の家の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ナフサ枯渇により日本文明は6月に崩壊する」という専門家の予言から1ヶ月が経過し",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "仕事終わり、駐車場に男性が立っており「料金を値上げしたが精算機の設定が変更できて",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "｢暑ければ我慢すればいい｣エアコン普及率3％､教室内40℃､猛暑5000人超死亡",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "巨人のユニフォーム",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "イオンモール熊本の捜索活動終了",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "税務署が許さない「NG通帳」とは？税務調査で見られる3つのポイント",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "東海や西日本2日以降も危険な暑さ",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "mlb ホームラン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "デーブ ロバーツ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "東武東上線",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「まじでトラウマになりそう」アレルギーなので、店でノンアルコールの男梅ソーダを頼",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "女子高校野球",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "BYDオート社長 EV補助金に見解",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
+      "topic_category": "policy"
     }
   ],
   "note_top10": [
     {
-      "title": "ミニT着てる人ってインナー何着るの？ブラの上に直接？キャミとか着たら見えちゃうし",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "ロシアの新たな攻撃目標はガソリンスタンド、給油中の民間人が標的に　製油所攻撃への",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "毎朝挨拶してたブラジル人のご家族、最近私がいないから心配して「どうした、会社でパ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "パックに水道水を入れて、冷蔵庫で色がついたら飲むという家に出会ってから他人の家の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ナフサ枯渇により日本文明は6月に崩壊する」という専門家の予言から1ヶ月が経過し",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -117,51 +137,33 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "綾辻行人先生が「久しぶりに京極さんと電話であれこれ。つい『ヤニねこ』をオススメし",
+      "title": "ラーメン屋さんでにんにく頼んだらこれが出てきて「青いんですけど大丈夫ですか？」っ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ウッディの血色を良くしたくてセリアで買った水彩パステルでお化粧してあげたらむっち",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "帰宅途中、個室トイレから扉を叩きながら「誰か助けて」と女の人が叫んでいた…頑張っ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「幸福になってほしいと思わない」ヤンマガ編集部員が『みい山』について語る動画、ど",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "旅行先の店で食べたサラダがとても美味しかったので母が「このドレッシングは手作りに",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "資生堂のCMみたいなOLを思い描いていたが、いざなってみたらギャップがデカい→昔",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "講談社、例の動画非公開にしてて草",
+      "title": "マンゴーみたいに切る",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "地下アイドルという海から「回遊魚」が消えた日──音楽好きはどこへ行ったのか｜ju",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "いとこに「カメラ貸して」とお願いされたが、壊れた時に「弁償してくれ」と言えないか",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "自分の土地に車を置いていたら、車の位置がなぜか下がっていたので地元の会長？に話を",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "1990年代以降生まれの人には理解しにくいと思うんだけど、昭和の時代って都会も田",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
