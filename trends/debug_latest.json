@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T18:45:00+09:00",
+  "generated_at": "2026-08-01T23:16:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,46 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
+    "neg_excluded": 9,
     "dedup_excluded": 11,
-    "passed_total": 111,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
-      "news_web": 19,
+      "yahoo_realtime": 34,
       "google_trends": 10,
+      "news_web": 18,
       "yahoo_news_ranking": 2,
       "x_realtime": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 27,
+    "social_reaction": 28,
     "opinion": 10,
     "personal_story": 1,
+    "hard_fact": 21,
     "policy": 9,
-    "medical_science": 2,
-    "hard_fact": 21
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 27,
-    "policy": 9,
+    "social_reaction": 28,
     "hard_fact": 21,
+    "policy": 9,
     "opinion": 10,
-    "medical_science": 2,
+    "medical_science": 1,
     "personal_story": 1
   },
   "b2b_top10": [
+    {
+      "title": "みぃ山はどこで間違えたのか？炎上問題",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "同級生の男児を「転倒させて心臓マッサージ」「顔の上に座る」、授業準備の教師は気づ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
     {
       "title": "ロシアの新たな攻撃目標はガソリンスタンド、給油中の民間人が標的に　製油所攻撃への",
       "source_category": "yahoo_realtime",
@@ -51,75 +63,69 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "何が始まった？「国家情報会議」初会合　スパイ対策名目に通信傍受拡大の動き…「通信",
+      "title": "540億円赤字のクールジャパン機構…失敗は「設立前」から始まっていた | ニュー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "吉川晃司のど不調 公演途中で中止",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "パックに水道水を入れて、冷蔵庫で色がついたら飲むという家に出会ってから他人の家の",
+      "title": "講談社編集部の『障害福祉への軽さ』が炎上している件｜みいやま｜大知コラム",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ナフサ枯渇により日本文明は6月に崩壊する」という専門家の予言から1ヶ月が経過し",
+      "title": "高市総理が「寝てないアピール」で大炎上→若者世代ソッポで支持率が急落した「3つの",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "仕事終わり、駐車場に男性が立っており「料金を値上げしたが精算機の設定が変更できて",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "巨人のユニフォーム",
+      "title": "on",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "イオンモール熊本の捜索活動終了",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
+      "title": "羽月隆太郎",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "東海や西日本2日以降も危険な暑さ",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
+      "title": "西澤由夏",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "BYDオート社長 EV補助金に見解",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "policy"
+      "title": "イリア・マリニン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
+      "title": "みぃ山はどこで間違えたのか？炎上問題",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "講談社編集部の『障害福祉への軽さ』が炎上している件｜みいやま｜大知コラム",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "高市総理が「寝てないアピール」で大炎上→若者世代ソッポで支持率が急落した「3つの",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "ロシアの新たな攻撃目標はガソリンスタンド、給油中の民間人が標的に　製油所攻撃への",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "毎朝挨拶してたブラジル人のご家族、最近私がいないから心配して「どうした、会社でパ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "パックに水道水を入れて、冷蔵庫で色がついたら飲むという家に出会ってから他人の家の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -131,39 +137,33 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "仕事終わり、駐車場に男性が立っており「料金を値上げしたが精算機の設定が変更できて",
+      "title": "パックに水道水を入れて、冷蔵庫で色がついたら飲むという家に出会ってから他人の家の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ラーメン屋さんでにんにく頼んだらこれが出てきて「青いんですけど大丈夫ですか？」っ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ウッディの血色を良くしたくてセリアで買った水彩パステルでお化粧してあげたらむっち",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "帰宅途中、個室トイレから扉を叩きながら「誰か助けて」と女の人が叫んでいた…頑張っ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「幸福になってほしいと思わない」ヤンマガ編集部員が『みい山』について語る動画、ど",
+      "title": "宇宙データセンターは冷やすのが難しい？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "マンゴーみたいに切る",
+      "title": "ブローガスト1日目にラーメン横綱に行ったよ、という話。 - 世界のねじを巻くブロ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "出産した友達が家に招いてくれたと母に報告したら「必ずかわいいねって言ってくるんだ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "機内食に単品の焼き豆腐出すなんて斬新だなと思ったら違った「すき焼きに入れたい」「",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
