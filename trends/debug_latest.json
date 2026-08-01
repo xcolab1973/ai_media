@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T07:40:00+09:00",
+  "generated_at": "2026-08-01T13:59:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,51 +16,49 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
-    "dedup_excluded": 9,
-    "passed_total": 112,
+    "neg_excluded": 14,
+    "dedup_excluded": 8,
+    "passed_total": 110,
     "b2b_category_counts": {
+      "x_realtime": 8,
       "yahoo_realtime": 31,
-      "x_realtime": 9,
-      "news_web": 19,
       "google_trends": 10,
-      "yahoo_news_ranking": 1
+      "news_web": 17,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 27,
-    "opinion": 10,
-    "personal_story": 3,
-    "hard_fact": 27,
-    "medical_science": 1,
-    "policy": 2
+    "social_reaction": 23,
+    "opinion": 9,
+    "medical_science": 4,
+    "policy": 6,
+    "hard_fact": 28
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 27,
+    "social_reaction": 23,
+    "policy": 7,
     "hard_fact": 27,
-    "opinion": 10,
-    "medical_science": 1,
-    "personal_story": 3,
-    "policy": 2
+    "opinion": 9,
+    "medical_science": 4
   },
   "b2b_top10": [
     {
-      "title": "仕事終わり、駐車場に男性が立っており「料金を値上げしたが精算機の設定が変更できて",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「附属中学校から、こう見えています」窓に「下着が丸見え」という張り紙があった大学",
+      "title": "ミニT着てる人ってインナー何着るの？ブラの上に直接？キャミとか着たら見えちゃうし",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "九州-関東危険な暑さ 熱中症警戒",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
+      "title": "何が始まった？「国家情報会議」初会合　スパイ対策名目に通信傍受拡大の動き…「通信",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "仕事終わり、駐車場に男性が立っており「料金を値上げしたが精算機の設定が変更できて",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "｢暑ければ我慢すればいい｣エアコン普及率3％､教室内40℃､猛暑5000人超死亡",
@@ -69,37 +67,37 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "オリオールズ 対 フィリーズ",
+      "title": "税務署が許さない「NG通帳」とは？税務調査で見られる3つのポイント",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "mlb ホームラン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "保険証 資格確認書",
+      "title": "デーブ ロバーツ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "マツコ・デラックス",
+      "title": "東武東上線",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "エンツォ・マレスカ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "「まじでトラウマになりそう」アレルギーなので、店でノンアルコールの男梅ソーダを頼",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
     },
     {
-      "title": "ブルージェイズ 対 カージナルス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "レイズ 対 ホワイトソックス",
+      "title": "女子高校野球",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,63 +105,63 @@
   ],
   "note_top10": [
     {
+      "title": "ミニT着てる人ってインナー何着るの？ブラの上に直接？キャミとか着たら見えちゃうし",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "仕事終わり、駐車場に男性が立っており「料金を値上げしたが精算機の設定が変更できて",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「附属中学校から、こう見えています」窓に「下着が丸見え」という張り紙があった大学",
+      "title": "綾辻行人先生が「久しぶりに京極さんと電話であれこれ。つい『ヤニねこ』をオススメし",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "旅行先の店で食べたサラダがとても美味しかったので母が「このドレッシングは手作りに",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "オリオールズ 対 フィリーズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "資生堂のCMみたいなOLを思い描いていたが、いざなってみたらギャップがデカい→昔",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "【メメント・モリ】山田五郎、最後の授業。伝えたい言葉。【皆様へのメッセージ】",
+      "title": "講談社、例の動画非公開にしてて草",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本語で書いたブログが世界中の言語で翻訳されるとしたら何を書くべきなんだろう？ ",
+      "title": "地下アイドルという海から「回遊魚」が消えた日──音楽好きはどこへ行ったのか｜ju",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "SNS等における記者への誹謗中傷、名誉毀損、人権侵害等について",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "いとこに「カメラ貸して」とお願いされたが、壊れた時に「弁償してくれ」と言えないか",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "妻に言いたいこと…",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "自分の土地に車を置いていたら、車の位置がなぜか下がっていたので地元の会長？に話を",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "縺ｫ縺帙■ 縺ｫ縺 繧阪￥縺ｭ繧 縺ｯ縺｡縺後▽縺■",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "POISON GIRL BANDが解散 - お笑いナタリー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ルポ中年童貞のおならカタカタ」ふんどし一枚で過ごす男の写真…実は文豪な上に、意",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "1990年代以降生まれの人には理解しにくいと思うんだけど、昭和の時代って都会も田",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
