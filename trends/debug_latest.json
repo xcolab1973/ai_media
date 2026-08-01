@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T23:16:00+09:00",
+  "generated_at": "2026-08-02T07:35:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,35 +17,77 @@
       "x_realtime": 10
     },
     "neg_excluded": 9,
-    "dedup_excluded": 11,
-    "passed_total": 112,
+    "dedup_excluded": 8,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "news_web": 18,
-      "yahoo_news_ranking": 2,
-      "x_realtime": 6
+      "x_realtime": 9,
+      "news_web": 15,
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
+    "social_reaction": 24,
+    "personal_story": 2,
     "opinion": 10,
-    "personal_story": 1,
-    "hard_fact": 21,
-    "policy": 9,
-    "medical_science": 1
+    "medical_science": 2,
+    "policy": 11,
+    "hard_fact": 21
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
-    "hard_fact": 21,
-    "policy": 9,
+    "social_reaction": 24,
+    "policy": 11,
     "opinion": 10,
-    "medical_science": 1,
-    "personal_story": 1
+    "hard_fact": 21,
+    "medical_science": 2,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
+      "title": "メディアにおける社会的弱者表象の境界線：『みいちゃんと山田さん』論争とアメリカの",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "みぃ山はどこで間違えたのか？炎上問題",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【2028年施行】金融所得の社会保険料算定がいよいよ現実へ。影響を徹底解説 - ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "復興特別所得税、1270億円がすでに防衛費に使われていた | Tansa",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "540億円赤字のクールジャパン機構…失敗は「設立前」から始まっていた | ニュー",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "ボクシング",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "芦北町",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "講談社編集部の『障害福祉への軽さ』が炎上している件｜みいやま｜大知コラム",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -57,55 +99,19 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "ロシアの新たな攻撃目標はガソリンスタンド、給油中の民間人が標的に　製油所攻撃への",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "540億円赤字のクールジャパン機構…失敗は「設立前」から始まっていた | ニュー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "講談社編集部の『障害福祉への軽さ』が炎上している件｜みいやま｜大知コラム",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "高市総理が「寝てないアピール」で大炎上→若者世代ソッポで支持率が急落した「3つの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "on",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "羽月隆太郎",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "西澤由夏",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "イリア・マリニン",
+      "title": "クラウドファンディング",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     }
   ],
   "note_top10": [
+    {
+      "title": "メディアにおける社会的弱者表象の境界線：『みいちゃんと山田さん』論争とアメリカの",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "みぃ山はどこで間違えたのか？炎上問題",
       "source_category": "yahoo_realtime",
@@ -119,51 +125,45 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "高市総理が「寝てないアピール」で大炎上→若者世代ソッポで支持率が急落した「3つの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ロシアの新たな攻撃目標はガソリンスタンド、給油中の民間人が標的に　製油所攻撃への",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ナフサ枯渇により日本文明は6月に崩壊する」という専門家の予言から1ヶ月が経過し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "パックに水道水を入れて、冷蔵庫で色がついたら飲むという家に出会ってから他人の家の",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "宇宙データセンターは冷やすのが難しい？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ブローガスト1日目にラーメン横綱に行ったよ、という話。 - 世界のねじを巻くブロ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "出産した友達が家に招いてくれたと母に報告したら「必ずかわいいねって言ってくるんだ",
+      "title": "「深いメッセージ性も、巧みな伏線回収もない」「考察ブームへのアンチテーゼ」とある",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "機内食に単品の焼き豆腐出すなんて斬新だなと思ったら違った「すき焼きに入れたい」「",
+      "title": "「ウチの嫁は臭くないけど“独特の匂い”があるからそれで浮気を見破った」→あの時の",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "モラル・ライセンシング - Wikipedia",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "ボクシング",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "芦北町",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "椅子取りゲームに勝ち続けた氷河期世代の俺から一言",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "金子国土交通大臣に「被災地に入らないのか？」という意見が送られるが大臣が今の時点",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
