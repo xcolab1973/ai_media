@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-01T18:32:28+0900",
+    "generated_at": "2026-08-02T07:28:24+0900",
     "record_count": 48,
-    "source_total_in_db": 732,
+    "source_total_in_db": 733,
     "provenance_breakdown": {
       "evidence": 457,
-      "pain_seed": 275
+      "pain_seed": 276
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_31464b2aca3b",
+      "trend_term": "SNS予約と医師選び",
+      "raw_title": "SNSで予約して大丈夫？美容医療で失敗しない「腕のいい医師」の選び方【大塚篤司医師×イガリシノブ】（前編） - Yahoo!ニュース",
+      "summary": "美容医療をSNS経由で予約する際の信頼性判断と、患者が腕のいい医師を選ぶ方法についての医師・インフルエンサー対談",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTWR6RjhZNVFOTTBPS1JCa3RjVFlkaXEtYUJYWFMtdHdrdkZKS1F3ZU9hNzJFSTFFci1lQzBGOHRZYmlfMDFVcHgxMHdOQjZCTlFreWNMSDdZaEFIVmsyd0djTEZIOGoxeXlRcmJuQy1xcTgzdGYyMkxDc1NoTmdnZUtyQTZtWGRDb0FKQUF3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTWR6RjhZNVFOTTBPS1JCa3RjVFlkaXEtYUJYWFMtdHdrdkZKS1F3ZU9hNzJFSTFFci1lQzBGOHRZYmlfMDFVcHgxMHdOQjZCTlFreWNMSDdZaEFIVmsyd0djTEZIOGoxeXlRcmJuQy1xcTgzdGYyMkxDc1NoTmdnZUtyQTZtWGRDb0FKQUF3?oc=5",
+      "source_name": "Yahoo!ニュース",
+      "monitor_id": "bm-sns-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "opinion",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-16T07:28:20+0900",
+      "status": "candidate",
+      "created_at": "2026-08-02T07:28:20+0900"
+    },
     {
       "seed_id": "seed_3a946b08f454",
       "trend_term": "医師向けカンファレンス",
@@ -839,24 +857,6 @@
       "valid_until": "2026-08-03T07:34:39+0900",
       "status": "candidate",
       "created_at": "2026-07-29T07:34:39+0900"
-    },
-    {
-      "seed_id": "seed_817378bb3a88",
-      "trend_term": "TikTok美容クリニック運用",
-      "raw_title": "美容・歯科クリニック特化のTikTok運用「TriVeeBeauty」提供開始 - PR TIMES",
-      "summary": "美容・歯科クリニック特化のTikTok運用サービス「TriVeeBeauty」が提供開始。プラットフォーム別の運用最適化トレンド。",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtMzdmeUxsWF9hUWQ0NjdWQWx6UTNOcWN6SHMxaDBjVGxVQ2hubjJrRHhrMTRxaWdlUFlRYVZFdnhpdlFBcXlBX21sYkN1UktPZHFId1otZGRMUjN0T1FkTzNITHNjeE5WSXc?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtMzdmeUxsWF9hUWQ0NjdWQWx6UTNOcWN6SHMxaDBjVGxVQ2hubjJrRHhrMTRxaWdlUFlRYVZFdnhpdlFBcXlBX21sYkN1UktPZHFId1otZGRMUjN0T1FkTzNITHNjeE5WSXc?oc=5",
-      "source_name": "PR TIMES",
-      "monitor_id": "bm-sns-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-02T07:34:52+0900",
-      "status": "candidate",
-      "created_at": "2026-07-28T07:34:52+0900"
     },
     {
       "seed_id": "seed_114ad9c2d215",
