@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-08-01T06:50:26+09:00",
+ "generated_at": "2026-08-01T16:58:46+09:00",
  "valid_until": "2026-08-07T16:56:19+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "tech",
- "total_count": 47,
+ "total_count": 46,
  "merge": {
   "parent": "tech",
   "from_current": 47,
-  "from_new": 5,
-  "expired_pruned": 2,
-  "retention_dropped": 3,
+  "from_new": 0,
+  "expired_pruned": 1,
+  "retention_dropped": 0,
   "genres": 6,
   "retention_per_genre": 8
  },
@@ -914,36 +914,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-02T16:55:25+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "サイバー対処能力強化法10月施行 社会インフラ関連企業に新たな義務",
-   "url": "https://www.nikkei.com/article/DGXZQOUC071KC0X00C26A5000000/",
-   "summary": "2026年10月1日施行のサイバー対処能力強化法により、基幹インフラ事業者に特定重要電子計算機の資産届出義務とサイバーインシデント発生時の大臣報告義務が新設されることを報じる記事。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "tech-security",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "日本経済新聞",
-    "expert_origin": true,
-    "search_query": "サイバー対処能力強化法 施行 2026年10月 届出義務 基幹インフラ 能動的サイバー防御",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-01T16:56:29+09:00",
    "validity_days": 7
   },
   {
