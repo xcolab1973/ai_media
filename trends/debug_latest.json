@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T13:59:00+09:00",
+  "generated_at": "2026-08-02T18:44:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,60 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 4,
-    "dedup_excluded": 10,
-    "passed_total": 118,
+    "neg_excluded": 5,
+    "dedup_excluded": 11,
+    "passed_total": 116,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 36,
       "google_trends": 10,
-      "news_web": 15,
-      "x_realtime": 8,
-      "yahoo_news_ranking": 2
+      "news_web": 14,
+      "x_realtime": 7,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 34,
-    "personal_story": 3,
+    "social_reaction": 30,
+    "personal_story": 5,
     "opinion": 10,
-    "medical_science": 4,
-    "hard_fact": 17,
-    "policy": 2
+    "medical_science": 3,
+    "hard_fact": 21,
+    "policy": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
-    "hard_fact": 19,
-    "policy": 2,
+    "social_reaction": 30,
+    "hard_fact": 23,
     "opinion": 10,
-    "personal_story": 3,
-    "medical_science": 3
+    "medical_science": 1,
+    "personal_story": 5,
+    "policy": 1
   },
   "b2b_top10": [
     {
       "title": "5ちゃんねるで、ヤマザキの災害時対応について「その無料パンの費用は回りまわってお",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "日本人の給与水準を押し下げる「安いことはいいことだ」という価値観 - 日本経済新",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "板倉滉",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "被災の老人ホーム 熱中症疑い続出",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "深井智朗氏の論文など７編で新たな捏造認定 ３大学が共同調査 「単なる注意義務違反",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -57,49 +81,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ロシアのミサイル攻撃で9人死亡　ゼレンスキー氏「1発しか撃墜出来ず」",
+      "title": "精神科医が中高の吹奏楽部について思うところがあるのは、精神科に来る子が断トツ多く",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "「経済オンチ」一部野党とメディア、高市首相の消費減税の理由を理解できない　高橋洋",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "避難指示",
+      "title": "starto entertainment",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "大島洋平",
+      "title": "小日向文世",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "野々村友紀子",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "加藤あい",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ファルコン9",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "秋元優里",
+      "title": "飯田将成",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,58 +113,58 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "深井智朗氏の論文など７編で新たな捏造認定 ３大学が共同調査 「単なる注意義務違反",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "メディアにおける社会的弱者表象の境界線：『みいちゃんと山田さん』論争とアメリカの",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "加速主義と抑制主義 - 内田樹の研究室",
+      "title": "精神科医が中高の吹奏楽部について思うところがあるのは、精神科に来る子が断トツ多く",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「この図を作った人は面識のない男に刺されて死んだ」10年以上前に書かれた本、嘘で",
+      "title": "関西の友達と名古屋で合流して、「ノリタケの森」で絵付け体験…ツルツルの皿に陶磁器",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ラーメン屋でつけ麺を頼んだら「まずはそのままどうぞ！」と昆布水に浸った麺を出され",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "娘が「友達の家に泊まりに行っていい？」と言うので相手の家の場所や家族について聞い",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「何かあってからじゃ遅い」混雑時の山手線でベビーカーに子供を乗せていたら、人の乗",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "老害防ぐ「初心者」の気構え　川崎裕一氏 - 日本経済新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ネタバレなし『みいちゃんと山田さん』レビュー - 渡辺みちたか（自民党・新宿区議",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "id:esbeeです。 ブコメへ返信したいと思って書きました。 私の理屈は、「.",
+      "title": "「何かあってからじゃ遅い」混雑時の山手線でベビーカーに子供を乗せていたら、人の乗",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "国立コンコース売店で700円買って10,000円出したらおつり8,300円返され",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ワンピースカードの店舗大会で優勝したが、1ヶ月待っても優勝記念品が届かず→その後",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中国EV市場のカオスな現状─「143ブランド乱立」の熱狂とサバイバル | 英経済",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "板倉滉",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
