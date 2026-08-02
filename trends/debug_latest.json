@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T23:18:00+09:00",
+  "generated_at": "2026-08-03T07:35:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 9,
-    "passed_total": 115,
+    "neg_excluded": 13,
+    "dedup_excluded": 8,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
-      "google_trends": 10,
+      "yahoo_realtime": 33,
       "x_realtime": 7,
-      "news_web": 15,
+      "news_web": 18,
+      "google_trends": 10,
       "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 23,
-    "personal_story": 6,
-    "hard_fact": 23,
-    "opinion": 10,
-    "medical_science": 2,
-    "policy": 6
+    "social_reaction": 22,
+    "opinion": 8,
+    "personal_story": 4,
+    "medical_science": 4,
+    "policy": 6,
+    "hard_fact": 26
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 24,
-    "social_reaction": 23,
-    "opinion": 10,
-    "personal_story": 6,
+    "hard_fact": 27,
+    "social_reaction": 22,
     "policy": 6,
-    "medical_science": 1
+    "opinion": 8,
+    "personal_story": 4,
+    "medical_science": 3
   },
   "b2b_top10": [
     {
-      "title": "水量が増えすぎた北上川、もはや表面張力みたいなことになってる「川で表面張力って何",
+      "title": "【熊本震度7】イオンモール爆発、雑貨店社長が「売上金戻して」指示認め謝罪",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
     },
     {
-      "title": "【熊本震度7】イオンモール熊本爆発で従業員2人死亡　ハビタ社長が「売上金戻して」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「除草作業のため、8800円がかかる」管理会社からLINEで写真が送られてきたが",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "埼玉県の山中で91歳女性の遺体が発見…女性の長男名義の車を運転していたベトナム国",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "policy"
+    },
+    {
+      "title": "地震と雲を関係付ける誤情報 注意",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "「イベントだけのために単独ドメインを取得するな！」万博で使われたドメインが運営終",
+      "title": "みいちゃんと山田さんの作劇的な話｜江波光則",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本人の給与水準を押し下げる「安いことはいいことだ」という価値観 - 日本経済新",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "台風情報",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
       "topic_category": "hard_fact"
     },
     {
-      "title": "深井智朗氏の論文など７編で新たな捏造認定 ３大学が共同調査 「単なる注意義務違反",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "ケバブ屋にて…俺「量を少なめでお願いします」店の人「はい」→1分後、店の人「はい",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "小室瑛莉子",
+      "title": "杉原愛子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "キングコング",
+      "title": "pltr",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "阿部寛",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "男子バレーボールネーションズリーグ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "西野",
+      "title": "広末涼子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,43 +107,49 @@
   ],
   "note_top10": [
     {
-      "title": "「イベントだけのために単独ドメインを取得するな！」万博で使われたドメインが運営終",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "深井智朗氏の論文など７編で新たな捏造認定 ３大学が共同調査 「単なる注意義務違反",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「喪服で来たら化けて出てやる！」祖母が亡くなり近々葬儀に行くが、祖母の遺言が「私",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "自動車整備士だが、客が「中古で軽トラ買ったんだけどさ、なんか足元がフワフワするん",
+      "title": "「除草作業のため、8800円がかかる」管理会社からLINEで写真が送られてきたが",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "梅田での飲み会のあと、新大阪の新幹線最終に間に合わせようとタクシーを拾いそのまま",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ただ交差点を渡るだけ──渋谷スクランブル交差点デモが革新的な3つの理由",
+      "title": "みいちゃんと山田さんの作劇的な話｜江波光則",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "古代マンモスの骨からナチスの軍艦、ドナウ川で次々に発見　干ばつで記録的な水位低下",
+      "title": "ケバブ屋にて…俺「量を少なめでお願いします」店の人「はい」→1分後、店の人「はい",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「今の若い人ってCDを車で聴かないらしい」サブスクは便利だが、ドライブ中にアルバ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "入れて煮るだけ！鶏むね肉チャーシュー【作り置き・お弁当に】 | レシピサイトNa",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「日本全体の成長をリード」　小池都知事が就任10年　インタビュー詳報、未来像語る",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "荻上チキsession『特集・やまゆり園事件から10年～荻上チキの取材報告』を聴",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「寝そべり族」って言葉そのまま輸入した人、センスなさすぎないか？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -155,13 +161,7 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "有隣堂横浜駅西口店で35年のベテラン店員ですら初遭遇するレベルの超ロングレシート",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "なんか親と話が合わないと思ったら「院進」を「妊娠」と聞き間違えられていたことが判",
+      "title": "『みいちゃんと山田さん』みいちゃんが「キチィうさちゃん」たちに殴られ蹴られ、高橋",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
