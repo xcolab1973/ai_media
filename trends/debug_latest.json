@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T07:35:00+09:00",
+  "generated_at": "2026-08-02T13:59:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 8,
-    "passed_total": 115,
+    "neg_excluded": 4,
+    "dedup_excluded": 10,
+    "passed_total": 118,
     "b2b_category_counts": {
       "yahoo_realtime": 35,
       "google_trends": 10,
-      "x_realtime": 9,
       "news_web": 15,
-      "yahoo_news_ranking": 1
+      "x_realtime": 8,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 24,
-    "personal_story": 2,
+    "social_reaction": 34,
+    "personal_story": 3,
     "opinion": 10,
-    "medical_science": 2,
-    "policy": 11,
-    "hard_fact": 21
+    "medical_science": 4,
+    "hard_fact": 17,
+    "policy": 2
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 24,
-    "policy": 11,
+    "social_reaction": 33,
+    "hard_fact": 19,
+    "policy": 2,
     "opinion": 10,
-    "hard_fact": 21,
-    "medical_science": 2,
-    "personal_story": 2
+    "personal_story": 3,
+    "medical_science": 3
   },
   "b2b_top10": [
+    {
+      "title": "5ちゃんねるで、ヤマザキの災害時対応について「その無料パンの費用は回りまわってお",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "メディアにおける社会的弱者表象の境界線：『みいちゃんと山田さん』論争とアメリカの",
       "source_category": "yahoo_realtime",
@@ -51,55 +57,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "みぃ山はどこで間違えたのか？炎上問題",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【2028年施行】金融所得の社会保険料算定がいよいよ現実へ。影響を徹底解説 - ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "復興特別所得税、1270億円がすでに防衛費に使われていた | Tansa",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "540億円赤字のクールジャパン機構…失敗は「設立前」から始まっていた | ニュー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "ボクシング",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "芦北町",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "講談社編集部の『障害福祉への軽さ』が炎上している件｜みいやま｜大知コラム",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "同級生の男児を「転倒させて心臓マッサージ」「顔の上に座る」、授業準備の教師は気づ",
+      "title": "ロシアのミサイル攻撃で9人死亡　ゼレンスキー氏「1発しか撃墜出来ず」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
     },
     {
-      "title": "クラウドファンディング",
+      "title": "「経済オンチ」一部野党とメディア、高市首相の消費減税の理由を理解できない　高橋洋",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "避難指示",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "大島洋平",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "野々村友紀子",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "加藤あい",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ファルコン9",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "秋元優里",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
+      "title": "5ちゃんねるで、ヤマザキの災害時対応について「その無料パンの費用は回りまわってお",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "メディアにおける社会的弱者表象の境界線：『みいちゃんと山田さん』論争とアメリカの",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "みぃ山はどこで間違えたのか？炎上問題",
+      "title": "加速主義と抑制主義 - 内田樹の研究室",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "講談社編集部の『障害福祉への軽さ』が炎上している件｜みいやま｜大知コラム",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「深いメッセージ性も、巧みな伏線回収もない」「考察ブームへのアンチテーゼ」とある",
+      "title": "「この図を作った人は面識のない男に刺されて死んだ」10年以上前に書かれた本、嘘で",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ウチの嫁は臭くないけど“独特の匂い”があるからそれで浮気を見破った」→あの時の",
+      "title": "ラーメン屋でつけ麺を頼んだら「まずはそのままどうぞ！」と昆布水に浸った麺を出され",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "モラル・ライセンシング - Wikipedia",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "娘が「友達の家に泊まりに行っていい？」と言うので相手の家の場所や家族について聞い",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "ボクシング",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "「何かあってからじゃ遅い」混雑時の山手線でベビーカーに子供を乗せていたら、人の乗",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "芦北町",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "椅子取りゲームに勝ち続けた氷河期世代の俺から一言",
+      "title": "老害防ぐ「初心者」の気構え　川崎裕一氏 - 日本経済新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "金子国土交通大臣に「被災地に入らないのか？」という意見が送られるが大臣が今の時点",
+      "title": "ネタバレなし『みいちゃんと山田さん』レビュー - 渡辺みちたか（自民党・新宿区議",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "id:esbeeです。 ブコメへ返信したいと思って書きました。 私の理屈は、「.",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
