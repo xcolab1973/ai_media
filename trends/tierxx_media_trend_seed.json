@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-02T07:28:24+0900",
+    "generated_at": "2026-08-02T14:41:36+0900",
     "record_count": 48,
-    "source_total_in_db": 733,
+    "source_total_in_db": 734,
     "provenance_breakdown": {
       "evidence": 457,
-      "pain_seed": 276
+      "pain_seed": 277
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_5e82b8cd2a67",
+      "trend_term": "再生医療美容の落とし穴",
+      "raw_title": "皮膚科医たちは、再生医療の時代における美容の「落とし穴」について警告している。 - Vietnam.vn",
+      "summary": "皮膚科医が再生医療時代における美容の落とし穴について警告。読者の不安・疑問を喚起する角度。",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNak01RlptZlc1b29abk9UQ1diVVplMXdHaDQtLWJLQmxLXzFSSTNMMm11WTlBclp3VnFfV1BURTZzNGl4M0U5RGtWbjNTb2gxTVczU2RvSmZkbWlvR3Y2eU5Oa1V0Y2Q5ZjVsQ1A4enNRcFRkNm1LWk9xd0dvLXl1U1dlMVVuYjNRWDBWVURHNWg2QVBkMUtGTlRxRQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNak01RlptZlc1b29abk9UQ1diVVplMXdHaDQtLWJLQmxLXzFSSTNMMm11WTlBclp3VnFfV1BURTZzNGl4M0U5RGtWbjNTb2gxTVczU2RvSmZkbWlvR3Y2eU5Oa1V0Y2Q5ZjVsQ1A4enNRcFRkNm1LWk9xd0dvLXl1U1dlMVVuYjNRWDBWVURHNWg2QVBkMUtGTlRxRQ?oc=5",
+      "source_name": "Vietnam.vn",
+      "monitor_id": "bm-regen-news",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "opinion",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-07T14:41:27+0900",
+      "status": "candidate",
+      "created_at": "2026-08-02T14:41:27+0900"
+    },
     {
       "seed_id": "seed_31464b2aca3b",
       "trend_term": "SNS予約と医師選び",
@@ -569,24 +587,6 @@
       "valid_until": "2026-08-04T18:59:49+0900",
       "status": "candidate",
       "created_at": "2026-07-30T18:59:49+0900"
-    },
-    {
-      "seed_id": "seed_7f854fedad36",
-      "trend_term": "再生医療発想UV美容液",
-      "raw_title": "再生医療発想の「LATINÖU」！日中用美容液UV『Daily Serum』を発売 - excite.co.jp",
-      "summary": "再生医療発想のブランド「LATINÖU」が日中用美容液UV『Daily Serum』を発売。",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONDdLVnIxVVh1UUJ6NnB2VldEY0E4c1Vaem5qNjI0alBtMUs3UnVNOWhqdGhSNHZ4dkVndy1IUlFyZDlWY1VtNnNleDA4cHhES1lOdTZOaWl1Tldqclg4ZVlHSGhKRk5ZcW5CV0N5UGZOSlE0N2lEbDRSbmlUNWExUThSS2Q?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONDdLVnIxVVh1UUJ6NnB2VldEY0E4c1Vaem5qNjI0alBtMUs3UnVNOWhqdGhSNHZ4dkVndy1IUlFyZDlWY1VtNnNleDA4cHhES1lOdTZOaWl1Tldqclg4ZVlHSGhKRk5ZcW5CV0N5UGZOSlE0N2lEbDRSbmlUNWExUThSS2Q?oc=5",
-      "source_name": "excite.co.jp",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-04T18:59:40+0900",
-      "status": "candidate",
-      "created_at": "2026-07-30T18:59:40+0900"
     },
     {
       "seed_id": "seed_a9d4b1d887d8",
