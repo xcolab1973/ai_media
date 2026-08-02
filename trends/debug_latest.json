@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T18:44:00+09:00",
+  "generated_at": "2026-08-02T23:18:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,48 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 11,
-    "passed_total": 116,
+    "neg_excluded": 8,
+    "dedup_excluded": 9,
+    "passed_total": 115,
     "b2b_category_counts": {
       "yahoo_realtime": 36,
       "google_trends": 10,
-      "news_web": 14,
       "x_realtime": 7,
-      "yahoo_news_ranking": 3
+      "news_web": 15,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "personal_story": 5,
-    "opinion": 10,
-    "medical_science": 3,
-    "hard_fact": 21,
-    "policy": 1
-  },
-  "b2b_topic_category_counts": {
-    "social_reaction": 30,
+    "social_reaction": 23,
+    "personal_story": 6,
     "hard_fact": 23,
     "opinion": 10,
-    "medical_science": 1,
-    "personal_story": 5,
-    "policy": 1
+    "medical_science": 2,
+    "policy": 6
+  },
+  "b2b_topic_category_counts": {
+    "hard_fact": 24,
+    "social_reaction": 23,
+    "opinion": 10,
+    "personal_story": 6,
+    "policy": 6,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "5ちゃんねるで、ヤマザキの災害時対応について「その無料パンの費用は回りまわってお",
+      "title": "水量が増えすぎた北上川、もはや表面張力みたいなことになってる「川で表面張力って何",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "【熊本震度7】イオンモール熊本爆発で従業員2人死亡　ハビタ社長が「売上金戻して」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "「イベントだけのために単独ドメインを取得するな！」万博で使われたドメインが運営終",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -57,49 +69,37 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "板倉滉",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "被災の老人ホーム 熱中症疑い続出",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
       "title": "深井智朗氏の論文など７編で新たな捏造認定 ３大学が共同調査 「単なる注意義務違反",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "メディアにおける社会的弱者表象の境界線：『みいちゃんと山田さん』論争とアメリカの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "精神科医が中高の吹奏楽部について思うところがあるのは、精神科に来る子が断トツ多く",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "starto entertainment",
+      "title": "小室瑛莉子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "小日向文世",
+      "title": "キングコング",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "飯田将成",
+      "title": "阿部寛",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "男子バレーボールネーションズリーグ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "西野",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,7 +107,7 @@
   ],
   "note_top10": [
     {
-      "title": "5ちゃんねるで、ヤマザキの災害時対応について「その無料パンの費用は回りまわってお",
+      "title": "「イベントだけのために単独ドメインを取得するな！」万博で使われたドメインが運営終",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -119,52 +119,52 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "メディアにおける社会的弱者表象の境界線：『みいちゃんと山田さん』論争とアメリカの",
+      "title": "「喪服で来たら化けて出てやる！」祖母が亡くなり近々葬儀に行くが、祖母の遺言が「私",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "精神科医が中高の吹奏楽部について思うところがあるのは、精神科に来る子が断トツ多く",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "関西の友達と名古屋で合流して、「ノリタケの森」で絵付け体験…ツルツルの皿に陶磁器",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
     },
     {
-      "title": "「何かあってからじゃ遅い」混雑時の山手線でベビーカーに子供を乗せていたら、人の乗",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "国立コンコース売店で700円買って10,000円出したらおつり8,300円返され",
+      "title": "自動車整備士だが、客が「中古で軽トラ買ったんだけどさ、なんか足元がフワフワするん",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ワンピースカードの店舗大会で優勝したが、1ヶ月待っても優勝記念品が届かず→その後",
+      "title": "梅田での飲み会のあと、新大阪の新幹線最終に間に合わせようとタクシーを拾いそのまま",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "中国EV市場のカオスな現状─「143ブランド乱立」の熱狂とサバイバル | 英経済",
+      "title": "ただ交差点を渡るだけ──渋谷スクランブル交差点デモが革新的な3つの理由",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "板倉滉",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "古代マンモスの骨からナチスの軍艦、ドナウ川で次々に発見　干ばつで記録的な水位低下",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【タイムスリップ女子高生】✖️【特攻くずれ】の映画があったとしたら｜佐藤いぬこ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "有隣堂横浜駅西口店で35年のベテラン店員ですら初遭遇するレベルの超ロングレシート",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "なんか親と話が合わないと思ったら「院進」を「妊娠」と聞き間違えられていたことが判",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ]
 }
