@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T14:22:00+09:00",
+  "generated_at": "2026-08-03T19:59:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,52 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 4,
-    "dedup_excluded": 10,
-    "passed_total": 118,
+    "neg_excluded": 5,
+    "dedup_excluded": 13,
+    "passed_total": 114,
     "b2b_category_counts": {
       "yahoo_realtime": 37,
-      "x_realtime": 9,
       "google_trends": 10,
-      "news_web": 13,
-      "yahoo_news_ranking": 1
+      "x_realtime": 5,
+      "news_web": 14,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "medical_science": 1,
-    "personal_story": 3,
+    "social_reaction": 30,
+    "medical_science": 3,
+    "personal_story": 5,
+    "hard_fact": 18,
     "opinion": 10,
-    "policy": 4,
-    "hard_fact": 19
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "policy": 4,
-    "social_reaction": 33,
+    "social_reaction": 29,
     "hard_fact": 19,
-    "medical_science": 1,
+    "policy": 4,
+    "medical_science": 3,
     "opinion": 10,
-    "personal_story": 3
+    "personal_story": 5
   },
   "b2b_top10": [
+    {
+      "title": "総額20万円以上かけて、寝具の暑さ対策にお金を投じ続けた人の「答え」をポスト主が",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "昔、湾岸エリアの商業施設で勤務中に地震で津波注意報が発令され、津波到達まで20分",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "映画「ちいかわ　人魚の島のひみつ」を観て――神話学的観点から｜沖田瑞穂",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "｢高市早苗の正体｣に国民より先に気づいていた…海外投資家が｢日本経済を壊す首相｣",
       "source_category": "yahoo_realtime",
@@ -51,55 +69,37 @@
       "topic_category": "policy"
     },
     {
-      "title": "『草刈りしてくれたら駐車場代これから無料でいいよ』と言われたので墾田永年私財法の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「これが日本企業の底力」被災地にクーラー300台提供　ビックカメラが明かす迅速対",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
       "title": "肥満指数（BMI）と死亡リスク | 現在までの成果 | 科学的根拠に基づくがんリ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "medical_science"
     },
     {
-      "title": "【熊本震度7】イオンモール爆発、雑貨店社長が「売上金戻して」指示認め謝罪",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "みいちゃんと山田さんの作劇的な話｜江波光則",
+      "title": "『みいちゃんと山田さん』アニメ化について2Eギフテッド当事者の声優・青木志貴さん",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ハッピーセット",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "秋葉原駅の広告に14歳のキャラクター達が集結？なんだか大きすぎるものを背負ってい",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「どうしてこうなった…」12枚ほどのTシャツをネットに入れて洗濯機を回してたら、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "エバース",
+      "title": "避難所後進国・日本、その打開策を考える",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "ピッチクロック",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "三菱商事 決算",
+      "title": "週刊現代",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,49 +107,49 @@
   ],
   "note_top10": [
     {
-      "title": "『草刈りしてくれたら駐車場代これから無料でいいよ』と言われたので墾田永年私財法の",
+      "title": "総額20万円以上かけて、寝具の暑さ対策にお金を投じ続けた人の「答え」をポスト主が",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "映画「ちいかわ　人魚の島のひみつ」を観て――神話学的観点から｜沖田瑞穂",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『みいちゃんと山田さん』アニメ化について2Eギフテッド当事者の声優・青木志貴さん",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「どうしてこうなった…」12枚ほどのTシャツをネットに入れて洗濯機を回してたら、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "夏休みの宿題用に「A3の画用紙」を買いに来たが、そんなものは存在しないらしい…先",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ライオン3頭が相次ぎ死ぬ　猛暑影響か　18頭のうち10頭が次々と体調不良に　クー",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "大学時代、彼女から「正直言うとデート終わりのラブホが一番楽しみです。君は？」と提",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "みいちゃんと山田さんの作劇的な話｜江波光則",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日本育ちコンゴ人のワイ、浴衣がどうしても着たくてぼっちで浅草にきた… すごい英語",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "秋葉原駅の広告に14歳のキャラクター達が集結？なんだか大きすぎるものを背負ってい",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Webメディア「りっすん」がオープン10周年を迎えました！ - りっすん by ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "猫権意識の世代差に苦しんでる",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "隣家が駐車場を作るにあたり、自分の土地だけだと間口が狭く車の出入りができないので",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「久しぶりのお留守番で寂しかったの…」とは言うけれど、それはそれとしてシッターさ",
+      "title": "「そもそもみいちゃんを『みいちゃん』と呼ぶ事は虐待に当たる」社会福祉法人職員の視",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -161,10 +161,10 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "ミンティアで汗がおさえられるのは本当か",
+      "title": "[PDF] 小学館第三者委員会調査報告書（性加害歴のある漫画原作者の起用と元社員",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     }
   ]
 }
