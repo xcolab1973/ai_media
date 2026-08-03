@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T00:32:00+09:00",
+  "generated_at": "2026-08-04T07:37:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,39 +16,53 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 10,
-    "passed_total": 112,
+    "neg_excluded": 6,
+    "dedup_excluded": 13,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
-      "x_realtime": 9,
+      "yahoo_realtime": 36,
+      "x_realtime": 6,
       "google_trends": 10,
-      "yahoo_news_ranking": 4,
-      "news_web": 14
+      "news_web": 14,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 31,
-    "hard_fact": 20,
+    "social_reaction": 28,
+    "personal_story": 4,
+    "analysis": 1,
     "opinion": 8,
-    "personal_story": 3,
     "medical_science": 4,
-    "policy": 4
+    "hard_fact": 20,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 22,
-    "social_reaction": 31,
-    "policy": 4,
+    "social_reaction": 28,
+    "personal_story": 4,
+    "analysis": 1,
     "opinion": 8,
-    "medical_science": 2,
-    "personal_story": 3
+    "hard_fact": 22,
+    "policy": 5,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "イオンの避難訓練に参加した方が体験を語る「出たがらない人には怒鳴って良い」「避難",
+      "title": "「インターネットは本当に凄い。悪意の多様さに感心する」炎上した講談社の編集者に対",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "歳下の銀行員と付き合う運びになったが、実家が農家でお米を貰ってると話したら「米大",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "そりゃデジタル教材では頭に残らないわけだ…東大教授｢北欧が今､こぞって紙に回帰し",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "ミャクミャク関連サイトがアダルトサイトに……大阪万博のドメイン運用終了→転用続出",
@@ -57,16 +71,10 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "歳下の銀行員と付き合う運びになったが、実家が農家でお米を貰ってると話したら「米大",
+      "title": "イオンの避難訓練に参加した方が体験を語る「出たがらない人には怒鳴って良い」「避難",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「インターネットは本当に凄い。悪意の多様さに感心する」炎上した講談社の編集者に対",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
       "title": "映画「ちいかわ　人魚の島のひみつ」を観て――神話学的観点から｜沖田瑞穂",
@@ -75,31 +83,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "多摩動物公園のライオン３頭が相次ぎ死ぬ、熱中症か…別の３頭も起き上がれない状態",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "総額20万円以上かけて、寝具の暑さ対策にお金を投じ続けた人の「答え」をポスト主が",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "｢高市早苗の正体｣に国民より先に気づいていた…海外投資家が｢日本経済を壊す首相｣",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "ロト6当選番号速報",
+      "title": "円安とは",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
+      "topic_category": "analysis"
     },
     {
-      "title": "本田真凜",
+      "title": "名古屋天気",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ふるさと納税",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "mlb トレード",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,9 +109,27 @@
   ],
   "note_top10": [
     {
-      "title": "総額20万円以上かけて、寝具の暑さ対策にお金を投じ続けた人の「答え」をポスト主が",
+      "title": "「インターネットは本当に凄い。悪意の多様さに感心する」炎上した講談社の編集者に対",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "歳下の銀行員と付き合う運びになったが、実家が農家でお米を貰ってると話したら「米大",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "イオンの避難訓練に参加した方が体験を語る「出たがらない人には怒鳴って良い」「避難",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "そりゃデジタル教材では頭に残らないわけだ…東大教授｢北欧が今､こぞって紙に回帰し",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -119,51 +139,33 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "歳下の銀行員と付き合う運びになったが、実家が農家でお米を貰ってると話したら「米大",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「インターネットは本当に凄い。悪意の多様さに感心する」炎上した講談社の編集者に対",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "映画「ちいかわ　人魚の島のひみつ」を観て――神話学的観点から｜沖田瑞穂",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "多摩動物公園のライオン３頭が相次ぎ死ぬ、熱中症か…別の３頭も起き上がれない状態",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "昔は産みたくなかったが、子供が欲しい夫が「生まれてからの育児は自分が100%担当",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「海のシルクロード」北近畿からインド・パシフィックビーズが流入。卑弥呼共立に関わ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "新幹線で女子学生？が「座席倒していいですか？」と声をかけてきた後、5mm位しか倒",
+      "title": "東京行きの最終の新幹線自由席、人が入りきらず何百人か長岡で野宿確定…新幹線の席争",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "円安とは",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "analysis"
     },
     {
       "title": "夫(痩せ型)に「赤福買ってきて」と頼んだら、\"2個入り\"を買ってきて「2人で分け",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
