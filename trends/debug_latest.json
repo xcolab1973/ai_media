@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T07:35:00+09:00",
+  "generated_at": "2026-08-03T14:22:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,58 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 13,
-    "dedup_excluded": 8,
-    "passed_total": 111,
+    "neg_excluded": 4,
+    "dedup_excluded": 10,
+    "passed_total": 118,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
-      "x_realtime": 7,
-      "news_web": 18,
+      "yahoo_realtime": 37,
+      "x_realtime": 9,
       "google_trends": 10,
-      "yahoo_news_ranking": 2
+      "news_web": 13,
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 22,
-    "opinion": 8,
-    "personal_story": 4,
-    "medical_science": 4,
-    "policy": 6,
-    "hard_fact": 26
+    "social_reaction": 33,
+    "medical_science": 1,
+    "personal_story": 3,
+    "opinion": 10,
+    "policy": 4,
+    "hard_fact": 19
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 27,
-    "social_reaction": 22,
-    "policy": 6,
-    "opinion": 8,
-    "personal_story": 4,
-    "medical_science": 3
+    "policy": 4,
+    "social_reaction": 33,
+    "hard_fact": 19,
+    "medical_science": 1,
+    "opinion": 10,
+    "personal_story": 3
   },
   "b2b_top10": [
+    {
+      "title": "｢高市早苗の正体｣に国民より先に気づいていた…海外投資家が｢日本経済を壊す首相｣",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "『草刈りしてくれたら駐車場代これから無料でいいよ』と言われたので墾田永年私財法の",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「これが日本企業の底力」被災地にクーラー300台提供　ビックカメラが明かす迅速対",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "肥満指数（BMI）と死亡リスク | 現在までの成果 | 科学的根拠に基づくがんリ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
     {
       "title": "【熊本震度7】イオンモール爆発、雑貨店社長が「売上金戻して」指示認め謝罪",
       "source_category": "yahoo_realtime",
@@ -51,55 +75,31 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "「除草作業のため、8800円がかかる」管理会社からLINEで写真が送られてきたが",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "埼玉県の山中で91歳女性の遺体が発見…女性の長男名義の車を運転していたベトナム国",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "policy"
-    },
-    {
-      "title": "地震と雲を関係付ける誤情報 注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
       "title": "みいちゃんと山田さんの作劇的な話｜江波光則",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "台風情報",
+      "title": "ハッピーセット",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
+      "topic_category": "opinion"
     },
     {
-      "title": "ケバブ屋にて…俺「量を少なめでお願いします」店の人「はい」→1分後、店の人「はい",
+      "title": "秋葉原駅の広告に14歳のキャラクター達が集結？なんだか大きすぎるものを背負ってい",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "杉原愛子",
+      "title": "エバース",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "pltr",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "広末涼子",
+      "title": "三菱商事 決算",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,7 +107,7 @@
   ],
   "note_top10": [
     {
-      "title": "「除草作業のため、8800円がかかる」管理会社からLINEで写真が送られてきたが",
+      "title": "『草刈りしてくれたら駐車場代これから無料でいいよ』と言われたので墾田永年私財法の",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -119,51 +119,51 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ケバブ屋にて…俺「量を少なめでお願いします」店の人「はい」→1分後、店の人「はい",
+      "title": "日本育ちコンゴ人のワイ、浴衣がどうしても着たくてぼっちで浅草にきた… すごい英語",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "秋葉原駅の広告に14歳のキャラクター達が集結？なんだか大きすぎるものを背負ってい",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「今の若い人ってCDを車で聴かないらしい」サブスクは便利だが、ドライブ中にアルバ",
+      "title": "Webメディア「りっすん」がオープン10周年を迎えました！ - りっすん by ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "入れて煮るだけ！鶏むね肉チャーシュー【作り置き・お弁当に】 | レシピサイトNa",
+      "title": "猫権意識の世代差に苦しんでる",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「日本全体の成長をリード」　小池都知事が就任10年　インタビュー詳報、未来像語る",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "荻上チキsession『特集・やまゆり園事件から10年～荻上チキの取材報告』を聴",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「寝そべり族」って言葉そのまま輸入した人、センスなさすぎないか？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【タイムスリップ女子高生】✖️【特攻くずれ】の映画があったとしたら｜佐藤いぬこ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『みいちゃんと山田さん』みいちゃんが「キチィうさちゃん」たちに殴られ蹴られ、高橋",
+      "title": "隣家が駐車場を作るにあたり、自分の土地だけだと間口が狭く車の出入りができないので",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「久しぶりのお留守番で寂しかったの…」とは言うけれど、それはそれとしてシッターさ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "肥満指数（BMI）と死亡リスク | 現在までの成果 | 科学的根拠に基づくがんリ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "ミンティアで汗がおさえられるのは本当か",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
