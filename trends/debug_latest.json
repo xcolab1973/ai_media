@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T19:20:00+09:00",
+  "generated_at": "2026-08-05T00:11:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,65 +17,41 @@
       "x_realtime": 10
     },
     "neg_excluded": 7,
-    "dedup_excluded": 11,
-    "passed_total": 114,
+    "dedup_excluded": 10,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 29,
       "x_realtime": 7,
-      "news_web": 18,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "yahoo_news_ranking": 6
+      "news_web": 13,
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "medical_science": 4,
-    "personal_story": 2,
+    "social_reaction": 27,
+    "personal_story": 5,
     "opinion": 9,
-    "hard_fact": 24,
-    "policy": 2
+    "hard_fact": 22,
+    "medical_science": 4,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 26,
-    "hard_fact": 26,
+    "social_reaction": 27,
+    "hard_fact": 22,
     "opinion": 9,
-    "medical_science": 3,
-    "personal_story": 2,
-    "policy": 4
+    "personal_story": 5,
+    "policy": 3,
+    "medical_science": 4
   },
   "b2b_top10": [
     {
-      "title": "ナガノ先生ミリしらの大学教授が「神話的だ」と学生に教えてもらって映画『ちいかわ』",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "炎上覚悟で言うけど、手羽先って食べるときの面倒くささを美味しさが上回らないよね？",
+      "title": "友人が遊びに来た時、4歳以下の息子に三色団子をそのまま食べさせたら喉に詰まらせて",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "建築士の観点増田です。ブクマコメのうち特に必要と思われる4点にお答えし..",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "台風13号「迷走」可能性 進路注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "終了した「104」今もかける60代母",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "先日、プールで小学4年生くらいの男の子が、体の大きな監視員に10分以上説教されて",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -87,25 +63,17 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "震度5強以上に1週間程度注意 熊本",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "そりゃデジタル教材では頭に残らないわけだ…東大教授｢北欧が今､こぞって紙に回帰し",
+      "title": "炎上覚悟で言うけど、手羽先って食べるときの面倒くささを美味しさが上回らないよね？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ソニー生命保険",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    }
-  ],
-  "note_top10": [
+      "title": "ミッドサマーのような因習村系のホラーと思ったら大違い？『黄龍の村』がYouTub",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "ナガノ先生ミリしらの大学教授が「神話的だ」と学生に教えてもらって映画『ちいかわ』",
       "source_category": "yahoo_realtime",
@@ -113,7 +81,33 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "炎上覚悟で言うけど、手羽先って食べるときの面倒くささを美味しさが上回らないよね？",
+      "title": "白井一行",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "トット",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「マジでこれわかる」今の若者はいい人ほど社会人3年目くらいで大学の恋人とかと結婚",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "そりゃデジタル教材では頭に残らないわけだ…東大教授｢北欧が今､こぞって紙に回帰し",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    }
+  ],
+  "note_top10": [
+    {
+      "title": "友人が遊びに来た時、4歳以下の息子に三色団子をそのまま食べさせたら喉に詰まらせて",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -125,7 +119,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "先日、プールで小学4年生くらいの男の子が、体の大きな監視員に10分以上説教されて",
+      "title": "炎上覚悟で言うけど、手羽先って食べるときの面倒くささを美味しさが上回らないよね？",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ミッドサマーのような因習村系のホラーと思ったら大違い？『黄龍の村』がYouTub",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ナガノ先生ミリしらの大学教授が「神話的だ」と学生に教えてもらって映画『ちいかわ』",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「マジでこれわかる」今の若者はいい人ほど社会人3年目くらいで大学の恋人とかと結婚",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -137,34 +149,22 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "スコットランドの古いホテルに泊まったら最上階に案内され、至れり尽くせりのサービス",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "長岡花火の帰り、上越新幹線のグランクラスのデッキとグリーン車のデッキ・通路に自由",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「…なんとなく言わずにはおられなかった」モーニングで連載している作家が担当に『み",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "創作において人が死ぬ話は安易に人の心を動かそうとするから駄目……余命○年系が流行",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "映画「ちいかわ」を一緒に観に行ったのをきっかけに彼氏と破局寸前になった話…これは",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "初めて友達とロイホに行った息子たち、全員が「えっ、高っ」「いつも好き勝手頼んでた",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "とうとう来たわね『ドカ食いダイスキ! もちづきさん』アニメ化決定、「実写化じゃな",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ]
 }
