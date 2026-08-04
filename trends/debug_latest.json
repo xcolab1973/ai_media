@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T13:48:00+09:00",
+  "generated_at": "2026-08-04T19:20:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,64 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 9,
-    "passed_total": 115,
+    "neg_excluded": 7,
+    "dedup_excluded": 11,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 31,
+      "yahoo_realtime": 29,
+      "x_realtime": 7,
+      "news_web": 18,
       "google_trends": 10,
-      "news_web": 16,
-      "yahoo_news_ranking": 5,
-      "x_realtime": 8
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 23,
-    "personal_story": 2,
-    "opinion": 10,
-    "hard_fact": 24,
+    "social_reaction": 29,
     "medical_science": 4,
-    "policy": 7
+    "personal_story": 2,
+    "opinion": 9,
+    "hard_fact": 24,
+    "policy": 2
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 21,
-    "hard_fact": 29,
-    "opinion": 10,
+    "social_reaction": 26,
+    "hard_fact": 26,
+    "opinion": 9,
     "medical_science": 3,
     "personal_story": 2,
-    "policy": 5
+    "policy": 4
   },
   "b2b_top10": [
+    {
+      "title": "ナガノ先生ミリしらの大学教授が「神話的だ」と学生に教えてもらって映画『ちいかわ』",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "炎上覚悟で言うけど、手羽先って食べるときの面倒くささを美味しさが上回らないよね？",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "建築士の観点増田です。ブクマコメのうち特に必要と思われる4点にお答えし..",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "台風13号「迷走」可能性 進路注意",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "終了した「104」今もかける60代母",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
     {
       "title": "先日、プールで小学4年生くらいの男の子が、体の大きな監視員に10分以上説教されて",
       "source_category": "yahoo_realtime",
@@ -51,9 +81,15 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "米国で寄生虫感染症、６７０７人が感染し２人死亡…感染源の一つは「タコベル」に供給",
+      "title": "8万が12万円「とても払えず」　相次ぐ家賃値上げ、どうすれば | 毎日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "震度5強以上に1週間程度注意 熊本",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_domestic",
       "topic_category": "hard_fact"
     },
     {
@@ -63,43 +99,7 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "中国コロナ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "エメットシーハン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "着陸",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "インターハイ テニス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "道で意識ない状態 熱中症疑い死亡",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "j1リーグ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "栗原めぐみ",
+      "title": "ソニー生命保険",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,6 +107,24 @@
   ],
   "note_top10": [
     {
+      "title": "ナガノ先生ミリしらの大学教授が「神話的だ」と学生に教えてもらって映画『ちいかわ』",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "炎上覚悟で言うけど、手羽先って食べるときの面倒くささを美味しさが上回らないよね？",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "建築士の観点増田です。ブクマコメのうち特に必要と思われる4点にお答えし..",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "先日、プールで小学4年生くらいの男の子が、体の大きな監視員に10分以上説教されて",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
@@ -119,52 +137,34 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "映画館は「99通り」の体験へ。イオンシネマとディズニーが描くリピーター戦略【西田",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「完全に買い物しくじった、これ一人暮らしで使い切るの何年かかるだろうか」買い物を",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "外気温28度で屋外作業中、大量に汗をかいてる同僚を発見… 車で休む様に促して5分",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "小学校6年生の時に友人に文庫本を三冊貸していたが、汚されて謝罪された…弁償すれば",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "年は16歳差…高校の担任と結婚した女性に様々な意見は集まるが、在学中は手を出さず",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "果物が高すぎる問題",
+      "title": "スコットランドの古いホテルに泊まったら最上階に案内され、至れり尽くせりのサービス",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "聴覚障害者の伊藤黒介さんによる「みいちゃんと山田さん」感想",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "自転車屋にて、修理に来た客が一般車に「ぶっといペグ」をつけていた→「二人乗りで使",
+      "title": "長岡花火の帰り、上越新幹線のグランクラスのデッキとグリーン車のデッキ・通路に自由",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "「…なんとなく言わずにはおられなかった」モーニングで連載している作家が担当に『み",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "創作において人が死ぬ話は安易に人の心を動かそうとするから駄目……余命○年系が流行",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "映画「ちいかわ」を一緒に観に行ったのをきっかけに彼氏と破局寸前になった話…これは",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
     }
   ]
 }
