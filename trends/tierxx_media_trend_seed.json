@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-04T19:12:46+0900",
-    "record_count": 43,
-    "source_total_in_db": 759,
+    "generated_at": "2026-08-05T07:37:04+0900",
+    "record_count": 44,
+    "source_total_in_db": 761,
     "provenance_breakdown": {
-      "evidence": 477,
+      "evidence": 479,
       "pain_seed": 282
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_5a24348cfeda",
+      "trend_term": "医師の美容医療転職",
+      "raw_title": "「上皇の執刀医」が美容外科のクリニックに「再就職」していた…二重切開やボトックス注射も - gendai.media",
+      "summary": "宮内庁関係者の医師が美容外科クリニックへ転職。二重切開やボトックス注射などの施術に従事している事実が報道された。",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85WElBWW1LTy1QLVM0VG0zMHlCRWRQRS1UOGc3M016U0dsZUJaWXdTc1hkc2xqekkxQ0FKX1pXd1RMdUctTFNVc29QSjA1SWctR2xPQW1CT2s?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85WElBWW1LTy1QLVM0VG0zMHlCRWRQRS1UOGc3M016U0dsZUJaWXdTc1hkc2xqekkxQ0FKX1pXd1RMdUctTFNVc29QSjA1SWctR2xPQW1CT2s?oc=5",
+      "source_name": "gendai.media",
+      "monitor_id": "bm-regen-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-10T07:36:47+0900",
+      "status": "candidate",
+      "created_at": "2026-08-05T07:36:47+0900"
+    },
+    {
+      "seed_id": "seed_2e8c8e31804b",
+      "trend_term": "ボトックス適応拡大",
+      "raw_title": "アレルガン、ボトックスのフェイスラインへの適応拡大をFDAに申請 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "summary": "アレルガンがボトックスのフェイスライン適応拡大をFDAに申請。規制当局への正式申請という制度面での進展。",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpVnFLRkFEODZuc2czYlRKeVdEMFE0blkzdUlIVXFaeUFXcGg4WEVsZk91QUtocG5QY2I0ZEZfQ05tdTljRFctR0JLcFVSUENiUzNySk5WdldYajRKNDZPbURFU3pIZHotZEt6UFVvbVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpVnFLRkFEODZuc2czYlRKeVdEMFE0blkzdUlIVXFaeUFXcGg4WEVsZk91QUtocG5QY2I0ZEZfQ05tdTljRFctR0JLcFVSUENiUzNySk5WdldYajRKNDZPbURFU3pIZHotZEt6UFVvbVE?oc=5",
+      "source_name": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-10T07:36:38+0900",
+      "status": "candidate",
+      "created_at": "2026-08-05T07:36:38+0900"
+    },
     {
       "seed_id": "seed_885e09a1b058",
       "trend_term": "クリニック経営支援SaaS",
@@ -497,24 +533,6 @@
       "valid_until": "2026-08-15T18:32:02+0900",
       "status": "candidate",
       "created_at": "2026-08-01T18:32:02+0900"
-    },
-    {
-      "seed_id": "seed_eb4b8954fafe",
-      "trend_term": "再生医療発想のスキンケア",
-      "raw_title": "【イベント出展】再生医療研究の知見で、美容医療の新たな可能性を提案。エテルナムが「未来の美を諦めない」ための次世代スキンケアを『MIRAI Beauty Fes.』で発信。 - asahi.com",
-      "summary": "再生医療研究の知見を応用したスキンケア製品が、美容医療の新しい可能性として提案されている。",
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83dTRMZ09SbmNRbGxUcjlmU3M5Vm11S1lCcFExOEU0bnR6WFlfR2lyUVJsNFBnZEhjTS13TDduVzBJb1R2OUk5LWJYQWxFcjczZWdhc2YyVmwwNk0?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83dTRMZ09SbmNRbGxUcjlmU3M5Vm11S1lCcFExOEU0bnR6WFlfR2lyUVJsNFBnZEhjTS13TDduVzBJb1R2OUk5LWJYQWxFcjczZWdhc2YyVmwwNk0?oc=5",
-      "source_name": "asahi.com",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-06T14:40:51+0900",
-      "status": "candidate",
-      "created_at": "2026-08-01T14:40:51+0900"
     },
     {
       "seed_id": "seed_a44f1f14596d",
