@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T00:11:00+09:00",
+  "generated_at": "2026-08-05T07:41:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -20,41 +20,51 @@
     "dedup_excluded": 10,
     "passed_total": 115,
     "b2b_category_counts": {
+      "yahoo_realtime": 36,
       "x_realtime": 7,
-      "yahoo_realtime": 35,
       "google_trends": 10,
-      "news_web": 13,
-      "yahoo_news_ranking": 5
+      "news_web": 14,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 27,
-    "personal_story": 5,
-    "opinion": 9,
-    "hard_fact": 22,
-    "medical_science": 4,
-    "policy": 3
+    "social_reaction": 28,
+    "personal_story": 6,
+    "opinion": 10,
+    "hard_fact": 19,
+    "policy": 7
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 27,
-    "hard_fact": 22,
-    "opinion": 9,
-    "personal_story": 5,
-    "policy": 3,
-    "medical_science": 4
+    "hard_fact": 19,
+    "social_reaction": 28,
+    "policy": 7,
+    "opinion": 10,
+    "personal_story": 6
   },
   "b2b_top10": [
     {
-      "title": "友人が遊びに来た時、4歳以下の息子に三色団子をそのまま食べさせたら喉に詰まらせて",
+      "title": "【速報】生態系対策リスト、猫の対象拡大を撤回へ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "猫の生態系対策案撤回へ　被害防止リスト変更せず　石原環境相「誤解招く」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "コスプレイベントで熱中症で倒れたレイヤーを救護し、救急車を呼んだら、スタッフから",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "建築士の観点増田です。ブクマコメのうち特に必要と思われる4点にお答えし..",
+      "title": "「国旗損壊罪は違憲」憲法研究者199人、速やかな廃止を求めて声明：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "policy"
     },
     {
       "title": "8万が12万円「とても払えず」　相次ぐ家賃値上げ、どうすれば | 毎日新聞",
@@ -63,51 +73,45 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "炎上覚悟で言うけど、手羽先って食べるときの面倒くささを美味しさが上回らないよね？",
+      "title": "建築士の観点増田です。ブクマコメのうち特に必要と思われる4点にお答えし..",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ミッドサマーのような因習村系のホラーと思ったら大違い？『黄龍の村』がYouTub",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ナガノ先生ミリしらの大学教授が「神話的だ」と学生に教えてもらって映画『ちいかわ』",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "白井一行",
+      "title": "レッドソックス 対 ホワイトソックス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "トット",
+      "title": "甲子園",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "「マジでこれわかる」今の若者はいい人ほど社会人3年目くらいで大学の恋人とかと結婚",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "クロス ロード 救命 救急 の 約束",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "そりゃデジタル教材では頭に残らないわけだ…東大教授｢北欧が今､こぞって紙に回帰し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "ブレーブス 対 マーリンズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "友人が遊びに来た時、4歳以下の息子に三色団子をそのまま食べさせたら喉に詰まらせて",
+      "title": "猫の生態系対策案撤回へ　被害防止リスト変更せず　石原環境相「誤解招く」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "コスプレイベントで熱中症で倒れたレイヤーを救護し、救急車を呼んだら、スタッフから",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -119,52 +123,46 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "炎上覚悟で言うけど、手羽先って食べるときの面倒くささを美味しさが上回らないよね？",
+      "title": "土木業界にいると日本共産党に批判的になる→それよりも本当に嫌っているのは民主党か",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ミッドサマーのような因習村系のホラーと思ったら大違い？『黄龍の村』がYouTub",
+      "title": "玄関先で物置を整理していたらAmazonの配達が来たので「ごくろうさまです～」と",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ナガノ先生ミリしらの大学教授が「神話的だ」と学生に教えてもらって映画『ちいかわ』",
+      "title": "「閉店のお知らせ」Instagramで数か月〜1年ほど前にオープンしたオシャレ系",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「マジでこれわかる」今の若者はいい人ほど社会人3年目くらいで大学の恋人とかと結婚",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "そりゃデジタル教材では頭に残らないわけだ…東大教授｢北欧が今､こぞって紙に回帰し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "長岡花火の帰り、上越新幹線のグランクラスのデッキとグリーン車のデッキ・通路に自由",
+      "title": "本好きの娘が中2で作家に　鈴木るりかさんの母、育児と後悔/上 | 毎日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "初めて友達とロイホに行った息子たち、全員が「えっ、高っ」「いつも好き勝手頼んでた",
+      "title": "中学の時、ジャンケンで負けて行くことになった職業体験先がいわゆる「ムウちゃんがホ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "映画「ちいかわ」に昆布締めスタイルのちいかわマスコットを連れていきたくてお誂え向",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "とうとう来たわね『ドカ食いダイスキ! もちづきさん』アニメ化決定、「実写化じゃな",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "レッドソックス 対 ホワイトソックス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
