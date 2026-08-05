@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T07:41:00+09:00",
+  "generated_at": "2026-08-05T13:48:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,88 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 10,
+    "neg_excluded": 8,
+    "dedup_excluded": 9,
     "passed_total": 115,
     "b2b_category_counts": {
       "yahoo_realtime": 36,
-      "x_realtime": 7,
       "google_trends": 10,
-      "news_web": 14,
-      "yahoo_news_ranking": 3
+      "x_realtime": 7,
+      "news_web": 15,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "personal_story": 6,
+    "social_reaction": 34,
+    "personal_story": 4,
     "opinion": 10,
-    "hard_fact": 19,
-    "policy": 7
+    "medical_science": 2,
+    "policy": 4,
+    "hard_fact": 16
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 19,
-    "social_reaction": 28,
-    "policy": 7,
+    "social_reaction": 34,
     "opinion": 10,
-    "personal_story": 6
+    "medical_science": 2,
+    "hard_fact": 15,
+    "personal_story": 4,
+    "policy": 5
   },
   "b2b_top10": [
     {
-      "title": "【速報】生態系対策リスト、猫の対象拡大を撤回へ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "猫の生態系対策案撤回へ　被害防止リスト変更せず　石原環境相「誤解招く」",
+      "title": "米軍、主要迎撃ミサイルの80％使い果たす　「危険な水準」と軍高官",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "コスプレイベントで熱中症で倒れたレイヤーを救護し、救急車を呼んだら、スタッフから",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「国旗損壊罪は違憲」憲法研究者199人、速やかな廃止を求めて声明：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "8万が12万円「とても払えず」　相次ぐ家賃値上げ、どうすれば | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "建築士の観点増田です。ブクマコメのうち特に必要と思われる4点にお答えし..",
+      "title": "小学館・マンガワン第三者委員会調査報告書から見る、『常人仮面』連載の経緯｜おん",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "レッドソックス 対 ホワイトソックス",
+      "title": "「八街」　←　やち-また じゃなくて や-ちまた だった",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "黒柳徹子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "甲子園",
+      "title": "桑田真澄",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "クロス ロード 救命 救急 の 約束",
+      "title": "チャンピオンズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ブレーブス 対 マーリンズ",
+      "title": "しこりを見つけて町の小さな乳腺外科に行き、エコー体感30秒で軽ーく「ちょっとがん",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "電車で女性が失神し、偶然居合わせた看護師と自分とで駅でおろした→ベンチまで運んで",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "小籔千豊",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "perez hilton",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,64 +107,64 @@
   ],
   "note_top10": [
     {
-      "title": "猫の生態系対策案撤回へ　被害防止リスト変更せず　石原環境相「誤解招く」",
+      "title": "小学館・マンガワン第三者委員会調査報告書から見る、『常人仮面』連載の経緯｜おん",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "コスプレイベントで熱中症で倒れたレイヤーを救護し、救急車を呼んだら、スタッフから",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "建築士の観点増田です。ブクマコメのうち特に必要と思われる4点にお答えし..",
+      "title": "米軍、主要迎撃ミサイルの80％使い果たす　「危険な水準」と軍高官",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "土木業界にいると日本共産党に批判的になる→それよりも本当に嫌っているのは民主党か",
+      "title": "「八街」　←　やち-また じゃなくて や-ちまた だった",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "玄関先で物置を整理していたらAmazonの配達が来たので「ごくろうさまです～」と",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「閉店のお知らせ」Instagramで数か月〜1年ほど前にオープンしたオシャレ系",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "本好きの娘が中2で作家に　鈴木るりかさんの母、育児と後悔/上 | 毎日新聞",
+      "title": "古代ギリシアの『植物誌』を82歳で完訳・小川洋子「子育てと家事の合間に、哲学者テ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "中学の時、ジャンケンで負けて行くことになった職業体験先がいわゆる「ムウちゃんがホ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "映画「ちいかわ」に昆布締めスタイルのちいかわマスコットを連れていきたくてお誂え向",
+      "title": "コレ…「熊本応援じゃい！」って気持ちで買ったんだけどさ…あまりのおいしさに腰抜か",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "レッドソックス 対 ホワイトソックス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "電車で女性が失神し、偶然居合わせた看護師と自分とで駅でおろした→ベンチまで運んで",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中国で話題の\"結婚詐欺の街\"とは？数百の婚活業者が男性を食い物に",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "仕事・家庭・個人の優先順位はもっと柔軟に変えていい 40代のわたしが10年後の自",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "北朝鮮の金与正氏、日本に「軍事的選択肢」警告　トマホーク試射に反発（ロイター） ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "キラキラ地名ってあるよね",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ]
 }
