@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T00:03:00+09:00",
+  "generated_at": "2026-08-06T07:40:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,60 +16,42 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 10,
-    "passed_total": 114,
+    "neg_excluded": 6,
+    "dedup_excluded": 9,
+    "passed_total": 117,
     "b2b_category_counts": {
+      "yahoo_realtime": 37,
       "google_trends": 10,
-      "x_realtime": 8,
-      "yahoo_realtime": 36,
       "news_web": 12,
-      "yahoo_news_ranking": 4
+      "yahoo_news_ranking": 3,
+      "x_realtime": 8
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
+    "social_reaction": 28,
     "medical_science": 2,
-    "personal_story": 2,
-    "opinion": 9,
-    "policy": 7,
-    "hard_fact": 20
+    "opinion": 10,
+    "personal_story": 3,
+    "policy": 10,
+    "hard_fact": 17
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
-    "policy": 7,
-    "opinion": 9,
+    "policy": 10,
+    "social_reaction": 28,
+    "opinion": 10,
     "medical_science": 2,
-    "hard_fact": 20,
-    "personal_story": 2
+    "hard_fact": 17,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "ゆふなつき 炎上",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【成人向けゲーム注意】Steamで成人向けゲームを展開していた人が、海外売上を受",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「オーケストラは今やゲーム音楽で食っている」若いゲームファンがチケットを買い、補",
+      "title": "「みんな高市さんに何も言えない」「半分以上が反対」 消費税減税めぐる舞台裏　自民",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "「財政なんか知らねーよ」消費減税求めたSNSの声　財務官僚は後悔：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "部下に仕事で注意したら、翌日から怒りをぶつけられ、「管理者として失格」など人格否",
+      "title": "3か月で20キロ減！「無料のChatGPTだけ」でダイエットを成功させた芸人を直",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -81,22 +63,40 @@
       "topic_category": "policy"
     },
     {
-      "title": "米軍、主要迎撃ミサイルの80％使い果たす　「危険な水準」と軍高官",
+      "title": "「オーケストラは今やゲーム音楽で食っている」若いゲームファンがチケットを買い、補",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ねぶた大賞",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "topic_category": "policy"
     },
     {
       "title": "首よりも脇よりも効果的…熱中症研究者が｢暑いときは真っ先にここを冷やせ｣という意",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "菅野智之",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "広末涼子",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "自衛隊が熊本で展開している支援用船舶の入浴設備が本格的ですごい！→船の来歴を知る",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "高市首相の｢外国人政策｣は論理破綻している…｢安い移民｣で｢まじめに働く日本人｣",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
     },
     {
       "title": "TOHOシネマズ大井町、空調トラブルで“サウナ状態”も上映強行か、運営は「取材お",
@@ -107,19 +107,7 @@
   ],
   "note_top10": [
     {
-      "title": "ゆふなつき 炎上",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【成人向けゲーム注意】Steamで成人向けゲームを展開していた人が、海外売上を受",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "部下に仕事で注意したら、翌日から怒りをぶつけられ、「管理者として失格」など人格否",
+      "title": "3か月で20キロ減！「無料のChatGPTだけ」でダイエットを成功させた芸人を直",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -131,39 +119,51 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "#コスプレイヤーbeforeafter選手権 「←65kg 38kg→」「薄顔の",
+      "title": "自衛隊が熊本で展開している支援用船舶の入浴設備が本格的ですごい！→船の来歴を知る",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "米軍、主要迎撃ミサイルの80％使い果たす　「危険な水準」と軍高官",
+      "title": "かつて６５０万部を誇った「週刊少年ジャンプ」、発行部数が初の１００万部割れ…国内",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "学歴関係なしと言われた修士卒の女の子が「学歴で優遇しないとか、それじゃ大学院まで",
+      "title": "3.11でガチ被災した人が語るライフハック「避難所で人に『食べ物とか水とか持って",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "TOHOシネマズ大井町、空調トラブルで“サウナ状態”も上映強行か、運営は「取材お",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "CDとDVD収納に無印良品ポリプロピレン収納ボックス小が便利！30枚以上がスッキ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "菅野智之",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "広末涼子",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "なぜ昔ながらのゲームセンターは減っているのか｜プレイハウスエリナ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "8月6日にIT業界で働くことの詳細情報を記載した投稿に、同じ日にSESとして新人",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【神ゲー】4人のオタク女子と恋愛できるゲーム登場→サブカルボクっ娘、「オィィィ！",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
