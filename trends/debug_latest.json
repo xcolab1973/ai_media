@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T19:16:00+09:00",
+  "generated_at": "2026-08-06T00:03:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,46 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 11,
-    "passed_total": 112,
+    "neg_excluded": 8,
+    "dedup_excluded": 10,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
-      "x_realtime": 8,
       "google_trends": 10,
-      "news_web": 14,
-      "yahoo_news_ranking": 3
+      "x_realtime": 8,
+      "yahoo_realtime": 36,
+      "news_web": 12,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
     "social_reaction": 30,
-    "personal_story": 2,
     "medical_science": 2,
-    "policy": 5,
-    "opinion": 10,
-    "hard_fact": 21
+    "personal_story": 2,
+    "opinion": 9,
+    "policy": 7,
+    "hard_fact": 20
   },
   "b2b_topic_category_counts": {
-    "policy": 6,
     "social_reaction": 30,
-    "opinion": 10,
+    "policy": 7,
+    "opinion": 9,
     "medical_science": 2,
     "hard_fact": 20,
     "personal_story": 2
   },
   "b2b_top10": [
+    {
+      "title": "ゆふなつき 炎上",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【成人向けゲーム注意】Steamで成人向けゲームを展開していた人が、海外売上を受",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "「オーケストラは今やゲーム音楽で食っている」若いゲームファンがチケットを買い、補",
       "source_category": "yahoo_realtime",
@@ -51,15 +63,15 @@
       "topic_category": "policy"
     },
     {
-      "title": "部下に仕事で注意したら、翌日から怒りをぶつけられ、「管理者として失格」など人格否",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "「財政なんか知らねーよ」消費減税求めたSNSの声　財務官僚は後悔：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
     },
     {
-      "title": "「前にとんでもないトラックいるんやけどこれ警察に通報したほうがいいやつ？」危険す",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "部下に仕事で注意したら、翌日から怒りをぶつけられ、「管理者として失格」など人格否",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -75,47 +87,41 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「財政なんか知らねーよ」消費減税求めたSNSの声　財務官僚は後悔：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "首よりも脇よりも効果的…熱中症研究者が｢暑いときは真っ先にここを冷やせ｣という意",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "建物火災",
+      "title": "ねぶた大賞",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "学歴関係なしと言われた修士卒の女の子が「学歴で優遇しないとか、それじゃ大学院まで",
+      "title": "首よりも脇よりも効果的…熱中症研究者が｢暑いときは真っ先にここを冷やせ｣という意",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「八街」　←　やち-また じゃなくて や-ちまた だった",
+      "title": "TOHOシネマズ大井町、空調トラブルで“サウナ状態”も上映強行か、運営は「取材お",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "medical_science"
     }
   ],
   "note_top10": [
     {
-      "title": "部下に仕事で注意したら、翌日から怒りをぶつけられ、「管理者として失格」など人格否",
+      "title": "ゆふなつき 炎上",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【成人向けゲーム注意】Steamで成人向けゲームを展開していた人が、海外売上を受",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「前にとんでもないトラックいるんやけどこれ警察に通報したほうがいいやつ？」危険す",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "部下に仕事で注意したら、翌日から怒りをぶつけられ、「管理者として失格」など人格否",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -125,13 +131,7 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "学歴関係なしと言われた修士卒の女の子が「学歴で優遇しないとか、それじゃ大学院まで",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「八街」　←　やち-また じゃなくて や-ちまた だった",
+      "title": "#コスプレイヤーbeforeafter選手権 「←65kg 38kg→」「薄顔の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -143,28 +143,28 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "職場に男性社員の前だけ「ほえ～」「はにゃ？」「ごめんなちゃい」などとけったいな反",
+      "title": "学歴関係なしと言われた修士卒の女の子が「学歴で優遇しないとか、それじゃ大学院まで",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "なぜ昔ながらのゲームセンターは減っているのか｜プレイハウスエリナ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "8月6日にIT業界で働くことの詳細情報を記載した投稿に、同じ日にSESとして新人",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "嫌なことがあったときに見ると元気が出る「ミルクゴクゴクネコ」がマジで力強さすらあ",
+      "title": "【神ゲー】4人のオタク女子と恋愛できるゲーム登場→サブカルボクっ娘、「オィィィ！",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "古代ギリシアの『植物誌』を82歳で完訳・小川洋子「子育てと家事の合間に、哲学者テ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "TOHOシネマズ大井町、空調トラブルで“サウナ状態”も上映強行か、運営は「取材お",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
     }
   ]
 }
