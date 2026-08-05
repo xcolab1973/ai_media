@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-02T16:54:56+09:00",
- "valid_until": "2026-08-16T16:52:59+09:00",
+ "generated_at": "2026-08-06T01:34:09+09:00",
+ "valid_until": "2026-08-19T16:48:11+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -738,6 +738,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "8月入社を目処に転職を考えているのですが、今から転職活動(応募)をする...",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327318785",
+   "summary": "8月入社を目標に転職活動を始めるタイミングについての質問。書類選考・面接にかかる期間の見通しが立たず、いつから動き出せば間に合うか不安になっている在職中の転職検討者の生の悩み。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "work-jobhunt",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "中途採用 秋 転職活動 8月 面接 志望動機 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-19T16:48:11+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "教育訓練給付が拡充されます",
    "url": "https://sr-ogido.com/change_law/753/",
    "summary": "雇用保険法改正による教育訓練給付金の給付率引き上げと教育訓練休暇給付金の新設を社労士事務所が解説。在職中に休職して学び直す選択肢が現実的になった点を整理している。",
@@ -944,36 +974,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-11T16:51:59+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "教育訓練給付金が拡充、休暇中は「教育訓練休暇給付金」も新設",
-   "url": "https://jsite.mhlw.go.jp/aichi-hellowork/list/inuyama/news/kyoikukunren_kakujuu.html",
-   "summary": "雇用保険法改正で教育訓練給付金の給付率が最大80%に引き上げ。資格取得・就職で+20%、賃金5%以上上昇で+10%上乗せ。休職して受講する場合は基本手当相当を最大150日受け取れる教育訓練休暇給付金も創設され、転職・リスキリングの学び直しハードルが下がる。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "work-jobhunt",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "厚生労働省(愛知労働局ハローワーク)",
-    "expert_origin": true,
-    "search_query": "教育訓練給付金 拡充 2026年10月 給付率80% 教育訓練休暇給付金 新設 転職",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-09T16:53:01+09:00",
    "validity_days": 14
   }
  ]
