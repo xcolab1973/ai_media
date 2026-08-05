@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-06T01:34:09+09:00",
+ "generated_at": "2026-08-06T06:47:41+09:00",
  "valid_until": "2026-08-19T16:43:28+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -10,7 +10,7 @@
   "parent": "beauty",
   "from_current": 31,
   "from_new": 4,
-  "expired_pruned": 4,
+  "expired_pruned": 0,
   "retention_dropped": 0,
   "genres": 4,
   "retention_per_genre": 8

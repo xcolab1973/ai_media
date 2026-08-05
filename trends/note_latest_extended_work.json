@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-06T01:34:09+09:00",
- "valid_until": "2026-08-19T16:48:11+09:00",
+ "generated_at": "2026-08-06T06:47:42+09:00",
+ "valid_until": "2026-08-20T06:43:02+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -10,8 +10,8 @@
   "parent": "work",
   "from_current": 32,
   "from_new": 1,
-  "expired_pruned": 0,
-  "retention_dropped": 1,
+  "expired_pruned": 1,
+  "retention_dropped": 0,
   "genres": 4,
   "retention_per_genre": 8
  },
@@ -258,6 +258,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "ボーナス（賞与）前に退職しても賞与はもらえる？ 支給の条件や適切な退職時期を解説",
+   "url": "https://www.vbest.jp/roudoumondai/columns/2968/",
+   "summary": "多くの企業は「支給日に在籍していること」を賞与支給の条件にしており、夏のボーナス直後は退職者が増える時期。満額を確実に受け取るには支給日以降に退職を申し出るべきと弁護士が解説している。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "work-quit",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "浅野総合法律事務所",
+    "expert_origin": true,
+    "search_query": "夏 ボーナス後 退職 タイミング 後悔しない",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-20T06:43:02+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "退職後すぐ動ける！自己都合退職者の「給付制限短縮」と「リスキリング解除」の全貌",
    "url": "https://note.com/bac_yanagi/n/n2ae57ae6d88d",
    "summary": "社労士事務所が解説。自己都合退職の給付制限は2025年4月から2ヶ月→1ヶ月に短縮済み、さらに離職前後にリスキリング目的の教育訓練を受けていれば給付制限自体が解除され7日間の待機だけで失業給付を受けられる。退職・転職検討者が制度を知らず機会損失するケースを指摘。",
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-08T06:51:33+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "ちょこ解 2026年10月から「106万円の壁」は「週20時間の壁」へ",
-   "url": "https://www.kk-osk.co.jp/promotion/explain/socialinsurance05.html",
-   "summary": "企業向け解説記事。制度変更の概要は分かるが、退職を検討する個人が扶養に入るか・週何時間で働くかを自分で判断する具体的な手順が示されておらず、個人視点コンテンツの余地がある。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "work-quit",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "OSK（企業ブログ）",
-    "expert_origin": false,
-    "search_query": "退職 社会保険106万円の壁 撤廃 2026年10月 扶養 パート 手取り どうすればいい",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": true,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-06T06:42:59+09:00",
    "validity_days": 14
   },
   {

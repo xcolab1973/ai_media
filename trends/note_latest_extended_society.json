@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-08-06T01:34:09+09:00",
+ "generated_at": "2026-08-06T06:47:41+09:00",
  "valid_until": "2026-08-15T16:55:43+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "society",
- "total_count": 24,
+ "total_count": 27,
  "merge": {
   "parent": "society",
-  "from_current": 34,
-  "from_new": 5,
-  "expired_pruned": 15,
+  "from_current": 24,
+  "from_new": 4,
+  "expired_pruned": 0,
   "retention_dropped": 0,
-  "genres": 5,
+  "genres": 6,
   "retention_per_genre": 8
  },
  "candidates": [
   {
    "source_category": "news_web",
-   "raw_title": "国家情報局ですか？（知恵袋）",
+   "raw_title": "国家情報局ですか？",
    "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10321442435",
-   "summary": "「国家情報局ですか？」「日本はそのうち監視社会になると思いますか？」など、新組織が監視社会化・プライバシー侵害につながるのではという素朴な不安を尋ねる質問が並ぶ。制度の中身より生活への影響を知りたいペイン。",
+   "summary": "スパイ防止法や情報機関新設が言論監視・治安維持法的な再来にならないか懸念する一般ユーザーの質問投稿。歴史的な事例（治安維持法・マッカーシズム等）を引き合いに不安を述べている。",
    "signal_type": "trend",
    "engagement_signal": false,
    "approx_traffic": "100+",
@@ -35,7 +35,7 @@
    "provenance": {
     "source_name": "Yahoo!知恵袋",
     "expert_origin": false,
-    "search_query": "site:chiebukuro.yahoo.co.jp 国家情報局 監視社会 プライバシー 心配",
+    "search_query": "国家情報局 発足 プライバシー 監視 不安 知恵袋 OR 掲示板",
     "freshness": "fresh",
     "integrity_warning": null,
     "provenance_kind": "pain_seed",
@@ -43,7 +43,7 @@
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-08-07T16:53:02+09:00",
+   "valid_until": "2026-08-11T06:43:35+09:00",
    "validity_days": 5
   },
   {
@@ -134,6 +134,36 @@
     "rescued": false
    },
    "valid_until": "2026-08-06T06:49:38+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "【外国人技能実習制度の見直し】転籍の条件と地方への配慮が焦点",
+   "url": "https://factoryjournal.jp/41897/",
+   "summary": "技能実習制度見直しによる転籍条件緩和が、地方の中小企業における人材流出リスクとして焦点化していると報じる業界メディア記事。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "society-global",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "ファクトリージャーナル",
+    "expert_origin": false,
+    "search_query": "技能実習生 転籍 自由化 企業 対応 トラブル",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-11T06:43:35+09:00",
    "validity_days": 5
   },
   {
@@ -708,6 +738,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "2026年7月～9月使用分の電気・ガス料金支援の実施に伴う特例認可・承認",
+   "url": "https://www.meti.go.jp/press/2026/06/20260612003/20260612003.html",
+   "summary": "経済産業省が2026年7〜9月使用分の電気・都市ガス料金値引きの特例認可・承認を発表。8月は猛暑を見込み7月・9月より補助単価を高く設定。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "official_instruction",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "society-economy",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "経済産業省",
+    "expert_origin": true,
+    "search_query": "電気代 ガス代 補助 2026年7月 いつまで 家計 影響",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-11T06:43:35+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "電気代・ガス代補助金2026｜8月使用分は8社値下がり・いくら安くなる？",
    "url": "https://hojyokin-portal.jp/columns/denki_gas_hojyo",
    "summary": "2026年7〜9月の電気・ガス料金補助が再開。8月使用分は電気4.5円/kWh・都市ガス18円/㎥の値引きで標準家庭は月2,340円程度安くなる見込み。申請不要で自動適用だが期間終了後の負担増への備えが課題。",
@@ -735,6 +795,36 @@
    },
    "valid_until": "2026-08-10T16:49:11+09:00",
    "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "障害者雇用の納付金制度をやさしく図解─1人5万円の仕組みと誤解されやすいポイント",
+   "url": "https://note.com/yuko_matsui/n/n7353ad7b1804",
+   "summary": "障害者雇用納付金（不足1人あたり月5万円、対象は常用労働者100人超の事業主）の仕組みと、罰金と誤解されやすいポイントをnoteで専門家が図解説明。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "society-issue",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "note（松井優子）",
+    "expert_origin": true,
+    "search_query": "障害者雇用 中小企業 罰金 納付金 きつい 知恵袋",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-13T06:43:35+09:00",
+   "validity_days": 7
   }
  ]
 }
