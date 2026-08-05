@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T13:48:00+09:00",
+  "generated_at": "2026-08-05T19:16:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,58 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 9,
-    "passed_total": 115,
+    "neg_excluded": 9,
+    "dedup_excluded": 11,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
+      "yahoo_realtime": 35,
+      "x_realtime": 8,
       "google_trends": 10,
-      "x_realtime": 7,
-      "news_web": 15,
-      "yahoo_news_ranking": 2
+      "news_web": 14,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 34,
-    "personal_story": 4,
-    "opinion": 10,
+    "social_reaction": 30,
+    "personal_story": 2,
     "medical_science": 2,
-    "policy": 4,
-    "hard_fact": 16
+    "policy": 5,
+    "opinion": 10,
+    "hard_fact": 21
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 34,
+    "policy": 6,
+    "social_reaction": 30,
     "opinion": 10,
     "medical_science": 2,
-    "hard_fact": 15,
-    "personal_story": 4,
-    "policy": 5
+    "hard_fact": 20,
+    "personal_story": 2
   },
   "b2b_top10": [
+    {
+      "title": "「オーケストラは今やゲーム音楽で食っている」若いゲームファンがチケットを買い、補",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "部下に仕事で注意したら、翌日から怒りをぶつけられ、「管理者として失格」など人格否",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「前にとんでもないトラックいるんやけどこれ警察に通報したほうがいいやつ？」危険す",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "炎上覚悟で言うんだけど、もう80代以上の高齢者に国会議員任せるの辞めません？普通",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
     {
       "title": "米軍、主要迎撃ミサイルの80％使い果たす　「危険な水準」と軍高官",
       "source_category": "yahoo_realtime",
@@ -51,7 +75,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "小学館・マンガワン第三者委員会調査報告書から見る、『常人仮面』連載の経緯｜おん",
+      "title": "「財政なんか知らねーよ」消費減税求めたSNSの声　財務官僚は後悔：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "首よりも脇よりも効果的…熱中症研究者が｢暑いときは真っ先にここを冷やせ｣という意",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "建物火災",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "学歴関係なしと言われた修士卒の女の子が「学歴で優遇しないとか、それじゃ大学院まで",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -61,53 +103,35 @@
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "黒柳徹子",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "桑田真澄",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "チャンピオンズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "しこりを見つけて町の小さな乳腺外科に行き、エコー体感30秒で軽ーく「ちょっとがん",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "電車で女性が失神し、偶然居合わせた看護師と自分とで駅でおろした→ベンチまで運んで",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "小籔千豊",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "perez hilton",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "小学館・マンガワン第三者委員会調査報告書から見る、『常人仮面』連載の経緯｜おん",
+      "title": "部下に仕事で注意したら、翌日から怒りをぶつけられ、「管理者として失格」など人格否",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「前にとんでもないトラックいるんやけどこれ警察に通報したほうがいいやつ？」危険す",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "首よりも脇よりも効果的…熱中症研究者が｢暑いときは真っ先にここを冷やせ｣という意",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "学歴関係なしと言われた修士卒の女の子が「学歴で優遇しないとか、それじゃ大学院まで",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「八街」　←　やち-また じゃなくて や-ちまた だった",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -119,9 +143,15 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「八街」　←　やち-また じゃなくて や-ちまた だった",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "職場に男性社員の前だけ「ほえ～」「はにゃ？」「ごめんなちゃい」などとけったいな反",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "嫌なことがあったときに見ると元気が出る「ミルクゴクゴクネコ」がマジで力強さすらあ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -131,40 +161,10 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "コレ…「熊本応援じゃい！」って気持ちで買ったんだけどさ…あまりのおいしさに腰抜か",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "電車で女性が失神し、偶然居合わせた看護師と自分とで駅でおろした→ベンチまで運んで",
+      "title": "TOHOシネマズ大井町、空調トラブルで“サウナ状態”も上映強行か、運営は「取材お",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中国で話題の\"結婚詐欺の街\"とは？数百の婚活業者が男性を食い物に",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "仕事・家庭・個人の優先順位はもっと柔軟に変えていい 40代のわたしが10年後の自",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "北朝鮮の金与正氏、日本に「軍事的選択肢」警告　トマホーク試射に反発（ロイター） ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "キラキラ地名ってあるよね",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "medical_science"
     }
   ]
 }
