@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T19:18:00+09:00",
+  "generated_at": "2026-08-07T00:01:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,48 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
+    "neg_excluded": 6,
     "dedup_excluded": 11,
-    "passed_total": 111,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
-      "google_trends": 9,
-      "news_web": 15,
       "x_realtime": 7,
-      "yahoo_news_ranking": 6
+      "yahoo_realtime": 36,
+      "google_trends": 10,
+      "news_web": 16,
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "personal_story": 3,
-    "opinion": 8,
-    "medical_science": 1,
-    "policy": 10,
-    "hard_fact": 20
+    "social_reaction": 30,
+    "personal_story": 1,
+    "opinion": 9,
+    "medical_science": 4,
+    "hard_fact": 17,
+    "policy": 9
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 26,
+    "social_reaction": 29,
+    "opinion": 9,
+    "hard_fact": 18,
+    "medical_science": 4,
     "policy": 9,
-    "hard_fact": 23,
-    "opinion": 8,
-    "personal_story": 3,
-    "medical_science": 1
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "タスク・プロジェクト管理ツール「Jooto」の一般提供終了及び事業廃止の決定に関",
+      "title": "「この運転手戻って来る所見たい」コンビニの駐車場に長時間駐車していた車が御札で封",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "E2903 – 琉球大学附属図書館医学部分館でのカビ被害資料の清掃作業",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "グラフィックボードの修理及び点検を山梨県甲府市の外れにあるPC修理店「PCゴジラ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -57,49 +69,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「みんな高市さんに何も言えない」「半分以上が反対」 消費税減税めぐる舞台裏　自民",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "3か月で20キロ減！「無料のChatGPTだけ」でダイエットを成功させた芸人を直",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "駅前で座り込んで失禁してると思しき女性がいたので、尋常ではないと思って警察と救急",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "高校野球速報",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "飲食店利用の192人食中毒 御殿場",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_local",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "アメリカ合衆国財務長官",
+      "title": "ロドリ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "サルモネラ菌",
+      "title": "グラミー賞",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "佐野 勇 斗",
+      "title": "arm 株価",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "sox",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "山本太郎",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "内田有紀 ドラマ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,19 +107,31 @@
   ],
   "note_top10": [
     {
+      "title": "「この運転手戻って来る所見たい」コンビニの駐車場に長時間駐車していた車が御札で封",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "京都か奈良かわからん映画館",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "タスク・プロジェクト管理ツール「Jooto」の一般提供終了及び事業廃止の決定に関",
+      "title": "E2903 – 琉球大学附属図書館医学部分館でのカビ被害資料の清掃作業",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "3か月で20キロ減！「無料のChatGPTだけ」でダイエットを成功させた芸人を直",
+      "title": "グラフィックボードの修理及び点検を山梨県甲府市の外れにあるPC修理店「PCゴジラ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【解説】IMAXは結局何が凄いの？なぜ「デジタルよりフィルム」と言われるのか？｜",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -131,39 +143,27 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "妻が今年の6月に亡くなり、年金事務所で遺族年金の手続きのために娘の名前で申請…受",
+      "title": "Xで初出勤日と新人を迎える日が同じで同一人物と疑われた件、当日になって同じ会社だ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「今の時期になると、毎年思い出す」手塚プロダクション／手塚治虫公式が、『ブラック",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "坂本真綾×奈須きのこ対談｜「FGO」にとって坂本真綾は“輝ける一番星” 11年の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "家の裏にある超人気保育園に入れなかったが、最近、車の送迎が禁止なのに、家の前のス",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "夏休みに店を手伝ってくれる娘に「バイト代もらえば？」と言ったら「いらない」といっ",
+      "title": "小さい頃、毎年夏に広島の祖母の家に行っていたが、祖母は暑い日でもずっと長袖だった",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "エアコン清掃を手配したんだけど、業者の方にめっちゃ吠えるから隔離した…これでもう",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "パソコンが正しくシャットダウンされなかった出来事を描いた絵日記をXくんがセンシテ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「みいちゃん」とは誰か｜長谷美智子",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
