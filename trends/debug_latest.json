@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T13:48:00+09:00",
+  "generated_at": "2026-08-06T19:18:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,49 +16,45 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 14,
-    "dedup_excluded": 8,
-    "passed_total": 110,
+    "neg_excluded": 10,
+    "dedup_excluded": 11,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
-      "google_trends": 10,
-      "x_realtime": 6,
-      "news_web": 16,
-      "yahoo_news_ranking": 3
+      "yahoo_realtime": 33,
+      "google_trends": 9,
+      "news_web": 15,
+      "x_realtime": 7,
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
-    "personal_story": 5,
-    "opinion": 10,
-    "policy": 8,
-    "hard_fact": 21
+    "social_reaction": 28,
+    "personal_story": 3,
+    "opinion": 8,
+    "medical_science": 1,
+    "policy": 10,
+    "hard_fact": 20
   },
   "b2b_topic_category_counts": {
     "social_reaction": 26,
     "policy": 9,
-    "opinion": 10,
-    "personal_story": 5,
-    "hard_fact": 20
+    "hard_fact": 23,
+    "opinion": 8,
+    "personal_story": 3,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "京都か奈良かわからん映画館",
+      "title": "タスク・プロジェクト管理ツール「Jooto」の一般提供終了及び事業廃止の決定に関",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「座り込んで闘う！」も…平和記念公園に滞留の極左活動家ら　広島県警が全員排除、6",
+      "title": "京都か奈良かわからん映画館",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "高橋文哉",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "topic_category": "social_reaction"
     },
     {
       "title": "「みんな高市さんに何も言えない」「半分以上が反対」 消費税減税めぐる舞台裏　自民",
@@ -73,31 +69,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "広島にある古い公衆便所、実は10年ほど前まで、それが被爆建物だと知られていなかっ",
+      "title": "駅前で座り込んで失禁してると思しき女性がいたので、尋常ではないと思って警察と救急",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ntt 決算",
+      "title": "高校野球速報",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "飲食店利用の192人食中毒 御殿場",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_local",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "アメリカ合衆国財務長官",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "j1リーグ",
+      "title": "サルモネラ菌",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "高橋文哉 仮面ライダー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ホリプロ",
+      "title": "佐野 勇 斗",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -111,57 +113,57 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "タスク・プロジェクト管理ツール「Jooto」の一般提供終了及び事業廃止の決定に関",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "3か月で20キロ減！「無料のChatGPTだけ」でダイエットを成功させた芸人を直",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "広島にある古い公衆便所、実は10年ほど前まで、それが被爆建物だと知られていなかっ",
+      "title": "駅前で座り込んで失禁してると思しき女性がいたので、尋常ではないと思って警察と救急",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "FANBOX、関連記事が次々と削除…『みい山』作者の亜月ねね氏、頂き女子りりちゃ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "お宝マニアをしている友達に家宝の写真と文化庁の登録票を見せたらクレと言い出した…",
+      "title": "妻が今年の6月に亡くなり、年金事務所で遺族年金の手続きのために娘の名前で申請…受",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "桃の皮むくの難しすぎる… 桃を真ん中で一周切って、手でひねって二つに割ればいける",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "“獣人”共存の深夜アニメで喫煙、違法薬物の連想シーンも…視聴者批判でBPO議論「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "家の裏にある超人気保育園に入れなかったが、最近、車の送迎が禁止なのに、家の前のス",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "広島市長「核兵器廃絶という理想を理想で終わらせない行動を」…８１回目の原爆忌、ロ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "夏休みに店を手伝ってくれる娘に「バイト代もらえば？」と言ったら「いらない」といっ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「どーすんだよ…これ…」家に帰ってきても何か静かだし、ペットの犬のお出迎えがない",
+      "title": "エアコン清掃を手配したんだけど、業者の方にめっちゃ吠えるから隔離した…これでもう",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "パソコンが正しくシャットダウンされなかった出来事を描いた絵日記をXくんがセンシテ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
     },
     {
-      "title": "職場で夜勤ができる人は3人しかおらず、独身の看護師が8月に有給を使わせてとお願い",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「みいちゃん」とは誰か｜長谷美智子",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
