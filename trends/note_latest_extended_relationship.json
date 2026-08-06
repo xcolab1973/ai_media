@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-06T16:59:34+09:00",
- "valid_until": "2026-08-20T16:54:39+09:00",
+ "generated_at": "2026-08-07T06:48:54+09:00",
+ "valid_until": "2026-08-21T06:43:52+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -16,6 +16,36 @@
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "義実家への帰省について、みなさんがどうしてるか、体験談など教えて...",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12327779222",
+   "summary": "義実家への帰省をどう乗り切っているか体験談を求める投稿。滞在日数の決め方や気の遣い方、配偶者側の家族との距離感に悩む生の声が並び、家族関係のペインの種として使える。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "relationship-social",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "義実家 お盆 帰省 気まずい 知恵袋 OR OKWAVE 相談",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-21T06:43:52+09:00",
+   "validity_days": 14
+  },
   {
    "source_category": "news_web",
    "raw_title": "【コピペOK】お中元の断り方文例15選｜暮らしラボ",
@@ -219,36 +249,6 @@
     "freshness": "evergreen",
     "integrity_warning": null,
     "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-09T06:44:25+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "職場の人間関係疲れました。辞めたいとは思いませんがめちゃ気を使うし疲れた時ど...",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13241400718",
-   "summary": "相談者は職場の人間関係に疲れたが辞めたいわけではなく、人一倍気を使ってしまい消耗する状態を吐露。転職しても同じ悩みを繰り返すのではという不安も語られる、典型的な生の悩み投稿（Yahoo!知恵袋）。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "relationship-social",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "職場の人間関係 疲れた site:detail.chiebukuro.yahoo.co.jp",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
     "opportunity_gap": false,
     "discovered_angle": null,
     "rescued": false
