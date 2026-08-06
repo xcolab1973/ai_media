@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T07:40:00+09:00",
+  "generated_at": "2026-08-06T13:48:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,50 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 9,
-    "passed_total": 117,
+    "neg_excluded": 14,
+    "dedup_excluded": 8,
+    "passed_total": 110,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "news_web": 12,
-      "yahoo_news_ranking": 3,
-      "x_realtime": 8
+      "x_realtime": 6,
+      "news_web": 16,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "medical_science": 2,
+    "social_reaction": 26,
+    "personal_story": 5,
     "opinion": 10,
-    "personal_story": 3,
-    "policy": 10,
-    "hard_fact": 17
+    "policy": 8,
+    "hard_fact": 21
   },
   "b2b_topic_category_counts": {
-    "policy": 10,
-    "social_reaction": 28,
+    "social_reaction": 26,
+    "policy": 9,
     "opinion": 10,
-    "medical_science": 2,
-    "hard_fact": 17,
-    "personal_story": 3
+    "personal_story": 5,
+    "hard_fact": 20
   },
   "b2b_top10": [
+    {
+      "title": "京都か奈良かわからん映画館",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「座り込んで闘う！」も…平和記念公園に滞留の極左活動家ら　広島県警が全員排除、6",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "高橋文哉",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
     {
       "title": "「みんな高市さんに何も言えない」「半分以上が反対」 消費税減税めぐる舞台裏　自民",
       "source_category": "yahoo_realtime",
@@ -57,55 +73,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "炎上覚悟で言うんだけど、もう80代以上の高齢者に国会議員任せるの辞めません？普通",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "「オーケストラは今やゲーム音楽で食っている」若いゲームファンがチケットを買い、補",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "首よりも脇よりも効果的…熱中症研究者が｢暑いときは真っ先にここを冷やせ｣という意",
+      "title": "広島にある古い公衆便所、実は10年ほど前まで、それが被爆建物だと知られていなかっ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "菅野智之",
+      "title": "ntt 決算",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "広末涼子",
+      "title": "j1リーグ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "自衛隊が熊本で展開している支援用船舶の入浴設備が本格的ですごい！→船の来歴を知る",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "高橋文哉 仮面ライダー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "高市首相の｢外国人政策｣は論理破綻している…｢安い移民｣で｢まじめに働く日本人｣",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "TOHOシネマズ大井町、空調トラブルで“サウナ状態”も上映強行か、運営は「取材お",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "title": "ホリプロ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
+    {
+      "title": "京都か奈良かわからん映画館",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "3か月で20キロ減！「無料のChatGPTだけ」でダイエットを成功させた芸人を直",
       "source_category": "yahoo_realtime",
@@ -113,57 +117,51 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "首よりも脇よりも効果的…熱中症研究者が｢暑いときは真っ先にここを冷やせ｣という意",
+      "title": "広島にある古い公衆便所、実は10年ほど前まで、それが被爆建物だと知られていなかっ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "自衛隊が熊本で展開している支援用船舶の入浴設備が本格的ですごい！→船の来歴を知る",
+      "title": "FANBOX、関連記事が次々と削除…『みい山』作者の亜月ねね氏、頂き女子りりちゃ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "かつて６５０万部を誇った「週刊少年ジャンプ」、発行部数が初の１００万部割れ…国内",
+      "title": "お宝マニアをしている友達に家宝の写真と文化庁の登録票を見せたらクレと言い出した…",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "桃の皮むくの難しすぎる… 桃を真ん中で一周切って、手でひねって二つに割ればいける",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "“獣人”共存の深夜アニメで喫煙、違法薬物の連想シーンも…視聴者批判でBPO議論「",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "3.11でガチ被災した人が語るライフハック「避難所で人に『食べ物とか水とか持って",
+      "title": "広島市長「核兵器廃絶という理想を理想で終わらせない行動を」…８１回目の原爆忌、ロ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "TOHOシネマズ大井町、空調トラブルで“サウナ状態”も上映強行か、運営は「取材お",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "title": "「どーすんだよ…これ…」家に帰ってきても何か静かだし、ペットの犬のお出迎えがない",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
     },
     {
-      "title": "CDとDVD収納に無印良品ポリプロピレン収納ボックス小が便利！30枚以上がスッキ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "菅野智之",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "広末涼子",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "なぜ昔ながらのゲームセンターは減っているのか｜プレイハウスエリナ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "職場で夜勤ができる人は3人しかおらず、独身の看護師が8月に有給を使わせてとお願い",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
