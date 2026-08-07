@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T23:01:00+09:00",
+  "generated_at": "2026-08-08T07:16:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,52 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 12,
+    "neg_excluded": 8,
+    "dedup_excluded": 13,
     "passed_total": 111,
     "b2b_category_counts": {
-      "yahoo_realtime": 31,
+      "yahoo_realtime": 35,
       "google_trends": 10,
+      "x_realtime": 5,
       "news_web": 17,
-      "x_realtime": 7,
-      "yahoo_news_ranking": 5
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 27,
-    "opinion": 9,
-    "personal_story": 3,
+    "social_reaction": 26,
+    "personal_story": 4,
+    "opinion": 10,
     "medical_science": 4,
-    "hard_fact": 25,
-    "policy": 2
+    "hard_fact": 22,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 25,
-    "hard_fact": 28,
-    "opinion": 9,
-    "medical_science": 3,
-    "personal_story": 3,
-    "policy": 2
+    "social_reaction": 26,
+    "hard_fact": 23,
+    "opinion": 10,
+    "policy": 4,
+    "personal_story": 4,
+    "medical_science": 3
   },
   "b2b_top10": [
+    {
+      "title": "保護猫カフェで流血くらい引っ掻かれた後に「元々虐待を受けていた子で、過去にもお客",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『みいちゃんと山田さん』についてアニメ化公表と炎上で思うこと：ロマン優光連載4",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "料理系YouTuber・リュウジさんが「鶏のたたき」のレシピを紹介、これに不安を",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "秋田は高齢化ヤバすぎてお年寄りを駅前に住まわせるためにマンション建ちまくりらしい",
       "source_category": "yahoo_realtime",
@@ -57,49 +75,31 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "「転勤って専業主婦をアテにしてるからもう期待できない」JTCの男性社員が転勤を命",
+      "title": "沖縄 暴風警報",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "高市官邸「被災地利用PV」が首相の命取りに？ 安倍元首相“コロナおこもり動画”の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "policy"
     },
     {
-      "title": "「工業ゲーの一番美味しい所から始めたみたいな状態になっとる」四半期で赤字見込みも",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "群馬のアイデア「パクり」　茨城県も観光パンフのパスポートを交付へ：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ティーシャツが乾くまでキャスト",
+      "title": "柏崎刈羽原子力発電所",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ジャングリア沖縄",
+      "title": "北海道 天気",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "singapore vs indonesia",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "kick",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "xem bóng đá trực tiếp",
+      "title": "大韓サッカー協会",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,7 +107,25 @@
   ],
   "note_top10": [
     {
+      "title": "保護猫カフェで流血くらい引っ掻かれた後に「元々虐待を受けていた子で、過去にもお客",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "料理系YouTuber・リュウジさんが「鶏のたたき」のレシピを紹介、これに不安を",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "秋田は高齢化ヤバすぎてお年寄りを駅前に住まわせるためにマンション建ちまくりらしい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "コストコで会員カード作った私「白カードで！」店員「今は皆さんエグゼクティブカード",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,43 +143,25 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "旦那の実家に行った時、「思ってたんと違う」となった話… 自分は実祖母に「嫁いだら",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「非常に残念」高市総理と面会決定も…発言不可、握手のみ　8月9日長崎の被爆体験者",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "MADE IN YAMATO - 第１１話　私はジムに行きたい | ヤンマガWe",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
       "title": "子どもを産んだら1人2000万円かかると言われており、仕事もセーブすると老後資金",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "小学生の息子さんをスポーツチームに入れているママさん数名が、試合中に選手がプレー",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "料理系YouTuber・リュウジさんが「鶏のたたき」のレシピを紹介、これに不安を",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "小池都知事、追悼文送らず　朝鮮人虐殺、10年連続 | NEWSjp",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "二郎系ラーメン店の公式Xが丼の破片が入ってしまい、汁なしのみの提供になったことを",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "大人1人と子ども2人(小1、年中)で帰省するために飛行機の座席を横並びで予約した",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「外国人受け入れ反対」大幅増　東大調査、若い世代で多く | NEWSjp",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
