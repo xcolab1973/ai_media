@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T17:40:00+09:00",
+  "generated_at": "2026-08-07T23:01:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 10,
-    "passed_total": 115,
+    "neg_excluded": 9,
+    "dedup_excluded": 12,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
-      "news_web": 14,
+      "yahoo_realtime": 31,
       "google_trends": 10,
-      "x_realtime": 8,
-      "yahoo_news_ranking": 2
+      "news_web": 17,
+      "x_realtime": 7,
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
+    "social_reaction": 27,
+    "opinion": 9,
     "personal_story": 3,
-    "opinion": 10,
-    "policy": 5,
     "medical_science": 4,
-    "hard_fact": 16
+    "hard_fact": 25,
+    "policy": 2
   },
   "b2b_topic_category_counts": {
-    "policy": 6,
-    "hard_fact": 16,
-    "social_reaction": 32,
-    "opinion": 10,
+    "social_reaction": 25,
+    "hard_fact": 28,
+    "opinion": 9,
     "medical_science": 3,
-    "personal_story": 3
+    "personal_story": 3,
+    "policy": 2
   },
   "b2b_top10": [
     {
-      "title": "米上院委、新型コロナ対策主導したファウチ氏を「議会侮辱罪」に問う決議案可決",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "鉄塔の保守作業員が死亡 熱中症か",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ドイツ、6月の熱波で9600人死亡…冷房が普及せず備え不足「一万人近く死ぬとかも",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "小説との“出会い”をつくる。サブスクのU-NEXTがあえて全文無料のWEB文芸誌",
+      "title": "秋田は高齢化ヤバすぎてお年寄りを駅前に住まわせるためにマンション建ちまくりらしい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "阪神 対 中日",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "「彼女がどんな人か知らなかった」それでも批判は投げられた 炎上に集まる“インプレ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "巨人 対 ヤクルト",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ロッテ 対 オリックス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「久しぶりにえぐい記事に出会った」仕事において「勝手に学ぶ人」と「期待されて学ぶ",
+      "title": "「転勤って専業主婦をアテにしてるからもう期待できない」JTCの男性社員が転勤を命",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "中居 正広",
+      "title": "「工業ゲーの一番美味しい所から始めたみたいな状態になっとる」四半期で赤字見込みも",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "群馬のアイデア「パクり」　茨城県も観光パンフのパスポートを交付へ：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "ティーシャツが乾くまでキャスト",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "わらじ祭り",
+      "title": "ジャングリア沖縄",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "singapore vs indonesia",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "kick",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "xem bóng đá trực tiếp",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
-      "title": "小説との“出会い”をつくる。サブスクのU-NEXTがあえて全文無料のWEB文芸誌",
+      "title": "秋田は高齢化ヤバすぎてお年寄りを駅前に住まわせるためにマンション建ちまくりらしい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「久しぶりにえぐい記事に出会った」仕事において「勝手に学ぶ人」と「期待されて学ぶ",
+      "title": "「転勤って専業主婦をアテにしてるからもう期待できない」JTCの男性社員が転勤を命",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "冷凍の揚げナスをチンしてめんつゆ・ネギ・かつお節かけただけのものとか「何の手間も",
+      "title": "「工業ゲーの一番美味しい所から始めたみたいな状態になっとる」四半期で赤字見込みも",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「バカって何？どういう意味？」自分が親に言われて嫌だったので『バカ』『駄目な子』",
+      "title": "子どもを産んだら1人2000万円かかると言われており、仕事もセーブすると老後資金",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "大学4年でガチの理由で停学になった人、内定取り消しは予想できるけど停学期間が8月",
+      "title": "小学生の息子さんをスポーツチームに入れているママさん数名が、試合中に選手がプレー",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "町内会のミーティングで「備蓄している人は挙手してください」と言われ、手を挙げたら",
+      "title": "料理系YouTuber・リュウジさんが「鶏のたたき」のレシピを紹介、これに不安を",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "警察が動かず、自力救済か泣き寝入り…タイ在住の芸人が「日本がタイ化していってる」",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "庭のきゅうりが大量にできすぎて消費しきれないので、Xの知恵を借りようと「きゅうり",
+      "title": "小池都知事、追悼文送らず　朝鮮人虐殺、10年連続 | NEWSjp",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「怖い話教えて」の投稿に集う恐怖体験の数々… オウムに取り囲まれる車、突然の顔面",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
+      "title": "二郎系ラーメン店の公式Xが丼の破片が入ってしまい、汁なしのみの提供になったことを",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "『邦画プレゼン女子高生　邦キチ！ 映子さん』Season16／3本目 新劇場版☆",
+      "title": "大人1人と子ども2人(小1、年中)で帰省するために飛行機の座席を横並びで予約した",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「外国人受け入れ反対」大幅増　東大調査、若い世代で多く | NEWSjp",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
