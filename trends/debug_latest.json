@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T13:14:00+09:00",
+  "generated_at": "2026-08-07T17:40:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,32 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 7,
+    "neg_excluded": 7,
+    "dedup_excluded": 10,
     "passed_total": 115,
     "b2b_category_counts": {
       "yahoo_realtime": 36,
-      "x_realtime": 9,
+      "news_web": 14,
       "google_trends": 10,
-      "news_web": 13,
+      "x_realtime": 8,
       "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "personal_story": 5,
-    "policy": 6,
+    "social_reaction": 32,
+    "personal_story": 3,
     "opinion": 10,
+    "policy": 5,
     "medical_science": 4,
     "hard_fact": 16
   },
   "b2b_topic_category_counts": {
     "policy": 6,
-    "social_reaction": 29,
+    "hard_fact": 16,
+    "social_reaction": 32,
     "opinion": 10,
-    "personal_story": 5,
-    "hard_fact": 17,
-    "medical_science": 3
+    "medical_science": 3,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
@@ -51,10 +51,16 @@
       "topic_category": "policy"
     },
     {
-      "title": "知り合いから流れて来た写真… 凄い事になってるなぁ「無駄なものを作らせてる罪深さ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "鉄塔の保守作業員が死亡 熱中症か",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "ドイツ、6月の熱波で9600人死亡…冷房が普及せず備え不足「一万人近く死ぬとかも",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
     },
     {
       "title": "小説との“出会い”をつくる。サブスクのU-NEXTがあえて全文無料のWEB文芸誌",
@@ -63,43 +69,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "風 薫る 視聴 率",
+      "title": "阪神 対 中日",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ヒコロヒー",
+      "title": "巨人 対 ヤクルト",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ひよっこ",
+      "title": "ロッテ 対 オリックス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "タイミーで名店のうどん屋で働いてた時に、15分ごとに「仕事おせえなあ0.5秒で一",
+      "title": "「久しぶりにえぐい記事に出会った」仕事において「勝手に学ぶ人」と「期待されて学ぶ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "全日本空輸",
+      "title": "中居 正広",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "梶原雄太",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ヒカル",
+      "title": "わらじ祭り",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,13 +107,49 @@
   ],
   "note_top10": [
     {
-      "title": "知り合いから流れて来た写真… 凄い事になってるなぁ「無駄なものを作らせてる罪深さ",
+      "title": "小説との“出会い”をつくる。サブスクのU-NEXTがあえて全文無料のWEB文芸誌",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「久しぶりにえぐい記事に出会った」仕事において「勝手に学ぶ人」と「期待されて学ぶ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "冷凍の揚げナスをチンしてめんつゆ・ネギ・かつお節かけただけのものとか「何の手間も",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「バカって何？どういう意味？」自分が親に言われて嫌だったので『バカ』『駄目な子』",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "小説との“出会い”をつくる。サブスクのU-NEXTがあえて全文無料のWEB文芸誌",
+      "title": "大学4年でガチの理由で停学になった人、内定取り消しは予想できるけど停学期間が8月",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "町内会のミーティングで「備蓄している人は挙手してください」と言われ、手を挙げたら",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "警察が動かず、自力救済か泣き寝入り…タイ在住の芸人が「日本がタイ化していってる」",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "庭のきゅうりが大量にできすぎて消費しきれないので、Xの知恵を借りようと「きゅうり",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,45 +161,9 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "タイミーで名店のうどん屋で働いてた時に、15分ごとに「仕事おせえなあ0.5秒で一",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "揖保乃糸の「そうめん」ではなく、揖保乃糸の「パスタ」を食べる",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "『邦画プレゼン女子高生　邦キチ！ 映子さん』Season16／3本目 新劇場版☆",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "旧五輪選手村「HARUMI FLAG」自治会がアツすぎる！ 多様な住人が本気スキ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "平成のデニムペンケースを自作する　平成女児に流行ったデカいペンケースの大人版をつ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "4月入社の新卒に建築工事案内の紙30枚のポスティングの指示をしたが、3時間連絡な",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "バサバサバサバサ…紙を素早くめくる動作、何をやっているかわかりますか？「製版会社",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
