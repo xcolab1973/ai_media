@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T10:04:00+09:00",
+  "generated_at": "2026-08-07T13:14:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,33 +16,46 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 9,
-    "passed_total": 114,
+    "neg_excluded": 10,
+    "dedup_excluded": 7,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 36,
       "x_realtime": 9,
       "google_trends": 10,
-      "news_web": 16
+      "news_web": 13,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "personal_story": 4,
-    "medical_science": 6,
+    "social_reaction": 29,
+    "personal_story": 5,
+    "policy": 6,
     "opinion": 10,
-    "policy": 8,
-    "hard_fact": 12
+    "medical_science": 4,
+    "hard_fact": 16
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
-    "medical_science": 5,
-    "policy": 8,
+    "policy": 6,
+    "social_reaction": 29,
     "opinion": 10,
-    "hard_fact": 13,
-    "personal_story": 4
+    "personal_story": 5,
+    "hard_fact": 17,
+    "medical_science": 3
   },
   "b2b_top10": [
+    {
+      "title": "米上院委、新型コロナ対策主導したファウチ氏を「議会侮辱罪」に問う決議案可決",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "知り合いから流れて来た写真… 凄い事になってるなぁ「無駄なものを作らせてる罪深さ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "小説との“出会い”をつくる。サブスクのU-NEXTがあえて全文無料のWEB文芸誌",
       "source_category": "yahoo_realtime",
@@ -50,55 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「想像を絶する状況だった…」熊本地震直後、病院の手術室の緊迫した様子をとらえた映",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "「この運転手戻って来る所見たい」コンビニの駐車場に長時間駐車していた車が御札で封",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "トランプ氏、「出産ツーリズム」禁止する大統領令に署名 「出生地主義」見直し継続へ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "国連事務総長、ロシアとウクライナ両国を非難 民間人狙った攻撃めぐり",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "庭のきゅうりが大量にできすぎて消費しきれないので、Xの知恵を借りようと「きゅうり",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "マッサージのお姉さん「てぃーかわめっちゃ面白いですよ！見てますか？」私「(ちいか",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "富士フィルム",
+      "title": "風 薫る 視聴 率",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "uefa",
+      "title": "ヒコロヒー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "インファンティーノ",
+      "title": "ひよっこ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "タイミーで名店のうどん屋で働いてた時に、15分ごとに「仕事おせえなあ0.5秒で一",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "全日本空輸",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "梶原雄太",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ヒカル",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,7 +107,7 @@
   ],
   "note_top10": [
     {
-      "title": "庭のきゅうりが大量にできすぎて消費しきれないので、Xの知恵を借りようと「きゅうり",
+      "title": "知り合いから流れて来た写真… 凄い事になってるなぁ「無駄なものを作らせてる罪深さ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -118,49 +119,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「この運転手戻って来る所見たい」コンビニの駐車場に長時間駐車していた車が御札で封",
+      "title": "「怖い話教えて」の投稿に集う恐怖体験の数々… オウムに取り囲まれる車、突然の顔面",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "タイミーで名店のうどん屋で働いてた時に、15分ごとに「仕事おせえなあ0.5秒で一",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "マッサージのお姉さん「てぃーかわめっちゃ面白いですよ！見てますか？」私「(ちいか",
+      "title": "揖保乃糸の「そうめん」ではなく、揖保乃糸の「パスタ」を食べる",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『邦画プレゼン女子高生　邦キチ！ 映子さん』Season16／3本目 新劇場版☆",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "旧五輪選手村「HARUMI FLAG」自治会がアツすぎる！ 多様な住人が本気スキ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "平成のデニムペンケースを自作する　平成女児に流行ったデカいペンケースの大人版をつ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "4月入社の新卒に建築工事案内の紙30枚のポスティングの指示をしたが、3時間連絡な",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "タイミーで名店のうどん屋で働いてた時に、15分ごとに「仕事おせえなあ0.5秒で一",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "アメリカ人の同僚が「いいか、バンドマンとだけは付き合うな」と別の同僚を説得してお",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "スタバで1時間半いられるはずなのに店員から「30分以上過ぎてますよ」と言われて確",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "親が後期高齢者になってくると身に沁みてわかってくるが、老人に対する公的社会保障は",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "クレーンゲームで取った景品のヨーグルトを飲んだら、その後腹痛でトイレから出られな",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "宿泊先のホテルの枕がすごく具合がよかったので、どこのメーカーだろうとタグを見たら",
+      "title": "バサバサバサバサ…紙を素早くめくる動作、何をやっているかわかりますか？「製版会社",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
