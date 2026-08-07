@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T00:01:00+09:00",
+  "generated_at": "2026-08-07T10:04:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,89 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 11,
-    "passed_total": 115,
+    "neg_excluded": 9,
+    "dedup_excluded": 9,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "x_realtime": 7,
-      "yahoo_realtime": 36,
+      "yahoo_realtime": 35,
+      "x_realtime": 9,
       "google_trends": 10,
-      "news_web": 16,
-      "yahoo_news_ranking": 1
+      "news_web": 16
     }
   },
   "note_category_counts": {
     "social_reaction": 30,
-    "personal_story": 1,
-    "opinion": 9,
-    "medical_science": 4,
-    "hard_fact": 17,
-    "policy": 9
+    "personal_story": 4,
+    "medical_science": 6,
+    "opinion": 10,
+    "policy": 8,
+    "hard_fact": 12
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "opinion": 9,
-    "hard_fact": 18,
-    "medical_science": 4,
-    "policy": 9,
-    "personal_story": 1
+    "social_reaction": 30,
+    "medical_science": 5,
+    "policy": 8,
+    "opinion": 10,
+    "hard_fact": 13,
+    "personal_story": 4
   },
   "b2b_top10": [
     {
+      "title": "小説との“出会い”をつくる。サブスクのU-NEXTがあえて全文無料のWEB文芸誌",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「想像を絶する状況だった…」熊本地震直後、病院の手術室の緊迫した様子をとらえた映",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
       "title": "「この運転手戻って来る所見たい」コンビニの駐車場に長時間駐車していた車が御札で封",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "トランプ氏、「出産ツーリズム」禁止する大統領令に署名 「出生地主義」見直し継続へ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "国連事務総長、ロシアとウクライナ両国を非難 民間人狙った攻撃めぐり",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "庭のきゅうりが大量にできすぎて消費しきれないので、Xの知恵を借りようと「きゅうり",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "E2903 – 琉球大学附属図書館医学部分館でのカビ被害資料の清掃作業",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "マッサージのお姉さん「てぃーかわめっちゃ面白いですよ！見てますか？」私「(ちいか",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "グラフィックボードの修理及び点検を山梨県甲府市の外れにあるPC修理店「PCゴジラ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "京都か奈良かわからん映画館",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ロドリ",
+      "title": "富士フィルム",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "グラミー賞",
+      "title": "uefa",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "arm 株価",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "sox",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "山本太郎",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "内田有紀 ドラマ",
+      "title": "インファンティーノ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +106,61 @@
   ],
   "note_top10": [
     {
+      "title": "庭のきゅうりが大量にできすぎて消費しきれないので、Xの知恵を借りようと「きゅうり",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "小説との“出会い”をつくる。サブスクのU-NEXTがあえて全文無料のWEB文芸誌",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "「この運転手戻って来る所見たい」コンビニの駐車場に長時間駐車していた車が御札で封",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "マッサージのお姉さん「てぃーかわめっちゃ面白いですよ！見てますか？」私「(ちいか",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "京都か奈良かわからん映画館",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "E2903 – 琉球大学附属図書館医学部分館でのカビ被害資料の清掃作業",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "グラフィックボードの修理及び点検を山梨県甲府市の外れにあるPC修理店「PCゴジラ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【解説】IMAXは結局何が凄いの？なぜ「デジタルよりフィルム」と言われるのか？｜",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "駅前で座り込んで失禁してると思しき女性がいたので、尋常ではないと思って警察と救急",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Xで初出勤日と新人を迎える日が同じで同一人物と疑われた件、当日になって同じ会社だ",
+      "title": "タイミーで名店のうどん屋で働いてた時に、15分ごとに「仕事おせえなあ0.5秒で一",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「今の時期になると、毎年思い出す」手塚プロダクション／手塚治虫公式が、『ブラック",
+      "title": "アメリカ人の同僚が「いいか、バンドマンとだけは付き合うな」と別の同僚を説得してお",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "坂本真綾×奈須きのこ対談｜「FGO」にとって坂本真綾は“輝ける一番星” 11年の",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "スタバで1時間半いられるはずなのに店員から「30分以上過ぎてますよ」と言われて確",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "小さい頃、毎年夏に広島の祖母の家に行っていたが、祖母は暑い日でもずっと長袖だった",
+      "title": "親が後期高齢者になってくると身に沁みてわかってくるが、老人に対する公的社会保障は",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "クレーンゲームで取った景品のヨーグルトを飲んだら、その後腹痛でトイレから出られな",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "宿泊先のホテルの枕がすごく具合がよかったので、どこのメーカーだろうとタグを見たら",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
