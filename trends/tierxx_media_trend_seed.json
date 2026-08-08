@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-08T07:07:28+0900",
-    "record_count": 42,
-    "source_total_in_db": 793,
+    "generated_at": "2026-08-08T12:51:01+0900",
+    "record_count": 43,
+    "source_total_in_db": 795,
     "provenance_breakdown": {
-      "evidence": 502,
+      "evidence": 504,
       "pain_seed": 291
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_62f6b9c2267a",
+      "trend_term": "糖尿病と再生医療",
+      "raw_title": "血糖値が安定していても危険？糖尿病の合併症と再生医療の可能性 Valerio Agnoli (IOOcE6qUNU) - Mshale",
+      "summary": "血糖値が安定していても糖尿病の合併症が発生する可能性があり、再生医療がその治療の可能性を持つという医学的知見",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nb0dpVWZtN01sS2tFbWtIX0J2ODg1QnkyaG5XT0I2QWJ3dXlHdTc4VVJMeFhlbk5taHdvcF9oREg4SmY1NUFfczJYSGhfcG9WRGJJb2xQRnh4OGs?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nb0dpVWZtN01sS2tFbWtIX0J2ODg1QnkyaG5XT0I2QWJ3dXlHdTc4VVJMeFhlbk5taHdvcF9oREg4SmY1NUFfczJYSGhfcG9WRGJJb2xQRnh4OGs?oc=5",
+      "source_name": "Mshale",
+      "monitor_id": "bm-regen-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-13T12:50:48+0900",
+      "status": "candidate",
+      "created_at": "2026-08-08T12:50:48+0900"
+    },
+    {
+      "seed_id": "seed_d522cf851545",
+      "trend_term": "洗い流さないバブル美容液マスク",
+      "raw_title": "スキンケアブランド「RISM（リズム）」より、洗い流さないバブル美容液マスク「ピコレーザー マイクロバブルブライト」新発売 - 毎日キレイ",
+      "summary": "スキンケアブランド「RISM」が洗い流さないバブル美容液マスク「ピコレーザー マイクロバブルブライト」を新発売。マイクロバブル技術を用いた新製品。",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XTWpRMUNCZ2E0MnJRLWx6NzNSaGlRc2g5NUVwUnZDTkQtQmxOaVlJX25LcFdCQzU5SG00d1ZHV24zTTRhdkcxLUgyS0RNN2RybEsxZlFDalRBWXRjVFYzQkVBQU83RXB1M05VWlNxLV9xNHNJT1NraWxB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XTWpRMUNCZ2E0MnJRLWx6NzNSaGlRc2g5NUVwUnZDTkQtQmxOaVlJX25LcFdCQzU5SG00d1ZHV24zTTRhdkcxLUgyS0RNN2RybEsxZlFDalRBWXRjVFYzQkVBQU83RXB1M05VWlNxLV9xNHNJT1NraWxB?oc=5",
+      "source_name": "毎日キレイ",
+      "monitor_id": "bm-machine-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-13T12:50:44+0900",
+      "status": "candidate",
+      "created_at": "2026-08-08T12:50:44+0900"
+    },
     {
       "seed_id": "seed_dc2b42519868",
       "trend_term": "バズ医師の施術実態",
@@ -371,24 +407,6 @@
       "valid_until": "2026-08-11T07:35:57+0900",
       "status": "candidate",
       "created_at": "2026-08-06T07:35:57+0900"
-    },
-    {
-      "seed_id": "seed_baa58df8e77f",
-      "trend_term": "エクソソーム治療の規制",
-      "raw_title": "「エクソソーム」治療の規制検討 再生医療安全確保法見直し | 全国のニュース - fukuishimbun.co.jp",
-      "summary": "再生医療安全確保法の見直しでエクソソーム治療の規制検討が進められている。公的機関による制度改正動向。",
-      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CVGdUdmRBZTVzZ01CdmlTandrNXdGSndpajFyZjBudDdJcnA2UTJjTk1kR1BhT1lvTFNWOUlMMFVDU2ZLYXdCRmJDbVp4eGVHWnRPTVlBMW5zVVNHYXp2bS1PSzJxUQ?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CVGdUdmRBZTVzZ01CdmlTandrNXdGSndpajFyZjBudDdJcnA2UTJjTk1kR1BhT1lvTFNWOUlMMFVDU2ZLYXdCRmJDbVp4eGVHWnRPTVlBMW5zVVNHYXp2bS1PSzJxUQ?oc=5",
-      "source_name": "fukuishimbun.co.jp",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-11T07:35:53+0900",
-      "status": "candidate",
-      "created_at": "2026-08-06T07:35:53+0900"
     },
     {
       "seed_id": "seed_8580d432587d",
