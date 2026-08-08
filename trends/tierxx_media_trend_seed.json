@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-08T17:08:02+0900",
-    "record_count": 43,
-    "source_total_in_db": 797,
+    "generated_at": "2026-08-09T06:57:00+0900",
+    "record_count": 44,
+    "source_total_in_db": 799,
     "provenance_breakdown": {
-      "evidence": 506,
-      "pain_seed": 291
+      "evidence": 507,
+      "pain_seed": 292
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_54ef559bdb2e",
+      "trend_term": "芸能人の美容医療と変化への社会的関心",
+      "raw_title": "アンミカ『DayDay.』出演での“顔の異変”にザワつくSNS…語られてきた美容医療に対する積極的スタンス（SmartFLASH） - Yahoo!ニュース",
+      "summary": "アンミカの番組出演時の顔の変化がSNSで話題となり、過去の美容医療に関するスタンスとの関連が議論されている状況",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zeGR0SG83d1J6bmVTbHVnMk92WW51dVUyMEwwaHBvUGF2RmNtT3FCT29uTFd0VkJXRGhMdE16ZDhtVzY5anYxN09ISnptVmNtTWxuN3IzY3RJbEptamNvV3ppTlI1aWs2N0dRMGItTDRWSnJkSTB1OWV1TnVKQkk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zeGR0SG83d1J6bmVTbHVnMk92WW51dVUyMEwwaHBvUGF2RmNtT3FCT29uTFd0VkJXRGhMdE16ZDhtVzY5anYxN09ISnptVmNtTWxuN3IzY3RJbEptamNvV3ppTlI1aWs2N0dRMGItTDRWSnJkSTB1OWV1TnVKQkk?oc=5",
+      "source_name": "Yahoo!ニュース",
+      "monitor_id": "bm-sns-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-14T06:56:53+0900",
+      "status": "candidate",
+      "created_at": "2026-08-09T06:56:53+0900"
+    },
+    {
+      "seed_id": "seed_acb8f7fdb204",
+      "trend_term": "セリ科ハーブの老化細胞除去作用",
+      "raw_title": "資生堂、「セリ科ハーブエキス」に肌の老化細胞除去と正常な細胞増加、ダブルの効果を発見 ～20年以上取り組む再生医療の研究知見を応用～ - PR TIMES",
+      "summary": "資生堂が20年以上の再生医療研究知見を応用し、セリ科ハーブエキスに肌の老化細胞除去と正常な細胞増加のダブル効果を発見。",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4REFfNUlUWkF0b1JzV0JLNENBUjFPRjZ0eUZ1VGFDWFpaTjl2dVp2OHRoMzdibENnYmtxeGhnM1p1S09mYnJ3Y05wald1aFRnbmxnZkRfUkNhbTh2OEUzbmVWUE9YeVg2M0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4REFfNUlUWkF0b1JzV0JLNENBUjFPRjZ0eUZ1VGFDWFpaTjl2dVp2OHRoMzdibENnYmtxeGhnM1p1S09mYnJ3Y05wald1aFRnbmxnZkRfUkNhbTh2OEUzbmVWUE9YeVg2M0E?oc=5",
+      "source_name": "PR TIMES",
+      "monitor_id": "bm-regen-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-14T06:56:44+0900",
+      "status": "candidate",
+      "created_at": "2026-08-09T06:56:44+0900"
+    },
     {
       "seed_id": "seed_af51e36f9010",
       "trend_term": "地域密着型クリニック経営",
@@ -353,24 +389,6 @@
       "valid_until": "2026-08-11T19:10:13+0900",
       "status": "candidate",
       "created_at": "2026-08-06T19:10:13+0900"
-    },
-    {
-      "seed_id": "seed_ecac20e380cf",
-      "trend_term": "高濃度エクソソーム治療",
-      "raw_title": "【米国発】高濃度エクソソーム治療｜次世代の再生医療について石田副院長と対談（後半）＠ダラス Manuel Tadros (wg4PhxAf9c) - Mshale",
-      "summary": "米国ダラスでの高濃度エクソソーム治療に関する次世代再生医療について、美容クリニック副院長による対談が実施された。",
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03anhVRlI2TXJWVkJKTmRHY2l2dDZWdk9YaGJfQkh1UTVjT05fSmFma0dyQ1Y4RVdZd1pmRDhIbXp3anpSUHU1azkxcGdndXZaTV9va2c0SVJFUHc?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03anhVRlI2TXJWVkJKTmRHY2l2dDZWdk9YaGJfQkh1UTVjT05fSmFma0dyQ1Y4RVdZd1pmRDhIbXp3anpSUHU1azkxcGdndXZaTV9va2c0SVJFUHc?oc=5",
-      "source_name": "Mshale",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-11T14:33:19+0900",
-      "status": "candidate",
-      "created_at": "2026-08-06T14:33:19+0900"
     },
     {
       "seed_id": "seed_9e4315c84b35",
