@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T17:21:00+09:00",
+  "generated_at": "2026-08-08T22:34:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,43 +16,50 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
+    "neg_excluded": 11,
     "dedup_excluded": 10,
-    "passed_total": 117,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
+      "yahoo_realtime": 37,
+      "news_web": 15,
       "google_trends": 10,
-      "yahoo_news_ranking": 2,
-      "x_realtime": 8,
-      "news_web": 14
+      "x_realtime": 5,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
-    "personal_story": 4,
+    "personal_story": 1,
+    "social_reaction": 35,
     "opinion": 10,
-    "policy": 5,
-    "hard_fact": 19
+    "policy": 4,
+    "hard_fact": 19,
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 31,
-    "policy": 5,
-    "opinion": 10,
-    "hard_fact": 21,
-    "personal_story": 3
+    "policy": 4,
+    "hard_fact": 20,
+    "social_reaction": 35,
+    "personal_story": 1,
+    "opinion": 10
   },
   "b2b_top10": [
-    {
-      "title": "「なんで持ってんの、なんで持ってんの、なんで持ってんのそれ！」映画『ちいかわ』入",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
     {
       "title": "クマに自衛隊、インフレに消費税減税　「民意」の落とし穴 - 日本経済新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
+    },
+    {
+      "title": "ボイメン 事務所と契約終了し改名",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "新條まゆ先生に漫☆画太郎と集英社から新作絵本であるシーンをパロディに使いたいと連",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "X(Twitter)の収益分配、終了決定！新プログラム移行でパクツイ・インプレゾ",
@@ -61,43 +68,37 @@
       "topic_category": "policy"
     },
     {
-      "title": "財源なき減税、揺らぐ信認　積極財政に「日本売り」危機　高市政権「悲願」に固執〔深",
+      "title": "琵琶湖三市同時花火大会 – 公式サイト",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "topic_category": "personal_story"
     },
     {
-      "title": "j2リーグ 順位",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "テーマパーク値上げ 30施設超に",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "『みいちゃんと山田さん』についてアニメ化公表と炎上で思うこと：ロマン優光連載4",
+      "title": "これマジで社不過ぎて聞きたくないんですけど、結婚報告ツイートにオーズみたいな並び",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "名古屋グランパス",
+      "title": "長野 対 山口",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "心肺停止",
+      "title": "nhk 性被害 誰",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "松島輝空",
+      "title": "サタデーウオッチ9",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "田原 市",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,61 +106,61 @@
   ],
   "note_top10": [
     {
-      "title": "「なんで持ってんの、なんで持ってんの、なんで持ってんのそれ！」映画『ちいかわ』入",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "琵琶湖三市同時花火大会 – 公式サイト",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "住んでいる人間のエネルギーが溢れて部屋中にへばりついているような部屋が好きなのだ",
+      "title": "新條まゆ先生に漫☆画太郎と集英社から新作絵本であるシーンをパロディに使いたいと連",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "これマジで社不過ぎて聞きたくないんですけど、結婚報告ツイートにオーズみたいな並び",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ちいかわ映画を観終わって帰ろうとしたら、おそらく小学生くらいの女子からおまけを譲",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "渋谷陽一のロック批評とは何だったのか？　ばるぼらの『メディアとしてのロックン・ロ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "10年前のある日、家に突然営業マンがやってきたが「1分だけ 商品の説明だけでも」",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "戦争の話になると、祖母はちょっと口を噤む… 豪農のお嬢様だったのでだいぶ儲かった",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "山形県のご当地スーパー「ヤマザワ」が山形の商品を紹介しながら買い物かごに投げ込ん",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ベルギーの家庭では一家に一台あるらしいフライヤー、さすがに大げさな気がするがベル",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "閉店間際に回転寿司屋に行ったらネタの量がバグってた話…「こういうのを晒さないで」",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "「韓国人ってなんで急にお酒を飲む習慣が廃れ始めたの？全世代で変化したように見える",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "就職氷河期に低賃金、長時間労働、使い捨てのような扱いで死にものぐるいで耐えてきた",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「このアカウントで一番気持ち悪いポストを教えて」とGrokに質問した結果、正論で",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "j2リーグ 順位",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "今年の9月の「ありがとう増田20周年祭り」のイベントはこれ！",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
