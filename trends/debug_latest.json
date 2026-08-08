@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T22:34:00+09:00",
+  "generated_at": "2026-08-09T06:59:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,88 +17,89 @@
       "x_realtime": 10
     },
     "neg_excluded": 11,
-    "dedup_excluded": 10,
-    "passed_total": 111,
+    "dedup_excluded": 11,
+    "passed_total": 110,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
-      "news_web": 15,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "x_realtime": 5,
-      "yahoo_news_ranking": 3
+      "news_web": 15,
+      "x_realtime": 6,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "personal_story": 1,
     "social_reaction": 35,
-    "opinion": 10,
-    "policy": 4,
-    "hard_fact": 19,
-    "medical_science": 1
+    "opinion": 9,
+    "personal_story": 1,
+    "medical_science": 2,
+    "hard_fact": 20,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "policy": 4,
-    "hard_fact": 20,
     "social_reaction": 35,
+    "opinion": 9,
+    "hard_fact": 21,
+    "medical_science": 1,
     "personal_story": 1,
-    "opinion": 10
+    "policy": 3
   },
   "b2b_top10": [
     {
-      "title": "クマに自衛隊、インフレに消費税減税　「民意」の落とし穴 - 日本経済新聞",
+      "title": "不同意性交の「不同意」を責める前に「同意」が何か教えてくれよ。 ロジッ..",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "ボイメン 事務所と契約終了し改名",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
+      "title": "年金",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "バスケットボール 男子日本代表",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "大韓サッカー協会",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "男子4×100mリレー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "習慣",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "望月理恵",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "バークシャー・ハサウェイ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "台風15号 進路",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
       "topic_category": "hard_fact"
     },
     {
-      "title": "新條まゆ先生に漫☆画太郎と集英社から新作絵本であるシーンをパロディに使いたいと連",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "X(Twitter)の収益分配、終了決定！新プログラム移行でパクツイ・インプレゾ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "琵琶湖三市同時花火大会 – 公式サイト",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "これマジで社不過ぎて聞きたくないんですけど、結婚報告ツイートにオーズみたいな並び",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "長野 対 山口",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "nhk 性被害 誰",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "サタデーウオッチ9",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "田原 市",
+      "title": "新幹線 半額",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,13 +107,25 @@
   ],
   "note_top10": [
     {
-      "title": "琵琶湖三市同時花火大会 – 公式サイト",
+      "title": "不同意性交の「不同意」を責める前に「同意」が何か教えてくれよ。 ロジッ..",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
       "title": "新條まゆ先生に漫☆画太郎と集英社から新作絵本であるシーンをパロディに使いたいと連",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "閉店間際に回転寿司屋に行ったらネタの量がバグってた話…「こういうのを晒さないで」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "10年前のある日、家に突然営業マンがやってきたが「1分だけ 商品の説明だけでも」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -124,45 +137,33 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ちいかわ映画を観終わって帰ろうとしたら、おそらく小学生くらいの女子からおまけを譲",
+      "title": "最近の辺野古遺族noteを見て思うが",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "渋谷陽一のロック批評とは何だったのか？　ばるぼらの『メディアとしてのロックン・ロ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "習慣",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "10年前のある日、家に突然営業マンがやってきたが「1分だけ 商品の説明だけでも」",
+      "title": "ショートスリーパーの24時間配信に対して、ひろゆきが「6時間毎に内田クレペリン検",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "山形県のご当地スーパー「ヤマザワ」が山形の商品を紹介しながら買い物かごに投げ込ん",
+      "title": "東映のOP映像のアクリルブロックが発売、かつて犬吠埼でペラペラの紙で再現チャレン",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "閉店間際に回転寿司屋に行ったらネタの量がバグってた話…「こういうのを晒さないで」",
+      "title": "とある絵師の指の関節が柔らかすぎてギョッとするレベル、指の骨がある証明として投稿",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「韓国人ってなんで急にお酒を飲む習慣が廃れ始めたの？全世代で変化したように見える",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "就職氷河期に低賃金、長時間労働、使い捨てのような扱いで死にものぐるいで耐えてきた",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
