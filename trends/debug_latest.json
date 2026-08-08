@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T07:16:00+09:00",
+  "generated_at": "2026-08-08T12:12:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,38 +17,54 @@
       "x_realtime": 10
     },
     "neg_excluded": 8,
-    "dedup_excluded": 13,
-    "passed_total": 111,
+    "dedup_excluded": 12,
+    "passed_total": 112,
     "b2b_category_counts": {
       "yahoo_realtime": 35,
+      "news_web": 19,
       "google_trends": 10,
-      "x_realtime": 5,
-      "news_web": 17,
-      "yahoo_news_ranking": 3
+      "x_realtime": 6
     }
   },
   "note_category_counts": {
     "social_reaction": 26,
-    "personal_story": 4,
+    "personal_story": 3,
     "opinion": 10,
-    "medical_science": 4,
-    "hard_fact": 22,
-    "policy": 4
+    "policy": 6,
+    "hard_fact": 24,
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
     "social_reaction": 26,
-    "hard_fact": 23,
+    "policy": 6,
+    "hard_fact": 25,
     "opinion": 10,
-    "policy": 4,
-    "personal_story": 4,
-    "medical_science": 3
+    "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "保護猫カフェで流血くらい引っ掻かれた後に「元々虐待を受けていた子で、過去にもお客",
+      "title": "「『胸くそが悪い』では到底足りません」日本人女性の謝罪投稿に多数の海外アカウント",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "財源なき減税、揺らぐ信認　積極財政に「日本売り」危機　高市政権「悲願」に固執〔深",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "X(Twitter)の収益分配、終了決定！新プログラム移行でパクツイ・インプレゾ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "酸性飲料 水筒の傷で食中毒に?",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     },
     {
       "title": "『みいちゃんと山田さん』についてアニメ化公表と炎上で思うこと：ロマン優光連載4",
@@ -57,55 +73,43 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "料理系YouTuber・リュウジさんが「鶏のたたき」のレシピを紹介、これに不安を",
+      "title": "保護猫カフェで流血くらい引っ掻かれた後に「元々虐待を受けていた子で、過去にもお客",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "秋田は高齢化ヤバすぎてお年寄りを駅前に住まわせるためにマンション建ちまくりらしい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「彼女がどんな人か知らなかった」それでも批判は投げられた 炎上に集まる“インプレ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "クマ対策 投票所に爆竹や鈴を用意",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_local",
       "topic_category": "hard_fact"
     },
     {
-      "title": "沖縄 暴風警報",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "コンビニで可愛い小型犬が繋がれていて、可愛いなぁと見ていたら小さい女の子連れの母",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "電車で座っている人の前に子供連れてきて「上手に立てるね」とか「疲れたね」とか譲る",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "高市官邸「被災地利用PV」が首相の命取りに？ 安倍元首相“コロナおこもり動画”の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
-    },
-    {
-      "title": "柏崎刈羽原子力発電所",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "北海道 天気",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "大韓サッカー協会",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ],
   "note_top10": [
+    {
+      "title": "「『胸くそが悪い』では到底足りません」日本人女性の謝罪投稿に多数の海外アカウント",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "保護猫カフェで流血くらい引っ掻かれた後に「元々虐待を受けていた子で、過去にもお客",
       "source_category": "yahoo_realtime",
@@ -119,52 +123,46 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "秋田は高齢化ヤバすぎてお年寄りを駅前に住まわせるためにマンション建ちまくりらしい",
+      "title": "コンビニで可愛い小型犬が繋がれていて、可愛いなぁと見ていたら小さい女の子連れの母",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "コストコで会員カード作った私「白カードで！」店員「今は皆さんエグゼクティブカード",
+      "title": "電車で座っている人の前に子供連れてきて「上手に立てるね」とか「疲れたね」とか譲る",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「転勤って専業主婦をアテにしてるからもう期待できない」JTCの男性社員が転勤を命",
+      "title": "カンボジアで息子が行方不明になり8ヶ月経ったが、息子から連絡がきた… 友人も一緒",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「工業ゲーの一番美味しい所から始めたみたいな状態になっとる」四半期で赤字見込みも",
+      "title": "「ロシアがNATO限定侵攻の可能性も」 米情報機関が分析か | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "旦那の実家に行った時、「思ってたんと違う」となった話… 自分は実祖母に「嫁いだら",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "絶滅危惧種の花が咲く場所があったが、学者たちが何度か見に来ているうちに、全部枯れ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "「非常に残念」高市総理と面会決定も…発言不可、握手のみ　8月9日長崎の被爆体験者",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "夏だから怖い話していいですか…私、中高年になったら自然と詩経や史記、シェイクスピ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
       "title": "MADE IN YAMATO - 第１１話　私はジムに行きたい | ヤンマガWe",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
-    },
-    {
-      "title": "子どもを産んだら1人2000万円かかると言われており、仕事もセーブすると老後資金",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
     }
   ]
 }
