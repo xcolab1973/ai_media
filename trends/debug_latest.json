@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T12:12:00+09:00",
+  "generated_at": "2026-08-08T17:21:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,40 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 12,
-    "passed_total": 112,
+    "neg_excluded": 5,
+    "dedup_excluded": 10,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
-      "news_web": 19,
+      "yahoo_realtime": 36,
       "google_trends": 10,
-      "x_realtime": 6
+      "yahoo_news_ranking": 2,
+      "x_realtime": 8,
+      "news_web": 14
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
-    "personal_story": 3,
+    "social_reaction": 32,
+    "personal_story": 4,
     "opinion": 10,
-    "policy": 6,
-    "hard_fact": 24,
-    "medical_science": 1
+    "policy": 5,
+    "hard_fact": 19
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 26,
-    "policy": 6,
-    "hard_fact": 25,
+    "social_reaction": 31,
+    "policy": 5,
     "opinion": 10,
+    "hard_fact": 21,
     "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "「『胸くそが悪い』では到底足りません」日本人女性の謝罪投稿に多数の海外アカウント",
+      "title": "「なんで持ってんの、なんで持ってんの、なんで持ってんのそれ！」映画『ちいかわ』入",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "財源なき減税、揺らぐ信認　積極財政に「日本売り」危機　高市政権「悲願」に固執〔深",
+      "title": "クマに自衛隊、インフレに消費税減税　「民意」の落とし穴 - 日本経済新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
@@ -61,9 +61,21 @@
       "topic_category": "policy"
     },
     {
-      "title": "酸性飲料 水筒の傷で食中毒に?",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
+      "title": "財源なき減税、揺らぐ信認　積極財政に「日本売り」危機　高市政権「悲願」に固執〔深",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "j2リーグ 順位",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "テーマパーク値上げ 30施設超に",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
       "topic_category": "hard_fact"
     },
     {
@@ -73,96 +85,84 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "保護猫カフェで流血くらい引っ掻かれた後に「元々虐待を受けていた子で、過去にもお客",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "名古屋グランパス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "クマ対策 投票所に爆竹や鈴を用意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_local",
-      "topic_category": "hard_fact"
+      "title": "心肺停止",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "コンビニで可愛い小型犬が繋がれていて、可愛いなぁと見ていたら小さい女の子連れの母",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "電車で座っている人の前に子供連れてきて「上手に立てるね」とか「疲れたね」とか譲る",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "高市官邸「被災地利用PV」が首相の命取りに？ 安倍元首相“コロナおこもり動画”の",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "title": "松島輝空",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "「『胸くそが悪い』では到底足りません」日本人女性の謝罪投稿に多数の海外アカウント",
+      "title": "「なんで持ってんの、なんで持ってんの、なんで持ってんのそれ！」映画『ちいかわ』入",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "保護猫カフェで流血くらい引っ掻かれた後に「元々虐待を受けていた子で、過去にもお客",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "料理系YouTuber・リュウジさんが「鶏のたたき」のレシピを紹介、これに不安を",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "コンビニで可愛い小型犬が繋がれていて、可愛いなぁと見ていたら小さい女の子連れの母",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "電車で座っている人の前に子供連れてきて「上手に立てるね」とか「疲れたね」とか譲る",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "カンボジアで息子が行方不明になり8ヶ月経ったが、息子から連絡がきた… 友人も一緒",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ロシアがNATO限定侵攻の可能性も」 米情報機関が分析か | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "絶滅危惧種の花が咲く場所があったが、学者たちが何度か見に来ているうちに、全部枯れ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "夏だから怖い話していいですか…私、中高年になったら自然と詩経や史記、シェイクスピ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "MADE IN YAMATO - 第１１話　私はジムに行きたい | ヤンマガWe",
+      "title": "琵琶湖三市同時花火大会 – 公式サイト",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
+    },
+    {
+      "title": "住んでいる人間のエネルギーが溢れて部屋中にへばりついているような部屋が好きなのだ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "戦争の話になると、祖母はちょっと口を噤む… 豪農のお嬢様だったのでだいぶ儲かった",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ベルギーの家庭では一家に一台あるらしいフライヤー、さすがに大げさな気がするがベル",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「韓国人ってなんで急にお酒を飲む習慣が廃れ始めたの？全世代で変化したように見える",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "就職氷河期に低賃金、長時間労働、使い捨てのような扱いで死にものぐるいで耐えてきた",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「このアカウントで一番気持ち悪いポストを教えて」とGrokに質問した結果、正論で",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "j2リーグ 順位",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "今年の9月の「ありがとう増田20周年祭り」のイベントはこれ！",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ]
 }
