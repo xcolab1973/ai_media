@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-08T17:00:34+09:00",
- "valid_until": "2026-08-22T06:47:07+09:00",
+ "generated_at": "2026-08-09T06:50:27+09:00",
+ "valid_until": "2026-08-23T06:44:56+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "work",
   "from_current": 32,
-  "from_new": 0,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 0,
+  "retention_dropped": 1,
   "genres": 4,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "2024年10月から教育訓練給付金の給付率が最大80%へ 雇用保険法改正",
+   "url": "https://lify.jp/column/insurance-news/article-76997/",
+   "summary": "雇用保険法改正の解説。専門実践教育訓練給付金は基本50%、資格取得＋雇用継続で+20%、賃金5%以上アップでさらに+10%の最大80%になる仕組みを整理。転職を見据えた資格取得の費用回収シミュレーションの目安に使える数値情報。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "work-career-change",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Lify保険ニュース解説",
+    "expert_origin": false,
+    "search_query": "教育訓練給付金 給付率 70% 80% 引き上げ 2026年10月 雇用保険法改正",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-23T06:44:56+09:00",
+   "validity_days": 14
+  },
   {
    "source_category": "news_web",
    "raw_title": "失業保険と退職金の両方もらえる？もらうための要件も解説",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-13T06:50:50+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "【40代転職厳しい】未経験から異業種転職は？男性・女性別に解説",
-   "url": "https://mirai-works.co.jp/media-career/column/40dai-kouhan-tenshoku-kibishii/",
-   "summary": "40歳以上の転職者の4人に1人が「異業種×異職種」へ、6割超が異業種転職を経験しているというデータを紹介。40代は柔軟性やスキル習得の伸びしろが低く見られがちで、企業側が教育コストをかけにくいという本音も指摘。過去の経験を活かせる職域選びが成功の鍵になるとまとめている。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "work-career-change",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "みらいワークス",
-    "expert_origin": true,
-    "search_query": "異業種 未経験 転職 40代 失敗 後悔",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-11T06:44:09+09:00",
    "validity_days": 14
   },
   {
