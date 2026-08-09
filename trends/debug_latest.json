@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T06:59:00+09:00",
+  "generated_at": "2026-08-09T12:20:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,52 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
-    "dedup_excluded": 11,
-    "passed_total": 110,
+    "neg_excluded": 8,
+    "dedup_excluded": 12,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 36,
       "google_trends": 10,
-      "news_web": 15,
-      "x_realtime": 6,
-      "yahoo_news_ranking": 4
+      "x_realtime": 7,
+      "news_web": 14,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
-    "opinion": 9,
-    "personal_story": 1,
-    "medical_science": 2,
-    "hard_fact": 20,
-    "policy": 3
+    "social_reaction": 28,
+    "personal_story": 3,
+    "opinion": 10,
+    "policy": 7,
+    "medical_science": 4,
+    "hard_fact": 18
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 35,
-    "opinion": 9,
-    "hard_fact": 21,
-    "medical_science": 1,
-    "personal_story": 1,
-    "policy": 3
+    "social_reaction": 28,
+    "opinion": 10,
+    "hard_fact": 19,
+    "policy": 7,
+    "personal_story": 3,
+    "medical_science": 3
   },
   "b2b_top10": [
+    {
+      "title": "甲子園応援　チョンダラーOKに　「顔ペイント」「郷土民俗変装着等」禁止事項から削",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ディアス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ファン付き作業服着用の５０代男性、熱中症の疑いで死亡…スポーツドリンクも持参",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
     {
       "title": "不同意性交の「不同意」を責める前に「同意」が何か教えてくれよ。 ロジッ..",
       "source_category": "yahoo_realtime",
@@ -51,55 +69,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "年金",
+      "title": "政府は”改善する”と言うけれど 中国旅行、現場はまだ外国人に「冷たい」 - 36",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "ブルガリアにある鐘の公園には世界中から送られた鐘があるが、日本の鐘だけ異様だしバ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "スクール革命",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "バスケットボール 男子日本代表",
+      "title": "カイル・タッカー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "大韓サッカー協会",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "空港の一般エリアで隣のお姉さん2人組がたこ焼きを食べながら「 搭乗開始30分前だ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "男子4×100mリレー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "習慣",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "望月理恵",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "バークシャー・ハサウェイ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "台風15号 進路",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "新幹線 半額",
+      "title": "ps6",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
+      "title": "甲子園応援　チョンダラーOKに　「顔ペイント」「郷土民俗変装着等」禁止事項から削",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "不同意性交の「不同意」を責める前に「同意」が何か教えてくれよ。 ロジッ..",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "新條まゆ先生に漫☆画太郎と集英社から新作絵本であるシーンをパロディに使いたいと連",
+      "title": "ブルガリアにある鐘の公園には世界中から送られた鐘があるが、日本の鐘だけ異様だしバ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "閉店間際に回転寿司屋に行ったらネタの量がバグってた話…「こういうのを晒さないで」",
+      "title": "空港の一般エリアで隣のお姉さん2人組がたこ焼きを食べながら「 搭乗開始30分前だ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "10年前のある日、家に突然営業マンがやってきたが「1分だけ 商品の説明だけでも」",
+      "title": "自分も底辺ランドで働いてるからわかるのだが、底辺の職場って人間関係が「中学校」と",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "ホテルにタブレットPCを忘れて来てしまったので指定住所に着払い送付を依頼した3日",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "これマジで社不過ぎて聞きたくないんですけど、結婚報告ツイートにオーズみたいな並び",
+      "title": "急なイベント事の中止に「仕方ないよね」って言える関東圏内の人がめちゃくちゃ羨まし",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "最近の辺野古遺族noteを見て思うが",
+      "title": "駅で年配女性が崩れ落ちるように倒れたが、自分ともう1人の女性しか反応しておらず、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "習慣",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ショートスリーパーの24時間配信に対して、ひろゆきが「6時間毎に内田クレペリン検",
+      "title": "「おかしなサイトを見つけました」との文言と共に貼られたとあるWebサイトが話題に",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "東映のOP映像のアクリルブロックが発売、かつて犬吠埼でペラペラの紙で再現チャレン",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "とある絵師の指の関節が柔らかすぎてギョッとするレベル、指の骨がある証明として投稿",
+      "title": "アメリカ人『霧の中からビッグフットが出てきたのかと思った』と動画をポスト→その正",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
