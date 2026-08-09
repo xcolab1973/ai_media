@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-09T06:57:00+0900",
-    "record_count": 44,
-    "source_total_in_db": 799,
+    "generated_at": "2026-08-09T12:58:32+0900",
+    "record_count": 43,
+    "source_total_in_db": 800,
     "provenance_breakdown": {
       "evidence": 507,
-      "pain_seed": 292
+      "pain_seed": 293
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_9ec9747da3b4",
+      "trend_term": "唇メイク塗り方テク",
+      "raw_title": "塗り方を変えるだけでヒアルロン酸注入級！マットorツヤどっちの“ぷっくり唇”が好き？ (NET ViVi) - Yahoo!ニュース",
+      "summary": "ヒアルロン酸注入の効果に似た唇の仕上がりを、メイクの塗り方で実現する方法。マット/ツヤの選択肢について",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdTRpbUl6UnE2VEVOaFFVcUtFNFcyYnFrR2taY0ZTaERBcWszaU5fOXFBX19wczJzV1NuVkVXbmVkZ0tnUDVLdnVJSmdYejh0WWtLZXN1ZzlaSm5jUWFCV1ppZHBQZnJiUi1iNkNvaExfdkFsbVlmRURlSlhabGpNd29nNEI5RjVpbVhESHRB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdTRpbUl6UnE2VEVOaFFVcUtFNFcyYnFrR2taY0ZTaERBcWszaU5fOXFBX19wczJzV1NuVkVXbmVkZ0tnUDVLdnVJSmdYejh0WWtLZXN1ZzlaSm5jUWFCV1ppZHBQZnJiUi1iNkNvaExfdkFsbVlmRURlSlhabGpNd29nNEI5RjVpbVhESHRB?oc=5",
+      "source_name": "Yahoo!ニュース",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-23T12:58:11+0900",
+      "status": "candidate",
+      "created_at": "2026-08-09T12:58:11+0900"
+    },
     {
       "seed_id": "seed_54ef559bdb2e",
       "trend_term": "芸能人の美容医療と変化への社会的関心",
@@ -605,42 +623,6 @@
       "valid_until": "2026-08-09T14:31:19+0900",
       "status": "candidate",
       "created_at": "2026-08-04T14:31:19+0900"
-    },
-    {
-      "seed_id": "seed_faf718be9946",
-      "trend_term": "美容医療クリニック集客課題",
-      "raw_title": "美容医療ブームの裏側で高まる集客課題。3万人の独自データ×Meta広告による新集客サービスを開始 - Newscast.jp",
-      "summary": "美容医療ブーム下で集客課題が高まっており、3万人の独自データとMeta広告を活用した新集客サービスが開始された。",
-      "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB1aG51SXVBQ2lTam11dXhSMTBQckFqVG9PVzVhSXpPUUxkRXhLZEZPUFlCRTlZajBQNkJtRFRjOFNoNkVjZnBB?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB1aG51SXVBQ2lTam11dXhSMTBQckFqVG9PVzVhSXpPUUxkRXhLZEZPUFlCRTlZajBQNkJtRFRjOFNoNkVjZnBB?oc=5",
-      "source_name": "Newscast.jp",
-      "monitor_id": "bm-sns-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-09T07:34:37+0900",
-      "status": "candidate",
-      "created_at": "2026-08-04T07:34:37+0900"
-    },
-    {
-      "seed_id": "seed_691361ef034a",
-      "trend_term": "ピコレーザー×美容針パック",
-      "raw_title": "スキンケアブランド「RISM（リズム）」より「ピコレーザー*」シリーズが誕生！美容針*¹×高密着ゲルシート×ハリ感美容成分の複合アプローチによる注入*⁴型の弾力*⁵・毛穴ケア*⁶部分用パックを発売 - GISELe(ジゼル)",
-      "summary": "スキンケアブランド「RISM」が美容針と高密着ゲルシートを組み合わせた「ピコレーザー」シリーズのパック製品を発売。弾力・毛穴ケア向け。",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BeGc4TExOSlN6bElzR0pkRHZiSjVvMFJjdTAybkx0b1FwQlBFNEVWT1dYcy1FYVpMWlJucVZfbEdpZFdiOEt6RWk5a1JXb0RtTy1zbw?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BeGc4TExOSlN6bElzR0pkRHZiSjVvMFJjdTAybkx0b1FwQlBFNEVWT1dYcy1FYVpMWlJucVZfbEdpZFdiOEt6RWk5a1JXb0RtTy1zbw?oc=5",
-      "source_name": "GISELe(ジゼル)",
-      "monitor_id": "bm-machine-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-09T07:34:24+0900",
-      "status": "candidate",
-      "created_at": "2026-08-04T07:34:24+0900"
     },
     {
       "seed_id": "seed_c724f5535795",
