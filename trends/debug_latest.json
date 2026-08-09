@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T12:20:00+09:00",
+  "generated_at": "2026-08-09T17:24:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,58 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 12,
+    "neg_excluded": 9,
+    "dedup_excluded": 11,
     "passed_total": 112,
     "b2b_category_counts": {
       "yahoo_realtime": 36,
-      "google_trends": 10,
       "x_realtime": 7,
-      "news_web": 14,
-      "yahoo_news_ranking": 3
+      "google_trends": 10,
+      "news_web": 13,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "personal_story": 3,
-    "opinion": 10,
-    "policy": 7,
+    "social_reaction": 26,
     "medical_science": 4,
-    "hard_fact": 18
+    "personal_story": 5,
+    "opinion": 9,
+    "policy": 5,
+    "hard_fact": 21
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
-    "opinion": 10,
-    "hard_fact": 19,
-    "policy": 7,
-    "personal_story": 3,
-    "medical_science": 3
+    "social_reaction": 26,
+    "medical_science": 2,
+    "opinion": 9,
+    "hard_fact": 23,
+    "policy": 5,
+    "personal_story": 5
   },
   "b2b_top10": [
+    {
+      "title": "用意した朝食を息子が食べずに注意したら「お母さんの料理はまずいから食べたくない」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「これ全部、母が実家を片付けてたら出てきたほぼ未使用の食器らしい」中古屋はどこも",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "阿波おどりで女性の体強調した無断動画拡散、憤る踊り手「悲しいし気持ち悪い」…警察",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "イギリスの給食から消える揚げ物　子どもの肥満・医療負担減らす - 日本経済新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
     {
       "title": "甲子園応援　チョンダラーOKに　「顔ペイント」「郷土民俗変装着等」禁止事項から削",
       "source_category": "yahoo_realtime",
@@ -51,7 +75,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ディアス",
+      "title": "西武 対 ソフトバンク",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "fc今治",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -63,43 +93,13 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "不同意性交の「不同意」を責める前に「同意」が何か教えてくれよ。 ロジッ..",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "政府は”改善する”と言うけれど 中国旅行、現場はまだ外国人に「冷たい」 - 36",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "ブルガリアにある鐘の公園には世界中から送られた鐘があるが、日本の鐘だけ異様だしバ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "スクール革命",
+      "title": "福岡 県議会",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "カイル・タッカー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "空港の一般エリアで隣のお姉さん2人組がたこ焼きを食べながら「 搭乗開始30分前だ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ps6",
+      "title": "大阪天気",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +107,64 @@
   ],
   "note_top10": [
     {
+      "title": "「これ全部、母が実家を片付けてたら出てきたほぼ未使用の食器らしい」中古屋はどこも",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "用意した朝食を息子が食べずに注意したら「お母さんの料理はまずいから食べたくない」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "阿波おどりで女性の体強調した無断動画拡散、憤る踊り手「悲しいし気持ち悪い」…警察",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "イギリスの給食から消える揚げ物　子どもの肥満・医療負担減らす - 日本経済新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
       "title": "甲子園応援　チョンダラーOKに　「顔ペイント」「郷土民俗変装着等」禁止事項から削",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "不同意性交の「不同意」を責める前に「同意」が何か教えてくれよ。 ロジッ..",
+      "title": "40歳を過ぎた男は筋トレ・キャンプ・カレーにハマるというが、女版は何か？挙げられ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ブルガリアにある鐘の公園には世界中から送られた鐘があるが、日本の鐘だけ異様だしバ",
+      "title": "業者の方に「家に猫がいます、アレルギーや苦手な方はいますか？隔離しますか？」と尋",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "空港の一般エリアで隣のお姉さん2人組がたこ焼きを食べながら「 搭乗開始30分前だ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "自分も底辺ランドで働いてるからわかるのだが、底辺の職場って人間関係が「中学校」と",
+      "title": "「帝国ホテルの部屋を見たい」と宿泊先に押し掛けてきた人がいきなり備え付けのチョコ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
     },
     {
-      "title": "ホテルにタブレットPCを忘れて来てしまったので指定住所に着払い送付を依頼した3日",
+      "title": "これはもう体験として知ってるの自分らが最後やろなぁ…ってこと",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "急なイベント事の中止に「仕方ないよね」って言える関東圏内の人がめちゃくちゃ羨まし",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "駅で年配女性が崩れ落ちるように倒れたが、自分ともう1人の女性しか反応しておらず、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「おかしなサイトを見つけました」との文言と共に貼られたとあるWebサイトが話題に",
+      "title": "「我が子からうつった手足口病で爪が剥がれ始めた、持ってる情報はなんでも話すのでも",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "アメリカ人『霧の中からビッグフットが出てきたのかと思った』と動画をポスト→その正",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     }
   ]
 }
