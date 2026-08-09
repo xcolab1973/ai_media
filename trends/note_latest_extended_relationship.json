@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-09T16:58:07+09:00",
- "valid_until": "2026-08-23T06:48:21+09:00",
+ "generated_at": "2026-08-10T06:46:11+09:00",
+ "valid_until": "2026-08-24T06:37:13+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "relationship",
   "from_current": 24,
-  "from_new": 3,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 0,
+  "retention_dropped": 1,
   "genres": 3,
   "retention_per_genre": 8
  },
@@ -258,6 +258,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "出会い系サイト規制法施行規則｜なくそう、子供の性被害。",
+   "url": "https://www.npa.go.jp/policy_area/no_cp/deai/rule.html",
+   "summary": "2026年4月16日、出会い系サイト規制法（インターネット異性紹介事業を利用して児童を誘引する行為の規制等に関する法律）の施行規則が一部改正され、マッチングアプリ事業者の年齢確認・本人確認手法（マイナンバーカード活用等）の選択肢が広がった。婚活・マッチングアプリ利用者は本人確認強化の動きを知っておく必要がある。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "official_instruction",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "relationship-dating",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "警察庁（なくそう、子供の性被害。）",
+    "expert_origin": true,
+    "search_query": "マッチングアプリ 出会い系 規制 法改正 2026 本人確認",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-24T06:37:13+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "マッチングアプリでのトラブル ～金銭の交付を求められるケース～",
    "url": "https://www.konishilaw.jp/column/802/",
    "summary": "弁護士によるコラム。マッチングアプリで意気投合後に「親の入院」「会社の倒産」等を理由に送金を求められるパターンを列挙し、証拠の残し方や被害後の対処（返還請求・被害届）まで解説する法律専門家の実務的知見。",
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-20T06:37:33+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "【8月の帰省が憂鬱な方へ】お盆の「結婚まだ？」を回避する、7月スタートの逆算婚活戦略",
-   "url": "https://konkatsu.khm-japan.co.jp/staffblog/4346/",
-   "summary": "お盆帰省で親から「結婚まだ？」と聞かれるのが憂鬱な独身者向けに、7月から逆算して婚活を始め、帰省時に前向きな進捗を報告できる状態を作る時期設計を提案。結婚相談所の実務目線での逆算スケジュール提示が特徴。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "relationship-dating",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "結婚相談所KHM（藤沢・湘南）",
-    "expert_origin": true,
-    "search_query": "お盆 帰省 結婚 急かされる 独身 対処法",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": true,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-16T06:36:13+09:00",
    "validity_days": 14
   },
   {
