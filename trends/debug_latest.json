@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T22:38:00+09:00",
+  "generated_at": "2026-08-10T07:02:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,72 +7,54 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 131,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
-      "yahoo_news_ranking": 23,
+      "yahoo_news_ranking": 24,
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
-    "dedup_excluded": 10,
+    "neg_excluded": 13,
+    "dedup_excluded": 9,
     "passed_total": 110,
     "b2b_category_counts": {
       "yahoo_realtime": 35,
-      "google_trends": 10,
-      "x_realtime": 6,
+      "google_trends": 8,
       "yahoo_news_ranking": 3,
-      "news_web": 16
+      "x_realtime": 6,
+      "news_web": 18
     }
   },
   "note_category_counts": {
-    "social_reaction": 22,
-    "medical_science": 4,
-    "personal_story": 4,
-    "opinion": 10,
+    "social_reaction": 27,
+    "personal_story": 3,
+    "opinion": 8,
+    "medical_science": 3,
     "hard_fact": 24,
-    "policy": 6
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 22,
-    "medical_science": 2,
-    "opinion": 10,
+    "social_reaction": 27,
+    "opinion": 8,
     "hard_fact": 26,
-    "policy": 6,
-    "personal_story": 4
+    "personal_story": 3,
+    "policy": 5,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "「これ全部、母が実家を片付けてたら出てきたほぼ未使用の食器らしい」中古屋はどこも",
+      "title": "原発技術の維持　LNG船の二の舞いを避けるには　さらに具体的な建設計画が必要に　",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "用意した朝食を息子が食べずに注意したら「お母さんの料理はまずいから食べたくない」",
+      "title": "外国の人に電車を聞かれたので“Where do you want to go?”",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "阿波おどりで女性の体強調した無断動画拡散、憤る踊り手「悲しいし気持ち悪い」…警察",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "イギリスの給食から消える揚げ物　子どもの肥満・医療負担減らす - 日本経済新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "野崎",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     },
     {
       "title": "ハルペリン文書 知られざる核危機 | NHKニュース",
@@ -81,25 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "アーセナル",
+      "title": "「これ全部、母が実家を片付けてたら出てきたほぼ未使用の食器らしい」中古屋はどこも",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "高速道路 渋滞",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "西村雄一",
+      "title": "沖縄尚学",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "山本耕史",
+      "title": "トリニダード・トバゴ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "リヴァプール 対 モナコ",
+      "title": "又吉克樹",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "h3ロケット",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "千葉 天気",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,31 +113,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "阿波おどりで女性の体強調した無断動画拡散、憤る踊り手「悲しいし気持ち悪い」…警察",
+      "title": "原発技術の維持　LNG船の二の舞いを避けるには　さらに具体的な建設計画が必要に　",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "用意した朝食を息子が食べずに注意したら「お母さんの料理はまずいから食べたくない」",
+      "title": "外国の人に電車を聞かれたので“Where do you want to go?”",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "イギリスの給食から消える揚げ物　子どもの肥満・医療負担減らす - 日本経済新聞",
+      "title": "ハルペリン文書 知られざる核危機 | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "劣化したフライパンを捨てることにしたが、指定のゴミ袋に入れてみたら少しはみ出して",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "中国発祥の火鍋チェーン、中国人と一緒に行くとエグい調合だけど美味しいソースを作っ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "八王子まつりの屋台で、昼間から生肉を常温放置しているのを発見→この投稿に様々なツ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -149,22 +149,22 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ハルペリン文書 知られざる核危機 | NHKニュース",
+      "title": "これはもう体験として知ってるの自分らが最後やろなぁ…ってこと",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "40歳を過ぎた男は筋トレ・キャンプ・カレーにハマるというが、女版は何か？挙げられ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "高速道路 渋滞",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "岩下の新生姜とサクラクレパスのコラボクーピーペンシルでぬり絵をやった人が出来上が",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "沖縄尚学",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
