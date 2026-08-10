@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-10T16:53:10+09:00",
- "valid_until": "2026-08-24T16:44:58+09:00",
+ "generated_at": "2026-08-11T06:45:32+09:00",
+ "valid_until": "2026-08-25T06:35:42+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "hobby",
   "from_current": 48,
-  "from_new": 3,
+  "from_new": 2,
   "expired_pruned": 0,
-  "retention_dropped": 3,
+  "retention_dropped": 2,
   "genres": 6,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "連休のキャンプ場、直前予約＆キャンセル拾い完全ガイド｜GW・お盆も諦めない",
+   "url": "https://akanebi.com/posts/gw-last-minute-camp-2026/",
+   "summary": "お盆期間中でも直前予約やキャンセル拾いでキャンプ場を確保するテクニックを紹介。予約上限が緩い施設の見分け方や、区画指定なしで先着順に張れる施設の活用法など、混雑期特有の裏技的な行動指針をまとめている。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "hobby-fishing-outdoor",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "茜火",
+    "expert_origin": false,
+    "search_query": "お盆 キャンプ場 混雑 予約 コツ 2026",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-25T06:35:42+09:00",
+   "validity_days": 14
+  },
   {
    "source_category": "news_web",
    "raw_title": "台風後はいつから釣りに行ける？安全なタイミングと狙い目を解説",
@@ -228,24 +258,24 @@
   },
   {
    "source_category": "news_web",
-   "raw_title": "釣り人のための熱中症対策10か条",
-   "url": "https://midorikawa-gr.or.jp/%E9%87%A3%E3%82%8A%E4%BA%BA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E7%86%B1%E4%B8%AD%E7%97%87%E5%AF%BE%E7%AD%9610%E3%81%8B%E6%9D%A1/",
-   "summary": "夏の堤防・船釣りは熱中症リスクが高く、水分・塩分補給、帽子や冷感インナーの着用、1時間ごとの休憩など漁協や釣具メーカーが具体的対策を発信。体調変化を感じたら早めに切り上げることを推奨。",
+   "raw_title": "SNS年齢確認厳格化 インターネット環境整備法でメタバースやVRChatはどうなるんだろう？",
+   "url": "https://note.com/hiro124vrc/n/nf67097ff2f9a",
+   "summary": "SNS年齢確認厳格化の議論が進む中、VRChatなどゲーム内メタバースのアバター文化や海外サーバー経由での回避可能性など、ゲーマー視点での波及影響への懸念を綴った個人発信記事。",
    "signal_type": "trend",
    "engagement_signal": false,
    "approx_traffic": "100+",
-   "preliminary_claim_type": "safety_claim",
+   "preliminary_claim_type": "opinion",
    "relevance_to_niche": "high",
    "topic_category": null,
-   "primary_genre": "hobby-fishing-outdoor",
+   "primary_genre": "hobby-game-info",
    "karte_matched_category": null,
    "karte_aligned": false,
    "account_id": "default",
    "origin": "pre_collector_extended",
    "provenance": {
-    "source_name": "緑川漁業協同組合",
+    "source_name": "note（フルトラ猫研究所）",
     "expert_origin": true,
-    "search_query": "堤防釣り 熱中症 対策 2026年夏",
+    "search_query": "ゲーム 年齢確認 SNS 規制 知恵袋 OKWAVE",
     "freshness": "fresh",
     "integrity_warning": null,
     "provenance_kind": "evidence",
@@ -253,8 +283,8 @@
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-08-13T06:36:29+09:00",
-   "validity_days": 14
+   "valid_until": "2026-08-16T06:35:42+09:00",
+   "validity_days": 5
   },
   {
    "source_category": "news_web",
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-12T16:44:05+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "eスポーツ・プロゲーマーの確定申告 認められる経費は？税理士・手塚誠先生に聞いてみた",
-   "url": "https://www.yayoi-kk.co.jp/shinkoku/oyakudachi/professional-gamer/",
-   "summary": "税理士監修で、eスポーツ賞金やゲーム実況収入の所得区分(一時所得/事業所得)や経費として認められる範囲(機材・動画編集ソフト等)を解説。年間20万円超の収入で確定申告が必要になる点にも言及している。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "hobby-game-info",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "弥生株式会社",
-    "expert_origin": true,
-    "search_query": "ゲーム実況 eスポーツ 副業 確定申告 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-11T16:47:55+09:00",
    "validity_days": 5
   },
   {

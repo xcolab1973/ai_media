@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-10T16:53:10+09:00",
- "valid_until": "2026-08-24T16:44:04+09:00",
+ "generated_at": "2026-08-11T06:45:32+09:00",
+ "valid_until": "2026-08-25T06:34:37+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "health",
   "from_current": 40,
-  "from_new": 3,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 3,
+  "retention_dropped": 1,
   "genres": 5,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "在宅介護でゆっくり眠れない…。母が夜中に起きるので、私も睡眠不足になって困っています。",
+   "url": "https://e-nursingcare.com/guide/qa/qa-18970/",
+   "summary": "在宅で親を介護する読者が、母親の夜間の頻繁な覚醒により自分自身も睡眠不足に陥っていると相談する事例。夜間トイレ介助や見守りで介護者本人の睡眠が細切れになる悩みは、一般的な暑さ対策の快眠情報ではカバーされにくい、介護×睡眠の交差ペインとして角度になりうる。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "health-sleep",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "日刊介護新聞 by いい介護（Q&A）",
+    "expert_origin": false,
+    "search_query": "介護 疲れ 眠れない 睡眠不足 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": true,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-25T06:34:37+09:00",
+   "validity_days": 14
+  },
   {
    "source_category": "news_web",
    "raw_title": "熱帯夜の困りごとと解決法 | 空気の困りごとラボ | ダイキン工業株式会社",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-15T06:35:29+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "標榜可能な診療科名に係る医療法施行令の改正について（組み合わせ標榜事項に「睡眠障害」を追加）",
-   "url": "https://www.mhlw.go.jp/stf/newpage_73418.html",
-   "summary": "厚労省が医療法施行令を改正し、内科等と組み合わせて広告できる事項（感染症・腫瘍・糖尿病・アレルギー疾患）に「睡眠障害」を追加。令和8年5月29日公布、6月1日施行済み。「睡眠障害内科」等の標榜が可能になり、患者が受診先を見分けやすくなる制度変更。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "health-sleep",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "厚生労働省",
-    "expert_origin": true,
-    "search_query": "睡眠 指針 2026 改正 厚生労働省 施行",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": true,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-13T06:36:56+09:00",
    "validity_days": 14
   },
   {

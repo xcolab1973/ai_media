@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-10T16:53:10+09:00",
- "valid_until": "2026-08-24T16:45:32+09:00",
+ "generated_at": "2026-08-11T06:45:32+09:00",
+ "valid_until": "2026-08-25T06:43:42+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -8,10 +8,10 @@
  "total_count": 52,
  "merge": {
   "parent": "money",
-  "from_current": 51,
-  "from_new": 4,
+  "from_current": 52,
+  "from_new": 1,
   "expired_pruned": 1,
-  "retention_dropped": 2,
+  "retention_dropped": 0,
   "genres": 8,
   "retention_per_genre": 8
  },
@@ -678,6 +678,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "生命保険の更新は損？保険料が上がる理由と後悔しない見直し方法",
+   "url": "https://www.7-insurance.jp/column/081.html",
+   "summary": "定期保険は更新のタイミングで保険料が上がるケースが多く、そのまま更新すると家計に影響が出るおそれがある。夏のボーナス時期は保障内容と保険料のバランスを見直す好機だが、保障を安易に削る前提での見直しは注意が必要という内容。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "money-insurance-review",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "保険探しのパートナー",
+    "expert_origin": false,
+    "search_query": "生命保険 見直し 夏のボーナス 保険料 家計 落とし穴",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-25T06:43:42+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "火災保険の水災補償がいらないのは本当か。",
    "url": "https://www.zurich.co.jp/fire/guide/water-disaster-unnecessary/",
    "summary": "水災補償は床上浸水45cm以上や地盤面より45cm超の浸水が支払基準となり、それ未満は補償対象外になることが多い。ハザードマップや過去の浸水実績を踏まえた要否判断が必要と解説。",
@@ -884,36 +914,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-13T06:46:28+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "医療保険の掛け捨てタイプ、入らないと後悔するタイミングとは",
-   "url": "https://hokencospa.jp/categories/medical/columns/medical-insurance-regret",
-   "summary": "医療保険未加入者が後悔する典型例は「差額ベッド代」「先進医療費」「入院時の交通費」など公的保険でカバーされない出費に直面したとき。掛け捨て型は保険料が安く選択肢も多いが、給付がないと保険料が無駄という心理的抵抗が根強い。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "money-insurance-review",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "ほけんのコスパ",
-    "expert_origin": true,
-    "search_query": "保険見直し 医療保険 掛け捨て 後悔 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-11T06:44:39+09:00",
    "validity_days": 14
   },
   {
