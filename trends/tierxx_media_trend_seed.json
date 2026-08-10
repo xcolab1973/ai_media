@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-10T06:59:36+0900",
+    "generated_at": "2026-08-10T13:13:33+0900",
     "record_count": 43,
-    "source_total_in_db": 807,
+    "source_total_in_db": 808,
     "provenance_breakdown": {
       "evidence": 513,
-      "pain_seed": 294
+      "pain_seed": 295
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_1e7e28e0a29e",
+      "trend_term": "ボトックス施術失敗",
+      "raw_title": "ブリトニー・スピアーズ、ボトックスの注入に失敗したと怒る 「医師には気をつけて」「誰も信用できない」 - ELLEgirl",
+      "summary": "著名人がボトックス注入の失敗を報告し、医師選びの重要性と患者の不安を言及。施術リスク認識の情報源となる。",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU2w4OVZiSFJRZlhxQ3RUbjg1R0p4MXlSOEc3QUZCSG16UXIybElBaHoyZk1VYTB0dkFKcllUTUViVmRWcy1UTkdkb1Q4dFRaT1Y2d043eThwd0xVUWRpbDNNdjU2UDktbnBhcUt4UHNqelQyalNiVklYOF9Ua0dJcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU2w4OVZiSFJRZlhxQ3RUbjg1R0p4MXlSOEc3QUZCSG16UXIybElBaHoyZk1VYTB0dkFKcllUTUViVmRWcy1UTkdkb1Q4dFRaT1Y2d043eThwd0xVUWRpbDNNdjU2UDktbnBhcUt4UHNqelQyalNiVklYOF9Ua0dJcw?oc=5",
+      "source_name": "ELLEgirl",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "opinion",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-24T13:13:13+0900",
+      "status": "candidate",
+      "created_at": "2026-08-10T13:13:13+0900"
+    },
     {
       "seed_id": "seed_8f8d5708bfd2",
       "trend_term": "美容外科医のSNS影響力",
@@ -623,24 +641,6 @@
       "valid_until": "2026-08-10T14:30:19+0900",
       "status": "candidate",
       "created_at": "2026-08-05T14:30:19+0900"
-    },
-    {
-      "seed_id": "seed_2e8c8e31804b",
-      "trend_term": "ボトックス適応拡大",
-      "raw_title": "アレルガン、ボトックスのフェイスラインへの適応拡大をFDAに申請 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "summary": "アレルガンがボトックスのフェイスライン適応拡大をFDAに申請。規制当局への正式申請という制度面での進展。",
-      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpVnFLRkFEODZuc2czYlRKeVdEMFE0blkzdUlIVXFaeUFXcGg4WEVsZk91QUtocG5QY2I0ZEZfQ05tdTljRFctR0JLcFVSUENiUzNySk5WdldYajRKNDZPbURFU3pIZHotZEt6UFVvbVE?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpVnFLRkFEODZuc2czYlRKeVdEMFE0blkzdUlIVXFaeUFXcGg4WEVsZk91QUtocG5QY2I0ZEZfQ05tdTljRFctR0JLcFVSUENiUzNySk5WdldYajRKNDZPbURFU3pIZHotZEt6UFVvbVE?oc=5",
-      "source_name": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-10T07:36:38+0900",
-      "status": "candidate",
-      "created_at": "2026-08-05T07:36:38+0900"
     },
     {
       "seed_id": "seed_c724f5535795",
