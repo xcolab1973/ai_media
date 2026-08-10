@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T23:07:00+09:00",
+  "generated_at": "2026-08-11T07:17:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,31 +17,30 @@
       "x_realtime": 10
     },
     "neg_excluded": 6,
-    "dedup_excluded": 11,
-    "passed_total": 115,
+    "dedup_excluded": 12,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
-      "news_web": 17,
+      "yahoo_realtime": 38,
       "google_trends": 10,
-      "x_realtime": 7,
-      "yahoo_news_ranking": 2
+      "news_web": 13,
+      "yahoo_news_ranking": 4,
+      "x_realtime": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 31,
-    "personal_story": 6,
+    "social_reaction": 30,
+    "personal_story": 5,
     "opinion": 10,
-    "policy": 4,
-    "hard_fact": 15,
-    "medical_science": 4
+    "policy": 3,
+    "hard_fact": 19,
+    "medical_science": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
+    "social_reaction": 30,
     "policy": 3,
-    "personal_story": 6,
-    "hard_fact": 21,
+    "personal_story": 5,
     "opinion": 10,
-    "medical_science": 2
+    "hard_fact": 22
   },
   "b2b_top10": [
     {
@@ -57,52 +56,52 @@
       "topic_category": "policy"
     },
     {
+      "title": "『テラリア』の人気大型Mod「Calamity Mod」、突如開発終了。管理者へ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "炎上って言うのをやめないかい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "防衛省、リチェルカセキュリティに指名停止措置　研究事業で水増し請求か",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "【速報】クマが牧場のヤギを襲撃か…牧場主「ヤギがいない」と通報、ドローン調査で近",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "井上康生氏 選手の不祥事注意喚起",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "八代地域 大潮での浸水や冠水注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_local",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ロト6当選番号",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "t-bolan",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "帰りの東北新幹線でカバンに電子タバコを隠し持って座席で吸ってる人がいて、車内はタ",
+      "title": "NEXT GENERATION PIONEER: Yamashita Shing",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "交通情報",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ドナウ川",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "nasdaq fang",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "アクアライン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "t シャツ が 乾く まで",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
@@ -113,31 +112,43 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "『テラリア』の人気大型Mod「Calamity Mod」、突如開発終了。管理者へ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "炎上って言うのをやめないかい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "帰りの東北新幹線でカバンに電子タバコを隠し持って座席で吸ってる人がいて、車内はタ",
+      "title": "NEXT GENERATION PIONEER: Yamashita Shing",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "成功したバブル世代や生き残った氷河期世代が会社のトップになりつつあるが、令和の今",
+      "title": "就職氷河期の頃、高学歴なのに低賃金のサービス業や派遣で能力を発揮した結果…そうし",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "温泉民宿でクソ客に当たり、心底この商売に嫌気が差してアホ臭くなり、本気で廃業を考",
+      "title": "日本人の海外旅行離れの要因、「リピーターがコロナ禍の前との価格差を受け入れられず",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "災害時の簡易的な給水やキャンプなどで手を洗う時におすすめ、自衛隊東京地方協力本部",
+      "title": "宅配業者から電話で「お荷物がお渡しできる状況でない程潰れてまして」と言われたので",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ユニクロで、この表示の値段に騙されたことある人は私だけじゃないはず→引っかかった",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -149,21 +160,9 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "各党支持率「自民党」35.0％ 「支持なし」39.0％ NHK世論調査 | NH",
+      "title": "災害時の簡易的な給水やキャンプなどで手を洗う時におすすめ、自衛隊東京地方協力本部",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ユニクロで、この表示の値段に騙されたことある人は私だけじゃないはず→引っかかった",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「プロデューサーはなぜ腕にフォークを巻いてるの」『映画ちいかわ 人魚の島のひみつ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
