@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-10T06:46:11+09:00",
- "valid_until": "2026-08-24T06:37:36+09:00",
+ "generated_at": "2026-08-10T16:53:10+09:00",
+ "valid_until": "2026-08-24T16:44:59+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "marketing",
   "from_current": 40,
-  "from_new": 3,
+  "from_new": 2,
   "expired_pruned": 0,
-  "retention_dropped": 3,
+  "retention_dropped": 2,
   "genres": 5,
   "retention_per_genre": 8
  },
@@ -258,6 +258,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "SNS運用代行の業務委託契約書の作り方・注意点まとめ",
+   "url": "https://carryme.jp/agent/contract-for-sns-marketing/",
+   "summary": "SNS運用代行の契約書では業務範囲・報酬条件・責任分担を明確化することがトラブル防止の鍵。キャンペーン投稿の承認フローや表記責任の所在があいまいなまま進めると、発注側・受注側どちらが法令違反の責任を負うか不明瞭になりやすい。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "marketing-sns",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "CARRY ME",
+    "expert_origin": false,
+    "search_query": "SNS運用代行 キャンペーン 案件 表記 注意点 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-15T16:44:59+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "インスタのステマ広告に消費者庁が初の措置命令！景品表示法の広告規制とは？",
    "url": "https://mktlaw.jp/contents/post-475/",
    "summary": "法律事務所による解説。ステマ規制違反事業者は消費者庁の措置命令を受け、広告表示の差し止めや再発防止策の策定が求められ、処分内容の公表でブランドイメージ低下・信用失墜につながり得る。SNSで第三者に発信を依頼する際は消費者が一目で広告と分かる表示が必要と指摘。",
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-12T16:45:31+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "ステルスマーケティング（ステマ）規制－インフルエンサー依頼の注意点",
-   "url": "https://hidetoshilawoffice.com/column/column-20260128/",
-   "summary": "弁護士事務所によるステマ規制の解説コラム。インフルエンサーへの依頼時に企業側が負う表示義務と法的リスクを法律専門家の視点から整理し、自社SNS運用が抵触しないための注意点を提示。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "marketing-sns",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "横田秀俊法律事務所",
-    "expert_origin": true,
-    "search_query": "ステマ規制 措置命令 2026 インフルエンサー SNS投稿 広告表示なし 自社 どうすれば",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-11T16:49:54+09:00",
    "validity_days": 5
   },
   {
@@ -978,6 +978,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "LP CVR 改善ガイド：アルゴリズムと行動経済学から「売れる理由」を整理する",
+   "url": "https://squadbeyond.com/blog/lp_cvr_kaizen/",
+   "summary": "同じ商材でもターゲット属性ごとに響く訴求軸は異なる（例：主婦層には時短、単身者には手軽さ）。生成AIで複数のキャッチコピー案を作りA/Bテストで検証する流れが一般化しており、訴求軸の出し分け設計が改善の鍵。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "marketing-copy",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "SQUAD BEYOND",
+    "expert_origin": true,
+    "search_query": "LP CVR改善 訴求軸 秋 キャンペーン コピーライティング 2026",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-24T16:44:59+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "「あ、これAIの文章ね」と一瞬で分かる秘密｜AI生成文章の見抜き方完全ガイド",
    "url": "https://note.com/nahouemura/n/n9e519ef21b17",
    "summary": "AI生成文章に読者が抱く「血の通っていない」違和感の正体を分析。文末の単調な繰り返しや接続詞の機械的な配置が原因とし、書き出しを自分の言葉に差し替える・口語表現を混ぜるなど人間味を足す具体策を提示。",
@@ -1184,36 +1214,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-16T16:47:06+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "事例でわかる 景品表示法 不当景品類及び不当表示防止法 ガイドブック",
-   "url": "https://www.caa.go.jp/policies/policy/representation/fair_labeling/pdf/fair_labeling_160801_0001.pdf",
-   "summary": "消費者庁による景品表示法の公式ガイドブック。『著しく』の判断基準や優良誤認・有利誤認の具体事例を提示。広告コピーで『無料』『No.1』等の表現を根拠なく使うと優良誤認に該当しうる点など、コピーライターが押さえるべき法的注意点を公式に解説。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "marketing-copy",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "消費者庁",
-    "expert_origin": true,
-    "search_query": "広告コピー 景品表示法 優良誤認 表現 注意点 2026",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-14T16:49:01+09:00",
    "validity_days": 14
   }
  ]
