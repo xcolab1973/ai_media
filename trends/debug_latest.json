@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T12:30:00+09:00",
+  "generated_at": "2026-08-10T18:01:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,39 +16,51 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 13,
-    "passed_total": 112,
+    "neg_excluded": 8,
+    "dedup_excluded": 8,
+    "passed_total": 116,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
-      "news_web": 17,
+      "yahoo_realtime": 31,
       "google_trends": 10,
-      "x_realtime": 5,
-      "yahoo_news_ranking": 2
+      "x_realtime": 9,
+      "news_web": 17,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 25,
-    "personal_story": 2,
+    "personal_story": 5,
+    "social_reaction": 31,
     "opinion": 10,
-    "hard_fact": 21,
-    "medical_science": 4,
-    "policy": 8
+    "policy": 6,
+    "hard_fact": 14,
+    "medical_science": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 25,
-    "hard_fact": 23,
+    "personal_story": 5,
+    "hard_fact": 22,
+    "policy": 5,
+    "social_reaction": 26,
     "opinion": 10,
-    "policy": 8,
-    "personal_story": 2,
     "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "このスタイルで診察室に入室してくる患者さんは、要注意だと思っている「ライブ配信さ",
+      "title": "炎上って言うのをやめないかい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "【速報】クマが牧場のヤギを襲撃か…牧場主「ヤギがいない」と通報、ドローン調査で近",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "「転売ヤーいないと経済回らない」どころか…メルカリ、出品規制・不正検知を強化して",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
     },
     {
       "title": "帰りの東北新幹線でカバンに電子タバコを隠し持って座席で吸ってる人がいて、車内はタ",
@@ -57,49 +69,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "熊本で35℃予想 熱中症に警戒を",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "X、収益プログラムを刷新　インプレゾンビを排除　条件厳しく",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "外国の人に電車を聞かれたので“Where do you want to go?”",
+      "title": "このスタイルで診察室に入室してくる患者さんは、要注意だと思っている「ライブ配信さ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "芸人はなぜ歌手や俳優に比べて薬物での不祥事が少ないのか？→第四世代以降は松本人志",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ドラマ10",
+      "title": "セルヒオ・ラモス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "日南学園 明徳義塾に劇的逆転勝ち",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_sports",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ミンギュ 兵役",
+      "title": "吉田輝星",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "伊集院光",
+      "title": "浜松 天気",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "レイラック滋賀fc",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ドバイワールドカップ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,10 +107,10 @@
   ],
   "note_top10": [
     {
-      "title": "このスタイルで診察室に入室してくる患者さんは、要注意だと思っている「ライブ配信さ",
+      "title": "炎上って言うのをやめないかい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
       "title": "帰りの東北新幹線でカバンに電子タバコを隠し持って座席で吸ってる人がいて、車内はタ",
@@ -119,49 +119,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "外国の人に電車を聞かれたので“Where do you want to go?”",
+      "title": "このスタイルで診察室に入室してくる患者さんは、要注意だと思っている「ライブ配信さ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "芸人はなぜ歌手や俳優に比べて薬物での不祥事が少ないのか？→第四世代以降は松本人志",
+      "title": "いわゆる大地主の息子で仕事経験ほぼゼロの近所のおっちゃんが、花火大会の夜は毎年、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "人事から「残業時間の管理の徹底を」という内容のメールが来たので、「人手不足の解消",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "娘が自動車学校の入校手続きで現金支払いを希望したが、「短大で色々お金がかかるから",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "同僚の犬の名前が「ポテト」だったんだが",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "隣の部屋から聞こえる喘ぎ声で起こされたので壁を蹴って「うるせえよ」と怒鳴ったら静",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ドイツ語が必要となり、学んで1年半になる…最初の半年で文法と単語の書籍を数十周し",
+      "title": "予約注文して時間ぴったりに店に到着→「お待ちください」→その後にお客さんが来店し",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
     },
     {
-      "title": "おまえらが出張先で缶ビール入れてるビジホのミニ冷蔵庫の正体について",
+      "title": "1000円の寿司が100円で買えたことを姉と姉の彼氏に自慢しに行ったら、セッ…し",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「歩いてたら変な人に絡まれました…」なか憲人さんのツイートが叙述トリックだとツッ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "こんなエラーメッセージを画面に出しちゃいかん！→親の顔くらい見るエラーだけど客が",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「高橋留美子先生と伊藤潤二先生が紅茶を飲みながら対談している」あまりにも濃い動画",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "カルチャーメディア Ethology;（エソロジー）",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
