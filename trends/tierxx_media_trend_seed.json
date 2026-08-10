@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-10T17:58:44+0900",
+    "generated_at": "2026-08-11T07:08:17+0900",
     "record_count": 42,
-    "source_total_in_db": 812,
+    "source_total_in_db": 814,
     "provenance_breakdown": {
       "evidence": 517,
-      "pain_seed": 295
+      "pain_seed": 297
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_d6085f6aa493",
+      "trend_term": "美容施術の依存リスク",
+      "raw_title": "美容施術経験者の5人に1人が依存リスク――SNSが美のゴールポストを動かす - ニコニコニュース",
+      "summary": "美容施術経験者の5人に1人が依存リスクを抱えており、SNSが美のスタンダードを変動させている現象について報告されている。",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6cE8zTnNVM3o0QWhqZ0l6cmd1eElMQkVVcHpnV2lDblc2ekdxOW9FbVF6cFZ1bjdCWlZlOVpMZy1jVWlqYktab2IxdmR3OHFfZGlTaFVlWFFwQ2luaFJkcEJ0VXJFUnd1cGtNbzZha3JWVGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6cE8zTnNVM3o0QWhqZ0l6cmd1eElMQkVVcHpnV2lDblc2ekdxOW9FbVF6cFZ1bjdCWlZlOVpMZy1jVWlqYktab2IxdmR3OHFfZGlTaFVlWFFwQ2luaFJkcEJ0VXJFUnd1cGtNbzZha3JWVGc?oc=5",
+      "source_name": "ニコニコニュース",
+      "monitor_id": "bm-sns-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-16T07:08:13+0900",
+      "status": "candidate",
+      "created_at": "2026-08-11T07:08:13+0900"
+    },
+    {
+      "seed_id": "seed_688394ee07eb",
+      "trend_term": "ボトックス施術失敗の実例",
+      "raw_title": "ブリトニー・スピアーズ、ボトックスの注入に失敗したと怒る 「医師には気をつけて」「誰も信用できない」 (ELLEgirl) - Yahoo!ニュース",
+      "summary": "有名人がボトックス注入の失敗を公表し、医師選びの重要性と医療機関への不信感を指摘。施術リスク認知の生の声。",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQmpsVXZlN19KOWROZ3RJVFpuTUtxLVRiUjdWN2E4QWtCZ3FvUG1DZ1lPazByMkg2MkdhRkN0TTJJd0VFSW5aUi1hM2hMSFd3RVBmS21LQ1k1cGdjT2JKay1Rb2FyeXZmVW1YLXBjcFg5N0NIeHpSR1ZMVURaVHlXNE1BQlh3VG81Nk9lc3ln?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQmpsVXZlN19KOWROZ3RJVFpuTUtxLVRiUjdWN2E4QWtCZ3FvUG1DZ1lPazByMkg2MkdhRkN0TTJJd0VFSW5aUi1hM2hMSFd3RVBmS21LQ1k1cGdjT2JKay1Rb2FyeXZmVW1YLXBjcFg5N0NIeHpSR1ZMVURaVHlXNE1BQlh3VG81Nk9lc3ln?oc=5",
+      "source_name": "Yahoo!ニュース",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "opinion",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-16T07:07:54+0900",
+      "status": "candidate",
+      "created_at": "2026-08-11T07:07:54+0900"
+    },
     {
       "seed_id": "seed_1b08425d73d8",
       "trend_term": "銀座新規開院",
@@ -587,42 +623,6 @@
       "valid_until": "2026-08-11T07:35:45+0900",
       "status": "candidate",
       "created_at": "2026-08-06T07:35:45+0900"
-    },
-    {
-      "seed_id": "seed_1ff926ac8c48",
-      "trend_term": "医学的信頼性の可視化",
-      "raw_title": "TCB東京中央美容外科の寺西宏王理事長が、東邦大学医学部 形成外科学講座の客員准教授に就任しました - 時事メディカル",
-      "summary": "TCB東京中央美容外科の寺西宏王理事長が東邦大学医学部形成外科学講座の客員准教授に就任。美容医療機関の学術的位置づけの事例。",
-      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tLVllV08zMGdVMWc3NXFkY0NlU1ZUNzliQkR0VnlZbW0xc29FdWZOR0hEX0tlV3NxSG1hcngtSFQybnBhcm1Xa2o3M2p0ZERL0gFWQVVfeXFMTm5Ja2VESW84Vm9TeTNSNFRzejFibUcyOUw5MEx0X2M0MzVqT2lvME42VkZNc1B1MmlFSXBzajI1RW5MOURVOUxlUG1jNEk5WEgzWFZGOXc?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tLVllV08zMGdVMWc3NXFkY0NlU1ZUNzliQkR0VnlZbW0xc29FdWZOR0hEX0tlV3NxSG1hcngtSFQybnBhcm1Xa2o3M2p0ZERL0gFWQVVfeXFMTm5Ja2VESW84Vm9TeTNSNFRzejFibUcyOUw5MEx0X2M0MzVqT2lvME42VkZNc1B1MmlFSXBzajI1RW5MOURVOUxlUG1jNEk5WEgzWFZGOXc?oc=5",
-      "source_name": "時事メディカル",
-      "monitor_id": "bm-sns-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-10T19:09:18+0900",
-      "status": "candidate",
-      "created_at": "2026-08-05T19:09:18+0900"
-    },
-    {
-      "seed_id": "seed_339f08a0aaa2",
-      "trend_term": "医療リソース配分の政策転換",
-      "raw_title": "韓国のように医療スタッフが美容などの非保険診療に集中する現象を改善するため、日本当局が対策を講じているという。 - 매일경제",
-      "summary": "日本当局が、医療スタッフの非保険診療（美容医療など）への集中を改善するための対策を講じている。",
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGZm1kR1JvYjRvRHI0cnVUVlVsZGRWQjU3SEpYZnZ0ZTFyOG5panhzdEdqaTF4SWFfMndPUzJhNkM0NkZSVFotZkxIR1c1NW8?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGZm1kR1JvYjRvRHI0cnVUVlVsZGRWQjU3SEpYZnZ0ZTFyOG5panhzdEdqaTF4SWFfMndPUzJhNkM0NkZSVFotZkxIR1c1NW8?oc=5",
-      "source_name": "매일경제",
-      "monitor_id": "bm-safety-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-10T19:09:07+0900",
-      "status": "candidate",
-      "created_at": "2026-08-05T19:09:07+0900"
     },
     {
       "seed_id": "seed_c724f5535795",
