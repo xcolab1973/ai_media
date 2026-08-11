@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-11T07:08:17+0900",
-    "record_count": 42,
-    "source_total_in_db": 814,
+    "generated_at": "2026-08-11T13:00:55+0900",
+    "record_count": 41,
+    "source_total_in_db": 815,
     "provenance_breakdown": {
-      "evidence": 517,
+      "evidence": 518,
       "pain_seed": 297
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_359aa580f3cc",
+      "trend_term": "抗酸化スキンブースター新製品",
+      "raw_title": "グローバルメディカルエステの先導企業であるクラシス(代表執行委員ユン·ジュンオ)は、独自技術基盤の抗酸化スキンブースター「シュリンクユニバースビリーロビンアンプル」を発売したと10日、明らかにした。今.. - 매일경제",
+      "summary": "グローバルメディカルエステ企業クラシスが抗酸化スキンブースター製品を発売。独自技術基盤の新製品として報道された。",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aUDhIcTNnOE5rYlU2YTNlcXNsYm96N0pXejVoNnY0MEFDY2ZZdXJoQThpUnFpeXFJR1pUVGFqbXNGSi1FaE5YWFBpQlp0UQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aUDhIcTNnOE5rYlU2YTNlcXNsYm96N0pXejVoNnY0MEFDY2ZZdXJoQThpUnFpeXFJR1pUVGFqbXNGSi1FaE5YWFBpQlp0UQ?oc=5",
+      "source_name": "매일경제",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-16T13:00:34+0900",
+      "status": "candidate",
+      "created_at": "2026-08-11T13:00:34+0900"
+    },
     {
       "seed_id": "seed_d6085f6aa493",
       "trend_term": "美容施術の依存リスク",
@@ -587,42 +605,6 @@
       "valid_until": "2026-08-11T14:33:10+0900",
       "status": "candidate",
       "created_at": "2026-08-06T14:33:10+0900"
-    },
-    {
-      "seed_id": "seed_9dd227d151ee",
-      "trend_term": "未熟医師による施術トラブル",
-      "raw_title": "美容医療界で増える｢直美｣問題はどこにあるのか ｢未熟な医師の施術｣がトラブルの大きな要因に - toyokeizai.net",
-      "summary": "美容医療業界で未熟な医師による施術がトラブルの主要因として指摘されている。患者の安全性に関わる実態問題。",
-      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXbTJZV1dZeHpscnBROEptYXVabnhMemUyVTRlRXBrSUVSLVExZHpKZW5pT2lWZHgxenk4X3JYUmh2cFl6TDEzaUpaRjFqSU5Eemc?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXbTJZV1dZeHpscnBROEptYXVabnhMemUyVTRlRXBrSUVSLVExZHpKZW5pT2lWZHgxenk4X3JYUmh2cFl6TDEzaUpaRjFqSU5Eemc?oc=5",
-      "source_name": "toyokeizai.net",
-      "monitor_id": "bm-safety-news",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-11T07:35:57+0900",
-      "status": "candidate",
-      "created_at": "2026-08-06T07:35:57+0900"
-    },
-    {
-      "seed_id": "seed_8580d432587d",
-      "trend_term": "ヒアルロン酸注入の人気部位",
-      "raw_title": "ヒアルロン酸注入の人気部位、1位は「顎」で27.8%--症例3,500件の実データ分析【レナトゥスクリニック調べ】 - excite.co.jp",
-      "summary": "ヒアルロン酸注入の人気部位は「顎」が27.8%で1位。3,500件の実データ分析による調査結果。",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fZWxiM3o2NUNfd3VvdHlSNS14dFoxaTdYc2E3NHY5dDVnQ3d5SVJVSUdqMVMyY1JsZzRPNFl0RDF6Q3RFSzJ0RGZHYzRfZm93Y0NlWEN2ZmktMWhwTWx6UXloaUwwTGlNaXpZdlNDOHpCWDQ?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fZWxiM3o2NUNfd3VvdHlSNS14dFoxaTdYc2E3NHY5dDVnQ3d5SVJVSUdqMVMyY1JsZzRPNFl0RDF6Q3RFSzJ0RGZHYzRfZm93Y0NlWEN2ZmktMWhwTWx6UXloaUwwTGlNaXpZdlNDOHpCWDQ?oc=5",
-      "source_name": "excite.co.jp",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-11T07:35:45+0900",
-      "status": "candidate",
-      "created_at": "2026-08-06T07:35:45+0900"
     },
     {
       "seed_id": "seed_c724f5535795",
