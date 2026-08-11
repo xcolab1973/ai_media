@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T23:07:00+09:00",
+  "generated_at": "2026-08-12T07:22:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,35 +17,39 @@
       "x_realtime": 10
     },
     "neg_excluded": 6,
-    "dedup_excluded": 9,
-    "passed_total": 117,
+    "dedup_excluded": 7,
+    "passed_total": 119,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
-      "x_realtime": 8,
+      "yahoo_realtime": 38,
+      "x_realtime": 9,
+      "news_web": 8,
       "google_trends": 10,
-      "news_web": 13,
-      "yahoo_news_ranking": 3
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
-    "medical_science": 6,
-    "personal_story": 1,
+    "social_reaction": 35,
     "opinion": 10,
+    "medical_science": 6,
     "hard_fact": 18,
-    "policy": 3
+    "policy": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 32,
+    "social_reaction": 35,
+    "hard_fact": 20,
     "opinion": 10,
     "medical_science": 4,
-    "hard_fact": 20,
-    "policy": 3,
-    "personal_story": 1
+    "policy": 1
   },
   "b2b_top10": [
     {
       "title": "一昔前、お土産屋さんで買い物をして2000円札を出したら、「全然足りませんよ」と",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "元セクシー女優がグリーン車に乗っていたら、イヤホンなしで爆音の映画を観て、話し声",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -57,10 +61,10 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "【苦言】「無料のタクシー感覚」山岳救助隊が頭を抱える“2度遭難”の実態　世界的登",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "あざとくて何が悪いの? 9月終了",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     },
     {
       "title": "使い続けているモノ｜高木俊輔 Shunsuke Takagi",
@@ -69,37 +73,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "どうして「表現の自由を弾圧する自由」から逃げるのか分からなくて",
+      "title": "炎天下の建設現場「休んだら収入減」　夏季休工に募る不安 - 日本経済新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "デスクワークがつまらなくて始めたクレープ屋のバイト、お客さんの目につくところで2",
+      "title": "thời tiết",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "朝5時の池袋はそこら中に人が転がっていて四足歩行してる人なんかもいて良い街だと感",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "全国中学校 サッカー大会",
+      "title": "金沢 天気",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "小野花梨",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ハヨン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "勝俣州和",
+      "title": "南日本放送",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,15 +111,15 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "グリーン車に乗っていたら、座席に足をのせたままイヤホンなしで映画を爆音再生し、笑",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "元セクシー女優がグリーン車に乗っていたら、イヤホンなしで爆音の映画を観て、話し声",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【苦言】「無料のタクシー感覚」山岳救助隊が頭を抱える“2度遭難”の実態　世界的登",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "グリーン車に乗っていたら、座席に足をのせたままイヤホンなしで映画を爆音再生し、笑",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -131,19 +129,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "どうして「表現の自由を弾圧する自由」から逃げるのか分からなくて",
+      "title": "炎天下の建設現場「休んだら収入減」　夏季休工に募る不安 - 日本経済新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "デスクワークがつまらなくて始めたクレープ屋のバイト、お客さんの目につくところで2",
+      "title": "朝5時の池袋はそこら中に人が転がっていて四足歩行してる人なんかもいて良い街だと感",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "義母がキッチンにあるWi-Fiルーターを見て「この電磁波って健康に問題ないの？」",
+      "title": "アメリカ人から「お盆って何？」と聞かれ、「年に一度、死んだご先祖様が家に帰ってく",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "映画「ちいかわ」特典の島二郎のボンボンドロップシール、よく見たらズレ方がセンシテ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -155,13 +159,7 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "スイス在住者が日本に一時帰国中に眼科・歯科・皮膚科など、ありとあらゆるクリニック",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "たぶん、あと20年ぐらいしたらアッツ島玉砕とか731部隊とか関東大震災の朝鮮人虐",
+      "title": "武井壮さんの「皆さんが思う全国の餃子でここが最強！！を教えてください」との呼びか",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
