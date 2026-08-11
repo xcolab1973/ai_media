@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T07:17:00+09:00",
+  "generated_at": "2026-08-11T12:22:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,89 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
+    "neg_excluded": 5,
     "dedup_excluded": 12,
-    "passed_total": 114,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 38,
+      "yahoo_realtime": 34,
       "google_trends": 10,
-      "news_web": 13,
-      "yahoo_news_ranking": 4,
-      "x_realtime": 5
+      "x_realtime": 8,
+      "news_web": 15,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
     "social_reaction": 30,
-    "personal_story": 5,
-    "opinion": 10,
-    "policy": 3,
-    "hard_fact": 19,
-    "medical_science": 3
+    "opinion": 9,
+    "personal_story": 1,
+    "medical_science": 4,
+    "hard_fact": 21,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
     "social_reaction": 30,
-    "policy": 3,
-    "personal_story": 5,
-    "opinion": 10,
-    "hard_fact": 22
+    "hard_fact": 22,
+    "opinion": 9,
+    "medical_science": 2,
+    "policy": 6,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "あらゆる娯楽のなかで『海水浴』がこんなに早く衰退するとは、誰が想像したのか…「だ",
+      "title": "どうして「表現の自由を弾圧する自由」から逃げるのか分からなくて",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「転売ヤーいないと経済回らない」どころか…メルカリ、出品規制・不正検知を強化して",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "『テラリア』の人気大型Mod「Calamity Mod」、突如開発終了。管理者へ",
+      "title": "使い続けているモノ｜高木俊輔 Shunsuke Takagi",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "炎上って言うのをやめないかい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "NEXT GENERATION PIONEER: Yamashita Shing",
+      "title": "ご飯屋さんでカードの支払い回数を聞かれて「一括で」と言ったら「10回？！何回です",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "交通情報",
+      "title": "rizin 速報",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "マクドナルド",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ドナウ川",
+      "title": "三浦雄一郎",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "nasdaq fang",
+      "title": "近所の70代経営者がいまだに17万/月で募集をかけて「優秀な人材が来ない」「私の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "百田夏菜子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "アクアライン",
+      "title": "久保井朝美",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "t シャツ が 乾く まで",
+      "title": "登坂絵莉",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,63 +107,63 @@
   ],
   "note_top10": [
     {
-      "title": "あらゆる娯楽のなかで『海水浴』がこんなに早く衰退するとは、誰が想像したのか…「だ",
+      "title": "どうして「表現の自由を弾圧する自由」から逃げるのか分からなくて",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『テラリア』の人気大型Mod「Calamity Mod」、突如開発終了。管理者へ",
+      "title": "使い続けているモノ｜高木俊輔 Shunsuke Takagi",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "炎上って言うのをやめないかい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "NEXT GENERATION PIONEER: Yamashita Shing",
+      "title": "ご飯屋さんでカードの支払い回数を聞かれて「一括で」と言ったら「10回？！何回です",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "就職氷河期の頃、高学歴なのに低賃金のサービス業や派遣で能力を発揮した結果…そうし",
+      "title": "武井壮さんの「皆さんが思う全国の餃子でここが最強！！を教えてください」との呼びか",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "フードコートで1歳の息子の食事が済んで弁当箱を片付け、自分のご飯を食べようと思っ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "近所の70代経営者がいまだに17万/月で募集をかけて「優秀な人材が来ない」「私の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本人の海外旅行離れの要因、「リピーターがコロナ禍の前との価格差を受け入れられず",
+      "title": "この間「服についた血はどうすればいいんだろう」と悩む男性を見かけて、そうか男性は",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "JAXAが「H3」ロケット打ち上げ成功　日本版GPS衛星搭載、世界に挑む - 日",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "宅配業者から電話で「お荷物がお渡しできる状況でない程潰れてまして」と言われたので",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "アフガニスタンで、タリバンのおっちゃんに「こっち検問所やから写真ダメやで」と言わ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ユニクロで、この表示の値段に騙されたことある人は私だけじゃないはず→引っかかった",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "料理レシピでよく見る表現「夫が絶賛したレシピ」になぜモヤッとするのか…長谷川あか",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "災害時の簡易的な給水やキャンプなどで手を洗う時におすすめ、自衛隊東京地方協力本部",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "ディズニーホテルのロビーで息子にアニメを見せていたとき、アナとエルサの仮装の小学",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
