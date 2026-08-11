@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-08-11T19:44:37+09:00",
+ "generated_at": "2026-08-12T06:45:31+09:00",
  "valid_until": "2026-08-25T06:43:42+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "money",
- "total_count": 52,
+ "total_count": 54,
  "merge": {
   "parent": "money",
   "from_current": 52,
   "from_new": 2,
-  "expired_pruned": 2,
+  "expired_pruned": 0,
   "retention_dropped": 0,
   "genres": 8,
   "retention_per_genre": 8
@@ -195,6 +195,36 @@
    },
    "valid_until": "2026-08-12T16:46:01+09:00",
    "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "【2026年10月改正】ふるさと納税は9月までにすべき？影響する返礼品と寄付判断",
+   "url": "https://dp-invest.hateblo.jp/entry/furusato-tax-reform-2026",
+   "summary": "10月の改正を前に「9月までに寄付すべきか」を悩む個人ブログ視点の判断メモ。全員が急ぐ必要はないが、決めた返礼品がある人は駆け込みを検討という角度。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "money-tax-individual",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "個人ブログ（ポイント投資の攻略ブログ）",
+    "expert_origin": false,
+    "search_query": "ふるさと納税 6割ルール 2026年10月 改正 駆け込み 寄付 いつまで",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-19T06:36:41+09:00",
+   "validity_days": 7
   },
   {
    "source_category": "news_web",
@@ -495,6 +525,36 @@
    },
    "valid_until": "2026-08-13T16:48:19+09:00",
    "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "【税制改正大綱】貸付用不動産の評価方法見直しで、相続税対策はどうなる？",
+   "url": "https://fpj.members.jafp.or.jp/column/trendwatch/6308",
+   "summary": "2027年1月以後の相続から、相続開始前5年以内に取得した貸付用不動産は通常の取引価額に近い評価となる改正を解説。不動産投資による相続節税スキームの見直しが必要な読者向け。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "money-realestate-invest",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "FP Journal Online（日本FP協会）",
+    "expert_origin": true,
+    "search_query": "貸付用不動産 相続税評価 見直し 2027年 節税スキーム 使えない",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-19T06:36:41+09:00",
+   "validity_days": 7
   },
   {
    "source_category": "news_web",
