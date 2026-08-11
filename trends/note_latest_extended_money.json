@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T06:45:32+09:00",
+ "generated_at": "2026-08-11T19:44:37+09:00",
  "valid_until": "2026-08-25T06:43:42+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "money",
   "from_current": 52,
-  "from_new": 1,
-  "expired_pruned": 1,
+  "from_new": 2,
+  "expired_pruned": 2,
   "retention_dropped": 0,
   "genres": 8,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "【2026年度から】暗号資産（仮想通貨）の税制改正はどうなる？過去の事例も解説",
+   "url": "https://coincheck.com/ja/article/654",
+   "summary": "現行制度では暗号資産の利益は総合課税の雑所得で他の金融資産と損益通算不可・繰越控除もできない。改正後は特定暗号資産同士の損益通算は可能になる見込みだが、株式や給与所得との通算は引き続き不可。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "official_instruction",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "money-crypto",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Coincheck",
+    "expert_origin": true,
+    "search_query": "暗号資産 損益通算 できない 2026年 改正 対策",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-16T19:35:26+09:00",
+   "validity_days": 5
+  },
   {
    "source_category": "news_web",
    "raw_title": "暗号資産（仮想通貨）の税金未納はバレないは本当？無申告がバレたときのペナルティについて解説",
@@ -164,36 +194,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-12T16:46:01+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "仮想通貨は無申告だとバレる。本当でしょうか？ - 実際は9割は無...",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12307953462",
-   "summary": "無申告でも本当に税務署にバレるのか、周囲は申告していない人が多いのではという生の疑問。申告義務への不安と「みんなやっていないのでは」という空気感が交錯する典型的な生ペイン。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "money-crypto",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "仮想通貨 確定申告 バレる 損益通算 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-11T16:49:58+09:00",
    "validity_days": 5
   },
   {
@@ -494,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-13T16:48:19+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "夏のエアコン・電気代を去年よりダウンさせる10の方法！",
-   "url": "https://sds-ac.jp/howto/%E5%A4%8F%E3%81%AE%E3%82%A8%E3%82%A2%E3%82%B3%E3%83%B3%E3%83%BB%E9%9B%BB%E6%B0%97%E4%BB%A3%E3%82%92%E5%8E%BB%E5%B9%B4%E3%82%88%E3%82%8A%E3%83%80%E3%82%A6%E3%83%B3%E3%81%95%E3%81%9B%E3%82%8B%EF%BC%91/",
-   "summary": "冷房28℃設定やサーキュレーター併用、フィルター掃除など我慢せずに夏のエアコン電気代を下げる具体策を整理。補助金終了後も続けられる恒久的な節約習慣として紹介。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "money-saving-household",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "SDS-AC",
-    "expert_origin": false,
-    "search_query": "夏 電気代 高い エアコン 我慢せず 節約 方法",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-11T16:46:17+09:00",
    "validity_days": 14
   },
   {
@@ -1155,6 +1125,36 @@
    },
    "valid_until": "2026-08-20T16:49:58+09:00",
    "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "介護施設の食費・居住費が2026年8月から値上げ｜補足給付（特定入所者介護サービス費）の対象者・申請方法",
+   "url": "https://hojyokin-portal.jp/columns/tokutei_nyushosha_kaigo",
+   "summary": "補足給付の対象者要件・申請方法を解説。低所得の親を施設に預ける家族が、8月からの負担増に気づかず放置してしまうリスクや、対象者判定（所得・預貯金要件）の考え方を整理している。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "money-subsidy-senior",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "補助金ポータル",
+    "expert_origin": false,
+    "search_query": "介護保険 補足給付 引き上げ 2026年8月 負担増 いくら",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-18T19:35:26+09:00",
+   "validity_days": 7
   },
   {
    "source_category": "news_web",

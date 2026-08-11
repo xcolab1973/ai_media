@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T06:45:32+09:00",
+ "generated_at": "2026-08-11T19:44:37+09:00",
  "valid_until": "2026-08-25T06:35:26+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "marketing",
   "from_current": 40,
-  "from_new": 3,
+  "from_new": 2,
   "expired_pruned": 0,
-  "retention_dropped": 3,
+  "retention_dropped": 2,
   "genres": 5,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "Googleビジネスプロフィールでのネガティブな口コミへの対策と正しい削除申請手順",
+   "url": "https://www.kwm.co.jp/blog/how-to-remove-negative-reviews-from-your-google-business-profile/",
+   "summary": "ガイドライン違反の口コミは削除申請できるが、どんな悪評でも削除されるわけではなく「明確にポリシー違反」と判断されたものだけが対象。事実関係に意見の相違がある口コミにGoogleは関与しない。ユーザーの受け取り方に依拠する口コミは削除できないため、丁寧な返信で閲覧者の信頼を得る工夫が必要。削除業者への依頼は弁護士法抵触リスクもある。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "marketing-web",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "キーワードマーケティング",
+    "expert_origin": true,
+    "search_query": "口コミ対策 悪い口コミ 削除できない 事業者 相談 Googleビジネスプロフィール",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": true,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-16T19:38:16+09:00",
+   "validity_days": 5
+  },
   {
    "source_category": "news_web",
    "raw_title": "リスティング広告の成果が出ないときに見直したい9の原因と解決策",
@@ -228,24 +258,24 @@
   },
   {
    "source_category": "news_web",
-   "raw_title": "【2026年最新】AI Overview SEO対策 完ガイド｜CTR激減時代にAIに選ばれる新戦略と実践チェックリスト",
-   "url": "https://keywordfinder.jp/blog/seo50_aio_seo/",
-   "summary": "AI Overview表示クエリで検索1位ページのCTRが予測3.7%から実績1.6%へ約58%低下したという調査値を紹介。結論先出しの文章構造やコンテンツクラスター化で引用回数が3か月で1.5倍になった事例も挙げるが、算出根拠は非公開で数値は要検証。類似の対策リスト記事が乱立気味。",
+   "raw_title": "【2026年3月改正】医療広告ガイドライン要点まとめ—SNS・未承認薬・誇大表現の新基準",
+   "url": "https://miraikyoso.com/medical-ad-gl-2026-revision-clinic-guide/",
+   "summary": "2026年3月に医療広告ガイドラインが改正され、YouTubeやInstagramの動画コンテンツ（治療風景・ドクター解説動画）にも適用範囲が明確化。SNS上でインフルエンサーの個人的感想でも、商品名が特定でき購買意欲を刺激する内容なら広告とみなされうる点、未承認薬・誇大表現のNG基準が整理された。クリニック等のSNS広告運用者に実務影響大。",
    "signal_type": "trend",
    "engagement_signal": false,
    "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
+   "preliminary_claim_type": "hard_fact",
    "relevance_to_niche": "high",
    "topic_category": null,
-   "primary_genre": "marketing-web",
+   "primary_genre": "marketing-sns",
    "karte_matched_category": null,
    "karte_aligned": false,
    "account_id": "default",
    "origin": "pre_collector_extended",
    "provenance": {
-    "source_name": "keywordfinder.jp（SEO専門メディア）",
-    "expert_origin": false,
-    "search_query": "AI Overview 検索流入 減少 SEO対策 2026",
+    "source_name": "番頭代行（合同会社未来共創機構）",
+    "expert_origin": true,
+    "search_query": "SNS広告 薬機法 表現規制 誇大広告 事業者 注意点 2026",
     "freshness": "fresh",
     "integrity_warning": null,
     "provenance_kind": "evidence",
@@ -253,7 +283,7 @@
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-08-12T16:45:31+09:00",
+   "valid_until": "2026-08-16T19:38:16+09:00",
    "validity_days": 5
   },
   {
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-13T06:39:44+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "【2026年版】インフルエンサーマーケティングの炎上リスク回避術｜ステマ規制・AI・薬機法への最新対応",
-   "url": "https://www.elplanning.co.jp/column/digital_risk_measures/influencer-marketing/",
-   "summary": "2026年のインフルエンサー起用では、実在しないAI/バーチャルインフルエンサーの起用が増え、人格運用特有の新たな炎上リスクが表面化していると指摘。ステマ規制・薬機法対応に加え、AI活用時の事前確認体制の必要性を解説。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "marketing-sns",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "株式会社エルプランニング",
-    "expert_origin": true,
-    "search_query": "秋 SNSマーケティング インフルエンサー起用 炎上リスク 対策 2026",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-12T16:45:31+09:00",
    "validity_days": 5
   },
   {
