@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T12:22:00+09:00",
+  "generated_at": "2026-08-11T17:38:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,32 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 12,
-    "passed_total": 115,
+    "neg_excluded": 4,
+    "dedup_excluded": 10,
+    "passed_total": 118,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
+      "yahoo_realtime": 32,
       "google_trends": 10,
-      "x_realtime": 8,
-      "news_web": 15,
-      "yahoo_news_ranking": 3
+      "x_realtime": 9,
+      "news_web": 17,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
     "social_reaction": 30,
+    "personal_story": 2,
     "opinion": 9,
-    "personal_story": 1,
-    "medical_science": 4,
-    "hard_fact": 21,
-    "policy": 5
+    "medical_science": 7,
+    "hard_fact": 19,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
-    "hard_fact": 22,
+    "social_reaction": 28,
     "opinion": 9,
-    "medical_science": 2,
-    "policy": 6,
-    "personal_story": 1
+    "hard_fact": 22,
+    "personal_story": 2,
+    "medical_science": 5,
+    "policy": 4
   },
   "b2b_top10": [
     {
@@ -57,49 +57,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ご飯屋さんでカードの支払い回数を聞かれて「一括で」と言ったら「10回？！何回です",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "ヤクルト 対 広島",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "rizin 速報",
+      "title": "楽天 対 オリックス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "韓国総合株価指数",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "hard_fact"
     },
     {
-      "title": "マクドナルド",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "三浦雄一郎",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "近所の70代経営者がいまだに17万/月で募集をかけて「優秀な人材が来ない」「私の",
+      "title": "ウーバーの件で自宅の銃が押収され、その中のモデルガンが科捜研に送られて再度警察か",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "百田夏菜子",
+      "title": "「社名でてる！社名でてますよ！！」就職氷河期時代、新卒時に常駐したメーカーは下請",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "日本ハムファイターズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "久保井朝美",
+      "title": "ドラゴンズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "登坂絵莉",
+      "title": "多摩川競艇",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -119,49 +119,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ご飯屋さんでカードの支払い回数を聞かれて「一括で」と言ったら「10回？！何回です",
+      "title": "ウーバーの件で自宅の銃が押収され、その中のモデルガンが科捜研に送られて再度警察か",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "武井壮さんの「皆さんが思う全国の餃子でここが最強！！を教えてください」との呼びか",
+      "title": "「社名でてる！社名でてますよ！！」就職氷河期時代、新卒時に常駐したメーカーは下請",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "フードコートで1歳の息子の食事が済んで弁当箱を片付け、自分のご飯を食べようと思っ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "近所の70代経営者がいまだに17万/月で募集をかけて「優秀な人材が来ない」「私の",
+      "title": "『映画ちいかわ 人魚の島のひみつ』を見て思った、プロット評価の基準について - ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "この間「服についた血はどうすればいいんだろう」と悩む男性を見かけて、そうか男性は",
+      "title": "温泉民宿がお客さんを「敵」と考えてしまう発言で話題を呼んだが、その後Google",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "JAXAが「H3」ロケット打ち上げ成功　日本版GPS衛星搭載、世界に挑む - 日",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "アフガニスタンで、タリバンのおっちゃんに「こっち検問所やから写真ダメやで」と言わ",
+      "title": "うちの畑や国道沿いの法面を荒らしまくってたイノシシがいたが、砕けたバンパーが見つ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ディズニーホテルのロビーで息子にアニメを見せていたとき、アナとエルサの仮装の小学",
+      "title": "eラーニングの受講を義務付けられているとき、もう我慢できないと思ってしまう瞬間い",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "プールで友達と何時間もぶっ続けで遊んだ後に「トイレ行こう」と誘われたので「私はい",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "サイゼのつけ麺キメてたら隣の席のレディがソーセージピザのソーセージをミラノ風ドリ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
