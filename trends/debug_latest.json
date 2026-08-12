@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T12:50:00+09:00",
+  "generated_at": "2026-08-12T17:52:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,54 +16,48 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 14,
-    "passed_total": 110,
+    "neg_excluded": 15,
+    "dedup_excluded": 8,
+    "passed_total": 109,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
-      "news_web": 20,
+      "yahoo_realtime": 33,
       "google_trends": 10,
-      "yahoo_news_ranking": 2,
-      "x_realtime": 3
+      "news_web": 18,
+      "x_realtime": 7,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
+    "social_reaction": 34,
     "personal_story": 1,
-    "medical_science": 5,
     "opinion": 10,
-    "hard_fact": 25,
-    "policy": 1
+    "medical_science": 4,
+    "hard_fact": 19,
+    "policy": 2
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
-    "medical_science": 3,
-    "hard_fact": 27,
-    "personal_story": 1,
+    "social_reaction": 32,
     "opinion": 10,
-    "policy": 1
+    "hard_fact": 22,
+    "medical_science": 3,
+    "personal_story": 1,
+    "policy": 2
   },
   "b2b_top10": [
     {
-      "title": "日本の個室トイレが混雑する原因は「居心地が良すぎる」ことだと思う…アメリカのトイ",
+      "title": "写真を撮っていて新幹線に乗り遅れた親子が動き出していた車両を止めた件に「誰にでも",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "深夜にハーブガーデンの駐車場で許可なくBBQを行う事案が発生し、男性1名と女性2",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "ゴールキーパー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "高市首相が贈ったメロン巡り、オーストラリア首相の発言が炎上 | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "熱帯低気圧 広い範囲で大雨に注意",
+      "title": "FA人的補償廃止 今オフ見送りへ",
       "source_category": "news_web",
       "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
@@ -81,39 +75,39 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "ムーキー・ベッツ",
+      "title": "バンド 観客 怪我",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "甲子園 順延",
+      "title": "浅田真央",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "レバノンが死刑廃止 中東で初",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_world",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "イベントであるコスプレイヤーが体調不良でダウンし、涼しい喫茶店に避難してお茶を奢",
+      "title": "初めて来た蕎麦屋で「まずはお塩をつけてお召し上がりください」と言われたが、店員の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "中学受験",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "野村勇",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "日本の個室トイレが混雑する原因は「居心地が良すぎる」ことだと思う…アメリカのトイ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "深夜にハーブガーデンの駐車場で許可なくBBQを行う事案が発生し、男性1名と女性2",
+      "title": "写真を撮っていて新幹線に乗り遅れた親子が動き出していた車両を止めた件に「誰にでも",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,43 +119,49 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "イベントであるコスプレイヤーが体調不良でダウンし、涼しい喫茶店に避難してお茶を奢",
+      "title": "初めて来た蕎麦屋で「まずはお塩をつけてお召し上がりください」と言われたが、店員の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "イギリスに両親が来たとき日本語ガイド付きツアーを頼んだら、現地ガイドがほとんど日",
+      "title": "「仏壇のお供えものが暑さですぐに傷んでしまうので…」近所のひとり暮らし高齢者の間",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「踊る大捜査線」スピンオフ中止の裏側 主演･佐藤二朗の“排除”では片づけられない",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "生ハムの原木を貰ったが、思ったより賞味期限が短く、薄切りにして年配のご近所におす",
+      "title": "セリアで売っているマジカルフラッシュコンパクトを塗装する大人の遊びが兄妹そろって",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ゴールキーパー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "会話中に上の空になる人は「知性が高い」、脳のリソースを思考に割く心理学的背景 |",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "『VIVANT』視聴率下降続く背景を考える #エキスパートトピ（武井保之） - ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ワンピースカードの店舗大会で優勝するも、なりすまし犯に優勝を辞退したことにされて",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "高校演劇で台本を使いたいというDMが顧問の先生から匿名で送られてきた…一切名乗ら",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "みんな何にそんなお金使ってんの？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "宇多丸　デートで映画に行くべきでない理由を語る",
+      "title": "映画ちいかわと宇多丸のせいで振られそうとか被害者ぶってる元カレへ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
