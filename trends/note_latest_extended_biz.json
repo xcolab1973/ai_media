@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T06:45:31+09:00",
+ "generated_at": "2026-08-12T16:53:06+09:00",
  "valid_until": "2026-08-24T06:36:25+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "biz",
   "from_current": 18,
-  "from_new": 0,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 0,
+  "retention_dropped": 1,
   "genres": 3,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "秋服ってどの時期になれば販売し始めるでしょうか？",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12111840352",
+   "summary": "「9月になったら秋物が並ぶのか」という秋物の販売・仕入れタイミングに関する疑問が知恵袋に投稿されている。EC・せどり事業者向けに「秋物はいつ仕入れるべきか」を具体的に答えるコンテンツは見当たらず、消費者目線の疑問にとどまっている。個々の投稿内容を事実として扱わず、読者の悩みの傾向を示す参考情報として扱う。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "biz-ec-shop",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "せどり 物販 秋物 仕入れ 時期 いつから 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": true,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-17T16:44:03+09:00",
+   "validity_days": 5
+  },
   {
    "source_category": "news_web",
    "raw_title": "Amazon手数料の徹底解説【2026年版】｜FBA・販売手数料・値上げの影響と5つの対策",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-15T06:36:25+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "インボイス制度、個人事業主のデメリット今さらですが、個人事業主のインボイス制度…",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14313543649",
-   "summary": "個人事業主から「インボイス制度は自分にとって具体的に何がデメリットになるのか今さら聞けない」という素朴な不安の声。免税事業者のままでいた場合に取引先からどう見られるか、登録すべきかどうかの判断に迷っている様子がうかがえる投稿（あくまで投稿者個人の体験・感想であり事実確認は別途必要）。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "biz-ec-shop",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "個人事業主 インボイス 消費税 負担増 不安 site:okwave.jp OR site:detail.chiebukuro.yahoo.co.jp",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-13T16:45:58+09:00",
    "validity_days": 5
   },
   {
