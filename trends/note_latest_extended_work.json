@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-08-12T16:53:06+09:00",
+ "generated_at": "2026-08-13T06:46:49+09:00",
  "valid_until": "2026-08-26T06:43:13+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "work",
- "total_count": 31,
+ "total_count": 30,
  "merge": {
   "parent": "work",
   "from_current": 31,
   "from_new": 0,
-  "expired_pruned": 0,
+  "expired_pruned": 1,
   "retention_dropped": 0,
   "genres": 4,
   "retention_per_genre": 8
@@ -674,36 +674,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-14T16:53:57+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "週20時間ぴったりのバイトをしています。",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12311059317",
-   "summary": "週20時間ちょうどのシフトで働く投稿者が、社会保険加入の対象になるかどうかを判断できず不安を吐露するQ&A。副業・扶養内勤務者がシフト調整だけで加入を避けられるのか整理できていない実態がうかがえる。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "work-sidejob-start",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "副業 扶養 週20時間 社会保険 加入したくない 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": true,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-12T16:55:15+09:00",
    "validity_days": 14
   },
   {
