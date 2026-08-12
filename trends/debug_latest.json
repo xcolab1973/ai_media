@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T07:22:00+09:00",
+  "generated_at": "2026-08-12T12:50:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,150 +16,152 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 7,
-    "passed_total": 119,
+    "neg_excluded": 8,
+    "dedup_excluded": 14,
+    "passed_total": 110,
     "b2b_category_counts": {
-      "yahoo_realtime": 38,
-      "x_realtime": 9,
-      "news_web": 8,
+      "yahoo_realtime": 35,
+      "news_web": 20,
       "google_trends": 10,
-      "yahoo_news_ranking": 5
+      "yahoo_news_ranking": 2,
+      "x_realtime": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
+    "social_reaction": 28,
+    "personal_story": 1,
+    "medical_science": 5,
     "opinion": 10,
-    "medical_science": 6,
-    "hard_fact": 18,
+    "hard_fact": 25,
     "policy": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 35,
-    "hard_fact": 20,
+    "social_reaction": 28,
+    "medical_science": 3,
+    "hard_fact": 27,
+    "personal_story": 1,
     "opinion": 10,
-    "medical_science": 4,
     "policy": 1
   },
   "b2b_top10": [
     {
-      "title": "一昔前、お土産屋さんで買い物をして2000円札を出したら、「全然足りませんよ」と",
+      "title": "日本の個室トイレが混雑する原因は「居心地が良すぎる」ことだと思う…アメリカのトイ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "元セクシー女優がグリーン車に乗っていたら、イヤホンなしで爆音の映画を観て、話し声",
+      "title": "深夜にハーブガーデンの駐車場で許可なくBBQを行う事案が発生し、男性1名と女性2",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "グリーン車に乗っていたら、座席に足をのせたままイヤホンなしで映画を爆音再生し、笑",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "高市首相が贈ったメロン巡り、オーストラリア首相の発言が炎上 | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
     },
     {
-      "title": "あざとくて何が悪いの? 9月終了",
+      "title": "熱帯低気圧 広い範囲で大雨に注意",
       "source_category": "news_web",
       "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "使い続けているモノ｜高木俊輔 Shunsuke Takagi",
+      "title": "会話中に上の空になる人は「知性が高い」、脳のリソースを思考に割く心理学的背景 |",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "medical_science"
     },
     {
-      "title": "炎天下の建設現場「休んだら収入減」　夏季休工に募る不安 - 日本経済新聞",
+      "title": "「海外旅行保険はクレカでOK」は終わった?　「利用付帯」は旅行前に注意を",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "thời tiết",
+      "title": "ムーキー・ベッツ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "朝5時の池袋はそこら中に人が転がっていて四足歩行してる人なんかもいて良い街だと感",
+      "title": "甲子園 順延",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "レバノンが死刑廃止 中東で初",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_world",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "イベントであるコスプレイヤーが体調不良でダウンし、涼しい喫茶店に避難してお茶を奢",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "金沢 天気",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "南日本放送",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "一昔前、お土産屋さんで買い物をして2000円札を出したら、「全然足りませんよ」と",
+      "title": "日本の個室トイレが混雑する原因は「居心地が良すぎる」ことだと思う…アメリカのトイ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "元セクシー女優がグリーン車に乗っていたら、イヤホンなしで爆音の映画を観て、話し声",
+      "title": "深夜にハーブガーデンの駐車場で許可なくBBQを行う事案が発生し、男性1名と女性2",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "グリーン車に乗っていたら、座席に足をのせたままイヤホンなしで映画を爆音再生し、笑",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "「海外旅行保険はクレカでOK」は終わった?　「利用付帯」は旅行前に注意を",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
-      "title": "使い続けているモノ｜高木俊輔 Shunsuke Takagi",
+      "title": "イベントであるコスプレイヤーが体調不良でダウンし、涼しい喫茶店に避難してお茶を奢",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "炎天下の建設現場「休んだら収入減」　夏季休工に募る不安 - 日本経済新聞",
+      "title": "イギリスに両親が来たとき日本語ガイド付きツアーを頼んだら、現地ガイドがほとんど日",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "朝5時の池袋はそこら中に人が転がっていて四足歩行してる人なんかもいて良い街だと感",
+      "title": "生ハムの原木を貰ったが、思ったより賞味期限が短く、薄切りにして年配のご近所におす",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "アメリカ人から「お盆って何？」と聞かれ、「年に一度、死んだご先祖様が家に帰ってく",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "映画「ちいかわ」特典の島二郎のボンボンドロップシール、よく見たらズレ方がセンシテ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「パスタにツナ缶を混ぜるだけ」で完成。美食の国イタリアと日本がたどり着いた「最強",
+      "title": "ワンピースカードの店舗大会で優勝するも、なりすまし犯に優勝を辞退したことにされて",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "武井壮さんの「皆さんが思う全国の餃子でここが最強！！を教えてください」との呼びか",
+      "title": "高校演劇で台本を使いたいというDMが顧問の先生から匿名で送られてきた…一切名乗ら",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "みんな何にそんなお金使ってんの？",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "宇多丸　デートで映画に行くべきでない理由を語る",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
