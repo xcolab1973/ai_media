@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T23:08:00+09:00",
+  "generated_at": "2026-08-13T07:22:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 8,
-    "passed_total": 112,
+    "neg_excluded": 13,
+    "dedup_excluded": 13,
+    "passed_total": 106,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 34,
+      "news_web": 15,
       "google_trends": 10,
-      "x_realtime": 8,
-      "news_web": 14,
-      "yahoo_news_ranking": 3
+      "x_realtime": 4,
+      "yahoo_news_ranking": 7
     }
   },
   "note_category_counts": {
-    "personal_story": 3,
-    "social_reaction": 29,
-    "medical_science": 4,
+    "social_reaction": 25,
+    "personal_story": 6,
     "opinion": 10,
-    "hard_fact": 19,
-    "policy": 5
+    "medical_science": 2,
+    "hard_fact": 23,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "personal_story": 3,
-    "medical_science": 3,
+    "social_reaction": 25,
+    "hard_fact": 22,
+    "personal_story": 6,
     "opinion": 10,
     "policy": 6,
-    "social_reaction": 29,
-    "hard_fact": 19
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "「海外旅行保険はクレカでOK」は終わった?　「利用付帯」は旅行前に注意を",
+      "title": "新幹線グリーン車で机に足を置き爆音で映画視聴している迷惑客のポストをしたところ、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「夫が絶賛したレシピ」にモヤモヤするという話を読んで思ったこと｜山本ゆり",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東北から近畿 急な雨や落雷に注意",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "大阪のマンションは「ドヤれるか」で価値が決まる | 大阪マンション価格データ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「推し活というより孤独が危険なのかも」精神科医が「推し活で数百万の借金をした案件",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【本日の文学】焼き鮭弁当を美味しいと食べていたら、同じ弁当を食べていた上司が「あ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "会話中に上の空になる人は「知性が高い」、脳のリソースを思考に割く心理学的背景 |",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "蔵内勇夫",
+      "title": "ラッセルウェストブルック",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "fc町田ゼルビア",
+      "title": "マイルズ・マイコラス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "bsテレビ東京",
+      "title": "神戸 天気",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "テレビ×ミセス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "insta360 x6",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "王貞治",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ベッカム",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "風間俊介",
+      "title": "レビット報道官",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +107,64 @@
   ],
   "note_top10": [
     {
-      "title": "「海外旅行保険はクレカでOK」は終わった?　「利用付帯」は旅行前に注意を",
+      "title": "新幹線グリーン車で机に足を置き爆音で映画視聴している迷惑客のポストをしたところ、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「夫が絶賛したレシピ」にモヤモヤするという話を読んで思ったこと｜山本ゆり",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "大阪のマンションは「ドヤれるか」で価値が決まる | 大阪マンション価格データ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「推し活というより孤独が危険なのかも」精神科医が「推し活で数百万の借金をした案件",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "ホットケーキは何をどうやったらパッケージみたいに焼けるんだよ→様々なコツや面倒で",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "英語学習クラスで先生から「あなたたちの国の島の話をしてちょうだい」と言われたが、",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "【本日の文学】焼き鮭弁当を美味しいと食べていたら、同じ弁当を食べていた上司が「あ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "新幹線グリーン車で机に足を置き爆音で映画視聴している迷惑客のポストをしたところ、",
+      "title": "インスタで、海外のインフルエンサーがファミマのホットケーキにファミチキを挟んで「",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "中年期の出口｜清水研",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "お買い物あるあるを描いたマンガ「ニンニク売り場で葛藤の末に」に共感、選択肢に迷っ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "2025年は58件だったケーキ、菓子店の倒産…今年は1月から7月で45件に増加し",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "会話中に上の空になる人は「知性が高い」、脳のリソースを思考に割く心理学的背景 |",
+      "title": "下水道管が見学できる施設に行ったら、想像以上に本物だったので辞退する人が続出して",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "『買春する帝国　　日本軍「慰安婦」問題の基底』 | 荒野に向かって、吼えない…",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "乗り遅れた親子が車両に接近、山陽新幹線が緊急停止　動画が拡散、JR西に顛末を聞い",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "サイコパス的な性格は体内の微生物と関連しているとの研究結果",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "好きで観ていた人文系のYouTuberの動画で行われる山陰地方いじりが辛くなって",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     }
   ]
 }
