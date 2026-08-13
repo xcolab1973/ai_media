@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-13T17:52:09+0900",
+    "generated_at": "2026-08-14T07:12:51+0900",
     "record_count": 38,
-    "source_total_in_db": 844,
+    "source_total_in_db": 846,
     "provenance_breakdown": {
-      "evidence": 538,
-      "pain_seed": 306
+      "evidence": 539,
+      "pain_seed": 307
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_87235f5aa8ea",
+      "trend_term": "ピコレーザー・HIFU導入",
+      "raw_title": "ヒロクリニック美容皮膚科、博多駅前院および横浜駅前院にて「ピコレーザー」「IPL」「HIFU」の導入・提供を開始 - 朝日新聞",
+      "summary": "ヒロクリニック美容皮膚科が博多駅前院・横浜駅前院でピコレーザー、IPL、HIFUの導入・提供を開始。新技術導入による施設拡充の動向。",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IaEhfcUVaREp2UHJrdnkxWFJLTmNlT05fOTZWenp0NkxtcWVYRlF6ZVMxVGhSSUJOOTRpaHlKVUcteXpwckZfZWlBZU9ockc0aktGM0UtTUpZdGM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IaEhfcUVaREp2UHJrdnkxWFJLTmNlT05fOTZWenp0NkxtcWVYRlF6ZVMxVGhSSUJOOTRpaHlKVUcteXpwckZfZWlBZU9ockc0aktGM0UtTUpZdGM?oc=5",
+      "source_name": "朝日新聞",
+      "monitor_id": "bm-machine-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-19T07:12:29+0900",
+      "status": "candidate",
+      "created_at": "2026-08-14T07:12:29+0900"
+    },
+    {
+      "seed_id": "seed_d2e943318e5d",
+      "trend_term": "精神健康×ボトックス活用",
+      "raw_title": "悲しみを治すためのボトックス注射。 - Vietnam.vn",
+      "summary": "ボトックス注射が悲しみの治療用途として言及されている。美容以外の心理的効果への関心を示す事例。",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50TkdXMUNDVk42aVlBQ1lEQ1NxRlQ2OTN0OTFRUjgwVEdnSFpvVzAybWNhWTg1bGxfYUxKWEg2bGFjcV9DMGlCdzRTcmxnVVdIYU54dF8yM0d6b19LNHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50TkdXMUNDVk42aVlBQ1lEQ1NxRlQ2OTN0OTFRUjgwVEdnSFpvVzAybWNhWTg1bGxfYUxKWEg2bGFjcV9DMGlCdzRTcmxnVVdIYU54dF8yM0d6b19LNHc?oc=5",
+      "source_name": "Vietnam.vn",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-28T07:12:24+0900",
+      "status": "candidate",
+      "created_at": "2026-08-14T07:12:24+0900"
+    },
     {
       "seed_id": "seed_3d3231c7030e",
       "trend_term": "院長インタビュー掲載",
@@ -463,24 +499,6 @@
       "created_at": "2026-08-12T13:22:07+0900"
     },
     {
-      "seed_id": "seed_488b83995f3e",
-      "trend_term": "セレブのボトックス失敗告白",
-      "raw_title": "「本当に恥ずかしい」ブリトニー・スピアーズ、ボトックス失敗を告白 「自分の体を大切に」ファンに警鐘（ピンズバNEWS） - Yahoo!ニュース",
-      "summary": "ブリトニー・スピアーズがボトックス失敗を公開告白し、自分の体を大切にするよう警鐘。施術リスクと後悔の実例として機能",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JZzFocloyOGxKUG83ZXMxUDc2aldRSVBqVnlXRXNOOVp5REU5WVdLYzA1Skl1czZVUTVvcUVIcXpGTXJoZUNtelM0elBOdEhnejhoRVdqRWFZSVZPNThZZGYxVjZQUFcweC1WMXZVS19NbG5vNVM5b2RWcFNUWVE?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JZzFocloyOGxKUG83ZXMxUDc2aldRSVBqVnlXRXNOOVp5REU5WVdLYzA1Skl1czZVUTVvcUVIcXpGTXJoZUNtelM0elBOdEhnejhoRVdqRWFZSVZPNThZZGYxVjZQUFcweC1WMXZVS19NbG5vNVM5b2RWcFNUWVE?oc=5",
-      "source_name": "Yahoo!ニュース",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "opinion",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-17T13:21:57+0900",
-      "status": "candidate",
-      "created_at": "2026-08-12T13:21:57+0900"
-    },
-    {
       "seed_id": "seed_58775919b501",
       "trend_term": "医療ステマ規制の課題",
       "raw_title": "血液クレンジング騒動で見えた広告規制の限界 SNSの｢医療ステマ投稿｣は野放し状態 - 東洋経済オンライン",
@@ -641,24 +659,6 @@
       "valid_until": "2026-08-15T06:59:18+0900",
       "status": "candidate",
       "created_at": "2026-08-10T06:59:18+0900"
-    },
-    {
-      "seed_id": "seed_54ef559bdb2e",
-      "trend_term": "芸能人の美容医療と変化への社会的関心",
-      "raw_title": "アンミカ『DayDay.』出演での“顔の異変”にザワつくSNS…語られてきた美容医療に対する積極的スタンス（SmartFLASH） - Yahoo!ニュース",
-      "summary": "アンミカの番組出演時の顔の変化がSNSで話題となり、過去の美容医療に関するスタンスとの関連が議論されている状況",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zeGR0SG83d1J6bmVTbHVnMk92WW51dVUyMEwwaHBvUGF2RmNtT3FCT29uTFd0VkJXRGhMdE16ZDhtVzY5anYxN09ISnptVmNtTWxuN3IzY3RJbEptamNvV3ppTlI1aWs2N0dRMGItTDRWSnJkSTB1OWV1TnVKQkk?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zeGR0SG83d1J6bmVTbHVnMk92WW51dVUyMEwwaHBvUGF2RmNtT3FCT29uTFd0VkJXRGhMdE16ZDhtVzY5anYxN09ISnptVmNtTWxuN3IzY3RJbEptamNvV3ppTlI1aWs2N0dRMGItTDRWSnJkSTB1OWV1TnVKQkk?oc=5",
-      "source_name": "Yahoo!ニュース",
-      "monitor_id": "bm-sns-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-14T06:56:53+0900",
-      "status": "candidate",
-      "created_at": "2026-08-09T06:56:53+0900"
     },
     {
       "seed_id": "seed_c724f5535795",
