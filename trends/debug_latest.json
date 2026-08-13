@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T12:54:00+09:00",
+  "generated_at": "2026-08-13T17:56:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,32 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 12,
-    "passed_total": 114,
+    "neg_excluded": 7,
+    "dedup_excluded": 10,
+    "passed_total": 115,
     "b2b_category_counts": {
       "yahoo_realtime": 34,
       "google_trends": 10,
-      "x_realtime": 5,
-      "news_web": 18,
-      "yahoo_news_ranking": 3
+      "news_web": 13,
+      "x_realtime": 7,
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "medical_science": 2,
-    "personal_story": 4,
+    "social_reaction": 34,
+    "personal_story": 2,
     "opinion": 10,
-    "hard_fact": 20,
+    "medical_science": 1,
+    "hard_fact": 22,
     "policy": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 32,
-    "medical_science": 2,
+    "social_reaction": 33,
     "opinion": 10,
-    "hard_fact": 21,
-    "personal_story": 4,
-    "policy": 1
+    "hard_fact": 23,
+    "personal_story": 2,
+    "policy": 1,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
@@ -51,55 +51,55 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "墓じまいの申し出、寺から200万円請求　トラブル解決に「裏技」も：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "「夫が絶賛したレシピ」にモヤモヤするという話を読んで思ったこと｜山本ゆり",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【検証】トランプ米政権、一部ワクチンの推奨撤回　発言に多くの誤情報 - BBCニ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "夜勤から帰ったら、「おまえ（たち）の犬は預かった。返してほしくば冷ごはんで炒飯を",
+      "title": "「更生や立ち直りとは真逆なのでは」出演者には少年院、刑務所経験者や小指のない人ま",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "スペースマウンテン",
+      "title": "ローソン ロールケーキ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "阿波踊り 徳島",
+      "title": "megumi",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ムーキー・ベッツ",
+      "title": "TWICE・チェヨン JYPと契約終了",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_entertainment",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "大分商業 甲子園",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "年金",
+      "title": "鶏肉",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "強盗",
+      "title": "ポートランド・クラシック",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "世論調査",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
-      "title": "接客バイトのペーパーテストで「給料は誰からもらう？」という問いに「社名」を書いた",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "墓じまいの申し出、寺から200万円請求　トラブル解決に「裏技」も：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "「夫が絶賛したレシピ」にモヤモヤするという話を読んで思ったこと｜山本ゆり",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "夜勤から帰ったら、「おまえ（たち）の犬は預かった。返してほしくば冷ごはんで炒飯を",
+      "title": "接客バイトのペーパーテストで「給料は誰からもらう？」という問いに「社名」を書いた",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ロシア プーチン大統領 北方領土初めて訪問 ロシアメディア | NHKニュース",
+      "title": "「更生や立ち直りとは真逆なのでは」出演者には少年院、刑務所経験者や小指のない人ま",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "昨年、母は悩んでいた… 色んなパートをやってきた母だが、筆耕としての母の主戦場は",
+      "title": "娘がプリキュア卒業して「もういらないからパパの部屋に置いといて」→「絶対捨てない",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "プーチンが北方領土を初訪問した理由（黒井文太郎） - エキスパート - Yaho",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "仙台駅で出会った少女が泣きながら現金を貸してくれないかと話しかけてきた… 目的地",
+      "title": "元大阪府知事・橋下徹氏の3人の息子、現在全員学校へ進学せず、就職もしていないこと",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本学術会議の会員選考で思想チェック？　「安全保障上の懸念ない者に」要件案が物議",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "現在アメリカではハラペーニョが原因となったサルモネラ菌の感染が広がり、大規模なリ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "スマホに全部集約すると紛失や故障した場合に諸々生活が詰むので、あえて交通系ICや",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "日本語に興味あるという人から「日本語はひらがなとカタカナと漢字があるけど、話すと",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "探偵役が真相を告発しないオチってもやもやするからな～。 コナン君の決め..",
+      "title": "ホストのキャッチに対して「ごめん！レズ！」と断ったら…そのときのホストの対応がち",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "知的障害のある人の「自分で決める」を支える。３つの難しさ - 発達障害ニュースの",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
