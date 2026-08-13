@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T07:22:00+09:00",
+  "generated_at": "2026-08-13T12:54:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,42 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 13,
-    "dedup_excluded": 13,
-    "passed_total": 106,
+    "neg_excluded": 6,
+    "dedup_excluded": 12,
+    "passed_total": 114,
     "b2b_category_counts": {
       "yahoo_realtime": 34,
-      "news_web": 15,
       "google_trends": 10,
-      "x_realtime": 4,
-      "yahoo_news_ranking": 7
+      "x_realtime": 5,
+      "news_web": 18,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 25,
-    "personal_story": 6,
-    "opinion": 10,
+    "social_reaction": 33,
     "medical_science": 2,
-    "hard_fact": 23,
-    "policy": 4
+    "personal_story": 4,
+    "opinion": 10,
+    "hard_fact": 20,
+    "policy": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 25,
-    "hard_fact": 22,
-    "personal_story": 6,
+    "social_reaction": 32,
+    "medical_science": 2,
     "opinion": 10,
-    "policy": 6,
-    "medical_science": 1
+    "hard_fact": 21,
+    "personal_story": 4,
+    "policy": 1
   },
   "b2b_top10": [
     {
-      "title": "新幹線グリーン車で机に足を置き爆音で映画視聴している迷惑客のポストをしたところ、",
+      "title": "接客バイトのペーパーテストで「給料は誰からもらう？」という問いに「社名」を書いた",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "墓じまいの申し出、寺から200万円請求　トラブル解決に「裏技」も：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -57,49 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "東北から近畿 急な雨や落雷に注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
+      "title": "【検証】トランプ米政権、一部ワクチンの推奨撤回　発言に多くの誤情報 - BBCニ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
     },
     {
-      "title": "大阪のマンションは「ドヤれるか」で価値が決まる | 大阪マンション価格データ",
+      "title": "夜勤から帰ったら、「おまえ（たち）の犬は預かった。返してほしくば冷ごはんで炒飯を",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「推し活というより孤独が危険なのかも」精神科医が「推し活で数百万の借金をした案件",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【本日の文学】焼き鮭弁当を美味しいと食べていたら、同じ弁当を食べていた上司が「あ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "ラッセルウェストブルック",
+      "title": "スペースマウンテン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "マイルズ・マイコラス",
+      "title": "阿波踊り 徳島",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "神戸 天気",
+      "title": "ムーキー・ベッツ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "レビット報道官",
+      "title": "年金",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "強盗",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,7 +107,13 @@
   ],
   "note_top10": [
     {
-      "title": "新幹線グリーン車で机に足を置き爆音で映画視聴している迷惑客のポストをしたところ、",
+      "title": "接客バイトのペーパーテストで「給料は誰からもらう？」という問いに「社名」を書いた",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "墓じまいの申し出、寺から200万円請求　トラブル解決に「裏技」も：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -119,52 +125,46 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "大阪のマンションは「ドヤれるか」で価値が決まる | 大阪マンション価格データ",
+      "title": "夜勤から帰ったら、「おまえ（たち）の犬は預かった。返してほしくば冷ごはんで炒飯を",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「推し活というより孤独が危険なのかも」精神科医が「推し活で数百万の借金をした案件",
+      "title": "ロシア プーチン大統領 北方領土初めて訪問 ロシアメディア | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ホットケーキは何をどうやったらパッケージみたいに焼けるんだよ→様々なコツや面倒で",
+      "title": "昨年、母は悩んでいた… 色んなパートをやってきた母だが、筆耕としての母の主戦場は",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【本日の文学】焼き鮭弁当を美味しいと食べていたら、同じ弁当を食べていた上司が「あ",
+      "title": "仙台駅で出会った少女が泣きながら現金を貸してくれないかと話しかけてきた… 目的地",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "インスタで、海外のインフルエンサーがファミマのホットケーキにファミチキを挟んで「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "中年期の出口｜清水研",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "お買い物あるあるを描いたマンガ「ニンニク売り場で葛藤の末に」に共感、選択肢に迷っ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "下水道管が見学できる施設に行ったら、想像以上に本物だったので辞退する人が続出して",
+      "title": "日本学術会議の会員選考で思想チェック？　「安全保障上の懸念ない者に」要件案が物議",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "スマホに全部集約すると紛失や故障した場合に諸々生活が詰むので、あえて交通系ICや",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "探偵役が真相を告発しないオチってもやもやするからな～。 コナン君の決め..",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ]
 }
