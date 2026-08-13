@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T17:56:00+09:00",
+  "generated_at": "2026-08-13T23:10:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,44 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 10,
-    "passed_total": 115,
+    "neg_excluded": 3,
+    "dedup_excluded": 11,
+    "passed_total": 118,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
+      "x_realtime": 8,
+      "yahoo_realtime": 36,
       "google_trends": 10,
-      "news_web": 13,
-      "x_realtime": 7,
-      "yahoo_news_ranking": 6
+      "news_web": 15,
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 34,
-    "personal_story": 2,
+    "social_reaction": 31,
+    "personal_story": 5,
     "opinion": 10,
-    "medical_science": 1,
-    "hard_fact": 22,
+    "hard_fact": 23,
     "policy": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
+    "social_reaction": 31,
     "opinion": 10,
     "hard_fact": 23,
-    "personal_story": 2,
-    "policy": 1,
-    "medical_science": 1
+    "personal_story": 5,
+    "policy": 1
   },
   "b2b_top10": [
+    {
+      "title": "消防設備士勉強中の俺「乾燥砂ぁ？そんなんで火災のときどうやって消火すんだよ」→危",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "年に3〜4回くらい、客が洗車スペースを「見たこともないくらい」汚すが、警察は「客",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "接客バイトのペーパーテストで「給料は誰からもらう？」という問いに「社名」を書いた",
       "source_category": "yahoo_realtime",
@@ -51,55 +61,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「夫が絶賛したレシピ」にモヤモヤするという話を読んで思ったこと｜山本ゆり",
+      "title": "流れ星 今日",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "東京のケーキ、ワンカット6,000円で衝撃「だれが考えたんだ、こんな小学生の考え",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「更生や立ち直りとは真逆なのでは」出演者には少年院、刑務所経験者や小指のない人ま",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ローソン ロールケーキ",
+      "title": "和田由紀子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "megumi",
+      "title": "鈴木亮平",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "TWICE・チェヨン JYPと契約終了",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_entertainment",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "大分商業 甲子園",
+      "title": "zozoマリンスタジアム",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "鶏肉",
+      "title": "おヨネ モナキ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ポートランド・クラシック",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "世論調査",
+      "title": "荒木大吾",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,9 +105,15 @@
   ],
   "note_top10": [
     {
-      "title": "「夫が絶賛したレシピ」にモヤモヤするという話を読んで思ったこと｜山本ゆり",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "消防設備士勉強中の俺「乾燥砂ぁ？そんなんで火災のときどうやって消火すんだよ」→危",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "年に3〜4回くらい、客が洗車スペースを「見たこともないくらい」汚すが、警察は「客",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -119,49 +123,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「更生や立ち直りとは真逆なのでは」出演者には少年院、刑務所経験者や小指のない人ま",
+      "title": "東京のケーキ、ワンカット6,000円で衝撃「だれが考えたんだ、こんな小学生の考え",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "娘がプリキュア卒業して「もういらないからパパの部屋に置いといて」→「絶対捨てない",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "プーチンが北方領土を初訪問した理由（黒井文太郎） - エキスパート - Yaho",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "元大阪府知事・橋下徹氏の3人の息子、現在全員学校へ進学せず、就職もしていないこと",
+      "title": "自民・鈴木宗男参院議員「いちいち反応するのは子どもじみている」　プーチン大統領の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "現在アメリカではハラペーニョが原因となったサルモネラ菌の感染が広がり、大規模なリ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「私の時間はとまったまま」デマと中傷に苦しんだ夢月ロア、150ページ超の書面につ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "水族館の入り口前の女子トイレに入ったら、そこには体調が悪そうな20歳くらいの女の",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本語に興味あるという人から「日本語はひらがなとカタカナと漢字があるけど、話すと",
+      "title": "昔、カフェで資格の本を読んでいたら女の子に声を掛けられた…その後スノボに誘われ、",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ホストのキャッチに対して「ごめん！レズ！」と断ったら…そのときのホストの対応がち",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "知的障害のある人の「自分で決める」を支える。３つの難しさ - 発達障害ニュースの",
+      "title": "ウクライナ無人機部隊、軍事演習で米軍部隊撃破…装甲車が巻き上げた砂ぼこりきっかけ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
