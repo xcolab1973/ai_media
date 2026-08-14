@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T23:04:00+09:00",
+  "generated_at": "2026-08-15T06:56:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,28 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 10,
-    "passed_total": 115,
+    "neg_excluded": 5,
+    "dedup_excluded": 13,
+    "passed_total": 114,
     "b2b_category_counts": {
       "yahoo_realtime": 35,
       "google_trends": 10,
-      "news_web": 14,
-      "x_realtime": 7,
-      "yahoo_news_ranking": 4
+      "news_web": 16,
+      "x_realtime": 6,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "personal_story": 2,
-    "opinion": 10,
-    "medical_science": 1,
-    "policy": 7,
-    "hard_fact": 21
+    "social_reaction": 31,
+    "opinion": 9,
+    "policy": 8,
+    "hard_fact": 22
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "policy": 7,
-    "opinion": 10,
-    "hard_fact": 21,
-    "personal_story": 2,
-    "medical_science": 1
+    "social_reaction": 31,
+    "policy": 8,
+    "opinion": 9,
+    "hard_fact": 22
   },
   "b2b_top10": [
     {
@@ -51,55 +47,55 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "マッチングアプリの広告で水族館デートの水槽にホオジロザメが描かれていて、事情を知",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "逃げちゃダメだよ、レースクイーンおじさん",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "売春は倫理的に許容されるのか？ - 哲学的に考えてみた【哲学ブログ】",
+      "title": "高市首相 SNSに政権の物価高対策を相次ぎ投稿 | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "松山ケンイチ",
+      "title": "山添寛",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "伏見寅威",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "スマホ水没・水ぬれ時 NGな行為",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "戸建て購入時に妻が「予算オーバーしようがハザードマップにかかる場所は絶対に嫌だ」",
+      "title": "フランス人、ペットに日本人の名前をつけるのが流行ってるけどやめてほしいわ。今日は",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "コミケ",
+      "title": "全国高等学校野球選手権兵庫大会",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "サカナクション",
+      "title": "レッズ 対 マーリンズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "so-so",
+      "title": "河合優実",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "asml",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "お盆",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,19 +109,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "マッチングアプリの広告で水族館デートの水槽にホオジロザメが描かれていて、事情を知",
+      "title": "フランス人、ペットに日本人の名前をつけるのが流行ってるけどやめてほしいわ。今日は",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "逃げちゃダメだよ、レースクイーンおじさん",
+      "title": "「山小屋はコンビニではありません」山小屋の管理人さんが営業時間外に訪れる登山客に",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「結婚できるかどうかはその人の○○○を手で持てるか」高校の先生に教わった最悪の結",
+      "title": "電車への飛び込み自○する人にイライラしてる奴、人の心ないんか…「あるわけねぇだろ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「国宝って正直3でやめとくべきだと思ってたけど、5を観て考え方が変わったわ」とい",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "MADE IN YAMATO - 第１２話　ガンバレ花ちゃん | ヤンマガWeb",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -137,33 +145,21 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "OKAMOTO'Sからハマ・オカモトが脱退 - 音楽ナタリー",
+      "title": "リュウジさんによる「美味しんぼのカルボナーラ」批判を受けて、料理人が書いたカルボ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "OKAMOTO'S OFFICIAL WEBSITE",
+      "title": "山添寛",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「セブンイレブン」のオワコン化が始まった　「上げ底弁当」だけじゃない日本人が行か",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "電車への飛び込み自○する人にイライラしてる奴、人の心ないんか…「あるわけねぇだろ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "夏祭りのポップやポスターをAIで作るの本当にやめた方がいい、ぱっと見は整ってるけ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "初めての理髪店で「お兄さん肌黒っ！絶対ハーフっしょ！国籍当てさせてください！」と",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
