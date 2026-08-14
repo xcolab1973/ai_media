@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T12:51:00+09:00",
+  "generated_at": "2026-08-14T17:49:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,30 +16,32 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 4,
-    "dedup_excluded": 12,
-    "passed_total": 116,
+    "neg_excluded": 6,
+    "dedup_excluded": 11,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "x_realtime": 6,
-      "news_web": 14,
+      "x_realtime": 7,
+      "news_web": 15,
       "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 23,
+    "social_reaction": 22,
     "personal_story": 4,
-    "hard_fact": 23,
+    "medical_science": 1,
     "opinion": 10,
+    "hard_fact": 23,
     "policy": 10
   },
   "b2b_topic_category_counts": {
     "hard_fact": 23,
-    "social_reaction": 23,
+    "social_reaction": 22,
     "policy": 10,
-    "personal_story": 4,
-    "opinion": 10
+    "opinion": 10,
+    "medical_science": 1,
+    "personal_story": 4
   },
   "b2b_top10": [
     {
@@ -55,52 +57,52 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "逃げちゃダメだよ、レースクイーンおじさん",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "売春は倫理的に許容されるのか？ - 哲学的に考えてみた【哲学ブログ】",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "高市首相が長崎被爆者団体に“ガン飛ばし”で大炎上！ 会長あいさつ「戦争知らない」",
+      "title": "中日 対 巨人",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "若くて美貌があった頃は無敵だったが、未婚のまま年をとり後悔する女という話、姿形を",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "広島 対 阪神",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "オリックス 対 日本ハム",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ヤクルト 対 dena",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "ギリシャ神話から読み解く「映画ちいかわ 人魚の島のひみつ」“誰も悪くない”は果た",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
-    },
-    {
-      "title": "風 薫る あらすじ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "リュウジ氏「『鉄鍋のジャン』は再現しても美味しいけど、『美味しんぼ』は美味しくな",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "地盤サポートマップ【ジャパンホームシールド株式会社】",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ひよっこ 朝ドラ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "パズドラ トランプキングダム",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ],
   "note_top10": [
@@ -111,13 +113,7 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "リュウジ氏「『鉄鍋のジャン』は再現しても美味しいけど、『美味しんぼ』は美味しくな",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "地盤サポートマップ【ジャパンホームシールド株式会社】",
+      "title": "逃げちゃダメだよ、レースクイーンおじさん",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -129,40 +125,46 @@
       "topic_category": "personal_story"
     },
     {
+      "title": "若くて美貌があった頃は無敵だったが、未婚のまま年をとり後悔する女という話、姿形を",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "陸自、身分隠し市民に接触　対象者ごとに４段階の基準で運用　仕事内容は「ぼかす」よ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「筋肉は筋肉を敬う」タトゥー入れてる家族の旦那と目を合わせたら、キャップを脱いで",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『エヴァンゲリオン』の「アスカ」コスプレを披露した女子高生、食事中の姿が刑務所み",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "マッチングアプリの広告で水族館デートの水槽にホオジロザメが描かれていて、事情を知",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "猫が突然倒れ、寝たきりに…横漏れしないオムツの付け方やかぶれが改善する方法を教え",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "『ヤバい日本の住所』が本当にヤバかった。 - Everything you've",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
-    },
-    {
-      "title": "線状降水帯の発生している地域に住んでいて、母が「大丈夫だよ、様子見てくるだけだし",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "有休をあえてずらして、お盆のド平日に意気揚々と出社した。 「世間が休..",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「正直、勉強教える系のYouTuberが学校の先生よりわかりやすいのなんて当たり",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "この前カルディで買ってきたグレープフルーツの缶詰美味いな。ところで『エスワティニ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "犬飼ったことないからわからんけど、犬の散歩ルートってどうやって決めるの？→回答が",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
     }
   ]
 }
