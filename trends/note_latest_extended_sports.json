@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T16:56:22+09:00",
+ "generated_at": "2026-08-15T06:44:05+09:00",
  "valid_until": "2026-08-26T06:43:20+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,18 +9,18 @@
  "merge": {
   "parent": "sports",
   "from_current": 16,
-  "from_new": 2,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 2,
+  "retention_dropped": 0,
   "genres": 2,
   "retention_per_genre": 8
  },
  "candidates": [
   {
    "source_category": "news_web",
-   "raw_title": "高校野球てＤＨがあるんですかいつからですか？",
+   "raw_title": "高校野球でDHがあるんですか、いつからですか？",
    "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14326405544",
-   "summary": "2026年から高校野球にDH制が導入されたことを知らない・いつからか分からないという生の疑問。ルール変更の周知が読者に届いていない実態を示す角度の種。公開claimにはしない。",
+   "summary": "高校野球でDH制がいつから・どんなルールで導入されたのかを知らずに戸惑う質問者の生ペイン。2026年からの新ルールが一般観戦層に浸透しきっていないことを示唆。",
    "signal_type": "trend",
    "engagement_signal": false,
    "approx_traffic": "100+",
@@ -35,15 +35,15 @@
    "provenance": {
     "source_name": "Yahoo!知恵袋",
     "expert_origin": false,
-    "search_query": "甲子園 DH制 ビデオ判定 分かりにくい 知恵袋",
+    "search_query": "甲子園 DH制 ビデオ判定 賛否 知恵袋 OR 5ch OR 掲示板",
     "freshness": "fresh",
     "integrity_warning": null,
     "provenance_kind": "pain_seed",
-    "opportunity_gap": true,
+    "opportunity_gap": false,
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-08-19T16:52:27+09:00",
+   "valid_until": "2026-08-20T06:39:58+09:00",
    "validity_days": 5
   },
   {
