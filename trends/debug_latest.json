@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:22:00+09:00",
+  "generated_at": "2026-08-14T12:51:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,43 +16,73 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 1,
-    "dedup_excluded": 13,
-    "passed_total": 118,
+    "neg_excluded": 4,
+    "dedup_excluded": 12,
+    "passed_total": 116,
     "b2b_category_counts": {
-      "yahoo_realtime": 39,
+      "yahoo_realtime": 37,
       "google_trends": 10,
+      "x_realtime": 6,
       "news_web": 14,
-      "yahoo_news_ranking": 2,
-      "x_realtime": 5
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
+    "social_reaction": 23,
     "personal_story": 4,
-    "opinion": 10,
     "hard_fact": 23,
-    "policy": 5
+    "opinion": 10,
+    "policy": 10
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
     "hard_fact": 23,
-    "opinion": 10,
-    "policy": 5,
-    "personal_story": 4
+    "social_reaction": 23,
+    "policy": 10,
+    "personal_story": 4,
+    "opinion": 10
   },
   "b2b_top10": [
     {
-      "title": "リュウジ氏「『鉄鍋のジャン』は再現しても美味しいけど、『美味しんぼ』は美味しくな",
+      "title": "豪雨で千葉県庁に逃げ込んでから一夜明け、千葉駅に向かっているところだが水没車多数",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "小学生の時、賞を貰った作品が壊されて担任に相談したが、「本人たちはやってない」で",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "千葉に大雨・土砂災害特別警報　1人死亡、帰宅困難者650人が避難：朝日新聞",
+      "title": "売春は倫理的に許容されるのか？ - 哲学的に考えてみた【哲学ブログ】",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "policy"
+    },
+    {
+      "title": "高市首相が長崎被爆者団体に“ガン飛ばし”で大炎上！ 会長あいさつ「戦争知らない」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "ギリシャ神話から読み解く「映画ちいかわ 人魚の島のひみつ」“誰も悪くない”は果た",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "風 薫る あらすじ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "リュウジ氏「『鉄鍋のジャン』は再現しても美味しいけど、『美味しんぼ』は美味しくな",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "地盤サポートマップ【ジャパンホームシールド株式会社】",
@@ -61,43 +91,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "天気予報 東京",
+      "title": "ひよっこ 朝ドラ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "朝マック",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "千葉県の特別警報 危険警報に切替",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "危険な雨 土砂災害など終日警戒",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "配当",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "バーガー 戦争",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "シャビ・エルナンデス",
+      "title": "パズドラ トランプキングダム",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,6 +105,12 @@
   ],
   "note_top10": [
     {
+      "title": "小学生の時、賞を貰った作品が壊されて担任に相談したが、「本人たちはやってない」で",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "リュウジ氏「『鉄鍋のジャン』は再現しても美味しいけど、『美味しんぼ』は美味しくな",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
@@ -117,51 +123,45 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "東京のケーキ、ワンカット6,000円で衝撃「だれが考えたんだ、こんな小学生の考え",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "水族館の入り口前の女子トイレに入ったら、そこには体調が悪そうな20歳くらいの女の",
+      "title": "ギリシャ神話から読み解く「映画ちいかわ 人魚の島のひみつ」“誰も悪くない”は果た",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "クラシックの曲でおすすめ教えて",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ウクライナ外相、プーチン氏の北方領土訪問は「日本への侮辱」　国際社会にも非難呼び",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "腐朽する防衛大学校！｜小西　誠",
+      "title": "『ヤバい日本の住所』が本当にヤバかった。 - Everything you've",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "天気予報 東京",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "朝マック",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "忘れらんねえよ「なんもねえ」Music Video",
+      "title": "線状降水帯の発生している地域に住んでいて、母が「大丈夫だよ、様子見てくるだけだし",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "有休をあえてずらして、お盆のド平日に意気揚々と出社した。 「世間が休..",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「正直、勉強教える系のYouTuberが学校の先生よりわかりやすいのなんて当たり",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "この前カルディで買ってきたグレープフルーツの缶詰美味いな。ところで『エスワティニ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "犬飼ったことないからわからんけど、犬の散歩ルートってどうやって決めるの？→回答が",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
