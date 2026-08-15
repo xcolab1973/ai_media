@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T17:01:00+09:00",
+  "generated_at": "2026-08-15T22:19:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,40 +16,34 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 11,
-    "passed_total": 116,
+    "neg_excluded": 6,
+    "dedup_excluded": 9,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
+      "yahoo_realtime": 37,
       "google_trends": 10,
-      "x_realtime": 7,
-      "yahoo_news_ranking": 4,
-      "news_web": 15
+      "x_realtime": 8,
+      "news_web": 13,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 24,
-    "personal_story": 4,
-    "opinion": 9,
-    "medical_science": 4,
-    "policy": 9,
-    "hard_fact": 20
+    "social_reaction": 29,
+    "personal_story": 5,
+    "opinion": 10,
+    "medical_science": 2,
+    "policy": 8,
+    "hard_fact": 16
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 23,
+    "social_reaction": 29,
+    "opinion": 10,
     "policy": 9,
-    "opinion": 9,
-    "hard_fact": 23,
-    "personal_story": 4,
-    "medical_science": 2
+    "hard_fact": 16,
+    "personal_story": 5,
+    "medical_science": 1
   },
   "b2b_top10": [
-    {
-      "title": "飲食店でカット済みのバナナを2歳の息子に食べさせたら、突然苦しみ出して30秒近く",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
     {
       "title": "ニコニコ動画、有料会員数が90万人割れる　1年で10万人減少⋯直近に790→99",
       "source_category": "yahoo_realtime",
@@ -57,49 +51,55 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "高市首相 SNSに政権の物価高対策を相次ぎ投稿 | NHKニュース",
+      "title": "新幹線のトイレ、並んで5分以上経つのに出てこない→隣の車両のトイレも10分近く経",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "木更津",
+      "title": "キャラソン文化は本当に衰退したのか？ZAQが見据えるキャラソンの現状と未来 - ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "google tensor",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "長﨑美柚",
+      "title": "チェルシー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "仙台育英 甲子園",
+      "title": "チェルシー ソシエダ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "創作で一番やってはいけないのは、「自分の名前を主人公に使うこと」…ラノベ作家の創",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "インターン生3人に「好きなの食え」と伝えて行きつけの店を教えたら、39万円分の豪",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "首脳会談",
+      "title": "chelsea",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
-      "topic_category": "medical_science"
+      "topic_category": "opinion"
     },
     {
-      "title": "宮西尚生",
+      "title": "アメリカ横断ウルトラクイズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "正源司陽子",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "徳島 撮り 鉄",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
-      "title": "飲食店でカット済みのバナナを2歳の息子に食べさせたら、突然苦しみ出して30秒近く",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "ニコニコ動画、有料会員数が90万人割れる　1年で10万人減少⋯直近に790→99",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "インターン生3人に「好きなの食え」と伝えて行きつけの店を教えたら、39万円分の豪",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "回転寿司で食事した後お皿をまとめて端に寄せてるけど、店員さん的にはありがたい？実",
+      "title": "新幹線のトイレ、並んで5分以上経つのに出てこない→隣の車両のトイレも10分近く経",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ウォーキング教室に行ったら、説得力の塊みたいな先生が「みぞおちから脚が生えている",
+      "title": "キャラソン文化は本当に衰退したのか？ZAQが見据えるキャラソンの現状と未来 - ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「子育てはご機嫌なおじさんを地球に納品する壮大なプロジェクト」というエッセイが話",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「エビのけりぐるみに夢中になっているときに部屋の中の異変に気づいた猫」→このあと",
+      "title": "祖父が玉砕命令のために戦車の下に潜り込み、自爆用の爆薬の袋を枕にして、そのタイミ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "和食の店で作ってもらった映画「ちいかわ」風の赤魚の煮付けを作ってもらったら100",
+      "title": "満州で終戦を迎え、夫不在で3人の子連れの母が死にもの狂いで日本を目指すが、引き揚",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "天皇陛下「深い反省」「惨禍繰り返されぬこと願う」戦没者追悼式 | 毎日新聞",
+      "title": "芸人・九月さん「何で本と映画で何を得たか言語化しなきゃいけないんだよ！！！栄養な",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「これからは縦マンガだ！」とWebtoonに参入したセガサミーとバンダイが既に撤",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "（リサーチラボ）生産性向上が賃金上昇に反映されなかったのはなぜか：わが国のデフレ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "プーチンの北方領土上陸：ロシアへの非難や日本への連帯を表明してくれた国・一覧",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "マクロン仏大統領の水上バイク写真に左派野党が猛反発、庶民感覚との乖離を批判",
+      "title": "埼玉県東部は「埼玉」じゃない｜ナトリウム",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
