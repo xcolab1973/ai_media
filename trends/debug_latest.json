@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T06:56:00+09:00",
+  "generated_at": "2026-08-15T11:38:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,34 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 13,
-    "passed_total": 114,
+    "neg_excluded": 8,
+    "dedup_excluded": 9,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
-      "google_trends": 10,
-      "news_web": 16,
-      "x_realtime": 6,
-      "yahoo_news_ranking": 3
+      "yahoo_realtime": 34,
+      "google_trends": 9,
+      "x_realtime": 9,
+      "yahoo_news_ranking": 3,
+      "news_web": 15
     }
   },
   "note_category_counts": {
-    "social_reaction": 31,
-    "opinion": 9,
+    "social_reaction": 26,
+    "personal_story": 3,
+    "opinion": 8,
     "policy": 8,
-    "hard_fact": 22
+    "medical_science": 2,
+    "hard_fact": 23
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 31,
     "policy": 8,
-    "opinion": 9,
-    "hard_fact": 22
+    "social_reaction": 26,
+    "opinion": 8,
+    "hard_fact": 23,
+    "personal_story": 3,
+    "medical_science": 2
   },
   "b2b_top10": [
-    {
-      "title": "未婚者がやるべきなのはNISAでも筋トレでもない",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
     {
       "title": "高市首相 SNSに政権の物価高対策を相次ぎ投稿 | NHKニュース",
       "source_category": "yahoo_realtime",
@@ -53,52 +51,58 @@
       "topic_category": "policy"
     },
     {
-      "title": "山添寛",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "スマホ水没・水ぬれ時 NGな行為",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "フランス人、ペットに日本人の名前をつけるのが流行ってるけどやめてほしいわ。今日は",
+      "title": "若い頃、ジャーナリストの先人たちが「これはこうだ」「あれは悪い」と文章で断定する",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "全国高等学校野球選手権兵庫大会",
+      "title": "未婚者がやるべきなのはNISAでも筋トレでもない",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "敦賀気比",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "レッズ 対 マーリンズ",
+      "title": "大橋未歩",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "河合優実",
+      "title": "氣志團万博",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "asml",
+      "title": "ブルワーズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "お盆",
+      "title": "智弁",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
+    },
+    {
+      "title": "ジェイソン アーデイ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "福島 地震",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
@@ -109,25 +113,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "フランス人、ペットに日本人の名前をつけるのが流行ってるけどやめてほしいわ。今日は",
+      "title": "若い頃、ジャーナリストの先人たちが「これはこうだ」「あれは悪い」と文章で断定する",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「山小屋はコンビニではありません」山小屋の管理人さんが営業時間外に訪れる登山客に",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「違和感の答え合わせ突然来ます」推しが一人暮らしでペットを飼っていなくても「こう",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "電車への飛び込み自○する人にイライラしてる奴、人の心ないんか…「あるわけねぇだろ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "声優にまでルックスの良さを求める風潮のせいで才能潰された人、割といそう→声優のア",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「国宝って正直3でやめとくべきだと思ってたけど、5を観て考え方が変わったわ」とい",
+      "title": "昭和世代の営業は裁量権が異常に広く、外回りに出たら喫茶店で一時間ぐらい潰すのは当",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "不穏系展覧会「記憶汚染展」が10日間でチケット販売数が2万枚突破、ハルシネーショ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「日本ほんま堅苦しい」海外のバスとかタクシーってガンガン音楽流れてるから、日本に",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -139,27 +155,15 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "独身が多数派になる未来は結構地獄だと思う",
+      "title": "トランプ氏、ホルムズ海峡を「近く米領と宣言する」と発言",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "リュウジさんによる「美味しんぼのカルボナーラ」批判を受けて、料理人が書いたカルボ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "山添寛",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「セブンイレブン」のオワコン化が始まった　「上げ底弁当」だけじゃない日本人が行か",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "トイレしてたらノックが聞こえて、小声でお父さんから「下見ろ」と言われて見たら、お",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
