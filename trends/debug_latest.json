@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T11:38:00+09:00",
+  "generated_at": "2026-08-15T17:01:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,46 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 9,
-    "passed_total": 115,
+    "neg_excluded": 5,
+    "dedup_excluded": 11,
+    "passed_total": 116,
     "b2b_category_counts": {
       "yahoo_realtime": 34,
-      "google_trends": 9,
-      "x_realtime": 9,
-      "yahoo_news_ranking": 3,
+      "google_trends": 10,
+      "x_realtime": 7,
+      "yahoo_news_ranking": 4,
       "news_web": 15
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
-    "personal_story": 3,
-    "opinion": 8,
-    "policy": 8,
-    "medical_science": 2,
-    "hard_fact": 23
+    "social_reaction": 24,
+    "personal_story": 4,
+    "opinion": 9,
+    "medical_science": 4,
+    "policy": 9,
+    "hard_fact": 20
   },
   "b2b_topic_category_counts": {
-    "policy": 8,
-    "social_reaction": 26,
-    "opinion": 8,
+    "social_reaction": 23,
+    "policy": 9,
+    "opinion": 9,
     "hard_fact": 23,
-    "personal_story": 3,
+    "personal_story": 4,
     "medical_science": 2
   },
   "b2b_top10": [
+    {
+      "title": "飲食店でカット済みのバナナを2歳の息子に食べさせたら、突然苦しみ出して30秒近く",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ニコニコ動画、有料会員数が90万人割れる　1年で10万人減少⋯直近に790→99",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "高市首相 SNSに政権の物価高対策を相次ぎ投稿 | NHKニュース",
       "source_category": "yahoo_realtime",
@@ -51,119 +63,107 @@
       "topic_category": "policy"
     },
     {
-      "title": "若い頃、ジャーナリストの先人たちが「これはこうだ」「あれは悪い」と文章で断定する",
+      "title": "木更津",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "長﨑美柚",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "仙台育英 甲子園",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "創作で一番やってはいけないのは、「自分の名前を主人公に使うこと」…ラノベ作家の創",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "未婚者がやるべきなのはNISAでも筋トレでもない",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "敦賀気比",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "大橋未歩",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "氣志團万博",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ブルワーズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "智弁",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ジェイソン アーデイ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "福島 地震",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
       "topic_category": "hard_fact"
+    },
+    {
+      "title": "インターン生3人に「好きなの食え」と伝えて行きつけの店を教えたら、39万円分の豪",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "首脳会談",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "宮西尚生",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "未婚者がやるべきなのはNISAでも筋トレでもない",
+      "title": "飲食店でカット済みのバナナを2歳の息子に食べさせたら、突然苦しみ出して30秒近く",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "若い頃、ジャーナリストの先人たちが「これはこうだ」「あれは悪い」と文章で断定する",
+      "title": "ニコニコ動画、有料会員数が90万人割れる　1年で10万人減少⋯直近に790→99",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「違和感の答え合わせ突然来ます」推しが一人暮らしでペットを飼っていなくても「こう",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "インターン生3人に「好きなの食え」と伝えて行きつけの店を教えたら、39万円分の豪",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
-      "title": "声優にまでルックスの良さを求める風潮のせいで才能潰された人、割といそう→声優のア",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "昭和世代の営業は裁量権が異常に広く、外回りに出たら喫茶店で一時間ぐらい潰すのは当",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "不穏系展覧会「記憶汚染展」が10日間でチケット販売数が2万枚突破、ハルシネーショ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「日本ほんま堅苦しい」海外のバスとかタクシーってガンガン音楽流れてるから、日本に",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "MADE IN YAMATO - 第１２話　ガンバレ花ちゃん | ヤンマガWeb",
+      "title": "回転寿司で食事した後お皿をまとめて端に寄せてるけど、店員さん的にはありがたい？実",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "トランプ氏、ホルムズ海峡を「近く米領と宣言する」と発言",
+      "title": "ウォーキング教室に行ったら、説得力の塊みたいな先生が「みぞおちから脚が生えている",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「エビのけりぐるみに夢中になっているときに部屋の中の異変に気づいた猫」→このあと",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "和食の店で作ってもらった映画「ちいかわ」風の赤魚の煮付けを作ってもらったら100",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "天皇陛下「深い反省」「惨禍繰り返されぬこと願う」戦没者追悼式 | 毎日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "トイレしてたらノックが聞こえて、小声でお父さんから「下見ろ」と言われて見たら、お",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "プーチンの北方領土上陸：ロシアへの非難や日本への連帯を表明してくれた国・一覧",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "マクロン仏大統領の水上バイク写真に左派野党が猛反発、庶民感覚との乖離を批判",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
