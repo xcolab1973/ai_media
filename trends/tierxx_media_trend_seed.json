@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-14T07:12:51+0900",
-    "record_count": 38,
-    "source_total_in_db": 846,
+    "generated_at": "2026-08-15T12:12:35+0900",
+    "record_count": 35,
+    "source_total_in_db": 848,
     "provenance_breakdown": {
-      "evidence": 539,
-      "pain_seed": 307
+      "evidence": 540,
+      "pain_seed": 308
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_2f3699e71f38",
+      "trend_term": "美容満足度の現状課題",
+      "raw_title": "【健康意識は高まる一方で】現在の健康・美容対策、約6割が「満足していない」 - 毎日キレイ",
+      "summary": "健康・美容対策について約6割が現在の対策に満足していないという調査結果。読者の実際の不満と対策ニーズを示す基礎データ。",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoOEFaVVBwbkJoa0RfT244YUx4T3EyS3BFQlJUNFp3XzBMdjN4UnJjdHpJSGJSTEhGaVltX2g2SHo1aGdPNlhhZ2xZVlllS1RWb0p5Uk03Zm9tRTdVdHFIR1V2TUtIcW5YS2tSN0huRW5zQm1WM2YzNzNR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoOEFaVVBwbkJoa0RfT244YUx4T3EyS3BFQlJUNFp3XzBMdjN4UnJjdHpJSGJSTEhGaVltX2g2SHo1aGdPNlhhZ2xZVlllS1RWb0p5Uk03Zm9tRTdVdHFIR1V2TUtIcW5YS2tSN0huRW5zQm1WM2YzNzNR?oc=5",
+      "source_name": "毎日キレイ",
+      "monitor_id": "bm-regen-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-20T12:12:27+0900",
+      "status": "candidate",
+      "created_at": "2026-08-15T12:12:27+0900"
+    },
+    {
+      "seed_id": "seed_0a462251ac37",
+      "trend_term": "著名人の注入体験公開",
+      "raw_title": "「まるで彫刻みたい」Mattが肩にヒアルロン酸注入を報告、ファンも脱帽する“美”への追求｜Infoseekニュース - Infoseek",
+      "summary": "タレントMattが肩へのヒアルロン酸注入を報告。美的追求の実例から、読者の施術検討動機を引き出せるネタ",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nMllkb0RQbFZqZVgwT09EejlEaXh3YWs4RHdfX08xMzh6MWc1MVhfMy0tdjU3cEJmNVBoa1dvMEZPZ3RkZ0xKaWZYNExCQjRERDM5aUpQYmMtQ3dOd1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nMllkb0RQbFZqZVgwT09EejlEaXh3YWs4RHdfX08xMzh6MWc1MVhfMy0tdjU3cEJmNVBoa1dvMEZPZ3RkZ0xKaWZYNExCQjRERDM5aUpQYmMtQ3dOd1E?oc=5",
+      "source_name": "Infoseek",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-20T12:12:18+0900",
+      "status": "candidate",
+      "created_at": "2026-08-15T12:12:18+0900"
+    },
     {
       "seed_id": "seed_87235f5aa8ea",
       "trend_term": "ピコレーザー・HIFU導入",
@@ -373,24 +409,6 @@
       "created_at": "2026-08-12T17:48:40+0900"
     },
     {
-      "seed_id": "seed_63962f29d83c",
-      "trend_term": "セレブのボトックス失敗告白",
-      "raw_title": "「本当に恥ずかしい」ブリトニー・スピアーズ、ボトックス失敗を告白 「自分の体を大切に」ファンに警鐘｜概要｜ニュース - ピンズバNEWS",
-      "summary": "ブリトニー・スピアーズがボトックス施術の失敗経験を公開。自身の体を大切にするよう呼びかけ、施術リスクへの認識を喚起",
-      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSYzcxRFNXVnY0ZnV3VWoyc0FYMnlhOHF2RnJRZEJFblkxWU5IWkJOZ0xraHpIWHJkXzI5ZnNoVlJEYlV1bEgyWUNyZURIdw?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSYzcxRFNXVnY0ZnV3VWoyc0FYMnlhOHF2RnJRZEJFblkxWU5IWkJOZ0xraHpIWHJkXzI5ZnNoVlJEYlV1bEgyWUNyZURIdw?oc=5",
-      "source_name": "ピンズバNEWS",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-17T17:48:36+0900",
-      "status": "candidate",
-      "created_at": "2026-08-12T17:48:36+0900"
-    },
-    {
       "seed_id": "seed_85df44daf7e6",
       "trend_term": "SNS時代のクリニック選びリスク",
       "raw_title": "SELECT CLINIC表参道本院院長・上原義史医師「症例写真だけを見て判断するのは危険」——SNS時代のクリニック選びに警鐘 - PR TIMES",
@@ -607,60 +625,6 @@
       "created_at": "2026-08-10T17:58:40+0900"
     },
     {
-      "seed_id": "seed_8f8d5708bfd2",
-      "trend_term": "美容外科医のSNS影響力",
-      "raw_title": "“ヒアルロン酸の魔術師”紀田基邦がTBS系列『THE シン世界サミット』に出演！SNS総フォロワー約30万人*の注目美容外科医に密着！ - prtimes.jp",
-      "summary": "SNS総フォロワー約30万人の美容外科医が大型メディア出演。美容医療の情報発信者としての認知度向上と医師のメディア戦略の実態。",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KTXFMekFNeHEydEJNbjBmNDNKNEIyNkVQUWxhdmFGZTJpT1BfRjJ2azhJVGZwMjlpbVh1NkE1dnNyVlduc3hETTVXYmhZaXhEMEFxSDVNM3lGWVdZUndldkxlRXFQYTRKMnc?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KTXFMekFNeHEydEJNbjBmNDNKNEIyNkVQUWxhdmFGZTJpT1BfRjJ2azhJVGZwMjlpbVh1NkE1dnNyVlduc3hETTVXYmhZaXhEMEFxSDVNM3lGWVdZUndldkxlRXFQYTRKMnc?oc=5",
-      "source_name": "prtimes.jp",
-      "monitor_id": "bm-sns-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-15T06:59:33+0900",
-      "status": "candidate",
-      "created_at": "2026-08-10T06:59:33+0900"
-    },
-    {
-      "seed_id": "seed_a696bfbc2838",
-      "trend_term": "美容満足度調査",
-      "raw_title": "プレスリリース：［健康意識は高まる一方で］現在の健康・美容対策、約6割が「満足していない」（PR TIMES） - 毎日新聞",
-      "summary": "健康・美容対策について約6割が満足していないという調査結果",
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rTWthMmlhcjlvNjRvcFJka0JjU1NiRnpCME1WSVhGVjBfTjZhRTFwNnRabEJiRGJKWmhZUXBpeVJXNmZ6VTZvVFRydFRsMUR1LUFIV2ZsOWUzWEpQTVNXcmVPNVVKRzJn?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rTWthMmlhcjlvNjRvcFJka0JjU1NiRnpCME1WSVhGVjBfTjZhRTFwNnRabEJiRGJKWmhZUXBpeVJXNmZ6VTZvVFRydFRsMUR1LUFIV2ZsOWUzWEpQTVNXcmVPNVVKRzJn?oc=5",
-      "source_name": "毎日新聞",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-15T06:59:22+0900",
-      "status": "candidate",
-      "created_at": "2026-08-10T06:59:22+0900"
-    },
-    {
-      "seed_id": "seed_300c1414ae5c",
-      "trend_term": "バブル美容液マスク新発売",
-      "raw_title": "スキンケアブランド「RISM（リズム）」より、洗い流さないバブル美容液マスク「ピコレーザー マイクロバブルブライト」新発売 - prtimes.jp",
-      "summary": "スキンケアブランド「RISM」が洗い流さないバブル美容液マスク「ピコレーザー マイクロバブルブライト」を新発売。新製品の機能と位置づけが読者の選択肢になる。",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JNnAyZGxobm1sYTlSN0dza3VxSUtvN203anZCYlZwbGxhRlBlR0ZhRzVaS256VHNqUFBZSTJuWl9vWW5kZzRXMGtabndzT2hqMmQwNUZsRzF1amFaOHV0TTJsUEZ2dERZTFE?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JNnAyZGxobm1sYTlSN0dza3VxSUtvN203anZCYlZwbGxhRlBlR0ZhRzVaS256VHNqUFBZSTJuWl9vWW5kZzRXMGtabndzT2hqMmQwNUZsRzF1amFaOHV0TTJsUEZ2dERZTFE?oc=5",
-      "source_name": "prtimes.jp",
-      "monitor_id": "bm-machine-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-15T06:59:18+0900",
-      "status": "candidate",
-      "created_at": "2026-08-10T06:59:18+0900"
-    },
-    {
       "seed_id": "seed_c724f5535795",
       "trend_term": "クリニック選びの判断軸",
       "raw_title": "【美容医療の神ドクターに聞く】クリニック選びの決め手は？話題の渡韓施術は？ - 美ST ONLINE",
@@ -677,24 +641,6 @@
       "valid_until": "2026-08-17T14:57:20+0900",
       "status": "candidate",
       "created_at": "2026-08-03T14:57:20+0900"
-    },
-    {
-      "seed_id": "seed_2981ea77c44c",
-      "trend_term": "美容医療の安全リスク",
-      "raw_title": "美容医療＜2＞「最新治療」は事故のもと|いい大人の Life Design - 神戸新聞",
-      "summary": "最新治療が事故のもとになる可能性について、読者の安全に対する不安が背景にある記事",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94bW93MFVnRTdxUzJnTUFlbDh1Q3I0SFBMZExRa0hwS0Z3ckVJTDY5b0JvaXZWN0RLZ3dfRGxsU0lsRjlsY28wSW1VU1JjQ1ppSHFSMXJ6bzJ3R1RoZXNHTWdTRFVvT0JLMUxVWEh2SE01MVk0T3M3blpn?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94bW93MFVnRTdxUzJnTUFlbDh1Q3I0SFBMZExRa0hwS0Z3ckVJTDY5b0JvaXZWN0RLZ3dfRGxsU0lsRjlsY28wSW1VU1JjQ1ppSHFSMXJ6bzJ3R1RoZXNHTWdTRFVvT0JLMUxVWEh2SE01MVk0T3M3blpn?oc=5",
-      "source_name": "神戸新聞",
-      "monitor_id": "bm-safety-news",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "opinion",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-14T14:50:54+0900",
-      "status": "candidate",
-      "created_at": "2026-07-31T14:50:54+0900"
     }
   ]
 }
