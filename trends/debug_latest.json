@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T22:19:00+09:00",
+  "generated_at": "2026-08-16T06:54:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,46 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 9,
-    "passed_total": 117,
+    "neg_excluded": 4,
+    "dedup_excluded": 12,
+    "passed_total": 116,
     "b2b_category_counts": {
       "yahoo_realtime": 37,
       "google_trends": 10,
-      "x_realtime": 8,
-      "news_web": 13,
-      "yahoo_news_ranking": 2
+      "x_realtime": 7,
+      "yahoo_news_ranking": 3,
+      "news_web": 13
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "personal_story": 5,
-    "opinion": 10,
+    "social_reaction": 28,
+    "personal_story": 4,
+    "opinion": 9,
+    "policy": 9,
     "medical_science": 2,
-    "policy": 8,
-    "hard_fact": 16
+    "hard_fact": 18
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "opinion": 10,
+    "social_reaction": 28,
     "policy": 9,
-    "hard_fact": 16,
-    "personal_story": 5,
+    "opinion": 9,
+    "hard_fact": 19,
+    "personal_story": 4,
     "medical_science": 1
   },
   "b2b_top10": [
+    {
+      "title": "ヒロポンの強制投与で人生が破滅「元日本兵達の悲話」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "消費税減税の「穴」探る市場　インフレ頼みの財政に限界 - 日本経済新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
     {
       "title": "ニコニコ動画、有料会員数が90万人割れる　1年で10万人減少⋯直近に790→99",
       "source_category": "yahoo_realtime",
@@ -51,55 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "新幹線のトイレ、並んで5分以上経つのに出てこない→隣の車両のトイレも10分近く経",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "キャラソン文化は本当に衰退したのか？ZAQが見据えるキャラソンの現状と未来 - ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "google tensor",
+      "title": "誉田駅",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "チェルシー",
+      "title": "t シャツ が 乾く まで 7 話",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "チェルシー ソシエダ",
+      "title": "north",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "chelsea",
+      "title": "mlb速報",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "今井春花",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "アメリカ横断ウルトラクイズ",
+      "title": "バナナマン日村",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "正源司陽子",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "徳島 撮り 鉄",
+      "title": "カブス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,7 +107,25 @@
   ],
   "note_top10": [
     {
+      "title": "ヒロポンの強制投与で人生が破滅「元日本兵達の悲話」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "ニコニコ動画、有料会員数が90万人割れる　1年で10万人減少⋯直近に790→99",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "満州で終戦を迎え、夫不在で3人の子連れの母が死にもの狂いで日本を目指すが、引き揚",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "セブン-イレブンで客離れが起きている？圧倒的売上があっても他社に押され苦戦してい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -119,49 +137,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "キャラソン文化は本当に衰退したのか？ZAQが見据えるキャラソンの現状と未来 - ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "新入社員のときにフレネミーを炙り出そうとして信用しかねる社員数人に「誰にも知られ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
     },
     {
-      "title": "「子育てはご機嫌なおじさんを地球に納品する壮大なプロジェクト」というエッセイが話",
+      "title": "今年のコミケはやけに「ヤニねこ」の単行本を読みながら列に並ぶ人が多いなと思ったら",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "祖父が玉砕命令のために戦車の下に潜り込み、自爆用の爆薬の袋を枕にして、そのタイミ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "誉田駅",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "満州で終戦を迎え、夫不在で3人の子連れの母が死にもの狂いで日本を目指すが、引き揚",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "t シャツ が 乾く まで 7 話",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "芸人・九月さん「何で本と映画で何を得たか言語化しなきゃいけないんだよ！！！栄養な",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「これからは縦マンガだ！」とWebtoonに参入したセガサミーとバンダイが既に撤",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "（リサーチラボ）生産性向上が賃金上昇に反映されなかったのはなぜか：わが国のデフレ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "埼玉県東部は「埼玉」じゃない｜ナトリウム",
+      "title": "【2026.10.2 ON AIR】TVアニメ『薬屋のひとりごと』第3期 本PV",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
