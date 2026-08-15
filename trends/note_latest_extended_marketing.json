@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-15T06:44:05+09:00",
+ "generated_at": "2026-08-15T16:51:00+09:00",
  "valid_until": "2026-08-29T06:36:00+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -8,10 +8,10 @@
  "total_count": 40,
  "merge": {
   "parent": "marketing",
-  "from_current": 38,
-  "from_new": 6,
-  "expired_pruned": 2,
-  "retention_dropped": 2,
+  "from_current": 40,
+  "from_new": 1,
+  "expired_pruned": 0,
+  "retention_dropped": 1,
   "genres": 5,
   "retention_per_genre": 8
  },
@@ -258,6 +258,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "【2026年最新】インスタのアルゴリズムはどう変わった？公式発表から紐解く対策とNGワード例",
+   "url": "https://suzukinatsuka.com/instagram-algorithm-2026/",
+   "summary": "2026年のInstagramアルゴリズムは評価軸が「保存・いいね」から「閲覧数・シェア・DM」中心へシフトしたと解説。送信数(Sends per reach)が最重要シグナルに。ハッシュタグ上限が30個から5個に制限された点も指摘し、旧来の保存数重視の対策が通用しなくなっていると警告。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "marketing-sns",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "鈴木夏香公式サイト",
+    "expert_origin": true,
+    "search_query": "Instagram アルゴリズム 変更 2026 秋 リーチ 減少 対策",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-20T16:45:50+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "Xが約4,000アカウントを収益プログラムから除外：企業アカウントが見直すべきは「転載」より「文言」",
    "url": "https://socialreport.jp/blog/20260721-sr-137063/",
    "summary": "2026年7月にXが収益分配プログラムの不正対策を強化し約4000アカウントを除外。炎上の拡散速度が増す中、投稿前にAIで炎上リスクを確認するダブルチェック体制や週単位の投稿スケジュール整備を提案。秋のキャンペーン投稿を控える企業SNS担当者への実務的な注意喚起。",
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-17T16:46:05+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "ステマ規制で高光製薬に措置命令 SNS投稿依頼の事実隠蔽、サプリでは3例目",
-   "url": "https://wellness-news.co.jp/posts/260630-3/",
-   "summary": "消費者庁が高光製薬に景品表示法ステマ規制で措置命令。第三者に商品を無償提供しSNS投稿を依頼、その投稿を自社サイトに広告表示なく転載した点が違反認定された、サプリ業界で3例目の摘発事例。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "hard_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "marketing-sns",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "ウェルネスデイリーニュース",
-    "expert_origin": true,
-    "search_query": "ステマ規制 措置命令 高光製薬 PR表記 インフルエンサー 事業者 対応",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-17T06:36:47+09:00",
    "validity_days": 5
   },
   {
