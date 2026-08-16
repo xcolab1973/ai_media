@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-15T16:51:00+09:00",
+ "generated_at": "2026-08-17T06:46:54+09:00",
  "valid_until": "2026-08-29T16:44:46+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "mgmt",
   "from_current": 24,
-  "from_new": 2,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 2,
+  "retention_dropped": 1,
   "genres": 3,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "中小企業の経理は楽なのか？実際に働いた私の結論",
+   "url": "https://note.com/small_job_change/n/nb696b7492207",
+   "summary": "中小企業の経理担当として働いた筆者が、月次・年次決算、税務対応、資金繰り、管理会計、社長対応まで業務範囲が広く負担が大きいと振り返る一次体験記。人手不足・属人化に悩む中小企業経理の現場感覚が伝わり、経理×人材不足のクロスジャンルの切り口に使える。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "mgmt-finance",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "note（弱小経理マン）",
+    "expert_origin": false,
+    "search_query": "経理 決算 締め 大変 知恵袋 中小企業",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-24T06:41:13+09:00",
+   "validity_days": 7
+  },
   {
    "source_category": "news_web",
    "raw_title": "中小企業の資金調達：資本性劣後ローンについて",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-19T06:36:11+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "確定拠出年金の拠出限度額を見直し（令和8年12月～）",
-   "url": "https://www.psrn.jp/topics/detail.php?id=39405",
-   "summary": "令和8年12月から確定拠出年金の拠出限度額を月6.2万円に統一する「穴埋め方式」へ移行。簡易型DCは標準の企業型DCに統合され廃止。企業は規約変更や従業員説明など数カ月かかる対応を前倒しで検討する必要がある。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "mgmt-finance",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "社会保険労務士PSRネットワーク",
-    "expert_origin": true,
-    "search_query": "企業型DC iDeCo 拠出限度額 引き上げ 規約変更 手続き 期限 中小企業",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-18T06:41:57+09:00",
    "validity_days": 7
   },
   {
