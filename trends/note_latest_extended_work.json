@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-08-15T16:51:00+09:00",
+ "generated_at": "2026-08-16T16:58:29+09:00",
  "valid_until": "2026-08-29T16:50:00+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "work",
- "total_count": 30,
+ "total_count": 29,
  "merge": {
   "parent": "work",
-  "from_current": 31,
-  "from_new": 1,
+  "from_current": 30,
+  "from_new": 0,
   "expired_pruned": 1,
-  "retention_dropped": 1,
+  "retention_dropped": 0,
   "genres": 4,
   "retention_per_genre": 8
  },
@@ -644,36 +644,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-20T16:56:09+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "副業を始めたいのですが、なにか在宅で始めやすいもののおすすめなどはございますか",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11309447566",
-   "summary": "副業を始めたいが「何から手をつければいいか分からない」という会社員からの生の相談。在宅でできる副業の選び方に迷う初心者の典型的なつまずきが表れている。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "work-sidejob-start",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "副業 始めたい 何から 会社員 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-16T16:52:59+09:00",
    "validity_days": 14
   },
   {
