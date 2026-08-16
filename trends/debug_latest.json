@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T17:02:00+09:00",
+  "generated_at": "2026-08-16T22:21:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,42 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 9,
-    "passed_total": 115,
+    "neg_excluded": 4,
+    "dedup_excluded": 10,
+    "passed_total": 118,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 36,
       "google_trends": 10,
+      "news_web": 12,
       "x_realtime": 8,
-      "news_web": 13,
       "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "opinion": 10,
-    "personal_story": 1,
+    "social_reaction": 31,
     "medical_science": 2,
-    "policy": 6,
-    "hard_fact": 21
+    "personal_story": 1,
+    "opinion": 10,
+    "hard_fact": 19,
+    "policy": 7
   },
   "b2b_topic_category_counts": {
+    "hard_fact": 22,
     "social_reaction": 30,
-    "policy": 7,
-    "opinion": 10,
-    "hard_fact": 21,
+    "policy": 6,
     "medical_science": 1,
+    "opinion": 10,
     "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "「みぃちゃんと山田さん」は、内容とか完成度とかはともかく、Web上で話題..",
+      "title": "千葉県にあるサバゲーフィールドが今回の豪雨で水没したがその状態でゲームを決行しベ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "5・7・5は俳句で7・7・7・5は都々逸だけど「墾田永年私財法」みたいな4・4・",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -57,49 +63,43 @@
       "topic_category": "policy"
     },
     {
-      "title": "川崎フロンターレ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ヒロポンの強制投与で人生が破滅「元日本兵達の悲話」",
+      "title": "中東7割から1割へ、ナフサ供給網の半年",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ロシアのロケット宇宙センター「プログレス」がウクライナ軍のミサイル攻撃を受けて炎",
+      "title": "加藤典洋はなぜアメリカでもキャンセルされたのか｜與那覇潤の論説Bistro",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "medical_science"
     },
     {
-      "title": "孫",
+      "title": "アーセナル 対 マンc",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "シュンスカイウォーカー",
+      "title": "逃げ恥",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "横浜高校 織田",
+      "title": "マンチェスターシティ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "『ラヴ上等』、法務省が釈明したが止まらない批判…誹謗中傷を控えるよう声明が出たが",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "malaysia đấu với việt nam",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "横浜",
+      "title": "宮崎駿",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,63 +107,63 @@
   ],
   "note_top10": [
     {
-      "title": "「みぃちゃんと山田さん」は、内容とか完成度とかはともかく、Web上で話題..",
+      "title": "5・7・5は俳句で7・7・7・5は都々逸だけど「墾田永年私財法」みたいな4・4・",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ヒロポンの強制投与で人生が破滅「元日本兵達の悲話」",
+      "title": "中東7割から1割へ、ナフサ供給網の半年",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『ラヴ上等』、法務省が釈明したが止まらない批判…誹謗中傷を控えるよう声明が出たが",
+      "title": "ひょっとしてA級戦犯について「A級だから1番悪いヤツらなんだ」と勘違いしてる人が",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ロシアのロケット宇宙センター「プログレス」がウクライナ軍のミサイル攻撃を受けて炎",
+      "title": "アメリカの航空局が「ゲーマーを航空管制官として採用する」というキャンペーンで20",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "上野動物園のパンダ舎 あすから解体 多くの人が最後の別れ | NHKニュース",
+      "title": "リッチー・ブラックモア　33年ぶりにディープ・パープルと共演したことを語る「とて",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "友人の結婚式に招待されたのでレンタルドレス屋に行ったら、店員が勧めてくるドレスが",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "お盆休みの海外旅行、行きはJALのファーストクラス、帰りはANAのファーストクラ",
+      "title": "今年は開店1時間で270人が来店…毎年話題になるベローチェ有明店だが、“総指揮官",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「クスクス…お兄さんはもうこの村から出られないんだよ…？」ド田舎のお盆特別ダイヤ",
+      "title": "娘が夏休みの科学工作の宿題で作った「しっぽぶんぶんボーダーコリー」とモデルになっ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "コミケの一斉点検のときに「不審な物や人を見かけたら……」みたいな放送が流れる中、",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「今日はおいしくないと思う天ぷらを揚げてみましょう！なんでやねん」日本料理だけを",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "警察に職業を聞かれ、「浪人生」と答えたら「浪人ってなにかな？」と意味が通じなかっ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "加藤典洋はなぜアメリカでもキャンセルされたのか｜與那覇潤の論説Bistro",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "皇統譜（旧譜）が明かす「双系」・「女系」継承の事実　天壌無窮の神勅は「女系」継承",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
