@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T06:54:00+09:00",
+  "generated_at": "2026-08-16T11:46:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,52 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 4,
-    "dedup_excluded": 12,
+    "neg_excluded": 6,
+    "dedup_excluded": 10,
     "passed_total": 116,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
+      "x_realtime": 8,
+      "yahoo_realtime": 32,
       "google_trends": 10,
-      "x_realtime": 7,
-      "yahoo_news_ranking": 3,
-      "news_web": 13
+      "yahoo_news_ranking": 6,
+      "news_web": 14
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "personal_story": 4,
-    "opinion": 9,
-    "policy": 9,
+    "social_reaction": 32,
+    "opinion": 10,
+    "personal_story": 2,
     "medical_science": 2,
-    "hard_fact": 18
+    "policy": 5,
+    "hard_fact": 19
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
-    "policy": 9,
-    "opinion": 9,
-    "hard_fact": 19,
-    "personal_story": 4,
-    "medical_science": 1
+    "social_reaction": 30,
+    "policy": 4,
+    "opinion": 10,
+    "hard_fact": 22,
+    "medical_science": 2,
+    "personal_story": 2
   },
   "b2b_top10": [
+    {
+      "title": "松屋で爺さんが紅生姜を箸で取り出して牛丼に乗せていたので、「トング使いなよ」と注",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中国のライドシェアDiDiで初めて、日本人だからという理由で乗車拒否に…カスタマ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "友人の結婚式に招待されたのでレンタルドレス屋に行ったら、店員が勧めてくるドレスが",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "ヒロポンの強制投与で人生が破滅「元日本兵達の悲話」",
       "source_category": "yahoo_realtime",
@@ -57,55 +75,55 @@
       "topic_category": "policy"
     },
     {
-      "title": "ニコニコ動画、有料会員数が90万人割れる　1年で10万人減少⋯直近に790→99",
+      "title": "有明高校 甲子園",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "東日本国際大昌平",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "命の危険に直面 炎天下で働く人々",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "子の水難 助けに飛び込むのはNG",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_science",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "子どもがイタリアンレストランのバイトで「説明している時にメモ取るな」と言われ、翌",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    }
+  ],
+  "note_top10": [
+    {
+      "title": "松屋で爺さんが紅生姜を箸で取り出して牛丼に乗せていたので、「トング使いなよ」と注",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中国のライドシェアDiDiで初めて、日本人だからという理由で乗車拒否に…カスタマ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "友人の結婚式に招待されたのでレンタルドレス屋に行ったら、店員が勧めてくるドレスが",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
-    {
-      "title": "誉田駅",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "t シャツ が 乾く まで 7 話",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "north",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "mlb速報",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "今井春花",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "バナナマン日村",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "カブス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    }
-  ],
-  "note_top10": [
     {
       "title": "ヒロポンの強制投与で人生が破滅「元日本兵達の悲話」",
       "source_category": "yahoo_realtime",
@@ -113,55 +131,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ニコニコ動画、有料会員数が90万人割れる　1年で10万人減少⋯直近に790→99",
+      "title": "子どもがイタリアンレストランのバイトで「説明している時にメモ取るな」と言われ、翌",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "満州で終戦を迎え、夫不在で3人の子連れの母が死にもの狂いで日本を目指すが、引き揚",
+      "title": "円安時代、旅行との付き合い方　「旅と旅のあいだ」を豊かに過ごす - 日本経済新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "セブン-イレブンで客離れが起きている？圧倒的売上があっても他社に押され苦戦してい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "新幹線のトイレ、並んで5分以上経つのに出てこない→隣の車両のトイレも10分近く経",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "新入社員のときにフレネミーを炙り出そうとして信用しかねる社員数人に「誰にも知られ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "今年のコミケはやけに「ヤニねこ」の単行本を読みながら列に並ぶ人が多いなと思ったら",
+      "title": "「エヴァンゲリオン」のキャラクターを「ちいかわ」化したファンアートがだいたい解釈",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "誉田駅",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "ただの私の勘違いで錯覚なのはわかってる。亡くなった愛犬が使ってたグラスを手に取っ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "t シャツ が 乾く まで 7 話",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "自分の結婚式、友達に派手な格好で来てほしい！とお願いしたんだけど、赤いチャイナド",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "【2026.10.2 ON AIR】TVアニメ『薬屋のひとりごと』第3期 本PV",
+      "title": "バスタオル、キャンセル派が3割　部屋の狭さ・物価高から小さめ台頭 - 日本経済新",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
