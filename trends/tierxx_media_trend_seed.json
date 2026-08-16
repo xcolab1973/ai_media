@@ -2,8 +2,8 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-16T16:55:31+0900",
-    "record_count": 34,
+    "generated_at": "2026-08-17T06:48:49+0900",
+    "record_count": 32,
     "source_total_in_db": 856,
     "provenance_breakdown": {
       "evidence": 547,
@@ -569,42 +569,6 @@
       "valid_until": "2026-08-17T13:22:07+0900",
       "status": "candidate",
       "created_at": "2026-08-12T13:22:07+0900"
-    },
-    {
-      "seed_id": "seed_58775919b501",
-      "trend_term": "医療ステマ規制の課題",
-      "raw_title": "血液クレンジング騒動で見えた広告規制の限界 SNSの｢医療ステマ投稿｣は野放し状態 - 東洋経済オンライン",
-      "summary": "血液クレンジング騒動を契機に、SNS上の医療関連ステマ投稿が広告規制の対象外となり野放し状態であることが指摘されている。",
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oVFVkdHl4LTAwT3B4UDNMWnpzWTFPU1gtU2FXaVg3cGl5dE9fRE02RmZTSnJ0cU1kTnQweWg4T09aZ2dCQmF5OEZiaFZLY1BrVzlkaWhSNkhQcExJNUNj?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oVFVkdHl4LTAwT3B4UDNMWnpzWTFPU1gtU2FXaVg3cGl5dE9fRE02RmZTSnJ0cU1kTnQweWg4T09aZ2dCQmF5OEZiaFZLY1BrVzlkaWhSNkhQcExJNUNj?oc=5",
-      "source_name": "東洋経済オンライン",
-      "monitor_id": "bm-sns-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-16T17:31:01+0900",
-      "status": "candidate",
-      "created_at": "2026-08-11T17:31:01+0900"
-    },
-    {
-      "seed_id": "seed_2b1a74d2a52c",
-      "trend_term": "再生医療法見直し",
-      "raw_title": "再生医療法見直しへ議論開始 想定外に広がる自由診療、実態解明を - 日本経済新聞",
-      "summary": "再生医療法の見直しについて議論開始。自由診療として想定外に広がる実態について実態解明を進める動き",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xelVWdF91VUJnVW9oWVNRWkZGVlNfMFBMc0tySDlMeHpySURiaGNxWUlIWF8wSkVCeE9ZOFpFVUhUWEtISHBsVjJoMFNDcTdxeUhGQW1MWk5uTWE4VkVRd2FLZV9sN3hTYmxwNA?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xelVWdF91VUJnVW9oWVNRWkZGVlNfMFBMc0tySDlMeHpySURiaGNxWUlIWF8wSkVCeE9ZOFpFVUhUWEtISHBsVjJoMFNDcTdxeUhGQW1MWk5uTWE4VkVRd2FLZV9sN3hTYmxwNA?oc=5",
-      "source_name": "日本経済新聞",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-16T17:30:46+0900",
-      "status": "candidate",
-      "created_at": "2026-08-11T17:30:46+0900"
     },
     {
       "seed_id": "seed_c724f5535795",
