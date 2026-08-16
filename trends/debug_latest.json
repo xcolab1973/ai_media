@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T11:46:00+09:00",
+  "generated_at": "2026-08-16T17:02:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,110 +16,98 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 10,
-    "passed_total": 116,
+    "neg_excluded": 8,
+    "dedup_excluded": 9,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "x_realtime": 8,
-      "yahoo_realtime": 32,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "yahoo_news_ranking": 6,
-      "news_web": 14
+      "x_realtime": 8,
+      "news_web": 13,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
+    "social_reaction": 30,
     "opinion": 10,
-    "personal_story": 2,
+    "personal_story": 1,
     "medical_science": 2,
-    "policy": 5,
-    "hard_fact": 19
+    "policy": 6,
+    "hard_fact": 21
   },
   "b2b_topic_category_counts": {
     "social_reaction": 30,
-    "policy": 4,
+    "policy": 7,
     "opinion": 10,
-    "hard_fact": 22,
-    "medical_science": 2,
-    "personal_story": 2
+    "hard_fact": 21,
+    "medical_science": 1,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "松屋で爺さんが紅生姜を箸で取り出して牛丼に乗せていたので、「トング使いなよ」と注",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中国のライドシェアDiDiで初めて、日本人だからという理由で乗車拒否に…カスタマ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "友人の結婚式に招待されたのでレンタルドレス屋に行ったら、店員が勧めてくるドレスが",
+      "title": "「みぃちゃんと山田さん」は、内容とか完成度とかはともかく、Web上で話題..",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ヒロポンの強制投与で人生が破滅「元日本兵達の悲話」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "消費税減税の「穴」探る市場　インフレ頼みの財政に限界 - 日本経済新聞",
+      "title": "サナエノミクス・とことんセンスのなさ - 経済を良くするって、どうすれば",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "有明高校 甲子園",
+      "title": "川崎フロンターレ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "東日本国際大昌平",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "命の危険に直面 炎天下で働く人々",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "子の水難 助けに飛び込むのはNG",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_science",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "子どもがイタリアンレストランのバイトで「説明している時にメモ取るな」と言われ、翌",
+      "title": "ヒロポンの強制投与で人生が破滅「元日本兵達の悲話」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "ロシアのロケット宇宙センター「プログレス」がウクライナ軍のミサイル攻撃を受けて炎",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "孫",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "シュンスカイウォーカー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "横浜高校 織田",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "『ラヴ上等』、法務省が釈明したが止まらない批判…誹謗中傷を控えるよう声明が出たが",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "横浜",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "松屋で爺さんが紅生姜を箸で取り出して牛丼に乗せていたので、「トング使いなよ」と注",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中国のライドシェアDiDiで初めて、日本人だからという理由で乗車拒否に…カスタマ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "友人の結婚式に招待されたのでレンタルドレス屋に行ったら、店員が勧めてくるドレスが",
+      "title": "「みぃちゃんと山田さん」は、内容とか完成度とかはともかく、Web上で話題..",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -131,39 +119,51 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "子どもがイタリアンレストランのバイトで「説明している時にメモ取るな」と言われ、翌",
+      "title": "『ラヴ上等』、法務省が釈明したが止まらない批判…誹謗中傷を控えるよう声明が出たが",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "円安時代、旅行との付き合い方　「旅と旅のあいだ」を豊かに過ごす - 日本経済新聞",
+      "title": "ロシアのロケット宇宙センター「プログレス」がウクライナ軍のミサイル攻撃を受けて炎",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「エヴァンゲリオン」のキャラクターを「ちいかわ」化したファンアートがだいたい解釈",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ただの私の勘違いで錯覚なのはわかってる。亡くなった愛犬が使ってたグラスを手に取っ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "自分の結婚式、友達に派手な格好で来てほしい！とお願いしたんだけど、赤いチャイナド",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "バスタオル、キャンセル派が3割　部屋の狭さ・物価高から小さめ台頭 - 日本経済新",
+      "title": "上野動物園のパンダ舎 あすから解体 多くの人が最後の別れ | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "友人の結婚式に招待されたのでレンタルドレス屋に行ったら、店員が勧めてくるドレスが",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "お盆休みの海外旅行、行きはJALのファーストクラス、帰りはANAのファーストクラ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「クスクス…お兄さんはもうこの村から出られないんだよ…？」ド田舎のお盆特別ダイヤ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "コミケの一斉点検のときに「不審な物や人を見かけたら……」みたいな放送が流れる中、",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "警察に職業を聞かれ、「浪人生」と答えたら「浪人ってなにかな？」と意味が通じなかっ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
