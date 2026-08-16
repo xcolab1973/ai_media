@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-16T06:47:50+0900",
-    "record_count": 35,
-    "source_total_in_db": 853,
+    "generated_at": "2026-08-16T12:27:08+0900",
+    "record_count": 34,
+    "source_total_in_db": 854,
     "provenance_breakdown": {
-      "evidence": 544,
+      "evidence": 545,
       "pain_seed": 309
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_f9989611af78",
+      "trend_term": "次世代型スキンブースター",
+      "raw_title": "NEO Skin Clinic 恵比寿、次世代型スキンブースター「リトゥオ（Re2O） / ブナジュ（BNAJU）」を提供開始 - CLASSY.[クラッシィ]",
+      "summary": "NEO Skin Clinic 恵比寿が次世代型スキンブースター「リトゥオ（Re2O）」「ブナジュ（BNAJU）」の提供を開始。新技術の導入事例。",
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iMlFNVmZCaVd5N1NrTGoyZ3RzdnZneWZ6YTY2TjB2Sk8yVEl0cGFFZ095bzRUUlIzNWxLdjc2V1hLYkdfckZHZzhrWWtpY0xjci0yUWx3Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iMlFNVmZCaVd5N1NrTGoyZ3RzdnZneWZ6YTY2TjB2Sk8yVEl0cGFFZ095bzRUUlIzNWxLdjc2V1hLYkdfckZHZzhrWWtpY0xjci0yUWx3Zw?oc=5",
+      "source_name": "CLASSY.[クラッシィ]",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-21T12:26:48+0900",
+      "status": "candidate",
+      "created_at": "2026-08-16T12:26:48+0900"
+    },
     {
       "seed_id": "seed_7b3ba97c9d54",
       "trend_term": "ボトックス失敗と安全性",
@@ -355,24 +373,6 @@
       "created_at": "2026-08-13T13:25:29+0900"
     },
     {
-      "seed_id": "seed_d2d6f996dec6",
-      "trend_term": "ジュビダーム集団訴訟",
-      "raw_title": "ヒアルロン酸注入は当たり前？米国ジュビダーム集団訴訟が示す美容医療のリスク - coki.jp",
-      "summary": "米国でヒアルロン酸注入製品ジュビダームの集団訴訟が発生。美容医療のリスク事例として報告されている。",
-      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pT0IzM0hDek1ZVVFNekprT21ZVVlDUlBSLUFCWmtDRHJtM1B3am9EY2c2N0NDY0NWT1dKVnlKZUZmZFJuNEVTc3pjbkhWZw?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pT0IzM0hDek1ZVVFNekprT21ZVVlDUlBSLUFCWmtDRHJtM1B3am9EY2c2N0NDY0NWT1dKVnlKZUZmZFJuNEVTc3pjbkhWZw?oc=5",
-      "source_name": "coki.jp",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-18T07:11:56+0900",
-      "status": "candidate",
-      "created_at": "2026-08-13T07:11:56+0900"
-    },
-    {
       "seed_id": "seed_06305e7ed5d1",
       "trend_term": "違法「直カウ」問題",
       "raw_title": "厚労省も「違法」明文化...高須院長が「世の中を舐めている」と断じる美容業界の「直カウ」とは - Yahoo!ニュース",
@@ -605,24 +605,6 @@
       "valid_until": "2026-08-16T17:30:46+0900",
       "status": "candidate",
       "created_at": "2026-08-11T17:30:46+0900"
-    },
-    {
-      "seed_id": "seed_d6085f6aa493",
-      "trend_term": "美容施術の依存リスク",
-      "raw_title": "美容施術経験者の5人に1人が依存リスク――SNSが美のゴールポストを動かす - ニコニコニュース",
-      "summary": "美容施術経験者の5人に1人が依存リスクを抱えており、SNSが美のスタンダードを変動させている現象について報告されている。",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6cE8zTnNVM3o0QWhqZ0l6cmd1eElMQkVVcHpnV2lDblc2ekdxOW9FbVF6cFZ1bjdCWlZlOVpMZy1jVWlqYktab2IxdmR3OHFfZGlTaFVlWFFwQ2luaFJkcEJ0VXJFUnd1cGtNbzZha3JWVGc?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6cE8zTnNVM3o0QWhqZ0l6cmd1eElMQkVVcHpnV2lDblc2ekdxOW9FbVF6cFZ1bjdCWlZlOVpMZy1jVWlqYktab2IxdmR3OHFfZGlTaFVlWFFwQ2luaFJkcEJ0VXJFUnd1cGtNbzZha3JWVGc?oc=5",
-      "source_name": "ニコニコニュース",
-      "monitor_id": "bm-sns-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-16T07:08:13+0900",
-      "status": "candidate",
-      "created_at": "2026-08-11T07:08:13+0900"
     },
     {
       "seed_id": "seed_c724f5535795",
