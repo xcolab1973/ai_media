@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T11:46:00+09:00",
+  "generated_at": "2026-08-17T17:25:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,151 +16,152 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 4,
-    "dedup_excluded": 11,
-    "passed_total": 117,
+    "neg_excluded": 5,
+    "dedup_excluded": 13,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
+      "yahoo_realtime": 37,
       "news_web": 14,
-      "yahoo_news_ranking": 4,
       "google_trends": 10,
-      "x_realtime": 9
+      "x_realtime": 5,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 36,
-    "opinion": 8,
+    "social_reaction": 32,
     "personal_story": 1,
-    "medical_science": 2,
-    "hard_fact": 20,
+    "opinion": 10,
+    "hard_fact": 21,
+    "medical_science": 3,
     "policy": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
-    "hard_fact": 25,
-    "opinion": 8,
-    "medical_science": 1,
-    "policy": 3
+    "social_reaction": 32,
+    "hard_fact": 22,
+    "opinion": 10,
+    "personal_story": 1,
+    "policy": 3,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "5・7・5は俳句で7・7・7・5は都々逸だけど「墾田永年私財法」みたいな4・4・",
+      "title": "「僕らは、死ぬためにラグビーをしてるんじゃない」現役ラグビー選手による「なぜ夏に",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "各地で厳しい残暑 熱中症に注意",
+      "title": "「comico」来年1月でサービス終了",
       "source_category": "news_web",
       "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "4-6月期の実質GDP 3期連続プラス",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
+      "title": "高校 野球 準々 決勝",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "家を買う経済力がないまま50歳を過ぎて、この先も賃貸住まいの予定だが、引越しする",
+      "title": "PayPay銀行よ、ただの広告に『大切なご案内』なんて言葉使うんじゃないよ…たと",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ロシアの経済",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ドラクエ 人生ゲーム",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ローチケ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "Cロナウド 今季終了後の引退示唆",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_sports",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "【独自】精神疾患の日本兵に感染人体実験　蚊用意、マラリア発症 | NEWSjp",
+      "title": "プロテイン買うお金あったらその分銀鮭買ったほうがいいと思う、理由はプロテインより",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "コイン精米所に虫喰いクズ米を詰まらせて店内を虫だらけにして逃げた人がいたが、分解",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "福岡県議会",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "iphone18pro",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "風の谷のナウシカに対する「すごい、隠れた名作！もっと知られてほしい」という感想が",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "派遣社員は社員食堂や給茶機は使えなかった…さらに机で食べるのは禁止、休憩室は社員",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ブラック トリック",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "5・7・5は俳句で7・7・7・5は都々逸だけど「墾田永年私財法」みたいな4・4・",
+      "title": "「僕らは、死ぬためにラグビーをしてるんじゃない」現役ラグビー選手による「なぜ夏に",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "コイン精米所に虫喰いクズ米を詰まらせて店内を虫だらけにして逃げた人がいたが、分解",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "家を買う経済力がないまま50歳を過ぎて、この先も賃貸住まいの予定だが、引越しする",
+      "title": "PayPay銀行よ、ただの広告に『大切なご案内』なんて言葉使うんじゃないよ…たと",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ミルザ・ガセミ｜イラン・カスピ海地方料理",
+      "title": "プロテイン買うお金あったらその分銀鮭買ったほうがいいと思う、理由はプロテインより",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "スーパーボールの中にポケモンが入ってるおもちゃ、小さい頃にこれを無理やり割って取",
+      "title": "「日本の新幹線の価格は異常」日本と中国を比較した場合、同距離で約3分の1の価格と",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "タイの料理番組で「タイ料理には味の素が大切です」と紹介されており、さらにその理由",
+      "title": "『今日はおいしくないと思う天ぷらを揚げてみましょう！』辻調理師専門学校が失敗を体",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "「俺の財宝か？欲しけりゃくれてやる」『みい山』今際の際のみいちゃん、その目の前に",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ケンティーはスカイライナーの広告で『お姫様にしてあげる』みたいなのがあって、あー",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "なぜ大宮は「都会っぽくない」のか？　巨大ターミナルなのに物足りなく感じる背景",
+      "title": "風の谷のナウシカに対する「すごい、隠れた名作！もっと知られてほしい」という感想が",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "トランプ大統領 米韓合同軍事演習“縮小を指示” | NHKニュース",
+      "title": "派遣社員は社員食堂や給茶機は使えなかった…さらに机で食べるのは禁止、休憩室は社員",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「娘の将来がちょっと心配になりました🥲」姉妹が「あつ森」内の金銭トラブルで大もめ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "韓国で犬肉禁止前「最後の夏」　伝統の味惜しむ高齢客、価値観異なる若者との分断（ロ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "北海道にツーリングに行きたいと思っているなら絶対早いうちに行った方がいいと主張…",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
