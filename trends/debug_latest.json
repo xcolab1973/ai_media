@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T06:53:00+09:00",
+  "generated_at": "2026-08-17T11:46:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,52 +16,33 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 2,
-    "dedup_excluded": 12,
-    "passed_total": 118,
+    "neg_excluded": 4,
+    "dedup_excluded": 11,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "google_trends": 9,
-      "news_web": 12,
-      "yahoo_realtime": 38,
-      "x_realtime": 8,
-      "yahoo_news_ranking": 3
+      "yahoo_realtime": 33,
+      "news_web": 14,
+      "yahoo_news_ranking": 4,
+      "google_trends": 10,
+      "x_realtime": 9
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
-    "medical_science": 2,
-    "opinion": 3,
+    "social_reaction": 36,
+    "opinion": 8,
     "personal_story": 1,
-    "hard_fact": 27,
-    "policy": 2
+    "medical_science": 2,
+    "hard_fact": 20,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 28,
-    "social_reaction": 35,
+    "social_reaction": 33,
+    "hard_fact": 25,
+    "opinion": 8,
     "medical_science": 1,
-    "policy": 2,
-    "opinion": 3,
-    "personal_story": 1
+    "policy": 3
   },
   "b2b_top10": [
-    {
-      "title": "地震速報",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "地震",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "Cロナウド 今季終了後の引退示唆",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
     {
       "title": "5・7・5は俳句で7・7・7・5は都々逸だけど「墾田永年私財法」みたいな4・4・",
       "source_category": "yahoo_realtime",
@@ -69,40 +50,58 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "中東7割から1割へ、ナフサ供給網の半年",
+      "title": "各地で厳しい残暑 熱中症に注意",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "4-6月期の実質GDP 3期連続プラス",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "家を買う経済力がないまま50歳を過ぎて、この先も賃貸住まいの予定だが、引越しする",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "加藤典洋はなぜアメリカでもキャンセルされたのか｜與那覇潤の論説Bistro",
+      "title": "ロシアの経済",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ドラクエ 人生ゲーム",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ローチケ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "Cロナウド 今季終了後の引退示唆",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_sports",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "【独自】精神疾患の日本兵に感染人体実験　蚊用意、マラリア発症 | NEWSjp",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "medical_science"
     },
     {
-      "title": "千葉県にあるサバゲーフィールドが今回の豪雨で水没したがその状態でゲームを決行しベ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "サナエノミクス・とことんセンスのなさ - 経済を良くするって、どうすれば",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "地震 福岡",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "地震情報",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
+      "title": "コイン精米所に虫喰いクズ米を詰まらせて店内を虫だらけにして逃げた人がいたが、分解",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
@@ -113,55 +112,55 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "中東7割から1割へ、ナフサ供給網の半年",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「読書好きが絶対に許さない本の置き方」というXの投稿に賛否両論が集まるが、どちら",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "チャットGPTに相談し母と弟を殺害か　米の17歳少年訴追「空想のストーリーを相談",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "今年は開店1時間で270人が来店…毎年話題になるベローチェ有明店だが、“総指揮官",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「同人誌即売会で一万円を使用するのはダメ」という文化があるが午後入場組はそれが助",
+      "title": "コイン精米所に虫喰いクズ米を詰まらせて店内を虫だらけにして逃げた人がいたが、分解",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "加藤典洋はなぜアメリカでもキャンセルされたのか｜與那覇潤の論説Bistro",
+      "title": "家を買う経済力がないまま50歳を過ぎて、この先も賃貸住まいの予定だが、引越しする",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "コミックマーケット50周年「C108」のコスプレは「ヤニねこ」「ちいかわ」から安",
+      "title": "ミルザ・ガセミ｜イラン・カスピ海地方料理",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "スーパーボールの中にポケモンが入ってるおもちゃ、小さい頃にこれを無理やり割って取",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "目覚めたらシーツが血まみれで、背中には刺し傷が複数あったんだけど。ベッドのマット",
+      "title": "タイの料理番組で「タイ料理には味の素が大切です」と紹介されており、さらにその理由",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「今日はおいしくないと思う天ぷらを揚げてみましょう！なんでやねん」日本料理だけを",
+      "title": "「俺の財宝か？欲しけりゃくれてやる」『みい山』今際の際のみいちゃん、その目の前に",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ケンティーはスカイライナーの広告で『お姫様にしてあげる』みたいなのがあって、あー",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "なぜ大宮は「都会っぽくない」のか？　巨大ターミナルなのに物足りなく感じる背景",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "トランプ大統領 米韓合同軍事演習“縮小を指示” | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
