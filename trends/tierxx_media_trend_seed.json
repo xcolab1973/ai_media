@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-17T17:08:33+0900",
+    "generated_at": "2026-08-18T06:52:04+0900",
     "record_count": 28,
-    "source_total_in_db": 861,
+    "source_total_in_db": 862,
     "provenance_breakdown": {
       "evidence": 550,
-      "pain_seed": 311
+      "pain_seed": 312
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_eb77ad99db9c",
+      "trend_term": "著名人のボトックス活用",
+      "raw_title": "【1ページ目】箕輪厚介氏 印象激変で好感度アップ「歯茎が出なくなった。全部ボトックスのおかげ」 - 東スポWeb",
+      "summary": "著名人が美容医療で印象改善を実感した事例。読者の「実際の効果」への関心・不安を示す素材",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0ycHhEOFUzVGlFc21aM05Gbm5uMGFkbGNsOFIyYU1qV05KUnB3MFlzX2haWUk1WmdqRmx6SE1fX3F0YXA1OF9hOFZjQy12eEI0TVp5MWE1c3hLM1hPdVp4QnFNVGpVQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0ycHhEOFUzVGlFc21aM05Gbm5uMGFkbGNsOFIyYU1qV05KUnB3MFlzX2haWUk1WmdqRmx6SE1fX3F0YXA1OF9hOFZjQy12eEI0TVp5MWE1c3hLM1hPdVp4QnFNVGpVQQ?oc=5",
+      "source_name": "東スポWeb",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "opinion",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-09-01T06:51:43+0900",
+      "status": "candidate",
+      "created_at": "2026-08-18T06:51:43+0900"
+    },
     {
       "seed_id": "seed_02abc1a07c7c",
       "trend_term": "美容皮膚科新規開院",
@@ -389,24 +407,6 @@
       "valid_until": "2026-08-18T17:51:49+0900",
       "status": "candidate",
       "created_at": "2026-08-13T17:51:49+0900"
-    },
-    {
-      "seed_id": "seed_91d1e0f2a9a0",
-      "trend_term": "ボトックス失敗リスク",
-      "raw_title": "「本当に恥ずかしい」ブリトニー・スピアーズ、ボトックス失敗を告白 「自分の体を大切に」ファンに警鐘 - 千葉テレビ放送",
-      "summary": "著名人がボトックス失敗体験を公開告白。施術の失敗事例と自身の体を大切にすることについて言及。",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tTm0xT1laMm5zaUtKc0FyNlVsbjZfWjBfUHNvS1JSdGp4cHhqZ1NuWE54Z3dHT2JEMHNTbGhyMl9NaF94MWxWRFZuVno5SHZySkItUjc3WHVLVVhOQ1RCWlZfWEo?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tTm0xT1laMm5zaUtKc0FyNlVsbjZfWjBfUHNvS1JSdGp4cHhqZ1NuWE54Z3dHT2JEMHNTbGhyMl9NaF94MWxWRFZuVno5SHZySkItUjc3WHVLVVhOQ1RCWlZfWEo?oc=5",
-      "source_name": "千葉テレビ放送",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "opinion",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-27T17:51:45+0900",
-      "status": "candidate",
-      "created_at": "2026-08-13T17:51:45+0900"
     },
     {
       "seed_id": "seed_a74de88e9448",
