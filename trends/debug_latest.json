@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T06:57:00+09:00",
+  "generated_at": "2026-08-18T11:41:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,38 +16,45 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 7,
+    "neg_excluded": 7,
+    "dedup_excluded": 10,
     "passed_total": 115,
     "b2b_category_counts": {
-      "x_realtime": 9,
-      "yahoo_realtime": 38,
       "google_trends": 10,
-      "yahoo_news_ranking": 3,
-      "news_web": 10
+      "yahoo_realtime": 35,
+      "news_web": 14,
+      "x_realtime": 8,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 39,
-    "personal_story": 2,
+    "personal_story": 4,
+    "social_reaction": 30,
     "opinion": 10,
-    "policy": 3,
-    "hard_fact": 14,
-    "medical_science": 2
+    "medical_science": 4,
+    "hard_fact": 15,
+    "policy": 7
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 39,
-    "personal_story": 2,
     "opinion": 10,
-    "hard_fact": 16,
-    "policy": 3
+    "hard_fact": 17,
+    "personal_story": 4,
+    "social_reaction": 29,
+    "policy": 8,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "駐車禁止の標識がない道路にポルシェ中古車店のカートレーラーが青空駐車…保育園の向",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "甲子園",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "名目GDP687.7兆円で過去最高　4〜6月の年換算、研究開発が寄与 - 日本経",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
     },
     {
       "title": "反省している話。それでも変えないこと。反差別を掲げながらギリギリを行く挑戦。｜堀",
@@ -56,7 +63,7 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "【本要約】80/20 RUNNING ゆっくり走れば、速くなる【解釈】｜pair",
+      "title": "先日の大雨で、残クレで買ったアルファードが水没して完全に動かなくなり、任意保険は",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -68,37 +75,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "なぜラグビーは夏に過酷な練習をやめられないのか〜「負ける不安」が選手を追い詰める",
+      "title": "東山線",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "マックス・マンシー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "四千頭身",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "【独自】お笑いトリオ「四千頭身」の都築拓紀メンバーが東京都迷惑防止条例違反の疑い",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "policy"
     },
     {
-      "title": "高橋文哉",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "韓国ドラマ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "西村和彦",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "投資",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "レアル マドリード",
+      "title": "名古屋市営地下鉄",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,19 +107,13 @@
   ],
   "note_top10": [
     {
-      "title": "駐車禁止の標識がない道路にポルシェ中古車店のカートレーラーが青空駐車…保育園の向",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "反省している話。それでも変えないこと。反差別を掲げながらギリギリを行く挑戦。｜堀",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "【本要約】80/20 RUNNING ゆっくり走れば、速くなる【解釈】｜pair",
+      "title": "先日の大雨で、残クレで買ったアルファードが水没して完全に動かなくなり、任意保険は",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -130,39 +125,45 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "なぜラグビーは夏に過酷な練習をやめられないのか〜「負ける不安」が選手を追い詰める",
+      "title": "お店の前で自転車がパンクしている子がいたから「パンク修理する？」と聞いてから修理",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ATMの順番待ちで自分の番になると、横の列の婦人から「こっち並んでるんやけど」と",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "NISA上限の1800万円は埋めるべき? 年齢別シミュレーションで紐解く【お金の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "JTCにいる50代窓際サラリーマンをテーマにしたAIマンガの「動かない社員の代わ",
+      "title": "業者が「電柱を会社の前に移動する」と言ってきたから「無理です。車庫使えなくなっち",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「日本の新幹線の価格は異常」日本と中国を比較した場合、同距離で約3分の1の価格と",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "花火大会にいる若者、5人に1人これなんだが→Z世代は「リハ着＝かわいい子」と条件",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "高橋文哉",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "干上がるドナウ川、ナチスの沈没船が続々出現、なぜそこに？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "娘が「パパのその服ありえない。私が選ぶ」と言うので選んでもらった服を着ていったら",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "NHK－FM、番組が開始時刻になっても流れず　急きょ差し替え | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「めっちゃ絵なのにめっちゃ写真なのなんで？？」Xに投稿されたイラストが写真のよう",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
