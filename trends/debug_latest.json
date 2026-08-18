@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T11:41:00+09:00",
+  "generated_at": "2026-08-18T17:16:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,39 +16,51 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
+    "neg_excluded": 5,
     "dedup_excluded": 10,
-    "passed_total": 115,
+    "passed_total": 117,
     "b2b_category_counts": {
       "google_trends": 10,
-      "yahoo_realtime": 35,
-      "news_web": 14,
+      "yahoo_realtime": 36,
       "x_realtime": 8,
+      "news_web": 13,
       "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "personal_story": 4,
-    "social_reaction": 30,
+    "social_reaction": 31,
     "opinion": 10,
-    "medical_science": 4,
-    "hard_fact": 15,
-    "policy": 7
+    "personal_story": 3,
+    "medical_science": 6,
+    "hard_fact": 17,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
     "opinion": 10,
-    "hard_fact": 17,
-    "personal_story": 4,
-    "social_reaction": 29,
-    "policy": 8,
-    "medical_science": 2
+    "hard_fact": 19,
+    "social_reaction": 31,
+    "medical_science": 3,
+    "policy": 4,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "甲子園",
+      "title": "cocchi サービス 終了",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
+    },
+    {
+      "title": "兵庫県、「起債許可団体」に転落　県債不適切処理で財政悪化 | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "陸自による民間人の思想調査疑惑、スリリングなスクープの舞台裏を熊本日日新聞の担当",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "名目GDP687.7兆円で過去最高　4〜6月の年換算、研究開発が寄与 - 日本経",
@@ -57,49 +69,37 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "反省している話。それでも変えないこと。反差別を掲げながらギリギリを行く挑戦。｜堀",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "先日の大雨で、残クレで買ったアルファードが水没して完全に動かなくなり、任意保険は",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中国アニメ『牛来』異常ヒットの謎｜上海在住のえいちゃん",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "東山線",
+      "title": "小園海斗",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "マックス・マンシー",
+      "title": "はま寿司 メニュー フェア 今",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "四千頭身",
+      "title": "有明高校 甲子園",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "【独自】お笑いトリオ「四千頭身」の都築拓紀メンバーが東京都迷惑防止条例違反の疑い",
+      "title": "花火大会にいる若者、5人に1人これなんだが→Z世代は「リハ着＝かわいい子」と条件",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "topic_category": "medical_science"
     },
     {
-      "title": "名古屋市営地下鉄",
+      "title": "高齢",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "伊藤大海",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,63 +107,63 @@
   ],
   "note_top10": [
     {
-      "title": "反省している話。それでも変えないこと。反差別を掲げながらギリギリを行く挑戦。｜堀",
+      "title": "陸自による民間人の思想調査疑惑、スリリングなスクープの舞台裏を熊本日日新聞の担当",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "cocchi サービス 終了",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "お盆で実家に帰省したら親から突然の相談、両親とも75歳を超えて今まで働いていたバ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ネコを守るために、朝5時に1人でクマと対峙する70歳男性…追い払ったんじゃなくて",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「年収350万くらいで募集しても優秀な人材が来ない。せめてまともな人が来てほしい",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ただ歩いてるだけで他人から重い身の上話などをされてしまうタイプだが、最近やっと切",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「コミケのスタッフは口調強くてタメ口の人ばかりなの？」に対して「お客様のように扱",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "コミケで推しレイヤーを見に行った高校生が感想を投稿→これに推しレイヤーが引用で驚",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中国人観光客「半減」で吹き飛んだ5210億円　それでも全体消費額は前年超え、訪日",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "先日の大雨で、残クレで買ったアルファードが水没して完全に動かなくなり、任意保険は",
+      "title": "シェイクの美味さに目覚めたら、まちじゅうのシェイクが見えてきた",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中国アニメ『牛来』異常ヒットの謎｜上海在住のえいちゃん",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "お店の前で自転車がパンクしている子がいたから「パンク修理する？」と聞いてから修理",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ATMの順番待ちで自分の番になると、横の列の婦人から「こっち並んでるんやけど」と",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "NISA上限の1800万円は埋めるべき? 年齢別シミュレーションで紐解く【お金の",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "業者が「電柱を会社の前に移動する」と言ってきたから「無理です。車庫使えなくなっち",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "花火大会にいる若者、5人に1人これなんだが→Z世代は「リハ着＝かわいい子」と条件",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "娘が「パパのその服ありえない。私が選ぶ」と言うので選んでもらった服を着ていったら",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「めっちゃ絵なのにめっちゃ写真なのなんで？？」Xに投稿されたイラストが写真のよう",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
