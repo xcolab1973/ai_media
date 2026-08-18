@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-08-18T06:42:51+09:00",
+ "generated_at": "2026-08-19T06:59:08+09:00",
  "valid_until": "2026-08-31T16:51:26+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "society",
- "total_count": 38,
+ "total_count": 36,
  "merge": {
   "parent": "society",
   "from_current": 38,
   "from_new": 1,
-  "expired_pruned": 0,
+  "expired_pruned": 2,
   "retention_dropped": 1,
   "genres": 6,
   "retention_per_genre": 8
@@ -168,24 +168,24 @@
   },
   {
    "source_category": "news_web",
-   "raw_title": "【解説】国家情報局が発足、730人体制の司令塔は「AI時代の影響工作」に届くのか",
-   "url": "https://innovatopia.jp/cyber-security/cyber-security-news/114890/",
-   "summary": "2026年7月31日に発足した国家情報局は内閣情報調査室を発展的に解消し約730人体制に。外務省・防衛省・警察庁など各省庁の情報を一元集約し、従来の縦割りで生じていた分析の空白解消を狙う。",
+   "raw_title": "「やむを得ない事情」がある場合の転籍の運用が改善されました",
+   "url": "https://www.jitco.or.jp/ja/news/article/36612/",
+   "summary": "技能実習生の転籍が認められる「やむを得ない事情」（ハラスメント、契約内容と実態の著しい相違等）の運用改善を公益財団法人JITCOが解説。転籍手続き中の生活保障の扱いにも言及。",
    "signal_type": "trend",
    "engagement_signal": false,
    "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
+   "preliminary_claim_type": "official_instruction",
    "relevance_to_niche": "high",
    "topic_category": null,
-   "primary_genre": "society-news-explainer",
+   "primary_genre": "society-global",
    "karte_matched_category": null,
    "karte_aligned": false,
    "account_id": "default",
    "origin": "pre_collector_extended",
    "provenance": {
-    "source_name": "innovatopia.jp",
-    "expert_origin": false,
-    "search_query": "国家情報局 発足後 課題 縦割り解消 効果 2026年8月",
+    "source_name": "JITCO(公益財団法人国際人材協力機構)",
+    "expert_origin": true,
+    "search_query": "技能実習 転籍 知恵袋 外国人 悩み",
     "freshness": "fresh",
     "integrity_warning": null,
     "provenance_kind": "evidence",
@@ -193,7 +193,7 @@
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-08-18T16:51:47+09:00",
+   "valid_until": "2026-08-24T06:58:16+09:00",
    "validity_days": 5
   },
   {
@@ -404,36 +404,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-20T16:49:44+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "出国税が2026年7月から3000円へ｜1000円に据え置く方法と使い道を解説",
-   "url": "https://note.com/min_taxes/n/n4e9d293da783",
-   "summary": "国際観光旅客税（出国税）が2026年7月1日から1000円→3000円に3倍化。4人家族の海外旅行では負担が8000円増える一方、パスポート手数料引き下げなどの代替措置は頻繁な渡航者には恩恵が薄いとの指摘がある。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "society-global",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "note（みんなの税金）",
-    "expert_origin": true,
-    "search_query": "出国税 3000円 値上げ 2026年7月 海外旅行 影響",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-20T06:42:16+09:00",
    "validity_days": 5
   },
   {
@@ -1004,36 +974,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-20T16:49:44+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "【2026年最新】電気・ガス補助はいつから？夏の補助金が正式決定",
-   "url": "https://selectra.jp/energy/news/electricity-gas-subsidy-start-2026-summer",
-   "summary": "政府は物価高対策として2026年7〜9月の電気・ガス料金補助を再開。標準家庭で3カ月合計約5,000〜8,000円の負担軽減が見込まれ、申請不要で契約先事業者を通じ自動的に値引きされる。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "society-economy",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Selectra",
-    "expert_origin": false,
-    "search_query": "物価高 2026年8月 家計 節約 電気ガス補助 効果",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-18T16:51:47+09:00",
    "validity_days": 5
   },
   {
