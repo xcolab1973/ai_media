@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T22:31:00+09:00",
+  "generated_at": "2026-08-19T06:55:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,45 +17,33 @@
       "x_realtime": 10
     },
     "neg_excluded": 7,
-    "dedup_excluded": 10,
-    "passed_total": 115,
+    "dedup_excluded": 9,
+    "passed_total": 116,
     "b2b_category_counts": {
       "yahoo_realtime": 36,
       "google_trends": 10,
-      "news_web": 13,
       "x_realtime": 7,
-      "yahoo_news_ranking": 4
+      "yahoo_news_ranking": 5,
+      "news_web": 12
     }
   },
   "note_category_counts": {
-    "social_reaction": 27,
+    "social_reaction": 32,
     "opinion": 10,
     "personal_story": 4,
-    "hard_fact": 20,
-    "medical_science": 5,
-    "policy": 4
+    "medical_science": 3,
+    "policy": 4,
+    "hard_fact": 17
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 27,
-    "hard_fact": 21,
+    "social_reaction": 32,
     "opinion": 10,
+    "hard_fact": 19,
     "policy": 4,
-    "medical_science": 4,
-    "personal_story": 4
+    "personal_story": 4,
+    "medical_science": 1
   },
   "b2b_top10": [
-    {
-      "title": "「心が汚いと見えないカレー」松屋でローストビーフカレーを頼んだら何か大事なものが",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "有名フリーBGMサイト「DOVA-SYNDROME」が改名＆URL刷新　音源利用",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
     {
       "title": "陸自による民間人の思想調査疑惑、スリリングなスクープの舞台裏を熊本日日新聞の担当",
       "source_category": "yahoo_realtime",
@@ -63,43 +51,55 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "アンタッチャブル",
+      "title": "auone",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "秋篠宮 皇室典範",
+      "title": "板倉滉",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "アンタッチャブル 柴田",
+      "title": "koki",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "しあわせは食べて寝て待て",
+      "title": "木原誠二",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "「この人はわたしのために自分の生活を変える気が1㎜もないんだな」と思ってから氷点",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "asml",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "有明コミケのタクシーの話…４人組のお客さんにどこまでか聞いたら『このまま京都のO",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "リバイアサン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "小島瑠璃子",
+      "title": "jal",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "沖縄天気",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "天気 札幌",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,55 +107,37 @@
   ],
   "note_top10": [
     {
-      "title": "「心が汚いと見えないカレー」松屋でローストビーフカレーを頼んだら何か大事なものが",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "陸自による民間人の思想調査疑惑、スリリングなスクープの舞台裏を熊本日日新聞の担当",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「この人はわたしのために自分の生活を変える気が1㎜もないんだな」と思ってから氷点",
+      "title": "体重50キロの秋田犬が用水路に入って犬ダムを作るも水圧に押し流される動画がとって",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "有明コミケのタクシーの話…４人組のお客さんにどこまでか聞いたら『このまま京都のO",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ベンチの端っこに猫が座っていました。邪魔をしないよう反対の端に座りました。しばら",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "勝手に「羽生結弦」「鳩山由紀夫」の開店祝い花設置　麻辣湯店が謝罪：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "帰宅したら自分が契約している駐車場に停めておいた車に、契約者を名乗る人から「車の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "非正規が3年で雇い止めになるの「3年も経験を積んだ重要な戦力をクビにしてまた1か",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "体重50キロの秋田犬が用水路に入って犬ダムを作るも水圧に押し流される動画がとって",
+      "title": "AIに脅かされる米国の労働者、86%が女性　「産休育休で解雇」の疑念 - 日本経",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "年間100本以上映画館に通う俺が選ぶ「これ観てない奴とは正直、映画の話をしたくな",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「あの兄貴が月見に革命を起こす…」ケンタッキーフライドチキン公式が月見バーガーの",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -165,6 +147,24 @@
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "「お盆休み延長して！」　公民館の入り口“封鎖”する南箕輪村の伝統行事「盆正月」｜",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "チケットの収納と保管どうする？6穴バインダーにファイリングすればいつでも思い出に",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "auone",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
