@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T17:16:00+09:00",
+  "generated_at": "2026-08-18T22:31:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,42 +16,42 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
+    "neg_excluded": 7,
     "dedup_excluded": 10,
-    "passed_total": 117,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "google_trends": 10,
       "yahoo_realtime": 36,
-      "x_realtime": 8,
+      "google_trends": 10,
       "news_web": 13,
-      "yahoo_news_ranking": 3
+      "x_realtime": 7,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 31,
+    "social_reaction": 27,
     "opinion": 10,
-    "personal_story": 3,
-    "medical_science": 6,
-    "hard_fact": 17,
-    "policy": 3
+    "personal_story": 4,
+    "hard_fact": 20,
+    "medical_science": 5,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
+    "social_reaction": 27,
+    "hard_fact": 21,
     "opinion": 10,
-    "hard_fact": 19,
-    "social_reaction": 31,
-    "medical_science": 3,
     "policy": 4,
-    "personal_story": 3
+    "medical_science": 4,
+    "personal_story": 4
   },
   "b2b_top10": [
     {
-      "title": "cocchi サービス 終了",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "「心が汚いと見えないカレー」松屋でローストビーフカレーを頼んだら何か大事なものが",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "兵庫県、「起債許可団体」に転落　県債不適切処理で財政悪化 | 毎日新聞",
+      "title": "有名フリーBGMサイト「DOVA-SYNDROME」が改名＆URL刷新　音源利用",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
@@ -63,43 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "名目GDP687.7兆円で過去最高　4〜6月の年換算、研究開発が寄与 - 日本経",
+      "title": "アンタッチャブル",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "秋篠宮 皇室典範",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "アンタッチャブル 柴田",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "しあわせは食べて寝て待て",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「この人はわたしのために自分の生活を変える気が1㎜もないんだな」と思ってから氷点",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "小園海斗",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "はま寿司 メニュー フェア 今",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "有明高校 甲子園",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "花火大会にいる若者、5人に1人これなんだが→Z世代は「リハ着＝かわいい子」と条件",
+      "title": "有明コミケのタクシーの話…４人組のお客さんにどこまでか聞いたら『このまま京都のO",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "高齢",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "伊藤大海",
+      "title": "小島瑠璃子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
+      "title": "「心が汚いと見えないカレー」松屋でローストビーフカレーを頼んだら何か大事なものが",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "陸自による民間人の思想調査疑惑、スリリングなスクープの舞台裏を熊本日日新聞の担当",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "cocchi サービス 終了",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "お盆で実家に帰省したら親から突然の相談、両親とも75歳を超えて今まで働いていたバ",
+      "title": "「この人はわたしのために自分の生活を変える気が1㎜もないんだな」と思ってから氷点",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ネコを守るために、朝5時に1人でクマと対峙する70歳男性…追い払ったんじゃなくて",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「年収350万くらいで募集しても優秀な人材が来ない。せめてまともな人が来てほしい",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ただ歩いてるだけで他人から重い身の上話などをされてしまうタイプだが、最近やっと切",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「コミケのスタッフは口調強くてタメ口の人ばかりなの？」に対して「お客様のように扱",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "コミケで推しレイヤーを見に行った高校生が感想を投稿→これに推しレイヤーが引用で驚",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中国人観光客「半減」で吹き飛んだ5210億円　それでも全体消費額は前年超え、訪日",
+      "title": "有明コミケのタクシーの話…４人組のお客さんにどこまでか聞いたら『このまま京都のO",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "シェイクの美味さに目覚めたら、まちじゅうのシェイクが見えてきた",
+      "title": "ベンチの端っこに猫が座っていました。邪魔をしないよう反対の端に座りました。しばら",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "勝手に「羽生結弦」「鳩山由紀夫」の開店祝い花設置　麻辣湯店が謝罪：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "帰宅したら自分が契約している駐車場に停めておいた車に、契約者を名乗る人から「車の",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "非正規が3年で雇い止めになるの「3年も経験を積んだ重要な戦力をクビにしてまた1か",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "体重50キロの秋田犬が用水路に入って犬ダムを作るも水圧に押し流される動画がとって",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "米陸軍の155mm砲弾増産計画、工場の建物も設備もすべてが壊れている",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
