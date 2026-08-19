@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-19T06:59:08+09:00",
- "valid_until": "2026-09-02T06:57:55+09:00",
+ "generated_at": "2026-08-19T16:51:10+09:00",
+ "valid_until": "2026-09-02T16:48:22+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "work",
   "from_current": 30,
-  "from_new": 2,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 2,
+  "retention_dropped": 1,
   "genres": 4,
   "retention_per_genre": 8
  },
@@ -678,6 +678,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "【40代女性】資格なしでの転職は難しい？有効な対策やおすすめの職種も紹介",
+   "url": "https://mynavi-agent.jp/knowledge/womanwill/1413.html",
+   "summary": "40代女性の資格なし転職は即戦力志向・年収ダウンのリスクなどから難易度が上がるが、営業職やドライバーなど未経験可の職種は存在すると解説。エージェント視点での定番アドバイス記事で目新しさは薄い。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "work-jobhunt",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "マイナビ転職エージェント",
+    "expert_origin": true,
+    "search_query": "転職 40代未経験 やめとけ 知恵袋 資格 意味ない",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": true,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-02T16:48:22+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "26卒内定式後も続く秋採用、対策のポイント",
    "url": "https://www.marketenterprise.co.jp/journal/202510019062.html",
    "summary": "10月1日の内定式で正式内定が出そろう一方、秋以降も採用を続ける企業は一定数あり、進むスピードは春夏より速い傾向。26卒でまだ内定がない人は自己分析をやり直しつつ4月以降も採用継続する企業を狙う動きが紹介されている。",
@@ -884,36 +914,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-27T16:52:58+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "教育訓練休暇給付金が新設—2026年10月施行、在職のまま無給休暇でリスキリングに専念できる新制度",
-   "url": "https://fpeo.co.jp/news/news-11163/",
-   "summary": "改正雇用保険法により2026年10月から教育訓練給付金の給付率が引き上げられ、あわせて「教育訓練休暇給付金」が新設。雇用保険の一般被保険者が、会社を辞めずに無給休暇を取ってスキルアップに専念する場合、休暇中の生活費相当を給付。就業規則上の休暇制度整備と事業主の承認が前提で、個人が単独で使える制度ではない点に注意が必要。転職前の学び直しを検討する会社員が対象。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "work-jobhunt",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "社会保険労務士法人エフピオ",
-    "expert_origin": true,
-    "search_query": "教育訓練給付金 拡充 2026年10月 教育訓練休暇給付金 転職 リスキリング 使い方",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-25T19:41:40+09:00",
    "validity_days": 14
   }
  ]

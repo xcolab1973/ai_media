@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T06:59:08+09:00",
+ "generated_at": "2026-08-19T16:51:10+09:00",
  "valid_until": "2026-09-02T06:51:30+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "marketing",
   "from_current": 40,
-  "from_new": 4,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 4,
+  "retention_dropped": 1,
   "genres": 5,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "EFO（フォーム最適化）完全ガイド｜CVR向上施策20選【2026年版】",
+   "url": "https://inno-mark.jp/blog/web-marketing/efo-about/",
+   "summary": "秋のサイトリニューアル前に見直すべきEFO施策として、入力項目削減・ステップ分割・リアルタイムエラー表示・入力補助を紹介。集客数を増やすより、フォーム完了率改善の方が費用対効果が高いと指摘。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "marketing-web",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "inno-mark.jp",
+    "expert_origin": true,
+    "search_query": "2026年 秋 Webサイト リニューアル 集客施策 早めの準備 EFO",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-24T16:44:49+09:00",
+   "validity_days": 5
+  },
   {
    "source_category": "news_web",
    "raw_title": "SEO・AI時代の再公開戦略：日付変更だけでは足りないブログ更新の考え方",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-21T16:47:17+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "【2026年最新】景品表示法改正とステマ規制｜口コミ代行はどこから違法になる？",
-   "url": "https://resus.jp/topics/4057/",
-   "summary": "2023年施行のステマ規制で広告主（事業者）が対象となる範囲、口コミ代行や割引報酬を条件にした偽レビュー事案など消費者庁の行政処分傾向を整理。広告運用担当者が「口コミ施策のどこからが違法になるか」の境界線で迷うポイントを解説。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "marketing-web",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "RESUS社会保険労務士事務所",
-    "expert_origin": true,
-    "search_query": "ステルスマーケティング規制 景品表示法 2026 事業者 違反 事例",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-20T06:36:00+09:00",
    "validity_days": 5
   },
   {
