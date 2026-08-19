@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-19T17:04:33+0900",
-    "record_count": 30,
-    "source_total_in_db": 879,
+    "generated_at": "2026-08-20T06:52:27+0900",
+    "record_count": 31,
+    "source_total_in_db": 881,
     "provenance_breakdown": {
       "evidence": 560,
-      "pain_seed": 319
+      "pain_seed": 321
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_5ff67261f189",
+      "trend_term": "美容医療合併症と夜間救急",
+      "raw_title": "美容医療の合併症、夜間救急は誰が診る？—連携と医療費の“空白”（薬師寺泰匡） - エキスパート - Yahoo!ニュース",
+      "summary": "美容医療の合併症が夜間救急で対応される際、診療体制と医療費負担に関する連携の課題が存在することについての専門家による分析",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcGNTcWxiaWZNcTZTRnF6TWFyZzQ1cm8zcGJZQXVmaTB1aU5jMVZ1dnFUdGx3SDZHZDFyOElyWnNjbjZFeW53M19SaUhiTDFjTFdGRFBBVUw0VlZWMmFMVFE5VkZTajhsQ2F1bTZQUEM0TW9WRDZEZl92SFdGUWRSTWU4d3llc3JL?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcGNTcWxiaWZNcTZTRnF6TWFyZzQ1cm8zcGJZQXVmaTB1aU5jMVZ1dnFUdGx3SDZHZDFyOElyWnNjbjZFeW53M19SaUhiTDFjTFdGRFBBVUw0VlZWMmFMVFE5VkZTajhsQ2F1bTZQUEM0TW9WRDZEZl92SFdGUWRSTWU4d3llc3JL?oc=5",
+      "source_name": "Yahoo!ニュース",
+      "monitor_id": "bm-safety-news",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-25T06:52:16+0900",
+      "status": "candidate",
+      "created_at": "2026-08-20T06:52:16+0900"
+    },
+    {
+      "seed_id": "seed_adc8ac40c28f",
+      "trend_term": "ボトックス施術後の見た目変化",
+      "raw_title": "高嶋ちさ子、SNSの反応に文句爆発！ボトックス注射後の“変化”は「もう治ってるのよ！」 - post.tv-asahi.co.jp",
+      "summary": "著名人がボトックス注射後の見た目変化について、SNS上での反応に言及。施術結果の見え方に関する実体験コメント。",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OWnExZlpDcDVzY2hCVnFPUll1dG5jbjFUaXhnSlFYM1hLR1dkTWVYRnpkVmJxc2RaYnVsbld5dFNmTnBOeUM1UWJzdmJsWVJrX2hSc3lMbFhKWURYRk12LUJDSEdsVFNSUFRCaUo0dVNyaVZrRnfSAWpBVV95cUxNbXlZZXZKOU1UMWl1alEtdWl4R1NRd2ROSmNaYW12MURwSElLQnB6eTdTWmNzZEw5UDdwLTFlZGpJMW5vLU5rNEk3S1hKbzdNaElzSFVqZjdGS0xuanJWYlNOcVkxc2stTE9n?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OWnExZlpDcDVzY2hCVnFPUll1dG5jbjFUaXhnSlFYM1hLR1dkTWVYRnpkVmJxc2RaYnVsbld5dFNmTnBOeUM1UWJzdmJsWVJrX2hSc3lMbFhKWURYRk12LUJDSEdsVFNSUFRCaUo0dVNyaVZrRnfSAWpBVV95cUxNbXlZZXZKOU1UMWl1alEtdWl4R1NRd2ROSmNaYW12MURwSElLQnB6eTdTWmNzZEw5UDdwLTFlZGpJMW5vLU5rNEk3S1hKbzdNaElzSFVqZjdGS0xuanJWYlNOcVkxc2stTE9n?oc=5",
+      "source_name": "post.tv-asahi.co.jp",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "opinion",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-09-03T06:52:03+0900",
+      "status": "candidate",
+      "created_at": "2026-08-20T06:52:03+0900"
+    },
     {
       "seed_id": "seed_118a111a077a",
       "trend_term": "東海エリアの最新美肌機器導入",
@@ -407,24 +443,6 @@
       "valid_until": "2026-08-31T12:28:08+0900",
       "status": "candidate",
       "created_at": "2026-08-17T12:28:08+0900"
-    },
-    {
-      "seed_id": "seed_7dd6c1a26244",
-      "trend_term": "ボトックス副作用・眼瞼下垂",
-      "raw_title": "人気シンガー、ボトックス施術で異変　左目が「4週間」垂れたと告白 - ｄメニューニュース",
-      "summary": "著名人がボトックス施術後に左目の垂れ下がり（眼瞼下垂）を4週間経験したと公言。施術リスクの実体験談",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX0tXZnF2YTJDek5vLWJXT2tSaUIxemxDbktONFdCYmlGZUxrTFc2VnVJMDdLNk10YWdDQmRuYlFIMFM1bGd5QzBHcklZWVdGb1o3MDdkQUpHbVFWVEZ0N19BcGNjdzFzM2RSQzV2MVdMaUNsRklxQjFIYUFiUUxDY21lYWVTcERfb3BPODdEemNaV0QzbU9xcTZISnJEMk5US1EwSUdSX2lzRDFIV1I2RE4tWV9ya1FyTkHSAboBQVVfeXFMTV9LV2ZxdmEyQ3pOby1iV09rUmlCMXpsQ25LTjRXQmJpRmVMa0xXNlZ1STA3SzZNdGFnQ0JkbmJRSDBTNWxneUMwR3JJWVlXRm9aNzA3ZEFKR21RVlRGdDdfQXBjY3cxczNkUkM1djFXTGlDbEZJcUIxSGFBYlFMQ2NtZWFlU3BEX29wTzg3RHpjWldEM21PcXE2SEpyRDJOVEtRMElHUl9pc0QxSFdSNkROLVlfcmtRck5B?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX0tXZnF2YTJDek5vLWJXT2tSaUIxemxDbktONFdCYmlGZUxrTFc2VnVJMDdLNk10YWdDQmRuYlFIMFM1bGd5QzBHcklZWVdGb1o3MDdkQUpHbVFWVEZ0N19BcGNjdzFzM2RSQzV2MVdMaUNsRklxQjFIYUFiUUxDY21lYWVTcERfb3BPODdEemNaV0QzbU9xcTZISnJEMk5US1EwSUdSX2lzRDFIV1I2RE4tWV9ya1FyTkHSAboBQVVfeXFMTV9LV2ZxdmEyQ3pOby1iV09rUmlCMXpsQ25LTjRXQmJpRmVMa0xXNlZ1STA3SzZNdGFnQ0JkbmJRSDBTNWxneUMwR3JJWVlXRm9aNzA3ZEFKR21RVlRGdDdfQXBjY3cxczNkUkM1djFXTGlDbEZJcUIxSGFBYlFMQ2NtZWFlU3BEX29wTzg3RHpjWldEM21PcXE2SEpyRDJOVEtRMElHUl9pc0QxSFdSNkROLVlfcmtRck5B?oc=5",
-      "source_name": "ｄメニューニュース",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-22T12:27:59+0900",
-      "status": "candidate",
-      "created_at": "2026-08-17T12:27:59+0900"
     },
     {
       "seed_id": "seed_3ab8104c8396",
