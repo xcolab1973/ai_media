@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T17:16:00+09:00",
+  "generated_at": "2026-08-19T22:33:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,89 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 13,
+    "neg_excluded": 11,
     "dedup_excluded": 9,
-    "passed_total": 110,
+    "passed_total": 112,
     "b2b_category_counts": {
       "yahoo_realtime": 34,
-      "x_realtime": 7,
-      "news_web": 15,
       "google_trends": 10,
-      "yahoo_news_ranking": 4
+      "news_web": 13,
+      "x_realtime": 8,
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "medical_science": 5,
+    "social_reaction": 31,
     "personal_story": 2,
-    "opinion": 10,
-    "hard_fact": 19,
-    "policy": 4
+    "opinion": 9,
+    "hard_fact": 18,
+    "policy": 7,
+    "medical_science": 3
   },
   "b2b_topic_category_counts": {
     "social_reaction": 30,
-    "hard_fact": 22,
-    "medical_science": 2,
-    "opinion": 10,
-    "personal_story": 2,
-    "policy": 4
+    "opinion": 9,
+    "hard_fact": 23,
+    "policy": 6,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "PRADAの新作が『ものすごく汚くて、ありえないほど高い』→「おばあちゃんに渡し",
+      "title": "「タトゥーを見せびらかす行為の何が許せないのか」「好きなものを見せびらかして歩く",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "長男が肘をついて食べてたら、父であるポスト主が肘をわざとついて妻に注意してもらい",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "フードデリバリー「menu」終了へ",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "「君たちが人生で一番うまいと思った飯を教えてくれ、残りの人生で全て食い尽くす」料",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "加熱用の鶏肉を「刺身」として提供… 男女13人が発熱や下痢などを訴える 三重の飲",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "夜マック",
+      "title": "trực tiếp bóng đá việt nam",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "日ハム",
+      "title": "阪神",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "制汗剤の塗り直しはNG? 医師解説",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_science",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "伊原",
+      "title": "早明浦ダム",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "阪神 伊原",
+      "title": "女子 高生 ミスコン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "arih",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "wwe・nxt",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "楽天イーグルス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "マツコの知らない世界 婚活",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "橋本マナミ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,15 +106,15 @@
   ],
   "note_top10": [
     {
-      "title": "PRADAの新作が『ものすごく汚くて、ありえないほど高い』→「おばあちゃんに渡し",
+      "title": "「タトゥーを見せびらかす行為の何が許せないのか」「好きなものを見せびらかして歩く",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "長男が肘をついて食べてたら、父であるポスト主が肘をわざとついて妻に注意してもらい",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "【アンサー】数年に1回しか映画見ない増田が特におすすめしない映画何選",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -125,46 +124,46 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "芸人・ヒロシさんがオリジナル焚火台の制作を依頼した会社とのトラブルを報告「ずっと",
+      "title": "ミク、リン・レン、ルカ、MEIKO、KAITOがギターピックに！ ESP ピアプ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "子どもが「フェリーに乗ってみたい」と言ったので家族で『さんふらわあ』に…最高の船",
+      "title": "ゲーセンでちいかわを取った時に会社員から譲ってほしいと言われた…「500円でいい",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "叔父の葬儀で「故人が窮屈な思いをしてしまいますので…」とひと回り大きな棺を勧めら",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "俺の人生、急に展開が早くなってるんだけど…打ち切りなの？",
+      "title": "逆に、この映画は観るな！みたいなのないの？😟",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「「これ観てない奴とは正直、映画の話をしたくない20選」のリストが無難すぎてあく",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "会社に猫を連れてくる社員がいるんだけど、正直あんまり好きじゃない。一日中ニャーニ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "靴の消臭（匂い消し）おすすめ4選！スニーカーにも革靴にも使えるパウダーやスプレー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "飲食やってる人にたまにとんでもない特殊能力を持ってる人がいる、1回入っただけの店",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "加熱用の鶏肉を「刺身」として提供… 男女13人が発熱や下痢などを訴える 三重の飲",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "デジタル庁、行政事務向けの追加フォントを公開、 「OFL-1.1」などで無償提供",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "「レターパックとか買うの嫌がると思うよ」AIで生成した小説が大量に公募に送られて",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ]
 }
