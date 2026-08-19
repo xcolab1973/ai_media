@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T22:33:00+09:00",
+  "generated_at": "2026-08-20T06:58:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,89 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
-    "dedup_excluded": 9,
+    "neg_excluded": 13,
+    "dedup_excluded": 7,
     "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
       "google_trends": 10,
-      "news_web": 13,
-      "x_realtime": 8,
-      "yahoo_news_ranking": 5
+      "yahoo_realtime": 33,
+      "x_realtime": 10,
+      "yahoo_news_ranking": 4,
+      "news_web": 13
     }
   },
   "note_category_counts": {
-    "social_reaction": 31,
-    "personal_story": 2,
-    "opinion": 9,
-    "hard_fact": 18,
-    "policy": 7,
-    "medical_science": 3
+    "social_reaction": 26,
+    "personal_story": 4,
+    "opinion": 10,
+    "medical_science": 3,
+    "hard_fact": 20,
+    "policy": 7
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
-    "opinion": 9,
-    "hard_fact": 23,
-    "policy": 6,
-    "personal_story": 2
+    "opinion": 10,
+    "social_reaction": 26,
+    "personal_story": 4,
+    "hard_fact": 22,
+    "medical_science": 1,
+    "policy": 7
   },
   "b2b_top10": [
     {
-      "title": "「タトゥーを見せびらかす行為の何が許せないのか」「好きなものを見せびらかして歩く",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "trực tiếp bóng đá việt nam",
+      "title": "今田美桜",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "阪神",
+      "title": "渇水",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "早明浦ダム",
+      "title": "アトレティコ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "女子 高生 ミスコン",
+      "title": "ロコ・ソラーレ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "arih",
+      "title": "千賀滉大",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "wwe・nxt",
+      "title": "asml",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "楽天イーグルス",
+      "title": "フィリーズ 対 マーリンズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "マツコの知らない世界 婚活",
+      "title": "九州応援割",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "橋本マナミ",
+      "title": "秋田市天気",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "セゾンカード",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,7 +107,43 @@
   ],
   "note_top10": [
     {
-      "title": "「タトゥーを見せびらかす行為の何が許せないのか」「好きなものを見せびらかして歩く",
+      "title": "「息子を返して」アフリカの若者を騙してロシアに送る悪質な勧誘 被害家族の悲痛な叫",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "手塩にかけて育てていた新卒の子がお局に潰されたと知った話…「なぜお局は新人潰しを",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "年1～2回しか映画館行かない俺が選ぶ「よかったらこれも見てみて」20選",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「介護の限界を感じる」「お願いだから早く施設に預けてあげて」認知症のおばあちゃん",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「英語を英語のまま捉えるってなんなの」それについての考え方がぞくぞく集結、その感",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "旦那に連れられてキャバクラに行ったら店長が60代、女の子が40代、30代、20代",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「これ観てない奴とは正直、映画の話をしたくない20選」のリストが無難すぎてあくび",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -118,51 +155,15 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「君たちが人生で一番うまいと思った飯を教えてくれ、残りの人生で全て食い尽くす」料",
+      "title": "今田美桜",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "業界人「ぜんぜん面白くなかった演劇もSNSでは良かったことだけ書いて！」案の定袋",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ミク、リン・レン、ルカ、MEIKO、KAITOがギターピックに！ ESP ピアプ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ゲーセンでちいかわを取った時に会社員から譲ってほしいと言われた…「500円でいい",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "叔父の葬儀で「故人が窮屈な思いをしてしまいますので…」とひと回り大きな棺を勧めら",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "逆に、この映画は観るな！みたいなのないの？😟",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "会社に猫を連れてくる社員がいるんだけど、正直あんまり好きじゃない。一日中ニャーニ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "飲食やってる人にたまにとんでもない特殊能力を持ってる人がいる、1回入っただけの店",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「レターパックとか買うの嫌がると思うよ」AIで生成した小説が大量に公募に送られて",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
