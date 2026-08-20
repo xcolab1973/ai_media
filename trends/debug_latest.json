@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T22:35:00+09:00",
+  "generated_at": "2026-08-21T06:58:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,52 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 11,
-    "passed_total": 115,
+    "neg_excluded": 11,
+    "dedup_excluded": 12,
+    "passed_total": 109,
     "b2b_category_counts": {
-      "yahoo_realtime": 31,
-      "news_web": 17,
-      "yahoo_news_ranking": 4,
+      "yahoo_realtime": 30,
       "google_trends": 10,
-      "x_realtime": 8
+      "yahoo_news_ranking": 8,
+      "news_web": 15,
+      "x_realtime": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 31,
-    "personal_story": 4,
+    "social_reaction": 26,
     "opinion": 10,
-    "medical_science": 4,
-    "hard_fact": 20,
-    "policy": 1
+    "personal_story": 2,
+    "medical_science": 2,
+    "policy": 5,
+    "hard_fact": 25
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
-    "hard_fact": 24,
+    "social_reaction": 26,
     "opinion": 10,
-    "medical_science": 3,
-    "personal_story": 3,
-    "policy": 2
+    "policy": 6,
+    "hard_fact": 25,
+    "medical_science": 1,
+    "personal_story": 2
   },
   "b2b_top10": [
+    {
+      "title": "紹介記事を書くことは著作権違反なのか？｜中島聡",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "TokyoMap（東京都地図情報サイト）",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「なんて罰当たり！」「何がダメなの？」鳥居でハイキックしたドイツ人女性が炎上…“",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "「著しく時代遅れ」　次期空母で蒸気カタパルトに回帰、トランプ氏の指示に専門家も困",
       "source_category": "yahoo_realtime",
@@ -51,55 +69,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "森博嗣氏、公式サイトの更新を終了　「すべてがFになる」等ヒット作連発の作家・工学",
+      "title": "｢日本人は貯蓄が大好き｣は真っ赤なウソ…財務省も自民党も目を背ける｢世帯貯蓄率0",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "21日 関東など急な雨や雷雨に注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "クールジャパン機構廃止へ 経産省",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "年3回しか映画館行かない雑魚だけど「小難しいこと言わずに頭空っぽで楽しめる」映画",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "会社員で「コミュニティの人」でもある場合の落とし穴 - 覚書",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "フェリーで一番安い部屋にしたらやばいから見て→「遥かに上等」「めっちゃ設備良くて",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "迫田孝也",
+      "title": "エイベックス 松浦",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ハッピーセット 次回",
+      "title": "ロイヤルズ 対 アスレチックス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "fbi",
+      "title": "銚子電鉄「ナウル駅」苦情受け8月末で終了へ　ネーミングライツ契約発表→同国観光局",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "中村晃",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "スピッツ 見知らぬ糸",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +107,64 @@
   ],
   "note_top10": [
     {
+      "title": "TokyoMap（東京都地図情報サイト）",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "紹介記事を書くことは著作権違反なのか？｜中島聡",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「なんて罰当たり！」「何がダメなの？」鳥居でハイキックしたドイツ人女性が炎上…“",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "「著しく時代遅れ」　次期空母で蒸気カタパルトに回帰、トランプ氏の指示に専門家も困",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "森博嗣氏、公式サイトの更新を終了　「すべてがFになる」等ヒット作連発の作家・工学",
+      "title": "｢日本人は貯蓄が大好き｣は真っ赤なウソ…財務省も自民党も目を背ける｢世帯貯蓄率0",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "年3回しか映画館行かない雑魚だけど「小難しいこと言わずに頭空っぽで楽しめる」映画",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "会社員で「コミュニティの人」でもある場合の落とし穴 - 覚書",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "フェリーで一番安い部屋にしたらやばいから見て→「遥かに上等」「めっちゃ設備良くて",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "無水カレーを作って食べるの楽しみにしてたら、家族が勝手に水とルー追加してた「こう",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「1日1回清潔な手でかき混ぜる」「2日から5日くらいでシュワっと発酵」JA和歌山",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "パナソニックのドラム洗濯機、乾きにくさ解消するサイクロンユニット採用 - 家電 ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
     },
     {
       "title": "先日ディナーした日のクレカ明細見たら同じレストランから2件の請求があり、2件目は",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ブルアカ同人色紙オークション問題で改めて考える必要がある「2次創作ガイドライン」",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "リビングのエアコンをつけたら「初めてご使用いただいた日から長い年月が経ちました。",
+      "title": "「俺の大学生活の全てだ」2022年から2026年の行動記録を可視化した動画の活き",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "エイベックス 松浦",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ロイヤルズ 対 アスレチックス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
