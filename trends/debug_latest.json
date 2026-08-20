@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T06:58:00+09:00",
+  "generated_at": "2026-08-20T11:42:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,89 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 13,
-    "dedup_excluded": 7,
-    "passed_total": 112,
+    "neg_excluded": 5,
+    "dedup_excluded": 10,
+    "passed_total": 117,
     "b2b_category_counts": {
+      "yahoo_realtime": 34,
       "google_trends": 10,
-      "yahoo_realtime": 33,
-      "x_realtime": 10,
-      "yahoo_news_ranking": 4,
-      "news_web": 13
+      "x_realtime": 8,
+      "news_web": 12,
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
-    "personal_story": 4,
+    "social_reaction": 34,
+    "personal_story": 6,
     "opinion": 10,
-    "medical_science": 3,
-    "hard_fact": 20,
-    "policy": 7
+    "hard_fact": 13,
+    "policy": 4,
+    "medical_science": 3
   },
   "b2b_topic_category_counts": {
+    "social_reaction": 31,
     "opinion": 10,
-    "social_reaction": 26,
-    "personal_story": 4,
-    "hard_fact": 22,
-    "medical_science": 1,
-    "policy": 7
+    "hard_fact": 19,
+    "personal_story": 6,
+    "policy": 4
   },
   "b2b_top10": [
     {
-      "title": "今田美桜",
+      "title": "車内販売も自販機もないことを知らずに東京→博多の新幹線のぞみに乗車してしまい、喉",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "本塁打",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "渇水",
+      "title": "会社員で「コミュニティの人」でもある場合の落とし穴 - 覚書",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "年3回しか映画館行かない雑魚だけど「小難しいこと言わずに頭空っぽで楽しめる」映画",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "もし富士山が噴火したらどうなる!? 首都圏での火山灰対策グッズを考える | とな",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "株を相続するときの手続きや遺産分割、評価額、納税方法は？初心者にもわかりやすく解",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "ムーキー・ベッツ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "アトレティコ",
+      "title": "リオネル・メッシ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ロコ・ソラーレ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "「夏中にこれ全部見ようかな」年間100回以上映画館に通う人が選んだ映画20選が、",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "千賀滉大",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "asml",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "フィリーズ 対 マーリンズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "九州応援割",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "秋田市天気",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "セゾンカード",
+      "title": "コロラド・ロッキーズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,63 +106,63 @@
   ],
   "note_top10": [
     {
-      "title": "「息子を返して」アフリカの若者を騙してロシアに送る悪質な勧誘 被害家族の悲痛な叫",
+      "title": "車内販売も自販機もないことを知らずに東京→博多の新幹線のぞみに乗車してしまい、喉",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "もし富士山が噴火したらどうなる!? 首都圏での火山灰対策グッズを考える | とな",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "会社員で「コミュニティの人」でもある場合の落とし穴 - 覚書",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "年3回しか映画館行かない雑魚だけど「小難しいこと言わずに頭空っぽで楽しめる」映画",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "手塩にかけて育てていた新卒の子がお局に潰されたと知った話…「なぜお局は新人潰しを",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "年1～2回しか映画館行かない俺が選ぶ「よかったらこれも見てみて」20選",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「介護の限界を感じる」「お願いだから早く施設に預けてあげて」認知症のおばあちゃん",
+      "title": "「夏中にこれ全部見ようかな」年間100回以上映画館に通う人が選んだ映画20選が、",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「英語を英語のまま捉えるってなんなの」それについての考え方がぞくぞく集結、その感",
+      "title": "兵庫・赤穂市が非正規職員130人雇い止めへ　市民病院から職員が市役所へ異動、「押",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "灯火文庫 — 刻を、刷る。活版で読む近代文学",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "イスラエル極右閣僚、ガザでの大量虐殺呼び掛け「毎晩30～40人殺害すべき」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "セブンイレブンのアイスのPOPがAI生成だったけど、内部資料をAIに読み込ませて",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "旦那に連れられてキャバクラに行ったら店長が60代、女の子が40代、30代、20代",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「これ観てない奴とは正直、映画の話をしたくない20選」のリストが無難すぎてあくび",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【アンサー】数年に1回しか映画見ない増田が特におすすめしない映画何選",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "今田美桜",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "業界人「ぜんぜん面白くなかった演劇もSNSでは良かったことだけ書いて！」案の定袋",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
