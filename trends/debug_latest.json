@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T11:42:00+09:00",
+  "generated_at": "2026-08-20T17:18:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,33 +16,41 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 10,
-    "passed_total": 117,
+    "neg_excluded": 10,
+    "dedup_excluded": 8,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
-      "google_trends": 10,
       "x_realtime": 8,
-      "news_web": 12,
-      "yahoo_news_ranking": 6
+      "yahoo_realtime": 33,
+      "google_trends": 10,
+      "news_web": 14,
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 34,
-    "personal_story": 6,
-    "opinion": 10,
-    "hard_fact": 13,
-    "policy": 4,
-    "medical_science": 3
+    "social_reaction": 32,
+    "personal_story": 5,
+    "analysis": 1,
+    "opinion": 8,
+    "hard_fact": 20,
+    "policy": 2,
+    "medical_science": 2
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 31,
-    "opinion": 10,
-    "hard_fact": 19,
-    "personal_story": 6,
-    "policy": 4
+    "social_reaction": 29,
+    "hard_fact": 25,
+    "opinion": 8,
+    "analysis": 1,
+    "personal_story": 5,
+    "policy": 2
   },
   "b2b_top10": [
+    {
+      "title": "「僕の60年分のデータを入れた」開始から1週間のnoteが大バズしている松浦勝人",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "車内販売も自販機もないことを知らずに東京→博多の新幹線のぞみに乗車してしまい、喉",
       "source_category": "yahoo_realtime",
@@ -50,10 +58,10 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "本塁打",
+      "title": "台風気象情報、台風第18号",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "topic_category": "hard_fact"
     },
     {
       "title": "会社員で「コミュニティの人」でもある場合の落とし穴 - 覚書",
@@ -63,12 +71,6 @@
     },
     {
       "title": "年3回しか映画館行かない雑魚だけど「小難しいこと言わずに頭空っぽで楽しめる」映画",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "もし富士山が噴火したらどうなる!? 首都圏での火山灰対策グッズを考える | とな",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -80,39 +82,39 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "ムーキー・ベッツ",
+      "title": "日ハム",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "リオネル・メッシ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "公園のトイレで男性死亡 熱中症か",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "「夏中にこれ全部見ようかな」年間100回以上映画館に通う人が選んだ映画20選が、",
+      "title": "西日本中心に猛烈な暑さ 対策を",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_domestic",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "某有名ファミレスでバイトしてる妹、出勤したら知らないおじさんが声張り上げて接客し",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    }
+  ],
+  "note_top10": [
+    {
+      "title": "「僕の60年分のデータを入れた」開始から1週間のnoteが大バズしている松浦勝人",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "コロラド・ロッキーズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    }
-  ],
-  "note_top10": [
-    {
       "title": "車内販売も自販機もないことを知らずに東京→博多の新幹線のぞみに乗車してしまい、喉",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "もし富士山が噴火したらどうなる!? 首都圏での火山灰対策グッズを考える | とな",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -130,37 +132,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "手塩にかけて育てていた新卒の子がお局に潰されたと知った話…「なぜお局は新人潰しを",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "『C84を体験するといい』2013年に起きた阿鼻叫喚なコミケの惨状を口伝で伝える",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
     },
     {
-      "title": "「夏中にこれ全部見ようかな」年間100回以上映画館に通う人が選んだ映画20選が、",
+      "title": "ittf世界ランキング",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "analysis"
+    },
+    {
+      "title": "某有名ファミレスでバイトしてる妹、出勤したら知らないおじさんが声張り上げて接客し",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「あなたの好きなオンナのタイプはどれ」で並べられた女性たちのカップリングの妄想が",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "兵庫・赤穂市が非正規職員130人雇い止めへ　市民病院から職員が市役所へ異動、「押",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "灯火文庫 — 刻を、刷る。活版で読む近代文学",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "撮り鉄少年たちが電車遅延を競い合う事件を起こしたことでお笑い芸人「どくさいスイッ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "イスラエル極右閣僚、ガザでの大量虐殺呼び掛け「毎晩30～40人殺害すべき」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "セブンイレブンのアイスのPOPがAI生成だったけど、内部資料をAIに読み込ませて",
+      "title": "カラスにクソ程囲まれていた猫…群れの餌食になっているのかと思いきや、寝ている猫を",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
