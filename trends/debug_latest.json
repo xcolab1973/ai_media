@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T17:18:00+09:00",
+  "generated_at": "2026-08-20T22:35:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,105 +16,60 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 8,
-    "passed_total": 114,
+    "neg_excluded": 6,
+    "dedup_excluded": 11,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "x_realtime": 8,
-      "yahoo_realtime": 33,
+      "yahoo_realtime": 31,
+      "news_web": 17,
+      "yahoo_news_ranking": 4,
       "google_trends": 10,
-      "news_web": 14,
-      "yahoo_news_ranking": 5
+      "x_realtime": 8
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
-    "personal_story": 5,
-    "analysis": 1,
-    "opinion": 8,
+    "social_reaction": 31,
+    "personal_story": 4,
+    "opinion": 10,
+    "medical_science": 4,
     "hard_fact": 20,
-    "policy": 2,
-    "medical_science": 2
+    "policy": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "hard_fact": 25,
-    "opinion": 8,
-    "analysis": 1,
-    "personal_story": 5,
+    "social_reaction": 28,
+    "hard_fact": 24,
+    "opinion": 10,
+    "medical_science": 3,
+    "personal_story": 3,
     "policy": 2
   },
   "b2b_top10": [
     {
-      "title": "「僕の60年分のデータを入れた」開始から1週間のnoteが大バズしている松浦勝人",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "車内販売も自販機もないことを知らずに東京→博多の新幹線のぞみに乗車してしまい、喉",
+      "title": "「著しく時代遅れ」　次期空母で蒸気カタパルトに回帰、トランプ氏の指示に専門家も困",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "台風気象情報、台風第18号",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "会社員で「コミュニティの人」でもある場合の落とし穴 - 覚書",
+      "title": "森博嗣氏、公式サイトの更新を終了　「すべてがFになる」等ヒット作連発の作家・工学",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "年3回しか映画館行かない雑魚だけど「小難しいこと言わずに頭空っぽで楽しめる」映画",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "株を相続するときの手続きや遺産分割、評価額、納税方法は？初心者にもわかりやすく解",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "日ハム",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "公園のトイレで男性死亡 熱中症か",
+      "title": "21日 関東など急な雨や雷雨に注意",
       "source_category": "news_web",
       "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "西日本中心に猛烈な暑さ 対策を",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
+      "title": "クールジャパン機構廃止へ 経産省",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
       "topic_category": "hard_fact"
     },
     {
-      "title": "某有名ファミレスでバイトしてる妹、出勤したら知らないおじさんが声張り上げて接客し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    }
-  ],
-  "note_top10": [
-    {
-      "title": "「僕の60年分のデータを入れた」開始から1週間のnoteが大バズしている松浦勝人",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "車内販売も自販機もないことを知らずに東京→博多の新幹線のぞみに乗車してしまい、喉",
+      "title": "年3回しか映画館行かない雑魚だけど「小難しいこと言わずに頭空っぽで楽しめる」映画",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -126,43 +81,87 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "フェリーで一番安い部屋にしたらやばいから見て→「遥かに上等」「めっちゃ設備良くて",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "迫田孝也",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ハッピーセット 次回",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "fbi",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    }
+  ],
+  "note_top10": [
+    {
+      "title": "「著しく時代遅れ」　次期空母で蒸気カタパルトに回帰、トランプ氏の指示に専門家も困",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "森博嗣氏、公式サイトの更新を終了　「すべてがFになる」等ヒット作連発の作家・工学",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "年3回しか映画館行かない雑魚だけど「小難しいこと言わずに頭空っぽで楽しめる」映画",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『C84を体験するといい』2013年に起きた阿鼻叫喚なコミケの惨状を口伝で伝える",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "ittf世界ランキング",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "analysis"
-    },
-    {
-      "title": "某有名ファミレスでバイトしてる妹、出勤したら知らないおじさんが声張り上げて接客し",
+      "title": "会社員で「コミュニティの人」でもある場合の落とし穴 - 覚書",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「あなたの好きなオンナのタイプはどれ」で並べられた女性たちのカップリングの妄想が",
+      "title": "フェリーで一番安い部屋にしたらやばいから見て→「遥かに上等」「めっちゃ設備良くて",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "無水カレーを作って食べるの楽しみにしてたら、家族が勝手に水とルー追加してた「こう",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「1日1回清潔な手でかき混ぜる」「2日から5日くらいでシュワっと発酵」JA和歌山",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "撮り鉄少年たちが電車遅延を競い合う事件を起こしたことでお笑い芸人「どくさいスイッ",
+      "title": "パナソニックのドラム洗濯機、乾きにくさ解消するサイクロンユニット採用 - 家電 ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "先日ディナーした日のクレカ明細見たら同じレストランから2件の請求があり、2件目は",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "カラスにクソ程囲まれていた猫…群れの餌食になっているのかと思いきや、寝ている猫を",
+      "title": "リビングのエアコンをつけたら「初めてご使用いただいた日から長い年月が経ちました。",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
