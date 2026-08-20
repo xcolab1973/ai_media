@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-20T17:20:22+09:00",
- "valid_until": "2026-08-27T17:12:34+09:00",
+ "generated_at": "2026-08-21T06:42:13+09:00",
+ "valid_until": "2026-08-28T06:34:28+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "legal",
   "from_current": 33,
-  "from_new": 3,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 3,
+  "retention_dropped": 1,
   "genres": 5,
   "retention_per_genre": 8
  },
@@ -288,6 +288,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "SNS型投資詐欺 | 最新の詐欺 | 警察庁・SOS47特殊詐欺対策ページ",
+   "url": "https://www.npa.go.jp/bureau/safetylife/sos47/case/sns-romance/investment/",
+   "summary": "警察庁公式ページ。SNS型投資詐欺の典型的な手口（個人名義口座への振込、振込先が頻繁に変わる等）と、警察相談専用電話「#9110」等の通報先を一次情報として提示。読者の「見分け方が分からない」への裏取りに使える。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "safety_claim",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "legal-consumer",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "警察庁",
+    "expert_origin": true,
+    "search_query": "SNS なりすまし広告 投資詐欺 見分け方 通報 2026",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-28T06:34:28+09:00",
+   "validity_days": 7
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "7府省庁、SNSの「なりすまし詐欺広告」対策強化を要請",
    "url": "https://www.fsa.go.jp/receipt/toushisagi_koukoku.html",
    "summary": "2026年8月、金融庁など7府省庁がGoogleやMeta、X等のプラットフォーム事業者に、なりすまし型投資詐欺広告への対策強化を合同要請。SNS投資詐欺の情報受付窓口も設置済みで直近の制度動向として鮮度が高い。",
@@ -494,36 +524,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-24T06:36:46+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "【QA】SNS型投資詐欺に遭った場合の緊急対応と未然に防ぐための対策は？",
-   "url": "https://www.cybersecurity.metro.tokyo.lg.jp/links/748/index.html",
-   "summary": "SNS型投資詐欺に気づいたら、まず振込先口座の凍結手続きを銀行へ連絡し、警察や証券取引等監視委員会の情報提供窓口へ相談することが早期対応として重要。個人名義口座や頻繁な振込先変更は詐欺の典型的な兆候として注意喚起。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "legal-consumer",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "東京都サイバーセキュリティ",
-    "expert_origin": true,
-    "search_query": "SNS 投資詐欺 だまされた かも 気づいた 知恵袋 対処",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-22T06:35:48+09:00",
    "validity_days": 7
   },
   {
