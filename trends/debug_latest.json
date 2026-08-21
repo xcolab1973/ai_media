@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T06:58:00+09:00",
+  "generated_at": "2026-08-21T11:48:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,60 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
+    "neg_excluded": 10,
     "dedup_excluded": 12,
-    "passed_total": 109,
+    "passed_total": 110,
     "b2b_category_counts": {
-      "yahoo_realtime": 30,
+      "x_realtime": 4,
+      "yahoo_realtime": 33,
       "google_trends": 10,
-      "yahoo_news_ranking": 8,
-      "news_web": 15,
-      "x_realtime": 7
+      "yahoo_news_ranking": 6,
+      "news_web": 17
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
+    "social_reaction": 28,
     "opinion": 10,
     "personal_story": 2,
     "medical_science": 2,
     "policy": 5,
-    "hard_fact": 25
+    "hard_fact": 23
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 26,
+    "social_reaction": 28,
     "opinion": 10,
     "policy": 6,
-    "hard_fact": 25,
+    "hard_fact": 23,
     "medical_science": 1,
     "personal_story": 2
   },
   "b2b_top10": [
     {
+      "title": "縦型洗濯機で液体洗剤・柔軟剤・芳香ビーズを使い、「おまかせ」コースで黒い綿素材の",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "紹介記事を書くことは著作権違反なのか？｜中島聡",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "SANYOSEWING STORE",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【無料】ドキュメントを書くな、会話を拾え｜松濤Vimmer",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「粗熱って放置するんじゃねーのか」カレーを冷やす重要性を語ったnoteが話題に、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -57,56 +81,38 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「なんて罰当たり！」「何がダメなの？」鳥居でハイキックしたドイツ人女性が炎上…“",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "虎に翼 映画",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "「著しく時代遅れ」　次期空母で蒸気カタパルトに回帰、トランプ氏の指示に専門家も困",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "ベーブ ルース",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "タイ政府 500万人にAI無料提供",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_it",
+      "topic_category": "policy"
     },
     {
       "title": "｢日本人は貯蓄が大好き｣は真っ赤なウソ…財務省も自民党も目を背ける｢世帯貯蓄率0",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "エイベックス 松浦",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ロイヤルズ 対 アスレチックス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "銚子電鉄「ナウル駅」苦情受け8月末で終了へ　ネーミングライツ契約発表→同国観光局",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "中村晃",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "スピッツ 見知らぬ糸",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
+      "title": "縦型洗濯機で液体洗剤・柔軟剤・芳香ビーズを使い、「おまかせ」コースで黒い綿素材の",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "TokyoMap（東京都地図情報サイト）",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
@@ -119,13 +125,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「なんて罰当たり！」「何がダメなの？」鳥居でハイキックしたドイツ人女性が炎上…“",
+      "title": "SANYOSEWING STORE",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「著しく時代遅れ」　次期空母で蒸気カタパルトに回帰、トランプ氏の指示に専門家も困",
+      "title": "【無料】ドキュメントを書くな、会話を拾え｜松濤Vimmer",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「粗熱って放置するんじゃねーのか」カレーを冷やす重要性を語ったnoteが話題に、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -137,34 +149,22 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "先日ディナーした日のクレカ明細見たら同じレストランから2件の請求があり、2件目は",
+      "title": "美術館行くの好きなんですけど、美術館慣れてない人と行く時は「あなたが大怪盗だった",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ブルアカ同人色紙オークション問題で改めて考える必要がある「2次創作ガイドライン」",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "なぜか高円寺のコインパーキングに落ちてた、普通の人なら犬の糞かと思うけど俺の目は",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「俺の大学生活の全てだ」2022年から2026年の行動記録を可視化した動画の活き",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "8歳の時に父と兄と富士山に登り、8合目で体力の限界を迎えたが、父と兄は山頂アタッ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "エイベックス 松浦",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ロイヤルズ 対 アスレチックス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ]
 }
