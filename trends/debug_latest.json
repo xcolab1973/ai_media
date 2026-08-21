@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T11:48:00+09:00",
+  "generated_at": "2026-08-21T17:20:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,38 +16,54 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 12,
-    "passed_total": 110,
+    "neg_excluded": 5,
+    "dedup_excluded": 10,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "x_realtime": 4,
-      "yahoo_realtime": 33,
+      "x_realtime": 7,
+      "yahoo_realtime": 37,
       "google_trends": 10,
-      "yahoo_news_ranking": 6,
-      "news_web": 17
+      "news_web": 13,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
+    "social_reaction": 34,
+    "personal_story": 3,
     "opinion": 10,
-    "personal_story": 2,
-    "medical_science": 2,
-    "policy": 5,
-    "hard_fact": 23
+    "hard_fact": 18,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
+    "social_reaction": 34,
     "opinion": 10,
-    "policy": 6,
-    "hard_fact": 23,
-    "medical_science": 1,
-    "personal_story": 2
+    "hard_fact": 18,
+    "policy": 5,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "縦型洗濯機で液体洗剤・柔軟剤・芳香ビーズを使い、「おまかせ」コースで黒い綿素材の",
+      "title": "【クモ画像注意】家主の不在中、灼熱の倉庫で害虫を狩り続けたアシダカ軍曹の最期が壮",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "連日38度超のパリ猛暑。景観保護でエアコン設置不可、フランス人が本気で実践する「",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "昔の能は現在より3倍、雅楽は4〜12倍の速さだったという説があるらしい…実は現代",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "縦型洗濯機で液体洗剤・柔軟剤・芳香ビーズを使い、「おまかせ」コースで黒い綿素材の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -63,57 +79,63 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "【無料】ドキュメントを書くな、会話を拾え｜松濤Vimmer",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「粗熱って放置するんじゃねーのか」カレーを冷やす重要性を語ったnoteが話題に、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "TokyoMap（東京都地図情報サイト）",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "虎に翼 映画",
+      "title": "記録的短時間大雨情報",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ベーブ ルース",
+      "title": "巨人 対 広島",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "タイ政府 500万人にAI無料提供",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_it",
-      "topic_category": "policy"
+      "title": "ロッテ 対 日本ハム",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "｢日本人は貯蓄が大好き｣は真っ赤なウソ…財務省も自民党も目を背ける｢世帯貯蓄率0",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "楽天 対 西武",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
+      "title": "連日38度超のパリ猛暑。景観保護でエアコン設置不可、フランス人が本気で実践する「",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "縦型洗濯機で液体洗剤・柔軟剤・芳香ビーズを使い、「おまかせ」コースで黒い綿素材の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【クモ画像注意】家主の不在中、灼熱の倉庫で害虫を狩り続けたアシダカ軍曹の最期が壮",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
+      "title": "「冷やして食べる麻婆なす丼」が、残暑メシの正解かもしれない - メシ通 | ホッ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "TokyoMap（東京都地図情報サイト）",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "昔の能は現在より3倍、雅楽は4〜12倍の速さだったという説があるらしい…実は現代",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -137,34 +159,10 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「粗熱って放置するんじゃねーのか」カレーを冷やす重要性を語ったnoteが話題に、",
+      "title": "ドイツの肉屋でお掃除してみた｜ソーセージ姉さん",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "｢日本人は貯蓄が大好き｣は真っ赤なウソ…財務省も自民党も目を背ける｢世帯貯蓄率0",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "美術館行くの好きなんですけど、美術館慣れてない人と行く時は「あなたが大怪盗だった",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "なぜか高円寺のコインパーキングに落ちてた、普通の人なら犬の糞かと思うけど俺の目は",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "8歳の時に父と兄と富士山に登り、8合目で体力の限界を迎えたが、父と兄は山頂アタッ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     }
   ]
 }
