@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-21T06:55:15+0900",
-    "record_count": 33,
-    "source_total_in_db": 887,
+    "generated_at": "2026-08-21T12:30:22+0900",
+    "record_count": 34,
+    "source_total_in_db": 888,
     "provenance_breakdown": {
       "evidence": 565,
-      "pain_seed": 322
+      "pain_seed": 323
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_4237b0bdf035",
+      "trend_term": "ハイフ施術事故の実態",
+      "raw_title": "事故急増、野放図なハイフ施術が浮き彫りにする美容整形業界の闇 - JBpress",
+      "summary": "ハイフ施術に関連した事故が増加傾向にあり、美容医療業界における安全管理の課題が指摘されている。",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93SlJPdzkzXzk3Z2FFZ1RFYzhRZ01SMTNvakdNMXpfdWlfS1lXWHBJbkpOU2xvc3ZBWUE0SEQ1eWxKLUxRQWpWVXJkTm5fb3FxTkxrQnVR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93SlJPdzkzXzk3Z2FFZ1RFYzhRZ01SMTNvakdNMXpfdWlfS1lXWHBJbkpOU2xvc3ZBWUE0SEQ1eWxKLUxRQWpWVXJkTm5fb3FxTkxrQnVR?oc=5",
+      "source_name": "JBpress",
+      "monitor_id": "bm-safety-news",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-26T12:30:17+0900",
+      "status": "candidate",
+      "created_at": "2026-08-21T12:30:17+0900"
+    },
     {
       "seed_id": "seed_ce7dbe5397a3",
       "trend_term": "美容施術の失敗・リスク認識",
