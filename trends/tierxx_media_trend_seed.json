@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-21T17:06:49+0900",
-    "record_count": 35,
-    "source_total_in_db": 892,
+    "generated_at": "2026-08-22T06:51:47+0900",
+    "record_count": 37,
+    "source_total_in_db": 894,
     "provenance_breakdown": {
-      "evidence": 569,
-      "pain_seed": 323
+      "evidence": 570,
+      "pain_seed": 324
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_c7640ce7410c",
+      "trend_term": "鼻整形の後遺症リスク",
+      "raw_title": "悲惨な鼻の後遺症 - 札幌美容形成外科",
+      "summary": "鼻整形における後遺症の存在について言及。患者が実際に直面する合併症・リスクに関する情報源として機能する可能性がある。",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Vc3lIelVjemE4ZjRJc29mVlhWai1GQ1hKdDBlNmxQd3djOWRBUThyYWpuWkZrN0drNXZIc1pyMktMSTNTdzc1QkVTVzFLcW9Sc2ZVbjVRNzlma2drQmFZbFVidDd2czg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Vc3lIelVjemE4ZjRJc29mVlhWai1GQ1hKdDBlNmxQd3djOWRBUThyYWpuWkZrN0drNXZIc1pyMktMSTNTdzc1QkVTVzFLcW9Sc2ZVbjVRNzlma2drQmFZbFVidDd2czg?oc=5",
+      "source_name": "札幌美容形成外科",
+      "monitor_id": "bm-safety-news",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-09-05T06:51:38+0900",
+      "status": "candidate",
+      "created_at": "2026-08-22T06:51:38+0900"
+    },
+    {
+      "seed_id": "seed_579e12edcde1",
+      "trend_term": "美容医療×キャリア",
+      "raw_title": "ポテンツァ専属ナース「のりねぇ」が特別セミナー「美容医療×選ばれる在り方」に登壇 - PR TIMES",
+      "summary": "ポテンツァ専属ナースが美容医療と個人のキャリア形成をテーマにしたセミナーに登壇。業界人材育成の動きを反映。",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15aWhHQ1JhWUJvX3lTZVliNGd2U1p0RTY3QVJZWEowU0pKOWpfZGVXeFNXdk55ZDFwRVduSlhTaGxLUk1WeFdKUThidWpaczlHa1JELXVmT084UWVfVUZ5VV9aNFBSZkNWaGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15aWhHQ1JhWUJvX3lTZVliNGd2U1p0RTY3QVJZWEowU0pKOWpfZGVXeFNXdk55ZDFwRVduSlhTaGxLUk1WeFdKUThidWpaczlHa1JELXVmT084UWVfVUZ5VV9aNFBSZkNWaGc?oc=5",
+      "source_name": "PR TIMES",
+      "monitor_id": "bm-machine-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "opinion",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-27T06:51:28+0900",
+      "status": "candidate",
+      "created_at": "2026-08-22T06:51:28+0900"
+    },
     {
       "seed_id": "seed_6bee7a8674c4",
       "trend_term": "ステマ規制対策",
