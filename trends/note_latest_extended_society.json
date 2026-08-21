@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-08-21T16:49:59+09:00",
+ "generated_at": "2026-08-22T06:44:44+09:00",
  "valid_until": "2026-09-04T16:49:01+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "society",
- "total_count": 45,
+ "total_count": 43,
  "merge": {
   "parent": "society",
-  "from_current": 44,
-  "from_new": 4,
-  "expired_pruned": 0,
-  "retention_dropped": 3,
+  "from_current": 45,
+  "from_new": 0,
+  "expired_pruned": 2,
+  "retention_dropped": 0,
   "genres": 6,
   "retention_per_genre": 8
  },
@@ -224,36 +224,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-22T06:46:27+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "まとめまとめ ニュース",
-   "url": "https://news.matomame.jp/",
-   "summary": "「お盆明け・夏休み明けのニュースに追いつく方法」で検索しても、汎用ニュースまとめサイトや速報一覧しか上位表示されず、休み明け読者向けに整理された解説コンテンツは見当たらなかった。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "society-news-explainer",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "まとめまとめニュース",
-    "expert_origin": false,
-    "search_query": "お盆明け 夏休み明け ニュース まとめ 追いつく方法 わからない",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": true,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-21T16:55:01+09:00",
    "validity_days": 5
   },
   {
@@ -1334,36 +1304,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-24T06:46:27+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "障害者の法定雇用率、2026年7月から2.7%に引き上げ — 対象企業が37.5人以上に拡大",
-   "url": "https://jgq.jp/%E9%9A%9C%E5%AE%B3%E8%80%85%E3%81%AE%E6%B3%95%E5%AE%9A%E9%9B%87%E7%94%A8%E7%8E%87%E3%80%812026%E5%B9%B47%E6%9C%88%E3%81%8B%E3%82%892-7%E3%81%AB%E5%BC%95%E3%81%8D%E4%B8%8A%E3%81%92-%E5%AF%BE/",
-   "summary": "2026年7月から障害者法定雇用率が2.7%に引き上げられ、対象企業規模が37.5人以上に拡大。ある調査では企業の約6割が「対応困難」と回答し、達成企業割合は46.0%にとどまっている。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "society-issue",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "jgq.jp",
-    "expert_origin": false,
-    "search_query": "障害者雇用率 2.7% 引き上げ 対応できない 中小企業 本音",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-22T06:42:16+09:00",
    "validity_days": 7
   }
  ]

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-21T16:49:59+09:00",
- "valid_until": "2026-09-03T06:42:46+09:00",
+ "generated_at": "2026-08-22T06:44:44+09:00",
+ "valid_until": "2026-09-05T06:40:59+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -16,6 +16,36 @@
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "甲子園はなぜビデオ判定を採用しないのですか？",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12302623112",
+   "summary": "甲子園の判定方式に対する読者の素朴な疑問。地方大会と全国大会での運用差や『なぜ導入されないのか』という誤解が残っており、2026年の新ルール導入後も同種の混乱が起きうることを示唆する生ペイン。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "sports-watch",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "甲子園 ビデオ判定 応援 戸惑う 知恵袋 OR 教えて",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": true,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-27T06:40:59+09:00",
+   "validity_days": 5
+  },
   {
    "source_category": "news_web",
    "raw_title": "「阪神は自前で育て、巨人はFAで集めてきた」広岡達朗が指摘する両軍の“決定的な差”",
@@ -228,16 +258,16 @@
   },
   {
    "source_category": "news_web",
-   "raw_title": "この時期、高校野球ロス（甲子園ロス）で気分沈む人いませんか？",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12248628382",
-   "summary": "夏の甲子園終了後に気分が沈む「甲子園ロス」について投稿された質問。回答では秋季大会の結果を追う、ホームラン集やエンディング映像を見返すなどの過ごし方が挙げられている。",
+   "raw_title": "フルマラソンの大会に初挑戦！初心者が押さえておきたいポイント（質問）",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12267003097",
+   "summary": "5ヶ月後に控えたフルマラソン初挑戦を前に、練習の始め方や制限時間への不安を訴える質問者の生ペイン。何から手をつければよいか分からない初心者の典型的なつまずきが読み取れる。",
    "signal_type": "evergreen",
    "engagement_signal": false,
    "approx_traffic": "100+",
    "preliminary_claim_type": "opinion",
    "relevance_to_niche": "high",
    "topic_category": null,
-   "primary_genre": "sports-watch",
+   "primary_genre": "sports-play",
    "karte_matched_category": null,
    "karte_aligned": false,
    "account_id": "default",
@@ -245,7 +275,7 @@
    "provenance": {
     "source_name": "Yahoo!知恵袋",
     "expert_origin": false,
-    "search_query": "甲子園ロス 秋 何を見ればいい 知恵袋",
+    "search_query": "マラソン 初心者 何から始める 知恵袋",
     "freshness": "evergreen",
     "integrity_warning": null,
     "provenance_kind": "pain_seed",
@@ -253,8 +283,8 @@
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-08-24T06:56:21+09:00",
-   "validity_days": 5
+   "valid_until": "2026-09-05T06:40:59+09:00",
+   "validity_days": 14
   },
   {
    "source_category": "news_web",
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-26T06:43:20+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "スポーツ・習い事は何歳から？｜子どもの習い事、スポーツガイド",
-   "url": "http://www.kodomo-naraigoto.jp/info/age.html",
-   "summary": "子どものスポーツ系習い事をいつから始めるべきかを解説。4〜8歳の『プレ・ゴールデンエイジ』、9〜12歳の『ゴールデンエイジ』など運動能力形成の年齢別目安を紹介。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "sports-play",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "子どもの習い事・スポーツガイド",
-    "expert_origin": false,
-    "search_query": "子供 スポーツ 習い事 選び方 何歳から 始める コツ 専門家",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-24T06:43:28+09:00",
    "validity_days": 14
   }
  ]

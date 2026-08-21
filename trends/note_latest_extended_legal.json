@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-08-21T16:49:59+09:00",
+ "generated_at": "2026-08-22T06:44:44+09:00",
  "valid_until": "2026-08-28T16:42:54+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "legal",
- "total_count": 32,
+ "total_count": 31,
  "merge": {
   "parent": "legal",
-  "from_current": 33,
-  "from_new": 4,
-  "expired_pruned": 2,
-  "retention_dropped": 3,
+  "from_current": 32,
+  "from_new": 0,
+  "expired_pruned": 1,
+  "retention_dropped": 0,
   "genres": 5,
   "retention_per_genre": 8
  },
@@ -134,36 +134,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-24T06:36:46+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "カスハラを会社が守ってくれないときの対処法｜会社への損害賠償請求を中心に解説",
-   "url": "https://roudou-pro.com/columns/1007/",
-   "summary": "会社がカスハラに対応してくれない場合、社内の別窓口（人事・コンプライアンス部門）や労働基準監督署・労働相談センターへの相談が可能。従業員が心身の損害を被り会社が適切対応をしていなければ、会社への損害賠償請求も法的に検討できる。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "legal-labor",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "ベンナビ労働問題（旧：労働問題弁護士ナビ）",
-    "expert_origin": true,
-    "search_query": "カスハラ 対応してくれない 会社 相談 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-22T06:35:48+09:00",
    "validity_days": 7
   },
   {
