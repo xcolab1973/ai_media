@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T22:34:00+09:00",
+  "generated_at": "2026-08-22T06:57:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 4,
-    "dedup_excluded": 14,
-    "passed_total": 114,
+    "neg_excluded": 10,
+    "dedup_excluded": 10,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
+      "yahoo_realtime": 36,
       "google_trends": 10,
-      "news_web": 14,
+      "news_web": 15,
       "yahoo_news_ranking": 3,
       "x_realtime": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
-    "personal_story": 4,
-    "opinion": 10,
-    "medical_science": 1,
-    "hard_fact": 21,
-    "policy": 8
+    "personal_story": 3,
+    "social_reaction": 28,
+    "medical_science": 2,
+    "opinion": 8,
+    "hard_fact": 25,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "personal_story": 4,
-    "social_reaction": 26,
-    "hard_fact": 21,
-    "opinion": 10,
-    "medical_science": 1,
-    "policy": 8
+    "hard_fact": 25,
+    "personal_story": 3,
+    "social_reaction": 28,
+    "medical_science": 2,
+    "opinion": 8,
+    "policy": 4
   },
   "b2b_top10": [
+    {
+      "title": "クマはどこからやってきたのか…後手に回ったクマ対策、長年警鐘を鳴らしてきた先進県",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
     {
       "title": "【続報】\"もう1人の息子が1人で先へ進んでしまった\"富士山6合目にぐずった7歳の",
       "source_category": "yahoo_realtime",
@@ -57,49 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "連日38度超のパリ猛暑。景観保護でエアコン設置不可、フランス人が本気で実践する「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "米朝首脳会談",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "medical_science"
     },
     {
-      "title": "ブラック企業に勤めた後、転職活動が100社超えで内定ゼロと無理を悟り、公務員試験",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "日産",
+      "title": "thời tiết",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "=LOVE運営声明 ファンに注意喚起",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_entertainment",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "難しい検知 bot不正どう対策?",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_it",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "作家・右薙光介先生がヤバい親戚に「就職に失敗した親戚の子に出版社を紹介してほしい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ウルトラクイズ",
+      "title": "payp",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "勝地涼",
+      "title": "ダウ平均株価",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "山本麻衣",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "24時間テレビ 2026",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "三宅 健",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,12 +107,6 @@
   ],
   "note_top10": [
     {
-      "title": "連日38度超のパリ猛暑。景観保護でエアコン設置不可、フランス人が本気で実践する「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "【続報】\"もう1人の息子が1人で先へ進んでしまった\"富士山6合目にぐずった7歳の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
@@ -120,12 +114,6 @@
     },
     {
       "title": "京都市が市立中学校の部活動を廃止すると決定…今後は本気でやりたい人は参加費の必要",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "作家・右薙光介先生がヤバい親戚に「就職に失敗した親戚の子に出版社を紹介してほしい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -137,25 +125,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ヤバい親から逃げようとした知人が「通帳を置いていけ」と言われて悩んでいたので「最",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "新宿三井ビルのど自慢大会に出たい一心で、三井クラブ支配人が定年後ビル警備員に再就",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "平成の高校生はリプトン飲んでたけれど、令和の高校生は何を飲んでるんだろ？→平成の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「いい上司やね」コンサル新卒で忘年会幹事やったら8割くらい来なかった→早めに来た",
+      "title": "「名作つかまされてる」本屋で2歳児が破ってしまった小説を読書家ではないママが購入",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "MADE IN YAMATO - 第１３話　ライバルと新商品 | ヤンマガWeb",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "担当者が電話を切る瞬間に舌打ちしたのが聞こえたので、契約を全て解約します「電話は",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -165,6 +153,18 @@
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
+    },
+    {
+      "title": "作家・右薙光介先生がヤバい親戚に「就職に失敗した親戚の子に出版社を紹介してほしい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "米朝首脳会談",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "medical_science"
     }
   ]
 }
