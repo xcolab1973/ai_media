@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T17:20:00+09:00",
+  "generated_at": "2026-08-21T22:34:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,44 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 10,
-    "passed_total": 117,
+    "neg_excluded": 4,
+    "dedup_excluded": 14,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "x_realtime": 7,
       "yahoo_realtime": 37,
       "google_trends": 10,
-      "news_web": 13,
-      "yahoo_news_ranking": 3
+      "news_web": 14,
+      "yahoo_news_ranking": 3,
+      "x_realtime": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 34,
-    "personal_story": 3,
+    "social_reaction": 26,
+    "personal_story": 4,
     "opinion": 10,
-    "hard_fact": 18,
-    "policy": 5
+    "medical_science": 1,
+    "hard_fact": 21,
+    "policy": 8
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 34,
+    "personal_story": 4,
+    "social_reaction": 26,
+    "hard_fact": 21,
     "opinion": 10,
-    "hard_fact": 18,
-    "policy": 5,
-    "personal_story": 3
+    "medical_science": 1,
+    "policy": 8
   },
   "b2b_top10": [
     {
-      "title": "【クモ画像注意】家主の不在中、灼熱の倉庫で害虫を狩り続けたアシダカ軍曹の最期が壮",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "【続報】\"もう1人の息子が1人で先へ進んでしまった\"富士山6合目にぐずった7歳の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "京都市が市立中学校の部活動を廃止すると決定…今後は本気でやりたい人は参加費の必要",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -55,49 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "昔の能は現在より3倍、雅楽は4〜12倍の速さだったという説があるらしい…実は現代",
+      "title": "ブラック企業に勤めた後、転職活動が100社超えで内定ゼロと無理を悟り、公務員試験",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "hard_fact"
     },
     {
-      "title": "縦型洗濯機で液体洗剤・柔軟剤・芳香ビーズを使い、「おまかせ」コースで黒い綿素材の",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "紹介記事を書くことは著作権違反なのか？｜中島聡",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "SANYOSEWING STORE",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "記録的短時間大雨情報",
+      "title": "日産",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "巨人 対 広島",
+      "title": "=LOVE運営声明 ファンに注意喚起",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_entertainment",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "難しい検知 bot不正どう対策?",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_it",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "作家・右薙光介先生がヤバい親戚に「就職に失敗した親戚の子に出版社を紹介してほしい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ウルトラクイズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ロッテ 対 日本ハム",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "楽天 対 西武",
+      "title": "勝地涼",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -111,51 +113,51 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "縦型洗濯機で液体洗剤・柔軟剤・芳香ビーズを使い、「おまかせ」コースで黒い綿素材の",
+      "title": "【続報】\"もう1人の息子が1人で先へ進んでしまった\"富士山6合目にぐずった7歳の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "京都市が市立中学校の部活動を廃止すると決定…今後は本気でやりたい人は参加費の必要",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【クモ画像注意】家主の不在中、灼熱の倉庫で害虫を狩り続けたアシダカ軍曹の最期が壮",
+      "title": "作家・右薙光介先生がヤバい親戚に「就職に失敗した親戚の子に出版社を紹介してほしい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "自転車屋にて、中学生くらいの子が「交換してほしい」とサドルを取り出したので「持ち",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ヤバい親から逃げようとした知人が「通帳を置いていけ」と言われて悩んでいたので「最",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "新宿三井ビルのど自慢大会に出たい一心で、三井クラブ支配人が定年後ビル警備員に再就",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "平成の高校生はリプトン飲んでたけれど、令和の高校生は何を飲んでるんだろ？→平成の",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「冷やして食べる麻婆なす丼」が、残暑メシの正解かもしれない - メシ通 | ホッ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "TokyoMap（東京都地図情報サイト）",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "昔の能は現在より3倍、雅楽は4〜12倍の速さだったという説があるらしい…実は現代",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "紹介記事を書くことは著作権違反なのか？｜中島聡",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "SANYOSEWING STORE",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【無料】ドキュメントを書くな、会話を拾え｜松濤Vimmer",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「いい上司やね」コンサル新卒で忘年会幹事やったら8割くらい来なかった→早めに来た",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
