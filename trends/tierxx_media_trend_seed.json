@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-22T16:56:08+0900",
+    "generated_at": "2026-08-23T06:48:41+0900",
     "record_count": 39,
-    "source_total_in_db": 897,
+    "source_total_in_db": 898,
     "provenance_breakdown": {
-      "evidence": 572,
+      "evidence": 573,
       "pain_seed": 325
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_1468df33da55",
+      "trend_term": "病院の自由診療エリア開設",
+      "raw_title": "済生会宇都宮病院に自由診療エリアオープン 美容、先進医療ニーズに対応 - 下野新聞社",
+      "summary": "済生会宇都宮病院が自由診療エリアを新設。美容と先進医療ニーズに対応する施設拡張。",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZTHF2MENzYk11QzI0WnJMMnFFUzA4aFpyQ2NUbE52WUMyUTRFcHdMbnJKT05CR1dSODZfVFcya1hUSkk2RDZCcEI1dlVqM3JvQ1NTWkwxNktVZmM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZTHF2MENzYk11QzI0WnJMMnFFUzA4aFpyQ2NUbE52WUMyUTRFcHdMbnJKT05CR1dSODZfVFcya1hUSkk2RDZCcEI1dlVqM3JvQ1NTWkwxNktVZmM?oc=5",
+      "source_name": "下野新聞社",
+      "monitor_id": "bm-regen-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-28T06:48:26+0900",
+      "status": "candidate",
+      "created_at": "2026-08-23T06:48:26+0900"
+    },
     {
       "seed_id": "seed_1df744a027ed",
       "trend_term": "美容医療プラットフォーム",
@@ -587,24 +605,6 @@
       "valid_until": "2026-08-23T17:03:50+0900",
       "status": "candidate",
       "created_at": "2026-08-18T17:03:50+0900"
-    },
-    {
-      "seed_id": "seed_4ea0270587ab",
-      "trend_term": "自家培養真皮線維芽細胞",
-      "raw_title": "医療法人社団青翠会 武蔵野皮フ科クリニックと提携。皮膚再生治療（肌の再生医療）に用いる自家培養真皮線維芽細胞の提供開始 - Excite エキサイト",
-      "summary": "医療法人社団青翠会 武蔵野皮フ科クリニックが、皮膚再生治療に用いる自家培養真皮線維芽細胞の提供を開始。肌の再生医療における具体的な治療素材の展開。",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZbkhPb3QxVWZmeUNETVFFTVBtcVJHdVFsSHFmT1UxN3JDZDltc28tR0pSN00xUGxudkhmb0FrbTNIRVVjUmlWWlI0blJBVG9RZ1lWSWdINFpNdVB4NFFlMVA4cTZYLTZPaHg2YW9mdHJPTTA?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZbkhPb3QxVWZmeUNETVFFTVBtcVJHdVFsSHFmT1UxN3JDZDltc28tR0pSN00xUGxudkhmb0FrbTNIRVVjUmlWWlI0blJBVG9RZ1lWSWdINFpNdVB4NFFlMVA4cTZYLTZPaHg2YW9mdHJPTTA?oc=5",
-      "source_name": "Excite エキサイト",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-23T12:23:04+0900",
-      "status": "candidate",
-      "created_at": "2026-08-18T12:23:04+0900"
     },
     {
       "seed_id": "seed_7f57699eca77",
