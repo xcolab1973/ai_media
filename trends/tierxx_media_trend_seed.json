@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-22T12:21:57+0900",
-    "record_count": 38,
-    "source_total_in_db": 895,
+    "generated_at": "2026-08-22T16:56:08+0900",
+    "record_count": 39,
+    "source_total_in_db": 897,
     "provenance_breakdown": {
-      "evidence": 570,
+      "evidence": 572,
       "pain_seed": 325
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_1df744a027ed",
+      "trend_term": "美容医療プラットフォーム",
+      "raw_title": "【美容医療の未来】業界No1プラットフォーム「トリビュー」が拓く可能性と課題解決策（土橋克寿） - エキスパート - Yahoo!ニュース",
+      "summary": "業界No1プラットフォーム「トリビュー」が美容医療業界の課題解決に取り組む状況について、エキスパート寄稿による業界分析",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc0dvLURaanJIU3dFRHFiZWVYMXJnQWZ4OXo4Unk1cHNWLXQtU0JUdVdDY3BFVm1WTEc5TENCMVc1bU9YMVJ1azJEMDQxa21NNTNvODVuUUpfVEt4amRBMG9fcDBNWnI0b2dfclJuMElfYzVZTlh2SzNCdm9sWEFsdUhhblFaY2FY?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc0dvLURaanJIU3dFRHFiZWVYMXJnQWZ4OXo4Unk1cHNWLXQtU0JUdVdDY3BFVm1WTEc5TENCMVc1bU9YMVJ1azJEMDQxa21NNTNvODVuUUpfVEt4amRBMG9fcDBNWnI0b2dfclJuMElfYzVZTlh2SzNCdm9sWEFsdUhhblFaY2FY?oc=5",
+      "source_name": "Yahoo!ニュース",
+      "monitor_id": "bm-market-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-27T16:56:02+0900",
+      "status": "candidate",
+      "created_at": "2026-08-22T16:56:02+0900"
+    },
+    {
+      "seed_id": "seed_f6cd2694440e",
+      "trend_term": "男性向け美容医療トラブル",
+      "raw_title": "美容医療トラブル、男性も　薄毛治療など苦情　国セン改善要望🔓 - WEBニッポン消費者新聞",
+      "summary": "国民生活センターが男性の薄毛治療など美容医療苦情を報告。消費者保護機関による実態把握で、業界改善が要望されている。",
+      "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE14bnhLY0pCSHk1Ml9KaWxCVFAtM19yRjRIVkRuSVY0T1BidmxRaXI4Vlg3VTRQSHowMTVlTGdZREh1QWw4Ukw40gFMQVVfeXFMTmV0cjE3U2k1eTJBWEdGNjhubVhyZU5SX1gtTjEzRno2T2FuWkRsdUh3NjNNVWN5Sm9qOUhrQUVDUFRib05yYzlfNDFKRg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE14bnhLY0pCSHk1Ml9KaWxCVFAtM19yRjRIVkRuSVY0T1BidmxRaXI4Vlg3VTRQSHowMTVlTGdZREh1QWw4Ukw40gFMQVVfeXFMTmV0cjE3U2k1eTJBWEdGNjhubVhyZU5SX1gtTjEzRno2T2FuWkRsdUh3NjNNVWN5Sm9qOUhrQUVDUFRib05yYzlfNDFKRg?oc=5",
+      "source_name": "WEBニッポン消費者新聞",
+      "monitor_id": "bm-safety-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-27T16:55:58+0900",
+      "status": "candidate",
+      "created_at": "2026-08-22T16:55:58+0900"
+    },
     {
       "seed_id": "seed_ac41b9a02bf7",
       "trend_term": "小学生の美容整形",
@@ -623,24 +659,6 @@
       "valid_until": "2026-09-01T06:51:43+0900",
       "status": "candidate",
       "created_at": "2026-08-18T06:51:43+0900"
-    },
-    {
-      "seed_id": "seed_02abc1a07c7c",
-      "trend_term": "美容皮膚科新規開院",
-      "raw_title": "進化する美容医療ニーズに応え、2026年3月2日（月）Luz自由が丘に美容皮膚科『自由が丘グレイスクリニック』が新規開院！ - ニコニコニュース",
-      "summary": "2026年3月2日、Luz自由が丘に美容皮膚科『自由が丘グレイスクリニック』が新規開院予定。進化する美容医療ニーズへの対応として計画中。",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hRXlqb2NJaFh2TkY5eWFtTndZMFc5NGt0ZTNuWi1WTlJ5ZmltM1d5T3gyYnJaUjVpbDl2QXBrZUhFRU5XS1BhYWc2ME9xVFJEeFFvUw?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hRXlqb2NJaFh2TkY5eWFtTndZMFc5NGt0ZTNuWi1WTlJ5ZmltM1d5T3gyYnJaUjVpbDl2QXBrZUhFRU5XS1BhYWc2ME9xVFJEeFFvUw?oc=5",
-      "source_name": "ニコニコニュース",
-      "monitor_id": "bm-market-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-22T17:08:29+0900",
-      "status": "candidate",
-      "created_at": "2026-08-17T17:08:29+0900"
     },
     {
       "seed_id": "seed_4215267cb5b0",
