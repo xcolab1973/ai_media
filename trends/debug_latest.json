@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T06:57:00+09:00",
+  "generated_at": "2026-08-22T11:40:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,33 +17,63 @@
       "x_realtime": 10
     },
     "neg_excluded": 10,
-    "dedup_excluded": 10,
-    "passed_total": 112,
+    "dedup_excluded": 8,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
+      "news_web": 11,
+      "x_realtime": 10,
+      "yahoo_realtime": 33,
       "google_trends": 10,
-      "news_web": 15,
-      "yahoo_news_ranking": 3,
-      "x_realtime": 6
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "personal_story": 3,
-    "social_reaction": 28,
-    "medical_science": 2,
-    "opinion": 8,
-    "hard_fact": 25,
-    "policy": 4
+    "social_reaction": 27,
+    "personal_story": 2,
+    "opinion": 10,
+    "hard_fact": 24,
+    "medical_science": 1,
+    "policy": 6
   },
   "b2b_topic_category_counts": {
     "hard_fact": 25,
-    "personal_story": 3,
-    "social_reaction": 28,
-    "medical_science": 2,
-    "opinion": 8,
-    "policy": 4
+    "social_reaction": 27,
+    "personal_story": 2,
+    "opinion": 10,
+    "policy": 5,
+    "medical_science": 1
   },
   "b2b_top10": [
+    {
+      "title": "「味の素」広報にAI 炎上の本質",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "鹿島神社にて奉納で建てた大切な芳名板に許可なく「土屋」という文字の千社札が貼られ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『百年の孤独』家系図・マコンド史｜読み解きガイド | Musica Terra",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「温泉は最高なのにそれ以外が値段に見合わず酷い」写真付きで客が不満を投稿→旅館が",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "森博嗣の“完全引退”に惜しむ声多数　清涼院流水も長文コメント「代わりは、だれにも",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
     {
       "title": "クマはどこからやってきたのか…後手に回ったクマ対策、長年警鐘を鳴らしてきた先進県",
       "source_category": "yahoo_realtime",
@@ -51,55 +81,25 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "【続報】\"もう1人の息子が1人で先へ進んでしまった\"富士山6合目にぐずった7歳の",
+      "title": "生搾りオレンジジュース自販機「IJOOZ」東海・広島・九州でサービス終了へ　9月",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "京都市が市立中学校の部活動を廃止すると決定…今後は本気でやりたい人は参加費の必要",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "米朝首脳会談",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "thời tiết",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "payp",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ダウ平均株価",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
       "topic_category": "hard_fact"
     },
     {
-      "title": "山本麻衣",
+      "title": "八村倫太郎",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "24時間テレビ 2026",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "COWCOW 20年の投稿今夏バズる",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_entertainment",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "三宅 健",
+      "title": "東野圭吾",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +107,64 @@
   ],
   "note_top10": [
     {
-      "title": "【続報】\"もう1人の息子が1人で先へ進んでしまった\"富士山6合目にぐずった7歳の",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "京都市が市立中学校の部活動を廃止すると決定…今後は本気でやりたい人は参加費の必要",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "自転車屋にて、中学生くらいの子が「交換してほしい」とサドルを取り出したので「持ち",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "平成の高校生はリプトン飲んでたけれど、令和の高校生は何を飲んでるんだろ？→平成の",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「名作つかまされてる」本屋で2歳児が破ってしまった小説を読書家ではないママが購入",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "MADE IN YAMATO - 第１３話　ライバルと新商品 | ヤンマガWeb",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "担当者が電話を切る瞬間に舌打ちしたのが聞こえたので、契約を全て解約します「電話は",
+      "title": "鹿島神社にて奉納で建てた大切な芳名板に許可なく「土屋」という文字の千社札が貼られ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ドイツの肉屋でお掃除してみた｜ソーセージ姉さん",
+      "title": "「温泉は最高なのにそれ以外が値段に見合わず酷い」写真付きで客が不満を投稿→旅館が",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "作家・右薙光介先生がヤバい親戚に「就職に失敗した親戚の子に出版社を紹介してほしい",
+      "title": "『百年の孤独』家系図・マコンド史｜読み解きガイド | Musica Terra",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "米朝首脳会談",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "medical_science"
+      "title": "親戚が米を20kg10000円で売ってくれるので「相場より全然安いじゃん？！」と",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "オムロンの体重計、突然バーン💥と音がして確認したら割れている…何か落とした訳でも",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "トロントから来たALTに、日本人はよくトロントをカナダの首都だと勘違いするって話",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "いただいたハガキを読んだ夫(フィンランド人)が「最後に『草ｗ』とか書いてあるんだ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "家族旅行で淡路島に行ったが、旦那がナビなしでサクサク行くもんだから「すごいね！」",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ウクライナ戦場で凄惨な体験・極度の緊張、軍内部に広がる薬物「これがもう一つの終わ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "サムスン半導体部門の賞与6000万円　DX部門は60万円、組織不和生む - 日本",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ]
 }
