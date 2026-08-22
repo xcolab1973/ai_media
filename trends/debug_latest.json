@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T17:03:00+09:00",
+  "generated_at": "2026-08-22T22:21:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,33 +17,43 @@
       "x_realtime": 10
     },
     "neg_excluded": 7,
-    "dedup_excluded": 11,
-    "passed_total": 114,
+    "dedup_excluded": 10,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
+      "yahoo_realtime": 34,
+      "x_realtime": 7,
       "google_trends": 10,
-      "x_realtime": 8,
-      "news_web": 16,
-      "yahoo_news_ranking": 4
+      "news_web": 13,
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "personal_story": 4,
-    "social_reaction": 26,
-    "opinion": 9,
-    "policy": 9,
-    "hard_fact": 21,
-    "medical_science": 1
+    "social_reaction": 30,
+    "personal_story": 3,
+    "opinion": 10,
+    "policy": 8,
+    "hard_fact": 19
   },
   "b2b_topic_category_counts": {
-    "policy": 10,
-    "opinion": 9,
-    "social_reaction": 24,
-    "personal_story": 4,
-    "hard_fact": 22,
-    "medical_science": 1
+    "social_reaction": 29,
+    "policy": 9,
+    "personal_story": 3,
+    "opinion": 10,
+    "hard_fact": 19
   },
   "b2b_top10": [
+    {
+      "title": "富士登山オフィシャルサイトが登山中の傘の使用について苦言を呈していたが登山経験者",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "米が安くなりすぎて農家や卸から悲鳴が上がっているらしい、ところでコンビニのおにぎ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "日本弁護士連合会：死刑執行に対し強く抗議し、直ちに全ての死刑執行を停止し、世界的",
       "source_category": "yahoo_realtime",
@@ -51,10 +61,10 @@
       "topic_category": "policy"
     },
     {
-      "title": "東京 天気",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "【働き方改革の逆行】「もっと働きたい」は本当か？ 政府のウソと残業月45時間の一",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
     },
     {
       "title": "『百年の孤独』家系図・マコンド史｜読み解きガイド | Musica Terra",
@@ -67,45 +77,45 @@
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
+    },
+    {
+      "title": "エヴァートン 対 クリスタル・パレス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "告白-25年目の秘密-",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "パワハラNG 警察学校の教官苦悩",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_domestic",
+      "topic_category": "hard_fact"
     },
     {
       "title": "森博嗣の“完全引退”に惜しむ声多数　清涼院流水も長文コメント「代わりは、だれにも",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
-    },
-    {
-      "title": "生搾りオレンジジュース自販機「IJOOZ」東海・広島・九州でサービス終了へ　9月",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "雨",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "サンモール 高砂",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "大雨警報 現在",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "豪雨",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
+    {
+      "title": "富士登山オフィシャルサイトが登山中の傘の使用について苦言を呈していたが登山経験者",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "米が安くなりすぎて農家や卸から悲鳴が上がっているらしい、ところでコンビニのおにぎ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "「温泉は最高なのにそれ以外が値段に見合わず酷い」写真付きで客が不満を投稿→旅館が",
       "source_category": "yahoo_realtime",
@@ -119,52 +129,40 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ライブで将門塚に抱きつき、奇声を上げた配信者がXに謝罪を投稿…しかしそれでも許し",
+      "title": "マ・マーの「香味野菜たっぷりのあさりコンソメ」公式からも出ているが、炊き込みご飯",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「長いと噂のエスカレーターに乗ったら、全然頂上に着かなくて遭難するかと思った」本",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "江戸時代の裁きでは十両以上の盗みは死刑だが、現場では奉行が「九両三分であるな？」",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "妻の希望で夜釣りに出かけたら6歳の我が子の生け簀カゴがおじさんたちの賽銭箱になり",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "どれだけ難易度の高い山を登ったかよりも「どんな状況で撤退を決断したか」の方がカッ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Twitterの叡智、セスキをお湯で溶かしてタオルつけたら、その水がすごい汚く&",
+      "title": "上司「1～2時間いい？」僕「子どもの迎えがあるので17時頃には上がらせていただく",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ウクライナ戦場で凄惨な体験・極度の緊張、軍内部に広がる薬物「これがもう一つの終わ",
+      "title": "薬局の受付にあるタッチパネルの操作に困っているおばあちゃんが店員さんに話しかけた",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "東京 天気",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "もっとテクノを知ってほしい俺が人におすすめする名作テクノ10選",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "結婚相談所では「ちいかわにイライラする人はモラハラ気質があるから」とちいかわを一",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "美味い物✖︎美味い物カツカレーを最後に成功例がないよな",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ]
 }
