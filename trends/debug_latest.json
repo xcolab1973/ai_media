@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T11:40:00+09:00",
+  "generated_at": "2026-08-22T17:03:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,45 +16,45 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 8,
+    "neg_excluded": 7,
+    "dedup_excluded": 11,
     "passed_total": 114,
     "b2b_category_counts": {
-      "news_web": 11,
-      "x_realtime": 10,
-      "yahoo_realtime": 33,
+      "yahoo_realtime": 32,
       "google_trends": 10,
-      "yahoo_news_ranking": 6
+      "x_realtime": 8,
+      "news_web": 16,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 27,
-    "personal_story": 2,
-    "opinion": 10,
-    "hard_fact": 24,
-    "medical_science": 1,
-    "policy": 6
+    "personal_story": 4,
+    "social_reaction": 26,
+    "opinion": 9,
+    "policy": 9,
+    "hard_fact": 21,
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 25,
-    "social_reaction": 27,
-    "personal_story": 2,
-    "opinion": 10,
-    "policy": 5,
+    "policy": 10,
+    "opinion": 9,
+    "social_reaction": 24,
+    "personal_story": 4,
+    "hard_fact": 22,
     "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "「味の素」広報にAI 炎上の本質",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
+      "title": "日本弁護士連合会：死刑執行に対し強く抗議し、直ちに全ての死刑執行を停止し、世界的",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
     },
     {
-      "title": "鹿島神社にて奉納で建てた大切な芳名板に許可なく「土屋」という文字の千社札が貼られ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "東京 天気",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "『百年の孤独』家系図・マコンド史｜読み解きガイド | Musica Terra",
@@ -75,43 +75,37 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "クマはどこからやってきたのか…後手に回ったクマ対策、長年警鐘を鳴らしてきた先進県",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
       "title": "生搾りオレンジジュース自販機「IJOOZ」東海・広島・九州でサービス終了へ　9月",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
     },
     {
-      "title": "八村倫太郎",
+      "title": "雨",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "COWCOW 20年の投稿今夏バズる",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_entertainment",
+      "title": "サンモール 高砂",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "大雨警報 現在",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "豪雨",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
       "topic_category": "hard_fact"
-    },
-    {
-      "title": "東野圭吾",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ],
   "note_top10": [
-    {
-      "title": "鹿島神社にて奉納で建てた大切な芳名板に許可なく「土屋」という文字の千社札が貼られ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
     {
       "title": "「温泉は最高なのにそれ以外が値段に見合わず酷い」写真付きで客が不満を投稿→旅館が",
       "source_category": "yahoo_realtime",
@@ -125,33 +119,39 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "親戚が米を20kg10000円で売ってくれるので「相場より全然安いじゃん？！」と",
+      "title": "ライブで将門塚に抱きつき、奇声を上げた配信者がXに謝罪を投稿…しかしそれでも許し",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「長いと噂のエスカレーターに乗ったら、全然頂上に着かなくて遭難するかと思った」本",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "江戸時代の裁きでは十両以上の盗みは死刑だが、現場では奉行が「九両三分であるな？」",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "オムロンの体重計、突然バーン💥と音がして確認したら割れている…何か落とした訳でも",
+      "title": "妻の希望で夜釣りに出かけたら6歳の我が子の生け簀カゴがおじさんたちの賽銭箱になり",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "トロントから来たALTに、日本人はよくトロントをカナダの首都だと勘違いするって話",
+      "title": "どれだけ難易度の高い山を登ったかよりも「どんな状況で撤退を決断したか」の方がカッ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "いただいたハガキを読んだ夫(フィンランド人)が「最後に『草ｗ』とか書いてあるんだ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "家族旅行で淡路島に行ったが、旦那がナビなしでサクサク行くもんだから「すごいね！」",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "Twitterの叡智、セスキをお湯で溶かしてタオルつけたら、その水がすごい汚く&",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -161,10 +161,10 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "サムスン半導体部門の賞与6000万円　DX部門は60万円、組織不和生む - 日本",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "東京 天気",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
