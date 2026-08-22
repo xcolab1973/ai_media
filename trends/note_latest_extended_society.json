@@ -1,21 +1,51 @@
 {
- "generated_at": "2026-08-22T16:55:28+09:00",
+ "generated_at": "2026-08-23T06:42:39+09:00",
  "valid_until": "2026-09-04T16:49:01+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "society",
- "total_count": 39,
+ "total_count": 40,
  "merge": {
   "parent": "society",
-  "from_current": 43,
-  "from_new": 4,
-  "expired_pruned": 5,
-  "retention_dropped": 3,
+  "from_current": 39,
+  "from_new": 2,
+  "expired_pruned": 0,
+  "retention_dropped": 1,
   "genres": 6,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "改正個人情報保護法「令和8年改正」とは？弁護士が解説",
+   "url": "https://www.businesslawyers.jp/articles/1521",
+   "summary": "2026年7月10日成立・17日公布の改正個人情報保護法。課徴金制度新設、16歳未満の同意ルール新設などのポイントを弁護士が解説。施行日は今後の政令で確定予定。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "hard_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "society-news-explainer",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "BUSINESS LAWYERS",
+    "expert_origin": true,
+    "search_query": "個人情報保護法 令和8年改正 2026 施行",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-28T06:41:08+09:00",
+   "validity_days": 5
+  },
   {
    "source_category": "news_web",
    "raw_title": "国家情報局ですか？ - Yahoo!知恵袋",
@@ -164,6 +194,36 @@
     "rescued": false
    },
    "valid_until": "2026-08-24T16:50:00+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "育成就労制度の転籍ルールとは？人材流出を防ぎ「選ばれる企業」になるための実務ガイド",
+   "url": "https://www.nbc.or.jp/blog/20260511_10432/",
+   "summary": "2027年施行の育成就労制度では一定条件下で外国人材本人の意向による転籍が可能に。受入企業が転籍による人材流出を防ぐための実務対応を解説。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "society-global",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "nbc.or.jp",
+    "expert_origin": true,
+    "search_query": "育成就労制度 転籍 中小企業 人材流出 対策",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-08-28T06:41:08+09:00",
    "validity_days": 5
   },
   {
@@ -374,36 +434,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-25T17:19:22+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "ウクライナ停戦交渉、領土問題を巡り依然難航",
-   "url": "https://www.jiia.or.jp/jpn/report/2026/04/Outlook2026jp06.html",
-   "summary": "ロシアとウクライナの停戦交渉は継続中だが、占領地域の帰属など領土問題を巡って難航が続いている。両者とも相手が停戦を守っていないと主張し合う状況が2026年に入っても続く。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "society-global",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "日本国際問題研究所",
-    "expert_origin": true,
-    "search_query": "国際情勢 2026年8月 ウクライナ 停戦 交渉 最新",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-25T06:41:41+09:00",
    "validity_days": 5
   },
   {
