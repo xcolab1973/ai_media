@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T22:21:00+09:00",
+  "generated_at": "2026-08-23T06:55:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,42 +16,54 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 10,
-    "passed_total": 115,
+    "neg_excluded": 12,
+    "dedup_excluded": 8,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
-      "x_realtime": 7,
+      "yahoo_realtime": 33,
       "google_trends": 10,
-      "news_web": 13,
-      "yahoo_news_ranking": 6
+      "news_web": 12,
+      "x_realtime": 8,
+      "yahoo_news_ranking": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "personal_story": 3,
+    "social_reaction": 35,
     "opinion": 10,
-    "policy": 8,
-    "hard_fact": 19
+    "personal_story": 1,
+    "policy": 3,
+    "hard_fact": 21
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "policy": 9,
-    "personal_story": 3,
+    "social_reaction": 35,
     "opinion": 10,
-    "hard_fact": 19
+    "policy": 4,
+    "hard_fact": 20,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "富士登山オフィシャルサイトが登山中の傘の使用について苦言を呈していたが登山経験者",
+      "title": "死刑存続派も廃止派も論点がズレてる。本質は国家に自国民を殺害する権能..",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "米が安くなりすぎて農家や卸から悲鳴が上がっているらしい、ところでコンビニのおにぎ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "総務省　郵便事業の縮小も視野に検討開始　SNSの普及で手紙や年賀状など郵便物が減",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東日本",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "富士登山オフィシャルサイトが登山中の傘の使用について苦言を呈していたが、登山経験",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -61,69 +73,69 @@
       "topic_category": "policy"
     },
     {
-      "title": "【働き方改革の逆行】「もっと働きたい」は本当か？ 政府のウソと残業月45時間の一",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
       "title": "『百年の孤独』家系図・マコンド史｜読み解きガイド | Musica Terra",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「温泉は最高なのにそれ以外が値段に見合わず酷い」写真付きで客が不満を投稿→旅館が",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "エヴァートン 対 クリスタル・パレス",
+      "title": "西村博之",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "告白-25年目の秘密-",
+      "title": "鉄道運行情報",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "パワハラNG 警察学校の教官苦悩",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
-      "topic_category": "hard_fact"
+      "title": "高橋ヒロム",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "森博嗣の“完全引退”に惜しむ声多数　清涼院流水も長文コメント「代わりは、だれにも",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "title": "カルロス・エスピ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "富士登山オフィシャルサイトが登山中の傘の使用について苦言を呈していたが登山経験者",
+      "title": "死刑存続派も廃止派も論点がズレてる。本質は国家に自国民を殺害する権能..",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "米が安くなりすぎて農家や卸から悲鳴が上がっているらしい、ところでコンビニのおにぎ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "総務省　郵便事業の縮小も視野に検討開始　SNSの普及で手紙や年賀状など郵便物が減",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「温泉は最高なのにそれ以外が値段に見合わず酷い」写真付きで客が不満を投稿→旅館が",
+      "title": "富士登山オフィシャルサイトが登山中の傘の使用について苦言を呈していたが、登山経験",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
       "title": "『百年の孤独』家系図・マコンド史｜読み解きガイド | Musica Terra",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「暴力団事務所とソープが多くて、警察がないというだけ」川崎市が治安悪いというが、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ZARAで買い物をしたら「レシート電子化したんでショートメールを送るから電話番号",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -135,33 +147,21 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "上司「1～2時間いい？」僕「子どもの迎えがあるので17時頃には上がらせていただく",
+      "title": "そりゃ若者に好かれるわけだ…ひろゆきが｢日本はオワコン｣と断言し､エリートを｢情",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "薬局の受付にあるタッチパネルの操作に困っているおばあちゃんが店員さんに話しかけた",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "東日本",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "もっとテクノを知ってほしい俺が人におすすめする名作テクノ10選",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "結婚相談所では「ちいかわにイライラする人はモラハラ気質があるから」とちいかわを一",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "美味い物✖︎美味い物カツカレーを最後に成功例がないよな",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "金曜ロードショーで「となりのトトロ」が放送され公式が怒涛の解説、「サツキとメイの",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
