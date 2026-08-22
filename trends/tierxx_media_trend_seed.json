@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-22T06:51:47+0900",
-    "record_count": 37,
-    "source_total_in_db": 894,
+    "generated_at": "2026-08-22T12:21:57+0900",
+    "record_count": 38,
+    "source_total_in_db": 895,
     "provenance_breakdown": {
       "evidence": 570,
-      "pain_seed": 324
+      "pain_seed": 325
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_ac41b9a02bf7",
+      "trend_term": "小学生の美容整形",
+      "raw_title": "「誕プレで二重に」小学生の美容整形を称賛する“ルッキズムの暴走” “麻痺する親の価値観” - ニコニコニュース",
+      "summary": "小学生への美容整形を称賛する傾向に対し、ルッキズムの問題と親の価値観の麻痺を指摘する報道",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GeTR0R0FsWFlZUWFndHlUTld0WlNzX3lHRFR0MlhwZ2d5X2pHVVlpX2tGeld4Zlo0bGZxT3JENEFjUV9vU0lVRnk3ZVQ0T0VXNU1YUkdSRVhxYWxyRnpYc19oM2N0dE9INjBhQUJEVjVJM1JWMDR6bmVBZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GeTR0R0FsWFlZUWFndHlUTld0WlNzX3lHRFR0MlhwZ2d5X2pHVVlpX2tGeld4Zlo0bGZxT3JENEFjUV9vU0lVRnk3ZVQ0T0VXNU1YUkdSRVhxYWxyRnpYc19oM2N0dE9INjBhQUJEVjVJM1JWMDR6bmVBZw?oc=5",
+      "source_name": "ニコニコニュース",
+      "monitor_id": "bm-sns-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "opinion",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-27T12:21:56+0900",
+      "status": "candidate",
+      "created_at": "2026-08-22T12:21:56+0900"
+    },
     {
       "seed_id": "seed_c7640ce7410c",
       "trend_term": "鼻整形の後遺症リスク",
