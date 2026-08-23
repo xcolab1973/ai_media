@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T17:03:00+09:00",
+  "generated_at": "2026-08-23T22:22:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 9,
-    "passed_total": 114,
+    "neg_excluded": 8,
+    "dedup_excluded": 11,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 36,
       "google_trends": 10,
-      "x_realtime": 9,
-      "yahoo_news_ranking": 6,
-      "news_web": 10
+      "yahoo_news_ranking": 5,
+      "x_realtime": 7,
+      "news_web": 12
     }
   },
   "note_category_counts": {
-    "social_reaction": 38,
-    "personal_story": 2,
+    "social_reaction": 29,
+    "personal_story": 3,
     "opinion": 10,
     "medical_science": 1,
-    "policy": 2,
-    "hard_fact": 17
+    "policy": 7,
+    "hard_fact": 20
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 38,
+    "policy": 7,
+    "social_reaction": 29,
     "opinion": 10,
-    "medical_science": 1,
-    "hard_fact": 17,
-    "policy": 2,
-    "personal_story": 2
+    "hard_fact": 20,
+    "personal_story": 3,
+    "medical_science": 1
   },
   "b2b_top10": [
+    {
+      "title": "ゼレンスキー氏、戦時下の選挙拒否「国を分断」 前国防相の要求で",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
     {
       "title": "物価高対策の食品配布に4万人来場　動き出す自治体の公的食料支援：朝日新聞",
       "source_category": "yahoo_realtime",
@@ -51,58 +57,52 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "総務省　郵便事業の縮小も視野に検討開始　SNSの普及で手紙や年賀状など郵便物が減",
+      "title": "残業 45時間 見直し",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "fod",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "大塚愛",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "有働由美子",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "マンチェスターシティ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "夏多い「外耳炎」仕組みと対策は",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_science",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "あるラーメン店が「トイレの後は手を洗ってください」とお願いを掲示するも、全然守ら",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "平山功太",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "朝食後に長男に苦言を呈したら「働いてないママに言われたくない」と言われた…専業主",
+      "title": "水族館にいたカップルが「俳句みたいな名前の魚いるよな 」と言っていた魚の名前がこ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "「どうしてこの作者は若い女の子のアイシャドウを青や緑などの奇抜な色にするの？」す",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "吉岡里帆",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ドラゴンズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "町田ゼルビア",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "vivant イベント",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "自衛隊",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ],
   "note_top10": [
@@ -113,27 +113,45 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "総務省　郵便事業の縮小も視野に検討開始　SNSの普及で手紙や年賀状など郵便物が減",
+      "title": "あるラーメン店が「トイレの後は手を洗ってください」とお願いを掲示するも、全然守ら",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "朝食後に長男に苦言を呈したら「働いてないママに言われたくない」と言われた…専業主",
+      "title": "水族館にいたカップルが「俳句みたいな名前の魚いるよな 」と言っていた魚の名前がこ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「どうしてこの作者は若い女の子のアイシャドウを青や緑などの奇抜な色にするの？」す",
+      "title": "「実家は田舎の貧乏な家で子供の頃は素麺が嫌いだった」大人になってから我が子が素麺",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "皮膚科で、韓国で整形した患者から抜糸と痛み止めが欲しいという予約の電話が来て、先",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "料理コラムニスト・山本ゆりさんのレシピをアレンジしすぎた結果「大失敗〜」と嘆くポ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "最近1人暮らしを始め、帰宅したらオートロックの前で座っている男性が「鍵忘れたから",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "暇すぎて腕に目を作ってみた「私より美人で草」「これを見ると、我々が街中で見かける",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "この前行ったサロンで「一回でも使ったパフを戻すと皮脂とかでフェイスパウダーは死ぬ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -143,27 +161,9 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "ブクブクに太った山田さん…失敗したと繰り返す母親…救われなかった二人の「みいちゃ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "賢く立ち回らないとダメで、それができない人は貧乏みたいな世の中が嫌だ…普通に1日",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「都会こわい」ゲリラ雷雨で入ったフルーツパーラーで、息子がケーキを頼んだら298",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中国の山海経に載っている謎の生き物「混沌」には良かれと思って目鼻をつけたら死んで",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "料理コラムニスト・山本ゆりさんのレシピをアレンジしすぎた結果「大失敗〜」と嘆くポ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
