@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T11:49:00+09:00",
+  "generated_at": "2026-08-23T17:03:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,42 +16,38 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 11,
+    "neg_excluded": 9,
+    "dedup_excluded": 9,
     "passed_total": 114,
     "b2b_category_counts": {
-      "x_realtime": 8,
-      "yahoo_realtime": 33,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "news_web": 15,
-      "yahoo_news_ranking": 4
+      "x_realtime": 9,
+      "yahoo_news_ranking": 6,
+      "news_web": 10
     }
   },
   "note_category_counts": {
-    "social_reaction": 37,
+    "social_reaction": 38,
+    "personal_story": 2,
     "opinion": 10,
-    "personal_story": 1,
-    "hard_fact": 20,
-    "policy": 2
+    "medical_science": 1,
+    "policy": 2,
+    "hard_fact": 17
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 35,
-    "hard_fact": 22,
+    "social_reaction": 38,
     "opinion": 10,
+    "medical_science": 1,
+    "hard_fact": 17,
     "policy": 2,
-    "personal_story": 1
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "某チェーン店でオーダーミスが発生して怒号が…謝罪する際に店員さんが「ご理解くださ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "軽トラの爺さんにドアパンチを喰らい、「当たりましたよ、気をつけてくださいね」と注",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "物価高対策の食品配布に4万人来場　動き出す自治体の公的食料支援：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -61,43 +57,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "最近の洗濯機は買う人買う人「水量が少ない」と言っていて、一番大きな洗濯機に買い替",
+      "title": "平山功太",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "朝食後に長男に苦言を呈したら「働いてないママに言われたくない」と言われた…専業主",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "真横に置いてるiPhone 730個から一斉に緊急地震速報鳴り出して人生最大の恐",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "title": "「どうしてこの作者は若い女の子のアイシャドウを青や緑などの奇抜な色にするの？」す",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "オオカミ少年 スペイン",
+      "title": "吉岡里帆",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "鳥居さくら",
+      "title": "ドラゴンズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "智弁和歌山 寮母インスタ大バズリ",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "venue101",
+      "title": "町田ゼルビア",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "東京新聞",
+      "title": "vivant イベント",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "自衛隊",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,15 +107,9 @@
   ],
   "note_top10": [
     {
-      "title": "某チェーン店でオーダーミスが発生して怒号が…謝罪する際に店員さんが「ご理解くださ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "軽トラの爺さんにドアパンチを喰らい、「当たりましたよ、気をつけてくださいね」と注",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "物価高対策の食品配布に4万人来場　動き出す自治体の公的食料支援：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -123,45 +119,51 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "最近の洗濯機は買う人買う人「水量が少ない」と言っていて、一番大きな洗濯機に買い替",
+      "title": "朝食後に長男に苦言を呈したら「働いてないママに言われたくない」と言われた…専業主",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「どうしてこの作者は若い女の子のアイシャドウを青や緑などの奇抜な色にするの？」す",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "料理コラムニスト・山本ゆりさんのレシピをアレンジしすぎた結果「大失敗〜」と嘆くポ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "近所のライブカメラ映像がやばいと全俺の中で話題に「ハハッ、言うてそこまでじゃ う",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "おい！今の男児靴、ベイブレード付いてんぞ！！！！しかも回る！！！！「何このロマン",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "父の遺品整理をしていたら、20年前に病気した時のお守りが出てきた…中に変な紙が入",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "川の氾濫がもたらす恩恵──『洪水礼讃──環境飼い慣らしの人類史』 - 基本読書",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "個人向け国債に「魅力的すぎる」罠　利上げ効果増幅、預金を吸引 - 日本経済新聞",
+      "title": "婚活市場のリアル、男女ともにそんなキラキラしてない件について",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "ブクブクに太った山田さん…失敗したと繰り返す母親…救われなかった二人の「みいちゃ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "賢く立ち回らないとダメで、それができない人は貧乏みたいな世の中が嫌だ…普通に1日",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「都会こわい」ゲリラ雷雨で入ったフルーツパーラーで、息子がケーキを頼んだら298",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中国の山海経に載っている謎の生き物「混沌」には良かれと思って目鼻をつけたら死んで",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
