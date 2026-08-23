@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T06:55:00+09:00",
+  "generated_at": "2026-08-23T11:49:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,42 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 8,
-    "passed_total": 112,
+    "neg_excluded": 7,
+    "dedup_excluded": 11,
+    "passed_total": 114,
     "b2b_category_counts": {
+      "x_realtime": 8,
       "yahoo_realtime": 33,
       "google_trends": 10,
-      "news_web": 12,
-      "x_realtime": 8,
-      "yahoo_news_ranking": 7
+      "news_web": 15,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
+    "social_reaction": 37,
     "opinion": 10,
     "personal_story": 1,
-    "policy": 3,
-    "hard_fact": 21
+    "hard_fact": 20,
+    "policy": 2
   },
   "b2b_topic_category_counts": {
     "social_reaction": 35,
+    "hard_fact": 22,
     "opinion": 10,
-    "policy": 4,
-    "hard_fact": 20,
+    "policy": 2,
     "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "死刑存続派も廃止派も論点がズレてる。本質は国家に自国民を殺害する権能..",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "某チェーン店でオーダーミスが発生して怒号が…謝罪する際に店員さんが「ご理解くださ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "軽トラの爺さんにドアパンチを喰らい、「当たりましたよ、気をつけてくださいね」と注",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -55,49 +61,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "東日本",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "富士登山オフィシャルサイトが登山中の傘の使用について苦言を呈していたが、登山経験",
+      "title": "最近の洗濯機は買う人買う人「水量が少ない」と言っていて、一番大きな洗濯機に買い替",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本弁護士連合会：死刑執行に対し強く抗議し、直ちに全ての死刑執行を停止し、世界的",
+      "title": "真横に置いてるiPhone 730個から一斉に緊急地震速報鳴り出して人生最大の恐",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "topic_category": "hard_fact"
     },
     {
-      "title": "『百年の孤独』家系図・マコンド史｜読み解きガイド | Musica Terra",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "西村博之",
+      "title": "オオカミ少年 スペイン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "鉄道運行情報",
+      "title": "鳥居さくら",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "高橋ヒロム",
+      "title": "智弁和歌山 寮母インスタ大バズリ",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "venue101",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "カルロス・エスピ",
+      "title": "東京新聞",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,9 +105,15 @@
   ],
   "note_top10": [
     {
-      "title": "死刑存続派も廃止派も論点がズレてる。本質は国家に自国民を殺害する権能..",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "某チェーン店でオーダーミスが発生して怒号が…謝罪する際に店員さんが「ご理解くださ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "軽トラの爺さんにドアパンチを喰らい、「当たりましたよ、気をつけてくださいね」と注",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -117,51 +123,45 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "富士登山オフィシャルサイトが登山中の傘の使用について苦言を呈していたが、登山経験",
+      "title": "最近の洗濯機は買う人買う人「水量が少ない」と言っていて、一番大きな洗濯機に買い替",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『百年の孤独』家系図・マコンド史｜読み解きガイド | Musica Terra",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「暴力団事務所とソープが多くて、警察がないというだけ」川崎市が治安悪いというが、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ZARAで買い物をしたら「レシート電子化したんでショートメールを送るから電話番号",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "マ・マーの「香味野菜たっぷりのあさりコンソメ」公式からも出ているが、炊き込みご飯",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "そりゃ若者に好かれるわけだ…ひろゆきが｢日本はオワコン｣と断言し､エリートを｢情",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "東日本",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "金曜ロードショーで「となりのトトロ」が放送され公式が怒涛の解説、「サツキとメイの",
+      "title": "料理コラムニスト・山本ゆりさんのレシピをアレンジしすぎた結果「大失敗〜」と嘆くポ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "近所のライブカメラ映像がやばいと全俺の中で話題に「ハハッ、言うてそこまでじゃ う",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "おい！今の男児靴、ベイブレード付いてんぞ！！！！しかも回る！！！！「何このロマン",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "父の遺品整理をしていたら、20年前に病気した時のお守りが出てきた…中に変な紙が入",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "川の氾濫がもたらす恩恵──『洪水礼讃──環境飼い慣らしの人類史』 - 基本読書",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "個人向け国債に「魅力的すぎる」罠　利上げ効果増幅、預金を吸引 - 日本経済新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
