@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-23T06:48:41+0900",
-    "record_count": 39,
-    "source_total_in_db": 898,
+    "generated_at": "2026-08-23T12:29:53+0900",
+    "record_count": 38,
+    "source_total_in_db": 899,
     "provenance_breakdown": {
       "evidence": 573,
-      "pain_seed": 325
+      "pain_seed": 326
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_81deab6a7e3a",
+      "trend_term": "小学生美容整形と親の価値観",
+      "raw_title": "「誕プレで二重に」小学生の美容整形を称賛する“ルッキズムの暴走” “麻痺する親の価値観” - Infoseek",
+      "summary": "小学生への美容整形を称賛する風潮とルッキズムの社会的影響、親の価値観の変化に関する記事",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CM0hDSzF3dWx2aWEtYWExbDQ3aTBYZXZDd3BmUmdtRGRNdlA1MVJ4SVpzRDJxdWRyT2ViaVpDMVMwLURMNzQ4MzdmRVUzcTFJTVlSaWJKVEsydlJFUXJfMjdoSk9uT1BnbGJZ0gFrQVVfeXFMTUIzSENLMXd1bHZpYS1hYTFsNDdpMFhldkN3cGZSZ21EZE12UDUxUnhJWnNEMnF1ZHJPZWJpWkMxUzAtREw3NDgzN2ZFVTNxMUlNWVJpYkpUSzJ2UkVRcl8yN2hKT25PUGdsYlk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CM0hDSzF3dWx2aWEtYWExbDQ3aTBYZXZDd3BmUmdtRGRNdlA1MVJ4SVpzRDJxdWRyT2ViaVpDMVMwLURMNzQ4MzdmRVUzcTFJTVlSaWJKVEsydlJFUXJfMjdoSk9uT1BnbGJZ0gFrQVVfeXFMTUIzSENLMXd1bHZpYS1hYTFsNDdpMFhldkN3cGZSZ21EZE12UDUxUnhJWnNEMnF1ZHJPZWJpWkMxUzAtREw3NDgzN2ZFVTNxMUlNWVJpYkpUSzJ2UkVRcl8yN2hKT25PUGdsYlk?oc=5",
+      "source_name": "Infoseek",
+      "monitor_id": "bm-sns-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "opinion",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-28T12:29:53+0900",
+      "status": "candidate",
+      "created_at": "2026-08-23T12:29:53+0900"
+    },
     {
       "seed_id": "seed_1468df33da55",
       "trend_term": "病院の自由診療エリア開設",
@@ -605,42 +623,6 @@
       "valid_until": "2026-08-23T17:03:50+0900",
       "status": "candidate",
       "created_at": "2026-08-18T17:03:50+0900"
-    },
-    {
-      "seed_id": "seed_7f57699eca77",
-      "trend_term": "北朝鮮での美容医療流行",
-      "raw_title": "北朝鮮女性の間でダイエット、ボトックス、シャネルが流行　韓流ドラマの影響にイラ立つ金正恩 - ｄメニューニュース",
-      "summary": "北朝鮮の女性間でボトックスなど美容医療が流行。韓流ドラマの影響との報道。グローバルな美容トレンドの角度。",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mQWpLUFNicnZMLXd0c2U2dWVYRk5tZmRheFc2a0VqVF9uZGYwdVlzRUJ4dmFERVJ5RUlpNjZyOHRUSFZ4SDYtVzhfQnhFMlBrajUtc05pRVZycl9tRy1zQjNTRGNYdkRpMWMzYzQwck5oUdIBd0FVX3lxTE5RZGVia1dJMzFWUHRSeWZ6RUNBWXpXS3JSaXlNS3diUnVZY21SWi13Zk5sdzVvQjRtd2JaY01uay1wRGszaFVDaW1wRkhDMzNSaDRfLTY0MndrZ1Q5MGhnSFV6eU9QWVlzVE1LUDJmQnI2Y2Y5ZEVJ?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mQWpLUFNicnZMLXd0c2U2dWVYRk5tZmRheFc2a0VqVF9uZGYwdVlzRUJ4dmFERVJ5RUlpNjZyOHRUSFZ4SDYtVzhfQnhFMlBrajUtc05pRVZycl9tRy1zQjNTRGNYdkRpMWMzYzQwck5oUdIBd0FVX3lxTE5RZGVia1dJMzFWUHRSeWZ6RUNBWXpXS3JSaXlNS3diUnVZY21SWi13Zk5sdzVvQjRtd2JaY01uay1wRGszaFVDaW1wRkhDMzNSaDRfLTY0MndrZ1Q5MGhnSFV6eU9QWVlzVE1LUDJmQnI2Y2Y5ZEVJ?oc=5",
-      "source_name": "ｄメニューニュース",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-23T12:22:54+0900",
-      "status": "candidate",
-      "created_at": "2026-08-18T12:22:54+0900"
-    },
-    {
-      "seed_id": "seed_a8845b2b9c85",
-      "trend_term": "セレブのボトックス失敗談",
-      "raw_title": "「本当に恥ずかしい」ブリトニー・スピアーズ、ボトックス失敗を告白 「自分の体を大切に」ファンに警鐘 (ピンズバNEWS) - news.yahoo.co.jp",
-      "summary": "ブリトニー・スピアーズがボトックス失敗を告白し、ファンに体を大切にするよう警鐘を鳴らした。施術のリスク・失敗例についての読者関心を喚起するネタ。",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeGxUbXp2QnBOVkxyY3dNTTdUVGw2VEtCQ3JjOHNUeF9lbmFQVG9IaTBlSFByWVBxdW9KMzNzTDZuM2pBVTdVbkZDNTlYdXVfaXJWZkhYcXVoWlN2SkxoTHAxb1l1aFNvLTZvTEZ5ZFNSNkpFdm55aVE4X0VWWmNDVjRTV3pqdUFiWnpUOWRB?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeGxUbXp2QnBOVkxyY3dNTTdUVGw2VEtCQ3JjOHNUeF9lbmFQVG9IaTBlSFByWVBxdW9KMzNzTDZuM2pBVTdVbkZDNTlYdXVfaXJWZkhYcXVoWlN2SkxoTHAxb1l1aFNvLTZvTEZ5ZFNSNkpFdm55aVE4X0VWWmNDVjRTV3pqdUFiWnpUOWRB?oc=5",
-      "source_name": "news.yahoo.co.jp",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "opinion",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-23T12:22:54+0900",
-      "status": "candidate",
-      "created_at": "2026-08-18T12:22:54+0900"
     },
     {
       "seed_id": "seed_eb77ad99db9c",
