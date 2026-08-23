@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T22:22:00+09:00",
+  "generated_at": "2026-08-24T06:55:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
+    "neg_excluded": 9,
     "dedup_excluded": 11,
-    "passed_total": 113,
+    "passed_total": 112,
     "b2b_category_counts": {
+      "x_realtime": 6,
       "yahoo_realtime": 36,
       "google_trends": 10,
       "yahoo_news_ranking": 5,
-      "x_realtime": 7,
-      "news_web": 12
+      "news_web": 13
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "personal_story": 3,
+    "social_reaction": 24,
+    "personal_story": 2,
     "opinion": 10,
-    "medical_science": 1,
-    "policy": 7,
+    "medical_science": 4,
+    "policy": 10,
     "hard_fact": 20
   },
   "b2b_topic_category_counts": {
-    "policy": 7,
-    "social_reaction": 29,
+    "social_reaction": 24,
+    "policy": 10,
     "opinion": 10,
+    "medical_science": 4,
     "hard_fact": 20,
-    "personal_story": 3,
-    "medical_science": 1
+    "personal_story": 2
   },
   "b2b_top10": [
+    {
+      "title": "コンタクトレンズを注文したが段ボールの大きさが明らかに違う…こうした場合、どうし",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "ゼレンスキー氏、戦時下の選挙拒否「国を分断」 前国防相の要求で",
       "source_category": "yahoo_realtime",
@@ -51,63 +57,63 @@
       "topic_category": "policy"
     },
     {
-      "title": "物価高対策の食品配布に4万人来場　動き出す自治体の公的食料支援：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "残業 45時間 見直し",
+      "title": "きゃりーぱみゅぱみゅ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "fod",
+      "title": "ピッツバーグ・パイレーツ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "大塚愛",
+      "title": "2",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "有働由美子",
+      "title": "クマ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "マンチェスターシティ",
+      "title": "ホンダf1",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "夏多い「外耳炎」仕組みと対策は",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_science",
-      "topic_category": "hard_fact"
+      "title": "ダイハツ・コペン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "あるラーメン店が「トイレの後は手を洗ってください」とお願いを掲示するも、全然守ら",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "カブス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "水族館にいたカップルが「俳句みたいな名前の魚いるよな 」と言っていた魚の名前がこ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "杉浦 太陽",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "物価高対策の食品配布に4万人来場　動き出す自治体の公的食料支援：朝日新聞",
+      "title": "コンタクトレンズを注文したが段ボールの大きさが明らかに違う…こうした場合、どうし",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「むさしの森珈琲」でパンケーキ頼んだら中がベチャベチャで「これ焼けてますか？」と",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -116,42 +122,6 @@
       "title": "あるラーメン店が「トイレの後は手を洗ってください」とお願いを掲示するも、全然守ら",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "水族館にいたカップルが「俳句みたいな名前の魚いるよな 」と言っていた魚の名前がこ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「実家は田舎の貧乏な家で子供の頃は素麺が嫌いだった」大人になってから我が子が素麺",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "皮膚科で、韓国で整形した患者から抜糸と痛み止めが欲しいという予約の電話が来て、先",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "最近1人暮らしを始め、帰宅したらオートロックの前で座っている男性が「鍵忘れたから",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "暇すぎて腕に目を作ってみた「私より美人で草」「これを見ると、我々が街中で見かける",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "この前行ったサロンで「一回でも使ったパフを戻すと皮脂とかでフェイスパウダーは死ぬ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -161,10 +131,40 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "料理コラムニスト・山本ゆりさんのレシピをアレンジしすぎた結果「大失敗〜」と嘆くポ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "最近1人暮らしを始め、帰宅したらオートロックの前で座っている男性が「鍵忘れたから",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "きゃりーぱみゅぱみゅ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ピッツバーグ・パイレーツ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "2",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "クマ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ホンダf1",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
