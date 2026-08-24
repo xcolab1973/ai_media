@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T06:55:00+09:00",
+  "generated_at": "2026-08-24T11:49:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 11,
-    "passed_total": 112,
+    "neg_excluded": 7,
+    "dedup_excluded": 6,
+    "passed_total": 119,
     "b2b_category_counts": {
-      "x_realtime": 6,
-      "yahoo_realtime": 36,
+      "yahoo_realtime": 34,
+      "news_web": 11,
       "google_trends": 10,
-      "yahoo_news_ranking": 5,
-      "news_web": 13
+      "x_realtime": 10,
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 24,
-    "personal_story": 2,
-    "opinion": 10,
-    "medical_science": 4,
-    "policy": 10,
-    "hard_fact": 20
+    "social_reaction": 40,
+    "personal_story": 3,
+    "opinion": 7,
+    "policy": 2,
+    "medical_science": 3,
+    "hard_fact": 15
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 24,
-    "policy": 10,
-    "opinion": 10,
-    "medical_science": 4,
+    "social_reaction": 37,
+    "policy": 3,
     "hard_fact": 20,
-    "personal_story": 2
+    "opinion": 7,
+    "personal_story": 1,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "コンタクトレンズを注文したが段ボールの大きさが明らかに違う…こうした場合、どうし",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「うるう時間」27年導入へ　秒での修正廃止、混乱回避（共同通信） - Yahoo",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ゼレンスキー氏、戦時下の選挙拒否「国を分断」 前国防相の要求で",
+      "title": "「大阪市」残す都構想　「しょうもない…」維新内からもツッコミ | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "クマ対策からサクラ害虫防除まで　実質外国人が負担、出国税の増税分：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "きゃりーぱみゅぱみゅ",
+      "title": "出国税でクマ対策など 訪日客負担",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "シュワバーが劇的サヨナラ39号",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "ソフトバンク 社債",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ピッツバーグ・パイレーツ",
+      "title": "綿貫民輔",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "2",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "都内の1LDKやスポーツカーを買えるくらい、兄弟の学費を出す…アダルト漫画で成功",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "クマ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "「死刑に賛成の人は、自分の大切な人が死刑囚になっても賛成するのでしょうか？」弁護",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "ホンダf1",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ダイハツ・コペン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "カブス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "杉浦 太陽",
+      "title": "藤井聡太",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +107,64 @@
   ],
   "note_top10": [
     {
-      "title": "コンタクトレンズを注文したが段ボールの大きさが明らかに違う…こうした場合、どうし",
+      "title": "「うるう時間」27年導入へ　秒での修正廃止、混乱回避（共同通信） - Yahoo",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「大阪市」残す都構想　「しょうもない…」維新内からもツッコミ | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "都内の1LDKやスポーツカーを買えるくらい、兄弟の学費を出す…アダルト漫画で成功",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「むさしの森珈琲」でパンケーキ頼んだら中がベチャベチャで「これ焼けてますか？」と",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "あるラーメン店が「トイレの後は手を洗ってください」とお願いを掲示するも、全然守ら",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "婚活市場のリアル、男女ともにそんなキラキラしてない件について",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "最近1人暮らしを始め、帰宅したらオートロックの前で座っている男性が「鍵忘れたから",
+      "title": "「死刑に賛成の人は、自分の大切な人が死刑囚になっても賛成するのでしょうか？」弁護",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "きゃりーぱみゅぱみゅ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "経済的に苦しい人は「国としては景気が良い」と考えているとより強い無力感を覚えると",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "ピッツバーグ・パイレーツ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "福岡県議会の「ドン」蔵内勇夫議長、議員辞職へ | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "2",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "バンクーバーで生活してきついと思うのは、留学に来ている日本人はテイカーが多い気が",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "クマ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "丸亀製麺のレジで店員に「支払い一緒でよろしいですか？」と聞かれ、妙に距離感が近い",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "ホンダf1",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "ドトールVS.コメダ　なぜ好調？　店舗数だけでは分からない「強さ」の違い",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "個人向け国債「変動10年」　金利上昇に強く、元本割れなし - 日本経済新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ]
 }
