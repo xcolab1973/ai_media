@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T11:49:00+09:00",
+  "generated_at": "2026-08-24T17:29:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,31 +17,31 @@
       "x_realtime": 10
     },
     "neg_excluded": 7,
-    "dedup_excluded": 6,
-    "passed_total": 119,
+    "dedup_excluded": 10,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
-      "news_web": 11,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "x_realtime": 10,
-      "yahoo_news_ranking": 5
+      "news_web": 13,
+      "x_realtime": 6,
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 40,
-    "personal_story": 3,
-    "opinion": 7,
-    "policy": 2,
-    "medical_science": 3,
-    "hard_fact": 15
+    "social_reaction": 37,
+    "personal_story": 1,
+    "opinion": 10,
+    "medical_science": 1,
+    "hard_fact": 17,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 37,
-    "policy": 3,
-    "hard_fact": 20,
-    "opinion": 7,
+    "social_reaction": 33,
+    "opinion": 10,
+    "hard_fact": 21,
+    "policy": 4,
     "personal_story": 1,
-    "medical_science": 2
+    "medical_science": 1
   },
   "b2b_top10": [
     {
@@ -57,49 +57,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "クマ対策からサクラ害虫防除まで　実質外国人が負担、出国税の増税分：朝日新聞",
+      "title": "就職が決まっていたバイト先を体調不良で1日休んだら、「そんな簡単に罪悪感なく休む",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "出国税でクマ対策など 訪日客負担",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "シュワバーが劇的サヨナラ39号",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ソフトバンク 社債",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "綿貫民輔",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "都内の1LDKやスポーツカーを買えるくらい、兄弟の学費を出す…アダルト漫画で成功",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "フェイエノールト",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ポケカ 30 周年 抽選",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "宇梶剛士 若者のコスパ優先に思い",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_entertainment",
+      "topic_category": "hard_fact"
     },
     {
       "title": "「死刑に賛成の人は、自分の大切な人が死刑囚になっても賛成するのでしょうか？」弁護",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "藤井聡太",
+      "title": "救急搬送された時のこと…隊員「お仕事は？」私「作曲家です」隊員「意識が混濁してい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "サケ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "佐藤太陽",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -119,51 +119,51 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "都内の1LDKやスポーツカーを買えるくらい、兄弟の学費を出す…アダルト漫画で成功",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "就職が決まっていたバイト先を体調不良で1日休んだら、「そんな簡単に罪悪感なく休む",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "「死刑に賛成の人は、自分の大切な人が死刑囚になっても賛成するのでしょうか？」弁護",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "救急搬送された時のこと…隊員「お仕事は？」私「作曲家です」隊員「意識が混濁してい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【独自】ローソン　おにぎり値下げへ　9月29日から手巻きおにぎり一律10円値下げ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "2026年の心理学研究で解明された「先延ばしの止め方」を解説する｜ニジミ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「遺族が『ありがとう』と言ってくれるなら、いくらでも首をくくるよ」死刑執行される",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "経済的に苦しい人は「国としては景気が良い」と考えているとより強い無力感を覚えると",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "福岡県議会の「ドン」蔵内勇夫議長、議員辞職へ | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "バンクーバーで生活してきついと思うのは、留学に来ている日本人はテイカーが多い気が",
+      "title": "掛け算の時に「足し算をその回数だけやればよくて覚える必要なくないですか？はい論破",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "丸亀製麺のレジで店員に「支払い一緒でよろしいですか？」と聞かれ、妙に距離感が近い",
+      "title": "麻雀業界に深く関わっている和菓子店の社長が、制服を着替える時間を考慮せずにギリギ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ドトールVS.コメダ　なぜ好調？　店舗数だけでは分からない「強さ」の違い",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "個人向け国債「変動10年」　金利上昇に強く、元本割れなし - 日本経済新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
