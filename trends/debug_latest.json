@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T17:29:00+09:00",
+  "generated_at": "2026-08-24T22:39:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,154 +16,154 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 10,
+    "neg_excluded": 6,
+    "dedup_excluded": 11,
     "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 32,
+      "news_web": 18,
       "google_trends": 10,
-      "news_web": 13,
       "x_realtime": 6,
-      "yahoo_news_ranking": 6
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 37,
-    "personal_story": 1,
+    "social_reaction": 28,
+    "personal_story": 2,
     "opinion": 10,
-    "medical_science": 1,
-    "hard_fact": 17,
-    "policy": 4
+    "policy": 8,
+    "medical_science": 4,
+    "hard_fact": 18
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
+    "policy": 9,
+    "hard_fact": 22,
+    "social_reaction": 23,
     "opinion": 10,
-    "hard_fact": 21,
-    "policy": 4,
-    "personal_story": 1,
-    "medical_science": 1
+    "medical_science": 4,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "「うるう時間」27年導入へ　秒での修正廃止、混乱回避（共同通信） - Yahoo",
+      "title": "【速報】東京都の自殺対策事業で補助金虚偽申請",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "損保ジャパン 車保険料5%値上げへ",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "「回ってたのは経済じゃねーか！」バ先のおばちゃんに「回転寿司へ行く予定だった子が",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「大阪市」残す都構想　「しょうもない…」維新内からもツッコミ | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "就職が決まっていたバイト先を体調不良で1日休んだら、「そんな簡単に罪悪感なく休む",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "フェイエノールト",
+      "title": "uta 俳優",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ポケカ 30 周年 抽選",
+      "title": "京極町",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "宇梶剛士 若者のコスパ優先に思い",
+      "title": "乃木坂",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "座礁",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "SCANDAL活動終了 23年にギネス",
       "source_category": "news_web",
       "raw_source_key": "yahoo_news_entertainment",
       "topic_category": "hard_fact"
     },
     {
-      "title": "「死刑に賛成の人は、自分の大切な人が死刑囚になっても賛成するのでしょうか？」弁護",
+      "title": "『宮崎なら学食でも本物のチキン南蛮を出しているのではないか』を確かめに行ったマン",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "救急搬送された時のこと…隊員「お仕事は？」私「作曲家です」隊員「意識が混濁してい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "サケ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "佐藤太陽",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    }
-  ],
-  "note_top10": [
-    {
-      "title": "「うるう時間」27年導入へ　秒での修正廃止、混乱回避（共同通信） - Yahoo",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「大阪市」残す都構想　「しょうもない…」維新内からもツッコミ | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "就職が決まっていたバイト先を体調不良で1日休んだら、「そんな簡単に罪悪感なく休む",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「死刑に賛成の人は、自分の大切な人が死刑囚になっても賛成するのでしょうか？」弁護",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "救急搬送された時のこと…隊員「お仕事は？」私「作曲家です」隊員「意識が混濁してい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【独自】ローソン　おにぎり値下げへ　9月29日から手巻きおにぎり一律10円値下げ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "2026年の心理学研究で解明された「先延ばしの止め方」を解説する｜ニジミ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「遺族が『ありがとう』と言ってくれるなら、いくらでも首をくくるよ」死刑執行される",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "掛け算の時に「足し算をその回数だけやればよくて覚える必要なくないですか？はい論破",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "麻雀業界に深く関わっている和菓子店の社長が、制服を着替える時間を考慮せずにギリギ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    }
+  ],
+  "note_top10": [
+    {
+      "title": "「回ってたのは経済じゃねーか！」バ先のおばちゃんに「回転寿司へ行く予定だった子が",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『宮崎なら学食でも本物のチキン南蛮を出しているのではないか』を確かめに行ったマン",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "麻雀業界に深く関わっている和菓子店の社長が、制服を着替える時間を考慮せずにギリギ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "高市総理　奈良産の漢方を飲んで快眠",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "娘から「付き合って1年になる人が来年から薬剤師の学校に通うため九州に戻るので、私",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "Amazon配達員が家にやってきたので玄関を開けたら少し離れた場所にその配達員が",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "こんにちは、20年前に買って大事にしまっておいたエアマックス95です🥲カッコいい",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "映画「ママがもうこの世界にいなくても　私の命の日記」とのタイアップ中止について",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "もし「托卵」を女性の性犯罪として定義したら、性犯罪者の男女比って一気..",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中国で白菜類の鮮度保持にホルムアルデヒド使用か　当局が調査 - BBCニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
