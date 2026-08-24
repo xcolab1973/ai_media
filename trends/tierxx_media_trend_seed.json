@@ -2,8 +2,8 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-24T17:13:46+0900",
-    "record_count": 36,
+    "generated_at": "2026-08-25T06:55:00+0900",
+    "record_count": 35,
     "source_total_in_db": 909,
     "provenance_breakdown": {
       "evidence": 580,
@@ -515,24 +515,6 @@
       "valid_until": "2026-08-25T17:06:38+0900",
       "status": "candidate",
       "created_at": "2026-08-20T17:06:38+0900"
-    },
-    {
-      "seed_id": "seed_5ff67261f189",
-      "trend_term": "美容医療合併症と夜間救急",
-      "raw_title": "美容医療の合併症、夜間救急は誰が診る？—連携と医療費の“空白”（薬師寺泰匡） - エキスパート - Yahoo!ニュース",
-      "summary": "美容医療の合併症が夜間救急で対応される際、診療体制と医療費負担に関する連携の課題が存在することについての専門家による分析",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcGNTcWxiaWZNcTZTRnF6TWFyZzQ1cm8zcGJZQXVmaTB1aU5jMVZ1dnFUdGx3SDZHZDFyOElyWnNjbjZFeW53M19SaUhiTDFjTFdGRFBBVUw0VlZWMmFMVFE5VkZTajhsQ2F1bTZQUEM0TW9WRDZEZl92SFdGUWRSTWU4d3llc3JL?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcGNTcWxiaWZNcTZTRnF6TWFyZzQ1cm8zcGJZQXVmaTB1aU5jMVZ1dnFUdGx3SDZHZDFyOElyWnNjbjZFeW53M19SaUhiTDFjTFdGRFBBVUw0VlZWMmFMVFE5VkZTajhsQ2F1bTZQUEM0TW9WRDZEZl92SFdGUWRSTWU4d3llc3JL?oc=5",
-      "source_name": "Yahoo!ニュース",
-      "monitor_id": "bm-safety-news",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-25T06:52:16+0900",
-      "status": "candidate",
-      "created_at": "2026-08-20T06:52:16+0900"
     },
     {
       "seed_id": "seed_adc8ac40c28f",
