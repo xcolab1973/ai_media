@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T22:39:00+09:00",
+  "generated_at": "2026-08-25T06:58:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,39 +16,75 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 11,
+    "neg_excluded": 9,
+    "dedup_excluded": 8,
     "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
-      "news_web": 18,
+      "yahoo_realtime": 36,
+      "news_web": 12,
       "google_trends": 10,
-      "x_realtime": 6,
-      "yahoo_news_ranking": 4
+      "x_realtime": 9,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
     "social_reaction": 28,
-    "personal_story": 2,
+    "medical_science": 2,
+    "policy": 11,
     "opinion": 10,
-    "policy": 8,
-    "medical_science": 4,
+    "personal_story": 1,
     "hard_fact": 18
   },
   "b2b_topic_category_counts": {
-    "policy": 9,
-    "hard_fact": 22,
-    "social_reaction": 23,
+    "medical_science": 2,
+    "social_reaction": 28,
+    "policy": 11,
+    "hard_fact": 18,
     "opinion": 10,
-    "medical_science": 4,
-    "personal_story": 2
+    "personal_story": 1
   },
   "b2b_top10": [
+    {
+      "title": "補助金を架空請求か…自殺防止NPO法人への4900万円交付を取り消し　東京都：東",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "アメリカ産のドキュメンタリー動画を見るのがしんどくなってきた",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "コンビニおにぎりや回転ずしで値下げの動き | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "【速報】東京都の自殺対策事業で補助金虚偽申請",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
+    },
+    {
+      "title": "結婚・子育て資金の贈与税優遇廃止へ　こども家庭庁「効果が限定的」 - 日本経済新",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "NPO法人が補助金不正、東京都が3779万円を返還請求したけど…：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "【平成筑豊鉄道】廃止確定！混む前に乗りに行こう平成筑豊鉄道【VOICEROID鉄",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "損保ジャパン 車保険料5%値上げへ",
@@ -57,111 +93,75 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "「回ってたのは経済じゃねーか！」バ先のおばちゃんに「回転寿司へ行く予定だった子が",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "uta 俳優",
+      "title": "パラグアイ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "京極町",
+      "title": "mu",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
-    },
-    {
-      "title": "乃木坂",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "座礁",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "SCANDAL活動終了 23年にギネス",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_entertainment",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "『宮崎なら学食でも本物のチキン南蛮を出しているのではないか』を確かめに行ったマン",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "麻雀業界に深く関わっている和菓子店の社長が、制服を着替える時間を考慮せずにギリギ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
-      "title": "「回ってたのは経済じゃねーか！」バ先のおばちゃんに「回転寿司へ行く予定だった子が",
+      "title": "アメリカ産のドキュメンタリー動画を見るのがしんどくなってきた",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『宮崎なら学食でも本物のチキン南蛮を出しているのではないか』を確かめに行ったマン",
+      "title": "コンビニおにぎりや回転ずしで値下げの動き | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "麻雀業界に深く関わっている和菓子店の社長が、制服を着替える時間を考慮せずにギリギ",
+      "title": "【平成筑豊鉄道】廃止確定！混む前に乗りに行こう平成筑豊鉄道【VOICEROID鉄",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "補助金を架空請求か…自殺防止NPO法人への4900万円交付を取り消し　東京都：東",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "Amazon配達員が家にやってきたので玄関を開けたら少し離れた場所にその配達員が",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「死んだじーちゃんが撮ってた写真、いつみても、良い」構図が神すぎるし\"地球\"を感",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ボカコレ2026年夏ランキング除外騒動について｜narita19",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "シンプルなキャラデザであり簡素な絵柄のちいかわで「ちょっとだけ俯いて微妙に上目遣",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「なんだ落ち込んでんのか？腹ちぎれるくらい飯行こうやっ！」ジャンボたかお、大鶴肥",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "高市総理　奈良産の漢方を飲んで快眠",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "娘から「付き合って1年になる人が来年から薬剤師の学校に通うため九州に戻るので、私",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Amazon配達員が家にやってきたので玄関を開けたら少し離れた場所にその配達員が",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "こんにちは、20年前に買って大事にしまっておいたエアマックス95です🥲カッコいい",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "映画「ママがもうこの世界にいなくても　私の命の日記」とのタイアップ中止について",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "もし「托卵」を女性の性犯罪として定義したら、性犯罪者の男女比って一気..",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中国で白菜類の鮮度保持にホルムアルデヒド使用か　当局が調査 - BBCニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
