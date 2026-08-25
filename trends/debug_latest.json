@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T17:23:00+09:00",
+  "generated_at": "2026-08-25T22:37:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,40 +16,34 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 9,
+    "neg_excluded": 5,
+    "dedup_excluded": 11,
     "passed_total": 116,
     "b2b_category_counts": {
-      "google_trends": 9,
-      "yahoo_realtime": 31,
-      "x_realtime": 10,
-      "news_web": 15,
-      "yahoo_news_ranking": 5
+      "yahoo_realtime": 36,
+      "google_trends": 10,
+      "news_web": 14,
+      "yahoo_news_ranking": 4,
+      "x_realtime": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "opinion": 9,
+    "social_reaction": 30,
+    "personal_story": 2,
+    "opinion": 10,
     "medical_science": 5,
-    "personal_story": 1,
-    "policy": 6,
-    "hard_fact": 16
+    "policy": 9,
+    "hard_fact": 14
   },
   "b2b_topic_category_counts": {
-    "opinion": 9,
-    "social_reaction": 28,
+    "social_reaction": 30,
+    "policy": 8,
+    "opinion": 10,
+    "hard_fact": 17,
     "medical_science": 3,
-    "hard_fact": 23,
-    "policy": 6,
-    "personal_story": 1
+    "personal_story": 2
   },
   "b2b_top10": [
-    {
-      "title": "食中毒",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
     {
       "title": "あのー、地域の夏祭りって誰でも参加していいんですか？　恐る恐る行ってみる夏祭り",
       "source_category": "yahoo_realtime",
@@ -63,46 +57,52 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "なぜ税金はアニメーターに届かないのか　クールジャパン機構1400億円の使い道 #",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "「100万回死んだワニ」から怒涛の三連撃、言い間違い、うろ覚え…福井県立図書館の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "警視庁で警察官「3000人」足りず　採用不調で治安にも影響か | 毎日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "中日 対 阪神",
+      "title": "不発弾",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "アメリカ産のドキュメンタリー動画を見るのがしんどくなってきた",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ラジオご歓談！特別動画編vol.182『じゅんちゃん、山田さんのことなどの巻』｜",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "広島 対 dena",
+      "title": "土田龍空",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "補助金を架空請求か…自殺防止NPO法人への4900万円交付を取り消し　東京都：東",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "title": "百田夏菜子",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "どれだけ古い作品でも構いません「これだけは見てくれ」というアニメを教えてくれませ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "山口茜",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "日産・ノート オーラ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
@@ -113,13 +113,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "食中毒",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "閉所恐怖症には致死量かな？「西野水道」は無料で入れる洞窟系スポットだ！",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "閉所恐怖症には致死量かな？「西野水道」は無料で入れる洞窟系スポットだ！",
+      "title": "「アドバイスがノイズにしか聞こえなくなるよね」『習慣化できない勢をお前らが全く理",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「100万回死んだワニ」から怒涛の三連撃、言い間違い、うろ覚え…福井県立図書館の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -131,37 +137,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "アメリカ産のドキュメンタリー動画を見るのがしんどくなってきた",
+      "title": "国際的なカンパニーと仕事をしていて、「See you next Tuesday!",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ラジオご歓談！特別動画編vol.182『じゅんちゃん、山田さんのことなどの巻』｜",
+      "title": "「私がいまいち合わないのは論点をずらしまくる人」と主張するポスト主がカレーの調理",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本を描いたタイ映画20選",
+      "title": "南太平洋 バヌアツ諸島で大規模噴火 日本への津波の有無調査 | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「アドバイスがノイズにしか聞こえなくなるよね」『習慣化できない勢をお前らが全く理",
+      "title": "やっべぇ除草剤の広告動画が流れていた「竹林が瞬殺」「公安がマッハで販売元を差し止",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "どれだけ古い作品でも構いません「これだけは見てくれ」というアニメを教えてくれませ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「大正時代に機関銃があるわけない」と言っている人はいるが、農村で炭治郎が鬼を斬っ",
+      "title": "コンビニで車にいたら女性がフラフラ歩いてきて、お店の前で体育座り…みんなスルーし",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
