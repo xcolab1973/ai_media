@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T11:44:00+09:00",
+  "generated_at": "2026-08-25T17:23:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,66 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 11,
-    "passed_total": 112,
+    "neg_excluded": 7,
+    "dedup_excluded": 9,
+    "passed_total": 116,
     "b2b_category_counts": {
+      "google_trends": 9,
       "yahoo_realtime": 31,
-      "google_trends": 10,
-      "yahoo_news_ranking": 8,
-      "x_realtime": 8,
-      "news_web": 13
+      "x_realtime": 10,
+      "news_web": 15,
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 31,
-    "medical_science": 4,
-    "personal_story": 3,
-    "opinion": 10,
-    "policy": 3,
-    "hard_fact": 19
+    "social_reaction": 33,
+    "opinion": 9,
+    "medical_science": 5,
+    "personal_story": 1,
+    "policy": 6,
+    "hard_fact": 16
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "policy": 3,
-    "opinion": 10,
+    "opinion": 9,
+    "social_reaction": 28,
     "medical_science": 3,
     "hard_fact": 23,
-    "personal_story": 2
+    "policy": 6,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
+      "title": "食中毒",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "あのー、地域の夏祭りって誰でも参加していいんですか？　恐る恐る行ってみる夏祭り",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "閉所恐怖症には致死量かな？「西野水道」は無料で入れる洞窟系スポットだ！",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "警視庁で警察官「3000人」足りず　採用不調で治安にも影響か | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中日 対 阪神",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "アメリカ産のドキュメンタリー動画を見るのがしんどくなってきた",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -57,40 +87,10 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "紅海でサウジ原油タンカー炎上、フーシが弾道ミサイル攻撃発表…「海上封鎖」と称し攻",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "アメリカ産のドキュメンタリー動画を見るのがしんどくなってきた",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "何年か前に子持ちの友達から「子供作らないの？」と聞かれ、経済的理由で余裕がないと",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "佐野 勇 斗",
+      "title": "広島 対 dena",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
-    },
-    {
-      "title": "科研費",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "相次ぐ熱中症患者 救急医療ひっ迫",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_science",
-      "topic_category": "medical_science"
     },
     {
       "title": "補助金を架空請求か…自殺防止NPO法人への4900万円交付を取り消し　東京都：東",
@@ -99,21 +99,33 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "コンビニおにぎりや回転ずしで値下げの動き | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "どれだけ古い作品でも構いません「これだけは見てくれ」というアニメを教えてくれませ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
-      "title": "警視庁で警察官「3000人」足りず　採用不調で治安にも影響か | 毎日新聞",
+      "title": "あのー、地域の夏祭りって誰でも参加していいんですか？　恐る恐る行ってみる夏祭り",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ラジオご歓談！特別動画編vol.182『じゅんちゃん、山田さんのことなどの巻』｜",
+      "title": "食中毒",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "閉所恐怖症には致死量かな？「西野水道」は無料で入れる洞窟系スポットだ！",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "警視庁で警察官「3000人」足りず　採用不調で治安にも影響か | 毎日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,46 +137,34 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "何年か前に子持ちの友達から「子供作らないの？」と聞かれ、経済的理由で余裕がないと",
+      "title": "ラジオご歓談！特別動画編vol.182『じゅんちゃん、山田さんのことなどの巻』｜",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "コンビニおにぎりや回転ずしで値下げの動き | NHKニュース",
+      "title": "日本を描いたタイ映画20選",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【賛否】電車内でハンディファン使用はアリ？ナシ？「あんたの汗を気化させた風が…」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "バンクーバーで約2年間勤務したカジノをついに退職したポスト主…秋葉原のメイドカジ",
+      "title": "「アドバイスがノイズにしか聞こえなくなるよね」『習慣化できない勢をお前らが全く理",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "明らかに高校生の声で部の定期公演のパンフの広告枠の営業電話が…犯罪の可能性を心配",
+      "title": "どれだけ古い作品でも構いません「これだけは見てくれ」というアニメを教えてくれませ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "銀行でお金おろしたらなんか当たった「こんなもん見ないから当たってたかも」「窓口に",
+      "title": "「大正時代に機関銃があるわけない」と言っている人はいるが、農村で炭治郎が鬼を斬っ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "補助金を架空請求か…自殺防止NPO法人への4900万円交付を取り消し　東京都：東",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
     }
   ]
 }
