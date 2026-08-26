@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-26T12:33:24+0900",
-    "record_count": 46,
-    "source_total_in_db": 934,
+    "generated_at": "2026-08-26T17:09:21+0900",
+    "record_count": 44,
+    "source_total_in_db": 935,
     "provenance_breakdown": {
-      "evidence": 596,
+      "evidence": 597,
       "pain_seed": 338
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_b9557a696e79",
+      "trend_term": "豊胸インプラント市場拡大",
+      "raw_title": "日本の乳房インプラント市場規模、シェア、成長、動向・予測：美容目的の豊胸、乳房再建、インプラント技術革新、次世代美容外 - ニコニコニュース",
+      "summary": "日本の乳房インプラント市場が成長。豊胸目的の美容施術、乳房再建、インプラント技術革新が市場拡大の要因として挙げられている。",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5neHpFVVpCSmg4eER0a1FOemxOMjgtbnhfZER4YVktM3V1VXlrUV8yd1Bmcm5BMDZCZ3F6Wm1CSEJVLXM0NndmSERTQVcxNWZnODFBOEI3UWk5VU4zSERKMUlMem9xQnJHRXZqU3g0UGxIdEMxOVZ5QV83QQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5neHpFVVpCSmg4eER0a1FOemxOMjgtbnhfZER4YVktM3V1VXlrUV8yd1Bmcm5BMDZCZ3F6Wm1CSEJVLXM0NndmSERTQVcxNWZnODFBOEI3UWk5VU4zSERKMUlMem9xQnJHRXZqU3g0UGxIdEMxOVZ5QV83QQ?oc=5",
+      "source_name": "ニコニコニュース",
+      "monitor_id": "bm-market-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-31T17:09:16+0900",
+      "status": "candidate",
+      "created_at": "2026-08-26T17:09:16+0900"
+    },
     {
       "seed_id": "seed_547904c5d306",
       "trend_term": "診療所美容外科急増",
@@ -661,24 +679,6 @@
       "created_at": "2026-08-23T12:29:53+0900"
     },
     {
-      "seed_id": "seed_1df744a027ed",
-      "trend_term": "美容医療プラットフォーム",
-      "raw_title": "【美容医療の未来】業界No1プラットフォーム「トリビュー」が拓く可能性と課題解決策（土橋克寿） - エキスパート - Yahoo!ニュース",
-      "summary": "業界No1プラットフォーム「トリビュー」が美容医療業界の課題解決に取り組む状況について、エキスパート寄稿による業界分析",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc0dvLURaanJIU3dFRHFiZWVYMXJnQWZ4OXo4Unk1cHNWLXQtU0JUdVdDY3BFVm1WTEc5TENCMVc1bU9YMVJ1azJEMDQxa21NNTNvODVuUUpfVEt4amRBMG9fcDBNWnI0b2dfclJuMElfYzVZTlh2SzNCdm9sWEFsdUhhblFaY2FY?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc0dvLURaanJIU3dFRHFiZWVYMXJnQWZ4OXo4Unk1cHNWLXQtU0JUdVdDY3BFVm1WTEc5TENCMVc1bU9YMVJ1azJEMDQxa21NNTNvODVuUUpfVEt4amRBMG9fcDBNWnI0b2dfclJuMElfYzVZTlh2SzNCdm9sWEFsdUhhblFaY2FY?oc=5",
-      "source_name": "Yahoo!ニュース",
-      "monitor_id": "bm-market-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-27T16:56:02+0900",
-      "status": "candidate",
-      "created_at": "2026-08-22T16:56:02+0900"
-    },
-    {
       "seed_id": "seed_f6cd2694440e",
       "trend_term": "男性向け美容医療トラブル",
       "raw_title": "美容医療トラブル、男性も　薄毛治療など苦情　国セン改善要望🔓 - WEBニッポン消費者新聞",
@@ -751,24 +751,6 @@
       "created_at": "2026-08-22T06:51:28+0900"
     },
     {
-      "seed_id": "seed_6bee7a8674c4",
-      "trend_term": "ステマ規制対策",
-      "raw_title": "『美容クリニックの\"愛される\"SNS運用法 ～ステマ規制対策とLINE運用によるファン化施策～』ウェビナーを開催〈無料〉 - PR TIMES",
-      "summary": "美容クリニックのSNS運用におけるステマ規制対策とLINE運用によるファン化施策に関するウェビナーが開催される。",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YaWRzeGtOTUFuWFlYWmk3eTVKZFk4bklvZWtXS3pySTgzRk1VNWRDY3lsbVJzakNSemM0YmdCRVdYRF96dGZpdlhPdzNrNHdOV0xiTU4wWVg1aUE1d0pJQS11a0VKV1M1Q2c?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YaWRzeGtOTUFuWFlYWmk3eTVKZFk4bklvZWtXS3pySTgzRk1VNWRDY3lsbVJzakNSemM0YmdCRVdYRF96dGZpdlhPdzNrNHdOV0xiTU4wWVg1aUE1d0pJQS11a0VKV1M1Q2c?oc=5",
-      "source_name": "PR TIMES",
-      "monitor_id": "bm-sns-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "official_instruction",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-26T17:06:49+0900",
-      "status": "candidate",
-      "created_at": "2026-08-21T17:06:49+0900"
-    },
-    {
       "seed_id": "seed_ce7dbe5397a3",
       "trend_term": "美容施術の失敗・リスク認識",
       "raw_title": "「そんな事故がありました」元AKBメンバー、在籍中の美容施術を告白 ボトックスで表情が動かなくなる「失敗でした」（1/2） - ねとらぼ",
@@ -821,24 +803,6 @@
       "valid_until": "2026-09-02T17:04:08+0900",
       "status": "candidate",
       "created_at": "2026-08-19T17:04:08+0900"
-    },
-    {
-      "seed_id": "seed_85df44daf7e6",
-      "trend_term": "SNS時代のクリニック選びリスク",
-      "raw_title": "SELECT CLINIC表参道本院院長・上原義史医師「症例写真だけを見て判断するのは危険」——SNS時代のクリニック選びに警鐘 - PR TIMES",
-      "summary": "医師が「症例写真だけで判断するのは危険」と指摘。SNS時代における適切なクリニック選びの問題提起。",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IRTlOTXI1MVdMVWtaNllZVUxYNWs1Yk1sV0NZSGwtQ3d1aVZzZEpGZEtXYXpoVGNsYkpsdGdLb0N3NzFTVWVwODFQekJLZ2tLM2k1bFZqbnM0RXZ3OGxBZFBzdWlIbkM2OFE?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IRTlOTXI1MVdMVWtaNllZVUxYNWs1Yk1sV0NZSGwtQ3d1aVZzZEpGZEtXYXpoVGNsYkpsdGdLb0N3NzFTVWVwODFQekJLZ2tLM2k1bFZqbnM0RXZ3OGxBZFBzdWlIbkM2OFE?oc=5",
-      "source_name": "PR TIMES",
-      "monitor_id": "bm-sns-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "opinion",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-26T13:22:17+0900",
-      "status": "candidate",
-      "created_at": "2026-08-12T13:22:17+0900"
     }
   ]
 }
