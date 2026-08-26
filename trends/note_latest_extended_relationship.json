@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-26T16:53:41+09:00",
- "valid_until": "2026-09-09T16:49:11+09:00",
+ "generated_at": "2026-08-27T06:46:31+09:00",
+ "valid_until": "2026-09-10T06:39:47+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -16,6 +16,36 @@
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "新しい職場でも人間関係がうまくいく10のコツを紹介！",
+   "url": "https://willof.jp/column/knowledge/dispatch-useful-information/9367/",
+   "summary": "異動や転職で新しい職場に入った人向けの人間関係構築術。自分から声をかける・気配りと率先行動・前職のやり方を持ち込まない・年齢を気にしない・焦らず自分のペースで馴染む、など。定番の助言だが「では具体的に何をすればいいか」という二次質問に応える内容。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "relationship-social",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "ウィルオブスタイル",
+    "expert_origin": true,
+    "search_query": "異動 新しい職場 人間関係 うまくいかない コツ",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-10T06:39:47+09:00",
+   "validity_days": 14
+  },
   {
    "source_category": "news_web",
    "raw_title": "「職場でのちょっと苦手な人」とサッと精神的に距離を取る方法",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-02T06:56:00+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "2026年 お盆の帰省に関する調査 ～帰省の楽しみは家族との会話。一方のストレスは親戚への気遣い ほか（第3弾）",
-   "url": "https://prtimes.jp/main/html/rd/p/000000447.000001545.html",
-   "summary": "ソニー損保の2026年お盆帰省調査。配偶者の実家への帰省で、親戚への気遣いやプライベート空間のなさにストレスを感じる既婚者が多く、特に女性でその傾向が強いと報告。家族との会話を楽しみとする回答も併記。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "relationship-social",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "ソニー損害保険株式会社（PR TIMES）",
-    "expert_origin": true,
-    "search_query": "お盆 帰省 人間関係 ストレス 2026",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-31T06:41:54+09:00",
    "validity_days": 14
   },
   {
