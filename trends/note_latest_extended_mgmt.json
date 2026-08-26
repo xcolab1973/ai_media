@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-08-26T06:47:32+09:00",
+ "generated_at": "2026-08-26T16:53:40+09:00",
  "valid_until": "2026-09-09T06:36:11+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "mgmt",
- "total_count": 20,
+ "total_count": 19,
  "merge": {
   "parent": "mgmt",
-  "from_current": 22,
+  "from_current": 20,
   "from_new": 2,
-  "expired_pruned": 4,
+  "expired_pruned": 1,
   "retention_dropped": 0,
   "genres": 3,
   "retention_per_genre": 8
@@ -104,36 +104,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-27T06:36:28+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "会社の経理の者です。現在、資金繰りが大変厳しい状況にあります。ギリギリまで追い... - Yahoo!知恵袋",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1412675239",
-   "summary": "経理担当者が「資金繰りが大変厳しい」状況の中、支払いの優先順位づけに悩んでいるという相談。具体的な数値には踏み込まず、資金繰り逼迫時にどの支払い（給与・仕入・税金等）を優先すべきかという実務的な不安が生々しく語られている。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "mgmt-finance",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "site:okwave.jp OR site:chiebukuro.yahoo.co.jp 資金繰り 補助金 中小企業 不安",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-26T06:54:47+09:00",
    "validity_days": 7
   },
   {

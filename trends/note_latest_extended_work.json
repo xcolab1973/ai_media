@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-08-26T06:47:32+09:00",
- "valid_until": "2026-09-09T06:42:22+09:00",
+ "generated_at": "2026-08-26T16:53:41+09:00",
+ "valid_until": "2026-09-09T16:50:46+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "work",
- "total_count": 31,
+ "total_count": 32,
  "merge": {
   "parent": "work",
-  "from_current": 32,
-  "from_new": 2,
-  "expired_pruned": 1,
-  "retention_dropped": 2,
+  "from_current": 31,
+  "from_new": 1,
+  "expired_pruned": 0,
+  "retention_dropped": 0,
   "genres": 4,
   "retention_per_genre": 8
  },
@@ -494,6 +494,36 @@
     "rescued": false
    },
    "valid_until": "2026-09-03T06:41:08+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "大学生１回生でもできる副業について副業を始めたい思っているのですが...",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14322626674",
+   "summary": "大学生が副業を始めたいが何から手をつければよいか分からず、具体的な始め方や自分に合う副業の選び方について助言を求めている実際の質問。新学期の出費増を控える時期に「まず何をすればいいか」という初動の迷いが表れている。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "work-sidejob-start",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "副業 始めたい 新学期 出費 家計 何から 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-09T16:50:46+09:00",
    "validity_days": 14
   },
   {

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-26T06:47:32+09:00",
- "valid_until": "2026-09-09T06:35:06+09:00",
+ "generated_at": "2026-08-26T16:53:41+09:00",
+ "valid_until": "2026-09-09T16:49:11+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "relationship",
   "from_current": 24,
-  "from_new": 5,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 5,
+  "retention_dropped": 1,
   "genres": 3,
   "retention_per_genre": 8
  },
@@ -498,6 +498,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "共働きで家事分担に不満...!夫婦ケンカを減らすアドラー流解決法とは",
+   "url": "https://papashirube.com/learn/communication/sharing_household_chores/",
+   "summary": "共働き夫婦の家事分担の不満を、アドラー心理学の「勇気づけ」の考え方で解消する方法を解説。役割を固定せず対話で調整し感謝を言葉にすることでケンカを減らせるとする。新学期準備で家事負荷が増える時期にも応用しやすい視点。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "relationship-marriage",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "パパしるべ",
+    "expert_origin": true,
+    "search_query": "夏休み明け 夫婦 家事分担 ケンカ 新学期準備 疲れ 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-09T16:49:11+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "2026年「106万円の壁」撤廃へ 扶養内で働く時代は終わる？",
    "url": "https://note.com/misuzugaoka_f/n/n3646858a673a",
    "summary": "2026年10月をめどに厚生年金の賃金要件（月8.8万円）が撤廃され、週20時間などの労働時間基準に一本化。扶養内で働いてきた配偶者は社会保険加入対象が広がり、夫婦の家計設計や役割分担の見直しが必要になる見込み。",
@@ -704,36 +734,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-30T16:53:08+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "103万・106万・130万・150万円の壁とは？税制上と社会保険の扶養はどう違うのか",
-   "url": "https://money-bu-jpx.com/news/article029802/",
-   "summary": "2026年10月に106万円の壁（社会保険）が撤廃されるが、税制上の配偶者控除（103万円・150万円の壁）とは別制度で混同しやすい。夫婦がどちらの壁で判断すべきか、東証マネ部が整理して解説。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "relationship-marriage",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "東証マネ部！（日本取引所グループ系メディア）",
-    "expert_origin": true,
-    "search_query": "配偶者控除 106万円の壁 混同 違い 夫婦 わからない",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-28T16:53:31+09:00",
    "validity_days": 14
   }
  ]
