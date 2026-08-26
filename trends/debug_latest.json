@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T11:51:00+09:00",
+  "generated_at": "2026-08-26T17:24:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,66 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 13,
-    "dedup_excluded": 8,
-    "passed_total": 111,
+    "neg_excluded": 5,
+    "dedup_excluded": 9,
+    "passed_total": 118,
     "b2b_category_counts": {
-      "x_realtime": 10,
-      "yahoo_realtime": 30,
-      "google_trends": 9,
-      "news_web": 16,
-      "yahoo_news_ranking": 5
+      "google_trends": 10,
+      "yahoo_realtime": 35,
+      "x_realtime": 9,
+      "news_web": 12,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "opinion": 9,
-    "personal_story": 2,
-    "medical_science": 5,
-    "policy": 5,
-    "hard_fact": 19
+    "social_reaction": 33,
+    "opinion": 10,
+    "personal_story": 4,
+    "medical_science": 4,
+    "hard_fact": 14,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "opinion": 9,
-    "policy": 5,
-    "hard_fact": 21,
-    "medical_science": 5,
-    "personal_story": 1
+    "opinion": 10,
+    "social_reaction": 32,
+    "hard_fact": 18,
+    "personal_story": 3,
+    "medical_science": 2,
+    "policy": 5
   },
   "b2b_top10": [
     {
+      "title": "竜巻注意情報",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "『映画ちいかわ 人魚の島のひみつ』が最高にヤれてる怪獣映画だったという話 - 鎌",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「絶対に香川県だと分かる注意書き」すべての事柄にうどんが出てくる安定感→「でも、",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ペンギン入りSuica 在庫限り終了",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
       "title": "「セルフレジとかいう無賃労働ほんまに嫌い」商品の価格に人件費削減が反映されている",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「AI画像絶対見破るマン引退します」4つのラーメン画像のうち1枚だけリアルな写真",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -57,60 +87,54 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ケンタッキー・カーネル",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "タナー・スコット",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "日産・エルグランド",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "税金",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ペロブスカイト",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "SP500の平均年リターンが7%なのに、不動産やってる奴って趣味なのか？",
+      "title": "道後温泉で鯛めし食べてたら、隣席のおじさんが「カツオは愛南の市場食堂がうまい」と",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "20代半ばの若手社員が親同伴で出勤してきた",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "オンコリスバイオファーマ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "米制裁のICC赤根所長きょう会見　政府は撤回など求めず「みんな怖くて言えない」自",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "title": "天皇杯",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "「セルフレジとかいう無賃労働ほんまに嫌い」商品の価格に人件費削減が反映されている",
+      "title": "『映画ちいかわ 人魚の島のひみつ』が最高にヤれてる怪獣映画だったという話 - 鎌",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「絶対に香川県だと分かる注意書き」すべての事柄にうどんが出てくる安定感→「でも、",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "「セルフレジとかいう無賃労働ほんまに嫌い」商品の価格に人件費削減が反映されている",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「AI画像絶対見破るマン引退します」4つのラーメン画像のうち1枚だけリアルな写真",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "竜巻注意情報",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "食費1日500円「おかず買えず米だけ」物価高で飢える高齢者…公的支援あっても困窮",
@@ -119,51 +143,27 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "SP500の平均年リターンが7%なのに、不動産やってる奴って趣味なのか？",
+      "title": "道後温泉で鯛めし食べてたら、隣席のおじさんが「カツオは愛南の市場食堂がうまい」と",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "20代半ばの若手社員が親同伴で出勤してきた",
+      "title": "娘が高校の説明会に参加し、電気科にて組立て作業を体験…先生「工具を使ったことがあ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "私たちはポルノで育ってしまっている――『ヘタリア』について｜渡部宏樹（Kohki",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "コンビニでチケット発券する時に店員が勢い余って半券を切ってしまった…「再発行して",
+      "title": "姿勢を矯正してくれる椅子ほしい！→「実際にやったら10時間くらいでエコノミークラ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「クロワッサンを薄切りにできるパン切り包丁、凄すぎる」老舗刃物メーカーが投稿した",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "おばあちゃんの家で草履を見せてもらっていたら、今までの人生で経験してきた加水分解",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「高校時代飛べなかった1m65㎝を海底60mで思い出す」海底トンネルネキ、工事は",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "子供3人がいて、遊び場を提案したが断られた…その後「暇、なにすればいいの」と言っ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「またアニメをナイター中継に潰された」かつて野球中継にいろんな番組を潰され延長で",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
