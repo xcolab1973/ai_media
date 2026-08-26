@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T17:24:00+09:00",
+  "generated_at": "2026-08-26T22:41:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,39 +16,51 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 9,
-    "passed_total": 118,
+    "neg_excluded": 6,
+    "dedup_excluded": 11,
+    "passed_total": 115,
     "b2b_category_counts": {
+      "yahoo_realtime": 32,
+      "x_realtime": 7,
+      "yahoo_news_ranking": 6,
       "google_trends": 10,
-      "yahoo_realtime": 35,
-      "x_realtime": 9,
-      "news_web": 12,
-      "yahoo_news_ranking": 4
+      "news_web": 15
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "opinion": 10,
-    "personal_story": 4,
-    "medical_science": 4,
-    "hard_fact": 14,
-    "policy": 5
+    "social_reaction": 30,
+    "personal_story": 5,
+    "opinion": 9,
+    "medical_science": 8,
+    "policy": 3,
+    "hard_fact": 15
   },
   "b2b_topic_category_counts": {
-    "opinion": 10,
-    "social_reaction": 32,
-    "hard_fact": 18,
-    "personal_story": 3,
-    "medical_science": 2,
-    "policy": 5
+    "social_reaction": 27,
+    "hard_fact": 22,
+    "opinion": 9,
+    "medical_science": 4,
+    "policy": 3,
+    "personal_story": 5
   },
   "b2b_top10": [
     {
-      "title": "竜巻注意情報",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "お金がある家庭の子だけ強くなるシステム？海外の「スポーツを始めた子供の生活を囲い",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "大損は旅行・お金は人工物～大損した自分をなぐさめる言葉・思考②",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【閲覧注意】娘の一歳の誕生日に頼んでいた「一升餅」を開けたら、全面にうっすらカビ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
       "title": "『映画ちいかわ 人魚の島のひみつ』が最高にヤれてる怪獣映画だったという話 - 鎌",
@@ -57,15 +69,9 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「絶対に香川県だと分かる注意書き」すべての事柄にうどんが出てくる安定感→「でも、",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ペンギン入りSuica 在庫限り終了",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
+      "title": "今年は台風多発 9-10月も注意必要",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_science",
       "topic_category": "hard_fact"
     },
     {
@@ -75,31 +81,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「AI画像絶対見破るマン引退します」4つのラーメン画像のうち1枚だけリアルな写真",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "食費1日500円「おかず買えず米だけ」物価高で飢える高齢者…公的支援あっても困窮",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "道後温泉で鯛めし食べてたら、隣席のおじさんが「カツオは愛南の市場食堂がうまい」と",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "オンコリスバイオファーマ",
+      "title": "柴田勝家",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "天皇杯",
+      "title": "秋篠宮紀子",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "山本祐大",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,15 +107,27 @@
   ],
   "note_top10": [
     {
-      "title": "『映画ちいかわ 人魚の島のひみつ』が最高にヤれてる怪獣映画だったという話 - 鎌",
+      "title": "お金がある家庭の子だけ強くなるシステム？海外の「スポーツを始めた子供の生活を囲い",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「絶対に香川県だと分かる注意書き」すべての事柄にうどんが出てくる安定感→「でも、",
+      "title": "大損は旅行・お金は人工物～大損した自分をなぐさめる言葉・思考②",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【閲覧注意】娘の一歳の誕生日に頼んでいた「一升餅」を開けたら、全面にうっすらカビ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『映画ちいかわ 人魚の島のひみつ』が最高にヤれてる怪獣映画だったという話 - 鎌",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -125,43 +137,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「AI画像絶対見破るマン引退します」4つのラーメン画像のうち1枚だけリアルな写真",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "竜巻注意情報",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
       "title": "食費1日500円「おかず買えず米だけ」物価高で飢える高齢者…公的支援あっても困窮",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "道後温泉で鯛めし食べてたら、隣席のおじさんが「カツオは愛南の市場食堂がうまい」と",
+      "title": "実家にあるライブカメラで父の体調に異常を発見し、呼びかけても返事なし…ALSOK",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "娘が高校の説明会に参加し、電気科にて組立て作業を体験…先生「工具を使ったことがあ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "私たちはポルノで育ってしまっている――『ヘタリア』について｜渡部宏樹（Kohki",
+      "title": "食べ放題でいっぱいご飯を食べていたら、突然知らないおば様から手紙と株主優待券をも",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "姿勢を矯正してくれる椅子ほしい！→「実際にやったら10時間くらいでエコノミークラ",
+      "title": "ネパールで洪水 380人以上の観光客が行方不明か | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "昨日入職した新人が今日退職の意向を示してきた、どうやらお局に「忙しいからいちいち",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
