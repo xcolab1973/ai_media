@@ -1,21 +1,51 @@
 {
- "generated_at": "2026-08-27T06:46:31+09:00",
+ "generated_at": "2026-08-27T16:51:46+09:00",
  "valid_until": "2026-09-10T06:41:55+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "skill",
- "total_count": 33,
+ "total_count": 35,
  "merge": {
   "parent": "skill",
   "from_current": 33,
-  "from_new": 3,
-  "expired_pruned": 1,
-  "retention_dropped": 2,
+  "from_new": 2,
+  "expired_pruned": 0,
+  "retention_dropped": 0,
   "genres": 6,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "【ChatGPTプロンプト付き】職務経歴書や履歴書の自己PRを生成AIで効率よく仕上げる方法とは？",
+   "url": "https://tenshoku.mynavi.jp/knowhow/trend/30/",
+   "summary": "転職活動での職務経歴書・自己PR作成にChatGPTプロンプトを使う具体的な方法を紹介。学歴・職歴・実績・志望動機などの基本情報を入力し、職務要約は最後に出力させる構成が有効と解説。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "skill-ai-prompt",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "マイナビ転職",
+    "expert_origin": true,
+    "search_query": "ChatGPT プロンプト 職務経歴書 転職 秋 書き方",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-01T16:49:25+09:00",
+   "validity_days": 5
+  },
   {
    "source_category": "news_web",
    "raw_title": "00 学校で使えるChatGPTの基本プロンプト集",
@@ -134,6 +164,36 @@
     "rescued": false
    },
    "valid_until": "2026-08-27T16:52:19+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "【＃プロの思考】なぜあなたはフォロワーが増えないのか?フォロワー激増に必要な3つの運用セオリーを公開！",
+   "url": "https://sns-sakiyomi.com/blog/thinking/1-2/",
+   "summary": "SNS運用のプロが、フォロワーが増えない本質的な理由と運用セオリーを解説。毎日投稿すれば増えるという旧来の常識はもはや通用せず、内容の薄い頻繁投稿はむしろリーチを下げると指摘。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "skill-sns-growth",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "SAKIYOMI",
+    "expert_origin": true,
+    "search_query": "SNS運用 フォロワー増やし方 秋 新学期 コツ 伸びない 原因",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-01T16:49:25+09:00",
    "validity_days": 5
   },
   {
