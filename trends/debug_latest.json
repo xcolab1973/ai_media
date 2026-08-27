@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T22:41:00+09:00",
+  "generated_at": "2026-08-27T10:02:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,154 +16,154 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 11,
-    "passed_total": 115,
+    "neg_excluded": 4,
+    "dedup_excluded": 10,
+    "passed_total": 118,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
-      "x_realtime": 7,
-      "yahoo_news_ranking": 6,
+      "yahoo_realtime": 30,
       "google_trends": 10,
-      "news_web": 15
+      "news_web": 15,
+      "x_realtime": 8,
+      "yahoo_news_ranking": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
+    "social_reaction": 24,
     "personal_story": 5,
     "opinion": 9,
-    "medical_science": 8,
-    "policy": 3,
-    "hard_fact": 15
+    "medical_science": 10,
+    "policy": 5,
+    "hard_fact": 17
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 27,
-    "hard_fact": 22,
-    "opinion": 9,
-    "medical_science": 4,
     "policy": 3,
-    "personal_story": 5
+    "social_reaction": 23,
+    "opinion": 9,
+    "hard_fact": 23,
+    "personal_story": 5,
+    "medical_science": 7
   },
   "b2b_top10": [
     {
-      "title": "お金がある家庭の子だけ強くなるシステム？海外の「スポーツを始めた子供の生活を囲い",
+      "title": "消費税減税・給付の財源、野党が法人増税を提起　自民党に同調論 - 日本経済新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "SNS1日2時間に制限　子どもの依存訴訟、メタが2.8兆円で和解：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "大損は旅行・お金は人工物～大損した自分をなぐさめる言葉・思考②",
+      "title": "台湾本を買う前に読んでほしい。無料なのに濃すぎるブックガイド『臺灣書旅』｜台湾D",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【閲覧注意】娘の一歳の誕生日に頼んでいた「一升餅」を開けたら、全面にうっすらカビ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『映画ちいかわ 人魚の島のひみつ』が最高にヤれてる怪獣映画だったという話 - 鎌",
+      "title": "山内マリコ「TSUTAYAは唯一の娯楽だった」地元・富山で映画に夢中になった青春",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "今年は台風多発 9-10月も注意必要",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_science",
+      "title": "「ほんとに日本で勉強したくてたまらないよ」中国人の自国の教育と日本の教育を比較し",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "nhkアナウンサー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "車での移動に注意 大雨で水没恐れ",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_domestic",
       "topic_category": "hard_fact"
     },
     {
-      "title": "「セルフレジとかいう無賃労働ほんまに嫌い」商品の価格に人件費削減が反映されている",
+      "title": "マンションのオートロックパネルに貼り紙が…どうやら苦情の手紙をポストに入れられた",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "食費1日500円「おかず買えず米だけ」物価高で飢える高齢者…公的支援あっても困窮",
+      "title": "「ここまで利用者が増えるとは」　輸送力限界、混雑緩和へ対策模索続く　【開業3年　",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "柴田勝家",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "秋篠宮紀子",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "山本祐大",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "「Suicaのペンギン」物理ICカード、在庫がなくなり次第販売終了。Apple端",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     }
   ],
   "note_top10": [
     {
-      "title": "お金がある家庭の子だけ強くなるシステム？海外の「スポーツを始めた子供の生活を囲い",
+      "title": "SNS1日2時間に制限　子どもの依存訴訟、メタが2.8兆円で和解：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "大損は旅行・お金は人工物～大損した自分をなぐさめる言葉・思考②",
+      "title": "台湾本を買う前に読んでほしい。無料なのに濃すぎるブックガイド『臺灣書旅』｜台湾D",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【閲覧注意】娘の一歳の誕生日に頼んでいた「一升餅」を開けたら、全面にうっすらカビ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『映画ちいかわ 人魚の島のひみつ』が最高にヤれてる怪獣映画だったという話 - 鎌",
+      "title": "「ほんとに日本で勉強したくてたまらないよ」中国人の自国の教育と日本の教育を比較し",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「セルフレジとかいう無賃労働ほんまに嫌い」商品の価格に人件費削減が反映されている",
+      "title": "「ここまで利用者が増えるとは」　輸送力限界、混雑緩和へ対策模索続く　【開業3年　",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "食費1日500円「おかず買えず米だけ」物価高で飢える高齢者…公的支援あっても困窮",
+      "title": "山内マリコ「TSUTAYAは唯一の娯楽だった」地元・富山で映画に夢中になった青春",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "実家にあるライブカメラで父の体調に異常を発見し、呼びかけても返事なし…ALSOK",
+      "title": "マンションのオートロックパネルに貼り紙が…どうやら苦情の手紙をポストに入れられた",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "食べ放題でいっぱいご飯を食べていたら、突然知らないおば様から手紙と株主優待券をも",
+      "title": "「Suicaのペンギン」物理ICカード、在庫がなくなり次第販売終了。Apple端",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「異世界ファンタジーはなぜ、ナーロッパでなくてはならないのか？」で考えてみると「",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "海水温上昇しフグ北上、交雑で毒の部位判然とせず…進む適応策の研究「変化への対応必",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ネパールで洪水 380人以上の観光客が行方不明か | NHKニュース",
+      "title": "立民が中道への合流見送りで調整、３党党首会談で伝達へ…「完全合流」求める公明の反",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "昨日入職した新人が今日退職の意向を示してきた、どうやらお局に「忙しいからいちいち",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
