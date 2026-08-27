@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-27T22:00:07+0900",
+    "generated_at": "2026-08-28T03:23:10+0900",
     "record_count": 43,
-    "source_total_in_db": 941,
+    "source_total_in_db": 942,
     "provenance_breakdown": {
-      "evidence": 603,
+      "evidence": 604,
       "pain_seed": 338
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_3420ca618109",
+      "trend_term": "医療美容市場予測2026-2032",
+      "raw_title": "医療美容市場：施術種別、製品タイプ、機器の種類、性別、適用分野、エンドユーザー、流通チャネル別―2026年～2032年の世界市場予測 - アットプレス",
+      "summary": "医療美容市場の施術種別・製品タイプ・機器種類別など複数軸での2026年～2032年の世界市場予測が発表された。",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tbVpYQVBJblE4UkFMcTg4MkhLUXQ2RGd3ZUx1emZDdnh5OHNhb2hVLTczdlZJajVlRm9sTW43NXVYRXBON195aUxDZF9nYW8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tbVpYQVBJblE4UkFMcTg4MkhLUXQ2RGd3ZUx1emZDdnh5OHNhb2hVLTczdlZJajVlRm9sTW43NXVYRXBON195aUxDZF9nYW8?oc=5",
+      "source_name": "アットプレス",
+      "monitor_id": "bm-regen-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-09-02T03:22:55+0900",
+      "status": "candidate",
+      "created_at": "2026-08-28T03:22:55+0900"
+    },
     {
       "seed_id": "seed_4b90f334eb98",
       "trend_term": "男性ヒゲ脱毛専門クリニック",
@@ -641,24 +659,6 @@
       "valid_until": "2026-08-29T12:31:31+0900",
       "status": "candidate",
       "created_at": "2026-08-24T12:31:31+0900"
-    },
-    {
-      "seed_id": "seed_29110bf15459",
-      "trend_term": "高濃度PDRN美容液",
-      "raw_title": "韓国美容クリニック採用の高濃度PDRNアンプル「QUEENDOES PDRN SERUM」日本展開開始 - 繊研新聞",
-      "summary": "韓国美容クリニック採用の高濃度PDRNアンプル「QUEENDOES PDRN SERUM」が日本展開を開始。",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObTRGMjk2ZnJhTXk1R3lDMTV4Tlk1N21XYll3Umd5dk5MT2lYY2ZiQUhIel9laC1HZUtzbWQwZ05ncGFkTk02Z2I2TlZwMnUxV3RRd0IxX3o1UTdXSjFrOU1OaGZBY0hnWENDS2lmV1FXaTFFRGJDN25kZ0tLM3ozbXllVkdTTGJudGxhajVGa251bkJJVXY4R2JEcmtYdmJaYkh0NzVDQlhYX1JEMVE?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObTRGMjk2ZnJhTXk1R3lDMTV4Tlk1N21XYll3Umd5dk5MT2lYY2ZiQUhIel9laC1HZUtzbWQwZ05ncGFkTk02Z2I2TlZwMnUxV3RRd0IxX3o1UTdXSjFrOU1OaGZBY0hnWENDS2lmV1FXaTFFRGJDN25kZ0tLM3ozbXllVkdTTGJudGxhajVGa251bkJJVXY4R2JEcmtYdmJaYkh0NzVDQlhYX1JEMVE?oc=5",
-      "source_name": "繊研新聞",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-29T06:48:05+0900",
-      "status": "candidate",
-      "created_at": "2026-08-24T06:48:05+0900"
     },
     {
       "seed_id": "seed_87e5b12f21f0",
