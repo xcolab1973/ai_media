@@ -2,7 +2,7 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-26T17:09:21+0900",
+    "generated_at": "2026-08-27T09:59:31+0900",
     "record_count": 44,
     "source_total_in_db": 935,
     "provenance_breakdown": {
@@ -13,22 +13,22 @@
   },
   "items": [
     {
-      "seed_id": "seed_b9557a696e79",
-      "trend_term": "豊胸インプラント市場拡大",
-      "raw_title": "日本の乳房インプラント市場規模、シェア、成長、動向・予測：美容目的の豊胸、乳房再建、インプラント技術革新、次世代美容外 - ニコニコニュース",
-      "summary": "日本の乳房インプラント市場が成長。豊胸目的の美容施術、乳房再建、インプラント技術革新が市場拡大の要因として挙げられている。",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5neHpFVVpCSmg4eER0a1FOemxOMjgtbnhfZER4YVktM3V1VXlrUV8yd1Bmcm5BMDZCZ3F6Wm1CSEJVLXM0NndmSERTQVcxNWZnODFBOEI3UWk5VU4zSERKMUlMem9xQnJHRXZqU3g0UGxIdEMxOVZ5QV83QQ?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5neHpFVVpCSmg4eER0a1FOemxOMjgtbnhfZER4YVktM3V1VXlrUV8yd1Bmcm5BMDZCZ3F6Wm1CSEJVLXM0NndmSERTQVcxNWZnODFBOEI3UWk5VU4zSERKMUlMem9xQnJHRXZqU3g0UGxIdEMxOVZ5QV83QQ?oc=5",
-      "source_name": "ニコニコニュース",
-      "monitor_id": "bm-market-news",
+      "seed_id": "seed_c55141f9ef26",
+      "trend_term": "ヒアルロン酸注入の科学的根拠",
+      "raw_title": "【医師解説】ヒアルロン酸注入の適応とは？価格差の理由・やめると老ける疑問・施術後の注意点 - YouTube",
+      "summary": "医師がヒアルロン酸注入の適応、価格差の理由、施術後の注意点について解説。やめると老けるという疑問への医学的見解を含む。",
+      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5zZ0FybzFBN3NtS0t6UW1GLW5hcE52SjlBWmxVZUd3UkhEVXdpU3ZMVzRYNk8wU0Z4eW5Pa1Rnc2dHb25DMWsyUzFB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5zZ0FybzFBN3NtS0t6UW1GLW5hcE52SjlBWmxVZUd3UkhEVXdpU3ZMVzRYNk8wU0Z4eW5Pa1Rnc2dHb25DMWsyUzFB?oc=5",
+      "source_name": "YouTube",
+      "monitor_id": "bm-injection-trend",
       "provenance_kind": "evidence",
       "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
+      "freshness": "evergreen",
       "demand_signal": "",
       "evidence_card_id": null,
-      "valid_until": "2026-08-31T17:09:16+0900",
+      "valid_until": "2026-09-10T09:59:10+0900",
       "status": "candidate",
-      "created_at": "2026-08-26T17:09:16+0900"
+      "created_at": "2026-08-27T09:59:10+0900"
     },
     {
       "seed_id": "seed_547904c5d306",
@@ -679,6 +679,24 @@
       "created_at": "2026-08-23T12:29:53+0900"
     },
     {
+      "seed_id": "seed_1df744a027ed",
+      "trend_term": "美容医療プラットフォーム",
+      "raw_title": "【美容医療の未来】業界No1プラットフォーム「トリビュー」が拓く可能性と課題解決策（土橋克寿） - エキスパート - Yahoo!ニュース",
+      "summary": "業界No1プラットフォーム「トリビュー」が美容医療業界の課題解決に取り組む状況について、エキスパート寄稿による業界分析",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc0dvLURaanJIU3dFRHFiZWVYMXJnQWZ4OXo4Unk1cHNWLXQtU0JUdVdDY3BFVm1WTEc5TENCMVc1bU9YMVJ1azJEMDQxa21NNTNvODVuUUpfVEt4amRBMG9fcDBNWnI0b2dfclJuMElfYzVZTlh2SzNCdm9sWEFsdUhhblFaY2FY?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc0dvLURaanJIU3dFRHFiZWVYMXJnQWZ4OXo4Unk1cHNWLXQtU0JUdVdDY3BFVm1WTEc5TENCMVc1bU9YMVJ1azJEMDQxa21NNTNvODVuUUpfVEt4amRBMG9fcDBNWnI0b2dfclJuMElfYzVZTlh2SzNCdm9sWEFsdUhhblFaY2FY?oc=5",
+      "source_name": "Yahoo!ニュース",
+      "monitor_id": "bm-market-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-08-27T16:56:02+0900",
+      "status": "candidate",
+      "created_at": "2026-08-22T16:56:02+0900"
+    },
+    {
       "seed_id": "seed_f6cd2694440e",
       "trend_term": "男性向け美容医療トラブル",
       "raw_title": "美容医療トラブル、男性も　薄毛治療など苦情　国セン改善要望🔓 - WEBニッポン消費者新聞",
@@ -731,24 +749,6 @@
       "valid_until": "2026-09-05T06:51:38+0900",
       "status": "candidate",
       "created_at": "2026-08-22T06:51:38+0900"
-    },
-    {
-      "seed_id": "seed_579e12edcde1",
-      "trend_term": "美容医療×キャリア",
-      "raw_title": "ポテンツァ専属ナース「のりねぇ」が特別セミナー「美容医療×選ばれる在り方」に登壇 - PR TIMES",
-      "summary": "ポテンツァ専属ナースが美容医療と個人のキャリア形成をテーマにしたセミナーに登壇。業界人材育成の動きを反映。",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15aWhHQ1JhWUJvX3lTZVliNGd2U1p0RTY3QVJZWEowU0pKOWpfZGVXeFNXdk55ZDFwRVduSlhTaGxLUk1WeFdKUThidWpaczlHa1JELXVmT084UWVfVUZ5VV9aNFBSZkNWaGc?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15aWhHQ1JhWUJvX3lTZVliNGd2U1p0RTY3QVJZWEowU0pKOWpfZGVXeFNXdk55ZDFwRVduSlhTaGxLUk1WeFdKUThidWpaczlHa1JELXVmT084UWVfVUZ5VV9aNFBSZkNWaGc?oc=5",
-      "source_name": "PR TIMES",
-      "monitor_id": "bm-machine-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "opinion",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-27T06:51:28+0900",
-      "status": "candidate",
-      "created_at": "2026-08-22T06:51:28+0900"
     },
     {
       "seed_id": "seed_ce7dbe5397a3",
