@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T21:01:00+09:00",
+  "generated_at": "2026-08-28T03:25:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,32 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 11,
-    "passed_total": 111,
+    "neg_excluded": 14,
+    "dedup_excluded": 9,
+    "passed_total": 109,
     "b2b_category_counts": {
-      "yahoo_realtime": 30,
-      "x_realtime": 7,
+      "yahoo_realtime": 35,
+      "x_realtime": 8,
       "google_trends": 10,
-      "yahoo_news_ranking": 7,
-      "news_web": 16
+      "yahoo_news_ranking": 4,
+      "news_web": 13
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
-    "medical_science": 5,
-    "personal_story": 3,
+    "social_reaction": 35,
     "opinion": 10,
-    "policy": 3,
-    "hard_fact": 17
+    "medical_science": 4,
+    "personal_story": 1,
+    "hard_fact": 16,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "medical_science": 4,
-    "social_reaction": 27,
-    "policy": 3,
+    "medical_science": 2,
+    "social_reaction": 35,
     "opinion": 10,
-    "hard_fact": 24,
-    "personal_story": 2
+    "hard_fact": 18,
+    "personal_story": 1,
+    "policy": 4
   },
   "b2b_top10": [
     {
@@ -51,55 +51,55 @@
       "topic_category": "medical_science"
     },
     {
+      "title": "洪水被害のネパール・中国国境、地滑りで新しい「湖」形成　二次災害の恐れ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "【閲覧注意】ネパールで発生した鉄砲水の恐ろしい映像…さすがにこの高さなら大丈夫だ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "新入社員が「これ兵馬俑みたいですね」と言ったら「何それ、聞いたことない。そんなの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "山内マリコ「TSUTAYAは唯一の娯楽だった」地元・富山で映画に夢中になった青春",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "消費税減税・給付の財源、野党が法人増税を提起　自民党に同調論 - 日本経済新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "weather tomorrow",
+      "title": "李強",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "「ナウル駅」終了 SNSで突如発表",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
+      "title": "加古川 天気",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "『動物も飼ってないのに3週間ほど前から部屋にノミが繁殖していて地獄を見ている』経",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "チェルシー 対 ルートン・タウン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "北大で実験中に猛毒の『フッ化水素酸』を頭から浴びた大学院生が死亡「一滴触るだけで",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "hard_fact"
+      "title": "バルセロナ 対 ビルバオ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "槍ヶ岳",
+      "title": "ブライトン 対 トロムソ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "釧路 天気",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "茨木市",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,15 +107,15 @@
   ],
   "note_top10": [
     {
-      "title": "【閲覧注意】ネパールで発生した鉄砲水の恐ろしい映像…さすがにこの高さなら大丈夫だ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "洪水被害のネパール・中国国境、地滑りで新しい「湖」形成　二次災害の恐れ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『動物も飼ってないのに3週間ほど前から部屋にノミが繁殖していて地獄を見ている』経",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "【閲覧注意】ネパールで発生した鉄砲水の恐ろしい映像…さすがにこの高さなら大丈夫だ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -125,43 +125,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "山内マリコ「TSUTAYAは唯一の娯楽だった」地元・富山で映画に夢中になった青春",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "同僚が辞めたのだが、上司が開催した「退職しそうな彼の悩みを聞く会」という飲み会が",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "宮本佳林『アイドルがCloudflare Workers Tech Talksに",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "赤ちゃんの祖父に保育園から電話『〇〇ちゃんにお熱があり、ご両親に電話したがどちら",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「まじかるちいかわ」のモモンガをつけていたら「譲ってください」と急に言われ「何を",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "『動物も飼ってないのに3週間ほど前から部屋にノミが繁殖していて地獄を見ている』経",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "銀行を辞める前に支店長から「上には俺から報告する」とのこと…後日、人事から「年下",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "李強",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "北海道大学の敷地内でどう見てもいてはいけないエリアで草をむしゃむしゃしてる羊がい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "AIに「昔のDQやFFが1年に1本ペースで新作が出てたのはなぜ？工数が少なかった",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "Twitterの元知財担当弁護士が「Twitter. now」を立ち上げる…Tw",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「将門公の首塚」の実態はもともとは古墳時代の墓があったところに「将門公の首が埋ま",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
