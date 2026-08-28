@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-27T06:46:31+09:00",
- "valid_until": "2026-09-10T06:34:50+09:00",
+ "generated_at": "2026-08-28T16:52:31+09:00",
+ "valid_until": "2026-09-11T16:42:53+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "learn",
   "from_current": 14,
-  "from_new": 2,
-  "expired_pruned": 0,
-  "retention_dropped": 2,
+  "from_new": 1,
+  "expired_pruned": 1,
+  "retention_dropped": 0,
   "genres": 2,
   "retention_per_genre": 8
  },
@@ -258,6 +258,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "特定一般教育訓練の指定講座を公表しました（令和８年10月１日付け指定）",
+   "url": "https://www.mhlw.go.jp/stf/newpage_75309.html",
+   "summary": "厚生労働省が特定一般教育訓練の指定講座を公表（令和8年10月1日付け）。特定行為研修や介護支援専門員など計151講座を新規指定し、オンライン90講座・夜間52講座・土日52講座も拡充。教育訓練給付金の対象講座選びに直結する制度改正。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "official_instruction",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "learn-liberal",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "厚生労働省",
+    "expert_origin": true,
+    "search_query": "教育訓練給付金 拡充 2026年10月 教養 講座 対象 施行",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-11T16:42:53+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "放送大学 教育訓練給付制度の利用について（教養学部）",
    "url": "https://www.ouj.ac.jp/admission/gakubu/training-education-benefits/",
    "summary": "放送大学教養学部は「教育訓練給付制度厚生労働大臣指定講座」実施校。選科履修生・科目履修生が対象講座を受講すると入学料・授業料の20%（上限10万円）をハローワークから受給可能。2026年10月開始の指定期間の講座情報を公式ページで確認できる。",
@@ -404,36 +434,6 @@
     "rescued": false
    },
    "valid_until": "2026-08-30T16:44:12+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "歴史の勉強法ついて質問です。25歳、今さら歴史に興味が湧き1から学び直したい",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11293469671",
-   "summary": "25歳の質問者が「今さら」歴史を1から学び直したいが何から手をつければいいか分からず質問。大人が独学で歴史・教養を学び直す際に感じる「遅すぎるのでは」という心理的ハードルと、体系的な入口の分からなさが生ペインとして表出している。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "learn-liberal",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "終戦記念日 歴史 学び直し 大人 何から 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-28T16:45:58+09:00",
    "validity_days": 14
   }
  ]
