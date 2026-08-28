@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T14:36:00+09:00",
+  "generated_at": "2026-08-28T22:21:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,51 +16,51 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
-    "dedup_excluded": 9,
-    "passed_total": 112,
+    "neg_excluded": 9,
+    "dedup_excluded": 12,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "news_web": 17,
-      "yahoo_realtime": 33,
+      "yahoo_realtime": 38,
+      "x_realtime": 6,
       "google_trends": 10,
-      "yahoo_news_ranking": 3,
-      "x_realtime": 7
+      "news_web": 15,
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 27,
+    "social_reaction": 30,
+    "personal_story": 4,
+    "medical_science": 3,
     "opinion": 10,
-    "medical_science": 4,
-    "personal_story": 3,
-    "hard_fact": 19,
-    "policy": 7
+    "hard_fact": 18,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 22,
-    "policy": 7,
+    "social_reaction": 30,
+    "medical_science": 2,
     "opinion": 10,
-    "medical_science": 3,
-    "social_reaction": 26,
-    "personal_story": 2
+    "hard_fact": 19,
+    "personal_story": 4,
+    "policy": 5
   },
   "b2b_top10": [
     {
-      "title": "ダイヤモンド紙版終了へ 戦略は",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "高市早苗首相、側近も止められない「SNS長文投稿」の孤独　炎上しても熊本地震以降",
+      "title": "「外国人ってだけで人格を否定」ロシア出身声優、更新料値上げへの訴えに大量ヘイト（",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "女子バレーボールアジア選手権",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "「今手持ち」ネタバレ厳禁がお願いされてる劇場版「まどマギ」だが「来場者特典の色紙",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "はてなアルファベッツ！全選手入場！ - orangestar2",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "若い世代を呼び込みたい地方自治体がアピールすべきことは",
@@ -69,37 +69,37 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "生ごみ処理機、信じてるからな→すごおおお！！信じてよかった、もしかしてこれ魚粉っ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「高市首相の答弁変わらぬ限り、政策変えぬ」　中国側が訪中団に伝達 | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "インフルエンザ 流行",
+      "title": "佐野勇斗",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ネパール せき止め湖が決壊の危険",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_world",
-      "topic_category": "hard_fact"
+      "title": "スズキ アルト",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "夕飯に招いてくれた友達が電話で「今から犬を迎えにやる」と言うので、冗談だろと思っ",
+      "title": "東野圭吾",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ネパールの大洪水で巨岩が転がる映像が「世界各地に言い伝えられる大水に流された巨岩",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "川井梨紗子",
+      "title": "ヤン・ディオマンデ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "荻原 博子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
-      "title": "生ごみ処理機、信じてるからな→すごおおお！！信じてよかった、もしかしてこれ魚粉っ",
+      "title": "「外国人ってだけで人格を否定」ロシア出身声優、更新料値上げへの訴えに大量ヘイト（",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "夕飯に招いてくれた友達が電話で「今から犬を迎えにやる」と言うので、冗談だろと思っ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "信号機をかぶろう　光って赤青の切り替えもできる信号機のかぶりもの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "昔から龍角散を愛用しているのだが、アメリカ留学でお世話になった新聞社で取材を受け",
+      "title": "「今手持ち」ネタバレ厳禁がお願いされてる劇場版「まどマギ」だが「来場者特典の色紙",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "今の日本は明治時代に回帰しようとしてる！ 実際皇室典範改正したり国旗損..",
+      "title": "はてなアルファベッツ！全選手入場！ - orangestar2",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "PLAYTECH PEP-4 レビュー｜話題のシングルサイズハムバッカーの音質を",
+      "title": "ネパールの大洪水で巨岩が転がる映像が「世界各地に言い伝えられる大水に流された巨岩",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "女子バレーボールアジア選手権",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "若い世代を呼び込みたい地方自治体がアピールすべきことは",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "ネパール・中国の国境施設、洪水で跡形もなく消失　航空写真が前後の様子を捉える",
+      "title": "「あつまれNISA貧乏バー」で語られる “極限生活”の実態…「満額埋めるため彼女",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "家でソフトクリーム作れる家電が楽しい! コーヒーフロートがお気に入り【家電レビュ",
+      "title": "「クールジャパン失敗おじさんのせいで何十億円もの税金がドブに捨てられた」というが",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "子供の嗜好品は一切買わず、年一回の海外旅行以外は貯蓄みたいな生活だったが、兄弟全",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "はてな匿名ダイアリーに投稿された『りくりゅう叩きしている女の心理を当事者が解説し",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ネパール洪水は「終わり」ではない、科学は次を予測できるのか",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "夏にぴったりの頭皮スクラブ ハローキティデザインがかわいい｜編集部の買ってよかっ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
