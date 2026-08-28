@@ -2,16 +2,70 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-28T03:23:10+0900",
+    "generated_at": "2026-08-28T14:33:37+0900",
     "record_count": 43,
-    "source_total_in_db": 942,
+    "source_total_in_db": 945,
     "provenance_breakdown": {
-      "evidence": 604,
+      "evidence": 607,
       "pain_seed": 338
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_e8bfaedc91d5",
+      "trend_term": "自家培養線維芽細胞提供開始",
+      "raw_title": "医療法人社団青翠会 武蔵野皮フ科クリニックと提携。皮膚再生治療（肌の再生医療）に用いる自家培養真皮線維芽細胞の提供開始 - ニコニコニュース",
+      "summary": "医療法人社団青翠会武蔵野皮フ科クリニックと提携し、皮膚再生治療に用いる自家培養真皮線維芽細胞の提供を開始した。",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Xb1pGMXd1Uk0ycFpJWlFnLU5TQTFmY1NOQXEtT1kxekVnNFlLUTdzd0l2dnYzMW5mWFN0T3Y4dE0wLXhsQmFVTVIyMWJ6RVlvWHlEdlp5NG1wMmJXSUlTRXBfdkg2cmIt?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Xb1pGMXd1Uk0ycFpJWlFnLU5TQTFmY1NOQXEtT1kxekVnNFlLUTdzd0l2dnYzMW5mWFN0T3Y4dE0wLXhsQmFVTVIyMWJ6RVlvWHlEdlp5NG1wMmJXSUlTRXBfdkg2cmIt?oc=5",
+      "source_name": "ニコニコニュース",
+      "monitor_id": "bm-regen-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-09-02T14:33:24+0900",
+      "status": "candidate",
+      "created_at": "2026-08-28T14:33:24+0900"
+    },
+    {
+      "seed_id": "seed_6e9648196ecf",
+      "trend_term": "美容針×ゲルシート",
+      "raw_title": "スキンケアブランド「RISM（リズム）」より、美容針※1×高密着ゲルシート×クリア※2設計でくすみ※3ケアに特化した部分用パック「ピコレーザー ニードルスポットパック WH」新発売 - Infoseek",
+      "summary": "スキンケアブランドRISMが美容針を用いた部分用パック「ピコレーザー ニードルスポットパック WH」を新発売。くすみケアに特化した製品。",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oTTNldnJyakhNa0c1NERpanRDNThSRWl3ZG5oOGpRYl9yV3Y5NzRjRDlXaVhUVVFZcTdId3FBYjZSelFHc2JCWEFVN1JtQVdVdUhtM2NZbEJ6eU1STXQtc1JMVUczZjNDaS02XzFQY3gzUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oTTNldnJyakhNa0c1NERpanRDNThSRWl3ZG5oOGpRYl9yV3Y5NzRjRDlXaVhUVVFZcTdId3FBYjZSelFHc2JCWEFVN1JtQVdVdUhtM2NZbEJ6eU1STXQtc1JMVUczZjNDaS02XzFQY3gzUQ?oc=5",
+      "source_name": "Infoseek",
+      "monitor_id": "bm-machine-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-09-02T14:33:19+0900",
+      "status": "candidate",
+      "created_at": "2026-08-28T14:33:19+0900"
+    },
+    {
+      "seed_id": "seed_e35bf5119aab",
+      "trend_term": "韓国発スキンブースター",
+      "raw_title": "ベンスクリニック横浜、韓国で話題の次世代型スキンブースター【ティシボ】開始 - PR TIMES",
+      "summary": "ベンスクリニック横浜が韓国で話題の次世代型スキンブースター『ティシボ』の施術開始。新技術導入のニュース。",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WUnRrQS13OElqLXc2b1ZwcHFQNGk2Q1JvYUJ0QmlETEhkWWI2VFlqZElVRzd0cWlWeURQM2FlaW44MXBzS0s0SzFnajRUZUhGZmE1Qm1PWkROSmZIR1RIN29LTGRPOS0wUWc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WUnRrQS13OElqLXc2b1ZwcHFQNGk2Q1JvYUJ0QmlETEhkWWI2VFlqZElVRzd0cWlWeURQM2FlaW44MXBzS0s0SzFnajRUZUhGZmE1Qm1PWkROSmZIR1RIN29LTGRPOS0wUWc?oc=5",
+      "source_name": "PR TIMES",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-09-02T14:33:14+0900",
+      "status": "candidate",
+      "created_at": "2026-08-28T14:33:14+0900"
+    },
     {
       "seed_id": "seed_3420ca618109",
       "trend_term": "医療美容市場予測2026-2032",
@@ -607,24 +661,6 @@
       "created_at": "2026-08-25T12:26:19+0900"
     },
     {
-      "seed_id": "seed_1196f9d67f87",
-      "trend_term": "エクソソーム研究動向",
-      "raw_title": "RMDC、東京医科大学 落谷 孝広教授 エクソソーム講演会が大盛況！ | パス株式会社のプレスリリース - PR TIMES",
-      "summary": "東京医科大学の落谷孝広教授によるエクソソーム講演会が開催され、再生医療分野での研究動向が発信されている。",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1udHpMdmQ5enVjNWlyUlZDR205TVJkZFNYZHVaLUdnSWlmUnRsX1lnODVCQlhROEF3UlhxSWlDQW9vVnY4RVN0VUxONFo2MUFyM2NBVWtqMEp4ckN1QzBaSS1PeXBWRzhzR3c?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1udHpMdmQ5enVjNWlyUlZDR205TVJkZFNYZHVaLUdnSWlmUnRsX1lnODVCQlhROEF3UlhxSWlDQW9vVnY4RVN0VUxONFo2MUFyM2NBVWtqMEp4ckN1QzBaSS1PeXBWRzhzR3c?oc=5",
-      "source_name": "PR TIMES",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-29T12:31:36+0900",
-      "status": "candidate",
-      "created_at": "2026-08-24T12:31:36+0900"
-    },
-    {
       "seed_id": "seed_989bec157523",
       "trend_term": "注入治療×コスメ連携",
       "raw_title": "【エテルナム】「施術の先にある美」まで考える。注入治療×美容医療コスメの新たな可能性を提案する「MIXTURE - ニコニコニュース",
@@ -697,24 +733,6 @@
       "created_at": "2026-08-23T16:57:41+0900"
     },
     {
-      "seed_id": "seed_81deab6a7e3a",
-      "trend_term": "小学生美容整形と親の価値観",
-      "raw_title": "「誕プレで二重に」小学生の美容整形を称賛する“ルッキズムの暴走” “麻痺する親の価値観” - Infoseek",
-      "summary": "小学生への美容整形を称賛する風潮とルッキズムの社会的影響、親の価値観の変化に関する記事",
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CM0hDSzF3dWx2aWEtYWExbDQ3aTBYZXZDd3BmUmdtRGRNdlA1MVJ4SVpzRDJxdWRyT2ViaVpDMVMwLURMNzQ4MzdmRVUzcTFJTVlSaWJKVEsydlJFUXJfMjdoSk9uT1BnbGJZ0gFrQVVfeXFMTUIzSENLMXd1bHZpYS1hYTFsNDdpMFhldkN3cGZSZ21EZE12UDUxUnhJWnNEMnF1ZHJPZWJpWkMxUzAtREw3NDgzN2ZFVTNxMUlNWVJpYkpUSzJ2UkVRcl8yN2hKT25PUGdsYlk?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CM0hDSzF3dWx2aWEtYWExbDQ3aTBYZXZDd3BmUmdtRGRNdlA1MVJ4SVpzRDJxdWRyT2ViaVpDMVMwLURMNzQ4MzdmRVUzcTFJTVlSaWJKVEsydlJFUXJfMjdoSk9uT1BnbGJZ0gFrQVVfeXFMTUIzSENLMXd1bHZpYS1hYTFsNDdpMFhldkN3cGZSZ21EZE12UDUxUnhJWnNEMnF1ZHJPZWJpWkMxUzAtREw3NDgzN2ZFVTNxMUlNWVJpYkpUSzJ2UkVRcl8yN2hKT25PUGdsYlk?oc=5",
-      "source_name": "Infoseek",
-      "monitor_id": "bm-sns-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "opinion",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-28T12:29:53+0900",
-      "status": "candidate",
-      "created_at": "2026-08-23T12:29:53+0900"
-    },
-    {
       "seed_id": "seed_c7640ce7410c",
       "trend_term": "鼻整形の後遺症リスク",
       "raw_title": "悲惨な鼻の後遺症 - 札幌美容形成外科",
@@ -767,24 +785,6 @@
       "valid_until": "2026-09-03T06:52:03+0900",
       "status": "candidate",
       "created_at": "2026-08-20T06:52:03+0900"
-    },
-    {
-      "seed_id": "seed_07b1db0a22dc",
-      "trend_term": "ボトックス失敗事例",
-      "raw_title": "「本当に恥ずかしい」ブリトニー・スピアーズ、ボトックス失敗を告白 「自分の体を大切に」ファンに警鐘 - au Webポータル",
-      "summary": "有名人がボトックス施術の失敗経験を公開。施術のリスクと慎重な検討の必要性に関する読者の不安を喚起する事例",
-      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZRjlLRVlSaHhqdlhzRFdEeDNkaXFXdk02cGxkcWl1NVNQLXNtZmd5SWNmOWhCZUE5ZzhtX1B2M3RoSU95NVlRVjJPUjhWY3JNaENNR2FnUnIxSkRSbjVZdWVEdnlVQUh0UnNzZTh3?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZRjlLRVlSaHhqdlhzRFdEeDNkaXFXdk02cGxkcWl1NVNQLXNtZmd5SWNmOWhCZUE5ZzhtX1B2M3RoSU95NVlRVjJPUjhWY3JNaENNR2FnUnIxSkRSbjVZdWVEdnlVQUh0UnNzZTh3?oc=5",
-      "source_name": "au Webポータル",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-02T17:04:08+0900",
-      "status": "candidate",
-      "created_at": "2026-08-19T17:04:08+0900"
     }
   ]
 }
