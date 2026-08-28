@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T07:38:00+09:00",
+  "generated_at": "2026-08-28T14:36:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,64 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 15,
-    "dedup_excluded": 8,
-    "passed_total": 109,
+    "neg_excluded": 11,
+    "dedup_excluded": 9,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
+      "news_web": 17,
+      "yahoo_realtime": 33,
       "google_trends": 10,
-      "x_realtime": 9,
-      "yahoo_news_ranking": 5,
-      "news_web": 12
+      "yahoo_news_ranking": 3,
+      "x_realtime": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "personal_story": 1,
-    "medical_science": 4,
+    "social_reaction": 27,
     "opinion": 10,
-    "hard_fact": 22,
-    "policy": 4
+    "medical_science": 4,
+    "personal_story": 3,
+    "hard_fact": 19,
+    "policy": 7
   },
   "b2b_topic_category_counts": {
-    "policy": 4,
-    "social_reaction": 29,
-    "medical_science": 3,
-    "hard_fact": 23,
+    "hard_fact": 22,
+    "policy": 7,
     "opinion": 10,
-    "personal_story": 1
+    "medical_science": 3,
+    "social_reaction": 26,
+    "personal_story": 2
   },
   "b2b_top10": [
+    {
+      "title": "ダイヤモンド紙版終了へ 戦略は",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "高市早苗首相、側近も止められない「SNS長文投稿」の孤独　炎上しても熊本地震以降",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "女子バレーボールアジア選手権",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "若い世代を呼び込みたい地方自治体がアピールすべきことは",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "生ごみ処理機、信じてるからな→すごおおお！！信じてよかった、もしかしてこれ魚粉っ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "「高市首相の答弁変わらぬ限り、政策変えぬ」　中国側が訪中団に伝達 | 毎日新聞",
       "source_category": "yahoo_realtime",
@@ -51,55 +81,25 @@
       "topic_category": "policy"
     },
     {
-      "title": "洪水被害のネパール・中国国境、地滑りで新しい「湖」形成　二次災害の恐れ",
+      "title": "インフルエンザ 流行",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ネパール せき止め湖が決壊の危険",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_world",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "夕飯に招いてくれた友達が電話で「今から犬を迎えにやる」と言うので、冗談だろと思っ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【速報】週刊ダイヤモンド、紙での発行終了へ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "メタがSNS「中毒」訴訟で和解　米州側に最大2.8兆円支払い - 日本経済新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ヤンキース 対 アストロズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "島袋将",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "遅延",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "中島佑気ジョセフ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "北海道マラソン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "アトランタ・ブレーブス",
+      "title": "川井梨紗子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +107,64 @@
   ],
   "note_top10": [
     {
-      "title": "洪水被害のネパール・中国国境、地滑りで新しい「湖」形成　二次災害の恐れ",
+      "title": "生ごみ処理機、信じてるからな→すごおおお！！信じてよかった、もしかしてこれ魚粉っ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ビジネスシーンで使えるイメージがまったくつかない「機動文具 自動変形名刺ケース」",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "新入社員が「これ兵馬俑みたいですね」と言ったら「何それ、聞いたことない。そんなの",
+      "title": "夕飯に招いてくれた友達が電話で「今から犬を迎えにやる」と言うので、冗談だろと思っ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "トイレで大人向け動画を見ていたら突然音が消えたので不思議に思って音量ボタンをどん",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ドパ麺。ご高齢者即死麺。塩害。瀬戸内海濃縮還元。塩分ベンチマーク。製造工程に海",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「だが、食べるのだ」深夜の時間帯に食べたものは日中の20倍脂肪になりやすい説があ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「3人とも行きたい方向が違ってもめました」まさに方向性の違いでてんやわんやになっ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "納豆３個パックの外装をいつ捨てるか - 暮らし",
+      "title": "信号機をかぶろう　光って赤青の切り替えもできる信号機のかぶりもの",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "りくりゅう叩きしている女の心理を当事者が解説します",
+      "title": "昔から龍角散を愛用しているのだが、アメリカ留学でお世話になった新聞社で取材を受け",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "今の日本は明治時代に回帰しようとしてる！ 実際皇室典範改正したり国旗損..",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "PLAYTECH PEP-4 レビュー｜話題のシングルサイズハムバッカーの音質を",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "女子バレーボールアジア選手権",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "若い世代を呼び込みたい地方自治体がアピールすべきことは",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "ネパール・中国の国境施設、洪水で跡形もなく消失　航空写真が前後の様子を捉える",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "家でソフトクリーム作れる家電が楽しい! コーヒーフロートがお気に入り【家電レビュ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
-    },
-    {
-      "title": "エホバの証人信者5人が沖縄県を提訴「診療拒否は違憲」　1674万円の損害賠償など",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
     }
   ]
 }
