@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T04:36:00+09:00",
+  "generated_at": "2026-08-29T07:44:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 9,
-    "passed_total": 115,
+    "neg_excluded": 6,
+    "dedup_excluded": 12,
+    "passed_total": 114,
     "b2b_category_counts": {
       "yahoo_realtime": 38,
       "google_trends": 10,
-      "x_realtime": 9,
+      "x_realtime": 7,
       "news_web": 12,
-      "yahoo_news_ranking": 1
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "opinion": 10,
+    "social_reaction": 32,
     "personal_story": 3,
+    "opinion": 10,
     "medical_science": 5,
-    "hard_fact": 16,
-    "policy": 3
+    "hard_fact": 18,
+    "policy": 2
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
+    "social_reaction": 32,
     "opinion": 10,
-    "hard_fact": 17,
+    "hard_fact": 19,
     "medical_science": 4,
-    "policy": 3,
+    "policy": 2,
     "personal_story": 3
   },
   "b2b_top10": [
+    {
+      "title": "中学生の頃にやたら口うるさい教師がいたが他校のヤンキーにも同じように注意をしてい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "まどマギの新作映画が期待外れだった｜藤",
       "source_category": "yahoo_realtime",
@@ -57,49 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "はてなアルファベッツ！全選手入場！ - orangestar2",
+      "title": "「日本語がまったく話せない状態で日本旅行ってどれくらいヤバいの？」外国人の問いか",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "マンチェスターシティ",
+      "title": "24時間テレビ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ホロライブ",
+      "title": "弁護士生活14年目にして、判決文の主文『無罪』を初めて見た「すげえリアルであり得",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ガーディアンズ 対 ロイヤルズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "palace vs man city",
+      "title": "uniqlo",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "クリスタル・パレス 対 マンc",
+      "title": "ダム貯水率",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "リール 対 パリsg",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "カブス 対 レッズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "バイエルン 対 シュトゥットガルト",
+      "title": "メッツ 対 アストロズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,6 +107,12 @@
   ],
   "note_top10": [
     {
+      "title": "中学生の頃にやたら口うるさい教師がいたが他校のヤンキーにも同じように注意をしてい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "まどマギの新作映画が期待外れだった｜藤",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
@@ -119,13 +125,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "はてなアルファベッツ！全選手入場！ - orangestar2",
+      "title": "「日本語がまったく話せない状態で日本旅行ってどれくらいヤバいの？」外国人の問いか",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "友達「結婚しました！！！」 友達「子供産まれました！！！」 友達「昇進しました！",
+      "title": "弁護士生活14年目にして、判決文の主文『無罪』を初めて見た「すげえリアルであり得",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中道改革連合は分裂の公算、公明出身議員が離脱検討…立民は党首会談で合流しない方針",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "大学受験で使う調査書は開封厳禁だが、中には本人が開けなかったのに祖父が開けてしま",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ニンテンドー3DS限定品、店頭で1万3千円ぐらいなのに、ネットで29万ぐらいで売",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -137,31 +161,7 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「クールジャパン失敗おじさんのせいで何十億円もの税金がドブに捨てられた」というが",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ある日父が突然「プレゼント」と言ってシールがたくさん貼ってあるシール帳をくれて、",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ニンゲンの欲の対象を禁止すると犯罪組織のビッグなシノギが生まれる」を理解できな",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「日本語がまったく話せない状態で日本旅行ってどれくらいヤバいの？」外国人の問いか",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「1位は中国ではなかった」東京の新築マンション、国外購入者の6割超を占めた“意外",
+      "title": "MADE IN YAMATO - 第１４話　筋肉の女神、白寺まりあ | ヤンマガ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
