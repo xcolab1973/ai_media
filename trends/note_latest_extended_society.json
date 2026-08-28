@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-08-28T16:52:32+09:00",
+ "generated_at": "2026-08-29T07:06:15+09:00",
  "valid_until": "2026-09-10T16:50:59+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "society",
- "total_count": 30,
+ "total_count": 31,
  "merge": {
   "parent": "society",
-  "from_current": 35,
-  "from_new": 3,
-  "expired_pruned": 8,
+  "from_current": 30,
+  "from_new": 1,
+  "expired_pruned": 0,
   "retention_dropped": 0,
   "genres": 6,
   "retention_per_genre": 8
@@ -134,6 +134,36 @@
     "rescued": false
    },
    "valid_until": "2026-08-31T06:46:58+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "日本：育成就労制度の施行に伴う外国人受入れ実務の影響と対応策",
+   "url": "https://oneasia.legal/17560",
+   "summary": "育成就労制度では条件を満たせば自己都合転籍が可能になり、賃金水準や労働環境次第で1〜2年での転籍が生じ得る。都市部の転籍者比率を6分の1以下に制限するなど地方への人材流出を防ぐ手立ても講じられている。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "society-global",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "One Asia Lawyers",
+    "expert_origin": true,
+    "search_query": "外国人材 転籍 育成就労制度 地域 トラブル 懸念 人手不足",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-03T06:59:55+09:00",
    "validity_days": 5
   },
   {
