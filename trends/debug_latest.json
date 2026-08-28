@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T22:21:00+09:00",
+  "generated_at": "2026-08-29T04:36:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,44 +16,44 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 12,
-    "passed_total": 111,
+    "neg_excluded": 8,
+    "dedup_excluded": 9,
+    "passed_total": 115,
     "b2b_category_counts": {
       "yahoo_realtime": 38,
-      "x_realtime": 6,
       "google_trends": 10,
-      "news_web": 15,
+      "x_realtime": 9,
+      "news_web": 12,
       "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "personal_story": 4,
-    "medical_science": 3,
+    "social_reaction": 33,
     "opinion": 10,
-    "hard_fact": 18,
-    "policy": 5
+    "personal_story": 3,
+    "medical_science": 5,
+    "hard_fact": 16,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
-    "medical_science": 2,
+    "social_reaction": 33,
     "opinion": 10,
-    "hard_fact": 19,
-    "personal_story": 4,
-    "policy": 5
+    "hard_fact": 17,
+    "medical_science": 4,
+    "policy": 3,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "「外国人ってだけで人格を否定」ロシア出身声優、更新料値上げへの訴えに大量ヘイト（",
+      "title": "まどマギの新作映画が期待外れだった｜藤",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「今手持ち」ネタバレ厳禁がお願いされてる劇場版「まどマギ」だが「来場者特典の色紙",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「外国人ってだけで人格を否定」ロシア出身声優、更新料値上げへの訴えに大量ヘイト（",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -63,43 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "若い世代を呼び込みたい地方自治体がアピールすべきことは",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "佐野勇斗",
+      "title": "マンチェスターシティ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "スズキ アルト",
+      "title": "ホロライブ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "東野圭吾",
+      "title": "palace vs man city",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ネパールの大洪水で巨岩が転がる映像が「世界各地に言い伝えられる大水に流された巨岩",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ヤン・ディオマンデ",
+      "title": "クリスタル・パレス 対 マンc",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "荻原 博子",
+      "title": "リール 対 パリsg",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "カブス 対 レッズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "バイエルン 対 シュトゥットガルト",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,15 +107,15 @@
   ],
   "note_top10": [
     {
-      "title": "「外国人ってだけで人格を否定」ロシア出身声優、更新料値上げへの訴えに大量ヘイト（",
+      "title": "まどマギの新作映画が期待外れだった｜藤",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「今手持ち」ネタバレ厳禁がお願いされてる劇場版「まどマギ」だが「来場者特典の色紙",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「外国人ってだけで人格を否定」ロシア出身声優、更新料値上げへの訴えに大量ヘイト（",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -125,46 +125,46 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ネパールの大洪水で巨岩が転がる映像が「世界各地に言い伝えられる大水に流された巨岩",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "友達「結婚しました！！！」 友達「子供産まれました！！！」 友達「昇進しました！",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「あつまれNISA貧乏バー」で語られる “極限生活”の実態…「満額埋めるため彼女",
+      "title": "心に男性器生えてる増田へ。 おもろお読みました。けどな。 承認欲求と情緒..",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "「クールジャパン失敗おじさんのせいで何十億円もの税金がドブに捨てられた」というが",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ある日父が突然「プレゼント」と言ってシールがたくさん貼ってあるシール帳をくれて、",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "子供の嗜好品は一切買わず、年一回の海外旅行以外は貯蓄みたいな生活だったが、兄弟全",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「ニンゲンの欲の対象を禁止すると犯罪組織のビッグなシノギが生まれる」を理解できな",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "はてな匿名ダイアリーに投稿された『りくりゅう叩きしている女の心理を当事者が解説し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「日本語がまったく話せない状態で日本旅行ってどれくらいヤバいの？」外国人の問いか",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ネパール洪水は「終わり」ではない、科学は次を予測できるのか",
+      "title": "「1位は中国ではなかった」東京の新築マンション、国外購入者の6割超を占めた“意外",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "夏にぴったりの頭皮スクラブ ハローキティデザインがかわいい｜編集部の買ってよかっ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
     }
   ]
 }
