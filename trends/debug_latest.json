@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T01:53:00+09:00",
+  "generated_at": "2026-08-30T08:34:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,51 +16,37 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
+    "neg_excluded": 8,
     "dedup_excluded": 11,
-    "passed_total": 114,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "x_realtime": 9,
+      "news_web": 18,
       "yahoo_realtime": 33,
+      "x_realtime": 8,
       "google_trends": 10,
-      "yahoo_news_ranking": 1,
-      "news_web": 17
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
+    "social_reaction": 30,
     "medical_science": 3,
     "opinion": 9,
-    "personal_story": 1,
-    "hard_fact": 22,
-    "policy": 3
+    "policy": 7,
+    "hard_fact": 21
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 32,
-    "medical_science": 3,
+    "policy": 7,
+    "social_reaction": 30,
+    "hard_fact": 21,
     "opinion": 9,
-    "hard_fact": 22,
-    "policy": 3,
-    "personal_story": 1
+    "medical_science": 3
   },
   "b2b_top10": [
     {
-      "title": "【ネタバレ・微グロ注意】メイドインアビスの公式サイトに仕掛けられた演出が怖すぎる",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "麻布十番納涼まつりで発生した集団食中毒に港区長が声明を発表→食中毒と思われる症状",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "「お腹がブレイキングダウン」麻布十番祭り、食中毒の報告が76人にまで達する中、疑",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "福岡県 県議の任意団体に補助金",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_local",
+      "topic_category": "policy"
     },
     {
       "title": "実は｢短パン｣より女性からの評判が悪い…一発で｢痛いおじさん｣と思われてしまうユ",
@@ -69,51 +55,57 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "あらゆる男性が加害者として悪魔化される小説「世界99」",
+      "title": "【注意喚起】イラスト・漫画分野で「すぐ楽に稼げる」で誘って情報商材詐欺や悪質な勧",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「モラルがない」寝台特急サンライズで“転売ヤー”に異例の警告　カードが7倍超、J",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中世から近世へ：史実での「冒険者たち」や「ギルド」をイメージする｜rain-bo",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ソシエダ 対 エスパニョール",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "守田英正",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "地震 今",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
+      "title": "大雨で浸水リスク 車移動は危険",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
+    },
+    {
+      "title": "病院の開院前に到着、待っていたら50代男性から「どこから入るんでしょうか？」と言",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "娘を連れて中華街の北京ダックの食べ放題店に行ったら、全くおかわりが運ばれてこなく",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "高市首相",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "policy"
+    },
+    {
+      "title": "オズワルド",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "映画.com",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "フィジカルai",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "【ネタバレ・微グロ注意】メイドインアビスの公式サイトに仕掛けられた演出が怖すぎる",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「お腹がブレイキングダウン」麻布十番祭り、食中毒の報告が76人にまで達する中、疑",
+      "title": "娘を連れて中華街の北京ダックの食べ放題店に行ったら、全くおかわりが運ばれてこなく",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -125,37 +117,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "あらゆる男性が加害者として悪魔化される小説「世界99」",
+      "title": "【注意喚起】イラスト・漫画分野で「すぐ楽に稼げる」で誘って情報商材詐欺や悪質な勧",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「モラルがない」寝台特急サンライズで“転売ヤー”に異例の警告　カードが7倍超、J",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "病院の開院前に到着、待っていたら50代男性から「どこから入るんでしょうか？」と言",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "中世から近世へ：史実での「冒険者たち」や「ギルド」をイメージする｜rain-bo",
+      "title": "「精神疾患は甘え」と言う人はいるが、精神病院の閉鎖病棟に関する壮絶な話を聞くと、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "「いやだー！ ガストがいい！！」と喚いていたガスト大好きの娘、ビッグボーイに入店",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ガンダム」完全新作アクションゲームの機体のデザインも動きも何もかもがガンダムじ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "金ロー「8番出口」オンエアをしてから\"怒鳴る男\"を演じた大塚ヒロタ氏の迫真の演技",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "築7年、ベッドしか置いていなかった6畳の寝室の一角を、ニトリのNポルダで仕切って",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "麻布十番納涼まつりで発生した集団食中毒に港区長が声明を発表→食中毒と思われる症状",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "維新、福岡県議選20人擁立へ　吉村氏「議会を総入れ替え」 | NEWSjp",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
