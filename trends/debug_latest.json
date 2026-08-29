@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T12:22:00+09:00",
+  "generated_at": "2026-08-29T17:18:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,86 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 7,
-    "passed_total": 113,
+    "neg_excluded": 8,
+    "dedup_excluded": 10,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
-      "yahoo_news_ranking": 1,
-      "google_trends": 10,
+      "yahoo_realtime": 36,
       "x_realtime": 8,
-      "news_web": 14
+      "google_trends": 10,
+      "yahoo_news_ranking": 3,
+      "news_web": 13
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
-    "personal_story": 2,
-    "opinion": 10,
-    "medical_science": 7,
-    "hard_fact": 15,
-    "policy": 1
+    "social_reaction": 38,
+    "opinion": 9,
+    "hard_fact": 21,
+    "policy": 2
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 35,
-    "hard_fact": 16,
-    "opinion": 10,
-    "medical_science": 5,
-    "policy": 2,
-    "personal_story": 2
+    "social_reaction": 38,
+    "opinion": 9,
+    "hard_fact": 21,
+    "policy": 2
   },
   "b2b_top10": [
     {
-      "title": "中学生の頃にやたら口うるさい教師がいたが他校のヤンキーにも同じように注意をしてい",
+      "title": "あらゆる男性が加害者として悪魔化される小説「世界99」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "プロテインの値上げ続く 需要拡大",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
+      "title": "下のテナントから「物音がうるさい」と注意を受けたので、実際どう音が聞こえるのか確",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中世から近世へ：史実での「冒険者たち」や「ギルド」をイメージする｜rain-bo",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「モラルがない」寝台特急サンライズで“転売ヤー”に異例の警告　カードが7倍超、J",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「襲撃者は人間じゃない」証言できないように目を潰す、濃硫酸をかける、仲間が警官を",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "狩野 英孝",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "知り合いが「全館空調よさそう」って言うたびに「生命維持装置をRAID0にするよう",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "日ハム速報",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
       "topic_category": "hard_fact"
     },
     {
-      "title": "まどマギの新作映画が期待外れだった｜藤",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "クレーンゲームで4000円近く使っていた時、後ろにいた親子に2回だけでいいので代",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "落馬",
+      "title": "上林誠知",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "supreme",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "菅野智之",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "マクドナルド メニュー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "アルバイトの時、お婆さんが店内のビールの缶を落として中身が吹き出し、「購入するか",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "軟式高校野球 全国大会",
+      "title": "日ハム 試合 今日",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +103,61 @@
   ],
   "note_top10": [
     {
-      "title": "中学生の頃にやたら口うるさい教師がいたが他校のヤンキーにも同じように注意をしてい",
+      "title": "あらゆる男性が加害者として悪魔化される小説「世界99」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "まどマギの新作映画が期待外れだった｜藤",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "クレーンゲームで4000円近く使っていた時、後ろにいた親子に2回だけでいいので代",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "アルバイトの時、お婆さんが店内のビールの缶を落として中身が吹き出し、「購入するか",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "西洋風ファンタジー世界にジャガイモやトマトがあっても別に構わないけど、これが出る",
+      "title": "下のテナントから「物音がうるさい」と注意を受けたので、実際どう音が聞こえるのか確",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "近所のドンキマジでふざけんなよ「これなんて書いてるんですかってわざわざ聞くクソ客",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "冷凍エビってどう調理しても食感が「メソ…」か「ｷﾞｭ💢」にしかならない…美味しい",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ヘアミルクって本当に意味あるんかなって思いながらも毎回塗ってる「私の死んでる髪は",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "MADE IN YAMATO - 第１４話　筋肉の女神、白寺まりあ | ヤンマガ",
+      "title": "中世から近世へ：史実での「冒険者たち」や「ギルド」をイメージする｜rain-bo",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "軽くて丈夫「レッツノート」３０年…パナソニック、米中が存在感示すPC市場で秋にも",
+      "title": "「モラルがない」寝台特急サンライズで“転売ヤー”に異例の警告　カードが7倍超、J",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "知り合いが「全館空調よさそう」って言うたびに「生命維持装置をRAID0にするよう",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「襲撃者は人間じゃない」証言できないように目を潰す、濃硫酸をかける、仲間が警官を",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "NHK大河ドラマ、竹田市など「史実尊重を」　「豊臣兄弟！」中川清秀描写で申し入れ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『ハコヅメ』作者が描くマンガ、「シスターがドスケベだと嬉しい！」という概念が江戸",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "超絶ブラックな訪問販売系の会社にいたとき、雨の夜道で後輩が「俺ドリフトできるんで",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "江戸時代の経路検索",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
