@@ -1,21 +1,51 @@
 {
- "generated_at": "2026-08-29T16:52:06+09:00",
+ "generated_at": "2026-08-30T06:45:06+09:00",
  "valid_until": "2026-09-12T16:50:32+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "society",
- "total_count": 36,
+ "total_count": 37,
  "merge": {
   "parent": "society",
-  "from_current": 31,
-  "from_new": 5,
-  "expired_pruned": 0,
+  "from_current": 36,
+  "from_new": 2,
+  "expired_pruned": 1,
   "retention_dropped": 0,
   "genres": 6,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "改正個人情報保護法の適用範囲は？自社が該当するのか確認しよう",
+   "url": "https://www.auriq.co.jp/blog/kojinjohohogo-tekiyouhani/",
+   "summary": "個人情報の保有件数による適用除外が撤廃されて以降、企業規模を問わずほぼ全事業者が個人情報保護法の対象になっている。『自分の会社は関係ない』と思い込みがちな読者に向け、対象範囲を確認する二次質問型の切り口。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "society-news-explainer",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "オーリック・システムズ・ジャパン",
+    "expert_origin": false,
+    "search_query": "個人情報保護法 改正 知恵袋 自分の会社 対象 分からない",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-04T06:44:09+09:00",
+   "validity_days": 5
+  },
   {
    "source_category": "news_web",
    "raw_title": "【2026年4月・10月改正】社会保険の年収の壁が激変｜130万円・週20時間ルールの変更点と企業の対応策",
@@ -164,6 +194,36 @@
     "rescued": false
    },
    "valid_until": "2026-08-31T06:46:58+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "国家情報会議 情報主権の確立へ第一歩【社説】",
+   "url": "https://www.worldtimes.co.jp/opinion/editorial/20260804-213331/",
+   "summary": "社説。国家情報局・国家情報会議の発足を、戦後日本の情報体制の弱点を克服し『情報主権』を確立する歴史的一歩と評価。海外の対日インテリジェンス連携を意識した論調で、国際的な位置づけの角度を提供する。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "society-global",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "世界日報",
+    "expert_origin": true,
+    "search_query": "国家情報局 国家情報会議 発足 海外 反応 安全保障 評価",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-04T06:44:09+09:00",
    "validity_days": 5
   },
   {
@@ -524,36 +584,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-02T16:52:29+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "2026 UN Climate Change Conference (UNFCCC COP 31)",
-   "url": "https://practicalaction.org/learning/cop/cop31/",
-   "summary": "COP31は2026年11月9日から20日にトルコ・アンタルヤで開催予定。NDC見直しやロス&ダメージ基金の資金拠出などが主要議題となる見込み。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "hard_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "society-environment",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Practical Action",
-    "expert_origin": true,
-    "search_query": "COP31 2026 気候変動サミット 日程 家庭 負担",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-29T16:52:49+09:00",
    "validity_days": 7
   },
   {
