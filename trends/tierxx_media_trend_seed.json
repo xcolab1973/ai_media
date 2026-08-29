@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-29T22:19:36+0900",
-    "record_count": 44,
-    "source_total_in_db": 958,
+    "generated_at": "2026-08-30T08:32:19+0900",
+    "record_count": 45,
+    "source_total_in_db": 960,
     "provenance_breakdown": {
-      "evidence": 615,
-      "pain_seed": 343
+      "evidence": 616,
+      "pain_seed": 344
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_01e648b3abbd",
+      "trend_term": "整形動機の多様化",
+      "raw_title": "整形女子たちのホンネって？「他人には分からなくても…」 目的は\"モテ\"じゃない、自分を満足させたいだけ - lasisa.net",
+      "summary": "整形利用者の動機が「モテ」から「自己満足」へシフト。他人からの評価よりも自分の納得感を重視する傾向が見られる。",
+      "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5hN0dabFJNS1JfRTVFeVllcVJjMU4zdVlWdW42dUxUOEZ1WWI3WmNrOU5qRk9hTkltOXl2RnktY3hfYVU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5hN0dabFJNS1JfRTVFeVllcVJjMU4zdVlWdW42dUxUOEZ1WWI3WmNrOU5qRk9hTkltOXl2RnktY3hfYVU?oc=5",
+      "source_name": "lasisa.net",
+      "monitor_id": "bm-sns-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "opinion",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-09-13T08:32:19+0900",
+      "status": "candidate",
+      "created_at": "2026-08-30T08:32:19+0900"
+    },
+    {
+      "seed_id": "seed_0d7aff098f2e",
+      "trend_term": "再生医療フォーラム2026",
+      "raw_title": "PARS 2026：形成外科・再建外科および再生医療に関するフォーラム - Vietnam.vn",
+      "summary": "ベトナムで形成外科・再建外科および再生医療に関するフォーラム「PARS 2026」が開催される",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMjM3bVhEWVBQeE00WGQxaFVkLThJdFpmV1daZmoxbWVvRFdYdWNxNDR1Vzdtc1FSNXBaWkNiUzVzbDYwSmhobHZiTGhjR1VGWUNmdFRsMUdxMHlKYVBXT2xtRGVRclF3dHZEUG9od18wWDVPSjNvTVgtZlpEOF96Tkk1NzZvdkczZUloTjltd05KTkRYWUpxRQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMjM3bVhEWVBQeE00WGQxaFVkLThJdFpmV1daZmoxbWVvRFdYdWNxNDR1Vzdtc1FSNXBaWkNiUzVzbDYwSmhobHZiTGhjR1VGWUNmdFRsMUdxMHlKYVBXT2xtRGVRclF3dHZEUG9od18wWDVPSjNvTVgtZlpEOF96Tkk1NzZvdkczZUloTjltd05KTkRYWUpxRQ?oc=5",
+      "source_name": "Vietnam.vn",
+      "monitor_id": "bm-regen-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-09-04T08:32:11+0900",
+      "status": "candidate",
+      "created_at": "2026-08-30T08:32:11+0900"
+    },
     {
       "seed_id": "seed_52e076304ac3",
       "trend_term": "美容医療×LLMO対策",
@@ -731,24 +767,6 @@
       "valid_until": "2026-08-30T12:26:39+0900",
       "status": "candidate",
       "created_at": "2026-08-25T12:26:39+0900"
-    },
-    {
-      "seed_id": "seed_505d89720412",
-      "trend_term": "幹細胞培養上清の製品化",
-      "raw_title": "ロート製薬、「エピステーム」「ダーマセプトRX」に独自培養上清「ステムCM」配合製品を投入 - 国際商業オンライン",
-      "summary": "ロート製薬が既存スキンケアブランド「エピステーム」「ダーマセプトRX」に独自培養上清「ステムCM」を配合した製品を投入。再生医療由来成分の実用化動向。",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tSUdXNUFUVXpxUlRzWmZMRVJJbFBDRDBwNkM2TTB4U0NTREpKNWdpXzBkQ1p6RmVzdEQtWm8zdmdFREI4SzNiTVZhVFVNM1NHWG1pRHZfM0pzdw?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tSUdXNUFUVXpxUlRzWmZMRVJJbFBDRDBwNkM2TTB4U0NTREpKNWdpXzBkQ1p6RmVzdEQtWm8zdmdFREI4SzNiTVZhVFVNM1NHWG1pRHZfM0pzdw?oc=5",
-      "source_name": "国際商業オンライン",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-08-30T12:26:29+0900",
-      "status": "candidate",
-      "created_at": "2026-08-25T12:26:29+0900"
     },
     {
       "seed_id": "seed_ba2bb2f81340",
