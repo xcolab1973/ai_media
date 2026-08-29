@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T22:23:00+09:00",
+  "generated_at": "2026-08-30T01:53:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,36 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 9,
-    "passed_total": 117,
+    "neg_excluded": 7,
+    "dedup_excluded": 11,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "x_realtime": 10,
-      "yahoo_realtime": 35,
+      "x_realtime": 9,
+      "yahoo_realtime": 33,
       "google_trends": 10,
       "yahoo_news_ranking": 1,
-      "news_web": 14
+      "news_web": 17
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "medical_science": 4,
-    "opinion": 10,
+    "social_reaction": 32,
+    "medical_science": 3,
+    "opinion": 9,
     "personal_story": 1,
-    "hard_fact": 18,
-    "policy": 4
+    "hard_fact": 22,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
-    "medical_science": 4,
-    "opinion": 10,
-    "hard_fact": 18,
-    "personal_story": 1,
-    "policy": 4
+    "social_reaction": 32,
+    "medical_science": 3,
+    "opinion": 9,
+    "hard_fact": 22,
+    "policy": 3,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "「お腹がブレイキングダウン」麻布十番祭り、食中毒の報告が76人にまで達する中、疑",
+      "title": "【ネタバレ・微グロ注意】メイドインアビスの公式サイトに仕掛けられた演出が怖すぎる",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -55,6 +55,12 @@
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "medical_science"
+    },
+    {
+      "title": "「お腹がブレイキングダウン」麻布十番祭り、食中毒の報告が76人にまで達する中、疑",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
       "title": "実は｢短パン｣より女性からの評判が悪い…一発で｢痛いおじさん｣と思われてしまうユ",
@@ -69,10 +75,10 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "阪神タイガース",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "「モラルがない」寝台特急サンライズで“転売ヤー”に異例の警告　カードが7倍超、J",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "中世から近世へ：史実での「冒険者たち」や「ギルド」をイメージする｜rain-bo",
@@ -81,32 +87,32 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「モラルがない」寝台特急サンライズで“転売ヤー”に異例の警告　カードが7倍超、J",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "安倍なつみ",
+      "title": "ソシエダ 対 エスパニョール",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "浦田俊輔",
+      "title": "守田英正",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ボーンマス 対 エヴァートン",
+      "title": "地震 今",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
     {
+      "title": "【ネタバレ・微グロ注意】メイドインアビスの公式サイトに仕掛けられた演出が怖すぎる",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "「お腹がブレイキングダウン」麻布十番祭り、食中毒の報告が76人にまで達する中、疑",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
@@ -125,13 +131,19 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "「モラルがない」寝台特急サンライズで“転売ヤー”に異例の警告　カードが7倍超、J",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "中世から近世へ：史実での「冒険者たち」や「ギルド」をイメージする｜rain-bo",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「モラルがない」寝台特急サンライズで“転売ヤー”に異例の警告　カードが7倍超、J",
+      "title": "築7年、ベッドしか置いていなかった6畳の寝室の一角を、ニトリのNポルダで仕切って",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -143,28 +155,16 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "「ドンキさんに届け…！」白血病になって、さらに2回目の移植で3年以上卵かけご飯を",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "デカいエビフライが食べたくて、ベルクで買ってきたんだがこれホントにエビフライか？",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "阪神タイガース",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "『劇場版 魔法少女まどか☆マギカ ワルプルギスの廻天』を公開初日に2廻天したとき",
+      "title": "維新、福岡県議選20人擁立へ　吉村氏「議会を総入れ替え」 | NEWSjp",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「家以外で絶対やらない方がいい」お腹まわりを爆速で引き締める筋トレで恐ろしいほど",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ]
 }
