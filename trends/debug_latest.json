@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T17:18:00+09:00",
+  "generated_at": "2026-08-29T22:23:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,30 +16,52 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 10,
-    "passed_total": 114,
+    "neg_excluded": 6,
+    "dedup_excluded": 9,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
-      "x_realtime": 8,
+      "x_realtime": 10,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "yahoo_news_ranking": 3,
-      "news_web": 13
+      "yahoo_news_ranking": 1,
+      "news_web": 14
     }
   },
   "note_category_counts": {
-    "social_reaction": 38,
-    "opinion": 9,
-    "hard_fact": 21,
-    "policy": 2
+    "social_reaction": 33,
+    "medical_science": 4,
+    "opinion": 10,
+    "personal_story": 1,
+    "hard_fact": 18,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 38,
-    "opinion": 9,
-    "hard_fact": 21,
-    "policy": 2
+    "social_reaction": 33,
+    "medical_science": 4,
+    "opinion": 10,
+    "hard_fact": 18,
+    "personal_story": 1,
+    "policy": 4
   },
   "b2b_top10": [
+    {
+      "title": "「お腹がブレイキングダウン」麻布十番祭り、食中毒の報告が76人にまで達する中、疑",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "麻布十番納涼まつりで発生した集団食中毒に港区長が声明を発表→食中毒と思われる症状",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "実は｢短パン｣より女性からの評判が悪い…一発で｢痛いおじさん｣と思われてしまうユ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "あらゆる男性が加害者として悪魔化される小説「世界99」",
       "source_category": "yahoo_realtime",
@@ -47,10 +69,10 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "下のテナントから「物音がうるさい」と注意を受けたので、実際どう音が聞こえるのか確",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "阪神タイガース",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "中世から近世へ：史実での「冒険者たち」や「ギルド」をイメージする｜rain-bo",
@@ -65,37 +87,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「襲撃者は人間じゃない」証言できないように目を潰す、濃硫酸をかける、仲間が警官を",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "狩野 英孝",
+      "title": "安倍なつみ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "知り合いが「全館空調よさそう」って言うたびに「生命維持装置をRAID0にするよう",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日ハム速報",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "上林誠知",
+      "title": "浦田俊輔",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "日ハム 試合 今日",
+      "title": "ボーンマス 対 エヴァートン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -103,15 +107,21 @@
   ],
   "note_top10": [
     {
-      "title": "あらゆる男性が加害者として悪魔化される小説「世界99」",
+      "title": "「お腹がブレイキングダウン」麻布十番祭り、食中毒の報告が76人にまで達する中、疑",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "実は｢短パン｣より女性からの評判が悪い…一発で｢痛いおじさん｣と思われてしまうユ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "下のテナントから「物音がうるさい」と注意を受けたので、実際どう音が聞こえるのか確",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "あらゆる男性が加害者として悪魔化される小説「世界99」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -127,40 +137,34 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "知り合いが「全館空調よさそう」って言うたびに「生命維持装置をRAID0にするよう",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "麻布十番納涼まつりで発生した集団食中毒に港区長が声明を発表→食中毒と思われる症状",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "medical_science"
     },
     {
-      "title": "「襲撃者は人間じゃない」証言できないように目を潰す、濃硫酸をかける、仲間が警官を",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "NHK大河ドラマ、竹田市など「史実尊重を」　「豊臣兄弟！」中川清秀描写で申し入れ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『ハコヅメ』作者が描くマンガ、「シスターがドスケベだと嬉しい！」という概念が江戸",
+      "title": "「ドンキさんに届け…！」白血病になって、さらに2回目の移植で3年以上卵かけご飯を",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "超絶ブラックな訪問販売系の会社にいたとき、雨の夜道で後輩が「俺ドリフトできるんで",
+      "title": "デカいエビフライが食べたくて、ベルクで買ってきたんだがこれホントにエビフライか？",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "江戸時代の経路検索",
+      "title": "阪神タイガース",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "『劇場版 魔法少女まどか☆マギカ ワルプルギスの廻天』を公開初日に2廻天したとき",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     }
   ]
 }
