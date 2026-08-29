@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T07:06:15+09:00",
+ "generated_at": "2026-08-29T16:52:05+09:00",
  "valid_until": "2026-09-05T06:35:25+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -8,14 +8,44 @@
  "total_count": 16,
  "merge": {
   "parent": "biz",
-  "from_current": 14,
-  "from_new": 3,
-  "expired_pruned": 1,
-  "retention_dropped": 0,
+  "from_current": 16,
+  "from_new": 1,
+  "expired_pruned": 0,
+  "retention_dropped": 1,
   "genres": 3,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "ゆうパック・クリックポスト値上げ2026年10月から!メルカリ民が今すぐやるべき送料対策",
+   "url": "https://www.echo-station.com/yuupack-shipping-cost-defense-2026/",
+   "summary": "2026年10月からゆうパックが平均約10%（最大約40%）、クリックポストが185円→240円に値上げされる。個人・小規模の物販事業者は発送方法の見直しや送料の価格転嫁を検討する必要がある。インボイス2割特例終了（9月末）と時期が重なり、経理面と物流面のコスト増が同時に来る点が読者の見落としやすいポイント。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "biz-ec-shop",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Echo Station",
+    "expert_origin": false,
+    "search_query": "ゆうパック 値上げ 2026年10月 ネットショップ 送料 どうする 個人",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-03T16:42:50+09:00",
+   "validity_days": 5
+  },
   {
    "source_category": "news_web",
    "raw_title": "Yahoo!ショッピングって退会できないんですか？ヘルプを見ても書い...",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-01T16:45:19+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "小さな個人店がショッピングサイトに出店する場合、どこが一番お得か",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10322793660",
-   "summary": "個人の小規模店主が、複数のネットショッピングモールの中でどこに出店するのが費用面で一番得なのか判断がつかず質問している。出店料・手数料体系の違いが分かりにくく比較検討で迷う生の悩み。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "biz-ec-shop",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "Yahoo ショッピング 有料化 撤退すべきか 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-31T16:44:05+09:00",
    "validity_days": 5
   },
   {
