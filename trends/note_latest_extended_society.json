@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-08-30T06:45:06+09:00",
+ "generated_at": "2026-08-30T16:52:55+09:00",
  "valid_until": "2026-09-12T16:50:32+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "society",
- "total_count": 37,
+ "total_count": 40,
  "merge": {
   "parent": "society",
-  "from_current": 36,
-  "from_new": 2,
-  "expired_pruned": 1,
+  "from_current": 37,
+  "from_new": 3,
+  "expired_pruned": 0,
   "retention_dropped": 0,
   "genres": 6,
   "retention_per_genre": 8
@@ -194,6 +194,36 @@
     "rescued": false
    },
    "valid_until": "2026-08-31T06:46:58+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "国家情報局の誕生、世界のスパイと肩を並べられるのか",
+   "url": "https://forbesjapan.com/articles/detail/99181",
+   "summary": "新設の国家情報局が英語圏5カ国（ファイブアイズ）等の既存情報機関と伍していけるかを論じ、国際的な位置づけと課題を整理している。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "society-global",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Forbes JAPAN",
+    "expert_origin": true,
+    "search_query": "国家情報局 発足 日本 各国 情報機関 比較 なぜ必要",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-04T16:50:13+09:00",
    "validity_days": 5
   },
   {
@@ -405,6 +435,36 @@
    },
    "valid_until": "2026-08-31T06:46:58+09:00",
    "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "経産省・環境省、プラ資源循環で新たな政策開始。容器包装サーキュラリティ設計等",
+   "url": "https://sustainablejapan.jp/2026/08/27/japan-plastic-circular-economy-strategy/129968",
+   "summary": "経済産業省と環境省がプラスチック資源循環に関する新政策を開始。容器包装のサーキュラリティ設計など、企業が対応すべき方向性を整理している。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "hard_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "society-environment",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Sustainable Japan",
+    "expert_origin": true,
+    "search_query": "環境省 令和8年度 改正 施行 プラスチック 排出量 2026",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-06T16:50:13+09:00",
+   "validity_days": 7
   },
   {
    "source_category": "news_web",
@@ -825,6 +885,36 @@
    },
    "valid_until": "2026-08-31T16:51:26+09:00",
    "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "「106万円の壁」が撤廃へ｜社会保険の適用拡大（2026年10月施行見込み）を税理士が解説",
+   "url": "https://kmp.or.jp/shaho-tekiyo-kakudai-106man-kabe/",
+   "summary": "2026年10月から月額賃金8.8万円要件が撤廃され、週20時間以上という労働時間要件が中心基準になる。税理士が企業・個人双方への実務影響を解説。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "hard_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "society-economy",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "税理士法人（kmp.or.jp）",
+    "expert_origin": true,
+    "search_query": "社会保険 106万円の壁 撤廃 10月 何が変わる 解説",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-04T16:50:13+09:00",
+   "validity_days": 5
   },
   {
    "source_category": "news_web",

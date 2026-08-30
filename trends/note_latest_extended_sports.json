@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T06:45:06+09:00",
+ "generated_at": "2026-08-30T16:52:55+09:00",
  "valid_until": "2026-09-13T06:44:15+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "sports",
   "from_current": 16,
-  "from_new": 6,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 6,
+  "retention_dropped": 1,
   "genres": 2,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "CS、優勝チームアドバンテージ2勝にwwwwwwwww",
+   "url": "https://hanshintigers1.blog.jp/archives/45713295.html",
+   "summary": "CSアドバンテージ2勝ルール発表を受け5ch・SNSでは『もうCSいらない』『下剋上が起きにくくなる』との反発が噴出。一方で賛成の声もあり賛否が割れている様子。観戦者がルール変更の意図や試合数への影響を十分理解できていない反応がうかがえる。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "sports-watch",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "阪神タイガースちゃんねる（5chまとめ）",
+    "expert_origin": false,
+    "search_query": "CS アドバンテージ2勝 いらない 5ch OR twitter OR 反応",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-04T16:49:53+09:00",
+   "validity_days": 5
+  },
   {
    "source_category": "news_web",
    "raw_title": "2026年 セ・パ クライマックスシリーズについてのお知らせ",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-02T16:49:24+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "2026年から変わるNPBクライマックスシリーズ（CS）新ルール｜2勝アドバンテージの条件と順位争いへの影響",
-   "url": "https://lifetime-baseball.com/media/npb-climax-series-rule-change-2026",
-   "summary": "2026年のNPBクライマックスシリーズから、ファイナルステージで首位と10ゲーム差以上または勝率5割未満のチームが進出した場合に「2勝アドバンテージ」が適用される新ルールを解説。8月終盤の順位争いの見方が変わる制度改正。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "sports-watch",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Lifetime Baseball LAB",
-    "expert_origin": true,
-    "search_query": "プロ野球 2026 クライマックスシリーズ 進出条件 順位争い 8月",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-01T16:49:58+09:00",
    "validity_days": 5
   },
   {
