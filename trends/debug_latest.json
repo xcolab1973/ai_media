@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T16:25:00+09:00",
+  "generated_at": "2026-08-30T22:20:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,45 +16,57 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 1,
-    "dedup_excluded": 10,
-    "passed_total": 121,
+    "neg_excluded": 2,
+    "dedup_excluded": 12,
+    "passed_total": 118,
     "b2b_category_counts": {
-      "x_realtime": 8,
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 34,
       "google_trends": 10,
-      "news_web": 15,
-      "yahoo_news_ranking": 2
+      "news_web": 18,
+      "x_realtime": 7,
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "personal_story": 3,
-    "opinion": 9,
-    "medical_science": 4,
-    "policy": 6,
-    "hard_fact": 15
+    "social_reaction": 35,
+    "personal_story": 1,
+    "opinion": 10,
+    "policy": 7,
+    "hard_fact": 16,
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 31,
-    "policy": 6,
-    "opinion": 9,
-    "medical_science": 3,
-    "hard_fact": 18,
-    "personal_story": 3
+    "social_reaction": 32,
+    "policy": 7,
+    "opinion": 10,
+    "hard_fact": 19,
+    "personal_story": 1,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "病院嫌いな猫から人間への発言が猫界の放送禁止用語級の暴言みたいだった「そんな酷い",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "通っていた自称進学校は週6で1日15時間拘束、日曜の夜さえ教室で自習、実質休みゼ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "かつて料理人だった人物が思う「蟹ラーメン食中毒疑惑」や「生肉料理の食中毒」などの",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "9年前に奨学金の延滞でブラックリストに入ってしまい、クレカもローンも何一つ通らな",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "「議連補助金」の予算化、全国で福岡県だけ　毎日新聞調査で判明 | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "中島歩",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "福岡県、県議の任意団体に税金で補助　30年以上「垂れ流し」か | 毎日新聞",
@@ -63,7 +75,7 @@
       "topic_category": "policy"
     },
     {
-      "title": "プロ野球2軍に地域熱狂、米国並み投資　タダ見から「推し活」聖地に - 日本経済新",
+      "title": "KAWAII LAB.のCD販売のこと - WASTE OF POPS 80s-",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -75,31 +87,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "KAWAII LAB.のCD販売のこと - WASTE OF POPS 80s-",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中国で今、「汤泉」と呼ばれるスパが若者の週末レジャーとして人気に…数百元で風呂や",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ゴルフ",
+      "title": "前田悠伍",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "水谷瞬",
+      "title": "ジェズス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "紫苑ステークス",
+      "title": "おしゃれクリップ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,25 +107,19 @@
   ],
   "note_top10": [
     {
-      "title": "病院嫌いな猫から人間への発言が猫界の放送禁止用語級の暴言みたいだった「そんな酷い",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "かつて料理人だった人物が思う「蟹ラーメン食中毒疑惑」や「生肉料理の食中毒」などの",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "氷河の下流に住むことが命に関わるリスクになった理由、ネパール洪水で危険浮き彫りに",
+      "title": "通っていた自称進学校は週6で1日15時間拘束、日曜の夜さえ教室で自習、実質休みゼ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "プロ野球2軍に地域熱狂、米国並み投資　タダ見から「推し活」聖地に - 日本経済新",
+      "title": "9年前に奨学金の延滞でブラックリストに入ってしまい、クレカもローンも何一つ通らな",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "氷河の下流に住むことが命に関わるリスクになった理由、ネパール洪水で危険浮き彫りに",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -137,15 +131,33 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "中国で今、「汤泉」と呼ばれるスパが若者の週末レジャーとして人気に…数百元で風呂や",
+      "title": "たまたま入った生姜醤油ラーメンの店、美味しかったので調べたら町田商店や豚山の系列",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "偏差値40台の高校に死ぬほど努力して合格を目指す生徒を担当する塾講師バイト、6、",
+      "title": "「正義」がぶつかり合うSNSをどう見る？――現役弁護士芸人・こたけ正義感が考える",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "独断と偏見による「THE ALFEE」を知る前と知った後の急激なイメージの変化を",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ご当地銘菓紹介」で山形県の乃し梅が紹介されていたが全くの別物で老舗が困惑してい",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "猫の首輪が薄汚れていたので、取り替えようとしたら「解雇っスか⁉️」と言わんばかり",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -153,18 +165,6 @@
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
-    },
-    {
-      "title": "「高いエアコンに買い替えたのに、2ヶ月でまた水漏れ」という問題、約2000円のド",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「インターネットしすぎてる人は読んだほうがいい」ちいかわの児童書、大人にも刺さり",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
     }
   ]
 }
