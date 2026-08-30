@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T22:20:00+09:00",
+  "generated_at": "2026-08-31T01:59:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,32 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 2,
-    "dedup_excluded": 12,
+    "neg_excluded": 4,
+    "dedup_excluded": 10,
     "passed_total": 118,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
+      "yahoo_realtime": 36,
+      "x_realtime": 8,
       "google_trends": 10,
-      "news_web": 18,
-      "x_realtime": 7,
+      "news_web": 15,
       "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
-    "personal_story": 1,
-    "opinion": 10,
+    "social_reaction": 33,
+    "personal_story": 4,
+    "opinion": 9,
+    "medical_science": 3,
     "policy": 7,
-    "hard_fact": 16,
-    "medical_science": 1
+    "hard_fact": 14
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 32,
+    "social_reaction": 33,
     "policy": 7,
-    "opinion": 10,
-    "hard_fact": 19,
-    "personal_story": 1,
-    "medical_science": 1
+    "opinion": 9,
+    "medical_science": 2,
+    "personal_story": 4,
+    "hard_fact": 15
   },
   "b2b_top10": [
     {
@@ -51,9 +51,9 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "9年前に奨学金の延滞でブラックリストに入ってしまい、クレカもローンも何一つ通らな",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "【注意喚起】札幌で外国人がいきなり日本国旗を渡してきて受け取ると500円を要求し",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -63,10 +63,10 @@
       "topic_category": "policy"
     },
     {
-      "title": "中島歩",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "9年前に奨学金の延滞でブラックリストに入ってしまい、クレカもローンも何一つ通らな",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "福岡県、県議の任意団体に税金で補助　30年以上「垂れ流し」か | 毎日新聞",
@@ -75,31 +75,31 @@
       "topic_category": "policy"
     },
     {
-      "title": "KAWAII LAB.のCD販売のこと - WASTE OF POPS 80s-",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "氷河の下流に住むことが命に関わるリスクになった理由、ネパール洪水で危険浮き彫りに",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "前田悠伍",
+      "title": "島袋将",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ジェズス",
+      "title": "vivant 前田 公輝",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "おしゃれクリップ",
+      "title": "独断と偏見による「THE ALFEE」を知る前と知った後でイメージの急激な変化を",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東武日光線",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "三菱・パジェロ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,37 +113,49 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "【注意喚起】札幌で外国人がいきなり日本国旗を渡してきて受け取ると500円を要求し",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "9年前に奨学金の延滞でブラックリストに入ってしまい、クレカもローンも何一つ通らな",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "氷河の下流に住むことが命に関わるリスクになった理由、ネパール洪水で危険浮き彫りに",
+      "title": "独断と偏見による「THE ALFEE」を知る前と知った後でイメージの急激な変化を",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "KAWAII LAB.のCD販売のこと - WASTE OF POPS 80s-",
+      "title": "「鰹とか金目鯛とか鰻とかマグロとか罠は色々あるから」息子は静岡旅行でエビフライを",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "清潔感はルッキズムだけど優しさだろ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "たまたま入った生姜醤油ラーメンの店、美味しかったので調べたら町田商店や豚山の系列",
+      "title": "データマネジメント研修（デジタル庁）",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「正義」がぶつかり合うSNSをどう見る？――現役弁護士芸人・こたけ正義感が考える",
+      "title": "「父親がどれほどジャンクフードを食べているか」が胎児の発育に影響を与えている可能",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "独断と偏見による「THE ALFEE」を知る前と知った後の急激なイメージの変化を",
+      "title": "オートロックのマンション前に20代の子と両親がいて、「建物の下見に来たので入れて",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -153,18 +165,6 @@
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "猫の首輪が薄汚れていたので、取り替えようとしたら「解雇っスか⁉️」と言わんばかり",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "〈「私はフェイクニュースを拡散した」〉ロヒンギャへの“無知”を悔やみ9年間、現地",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
     }
   ]
 }
