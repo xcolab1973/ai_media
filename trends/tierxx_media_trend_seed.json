@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-08-30T17:29:04+0900",
-    "record_count": 37,
-    "source_total_in_db": 963,
+    "generated_at": "2026-08-30T22:11:18+0900",
+    "record_count": 39,
+    "source_total_in_db": 965,
     "provenance_breakdown": {
-      "evidence": 618,
-      "pain_seed": 345
+      "evidence": 619,
+      "pain_seed": 346
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_6fb073f348f9",
+      "trend_term": "薄肌トレンド",
+      "raw_title": "【SNSで話題の薄肌】とは？特徴と正しいお手入れ方法を医師と美容のプロが考察 - VOCE",
+      "summary": "SNSで話題の「薄肌」トレンドについて、医師と美容専門家が特徴と正しいケア方法を考察した記事",
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9VSjdOM0t1REpuWGZ5WWpaejZrVWlTSFRRZ2h1N0ZJRHhUaWNla21pblZWTFM4RFBFbHM5OFNlSDRiN29IVnc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9VSjdOM0t1REpuWGZ5WWpaejZrVWlTSFRRZ2h1N0ZJRHhUaWNla21pblZWTFM4RFBFbHM5OFNlSDRiN29IVnc?oc=5",
+      "source_name": "VOCE",
+      "monitor_id": "bm-sns-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-09-04T22:11:18+0900",
+      "status": "candidate",
+      "created_at": "2026-08-30T22:11:18+0900"
+    },
+    {
+      "seed_id": "seed_f8ae2eda68f8",
+      "trend_term": "美容整形の医療事故リスク",
+      "raw_title": "美容整形で1年に4万件の医療事故 就職前の整形に注意 - AFPBB News",
+      "summary": "美容整形による年間医療事故件数の統計データ。就職前の整形に関する安全性の警告。患者が知るべき客観的リスク情報。",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5COGRvY0pta3p5aHZTRERVRjZiYk5saDNMcnBVN0FISEltNXlZclhsa3ZRNXRjVUV3b21mX2I3bDc4OEtILWt4bzdoVm9SMUhwU3fSAVRBVV95cUxNSTFtUVVlY0RFN3o4UE0xQWh4VE92ZGEwRkJyTDJvbEM1aGJ6MTM0UXRVeUMtMXZSZmpPbTJuMXBmeXBKaWdKV1RFeElKRV9Wc0kzOTU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5COGRvY0pta3p5aHZTRERVRjZiYk5saDNMcnBVN0FISEltNXlZclhsa3ZRNXRjVUV3b21mX2I3bDc4OEtILWt4bzdoVm9SMUhwU3fSAVRBVV95cUxNSTFtUVVlY0RFN3o4UE0xQWh4VE92ZGEwRkJyTDJvbEM1aGJ6MTM0UXRVeUMtMXZSZmpPbTJuMXBmeXBKaWdKV1RFeElKRV9Wc0kzOTU?oc=5",
+      "source_name": "AFPBB News",
+      "monitor_id": "bm-safety-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-09-04T22:11:08+0900",
+      "status": "candidate",
+      "created_at": "2026-08-30T22:11:08+0900"
+    },
     {
       "seed_id": "seed_d13bf952a1e1",
       "trend_term": "美容成分で肌年齢改善",
