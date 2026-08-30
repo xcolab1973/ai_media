@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T08:34:00+09:00",
+  "generated_at": "2026-08-30T16:25:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,88 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 11,
-    "passed_total": 113,
+    "neg_excluded": 1,
+    "dedup_excluded": 10,
+    "passed_total": 121,
     "b2b_category_counts": {
-      "news_web": 18,
-      "yahoo_realtime": 33,
       "x_realtime": 8,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "yahoo_news_ranking": 1
+      "news_web": 15,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "medical_science": 3,
+    "social_reaction": 33,
+    "personal_story": 3,
     "opinion": 9,
-    "policy": 7,
-    "hard_fact": 21
+    "medical_science": 4,
+    "policy": 6,
+    "hard_fact": 15
   },
   "b2b_topic_category_counts": {
-    "policy": 7,
-    "social_reaction": 30,
-    "hard_fact": 21,
+    "social_reaction": 31,
+    "policy": 6,
     "opinion": 9,
-    "medical_science": 3
+    "medical_science": 3,
+    "hard_fact": 18,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "福岡県 県議の任意団体に補助金",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_local",
-      "topic_category": "policy"
-    },
-    {
-      "title": "実は｢短パン｣より女性からの評判が悪い…一発で｢痛いおじさん｣と思われてしまうユ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【注意喚起】イラスト・漫画分野で「すぐ楽に稼げる」で誘って情報商材詐欺や悪質な勧",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "大雨で浸水リスク 車移動は危険",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "病院の開院前に到着、待っていたら50代男性から「どこから入るんでしょうか？」と言",
+      "title": "病院嫌いな猫から人間への発言が猫界の放送禁止用語級の暴言みたいだった「そんな酷い",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "娘を連れて中華街の北京ダックの食べ放題店に行ったら、全くおかわりが運ばれてこなく",
+      "title": "かつて料理人だった人物が思う「蟹ラーメン食中毒疑惑」や「生肉料理の食中毒」などの",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "高市首相",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
+      "title": "福岡県、県議の任意団体に税金で補助　30年以上「垂れ流し」か | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "オズワルド",
+      "title": "プロ野球2軍に地域熱狂、米国並み投資　タダ見から「推し活」聖地に - 日本経済新",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "氷河の下流に住むことが命に関わるリスクになった理由、ネパール洪水で危険浮き彫りに",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "KAWAII LAB.のCD販売のこと - WASTE OF POPS 80s-",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中国で今、「汤泉」と呼ばれるスパが若者の週末レジャーとして人気に…数百元で風呂や",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ゴルフ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "映画.com",
+      "title": "水谷瞬",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "フィジカルai",
+      "title": "紫苑ステークス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,63 +107,63 @@
   ],
   "note_top10": [
     {
-      "title": "娘を連れて中華街の北京ダックの食べ放題店に行ったら、全くおかわりが運ばれてこなく",
+      "title": "病院嫌いな猫から人間への発言が猫界の放送禁止用語級の暴言みたいだった「そんな酷い",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "実は｢短パン｣より女性からの評判が悪い…一発で｢痛いおじさん｣と思われてしまうユ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【注意喚起】イラスト・漫画分野で「すぐ楽に稼げる」で誘って情報商材詐欺や悪質な勧",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "病院の開院前に到着、待っていたら50代男性から「どこから入るんでしょうか？」と言",
+      "title": "かつて料理人だった人物が思う「蟹ラーメン食中毒疑惑」や「生肉料理の食中毒」などの",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「精神疾患は甘え」と言う人はいるが、精神病院の閉鎖病棟に関する壮絶な話を聞くと、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "「いやだー！ ガストがいい！！」と喚いていたガスト大好きの娘、ビッグボーイに入店",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ガンダム」完全新作アクションゲームの機体のデザインも動きも何もかもがガンダムじ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "金ロー「8番出口」オンエアをしてから\"怒鳴る男\"を演じた大塚ヒロタ氏の迫真の演技",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "築7年、ベッドしか置いていなかった6畳の寝室の一角を、ニトリのNポルダで仕切って",
+      "title": "氷河の下流に住むことが命に関わるリスクになった理由、ネパール洪水で危険浮き彫りに",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「家以外で絶対やらない方がいい」お腹まわりを爆速で引き締める筋トレで恐ろしいほど",
+      "title": "プロ野球2軍に地域熱狂、米国並み投資　タダ見から「推し活」聖地に - 日本経済新",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "KAWAII LAB.のCD販売のこと - WASTE OF POPS 80s-",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中国で今、「汤泉」と呼ばれるスパが若者の週末レジャーとして人気に…数百元で風呂や",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "偏差値40台の高校に死ぬほど努力して合格を目指す生徒を担当する塾講師バイト、6、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "〈「私はフェイクニュースを拡散した」〉ロヒンギャへの“無知”を悔やみ9年間、現地",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「高いエアコンに買い替えたのに、2ヶ月でまた水漏れ」という問題、約2000円のド",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「インターネットしすぎてる人は読んだほうがいい」ちいかわの児童書、大人にも刺さり",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
