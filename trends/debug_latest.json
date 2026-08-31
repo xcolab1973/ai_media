@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T08:50:00+09:00",
+  "generated_at": "2026-08-31T16:40:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,152 +16,152 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 8,
-    "passed_total": 115,
+    "neg_excluded": 6,
+    "dedup_excluded": 10,
+    "passed_total": 116,
     "b2b_category_counts": {
-      "x_realtime": 8,
+      "yahoo_realtime": 36,
       "google_trends": 10,
-      "yahoo_realtime": 34,
-      "news_web": 17,
-      "yahoo_news_ranking": 1
+      "yahoo_news_ranking": 3,
+      "x_realtime": 7,
+      "news_web": 14
     }
   },
   "note_category_counts": {
     "social_reaction": 34,
-    "personal_story": 4,
+    "personal_story": 3,
     "opinion": 10,
     "medical_science": 2,
-    "hard_fact": 17,
-    "policy": 3
+    "hard_fact": 19,
+    "policy": 2
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 18,
     "social_reaction": 34,
+    "personal_story": 3,
+    "hard_fact": 19,
     "opinion": 10,
-    "personal_story": 4,
-    "policy": 3,
-    "medical_science": 1
+    "policy": 2,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
+      "title": "映画『まどマギ』の悪臭問題が話題だけど、男女問わず夏の生乾き臭に悩んでいる人は多",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "被害者のいないフィクションまで禁止される――世界の成人向け表現に何が起きているの",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "韓国修学旅行推進の徳島・後藤田知事「北海道はクマ出たら終わってしまう」　鈴木知事",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "「著作権者が死亡したら権利消滅」は原作者を危険に晒す可能性、巨大IPに育てば亡き",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
     },
     {
-      "title": "「一番くじは終わりました」をハンター文字で書いてる店が粋すぎる、これは転売ヤー対",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ドゥレッツァ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "通っていた自称進学校は週6で1日15時間拘束、日曜の夜さえ教室で自習、実質休みゼ",
+      "title": "食中毒で「そんな大げさな」みたいな論調はあるが、過去には被害者2200人、死者4",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『アメトーーク！』東京吉本の特集が放送された後、芸人がまとまらなかった理由に様々",
+      "title": "topix",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "トランプ大統領のレームダック化、かつてないほど危険な存在に | JBpress ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "九頭竜ダム 貯水率",
+      "title": "593a",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ティアフォー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "ラストワンは最後に引いた人のもののはず…ハンターハンターの一番くじでファミマ店員",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "早明浦ダム",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "収入",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "日本気象協会",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "高市首相の狡知 - 内田樹の研究室",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
     }
   ],
   "note_top10": [
     {
-      "title": "「一番くじは終わりました」をハンター文字で書いてる店が粋すぎる、これは転売ヤー対",
+      "title": "映画『まどマギ』の悪臭問題が話題だけど、男女問わず夏の生乾き臭に悩んでいる人は多",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "被害者のいないフィクションまで禁止される――世界の成人向け表現に何が起きているの",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "韓国修学旅行推進の徳島・後藤田知事「北海道はクマ出たら終わってしまう」　鈴木知事",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "食中毒で「そんな大げさな」みたいな論調はあるが、過去には被害者2200人、死者4",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "トランプ大統領のレームダック化、かつてないほど危険な存在に | JBpress ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ラストワンは最後に引いた人のもののはず…ハンターハンターの一番くじでファミマ店員",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "M&Aをした薬局で薬剤師に対して、1000万円から800万円に給料の減額の提案を",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "通っていた自称進学校は週6で1日15時間拘束、日曜の夜さえ教室で自習、実質休みゼ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "リクエストされたので「薬屋のひとりごと」をミリしらで描いてみる→できあがったもの",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "いらなくなった古着を途上国に送る“善意”が現地の産業を壊す現実…「善意で人を苦し",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "「世帯収入が低い人ほど独身」の傾向は個人主義的な国で強いとの研究結果",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ホンダ「Super-ONE」が納車されたが、後部ドアパネルに指でなぞったような跡",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "『アメトーーク！』東京吉本の特集が放送された後、芸人がまとまらなかった理由に様々",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「残業203時間」「1人で11億円送金」──はてな事件報告書が暴いた“経営の無関",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "郵便不正の情報開示「ほとぼりさめさせる」　総務省の業務チャットに：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "整備新幹線｢打ち出の小槌｣化で生まれる\"第2の国鉄\"　企業努力を召し上げる｢貸付",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「また謎の客が来た」から始まる、永田礼路先生の医学書表紙エピソードがおもろい",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "面接官「採用して失敗するパターンがこれ。絶対メーカーに来たらダメな人材」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
