@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T16:40:00+09:00",
+  "generated_at": "2026-09-01T00:30:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,98 +16,60 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
+    "neg_excluded": 9,
     "dedup_excluded": 10,
-    "passed_total": 116,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
       "google_trends": 10,
-      "yahoo_news_ranking": 3,
-      "x_realtime": 7,
-      "news_web": 14
+      "yahoo_realtime": 35,
+      "yahoo_news_ranking": 4,
+      "x_realtime": 8,
+      "news_web": 13
     }
   },
   "note_category_counts": {
-    "social_reaction": 34,
-    "personal_story": 3,
+    "social_reaction": 31,
     "opinion": 10,
-    "medical_science": 2,
-    "hard_fact": 19,
-    "policy": 2
+    "personal_story": 4,
+    "hard_fact": 21,
+    "medical_science": 1,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 34,
-    "personal_story": 3,
-    "hard_fact": 19,
     "opinion": 10,
-    "policy": 2,
-    "medical_science": 2
+    "social_reaction": 31,
+    "hard_fact": 21,
+    "personal_story": 4,
+    "policy": 3,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "映画『まどマギ』の悪臭問題が話題だけど、男女問わず夏の生乾き臭に悩んでいる人は多",
+      "title": "こめ お 食中毒",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「戦争を甘く見る空気」が日本を覆っている…1937年と2026年の不気味な共通点",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "被害者のいないフィクションまで禁止される――世界の成人向け表現に何が起きているの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "韓国修学旅行推進の徳島・後藤田知事「北海道はクマ出たら終わってしまう」　鈴木知事",
+      "title": "「隣に死神がずっといるレベル」防護服や防護メガネを着用せずロングスカート姿で草刈",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「著作権者が死亡したら権利消滅」は原作者を危険に晒す可能性、巨大IPに育てば亡き",
+      "title": "電柱のない中国の大都市。台風災害を防ぐため、地中化100%をほぼ達成 - 中華I",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
     },
     {
-      "title": "食中毒で「そんな大げさな」みたいな論調はあるが、過去には被害者2200人、死者4",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "topix",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "トランプ大統領のレームダック化、かつてないほど危険な存在に | JBpress ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "593a",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ラストワンは最後に引いた人のもののはず…ハンターハンターの一番くじでファミマ店員",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "高市首相の狡知 - 内田樹の研究室",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    }
-  ],
-  "note_top10": [
-    {
-      "title": "映画『まどマギ』の悪臭問題が話題だけど、男女問わず夏の生乾き臭に悩んでいる人は多",
+      "title": "今年の暑さ対策を総括したい・ハッカ油・肌キンキンシート・メイクキープミスト",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -119,16 +81,66 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "韓国修学旅行推進の徳島・後藤田知事「北海道はクマ出たら終わってしまう」　鈴木知事",
+      "title": "成宮 寛貴",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "state of play",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "t シャツ が 乾く まで あらすじ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "映画『まどマギ』の悪臭問題が話題だけど、男女問わず夏の生乾き臭に悩んでいる人は多",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    }
+  ],
+  "note_top10": [
+    {
+      "title": "今年の暑さ対策を総括したい・ハッカ油・肌キンキンシート・メイクキープミスト",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "食中毒で「そんな大げさな」みたいな論調はあるが、過去には被害者2200人、死者4",
+      "title": "映画『まどマギ』の悪臭問題が話題だけど、男女問わず夏の生乾き臭に悩んでいる人は多",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "「隣に死神がずっといるレベル」防護服や防護メガネを着用せずロングスカート姿で草刈",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "こめ お 食中毒",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「戦争を甘く見る空気」が日本を覆っている…1937年と2026年の不気味な共通点",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "被害者のいないフィクションまで禁止される――世界の成人向け表現に何が起きているの",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
       "title": "トランプ大統領のレームダック化、かつてないほど危険な存在に | JBpress ",
@@ -137,31 +149,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ラストワンは最後に引いた人のもののはず…ハンターハンターの一番くじでファミマ店員",
+      "title": "「ぬいの首をもっとくびれさせたい」そんなときにやってみたい整形テクニックを使って",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "藤田ニコルが妊娠公表前の罰ゲームでカフェイン茶を飲んで泣いた話…「番組に話しとけ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "M&Aをした薬局で薬剤師に対して、1000万円から800万円に給料の減額の提案を",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "リクエストされたので「薬屋のひとりごと」をミリしらで描いてみる→できあがったもの",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "いらなくなった古着を途上国に送る“善意”が現地の産業を壊す現実…「善意で人を苦し",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「世帯収入が低い人ほど独身」の傾向は個人主義的な国で強いとの研究結果",
+      "title": "子育て楽で楽しいんだけど",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
