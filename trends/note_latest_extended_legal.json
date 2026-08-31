@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-08-31T06:47:30+09:00",
- "valid_until": "2026-09-07T06:37:41+09:00",
+ "generated_at": "2026-08-31T16:56:29+09:00",
+ "valid_until": "2026-09-07T16:46:17+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "legal",
- "total_count": 27,
+ "total_count": 28,
  "merge": {
   "parent": "legal",
-  "from_current": 26,
-  "from_new": 3,
+  "from_current": 27,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 2,
+  "retention_dropped": 0,
   "genres": 5,
   "retention_per_genre": 8
  },
@@ -704,6 +704,36 @@
     "rescued": false
    },
    "valid_until": "2026-09-03T16:42:57+09:00",
+   "validity_days": 7
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "【保険金は支払われる？】台風・豪雨などの自然災害の場合",
+   "url": "https://www.sonysonpo.co.jp/auto/guide/agde913.html",
+   "summary": "台風・大雨による車両損害は車両保険（一般型・エコノミー型とも）の補償対象。ただし保険を使うと等級が1つ下がり事故有係数適用期間も1年加算されるため、修理費と将来の保険料増加分を比較して使用判断すべきという実務ポイントを保険会社公式が解説。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "official_instruction",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "legal-accident",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "ソニー損保",
+    "expert_origin": true,
+    "search_query": "台風 大雨 車 物損事故 保険 使うべきか 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-07T16:46:17+09:00",
    "validity_days": 7
   },
   {

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-31T06:47:30+09:00",
- "valid_until": "2026-09-14T06:35:25+09:00",
+ "generated_at": "2026-08-31T16:56:29+09:00",
+ "valid_until": "2026-09-14T16:45:24+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -10,8 +10,8 @@
   "parent": "beauty",
   "from_current": 28,
   "from_new": 2,
-  "expired_pruned": 0,
-  "retention_dropped": 2,
+  "expired_pruned": 1,
+  "retention_dropped": 1,
   "genres": 4,
   "retention_per_genre": 8
  },
@@ -468,6 +468,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "脂性肌でメイクが崩れやすいのですが、防止する方法と、崩れた後の直し方が分かりません",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10308677600",
+   "summary": "脂性肌でメイクが崩れやすく、防止法も崩れた後の直し方も分からないという生の悩み。特に鼻周りの皮脂崩れに困っており、残暑期のメイク崩れ・直しニーズを象徴する声。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "beauty-makeup",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "メイク崩れ 汗じみ 皮脂 知恵袋 直し方",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": true,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-07T16:45:24+09:00",
+   "validity_days": 7
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "化粧品広告で注意すべき表現とは？薬機法における禁止表現や違反事例を解説",
    "url": "https://digitalidentity.co.jp/blog/pmd-act/cosme-advertising.html",
    "summary": "化粧品広告は薬機法上「医薬品的な効能効果を謳わない」ことと、景品表示法上「根拠のない優良表示をしない」ことの両面チェックが必要。SNS投稿やインフルエンサーPR、アフィリエイト記事も誘引目的があれば広告とみなされ規制対象になる点に注意。",
@@ -678,16 +708,16 @@
   },
   {
    "source_category": "news_web",
-   "raw_title": "化粧崩れについて化粧崩れとはどういう状態の事を言うのですか？化粧初...",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13156952253",
-   "summary": "メイク初心者から「どこからが化粧崩れなのか分からない」という質問。崩れの定義や基準そのものへの理解不足が読者の生ペインとして表れている。",
+   "raw_title": "中学生女子です！最近スキンケアをはじめようと思ったのですが...",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13329264463",
+   "summary": "スキンケアを何もやったことがなく、何を使えばいいか分からないという初心者の生の悩み。季節の変わり目や制度改正で選び方が変わる場面でも、そもそも基礎知識がない読者が置き去りになりやすい角度の種。",
    "signal_type": "evergreen",
    "engagement_signal": false,
    "approx_traffic": "100+",
    "preliminary_claim_type": "opinion",
    "relevance_to_niche": "high",
    "topic_category": null,
-   "primary_genre": "beauty-makeup",
+   "primary_genre": "beauty-skincare",
    "karte_matched_category": null,
    "karte_aligned": false,
    "account_id": "default",
@@ -695,16 +725,16 @@
    "provenance": {
     "source_name": "Yahoo!知恵袋",
     "expert_origin": false,
-    "search_query": "化粧崩れ 知恵袋 質問",
+    "search_query": "site:chiebukuro.yahoo.co.jp 秋 乾燥肌 スキンケア 何から始めれば",
     "freshness": "evergreen",
     "integrity_warning": null,
     "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
+    "opportunity_gap": true,
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-09-03T16:43:24+09:00",
-   "validity_days": 7
+   "valid_until": "2026-09-14T16:45:24+09:00",
+   "validity_days": 14
   },
   {
    "source_category": "news_web",
@@ -824,36 +854,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-04T16:42:01+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "スキンケアの切り替え時期はいつ？季節ごとの肌に合わせたケア方法を解説",
-   "url": "https://ic-clinic-ikebukuro.com/column-skincare-switch-season/",
-   "summary": "季節の変わり目のスキンケア切り替えはカレンダー通りではなく、乾燥やテカリなど肌が発するサインを観察して判断すべきとし、年3～4回の見直し目安や秋の保湿強化ポイントを紹介。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "beauty-skincare",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "アイシークリニック池袋院",
-    "expert_origin": true,
-    "search_query": "スキンケア 切り替え時期 わからない 知恵袋 乾燥 秋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-08-31T16:44:36+09:00",
    "validity_days": 14
   }
  ]
