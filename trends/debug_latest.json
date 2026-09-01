@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T09:46:00+09:00",
+  "generated_at": "2026-09-01T15:46:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,55 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
-    "dedup_excluded": 10,
-    "passed_total": 111,
+    "neg_excluded": 12,
+    "dedup_excluded": 11,
+    "passed_total": 109,
     "b2b_category_counts": {
-      "x_realtime": 8,
       "yahoo_realtime": 34,
-      "google_trends": 10,
-      "news_web": 16,
-      "yahoo_news_ranking": 2
+      "x_realtime": 8,
+      "google_trends": 9,
+      "news_web": 13,
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 31,
+    "social_reaction": 35,
+    "personal_story": 4,
     "opinion": 9,
-    "personal_story": 2,
-    "hard_fact": 21,
-    "policy": 7
+    "hard_fact": 18,
+    "medical_science": 1,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 31,
-    "hard_fact": 21,
+    "social_reaction": 35,
     "opinion": 9,
-    "policy": 7,
-    "personal_story": 2
+    "hard_fact": 19,
+    "personal_story": 4,
+    "policy": 3
   },
   "b2b_top10": [
     {
-      "title": "旦那が娘に勉強を教え始めたら、キツめの口調で「ちゃんと集中しろ」「〇から〇引くん",
+      "title": "「福島大には触らせたくない」wakatte.tv、今度は福島大学で炎上どころでは",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "披露宴の集合写真で新郎新婦のど真ん中に写ろうとした親戚の4歳児を引っ捕まえて「真",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "本が売れないなら「全ページ無料で読ませる」　元新潮社の編集者がU-NEXTで模索",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「生活道路」法定速度30キロ初日 違反を警戒 | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -55,49 +74,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "水産庁がアキアジ釣りをしている人に聞き取り調査をしたが、「邪魔だ、どけ」「答えて",
+      "title": "俳優",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ずっと謎なんだけど、漫画で「とりあえずデートしよ」ってなったとき、なんでみんな水",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「本を貸す」だけじゃない　図書館の新たな役割、力を入れる県は？：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ロト6 2133回 当選番号",
+      "title": "東京ゲームショウ2026",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "コストコおすすめ",
+      "title": "最低賃金 2026",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "一楽 鹿児島",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "9月も厳しい残暑 熱中症に警戒",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "太陽",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "入道雲",
+      "title": "ミスド さつまいも ド",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,28 +106,34 @@
   ],
   "note_top10": [
     {
-      "title": "旦那が娘に勉強を教え始めたら、キツめの口調で「ちゃんと集中しろ」「〇から〇引くん",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "水産庁がアキアジ釣りをしている人に聞き取り調査をしたが、「邪魔だ、どけ」「答えて",
+      "title": "「福島大には触らせたくない」wakatte.tv、今度は福島大学で炎上どころでは",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ベランダにアシナガバチの巣…『非常にまずいことになっている、どうしよう』→「こん",
+      "title": "披露宴の集合写真で新郎新婦のど真ん中に写ろうとした親戚の4歳児を引っ捕まえて「真",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "コストコおすすめ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "本が売れないなら「全ページ無料で読ませる」　元新潮社の編集者がU-NEXTで模索",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「生活道路」法定速度30キロ初日 違反を警戒 | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ずっと謎なんだけど、漫画で「とりあえずデートしよ」ってなったとき、なんでみんな水",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "「戦争を甘く見る空気」が日本を覆っている…1937年と2026年の不気味な共通点",
@@ -135,31 +142,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「自分の見た目が気に入らないから結婚しない」のどこがバカみたいなんだ？",
+      "title": "オタワ市の「トランプ通り」、「TACO通り」に変更検討　カナダ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "管理職の研修で、部下のモチベーションを損ねない様に「大変な問題が生じた」をポジテ",
+      "title": "Febri サイト閉鎖のお知らせ | Febri",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "みずほ銀行「先月下した時と印鑑が違います」私「でも絶対印鑑これです」確認後、みず",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "大阪人の自分が初めて東京に行って「ここは大阪とちがう、東京や……！」と思った最初",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "息子がいじめで不登校になり、毎日死にたいと言われて参ってしまった…「死ぬ前にやり",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "自分は生後2ヶ月から託児所みたいな所に預けられていたが、母の休みの日にはいろんな",
+      "title": "「『小』のつくことばをかきましょう」という問題に対する、うちの5歳児の答えが香川",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
