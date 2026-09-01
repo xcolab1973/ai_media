@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T15:46:00+09:00",
+  "generated_at": "2026-09-01T21:46:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,43 +16,67 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 11,
-    "passed_total": 109,
+    "neg_excluded": 10,
+    "dedup_excluded": 7,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
-      "x_realtime": 8,
-      "google_trends": 9,
+      "yahoo_realtime": 35,
       "news_web": 13,
-      "yahoo_news_ranking": 6
+      "google_trends": 10,
+      "yahoo_news_ranking": 2,
+      "x_realtime": 10
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
-    "personal_story": 4,
-    "opinion": 9,
-    "hard_fact": 18,
+    "social_reaction": 37,
+    "opinion": 10,
+    "personal_story": 5,
+    "hard_fact": 15,
     "medical_science": 1,
-    "policy": 3
+    "policy": 2
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 35,
-    "opinion": 9,
-    "hard_fact": 19,
-    "personal_story": 4,
-    "policy": 3
+    "hard_fact": 17,
+    "social_reaction": 36,
+    "opinion": 10,
+    "personal_story": 5,
+    "policy": 2
   },
   "b2b_top10": [
     {
-      "title": "「福島大には触らせたくない」wakatte.tv、今度は福島大学で炎上どころでは",
+      "title": "茨城大、差別的言動繰り返した准教授を懲戒解雇　業務命令従わず | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "不動産ファンド「みんなで大家さん」事実上の事業終了へ　債務超過や返還約束を果たさ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "披露宴の集合写真で新郎新婦のど真ん中に写ろうとした親戚の4歳児を引っ捕まえて「真",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "キユーピー マヨネーズなど値上げ",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "非同意性交を含む成人向けコンテンツが「ほぼ唯一」生き残っている日本。どうしてそう",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ファミリーマート 倒産",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ロシアが自律型兵器使用か（辻󠄀’s ANGLE） | キャスター・ゲスト解説 |",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -62,43 +86,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「生活道路」法定速度30キロ初日 違反を警戒 | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「戦争を甘く見る空気」が日本を覆っている…1937年と2026年の不気味な共通点",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "俳優",
+      "title": "24時間テレビマラソン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ずっと謎なんだけど、漫画で「とりあえずデートしよ」ってなったとき、なんでみんな水",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "東京ゲームショウ2026",
+      "title": "vivant 相関 図",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "最低賃金 2026",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ミスド さつまいも ド",
+      "title": "石塚裕惺",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,15 +106,21 @@
   ],
   "note_top10": [
     {
-      "title": "「福島大には触らせたくない」wakatte.tv、今度は福島大学で炎上どころでは",
+      "title": "不動産ファンド「みんなで大家さん」事実上の事業終了へ　債務超過や返還約束を果たさ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "披露宴の集合写真で新郎新婦のど真ん中に写ろうとした親戚の4歳児を引っ捕まえて「真",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "非同意性交を含む成人向けコンテンツが「ほぼ唯一」生き残っている日本。どうしてそう",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ロシアが自律型兵器使用か（辻󠄀’s ANGLE） | キャスター・ゲスト解説 |",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -130,40 +136,34 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ずっと謎なんだけど、漫画で「とりあえずデートしよ」ってなったとき、なんでみんな水",
+      "title": "電動工具事業の事業移管手続き完了に関するお知らせ | 経営・財務 | 企業・経営",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「戦争を甘く見る空気」が日本を覆っている…1937年と2026年の不気味な共通点",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "オタワ市の「トランプ通り」、「TACO通り」に変更検討　カナダ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Febri サイト閉鎖のお知らせ | Febri",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "みずほ銀行「先月下した時と印鑑が違います」私「でも絶対印鑑これです」確認後、みず",
+      "title": "いらすとやが投稿した「フレネミー」のイラストに大方の予想通りファンアートがどんど",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「『小』のつくことばをかきましょう」という問題に対する、うちの5歳児の答えが香川",
+      "title": "「化け物すぎる」フルタイムで会社員をしながら連載漫画家をしている人が登場し、お絵",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "アパレル時代に某アニメキャラとのコラボ商品が決まり、二次創作との類似がないか連日",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ファミリーマート 倒産",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
