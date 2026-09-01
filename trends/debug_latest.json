@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T04:15:00+09:00",
+  "generated_at": "2026-09-01T09:46:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,38 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 8,
-    "passed_total": 115,
+    "neg_excluded": 11,
+    "dedup_excluded": 10,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
-      "google_trends": 9,
-      "x_realtime": 10,
-      "yahoo_news_ranking": 3,
-      "news_web": 12
+      "x_realtime": 8,
+      "yahoo_realtime": 34,
+      "google_trends": 10,
+      "news_web": 16,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 36,
-    "personal_story": 2,
+    "social_reaction": 31,
     "opinion": 9,
-    "hard_fact": 19,
-    "policy": 4
+    "personal_story": 2,
+    "hard_fact": 21,
+    "policy": 7
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 36,
-    "hard_fact": 19,
-    "personal_story": 2,
+    "social_reaction": 31,
+    "hard_fact": 21,
     "opinion": 9,
-    "policy": 4
+    "policy": 7,
+    "personal_story": 2
   },
   "b2b_top10": [
+    {
+      "title": "旦那が娘に勉強を教え始めたら、キツめの口調で「ちゃんと集中しろ」「〇から〇引くん",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "「戦争を甘く見る空気」が日本を覆っている…1937年と2026年の不気味な共通点",
       "source_category": "yahoo_realtime",
@@ -49,55 +55,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "電柱のない中国の大都市。台風災害を防ぐため、地中化100%をほぼ達成 - 中華I",
+      "title": "水産庁がアキアジ釣りをしている人に聞き取り調査をしたが、「邪魔だ、どけ」「答えて",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「本を貸す」だけじゃない　図書館の新たな役割、力を入れる県は？：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
     },
     {
-      "title": "「隣に死神がずっといるレベル」防護服や防護メガネを着用せずロングスカート姿で草刈",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "被害者のいないフィクションまで禁止される――世界の成人向け表現に何が起きているの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "映画『まどマギ』の悪臭問題が話題だけど、男女問わず夏の生乾き臭に悩んでいる人は多",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "今年の暑さ対策を総括したい・ハッカ油・肌キンキンシート・メイクキープミスト",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "肝臓にいいと信じていたのに肝障害に…内科医が警鐘｢飲み続けるとリスクがあるサプリ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "預金3000万円でプラチナカード無料　三菱UFJ「50兆円の富裕層囲い込み」に透",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "バルセロナ 対 ラージョ",
+      "title": "ロト6 2133回 当選番号",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "aston villa vs arsenal",
+      "title": "コストコおすすめ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "一楽 鹿児島",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "9月も厳しい残暑 熱中症に警戒",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "太陽",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "入道雲",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,34 +105,28 @@
   ],
   "note_top10": [
     {
-      "title": "映画『まどマギ』の悪臭問題が話題だけど、男女問わず夏の生乾き臭に悩んでいる人は多",
+      "title": "旦那が娘に勉強を教え始めたら、キツめの口調で「ちゃんと集中しろ」「〇から〇引くん",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "水産庁がアキアジ釣りをしている人に聞き取り調査をしたが、「邪魔だ、どけ」「答えて",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "今年の暑さ対策を総括したい・ハッカ油・肌キンキンシート・メイクキープミスト",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "ベランダにアシナガバチの巣…『非常にまずいことになっている、どうしよう』→「こん",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "肝臓にいいと信じていたのに肝障害に…内科医が警鐘｢飲み続けるとリスクがあるサプリ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「隣に死神がずっといるレベル」防護服や防護メガネを着用せずロングスカート姿で草刈",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "被害者のいないフィクションまで禁止される――世界の成人向け表現に何が起きているの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "コストコおすすめ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "「戦争を甘く見る空気」が日本を覆っている…1937年と2026年の不気味な共通点",
@@ -141,25 +135,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "オークションで「着払い」の品を落札したら、落札後に「着払いでお願いします。送料は",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "子育て楽で楽しいんだけど",
+      "title": "「自分の見た目が気に入らないから結婚しない」のどこがバカみたいなんだ？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "波を起こす車、まさに高みの見物…週末、福井県で記録的な大雨が発生したが、完全に水",
+      "title": "管理職の研修で、部下のモチベーションを損ねない様に「大変な問題が生じた」をポジテ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「火葬大国・日本 土葬希望する思い」この記事に疑問を呈す声が続々と集まる中、現在",
+      "title": "大阪人の自分が初めて東京に行って「ここは大阪とちがう、東京や……！」と思った最初",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "息子がいじめで不登校になり、毎日死にたいと言われて参ってしまった…「死ぬ前にやり",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "自分は生後2ヶ月から託児所みたいな所に預けられていたが、母の休みの日にはいろんな",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
