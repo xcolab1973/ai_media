@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T01:58:00+09:00",
+  "generated_at": "2026-09-02T08:32:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,38 +17,68 @@
       "x_realtime": 10
     },
     "neg_excluded": 9,
-    "dedup_excluded": 9,
-    "passed_total": 114,
+    "dedup_excluded": 7,
+    "passed_total": 116,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 37,
       "google_trends": 10,
-      "yahoo_news_ranking": 4,
       "x_realtime": 10,
-      "news_web": 11
+      "yahoo_news_ranking": 4,
+      "news_web": 9
     }
   },
   "note_category_counts": {
     "social_reaction": 36,
     "opinion": 10,
-    "medical_science": 2,
-    "personal_story": 3,
+    "personal_story": 2,
+    "medical_science": 3,
     "hard_fact": 18,
     "policy": 1
   },
   "b2b_topic_category_counts": {
     "social_reaction": 36,
-    "hard_fact": 18,
     "opinion": 10,
-    "medical_science": 1,
-    "policy": 2,
-    "personal_story": 3
+    "hard_fact": 19,
+    "personal_story": 2,
+    "medical_science": 2,
+    "policy": 1
   },
   "b2b_top10": [
+    {
+      "title": "ゼレンスキー氏「ロシア領空が安全な時代は終わった」 無人機飛行で航空各社に警告",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ラーメンで食中毒を出しただけなのにちょっとの失敗も許されないんですか！？」→「",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "非同意性交を含む成人向けコンテンツが「ほぼ唯一」生き残っている日本。どうしてそう",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "計量経済学(学部) – Kei Ikegami",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "不動産ファンド「みんなで大家さん」事実上の事業終了へ　債務超過や返還約束を果たさ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "バーンリー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "茨城大、差別的言動繰り返した准教授を懲戒解雇　業務命令従わず | 毎日新聞",
@@ -57,49 +87,19 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "非同意性交を含む成人向けコンテンツが「ほぼ唯一」生き残っている日本。どうしてそう",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ロシアが自律型兵器使用か（辻󠄀’s ANGLE） | キャスター・ゲスト解説 |",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ドラフトドラフト",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "映画 興行収入",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "キユーピー マヨネーズなど値上げ",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ヤクルト・石川雅規、今季限りでの現役引退決断　さらば小さな大投手　スワローズひと",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "とある博物館に法螺貝が置いてあり【ご自由にお吹きください。音が聞こえたら係りの者",
+      "title": "退職予定のポスト主の会社で、管理職が軒並み謎の休職か休暇を始め、部長は急に来なく",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "エンソフェルナンデス",
+      "title": "sbエナジー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "社会人野球",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,7 +107,13 @@
   ],
   "note_top10": [
     {
-      "title": "不動産ファンド「みんなで大家さん」事実上の事業終了へ　債務超過や返還約束を果たさ",
+      "title": "「ラーメンで食中毒を出しただけなのにちょっとの失敗も許されないんですか！？」→「",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ゼレンスキー氏「ロシア領空が安全な時代は終わった」 無人機飛行で航空各社に警告",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -119,51 +125,45 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ロシアが自律型兵器使用か（辻󠄀’s ANGLE） | キャスター・ゲスト解説 |",
+      "title": "計量経済学(学部) – Kei Ikegami",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "とある博物館に法螺貝が置いてあり【ご自由にお吹きください。音が聞こえたら係りの者",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "電動工具事業の事業移管手続き完了に関するお知らせ | 経営・財務 | 企業・経営",
+      "title": "不動産ファンド「みんなで大家さん」事実上の事業終了へ　債務超過や返還約束を果たさ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "名古屋城天守の木造復元「上限額の505億円に収めることは困難」　名古屋市長：中日",
+      "title": "退職予定のポスト主の会社で、管理職が軒並み謎の休職か休暇を始め、部長は急に来なく",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中学生の頃、不登校の友達に学校のプリントを届けたり、CDや漫画の貸し借り、おしゃ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "よくあるウィンナーコーヒーの逆パターンのネタのはずが瓢箪から駒…生卵トッピングで",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "総務省、日本郵便回答に介入か　取材対応案に「答えすぎ」とチャット：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "マッサージ店で「自由にやって」と言われたので、壮年層の会社員を狙って「強揉み」を",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "何度も擦りたくなるほど「魔法少女まどか☆マギカ」の制作経緯がおもしろい話…うっす",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「でっかいのはすきですか」なにかといろいろデカい女友達が道端でおっさんに「ナイス",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「命あってよかった」高価トレカのある家に空き巣が侵入、ドアをバールでこじ開けイン",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "ネパール土石流、標高５２００ｍの氷河・岩盤が崩落し「時速１６７ｋｍ」で流れ下った",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
