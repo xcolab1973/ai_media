@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T21:46:00+09:00",
+  "generated_at": "2026-09-02T01:58:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,39 +16,34 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 7,
-    "passed_total": 115,
+    "neg_excluded": 9,
+    "dedup_excluded": 9,
+    "passed_total": 114,
     "b2b_category_counts": {
       "yahoo_realtime": 35,
-      "news_web": 13,
       "google_trends": 10,
-      "yahoo_news_ranking": 2,
-      "x_realtime": 10
+      "yahoo_news_ranking": 4,
+      "x_realtime": 10,
+      "news_web": 11
     }
   },
   "note_category_counts": {
-    "social_reaction": 37,
-    "opinion": 10,
-    "personal_story": 5,
-    "hard_fact": 15,
-    "medical_science": 1,
-    "policy": 2
-  },
-  "b2b_topic_category_counts": {
-    "hard_fact": 17,
     "social_reaction": 36,
     "opinion": 10,
-    "personal_story": 5,
-    "policy": 2
+    "medical_science": 2,
+    "personal_story": 3,
+    "hard_fact": 18,
+    "policy": 1
+  },
+  "b2b_topic_category_counts": {
+    "social_reaction": 36,
+    "hard_fact": 18,
+    "opinion": 10,
+    "medical_science": 1,
+    "policy": 2,
+    "personal_story": 3
   },
   "b2b_top10": [
-    {
-      "title": "茨城大、差別的言動繰り返した准教授を懲戒解雇　業務命令従わず | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
     {
       "title": "不動産ファンド「みんなで大家さん」事実上の事業終了へ　債務超過や返還約束を果たさ",
       "source_category": "yahoo_realtime",
@@ -56,9 +51,9 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "キユーピー マヨネーズなど値上げ",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
+      "title": "茨城大、差別的言動繰り返した准教授を懲戒解雇　業務命令従わず | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
     },
     {
@@ -68,37 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ファミリーマート 倒産",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
       "title": "ロシアが自律型兵器使用か（辻󠄀’s ANGLE） | キャスター・ゲスト解説 |",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "本が売れないなら「全ページ無料で読ませる」　元新潮社の編集者がU-NEXTで模索",
+      "title": "ドラフトドラフト",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "映画 興行収入",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "キユーピー マヨネーズなど値上げ",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "ヤクルト・石川雅規、今季限りでの現役引退決断　さらば小さな大投手　スワローズひと",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "とある博物館に法螺貝が置いてあり【ご自由にお吹きください。音が聞こえたら係りの者",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "24時間テレビマラソン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "vivant 相関 図",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "石塚裕惺",
+      "title": "エンソフェルナンデス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -124,15 +125,9 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "本が売れないなら「全ページ無料で読ませる」　元新潮社の編集者がU-NEXTで模索",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「生活道路」法定速度30キロ初日 違反を警戒 | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "とある博物館に法螺貝が置いてあり【ご自由にお吹きください。音が聞こえたら係りの者",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -142,28 +137,34 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "いらすとやが投稿した「フレネミー」のイラストに大方の予想通りファンアートがどんど",
+      "title": "名古屋城天守の木造復元「上限額の505億円に収めることは困難」　名古屋市長：中日",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "マッサージ店で「自由にやって」と言われたので、壮年層の会社員を狙って「強揉み」を",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「化け物すぎる」フルタイムで会社員をしながら連載漫画家をしている人が登場し、お絵",
+      "title": "何度も擦りたくなるほど「魔法少女まどか☆マギカ」の制作経緯がおもしろい話…うっす",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "アパレル時代に某アニメキャラとのコラボ商品が決まり、二次創作との類似がないか連日",
+      "title": "「でっかいのはすきですか」なにかといろいろデカい女友達が道端でおっさんに「ナイス",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ファミリーマート 倒産",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "「命あってよかった」高価トレカのある家に空き巣が侵入、ドアをバールでこじ開けイン",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ]
 }
