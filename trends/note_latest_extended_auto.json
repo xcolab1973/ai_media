@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-02T16:53:55+09:00",
- "valid_until": "2026-09-15T07:18:15+09:00",
+ "generated_at": "2026-09-03T06:45:36+09:00",
+ "valid_until": "2026-09-17T06:35:43+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "auto",
   "from_current": 15,
-  "from_new": 3,
-  "expired_pruned": 0,
-  "retention_dropped": 0,
+  "from_new": 2,
+  "expired_pruned": 1,
+  "retention_dropped": 1,
   "genres": 2,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "車を買ってはいけない時期がある？ 初売りや決算セール時期と攻略法 - 中古車のガリバー",
+   "url": "https://221616.com/car-topics/20211122-103630/",
+   "summary": "中古車の決算期（3月・9月）は値引き交渉の余地がある一方、需要集中で相場が上がりやすい面も。整備記録簿や保証の有無を確認し、宣伝文句を鵜呑みにせず相場と比較する重要性を指摘。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "auto-choose-review",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "中古車のガリバー",
+    "expert_origin": false,
+    "search_query": "中古車 決算セール 9月 買い時 注意点",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-10T06:35:43+09:00",
+   "validity_days": 7
+  },
   {
    "source_category": "news_web",
    "raw_title": "子育てにスライドドアはいらない？後悔しないための車選びのポイント",
@@ -228,33 +258,33 @@
   },
   {
    "source_category": "news_web",
-   "raw_title": "中古車購入で自賠責保険の名義変更は必要ない？手続きの流れと必要書類を解説",
-   "url": "https://www.navikuru.jp/articles/used/548/",
-   "summary": "中古車購入時、自賠責保険の名義（被保険者）は前所有者のままでも法的義務ではなく対人補償は成立するため名義変更を忘れがちだが、放置すると各種手続きが煩雑化し前所有者の個人情報が絡むトラブルにもなり得るため、購入と同時の変更が推奨されている。",
+   "raw_title": "バイクを持ち続けるか、手放すべきか悩んでいます・・・ - Yahoo!知恵袋",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12110479092",
+   "summary": "維持費負担でバイクを持ち続けるか手放すか悩む読者の生の質問。趣味に注ぎ込む余裕がない場合は手放すべきという意見も見られる。",
    "signal_type": "evergreen",
    "engagement_signal": false,
    "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
+   "preliminary_claim_type": "opinion",
    "relevance_to_niche": "high",
    "topic_category": null,
-   "primary_genre": "auto-choose-review",
+   "primary_genre": "auto-bike",
    "karte_matched_category": null,
    "karte_aligned": false,
    "account_id": "default",
    "origin": "pre_collector_extended",
    "provenance": {
-    "source_name": "なびくる（中古車情報メディア）",
-    "expert_origin": true,
-    "search_query": "中古車 購入 名義変更 自賠責保険 間に合わない 知恵袋",
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "バイク 維持費 高い 手放す 知恵袋",
     "freshness": "evergreen",
     "integrity_warning": null,
-    "provenance_kind": "evidence",
+    "provenance_kind": "pain_seed",
     "opportunity_gap": false,
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-09-04T06:36:59+09:00",
-   "validity_days": 7
+   "valid_until": "2026-09-17T06:35:43+09:00",
+   "validity_days": 14
   },
   {
    "source_category": "news_web",
@@ -434,36 +464,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-05T06:34:52+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "バイク車検費用の相場と内訳を徹底解説！ 費用を抑える5つの方法も紹介",
-   "url": "https://2rinkan.jp/ridersacademy/archives/3604/",
-   "summary": "バイク車検の費用相場は4〜7万円。ユーザー車検なら法定費用のみで2万円以内に収まる一方、知識と時間が必要。ディーラー車検・代行車検との中間的な選択肢もあり、普段の整備の有無が総額を左右する。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "auto-bike",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "ライダーズアカデミー(2りんかん)",
-    "expert_origin": true,
-    "search_query": "バイク 車検 費用 高すぎる 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-03T06:35:45+09:00",
    "validity_days": 14
   }
  ]
