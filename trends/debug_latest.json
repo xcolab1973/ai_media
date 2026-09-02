@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T15:25:00+09:00",
+  "generated_at": "2026-09-02T21:17:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,154 +16,154 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 8,
-    "passed_total": 112,
+    "neg_excluded": 9,
+    "dedup_excluded": 10,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 38,
+      "x_realtime": 8,
       "google_trends": 10,
-      "news_web": 13,
-      "x_realtime": 9,
-      "yahoo_news_ranking": 3
+      "news_web": 10,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "personal_story": 4,
-    "opinion": 8,
-    "medical_science": 3,
-    "hard_fact": 17,
-    "policy": 5
+    "personal_story": 5,
+    "social_reaction": 31,
+    "opinion": 10,
+    "medical_science": 2,
+    "hard_fact": 18,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
-    "opinion": 8,
-    "hard_fact": 18,
-    "medical_science": 2,
-    "personal_story": 4,
-    "policy": 5
+    "personal_story": 5,
+    "social_reaction": 31,
+    "opinion": 10,
+    "hard_fact": 19,
+    "medical_science": 1,
+    "policy": 4
   },
   "b2b_top10": [
     {
-      "title": "娘が部活のホルンを床に落としてしまい、修理見積りが12万円と顧問から電話「物損の",
+      "title": "マジック：ザ・ギャザリングの新製品が炎上商法で『津波で溺れる日本人』『原爆キノコ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "早朝に神社の境内でヨガ教室が開かれていた…参加者のトイレに関する苦情のメールで発",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "HBO Maxブランドの展開終了について - お知らせ | U-NEXTヘルプセ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ソニー、ダウンロード版ゲームは「所有」ではないと法廷で主張　なぜ購入時に分かりや",
+      "title": "最近買って良かったもの、ハイエンドスマホ - 斗比主閲子の姑日記",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「放射能問題、福島大には触らせたくない」で炎上した学歴系YouTuber、謝罪・",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ゼレンスキー氏「ロシア領空が安全な時代は終わった」 無人機飛行で航空各社に警告",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ラーメンで食中毒を出しただけなのにちょっとの失敗も許されないんですか！？」→「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "計量経済学(学部) – Kei Ikegami",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "トランプ",
+      "title": "line",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "北日本で大雨 広範囲で雷雨に注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "立憲 民主党 中道",
+      "title": "二階堂ふみ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "windows insider",
+      "title": "日本ハム 対 ソフトバンク",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "医療過誤",
+      "title": "警告試合",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
-      "topic_category": "medical_science"
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「以下、過去にお断りしたテレビ制作関係者からのオファーです」栃木県の猟友会が明か",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
-      "title": "娘が部活のホルンを床に落としてしまい、修理見積りが12万円と顧問から電話「物損の",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ラーメンで食中毒を出しただけなのにちょっとの失敗も許されないんですか！？」→「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ソニー、ダウンロード版ゲームは「所有」ではないと法廷で主張　なぜ購入時に分かりや",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "計量経済学(学部) – Kei Ikegami",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ゼレンスキー氏「ロシア領空が安全な時代は終わった」 無人機飛行で航空各社に警告",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "洗剤の選び方をガチで教えてほしい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "写真で見る　三菱自動車 新型「パジェロ」（5代目/2026年世界初公開）",
+      "title": "マジック：ザ・ギャザリングの新製品が炎上商法で『津波で溺れる日本人』『原爆キノコ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "三菱自動車、新型「パジェロ」世界初公開 走行性能と上質さを磨き上げフラグシップS",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「蒙古タンメンというラーメンがあるのですが判定をお願いします」ラーメンに麻婆豆腐",
+      "title": "早朝に神社の境内でヨガ教室が開かれていた…参加者のトイレに関する苦情のメールで発",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「年の割に若く見える。何かしてるんですか」と聞かれるとき「独身で子供なし、定職に",
+      "title": "最近買って良かったもの、ハイエンドスマホ - 斗比主閲子の姑日記",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "HBO Maxブランドの展開終了について - お知らせ | U-NEXTヘルプセ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「放射能問題、福島大には触らせたくない」で炎上した学歴系YouTuber、謝罪・",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「以下、過去にお断りしたテレビ制作関係者からのオファーです」栃木県の猟友会が明か",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中学受験で34泊35日の勉強合宿に行かせている親がいたが、学力のためではなく、出",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "上司が会議中に突然ブチギレて退席し、コンビニでスーパードライの500ml缶と手巻",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「こないだ3万円で『羊のいらない枕』を買ったのに」似たような枕が9900円でニト",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "民団支部にカミソリ、脅迫か　虐殺想起の「15円50銭」も",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
