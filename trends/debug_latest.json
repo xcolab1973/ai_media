@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T01:53:00+09:00",
+  "generated_at": "2026-09-03T08:32:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,38 +16,38 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 11,
+    "neg_excluded": 7,
+    "dedup_excluded": 12,
     "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 38,
+      "x_realtime": 6,
+      "yahoo_realtime": 39,
       "google_trends": 10,
-      "x_realtime": 7,
-      "yahoo_news_ranking": 3,
-      "news_web": 12
+      "news_web": 14,
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 36,
-    "personal_story": 3,
+    "social_reaction": 31,
+    "personal_story": 5,
     "opinion": 10,
-    "medical_science": 1,
-    "hard_fact": 18,
-    "policy": 2
+    "medical_science": 3,
+    "hard_fact": 14,
+    "policy": 7
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 36,
-    "personal_story": 3,
+    "social_reaction": 31,
+    "personal_story": 5,
     "opinion": 10,
-    "medical_science": 1,
-    "hard_fact": 18,
-    "policy": 2
+    "hard_fact": 14,
+    "medical_science": 3,
+    "policy": 7
   },
   "b2b_top10": [
     {
-      "title": "早朝に神社の境内でヨガ教室が開かれていた…参加者のトイレに関する苦情のメールで発",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "知人に警察から落とし物が届いていると連絡があったが、「取りに来ないほうがいい、拾",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -57,16 +57,16 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "“財政のプロ”斎藤元彦知事の兵庫県はなぜ「起債許可団体」に転落したのか、「前知事",
+      "title": "田村淳がサングラス着用に対して「サングラスをしてテレビに出るな」「カッコつけるな",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "最近買って良かったもの、ハイエンドスマホ - 斗比主閲子の姑日記",
+      "title": "“財政のプロ”斎藤元彦知事の兵庫県はなぜ「起債許可団体」に転落したのか、「前知事",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
       "title": "HBO Maxブランドの展開終了について - お知らせ | U-NEXTヘルプセ",
@@ -81,25 +81,25 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "トヨタ・ルーミー",
+      "title": "早朝に神社の境内でヨガ教室が開かれていた…参加者のトイレに関する苦情のメールで発",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "バレーボール 日本 女子 代表",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "大野愛実",
+      "title": "lee jisoo hana",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "バーヴァン シー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "長谷部茂利",
+      "title": "阪神森下翔太",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,9 +107,9 @@
   ],
   "note_top10": [
     {
-      "title": "早朝に神社の境内でヨガ教室が開かれていた…参加者のトイレに関する苦情のメールで発",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "知人に警察から落とし物が届いていると連絡があったが、「取りに来ないほうがいい、拾",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -119,13 +119,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "最近買って良かったもの、ハイエンドスマホ - 斗比主閲子の姑日記",
+      "title": "LINEの便利機能が｢実質有料化｣されていく…｢1億人が使う業務連絡ツール｣にイ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "LINEの便利機能が｢実質有料化｣されていく…｢1億人が使う業務連絡ツール｣にイ",
+      "title": "田村淳がサングラス着用に対して「サングラスをしてテレビに出るな」「カッコつけるな",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -143,25 +143,25 @@
       "topic_category": "personal_story"
     },
     {
+      "title": "早朝に神社の境内でヨガ教室が開かれていた…参加者のトイレに関する苦情のメールで発",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "社内フォルダで資料を探してたら、ポスト主を雇用するための決裁文書を発見…派遣会社",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「えこれ普通じゃないの？」怒鳴った翌日、何事もなかったように話しかけてくる親の元",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "「こないだ3万円で『羊のいらない枕』を買ったのに」似たような枕が9900円でニト",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「以下、過去にお断りしたテレビ制作関係者からのオファーです」栃木県の猟友会が明か",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "読みたい記事が見つかるnote、見つからない はてなブログ - そっとツイート／",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ネパール土石流「援助でなく正義と補償を」　外相、米中印に責任問う：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
