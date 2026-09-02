@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T08:32:00+09:00",
+  "generated_at": "2026-09-02T15:25:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,46 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 7,
-    "passed_total": 116,
+    "neg_excluded": 12,
+    "dedup_excluded": 8,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "x_realtime": 10,
-      "yahoo_news_ranking": 4,
-      "news_web": 9
+      "news_web": 13,
+      "x_realtime": 9,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 36,
-    "opinion": 10,
-    "personal_story": 2,
+    "social_reaction": 33,
+    "personal_story": 4,
+    "opinion": 8,
     "medical_science": 3,
-    "hard_fact": 18,
-    "policy": 1
+    "hard_fact": 17,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 36,
-    "opinion": 10,
-    "hard_fact": 19,
-    "personal_story": 2,
+    "social_reaction": 33,
+    "opinion": 8,
+    "hard_fact": 18,
     "medical_science": 2,
-    "policy": 1
+    "personal_story": 4,
+    "policy": 5
   },
   "b2b_top10": [
+    {
+      "title": "娘が部活のホルンを床に落としてしまい、修理見積りが12万円と顧問から電話「物損の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ソニー、ダウンロード版ゲームは「所有」ではないと法廷で主張　なぜ購入時に分かりや",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "ゼレンスキー氏「ロシア領空が安全な時代は終わった」 無人機飛行で航空各社に警告",
       "source_category": "yahoo_realtime",
@@ -57,69 +69,57 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "非同意性交を含む成人向けコンテンツが「ほぼ唯一」生き残っている日本。どうしてそう",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "計量経済学(学部) – Kei Ikegami",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "不動産ファンド「みんなで大家さん」事実上の事業終了へ　債務超過や返還約束を果たさ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "バーンリー",
+      "title": "トランプ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "茨城大、差別的言動繰り返した准教授を懲戒解雇　業務命令従わず | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "北日本で大雨 広範囲で雷雨に注意",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "退職予定のポスト主の会社で、管理職が軒並み謎の休職か休暇を始め、部長は急に来なく",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "sbエナジー",
+      "title": "立憲 民主党 中道",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "社会人野球",
+      "title": "windows insider",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
+    },
+    {
+      "title": "医療過誤",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "medical_science"
     }
   ],
   "note_top10": [
     {
+      "title": "娘が部活のホルンを床に落としてしまい、修理見積りが12万円と顧問から電話「物損の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "「ラーメンで食中毒を出しただけなのにちょっとの失敗も許されないんですか！？」→「",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ゼレンスキー氏「ロシア領空が安全な時代は終わった」 無人機飛行で航空各社に警告",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "非同意性交を含む成人向けコンテンツが「ほぼ唯一」生き残っている日本。どうしてそう",
+      "title": "ソニー、ダウンロード版ゲームは「所有」ではないと法廷で主張　なぜ購入時に分かりや",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -131,39 +131,39 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "不動産ファンド「みんなで大家さん」事実上の事業終了へ　債務超過や返還約束を果たさ",
+      "title": "ゼレンスキー氏「ロシア領空が安全な時代は終わった」 無人機飛行で航空各社に警告",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "退職予定のポスト主の会社で、管理職が軒並み謎の休職か休暇を始め、部長は急に来なく",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中学生の頃、不登校の友達に学校のプリントを届けたり、CDや漫画の貸し借り、おしゃ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "よくあるウィンナーコーヒーの逆パターンのネタのはずが瓢箪から駒…生卵トッピングで",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "総務省、日本郵便回答に介入か　取材対応案に「答えすぎ」とチャット：朝日新聞",
+      "title": "洗剤の選び方をガチで教えてほしい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ネパール土石流、標高５２００ｍの氷河・岩盤が崩落し「時速１６７ｋｍ」で流れ下った",
+      "title": "写真で見る　三菱自動車 新型「パジェロ」（5代目/2026年世界初公開）",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "三菱自動車、新型「パジェロ」世界初公開 走行性能と上質さを磨き上げフラグシップS",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「蒙古タンメンというラーメンがあるのですが判定をお願いします」ラーメンに麻婆豆腐",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「年の割に若く見える。何かしてるんですか」と聞かれるとき「独身で子供なし、定職に",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
