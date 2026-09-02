@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-01T07:27:06+09:00",
- "valid_until": "2026-09-15T07:24:48+09:00",
+ "generated_at": "2026-09-02T16:53:56+09:00",
+ "valid_until": "2026-09-16T16:51:58+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -10,8 +10,8 @@
   "parent": "work",
   "from_current": 30,
   "from_new": 1,
-  "expired_pruned": 0,
-  "retention_dropped": 1,
+  "expired_pruned": 1,
+  "retention_dropped": 0,
   "genres": 4,
   "retention_per_genre": 8
  },
@@ -738,6 +738,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "教育訓練給付金を申し込みました。その後、教習を受けている間に転職しました。何...",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13315566598",
+   "summary": "教育訓練給付金を申し込んだ後、受講中に転職した場合の扱いについてYahoo!知恵袋で相談されている。給付金と離職・転職のタイミングが絡む手続き面の不安が背景にあり、公式要件と実際の運用の間で判断に迷うケースがうかがえる。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "work-jobhunt",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "site:chiebukuro.yahoo.co.jp 教育訓練給付金 転職",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-16T16:51:58+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "転職時の有給消化と退職を伝えるタイミングについて。現在転職活動中で...",
    "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13276901573",
    "summary": "転職活動中の質問者が、内定後いつ有給消化の希望と退職意思を上司に伝えるべきか悩む生の相談。円満退職と引き継ぎ・入社日調整のタイミングのズレが実際につまずくポイントとして語られている。",
@@ -884,36 +914,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-04T16:48:27+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "【40代女性】資格なしでの転職は難しい？有効な対策やおすすめの職種も紹介",
-   "url": "https://mynavi-agent.jp/knowledge/womanwill/1413.html",
-   "summary": "40代女性の資格なし転職は即戦力志向・年収ダウンのリスクなどから難易度が上がるが、営業職やドライバーなど未経験可の職種は存在すると解説。エージェント視点での定番アドバイス記事で目新しさは薄い。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "work-jobhunt",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "マイナビ転職エージェント",
-    "expert_origin": true,
-    "search_query": "転職 40代未経験 やめとけ 知恵袋 資格 意味ない",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": true,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-02T16:48:22+09:00",
    "validity_days": 14
   }
  ]
