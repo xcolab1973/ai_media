@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-03T16:52:31+09:00",
- "valid_until": "2026-09-17T16:42:50+09:00",
+ "generated_at": "2026-09-04T06:48:10+09:00",
+ "valid_until": "2026-09-18T06:34:47+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,13 +9,73 @@
  "merge": {
   "parent": "childcare",
   "from_current": 15,
-  "from_new": 1,
-  "expired_pruned": 0,
+  "from_new": 2,
+  "expired_pruned": 1,
   "retention_dropped": 1,
   "genres": 2,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "妊娠・基礎疾患等をお持ちの方々へ",
+   "url": "https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou04/inful_ninpu.html",
+   "summary": "厚生労働省による妊婦向けインフルエンザワクチン案内。流行前の秋〜冬の接種を推奨、不活化ワクチンで妊娠への特別な影響報告はなし。基礎疾患や出産予定日を踏まえ、接種の適否・時期は主治医と相談するよう案内。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "safety_claim",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "childcare-pregnancy",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "厚生労働省",
+    "expert_origin": true,
+    "search_query": "妊婦 インフルエンザ予防接種 秋 時期 注意点 2026",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-18T06:34:47+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "妊娠中にインフルエンザのワクチン接種を受けた方いますか？受けた方は...",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13281291413",
+   "summary": "妊娠中にインフルエンザワクチンを接種すべきか悩む読者の質問。他の妊婦の接種経験・接種週数・判断基準を知りたいという生の不安の声で、医学的断定や数値の主張は含まない。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "childcare-pregnancy",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "妊娠中 インフルエンザ予防接種 迷う 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-18T06:34:47+09:00",
+   "validity_days": 14
+  },
   {
    "source_category": "news_web",
    "raw_title": "秋生まれ(10、11、12月)の保活はいつから?妊娠中から積極的に保活をするのがおすすめ",
@@ -194,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-10T06:36:24+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "【医師監修】これって陣痛？前駆陣痛と本陣痛の違いを解説｜見分け方・病院への連絡の目安も",
-   "url": "https://www.ai-maternity.com/column/ie4345js1ei",
-   "summary": "医師監修記事。前駆陣痛と本陣痛の違い、痛みの間隔や強さの見分け方、病院へ連絡すべきタイミングの目安（初産は10分間隔前後など）を解説。台風など気圧変化の大きい時期は普段と違う体調の揺れを感じやすく、いつ病院に連絡すべきか判断に迷う妊婦の不安に応える内容。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "childcare-pregnancy",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "愛産婦人科",
-    "expert_origin": true,
-    "search_query": "台風 妊婦 備え 陣痛 いつ病院に行く 目安",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-06T06:34:10+09:00",
    "validity_days": 14
   },
   {
@@ -434,36 +464,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-05T16:42:52+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "産前・産後サポート事業ガイドライン／産後ケア事業ガイドライン（令和8年3月）",
-   "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/ff38becb-bbd1-41f3-a95e-3a22ddac09d8/317bd576/20260331_policies_boshihoken_173.pdf",
-   "summary": "令和8年4月から産後ケア事業の対象者要件が「産後ケアを必要とする者」に見直され原則誰でも利用可能に。利用料の所得によらない減免、宿泊・通所・訪問を横断利用できる利用券（電子クーポン等）方式への移行が全国の自治体で進む。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "childcare-newborn",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "こども家庭庁",
-    "expert_origin": true,
-    "search_query": "産後ケア事業 令和8年度 対象者要件撤廃 利用券方式 2026年4月",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-03T17:12:40+09:00",
    "validity_days": 14
   }
  ]

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T06:45:36+09:00",
+ "generated_at": "2026-09-04T06:48:10+09:00",
  "valid_until": "2026-09-17T06:36:47+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -8,14 +8,44 @@
  "total_count": 20,
  "merge": {
   "parent": "mgmt",
-  "from_current": 22,
-  "from_new": 2,
-  "expired_pruned": 3,
-  "retention_dropped": 1,
+  "from_current": 20,
+  "from_new": 1,
+  "expired_pruned": 1,
+  "retention_dropped": 0,
   "genres": 3,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "簡易課税制度選択届出書とは？個人事業主向けに書き方を解説",
+   "url": "https://biz.moneyforward.com/tax_return/basic/64302/",
+   "summary": "簡易課税制度を選ぶには「消費税簡易課税制度選択届出書」を事前に税務署へ提出する必要があり、個人事業主は翌年から適用したい場合前年12月31日が提出期限。出し忘れると1年間は変更できず、2割特例終了後に慌てて選び方に迷う個人事業主が今後増える見込み。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "hard_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "mgmt-finance",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "マネーフォワード クラウド確定申告",
+    "expert_origin": true,
+    "search_query": "簡易課税 届出 迷う 個人事業主 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-11T06:40:33+09:00",
+   "validity_days": 7
+  },
   {
    "source_category": "news_web",
    "raw_title": "インボイス制度消費税本則課税2割特例簡易課税建設業、個人事業主です。100...",
@@ -104,36 +134,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-05T07:03:17+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "個人事業主の方、上手くいかないときにどうやって乗り越えましたか",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11154994431",
-   "summary": "売上が伸び悩み資金繰りに行き詰まった個人事業主からの相談投稿。制度知識だけでは埋まらない「心が折れそうな時にどう踏みとどまったか」という体験ベースの問いで、教科書的な資金繰り解説とは別軸の角度の種になる。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "mgmt-finance",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "個人事業主 資金繰り 苦しい site:chiebukuro.yahoo.co.jp",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-04T06:38:21+09:00",
    "validity_days": 7
   },
   {

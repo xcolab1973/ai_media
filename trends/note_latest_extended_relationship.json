@@ -1,21 +1,51 @@
 {
- "generated_at": "2026-09-03T16:52:31+09:00",
- "valid_until": "2026-09-17T16:48:55+09:00",
+ "generated_at": "2026-09-04T06:48:10+09:00",
+ "valid_until": "2026-09-18T06:40:49+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "relationship",
- "total_count": 24,
+ "total_count": 23,
  "merge": {
   "parent": "relationship",
-  "from_current": 23,
+  "from_current": 24,
   "from_new": 1,
-  "expired_pruned": 0,
+  "expired_pruned": 2,
   "retention_dropped": 0,
   "genres": 3,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "職場に馴染めない。新卒で入社して2ヶ月目、20代女です。接客業で働い...",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14227360324",
+   "summary": "新卒・接客業で入社2ヶ月、職場の人間関係に馴染めず悩む相談。自分から話しかける積極性の不足や疎外感など、異動・転職直後にありがちな孤立感が生々しく語られている。数値断定はなく、悩みの種としての参照。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "relationship-social",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "異動 新しい職場 馴染めない 人間関係 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-18T06:40:49+09:00",
+   "validity_days": 14
+  },
   {
    "source_category": "news_web",
    "raw_title": "新しい職場での人間関係で悩んでいます。転職して、この4月から...",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-06T06:39:52+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "〖家族向け〗高齢の親の話が長い・同じ話の繰り返しで疲れる…介護福祉士が教える「聞き方」7つのコツ",
-   "url": "https://shogokeicho.com/parent-long-talk-listening-tips-7/",
-   "summary": "敬老の日を前に、離れて暮らす高齢の親と話す機会が増える時期に向けた記事。介護福祉士が、親の長い話や同じ話の繰り返しに疲れてしまう子ども世代に向けて、否定せず受け止める聞き方のコツを7つ紹介。何を話せばいいか分からないという気まずさへの実務的な対処法。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "relationship-social",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "お話し日和・笑護（介護福祉士監修）",
-    "expert_origin": true,
-    "search_query": "敬老の日 離れて暮らす親 会話 気まずい 何を話せばいいかわからない",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": true,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-04T06:41:48+09:00",
    "validity_days": 14
   },
   {
@@ -704,36 +704,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-05T16:49:55+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "熟年離婚した人で後悔している人はどんな点が1番の問題ですか？特にお金についてどうすれば良かったか",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13317855763",
-   "summary": "熟年離婚を経験し後悔している人に、特にお金の面でどうすればよかったかを尋ねる質問。離婚を決断する前にやり残したことへの後悔が読み取れ、「熟年離婚を検討中の人が事前に何を準備すべきか」という下流の問いにつながる生ペイン。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "relationship-marriage",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "熟年离婚 迷っている 相談 知恵袋 OR OKWAVE",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-03T17:18:33+09:00",
    "validity_days": 14
   }
  ]

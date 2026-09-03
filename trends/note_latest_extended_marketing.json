@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T16:52:31+09:00",
+ "generated_at": "2026-09-04T06:48:10+09:00",
  "valid_until": "2026-09-17T16:45:12+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -8,14 +8,44 @@
  "total_count": 34,
  "merge": {
   "parent": "marketing",
-  "from_current": 35,
-  "from_new": 4,
-  "expired_pruned": 3,
-  "retention_dropped": 2,
+  "from_current": 34,
+  "from_new": 1,
+  "expired_pruned": 1,
+  "retention_dropped": 0,
   "genres": 5,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "Google 広告のご利用規約の更新について（AI機能へのデータ利用範囲拡大）",
+   "url": "https://support.google.com/google-ads/answer/16875158?hl=ja",
+   "summary": "2026年7月1日付でGoogle広告の利用規約が改定され、入力データがキャンペーン横断でAI機能の性能改善に活用され得ると明記。自動適用のため運用フロー見直しが必要。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "official_instruction",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "marketing-web",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Google広告ヘルプ（公式）",
+    "expert_origin": true,
+    "search_query": "デジタル化・AI導入補助金2026 公募要領 生産性向上4% 対象要件",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-09T06:36:50+09:00",
+   "validity_days": 5
+  },
   {
    "source_category": "news_web",
    "raw_title": "「改正個人情報保護法」公布、2年以内に施行、AI開発などのデータ利活用の同意特例新設",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-04T16:44:17+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "中小企業がSEOで失敗する共通点｜外注・AI量産が機能しない理由と正しい進め方",
-   "url": "https://kaizuka.tokyo/blog/seofailure",
-   "summary": "SEO・広告運用・SNS運用はそれぞれ専門スキルが必要で社内に経験者がいないと立ち上げに時間がかかる点、外注やAI量産記事だけでは成果が出にくい構造的理由を指摘。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "marketing-web",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "kaizuka.tokyo",
-    "expert_origin": false,
-    "search_query": "中小企業 秋 広告予算 見直し 失敗 SEO 集客",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-04T06:33:27+09:00",
    "validity_days": 5
   },
   {
