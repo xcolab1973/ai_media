@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T01:42:00+09:00",
+  "generated_at": "2026-09-04T08:31:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,32 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 10,
-    "passed_total": 114,
+    "neg_excluded": 6,
+    "dedup_excluded": 8,
+    "passed_total": 118,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
+      "yahoo_realtime": 36,
+      "x_realtime": 10,
       "google_trends": 10,
-      "news_web": 14,
-      "yahoo_news_ranking": 2,
-      "x_realtime": 7
+      "news_web": 12,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "personal_story": 2,
+    "social_reaction": 33,
     "opinion": 10,
-    "medical_science": 2,
-    "hard_fact": 20,
-    "policy": 7
+    "personal_story": 1,
+    "medical_science": 3,
+    "hard_fact": 18,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "hard_fact": 20,
+    "social_reaction": 33,
     "opinion": 10,
-    "policy": 8,
-    "personal_story": 2,
-    "medical_science": 1
+    "hard_fact": 17,
+    "policy": 7,
+    "medical_science": 2,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
@@ -51,9 +51,15 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "麻布十番まつりで起きた食中毒、調査の結果、原因が「割烹 こめを」と判明、こめお氏",
+      "title": "廃止も検討 クールジャパン機構 赤字要因検証の有識者会議開催 | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "佐川から「荷物をX線検査にかけたら、中から現金と薬物が見つかった。あなたが送った",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -63,49 +69,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「テーマパークではございません」京都・有名寺院が“着物禁止”なぜ？　畳に墨、ふす",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "昔、中国人の友人に「中国では、麺をズルズル音を立てて食べるのは、あまり行儀が良く",
+      "title": "WakatteTVの真の罪は「炎上商法」ではなく「単純にエンタメとしてクソつまら",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "大分 線 状 降水 帯",
+      "title": "中学生の時、美術部に入りたかったのに父親に「絶対運動部に入れ」と言われたのだが、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "モグライダー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "りく りゅう ペア",
+      "title": "山口馬木也",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "カルロス カニサレス",
+      "title": "留任",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "情報ライブ ミヤネ屋",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "モスクワ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "四国や九州 災害危険度高まる恐れ",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
+    {
+      "title": "中学生の時、美術部に入りたかったのに父親に「絶対運動部に入れ」と言われたのだが、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "マリー・アントワネット展、大学生無料に釣られて来てしまったけど本当に終わりでした",
       "source_category": "yahoo_realtime",
@@ -113,9 +119,15 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "麻布十番まつりで起きた食中毒、調査の結果、原因が「割烹 こめを」と判明、こめお氏",
+      "title": "廃止も検討 クールジャパン機構 赤字要因検証の有識者会議開催 | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "佐川から「荷物をX線検査にかけたら、中から現金と薬物が見つかった。あなたが送った",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -125,43 +137,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "昔、中国人の友人に「中国では、麺をズルズル音を立てて食べるのは、あまり行儀が良く",
+      "title": "WakatteTVの真の罪は「炎上商法」ではなく「単純にエンタメとしてクソつまら",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「時間とお金に余裕がない人はペットを飼うなってこと？」かなり厳しそうな状況で大型",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "猫の腎臓負担減らす素材開発　不二製油、大豆たんぱくが腸内環境改善 - 日本経済新",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "演説中に「子どもを殺した」と連呼か　共産党沖縄県委員会が告訴 | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「米軍基地なくせ」の理由が中国、は本当か？＜琉球新報＞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "りくろーおじさんのお店に並んでいて「残り15個」の案内が出て買えるか微妙なライン",
+      "title": "同僚がガンで亡くなり、コロナ禍で見舞いにも葬式にも行けなかった…数年後、死んだ同",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "恋愛初心者のバケモノなんで知らないんですが、「2人でご飯行きませんか？」なんて誘",
+      "title": "東京大学に全ての授業を英語で実施する「価値創造学部」が新設…「文理融合は素晴らし",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "Java誕生から現代に至る歴史をゴスリン氏ら関係者が語る公式ドキュメンタリー「T",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「下痢でお尻が荒れるのは腸液がアルカリ性なので中和させるためにお酢を尻穴にぶちこ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
