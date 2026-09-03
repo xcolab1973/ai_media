@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-09-03T06:45:36+09:00",
- "valid_until": "2026-09-17T06:36:44+09:00",
+ "generated_at": "2026-09-03T16:52:31+09:00",
+ "valid_until": "2026-09-17T16:48:55+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "relationship",
- "total_count": 23,
+ "total_count": 24,
  "merge": {
   "parent": "relationship",
   "from_current": 23,
-  "from_new": 3,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 3,
+  "retention_dropped": 0,
   "genres": 3,
   "retention_per_genre": 8
  },
@@ -494,6 +494,36 @@
     "rescued": false
    },
    "valid_until": "2026-09-13T06:34:56+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "妻が年収200〜250万程でパート勤務なのですが、私の扶養に入れた方が…",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327434065",
+   "summary": "妻のパート収入をめぐり、夫の扶養に留まるべきか、扶養を外れて働くべきかで悩む相談。扶養内継続のメリットと、外れた場合の手取り減・将来の年金増というトレードオフをどう判断するかで夫婦間の意見が分かれている様子がうかがえる、生の家計相談。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "relationship-marriage",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "扶養から外れる パート 夫婦 家計 相談 悩み",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-17T16:48:55+09:00",
    "validity_days": 14
   },
   {

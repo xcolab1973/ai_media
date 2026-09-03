@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-09-03T06:45:36+09:00",
- "valid_until": "2026-09-17T06:35:16+09:00",
+ "generated_at": "2026-09-03T16:52:31+09:00",
+ "valid_until": "2026-09-17T16:43:15+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "health",
- "total_count": 38,
+ "total_count": 39,
  "merge": {
   "parent": "health",
   "from_current": 38,
   "from_new": 1,
-  "expired_pruned": 1,
+  "expired_pruned": 0,
   "retention_dropped": 0,
   "genres": 5,
   "retention_per_genre": 8
@@ -704,6 +704,36 @@
     "rescued": false
    },
    "valid_until": "2026-09-05T06:33:18+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "カスハラに会社が対応してくれない時の対処法は？辞めるべきか解説",
+   "url": "https://zcareer.com/guide/f4/s066/t209/company-wont-help-with-customer-harassment/",
+   "summary": "直属の上司がカスハラに対応してくれない場合は、まず人事やコンプライアンス部門など別ルートに相談し、それでも改善しなければ労働局の総合労働相談コーナーなど社外の窓口を頼る選択肢がある。会社の対応が変わらないなら退職・転職も検討肢として挙げられている。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "health-mental-stress",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Zキャリア就職・転職ガイド",
+    "expert_origin": false,
+    "search_query": "カスハラ 上司 対応してくれない 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-17T16:43:15+09:00",
    "validity_days": 14
   },
   {
