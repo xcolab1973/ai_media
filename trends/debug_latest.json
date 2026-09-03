@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T21:15:00+09:00",
+  "generated_at": "2026-09-04T01:42:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 9,
-    "passed_total": 118,
+    "neg_excluded": 8,
+    "dedup_excluded": 10,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 39,
-      "x_realtime": 9,
-      "news_web": 11,
+      "yahoo_realtime": 37,
       "google_trends": 10,
-      "yahoo_news_ranking": 1
+      "news_web": 14,
+      "yahoo_news_ranking": 2,
+      "x_realtime": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 37,
+    "social_reaction": 29,
+    "personal_story": 2,
+    "opinion": 10,
     "medical_science": 2,
-    "opinion": 9,
-    "personal_story": 1,
-    "hard_fact": 16,
-    "policy": 5
+    "hard_fact": 20,
+    "policy": 7
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 37,
-    "hard_fact": 17,
-    "medical_science": 1,
-    "opinion": 9,
-    "policy": 5,
-    "personal_story": 1
+    "social_reaction": 29,
+    "hard_fact": 20,
+    "opinion": 10,
+    "policy": 8,
+    "personal_story": 2,
+    "medical_science": 1
   },
   "b2b_top10": [
+    {
+      "title": "マリー・アントワネット展、大学生無料に釣られて来てしまったけど本当に終わりでした",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "麻布十番まつりで起きた食中毒、調査の結果、原因が「割烹 こめを」と判明、こめお氏",
       "source_category": "yahoo_realtime",
@@ -52,36 +58,6 @@
     },
     {
       "title": "食中毒発生に伴う不利益処分の公表について",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "マリー・アントワネット展、大学生無料に釣られて来てしまったけど本当に終わりでした",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中学生の時、美術部に入りたかったのに父親に「絶対運動部に入れ」と言われたのだが、",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ヤマトとJAL 国内線貨物機終了へ",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "婚活してた時にやってたこととか",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "昔、中国人の友人に「中国では、麺をズルズル音を立てて食べるのは、あまり行儀が良く",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -93,19 +69,49 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "祭りで食中毒 サルモネラ菌検出",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_local",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "体調不良は8月末で116人　東京・麻布十番まつりの食中毒疑い、港区は厚労省に未報",
+      "title": "昔、中国人の友人に「中国では、麺をズルズル音を立てて食べるのは、あまり行儀が良く",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "大分 線 状 降水 帯",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "りく りゅう ペア",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "カルロス カニサレス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "情報ライブ ミヤネ屋",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "モスクワ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
+    {
+      "title": "マリー・アントワネット展、大学生無料に釣られて来てしまったけど本当に終わりでした",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "麻布十番まつりで起きた食中毒、調査の結果、原因が「割烹 こめを」と判明、こめお氏",
       "source_category": "yahoo_realtime",
@@ -119,31 +125,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "マリー・アントワネット展、大学生無料に釣られて来てしまったけど本当に終わりでした",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "婚活してた時にやってたこととか",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中学生の時、美術部に入りたかったのに父親に「絶対運動部に入れ」と言われたのだが、",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "昔、中国人の友人に「中国では、麺をズルズル音を立てて食べるのは、あまり行儀が良く",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "岩手のコープ「中学生のみ入店禁止」…たむろし大音量で音楽など迷惑行為や暴言、来年",
+      "title": "「時間とお金に余裕がない人はペットを飼うなってこと？」かなり厳しそうな状況で大型",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -155,13 +143,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "元日本赤軍・重信房子×池上彰 21年の獄中生活を終え4年前に出所 闘争当時と現在",
+      "title": "演説中に「子どもを殺した」と連呼か　共産党沖縄県委員会が告訴 | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「米軍基地なくせ」の理由が中国、は本当か？＜琉球新報＞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "携帯番号から「警視庁捜査2課です」と電話が来て「千葉県警より出頭要請が来てるので",
+      "title": "りくろーおじさんのお店に並んでいて「残り15個」の案内が出て買えるか微妙なライン",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "恋愛初心者のバケモノなんで知らないんですが、「2人でご飯行きませんか？」なんて誘",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
