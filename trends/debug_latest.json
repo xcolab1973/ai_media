@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T08:32:00+09:00",
+  "generated_at": "2026-09-03T15:29:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,89 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 12,
-    "passed_total": 113,
+    "neg_excluded": 6,
+    "dedup_excluded": 9,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "x_realtime": 6,
       "yahoo_realtime": 39,
       "google_trends": 10,
-      "news_web": 14,
-      "yahoo_news_ranking": 1
+      "news_web": 10,
+      "x_realtime": 7,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 31,
-    "personal_story": 5,
+    "social_reaction": 32,
+    "personal_story": 3,
     "opinion": 10,
-    "medical_science": 3,
-    "hard_fact": 14,
-    "policy": 7
+    "hard_fact": 17,
+    "policy": 7,
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 31,
-    "personal_story": 5,
+    "social_reaction": 32,
     "opinion": 10,
-    "hard_fact": 14,
-    "medical_science": 3,
-    "policy": 7
+    "hard_fact": 18,
+    "policy": 7,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
       "title": "知人に警察から落とし物が届いていると連絡があったが、「取りに来ないほうがいい、拾",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "LINEの便利機能が｢実質有料化｣されていく…｢1億人が使う業務連絡ツール｣にイ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "田村淳がサングラス着用に対して「サングラスをしてテレビに出るな」「カッコつけるな",
+      "title": "婚活してた時にやってたこととか",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "“財政のプロ”斎藤元彦知事の兵庫県はなぜ「起債許可団体」に転落したのか、「前知事",
+      "title": "昔、中国人の友人に「中国では、麺をズルズル音を立てて食べるのは、あまり行儀が良く",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "HBO Maxブランドの展開終了について - お知らせ | U-NEXTヘルプセ",
+      "title": "岩手のコープ「中学生のみ入店禁止」…たむろし大音量で音楽など迷惑行為や暴言、来年",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "マジック：ザ・ギャザリングの新製品が炎上商法で『津波で溺れる日本人』『原爆キノコ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "早朝に神社の境内でヨガ教室が開かれていた…参加者のトイレに関する苦情のメールで発",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "バレーボール 日本 女子 代表",
+      "title": "googleマップ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "lee jisoo hana",
+      "title": "麻布十番まつり 116人食中毒訴え",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "早明浦 ダム 貯水 率",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "阪神森下翔太",
+      "title": "黒田有",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "芸人",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "カサンドラ ウィルソン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +106,64 @@
   ],
   "note_top10": [
     {
+      "title": "婚活してた時にやってたこととか",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "知人に警察から落とし物が届いていると連絡があったが、「取りに来ないほうがいい、拾",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "昔、中国人の友人に「中国では、麺をズルズル音を立てて食べるのは、あまり行儀が良く",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "岩手のコープ「中学生のみ入店禁止」…たむろし大音量で音楽など迷惑行為や暴言、来年",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "駐車禁止ではない道路で車を停めて食事中、警察官から「通報が入ってるので移動してく",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "“財政のプロ”斎藤元彦知事の兵庫県はなぜ「起債許可団体」に転落したのか、「前知事",
+      "title": "「黄泉のツガイって面白いはずなのに読んでて感情がずっと平坦、キャラクターへの感情",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「娘にやらせたくない」アスリートのユニフォーム“男女で露出の差”に物議…現役女子",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "LINEの便利機能が｢実質有料化｣されていく…｢1億人が使う業務連絡ツール｣にイ",
+      "title": "おれだって山田うどんに行きたい　江ノ島茂道、山田うどんに行ったことがある人生を手",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "田村淳がサングラス着用に対して「サングラスをしてテレビに出るな」「カッコつけるな",
+      "title": "米建国250年記念の「トランプ硬貨」、発売から数時間で在庫切れ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "HBO Maxブランドの展開終了について - お知らせ | U-NEXTヘルプセ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "マジック：ザ・ギャザリングの新製品が炎上商法で『津波で溺れる日本人』『原爆キノコ",
+      "title": "東京メトロ、混雑状況を床面に投影　空いている号車方向を案内",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
-    },
-    {
-      "title": "早朝に神社の境内でヨガ教室が開かれていた…参加者のトイレに関する苦情のメールで発",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "社内フォルダで資料を探してたら、ポスト主を雇用するための決裁文書を発見…派遣会社",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「えこれ普通じゃないの？」怒鳴った翌日、何事もなかったように話しかけてくる親の元",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「こないだ3万円で『羊のいらない枕』を買ったのに」似たような枕が9900円でニト",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
     }
   ]
 }
