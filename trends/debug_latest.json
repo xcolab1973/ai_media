@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T15:31:00+09:00",
+  "generated_at": "2026-09-04T21:16:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,45 +16,45 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 12,
-    "passed_total": 115,
+    "neg_excluded": 6,
+    "dedup_excluded": 10,
+    "passed_total": 116,
     "b2b_category_counts": {
       "yahoo_realtime": 38,
       "google_trends": 10,
-      "x_realtime": 7,
-      "news_web": 13,
-      "yahoo_news_ranking": 2
+      "yahoo_news_ranking": 2,
+      "x_realtime": 8,
+      "news_web": 12
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "personal_story": 3,
-    "opinion": 10,
+    "social_reaction": 36,
+    "opinion": 9,
+    "personal_story": 2,
+    "hard_fact": 18,
     "medical_science": 2,
-    "hard_fact": 21,
-    "policy": 5
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "personal_story": 3,
-    "opinion": 10,
-    "hard_fact": 21,
-    "policy": 5,
-    "medical_science": 2
+    "hard_fact": 18,
+    "social_reaction": 36,
+    "opinion": 9,
+    "policy": 3,
+    "medical_science": 2,
+    "personal_story": 2
   },
   "b2b_top10": [
+    {
+      "title": "新R25はメディア運営を終了します｜新R25 Media - シゴトも人生も、も",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
     {
       "title": "食中毒を起こし、たった2日で「116人ニキ」になってしまったこめお氏、その原因が",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "MUFG「預金3000万円で無料プラチナ」の狙い　「相続」強化とネット銀対抗【鈴",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
     },
     {
       "title": "いちごドリル | ぬりえ、クイズ、学習プリントの無料ダウンロード",
@@ -63,43 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "警察",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ダルトン・ラッシング",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "EVを買ったという人に話を聞いたら、運転が好きで何km走っても苦痛ではないが、エ",
+      "title": "歌人が読む杉本博司の５７５７７（絶滅写真展）｜千種創一",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "博士課程（理系）の女性「研究室で人間関係がうまくいかない」→その研究室の人に話を",
+      "title": "ソフトバンク iphone",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "社長から会社PCにメールでグループLINEを作るよう命じられ、全員参加した後にカ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "角田夏実",
+      "title": "正木智也",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "特朗普",
+      "title": "メローニ首相",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "policy"
+    },
+    {
+      "title": "楽天 試合",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "すみっコぐらし",
+      "title": "ツインテール",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,25 +113,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "MUFG「預金3000万円で無料プラチナ」の狙い　「相続」強化とネット銀対抗【鈴",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
       "title": "いちごドリル | ぬりえ、クイズ、学習プリントの無料ダウンロード",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "EVを買ったという人に話を聞いたら、運転が好きで何km走っても苦痛ではないが、エ",
+      "title": "歌人が読む杉本博司の５７５７７（絶滅写真展）｜千種創一",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "博士課程（理系）の女性「研究室で人間関係がうまくいかない」→その研究室の人に話を",
+      "title": "社長から会社PCにメールでグループLINEを作るよう命じられ、全員参加した後にカ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "こんな感じのマンションってなんでまっすぐに建てないんだろう？「一級建築士がマジレ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "築100年くらいの古民家を「自分でリフォームする」と言って契約した入居者が、途中",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "特別好きだったとか思い入れがあるわけじゃないんだけど、竹内結子が亡くなってしまっ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ダークチョコ（カカオ85％）を毎日3週間食べる→ネガティブ感情が減少　70％では",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -143,27 +161,9 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ヘルシングとかいう日本が作りポーランドがED曲を本気で奏で、イギリスが爆笑してド",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "フィクションの中でも見かける、手でひたすら転がして人生の中で育てる玩具『文玩胡桃",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "雨上がりに犬と散歩していたら道にある金属の板で転びかけた→その後に犬がとった行動",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "よく考えると、どうやって草むしりで5級から1級までの差を作れるんだよ？→草むしり",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "参院選街宣をヘイト認定　大阪、在日「変態」発言",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
