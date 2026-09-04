@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T01:37:00+09:00",
+  "generated_at": "2026-09-05T08:18:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,30 +16,30 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 14,
-    "passed_total": 113,
+    "neg_excluded": 6,
+    "dedup_excluded": 12,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 39,
+      "yahoo_realtime": 38,
       "google_trends": 10,
-      "news_web": 14,
-      "yahoo_news_ranking": 3,
-      "x_realtime": 4
+      "x_realtime": 5,
+      "news_web": 13,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
-    "opinion": 10,
+    "social_reaction": 36,
+    "opinion": 9,
     "medical_science": 2,
     "hard_fact": 20,
     "policy": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 35,
+    "social_reaction": 36,
+    "opinion": 9,
     "hard_fact": 20,
-    "opinion": 10,
-    "medical_science": 2,
-    "policy": 3
+    "policy": 3,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
@@ -49,61 +49,67 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "新R25はメディア運営を終了します｜新R25 Media - シゴトも人生も、も",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "title": "宝くじ ロト7",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "ドラマ撮影のクルーが工事現場に「ドラマの邪魔なので工事の音を止めてもらえますか？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "昔あった風土病で、調理工程を調べたらまな板を洗浄せずに生野菜を調理すると、間接的",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「歴代彼女数は3人。3人目が今の妻である。」一応結婚までいけた非モテオタクが告白",
+      "title": "thứ hạng của real betis gặp real madrid",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ホワイトソックス 対 ツインズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "岡山市天気",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "共同通信社杯競輪",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "吉田優利",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "屋久島 天気",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "シングルサイズハムバッカーで色々遊びたい！PLAYTECH PEP-4 かんたん",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "遺伝的要因",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "バスケ女子 マリに劇的な逆転勝ち",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_sports",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "噂には聞いてたけど松戸市立博物館の常盤平団地展示がヤバい、知らない人の家にお邪魔",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "福岡県議会 問題",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "テレビ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "逃げ若",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ],
   "note_top10": [
+    {
+      "title": "昔あった風土病で、調理工程を調べたらまな板を洗浄せずに生野菜を調理すると、間接的",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "いちごドリル | ぬりえ、クイズ、学習プリントの無料ダウンロード",
       "source_category": "yahoo_realtime",
@@ -111,25 +117,13 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "シングルサイズハムバッカーで色々遊びたい！PLAYTECH PEP-4 かんたん",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "ドラマ撮影のクルーが工事現場に「ドラマの邪魔なので工事の音を止めてもらえますか？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「歴代彼女数は3人。3人目が今の妻である。」一応結婚までいけた非モテオタクが告白",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "MADE IN YAMATO - 第１５話　重りの流儀 | ヤンマガWeb",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "噂には聞いてたけど松戸市立博物館の常盤平団地展示がヤバい、知らない人の家にお邪魔",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -147,19 +141,25 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "「歴代彼女数は3人。3人目が今の妻である。」一応結婚までいけた非モテオタクが告白",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "中2のときソフトボールの授業で陽キャに言われた「真面目にやれや」という言葉が今で",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "プーチン氏、追加徴兵の必要性を否定 ウクライナの「偽情報」と主張",
+      "title": "MADE IN YAMATO - 第１５話　重りの流儀 | ヤンマガWeb",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "巨乳で得したこと、無し",
+      "title": "ダークチョコ（カカオ85％）を毎日3週間食べる→ネガティブ感情が減少　70％では",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
