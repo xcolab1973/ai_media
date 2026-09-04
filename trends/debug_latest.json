@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T08:31:00+09:00",
+  "generated_at": "2026-09-04T15:31:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,152 +16,152 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 8,
-    "passed_total": 118,
+    "neg_excluded": 5,
+    "dedup_excluded": 12,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
-      "x_realtime": 10,
+      "yahoo_realtime": 38,
       "google_trends": 10,
-      "news_web": 12,
+      "x_realtime": 7,
+      "news_web": 13,
       "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
+    "social_reaction": 29,
+    "personal_story": 3,
     "opinion": 10,
-    "personal_story": 1,
-    "medical_science": 3,
-    "hard_fact": 18,
+    "medical_science": 2,
+    "hard_fact": 21,
     "policy": 5
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
+    "social_reaction": 29,
+    "personal_story": 3,
     "opinion": 10,
-    "hard_fact": 17,
-    "policy": 7,
-    "medical_science": 2,
-    "personal_story": 1
+    "hard_fact": 21,
+    "policy": 5,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "マリー・アントワネット展、大学生無料に釣られて来てしまったけど本当に終わりでした",
+      "title": "食中毒を起こし、たった2日で「116人ニキ」になってしまったこめお氏、その原因が",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "廃止も検討 クールジャパン機構 赤字要因検証の有識者会議開催 | NHKニュース",
+      "title": "MUFG「預金3000万円で無料プラチナ」の狙い　「相続」強化とネット銀対抗【鈴",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "いちごドリル | ぬりえ、クイズ、学習プリントの無料ダウンロード",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "佐川から「荷物をX線検査にかけたら、中から現金と薬物が見つかった。あなたが送った",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "食中毒発生に伴う不利益処分の公表について",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "WakatteTVの真の罪は「炎上商法」ではなく「単純にエンタメとしてクソつまら",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中学生の時、美術部に入りたかったのに父親に「絶対運動部に入れ」と言われたのだが、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "モグライダー",
+      "title": "警察",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "山口馬木也",
+      "title": "ダルトン・ラッシング",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "留任",
+      "title": "EVを買ったという人に話を聞いたら、運転が好きで何km走っても苦痛ではないが、エ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "博士課程（理系）の女性「研究室で人間関係がうまくいかない」→その研究室の人に話を",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "角田夏実",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "四国や九州 災害危険度高まる恐れ",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
+      "title": "特朗普",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "すみっコぐらし",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "中学生の時、美術部に入りたかったのに父親に「絶対運動部に入れ」と言われたのだが、",
+      "title": "食中毒を起こし、たった2日で「116人ニキ」になってしまったこめお氏、その原因が",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "マリー・アントワネット展、大学生無料に釣られて来てしまったけど本当に終わりでした",
+      "title": "MUFG「預金3000万円で無料プラチナ」の狙い　「相続」強化とネット銀対抗【鈴",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "いちごドリル | ぬりえ、クイズ、学習プリントの無料ダウンロード",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "廃止も検討 クールジャパン機構 赤字要因検証の有識者会議開催 | NHKニュース",
+      "title": "EVを買ったという人に話を聞いたら、運転が好きで何km走っても苦痛ではないが、エ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "佐川から「荷物をX線検査にかけたら、中から現金と薬物が見つかった。あなたが送った",
+      "title": "博士課程（理系）の女性「研究室で人間関係がうまくいかない」→その研究室の人に話を",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "もう自炊で疲れなくていい。稲田俊輔さんらが教える、材料・工程がシンプルな「ミニマ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ヘルシングとかいう日本が作りポーランドがED曲を本気で奏で、イギリスが爆笑してド",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "食中毒発生に伴う不利益処分の公表について",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "WakatteTVの真の罪は「炎上商法」ではなく「単純にエンタメとしてクソつまら",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "同僚がガンで亡くなり、コロナ禍で見舞いにも葬式にも行けなかった…数年後、死んだ同",
+      "title": "フィクションの中でも見かける、手でひたすら転がして人生の中で育てる玩具『文玩胡桃",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "東京大学に全ての授業を英語で実施する「価値創造学部」が新設…「文理融合は素晴らし",
+      "title": "雨上がりに犬と散歩していたら道にある金属の板で転びかけた→その後に犬がとった行動",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "Java誕生から現代に至る歴史をゴスリン氏ら関係者が語る公式ドキュメンタリー「T",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「下痢でお尻が荒れるのは腸液がアルカリ性なので中和させるためにお酢を尻穴にぶちこ",
+      "title": "よく考えると、どうやって草むしりで5級から1級までの差を作れるんだよ？→草むしり",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
