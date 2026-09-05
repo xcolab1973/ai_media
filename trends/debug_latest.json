@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T00:38:00+09:00",
+  "generated_at": "2026-09-06T08:16:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,44 +16,56 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
+    "neg_excluded": 3,
     "dedup_excluded": 11,
-    "passed_total": 115,
+    "passed_total": 118,
     "b2b_category_counts": {
+      "yahoo_realtime": 36,
       "x_realtime": 8,
-      "yahoo_realtime": 34,
       "google_trends": 10,
-      "yahoo_news_ranking": 4,
-      "news_web": 14
+      "yahoo_news_ranking": 3,
+      "news_web": 13
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
+    "social_reaction": 28,
     "medical_science": 2,
     "opinion": 10,
-    "personal_story": 2,
-    "hard_fact": 26,
-    "policy": 1
+    "personal_story": 1,
+    "policy": 4,
+    "hard_fact": 25
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
+    "social_reaction": 28,
     "medical_science": 2,
     "opinion": 10,
-    "hard_fact": 25,
-    "policy": 2,
-    "personal_story": 2
+    "hard_fact": 24,
+    "policy": 5,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "「中川大暴れ回に外れなし」名作漫画『こちら葛飾区亀有公園前派出所』が9月6日昼ま",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「くら寿司の従業員なんですけど…急にちいかわコラボ終了するって聞いて正直キレてま",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "青春コンプレックス / MyGO!!!!! cover ver.",
+      "title": "「こんなバケツ使っちゃダメ」体調不良者が160人に到達した蟹ラーメン食中毒……こ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東大教授・日本教育学会会長の本田由紀先生によればSNS発言が炎上しても事後的に「",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "「ずーっとヒミツにしようだなんて許さないよ」くら寿司のちいかわコラボ、早期終了で",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -63,43 +75,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ドライバーから「マジでわからん」の声噴出 生活道路の“速度30km/h化”運動の",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「めちゃくちゃ突然ぶっ込んだ感」高市首相　石原さとみMCのNHK健康番組に唐突出",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "時には懺悔を",
+      "title": "富澤たけし ブログ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ガスリー",
+      "title": "みなみ かわ とも しげ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "「財産目当ての結婚をした」初めて家に行ったとき、絶対にこの男と結婚する！と決意し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "電気屋さんが分電盤に許可なく油性ペンで直に印をつけてしまい、見ると嫌な気持ちにな",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「한국어 공부 힘내세요!-지나가던 한국 여행객-」スタバで勉強していたら隣の",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "オリオールズ 対 レッドソックス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "ブンデスリーガ",
+      "title": "カラム・ニューマン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,15 +107,21 @@
   ],
   "note_top10": [
     {
-      "title": "「中川大暴れ回に外れなし」名作漫画『こちら葛飾区亀有公園前派出所』が9月6日昼ま",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「くら寿司の従業員なんですけど…急にちいかわコラボ終了するって聞いて正直キレてま",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "青春コンプレックス / MyGO!!!!! cover ver.",
+      "title": "「こんなバケツ使っちゃダメ」体調不良者が160人に到達した蟹ラーメン食中毒……こ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ずーっとヒミツにしようだなんて許さないよ」くら寿司のちいかわコラボ、早期終了で",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -125,16 +131,16 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「財産目当ての結婚をした」初めて家に行ったとき、絶対にこの男と結婚する！と決意し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "電気屋さんが分電盤に許可なく油性ペンで直に印をつけてしまい、見ると嫌な気持ちにな",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ドライバーから「マジでわからん」の声噴出 生活道路の“速度30km/h化”運動の",
+      "title": "東大教授・日本教育学会会長の本田由紀先生によればSNS発言が炎上しても事後的に「",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "medical_science"
     },
     {
       "title": "「美術館のような家」と、暮らしの意志 — ゆち | PREDUCTS",
@@ -143,7 +149,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「한국어 공부 힘내세요!-지나가던 한국 여행객-」スタバで勉強していたら隣の",
+      "title": "富澤たけし ブログ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「福岡って豚骨ラーメンかと思ってたら、うどんの国らしいので調べてみた」地元民から",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -153,18 +165,6 @@
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "「福岡って豚骨ラーメンかと思ってたら、うどんの国らしいので調べてみた」地元民から",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「めちゃくちゃ突然ぶっ込んだ感」高市首相　石原さとみMCのNHK健康番組に唐突出",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
     }
   ]
 }
