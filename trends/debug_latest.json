@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T08:18:00+09:00",
+  "generated_at": "2026-09-05T15:18:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,152 +16,154 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 12,
-    "passed_total": 114,
+    "neg_excluded": 9,
+    "dedup_excluded": 7,
+    "passed_total": 116,
     "b2b_category_counts": {
-      "yahoo_realtime": 38,
+      "x_realtime": 10,
+      "yahoo_realtime": 32,
       "google_trends": 10,
-      "x_realtime": 5,
-      "news_web": 13,
-      "yahoo_news_ranking": 4
+      "news_web": 15,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 36,
-    "opinion": 9,
-    "medical_science": 2,
-    "hard_fact": 20,
-    "policy": 3
+    "social_reaction": 37,
+    "personal_story": 2,
+    "opinion": 10,
+    "medical_science": 3,
+    "hard_fact": 16,
+    "policy": 2
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 36,
-    "opinion": 9,
+    "social_reaction": 33,
+    "opinion": 10,
+    "medical_science": 3,
+    "personal_story": 2,
     "hard_fact": 20,
-    "policy": 3,
-    "medical_science": 2
+    "policy": 2
   },
   "b2b_top10": [
     {
-      "title": "いちごドリル | ぬりえ、クイズ、学習プリントの無料ダウンロード",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "宝くじ ロト7",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "昔あった風土病で、調理工程を調べたらまな板を洗浄せずに生野菜を調理すると、間接的",
+      "title": "マクドナルドで『〇〇多め・少なめサービス終了』ってあったけど、今までできたんかー",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "thứ hạng của real betis gặp real madrid",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ホワイトソックス 対 ツインズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "岡山市天気",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "共同通信社杯競輪",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "吉田優利",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "屋久島 天気",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "シングルサイズハムバッカーで色々遊びたい！PLAYTECH PEP-4 かんたん",
+      "title": "玄太Ｔシャツプレゼント/沖縄知事選　古謝氏集会　さらに公選法違反か | しんぶん",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "ニュージーランド",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「めちゃくちゃ突然ぶっ込んだ感」高市首相　石原さとみMCのNHK健康番組に唐突出",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "【物議】初乗り160円が3500円に！？大井川鐵道井川線が大幅値上げ　観光に特化",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ドライバーから「マジでわからん」の声噴出 生活道路の“速度30km/h化”運動の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "くら寿司 ちいかわ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "チケットぴあ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "sixtones",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "イオン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "昔あった風土病で、調理工程を調べたらまな板を洗浄せずに生野菜を調理すると、間接的",
+      "title": "マクドナルドで『〇〇多め・少なめサービス終了』ってあったけど、今までできたんかー",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "いちごドリル | ぬりえ、クイズ、学習プリントの無料ダウンロード",
+      "title": "玄太Ｔシャツプレゼント/沖縄知事選　古謝氏集会　さらに公選法違反か | しんぶん",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "シングルサイズハムバッカーで色々遊びたい！PLAYTECH PEP-4 かんたん",
+      "title": "【物議】初乗り160円が3500円に！？大井川鐵道井川線が大幅値上げ　観光に特化",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ドラマ撮影のクルーが工事現場に「ドラマの邪魔なので工事の音を止めてもらえますか？",
+      "title": "ドライバーから「マジでわからん」の声噴出 生活道路の“速度30km/h化”運動の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "築100年くらいの古民家を「自分でリフォームする」と言って契約した入居者が、途中",
+      "title": "本田由紀氏の発言問題、その後の反響〜報道と「著名人」を中心に。直接の弟子・古市憲",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "この写真をよいという人も失敗という人もいて面白いからThreadsに上げたら、影",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「永遠にアマギフの話してんのほんと好きw」子供が自閉症では…と苦しんでいた人が大",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "ド派手なTシャツを着る先生がいたので理由を聞いたら「子供に何かあって『先生を探さ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「歴代彼女数は3人。3人目が今の妻である。」一応結婚までいけた非モテオタクが告白",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「野良産まれの猫の成れの果てがこちら」ブラッシングが気持ちよくて、大の字でとろけ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "中2のときソフトボールの授業で陽キャに言われた「真面目にやれや」という言葉が今で",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "『おいしい野菜Tier』大葉がE評価に配置され非難の声、その他の評価でも賛否が分",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "MADE IN YAMATO - 第１５話　重りの流儀 | ヤンマガWeb",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ダークチョコ（カカオ85％）を毎日3週間食べる→ネガティブ感情が減少　70％では",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "うちの犬は人間が近づくと歓迎の印に足をパカンと開く癖がある「服従だとよく言うけれ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
