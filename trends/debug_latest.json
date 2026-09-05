@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T20:23:00+09:00",
+  "generated_at": "2026-09-06T00:38:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,63 +16,57 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 10,
-    "passed_total": 114,
+    "neg_excluded": 6,
+    "dedup_excluded": 11,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
-      "google_trends": 10,
-      "yahoo_news_ranking": 6,
       "x_realtime": 8,
+      "yahoo_realtime": 34,
+      "google_trends": 10,
+      "yahoo_news_ranking": 4,
       "news_web": 14
     }
   },
   "note_category_counts": {
     "social_reaction": 29,
-    "personal_story": 2,
-    "opinion": 10,
     "medical_science": 2,
-    "hard_fact": 25,
-    "policy": 2
+    "opinion": 10,
+    "personal_story": 2,
+    "hard_fact": 26,
+    "policy": 1
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 27,
-    "social_reaction": 27,
-    "opinion": 10,
+    "social_reaction": 29,
     "medical_science": 2,
-    "personal_story": 2,
-    "policy": 2
+    "opinion": 10,
+    "hard_fact": 25,
+    "policy": 2,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "くら寿司、『ちいかわ』コラボで従業員による不正行為判明　キャンペーンは6日から中",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "title": "「中川大暴れ回に外れなし」名作漫画『こちら葛飾区亀有公園前派出所』が9月6日昼ま",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "土石流被害、悔やむＵＳＡＩＤ解体　ヒマラヤ気候変動研究者「監視稼働なら事前把握の",
+      "title": "青春コンプレックス / MyGO!!!!! cover ver.",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "山手線“最後の踏切”廃止の方向　2029年度に陸橋敷設工事完了へ　運転士不在の「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "米国に来た当初、夫の会社から「ウォルマートにはあまり行かないように」という注意喚",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "玄太Ｔシャツプレゼント/沖縄知事選　古謝氏集会　さらに公選法違反か | しんぶん",
+      "title": "ドライバーから「マジでわからん」の声噴出 生活道路の“速度30km/h化”運動の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "蒼井 優",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     },
     {
       "title": "「めちゃくちゃ突然ぶっ込んだ感」高市首相　石原さとみMCのNHK健康番組に唐突出",
@@ -81,25 +75,31 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "福本莉子",
+      "title": "時には懺悔を",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "踊る大捜査線3",
+      "title": "ガスリー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "巨人",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "「財産目当ての結婚をした」初めて家に行ったとき、絶対にこの男と結婚する！と決意し",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "森保監督",
+      "title": "「한국어 공부 힘내세요!-지나가던 한국 여행객-」スタバで勉強していたら隣の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ブンデスリーガ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,19 +107,25 @@
   ],
   "note_top10": [
     {
-      "title": "土石流被害、悔やむＵＳＡＩＤ解体　ヒマラヤ気候変動研究者「監視稼働なら事前把握の",
+      "title": "「中川大暴れ回に外れなし」名作漫画『こちら葛飾区亀有公園前派出所』が9月6日昼ま",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "青春コンプレックス / MyGO!!!!! cover ver.",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "山手線“最後の踏切”廃止の方向　2029年度に陸橋敷設工事完了へ　運転士不在の「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "米国に来た当初、夫の会社から「ウォルマートにはあまり行かないように」という注意喚",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "玄太Ｔシャツプレゼント/沖縄知事選　古謝氏集会　さらに公選法違反か | しんぶん",
+      "title": "「財産目当ての結婚をした」初めて家に行ったとき、絶対にこの男と結婚する！と決意し",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -131,40 +137,34 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "【物議】初乗り160円が3500円に！？大井川鐵道井川線が大幅値上げ　観光に特化",
+      "title": "「美術館のような家」と、暮らしの意志 — ゆち | PREDUCTS",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「たぬき、畑とか荒らしてません！地面に落ちてるのを食べてるだけです」農作物の被害",
+      "title": "「한국어 공부 힘내세요!-지나가던 한국 여행객-」スタバで勉強していたら隣の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "だから独身税なり子育て世帯優遇なりでインセンティブを設計するのが肝要。将来の納税",
+      "title": "だから独身税なり子育て世帯優遇なりでインセンティブを設計するのが肝要..",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "くら寿司 https://www.kurasushi.co.jp PDF 「ちい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "暴れた乗客、粘着テープでファーストクラス席に縛り付けられる　米旅客機が緊急着陸",
+      "title": "「福岡って豚骨ラーメンかと思ってたら、うどんの国らしいので調べてみた」地元民から",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「財産目当ての結婚をした」初めて家に行ったとき、絶対にこの男と結婚する！と決意し",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "「めちゃくちゃ突然ぶっ込んだ感」高市首相　石原さとみMCのNHK健康番組に唐突出",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
     }
   ]
 }
