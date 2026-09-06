@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T15:30:00+09:00",
+  "generated_at": "2026-09-06T20:45:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,33 +17,45 @@
       "x_realtime": 10
     },
     "neg_excluded": 2,
-    "dedup_excluded": 13,
-    "passed_total": 117,
+    "dedup_excluded": 11,
+    "passed_total": 119,
     "b2b_category_counts": {
-      "yahoo_realtime": 38,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "yahoo_news_ranking": 3,
-      "x_realtime": 5,
-      "news_web": 14
+      "x_realtime": 8,
+      "yahoo_news_ranking": 4,
+      "news_web": 13
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "personal_story": 2,
+    "social_reaction": 32,
+    "personal_story": 3,
     "opinion": 10,
     "medical_science": 1,
-    "hard_fact": 23,
-    "policy": 6
+    "hard_fact": 21,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
+    "social_reaction": 31,
     "opinion": 10,
+    "personal_story": 3,
     "hard_fact": 23,
-    "personal_story": 2,
-    "policy": 6,
+    "policy": 2,
     "medical_science": 1
   },
   "b2b_top10": [
+    {
+      "title": "【津波注意】陸前高田市立博物館が公開した東日本大震災のときに3階建ての病院の屋上",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "レインコートみたいな素材の安い服を着ていたら体調が…三十代くらいまでは自分の生体",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "JR東日本、家族向け社宅を原則廃止　首都圏の跡地を再開発へ - 日本経済新聞",
       "source_category": "yahoo_realtime",
@@ -51,55 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「くら寿司の従業員なんですけど…急にちいかわコラボ終了するって聞いて正直キレてま",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「こんなバケツ使っちゃダメ」体調不良者が160人に到達した蟹ラーメン食中毒……こ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "つわりで苦しむ岸田奈美さんのもとに「これだけは食べられた」が毎日届く→茹でたおっ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "木戸めぐみ",
+      "title": "町田ゼルビア",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "都市対抗野球 2026",
+      "title": "cuaca besok",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "起訴",
+      "title": "ドバイ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "給食でおかわりするぽっちゃり次男に「おかわりするならおかずにしたら？主食は太りや",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "岩瀬仁紀",
+      "title": "persib bandung vs psm makassar",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "丹頂ステークス",
+      "title": "住吉ジェラニレショーン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ミック・シューマッハ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "竹田祐",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,63 +107,63 @@
   ],
   "note_top10": [
     {
+      "title": "【津波注意】陸前高田市立博物館が公開した東日本大震災のときに3階建ての病院の屋上",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "レインコートみたいな素材の安い服を着ていたら体調が…三十代くらいまでは自分の生体",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "JR東日本、家族向け社宅を原則廃止　首都圏の跡地を再開発へ - 日本経済新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「くら寿司の従業員なんですけど…急にちいかわコラボ終了するって聞いて正直キレてま",
+      "title": "「せっかく風化しかけていたのに……」くら寿司で『ちいかわ』コラボが中止となったが",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "近くの安いマックがわかる｜マクドナルド価格帯マップ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「こんなバケツ使っちゃダメ」体調不良者が160人に到達した蟹ラーメン食中毒……こ",
+      "title": "大阪出張で一番記憶に残ったおいしいものが「泉州の水茄子」で、これはよそでは食べら",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "つわりで苦しむ岸田奈美さんのもとに「これだけは食べられた」が毎日届く→茹でたおっ",
+      "title": "「寝耳に水」の金採掘計画ーーテキサス出身のカウボーイと北海道黒松内町の決断 #日",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "給食でおかわりするぽっちゃり次男に「おかわりするならおかずにしたら？主食は太りや",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "駅で社員証ICカードを落とした後、会社に連絡があり、男性の同僚に同行を頼んで直接",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "赤ちゃんが「眠たいのォ！！」と寝ぐずりするのを初めて目撃して「な、何が望みなんだ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "オールインワンってオシャレで憧れるけど、トイレの時は全部脱ぐことになるよな…とか",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "某カプセルトイショップで人気がないキャラが7連続で出てきて「流石におかしい」と店",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "エリックサウスのレシピは、絶対に自分の頭で考えない！──“セオリー”から組み立て",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "前職の家電量販店では、ペン1本であってもノベルティはお客様の物なので、勝手に持ち",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "陰謀論は現代の「神話」や「都市伝説」なのでしょうか？　関西学院大教授・島村恭則さ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「夜になると動きがよくなるタイプの夜型人間だが、最近はそこまで夜ふかしもできない",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
