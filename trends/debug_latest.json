@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T20:45:00+09:00",
+  "generated_at": "2026-09-07T00:50:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,46 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 2,
-    "dedup_excluded": 11,
+    "neg_excluded": 1,
+    "dedup_excluded": 12,
     "passed_total": 119,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 38,
+      "x_realtime": 7,
       "google_trends": 10,
-      "x_realtime": 8,
-      "yahoo_news_ranking": 4,
-      "news_web": 13
+      "news_web": 13,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
     "social_reaction": 32,
-    "personal_story": 3,
     "opinion": 10,
-    "medical_science": 1,
+    "personal_story": 3,
     "hard_fact": 21,
+    "medical_science": 1,
     "policy": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 31,
+    "social_reaction": 32,
+    "hard_fact": 21,
     "opinion": 10,
+    "policy": 3,
     "personal_story": 3,
-    "hard_fact": 23,
-    "policy": 2,
     "medical_science": 1
   },
   "b2b_top10": [
+    {
+      "title": "蟹ラーメン食中毒、ちいかわグッズ横領、「福島大には触らせたくない」発言……ここ数",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "福島大学を揶揄した発言で炎上したwakatte.TV、高田ふーみん氏の謝罪動画が",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "【津波注意】陸前高田市立博物館が公開した東日本大震災のときに3階建ての病院の屋上",
       "source_category": "yahoo_realtime",
@@ -51,55 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "レインコートみたいな素材の安い服を着ていたら体調が…三十代くらいまでは自分の生体",
+      "title": "あのReasonが完全無料に！15種類のデバイスを収録し、単体DAWとしてもプラ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "大雨 電車",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "自衛隊員は諦めるより突破する傾向があり、居酒屋の4人席しかない部屋に「ちょうどい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "JR東日本、家族向け社宅を原則廃止　首都圏の跡地を再開発へ - 日本経済新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "町田ゼルビア",
+      "title": "abema",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "cuaca besok",
+      "title": "f1",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ドバイ",
+      "title": "premier league",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "persib bandung vs psm makassar",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "住吉ジェラニレショーン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ミック・シューマッハ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "竹田祐",
+      "title": "角田夏実",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,19 +107,25 @@
   ],
   "note_top10": [
     {
+      "title": "蟹ラーメン食中毒、ちいかわグッズ横領、「福島大には触らせたくない」発言……ここ数",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "福島大学を揶揄した発言で炎上したwakatte.TV、高田ふーみん氏の謝罪動画が",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "【津波注意】陸前高田市立博物館が公開した東日本大震災のときに3階建ての病院の屋上",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "レインコートみたいな素材の安い服を着ていたら体調が…三十代くらいまでは自分の生体",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "JR東日本、家族向け社宅を原則廃止　首都圏の跡地を再開発へ - 日本経済新聞",
+      "title": "自衛隊員は諦めるより突破する傾向があり、居酒屋の4人席しかない部屋に「ちょうどい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -131,40 +137,34 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "古謝氏、やや先行　玉城氏、激しく追う　沖縄県知事選　朝日情勢調査：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "近くの安いマックがわかる｜マクドナルド価格帯マップ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "大阪出張で一番記憶に残ったおいしいものが「泉州の水茄子」で、これはよそでは食べら",
+      "title": "大雨 電車",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "洪水で消え去った国境検問所、中国側をCNNが現地取材　救助活動の難しさ浮き彫りに",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「寝耳に水」の金採掘計画ーーテキサス出身のカウボーイと北海道黒松内町の決断 #日",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "駅で社員証ICカードを落とした後、会社に連絡があり、男性の同僚に同行を頼んで直接",
+      "title": "夫の反対を押し切って我が家にトイレを2つ設置したが、夫が20分籠もっていても他の",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
-    },
-    {
-      "title": "赤ちゃんが「眠たいのォ！！」と寝ぐずりするのを初めて目撃して「な、何が望みなんだ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「夜になると動きがよくなるタイプの夜型人間だが、最近はそこまで夜ふかしもできない",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
     }
   ]
 }
