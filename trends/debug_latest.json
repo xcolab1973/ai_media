@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T02:56:00+09:00",
+  "generated_at": "2026-09-08T08:44:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,43 +7,49 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 9,
-    "passed_total": 114,
+    "neg_excluded": 7,
+    "dedup_excluded": 8,
+    "passed_total": 107,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
-      "x_realtime": 7,
+      "x_realtime": 10,
+      "yahoo_realtime": 25,
+      "news_web": 22,
       "google_trends": 10,
-      "yahoo_news_ranking": 4,
-      "news_web": 13
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
-    "personal_story": 1,
-    "medical_science": 4,
+    "social_reaction": 24,
+    "medical_science": 3,
     "opinion": 10,
-    "hard_fact": 19,
-    "policy": 1
+    "personal_story": 2,
+    "hard_fact": 29,
+    "policy": 2
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 35,
-    "medical_science": 4,
-    "hard_fact": 19,
-    "personal_story": 1,
+    "social_reaction": 24,
+    "hard_fact": 29,
+    "medical_science": 3,
     "opinion": 10,
-    "policy": 1
+    "policy": 2,
+    "personal_story": 2
   },
   "b2b_top10": [
+    {
+      "title": "沼男の件で悪魔的パチンコ台「沼」がバズっていることに反応するハンチョウ公式が安定",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "10歳の息子がYouTuberのマネをして意味もわからず「性的な下ネタ」を言うよ",
       "source_category": "yahoo_realtime",
@@ -51,22 +57,10 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "BEYOOOOONDS「灰toダイヤモンド」YOKOOOOOHAMA ARENA",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "部屋の整理をしていたら、伊藤博文の1,000円札を発見…銀行での両替は交換手数料",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "体育の授業で「キックベースやります、ルールは野球と全く同じです」で始まり、わから",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "親睦行事の駅伝で夫熱中症死 提訴",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     },
     {
       "title": "医療費や健康保険料払えず治療中断・受診拒否、愛知県内で２人死亡…愛知民医連「氷山",
@@ -81,25 +75,31 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "【独自】「脱衣所での撮影許可はしていない」ホテル側が回答〈板野友美の撮影騒動〉浮",
+      "title": "福岡県議、今度は「タイタニックごっこ」で炎上　国民・大田氏は県連代表辞任、自民・",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "世界的ギタリスト、神社でダンス動画撮影する外国人旅行者に注意喚起「このような無礼",
+      "title": "アンダーパスで車２台が水没、女性が死亡…伊豆諸島の大島町・利島村・新島村に「レベ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "アジア 選手権",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "駅前でMacを発見し、雨の当たらない場所に移動…盗品の可能性もあり、警察に届ける",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "実家の猫は「やばい」と喋ることがあり、病院に行く前などに言う→想像以上に明瞭に「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "マーリンズ 対 メッツ",
+      "title": "香取慎吾",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,46 +107,40 @@
   ],
   "note_top10": [
     {
+      "title": "沼男の件で悪魔的パチンコ台「沼」がバズっていることに反応するハンチョウ公式が安定",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "10歳の息子がYouTuberのマネをして意味もわからず「性的な下ネタ」を言うよ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "BEYOOOOONDS「灰toダイヤモンド」YOKOOOOOHAMA ARENA",
+      "title": "福岡県議、今度は「タイタニックごっこ」で炎上　国民・大田氏は県連代表辞任、自民・",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "部屋の整理をしていたら、伊藤博文の1,000円札を発見…銀行での両替は交換手数料",
+      "title": "駅前でMacを発見し、雨の当たらない場所に移動…盗品の可能性もあり、警察に届ける",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "体育の授業で「キックベースやります、ルールは野球と全く同じです」で始まり、わから",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "くりまんじゅうが頭洗いのお店に立ち寄る話の「冷えた求肥サービス」が使い所も合わせ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【独自】「脱衣所での撮影許可はしていない」ホテル側が回答〈板野友美の撮影騒動〉浮",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "15年ほど前、病院で点滴を打ってもらった…誰もいない時に点滴が空になり、チューブ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "世界的ギタリスト、神社でダンス動画撮影する外国人旅行者に注意喚起「このような無礼",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "実家の猫は「やばい」と喋ることがあり、病院に行く前などに言う→想像以上に明瞭に「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
     },
     {
       "title": "医療費や健康保険料払えず治療中断・受診拒否、愛知県内で２人死亡…愛知民医連「氷山",
@@ -155,13 +149,19 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "GPT-6 Astraに佐村河内守の「作曲指示書」を渡したら、74分の交響曲を作",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「街中に急にバックルーム出現してた、人影はなかった、入口もなかった」いい感じすぎ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「衝動で行動する人はびっくりするほどいる」くら寿司の一件でグッズ転売はまだわかる",
+      "title": "アジア 選手権",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "17年書いてきた日報に「誰も読んでいないと思う」と書いたら、部長に褒められ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
