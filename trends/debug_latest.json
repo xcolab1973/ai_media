@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T22:41:00+09:00",
+  "generated_at": "2026-09-08T02:56:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,39 +16,63 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 7,
-    "passed_total": 115,
+    "neg_excluded": 9,
+    "dedup_excluded": 9,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 36,
+      "x_realtime": 7,
       "google_trends": 10,
-      "x_realtime": 9,
-      "news_web": 11,
-      "yahoo_news_ranking": 5
+      "yahoo_news_ranking": 4,
+      "news_web": 13
     }
   },
   "note_category_counts": {
     "social_reaction": 35,
-    "medical_science": 4,
-    "opinion": 9,
     "personal_story": 1,
+    "medical_science": 4,
+    "opinion": 10,
     "hard_fact": 19,
-    "policy": 2
+    "policy": 1
   },
   "b2b_topic_category_counts": {
     "social_reaction": 35,
-    "hard_fact": 19,
     "medical_science": 4,
-    "policy": 2,
-    "opinion": 9,
-    "personal_story": 1
+    "hard_fact": 19,
+    "personal_story": 1,
+    "opinion": 10,
+    "policy": 1
   },
   "b2b_top10": [
     {
-      "title": "「キックベースやります、ルールは野球と全く同じです」で始まり、わからないために注",
+      "title": "10歳の息子がYouTuberのマネをして意味もわからず「性的な下ネタ」を言うよ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "BEYOOOOONDS「灰toダイヤモンド」YOKOOOOOHAMA ARENA",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "部屋の整理をしていたら、伊藤博文の1,000円札を発見…銀行での両替は交換手数料",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "体育の授業で「キックベースやります、ルールは野球と全く同じです」で始まり、わから",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "医療費や健康保険料払えず治療中断・受診拒否、愛知県内で２人死亡…愛知民医連「氷山",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
     },
     {
       "title": "円半年ぶりに154円台に上昇　円安抑止へ思惑、「有事のドル買い」後退 - 日本経",
@@ -69,37 +93,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "医療費や健康保険料払えず治療中断・受診拒否、愛知県内で２人死亡…愛知民医連「氷山",
+      "title": "実家の猫は「やばい」と喋ることがあり、病院に行く前などに言う→想像以上に明瞭に「",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "topic_category": "personal_story"
     },
     {
-      "title": "ドイツ極右AfDが大勝へ、東部州議会選　過半数にはわずかに届かない見通し - B",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "宮内庁",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "日本経済新聞",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "映画館でエンドロール中にスマホをいじった観客がいてトラブルになり、スタッフと話し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "高山善廣",
+      "title": "マーリンズ 対 メッツ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,7 +107,25 @@
   ],
   "note_top10": [
     {
-      "title": "「キックベースやります、ルールは野球と全く同じです」で始まり、わからないために注",
+      "title": "10歳の息子がYouTuberのマネをして意味もわからず「性的な下ネタ」を言うよ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "BEYOOOOONDS「灰toダイヤモンド」YOKOOOOOHAMA ARENA",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "部屋の整理をしていたら、伊藤博文の1,000円札を発見…銀行での両替は交換手数料",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "体育の授業で「キックベースやります、ルールは野球と全く同じです」で始まり、わから",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,10 +143,10 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "映画館でエンドロール中にスマホをいじった観客がいてトラブルになり、スタッフと話し",
+      "title": "実家の猫は「やばい」と喋ることがあり、病院に行く前などに言う→想像以上に明瞭に「",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
       "title": "医療費や健康保険料払えず治療中断・受診拒否、愛知県内で２人死亡…愛知民医連「氷山",
@@ -137,33 +155,15 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "海外ワインをトンネルや海底保存し「潜在能力を引き出した」か…総務省、ふるさと納税",
+      "title": "GPT-6 Astraに佐村河内守の「作曲指示書」を渡したら、74分の交響曲を作",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "「衝動で行動する人はびっくりするほどいる」くら寿司の一件でグッズ転売はまだわかる",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『ちいかわ』コラボ中止の結果、全品10%割引を実施しているくら寿司だが、会計時に",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "10歳の息子がYouTuberのマネをして意味もわからず「性的な下ネタ」を言うよ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "おっさん冒険者の漫画を読み始めたんだけど、どうしていつも若い女を絡めたがるんだろ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
