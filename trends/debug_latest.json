@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T15:32:00+09:00",
+  "generated_at": "2026-09-08T21:17:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -20,35 +20,41 @@
     "dedup_excluded": 10,
     "passed_total": 115,
     "b2b_category_counts": {
-      "google_trends": 10,
-      "yahoo_realtime": 36,
-      "yahoo_news_ranking": 2,
       "x_realtime": 8,
-      "news_web": 14
+      "yahoo_realtime": 36,
+      "google_trends": 10,
+      "news_web": 14,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 36,
+    "social_reaction": 33,
+    "personal_story": 1,
     "opinion": 10,
-    "personal_story": 2,
-    "policy": 3,
     "medical_science": 1,
-    "hard_fact": 18
+    "hard_fact": 22,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
+    "social_reaction": 33,
     "opinion": 10,
-    "social_reaction": 36,
-    "policy": 3,
-    "hard_fact": 18,
+    "hard_fact": 22,
     "medical_science": 1,
-    "personal_story": 2
+    "personal_story": 1,
+    "policy": 3
   },
   "b2b_top10": [
     {
-      "title": "こめ お 食中毒",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "母に無料スタンプを送っただけで「私ごとき無料でいいと思ってるんだ」「バカにしてる",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東京大学、本田由紀教授に「注意」　彬子さま巡り「遺伝的要因のおそろしさ」と投稿→",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "ゲームディスクより先に「光学ドライブ」が消える？ Xboxも調達難、製造基盤が崩",
@@ -57,66 +63,66 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "私たちの税金は正しく使われているのか？ アベノマスク「倉庫代月2000万円」の実",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
       "title": "「反戦」「反差別」を掲げる左派周辺に広がる陰謀論｜女子大生起業家",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "AIセキュリティ短信 | 社会・産業のデジタル変革 | IPA 独立行政法人 情",
+      "title": "新しいクッションファンデ手に入れたからツヤ肌仕込んで出発したら保育園の先生に「マ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "支援学級に在籍している子どもに、担任報告済でGPSを持たせていたが、知らなかった",
+      "title": "満塁ランニングホームラン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "weather tomorrow",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "日向坂46",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "安全確保を 大雨のときのNG行動",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_domestic",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "「車なら渋滞でも音楽をかけたり、歌を歌ったり、行先を変えてもいい」という意見を聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "suica",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "陸上自衛隊",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ネイマール",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "バスケットボール 男子日本代表",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "ゲームディスクより先に「光学ドライブ」が消える？ Xboxも調達難、製造基盤が崩",
+      "title": "母に無料スタンプを送っただけで「私ごとき無料でいいと思ってるんだ」「バカにしてる",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東京大学、本田由紀教授に「注意」　彬子さま巡り「遺伝的要因のおそろしさ」と投稿→",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "こめ お 食中毒",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "ゲームディスクより先に「光学ドライブ」が消える？ Xboxも調達難、製造基盤が崩",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "「反戦」「反差別」を掲げる左派周辺に広がる陰謀論｜女子大生起業家",
@@ -125,45 +131,39 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "AIセキュリティ短信 | 社会・産業のデジタル変革 | IPA 独立行政法人 情",
+      "title": "新しいクッションファンデ手に入れたからツヤ肌仕込んで出発したら保育園の先生に「マ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "支援学級に在籍している子どもに、担任報告済でGPSを持たせていたが、知らなかった",
+      "title": "「車なら渋滞でも音楽をかけたり、歌を歌ったり、行先を変えてもいい」という意見を聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "これはホテル三日月のお高い部屋に泊まった人しか入れないラウンジにあった砂アートを",
+      "title": "名古屋市６０万世帯に警戒レベル５「緊急安全確保」、大雨で浸水発生の恐れ…ただちに",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「これ全部トンボなんだぜ？」米農家さんが投稿した田んぼ周辺の風景が昔懐かしい→こ",
+      "title": "女子バスケの「コートネーム」という文化が気持ち悪くて、どうしても受け付けられない",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "子どもの体育の期末テストに「大谷翔平のことを書け」という問題があり、体育教師にと",
+      "title": "娘ちゃんがパパを喜ばせようと可愛くしてくれたキーボードに悲鳴「うわあああああ！」",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「20年専業主婦だったので今さら働けない」は甘やかしちゃいかんと思う←「20年専",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ドラクエファンが「こういうグッズ思いついた」とイメージ画像をAIで作成＆投稿←こ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "Suica新キャラクターデザイン投票｜JR東日本",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
