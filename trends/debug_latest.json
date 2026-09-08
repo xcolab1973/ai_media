@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T01:51:00+09:00",
+  "generated_at": "2026-09-09T08:38:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,48 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
+    "neg_excluded": 7,
     "dedup_excluded": 11,
-    "passed_total": 112,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
-      "x_realtime": 7,
-      "news_web": 16,
       "google_trends": 10,
-      "yahoo_news_ranking": 3
+      "yahoo_realtime": 37,
+      "x_realtime": 7,
+      "news_web": 15,
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 31,
     "opinion": 10,
+    "social_reaction": 32,
     "personal_story": 1,
-    "hard_fact": 24,
-    "medical_science": 1,
-    "policy": 3
+    "medical_science": 4,
+    "hard_fact": 19,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 31,
-    "hard_fact": 24,
     "opinion": 10,
-    "policy": 3,
-    "medical_science": 1,
-    "personal_story": 1
+    "social_reaction": 32,
+    "hard_fact": 19,
+    "medical_science": 4,
+    "personal_story": 1,
+    "policy": 4
   },
   "b2b_top10": [
     {
-      "title": "東京大学、本田由紀教授に「注意」　彬子さま巡り「遺伝的要因のおそろしさ」と投稿→",
+      "title": "秋バテ対策",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "東大の本田由紀氏への「注意」受けて～「著名人」の反応",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "X見てて思った、やっぱり氷河期世代自体が使い物にならなかっただけなのでは？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -57,49 +69,37 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "ムーンライダーズ50周年企画 メンバー全員インタヴュー佐藤優介「永遠に違う目が出",
+      "title": "\"AI疲れ\"していませんか? | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "medical_science"
     },
     {
-      "title": "X見てて思った、やっぱり氷河期世代自体が使い物にならなかっただけなのでは？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "瀧七海",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "母に無料スタンプを送っただけで「私ごとき無料でいいと思ってるんだ」「バカにしてる",
+      "title": "自分の番になってタクシーが来て、地元までの金額が無理すぎて「⚫︎駅まで折半しませ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "愛知・岐阜の庄内川 氾濫注意報に",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "優しい人だと思っていた人が「『優しい人』が出来る人」だと判明した瞬間にその人が怖",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "クラブ・ブルッヘ 対 アストン・ビラ",
+      "title": "中山 雄太",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "高崎俊吾 vivant",
+      "title": "livゴルフ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "今田美桜",
+      "title": "ホワイトソックス 対 パイレーツ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,13 +107,13 @@
   ],
   "note_top10": [
     {
-      "title": "東京大学、本田由紀教授に「注意」　彬子さま巡り「遺伝的要因のおそろしさ」と投稿→",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "秋バテ対策",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "ムーンライダーズ50周年企画 メンバー全員インタヴュー佐藤優介「永遠に違う目が出",
+      "title": "東大の本田由紀氏への「注意」受けて～「著名人」の反応",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,7 +125,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "母に無料スタンプを送っただけで「私ごとき無料でいいと思ってるんだ」「バカにしてる",
+      "title": "インフル明けで登校した娘がプールの授業を休んだら、体育倉庫の掃除と体育館の雑巾が",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "自分の番になってタクシーが来て、地元までの金額が無理すぎて「⚫︎駅まで折半しませ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -137,31 +143,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "女子バスケの「コートネーム」という文化が気持ち悪くて、どうしても受け付けられない",
+      "title": "『地雷メイクやめて、カラコンも変えて、前髪も薄くした』地雷系クリエイターがネット",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "映画「ゴジラ-0.0」予告が解禁、その最後に聞こえてきた怪獣の声に聴き覚えがあり",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "レストランですげー高級な超うまいスイカを食べたので残った種を持ち帰って植えてみた",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "OECD国際学力調査、日本が全分野で1位　読解・数学・科学　平均低下の中で横ばい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「こめおが500%悪い」料理系YouTuberのリュウジさん、今話題の蟹ラーメン",
+      "title": "いつもと違って目をつぶって眠るうさぎの寝顔を見て驚きハチワレとちいかわ…なお読者",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『地雷メイクやめて、カラコンも変えて、前髪も薄くした』地雷系クリエイターがネット",
+      "title": "シルバーウィークに開催される「上野ゾク夏祭り」は怪談やホラーや他ジャンルの演者に",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
