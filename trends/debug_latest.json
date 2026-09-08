@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T21:17:00+09:00",
+  "generated_at": "2026-09-09T01:51:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,40 +16,34 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 10,
-    "passed_total": 115,
+    "neg_excluded": 9,
+    "dedup_excluded": 11,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "x_realtime": 8,
-      "yahoo_realtime": 36,
+      "yahoo_realtime": 34,
+      "x_realtime": 7,
+      "news_web": 16,
       "google_trends": 10,
-      "news_web": 14,
-      "yahoo_news_ranking": 2
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "personal_story": 1,
+    "social_reaction": 31,
     "opinion": 10,
+    "personal_story": 1,
+    "hard_fact": 24,
     "medical_science": 1,
-    "hard_fact": 22,
     "policy": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
+    "social_reaction": 31,
+    "hard_fact": 24,
     "opinion": 10,
-    "hard_fact": 22,
+    "policy": 3,
     "medical_science": 1,
-    "personal_story": 1,
-    "policy": 3
+    "personal_story": 1
   },
   "b2b_top10": [
-    {
-      "title": "母に無料スタンプを送っただけで「私ごとき無料でいいと思ってるんだ」「バカにしてる",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
     {
       "title": "東京大学、本田由紀教授に「注意」　彬子さま巡り「遺伝的要因のおそろしさ」と投稿→",
       "source_category": "yahoo_realtime",
@@ -57,113 +51,119 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ゲームディスクより先に「光学ドライブ」が消える？ Xboxも調達難、製造基盤が崩",
+      "title": "《くら寿司×ちいかわコラボ》千葉県内の店舗で景品の湯呑みを無料提供していた！広報",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「反戦」「反差別」を掲げる左派周辺に広がる陰謀論｜女子大生起業家",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "新しいクッションファンデ手に入れたからツヤ肌仕込んで出発したら保育園の先生に「マ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "満塁ランニングホームラン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "weather tomorrow",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "日向坂46",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "安全確保を 大雨のときのNG行動",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
       "topic_category": "hard_fact"
     },
     {
-      "title": "「車なら渋滞でも音楽をかけたり、歌を歌ったり、行先を変えてもいい」という意見を聞",
+      "title": "ムーンライダーズ50周年企画 メンバー全員インタヴュー佐藤優介「永遠に違う目が出",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "X見てて思った、やっぱり氷河期世代自体が使い物にならなかっただけなのでは？",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "母に無料スタンプを送っただけで「私ごとき無料でいいと思ってるんだ」「バカにしてる",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "愛知・岐阜の庄内川 氾濫注意報に",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "優しい人だと思っていた人が「『優しい人』が出来る人」だと判明した瞬間にその人が怖",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "クラブ・ブルッヘ 対 アストン・ビラ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "高崎俊吾 vivant",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "今田美桜",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "母に無料スタンプを送っただけで「私ごとき無料でいいと思ってるんだ」「バカにしてる",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "東京大学、本田由紀教授に「注意」　彬子さま巡り「遺伝的要因のおそろしさ」と投稿→",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ゲームディスクより先に「光学ドライブ」が消える？ Xboxも調達難、製造基盤が崩",
+      "title": "ムーンライダーズ50周年企画 メンバー全員インタヴュー佐藤優介「永遠に違う目が出",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「反戦」「反差別」を掲げる左派周辺に広がる陰謀論｜女子大生起業家",
+      "title": "X見てて思った、やっぱり氷河期世代自体が使い物にならなかっただけなのでは？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "新しいクッションファンデ手に入れたからツヤ肌仕込んで出発したら保育園の先生に「マ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "母に無料スタンプを送っただけで「私ごとき無料でいいと思ってるんだ」「バカにしてる",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「車なら渋滞でも音楽をかけたり、歌を歌ったり、行先を変えてもいい」という意見を聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "名古屋市６０万世帯に警戒レベル５「緊急安全確保」、大雨で浸水発生の恐れ…ただちに",
+      "title": "優しい人だと思っていた人が「『優しい人』が出来る人」だと判明した瞬間にその人が怖",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "女子バスケの「コートネーム」という文化が気持ち悪くて、どうしても受け付けられない",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "娘ちゃんがパパを喜ばせようと可愛くしてくれたキーボードに悲鳴「うわあああああ！」",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Suica新キャラクターデザイン投票｜JR東日本",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "レストランですげー高級な超うまいスイカを食べたので残った種を持ち帰って植えてみた",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "OECD国際学力調査、日本が全分野で1位　読解・数学・科学　平均低下の中で横ばい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「こめおが500%悪い」料理系YouTuberのリュウジさん、今話題の蟹ラーメン",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『地雷メイクやめて、カラコンも変えて、前髪も薄くした』地雷系クリエイターがネット",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
