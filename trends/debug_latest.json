@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T08:44:00+09:00",
+  "generated_at": "2026-09-08T15:32:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,99 +7,99 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
     "neg_excluded": 7,
-    "dedup_excluded": 8,
-    "passed_total": 107,
+    "dedup_excluded": 10,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "x_realtime": 10,
-      "yahoo_realtime": 25,
-      "news_web": 22,
       "google_trends": 10,
-      "yahoo_news_ranking": 3
+      "yahoo_realtime": 36,
+      "yahoo_news_ranking": 2,
+      "x_realtime": 8,
+      "news_web": 14
     }
   },
   "note_category_counts": {
-    "social_reaction": 24,
-    "medical_science": 3,
+    "social_reaction": 36,
     "opinion": 10,
     "personal_story": 2,
-    "hard_fact": 29,
-    "policy": 2
+    "policy": 3,
+    "medical_science": 1,
+    "hard_fact": 18
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 24,
-    "hard_fact": 29,
-    "medical_science": 3,
     "opinion": 10,
-    "policy": 2,
+    "social_reaction": 36,
+    "policy": 3,
+    "hard_fact": 18,
+    "medical_science": 1,
     "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "沼男の件で悪魔的パチンコ台「沼」がバズっていることに反応するハンチョウ公式が安定",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "10歳の息子がYouTuberのマネをして意味もわからず「性的な下ネタ」を言うよ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "親睦行事の駅伝で夫熱中症死 提訴",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "医療費や健康保険料払えず治療中断・受診拒否、愛知県内で２人死亡…愛知民医連「氷山",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "円半年ぶりに154円台に上昇　円安抑止へ思惑、「有事のドル買い」後退 - 日本経",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "福岡県議、今度は「タイタニックごっこ」で炎上　国民・大田氏は県連代表辞任、自民・",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "アンダーパスで車２台が水没、女性が死亡…伊豆諸島の大島町・利島村・新島村に「レベ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "アジア 選手権",
+      "title": "こめ お 食中毒",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "駅前でMacを発見し、雨の当たらない場所に移動…盗品の可能性もあり、警察に届ける",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "ゲームディスクより先に「光学ドライブ」が消える？ Xboxも調達難、製造基盤が崩",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "香取慎吾",
+      "title": "私たちの税金は正しく使われているのか？ アベノマスク「倉庫代月2000万円」の実",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "「反戦」「反差別」を掲げる左派周辺に広がる陰謀論｜女子大生起業家",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "AIセキュリティ短信 | 社会・産業のデジタル変革 | IPA 独立行政法人 情",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "支援学級に在籍している子どもに、担任報告済でGPSを持たせていたが、知らなかった",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "suica",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "陸上自衛隊",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ネイマール",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "バスケットボール 男子日本代表",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,63 +107,63 @@
   ],
   "note_top10": [
     {
-      "title": "沼男の件で悪魔的パチンコ台「沼」がバズっていることに反応するハンチョウ公式が安定",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "10歳の息子がYouTuberのマネをして意味もわからず「性的な下ネタ」を言うよ",
+      "title": "ゲームディスクより先に「光学ドライブ」が消える？ Xboxも調達難、製造基盤が崩",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "福岡県議、今度は「タイタニックごっこ」で炎上　国民・大田氏は県連代表辞任、自民・",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "駅前でMacを発見し、雨の当たらない場所に移動…盗品の可能性もあり、警察に届ける",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "くりまんじゅうが頭洗いのお店に立ち寄る話の「冷えた求肥サービス」が使い所も合わせ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "15年ほど前、病院で点滴を打ってもらった…誰もいない時に点滴が空になり、チューブ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "医療費や健康保険料払えず治療中断・受診拒否、愛知県内で２人死亡…愛知民医連「氷山",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "「街中に急にバックルーム出現してた、人影はなかった、入口もなかった」いい感じすぎ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "アジア 選手権",
+      "title": "こめ お 食中毒",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "17年書いてきた日報に「誰も読んでいないと思う」と書いたら、部長に褒められ",
+      "title": "「反戦」「反差別」を掲げる左派周辺に広がる陰謀論｜女子大生起業家",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "AIセキュリティ短信 | 社会・産業のデジタル変革 | IPA 独立行政法人 情",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "支援学級に在籍している子どもに、担任報告済でGPSを持たせていたが、知らなかった",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "これはホテル三日月のお高い部屋に泊まった人しか入れないラウンジにあった砂アートを",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「これ全部トンボなんだぜ？」米農家さんが投稿した田んぼ周辺の風景が昔懐かしい→こ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "子どもの体育の期末テストに「大谷翔平のことを書け」という問題があり、体育教師にと",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「20年専業主婦だったので今さら働けない」は甘やかしちゃいかんと思う←「20年専",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ドラクエファンが「こういうグッズ思いついた」とイメージ画像をAIで作成＆投稿←こ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
