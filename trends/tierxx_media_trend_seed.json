@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-09-08T16:23:00+0900",
+    "generated_at": "2026-09-08T21:16:09+0900",
     "record_count": 45,
-    "source_total_in_db": 1136,
+    "source_total_in_db": 1137,
     "provenance_breakdown": {
       "evidence": 737,
-      "pain_seed": 399
+      "pain_seed": 400
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_10a709bc3d8c",
+      "trend_term": "セレブのベビーボトックス告白",
+      "raw_title": "アカデミー賞女優が「ベビーボトックス」告白、表情筋には注意 脂肪移植やバッカルファット除去も興味 - au Webポータル",
+      "summary": "アカデミー賞女優がベビーボトックス使用を公開。表情筋への懸念や脂肪移植・バッカルファット除去への関心も言及。読者の施術選択時の不安材料",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wdThGNDNQZmNYdW1ZSFNkWWFKWjhOQndJQ3hnajIwamxWYXVLTTRxNmZ5ckxjcEEzMWdEa3BhUmVUME9kQ0lfWHFzWURfbEpOTmVhMmNuUUVKOElMRFVya2lVeV94SW1vdWtXWHE1anBGWFo1REdKTA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wdThGNDNQZmNYdW1ZSFNkWWFKWjhOQndJQ3hnajIwamxWYXVLTTRxNmZ5ckxjcEEzMWdEa3BhUmVUME9kQ0lfWHFzWURfbEpOTmVhMmNuUUVKOElMRFVya2lVeV94SW1vdWtXWHE1anBGWFo1REdKTA?oc=5",
+      "source_name": "au Webポータル",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-09-13T21:15:39+0900",
+      "status": "candidate",
+      "created_at": "2026-09-08T21:15:39+0900"
+    },
     {
       "seed_id": "seed_d7fa55d4799b",
       "trend_term": "美容医療ドラマ化",
@@ -189,24 +207,6 @@
       "demand_signal": "",
       "evidence_card_id": null,
       "valid_until": "2026-09-21T22:38:06+0900",
-      "status": "candidate",
-      "created_at": "2026-09-07T22:38:06+0900"
-    },
-    {
-      "seed_id": "seed_75db4bee061c",
-      "trend_term": "表情筋リスク注意",
-      "raw_title": "アカデミー賞女優が「ベビーボトックス」告白、表情筋には注意　脂肪移植やバッカルファット除去も興味 - ｄメニューニュース",
-      "summary": "ベビーボトックス施術時の表情筋への注意点、脂肪移植やバッカルファット除去などの併用施術への関心を専門家が指摘",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZHY4ODdJT1NLbEtwOGxpZmhFa2l4SW5TcWVPdjhkVl96ZWNOcFFZQmU2RUlIQ1BaS1BOSGdZVlhBeXFtS1BEa2hiTDU0OS1pRVdFRGdRMDkydmhhNXdxeV9ZSnpnQjJBODFfQ0dSOWFPYlFkQmhaVEt1NU4zMlpJcGc0THhITkYtTHQtcTkyd2dMZGhj0gGUAUFVX3lxTE9kdjg4N0lPU0tsS3A4bGlmaEVraXhJblNxZU92OGRWX3plY05wUVlCZTZFSUhDUFpLUE5IZ1lWWEF5cW1LUERraGJMNTQ5LWlFV0VEZ1EwOTJ2aGE1d3F5X1lKemdCMkE4MV9DR1I5YU9iUWRCaFpUS3U1TjMyWklwZzRMeEhORi1MdC1xOTJ3Z0xkaGM?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZHY4ODdJT1NLbEtwOGxpZmhFa2l4SW5TcWVPdjhkVl96ZWNOcFFZQmU2RUlIQ1BaS1BOSGdZVlhBeXFtS1BEa2hiTDU0OS1pRVdFRGdRMDkydmhhNXdxeV9ZSnpnQjJBODFfQ0dSOWFPYlFkQmhaVEt1NU4zMlpJcGc0THhITkYtTHQtcTkyd2dMZGhj0gGUAUFVX3lxTE9kdjg4N0lPU0tsS3A4bGlmaEVraXhJblNxZU92OGRWX3plY05wUVlCZTZFSUhDUFpLUE5IZ1lWWEF5cW1LUERraGJMNTQ5LWlFV0VEZ1EwOTJ2aGE1d3F5X1lKemdCMkE4MV9DR1I5YU9iUWRCaFpUS3U1TjMyWklwZzRMeEhORi1MdC1xOTJ3Z0xkaGM?oc=5",
-      "source_name": "ｄメニューニュース",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "safety_claim",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-12T22:38:06+0900",
       "status": "candidate",
       "created_at": "2026-09-07T22:38:06+0900"
     },
