@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-09-09T21:27:08+0900",
-    "record_count": 36,
-    "source_total_in_db": 1148,
+    "generated_at": "2026-09-10T08:28:09+0900",
+    "record_count": 35,
+    "source_total_in_db": 1149,
     "provenance_breakdown": {
-      "evidence": 744,
+      "evidence": 745,
       "pain_seed": 404
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_94dc3ea80000",
+      "trend_term": "大手製薬企業の韓国美容医療進出",
+      "raw_title": "イーライ・リリーがK美容医療に出資共同開発検討 - CHOSUNBIZ - Chosunbiz",
+      "summary": "イーライ・リリーが韓国の美容医療企業への出資および共同開発を検討中。大手製薬企業による美容医療市場への投資戦略の動き。",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSjFVc1lHMWlxMTB4YkpYZWR0akNlRVBpc2gtS0lWZVVPWWRuYy16TUdFYlFvOHh0YzRLeWpmYVIwQURCbHAzaUJETUJtejdUQkQ5TkF1WWdBNGZzVjhIYUVNQzg1ek9qbS1sN2JDQWk2SEN2N1BiSzcybmxOVW82StIBlAFBVV95cUxQVnlKLTZzY2ZhLS1JSW9BMXVDT0VOWTNtVkdDM3RBMDZCS1dydktGTzlHM1pXaWhfUnI0cmZfRl80SnAyZDA0OHBiUnd2elNZR09KNzVJUWhJbm9lSDFKUjV0bW5NdExrWHNXeThsOU9CWVRfZHZoVXVSU1pCOTBERTdfeXF2UDJpa2xBZlI2TmlCQkV6?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSjFVc1lHMWlxMTB4YkpYZWR0akNlRVBpc2gtS0lWZVVPWWRuYy16TUdFYlFvOHh0YzRLeWpmYVIwQURCbHAzaUJETUJtejdUQkQ5TkF1WWdBNGZzVjhIYUVNQzg1ek9qbS1sN2JDQWk2SEN2N1BiSzcybmxOVW82StIBlAFBVV95cUxQVnlKLTZzY2ZhLS1JSW9BMXVDT0VOWTNtVkdDM3RBMDZCS1dydktGTzlHM1pXaWhfUnI0cmZfRl80SnAyZDA0OHBiUnd2elNZR09KNzVJUWhJbm9lSDFKUjV0bW5NdExrWHNXeThsOU9CWVRfZHZoVXVSU1pCOTBERTdfeXF2UDJpa2xBZlI2TmlCQkV6?oc=5",
+      "source_name": "Chosunbiz",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-09-15T08:27:52+0900",
+      "status": "candidate",
+      "created_at": "2026-09-10T08:27:52+0900"
+    },
     {
       "seed_id": "seed_92d00ae944ab",
       "trend_term": "美容医療の価格透明化",
@@ -209,24 +227,6 @@
       "valid_until": "2026-09-14T08:34:25+0900",
       "status": "candidate",
       "created_at": "2026-09-09T08:34:25+0900"
-    },
-    {
-      "seed_id": "seed_10a709bc3d8c",
-      "trend_term": "セレブのベビーボトックス告白",
-      "raw_title": "アカデミー賞女優が「ベビーボトックス」告白、表情筋には注意 脂肪移植やバッカルファット除去も興味 - au Webポータル",
-      "summary": "アカデミー賞女優がベビーボトックス使用を公開。表情筋への懸念や脂肪移植・バッカルファット除去への関心も言及。読者の施術選択時の不安材料",
-      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wdThGNDNQZmNYdW1ZSFNkWWFKWjhOQndJQ3hnajIwamxWYXVLTTRxNmZ5ckxjcEEzMWdEa3BhUmVUME9kQ0lfWHFzWURfbEpOTmVhMmNuUUVKOElMRFVya2lVeV94SW1vdWtXWHE1anBGWFo1REdKTA?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wdThGNDNQZmNYdW1ZSFNkWWFKWjhOQndJQ3hnajIwamxWYXVLTTRxNmZ5ckxjcEEzMWdEa3BhUmVUME9kQ0lfWHFzWURfbEpOTmVhMmNuUUVKOElMRFVya2lVeV94SW1vdWtXWHE1anBGWFo1REdKTA?oc=5",
-      "source_name": "au Webポータル",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-13T21:15:39+0900",
-      "status": "candidate",
-      "created_at": "2026-09-08T21:15:39+0900"
     },
     {
       "seed_id": "seed_d7fa55d4799b",
@@ -587,24 +587,6 @@
       "valid_until": "2026-09-19T08:12:46+0900",
       "status": "candidate",
       "created_at": "2026-09-05T08:12:46+0900"
-    },
-    {
-      "seed_id": "seed_dbfa437f7604",
-      "trend_term": "美容針シート",
-      "raw_title": "スキンケアブランド「RISM（リズム）」より、美容針※1×高密着ゲルシート×クリア※2設計でくすみ※3ケアに特化した部 - ニコニコニュース",
-      "summary": "スキンケアブランド「RISM」が美容針×高密着ゲルシート×クリア設計でくすみケアに特化した製品を展開。針状美容製品の市場拡大を示唆。",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CV0c0ZmtqQ3NncGlQSjRMYlBqWnFGOG90OHVfNHNRbl9zR0Z6a3p5TFBIb2xvQTdISDRjblRtVmhGTXZ2NzdkS0JvZkR0VTVrX2VDSg?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CV0c0ZmtqQ3NncGlQSjRMYlBqWnFGOG90OHVfNHNRbl9zR0Z6a3p5TFBIb2xvQTdISDRjblRtVmhGTXZ2NzdkS0JvZkR0VTVrX2VDSg?oc=5",
-      "source_name": "ニコニコニュース",
-      "monitor_id": "bm-machine-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-10T08:12:37+0900",
-      "status": "candidate",
-      "created_at": "2026-09-05T08:12:37+0900"
     },
     {
       "seed_id": "seed_15bc8fbbbcfc",
