@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T01:54:00+09:00",
+  "generated_at": "2026-09-10T08:29:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,155 +16,155 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
+    "neg_excluded": 3,
     "dedup_excluded": 8,
-    "passed_total": 119,
+    "passed_total": 121,
     "b2b_category_counts": {
-      "x_realtime": 9,
-      "yahoo_realtime": 38,
+      "yahoo_realtime": 37,
       "google_trends": 10,
-      "news_web": 10,
-      "yahoo_news_ranking": 3
+      "x_realtime": 9,
+      "news_web": 12,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 38,
-    "personal_story": 1,
+    "personal_story": 6,
+    "social_reaction": 33,
     "opinion": 10,
-    "medical_science": 3,
-    "hard_fact": 14,
-    "policy": 4
+    "medical_science": 4,
+    "hard_fact": 11,
+    "policy": 6
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 38,
-    "personal_story": 1,
+    "personal_story": 6,
+    "social_reaction": 31,
     "opinion": 10,
-    "hard_fact": 16,
-    "medical_science": 1,
-    "policy": 4
+    "hard_fact": 15,
+    "policy": 6,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "【虫注意】スズメバチがカマキリを倒して捕食する姿を見てカマキリがなぜカマで戦わな",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "人口激減は2055年に始まる─世界で出生率が急落している理由 | 少子化を加速さ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「未購入の本を持ち込んで読めるカフェ」は本当にいらない…なんで他人が読んだ本を新",
+      "title": "iPhoneの「Pro」シリーズが大幅値上げ、昨年比較で最低4万円・最大12万円",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "トランプ",
+      "title": "買う価値のない野菜、買う価値のある野菜を列挙する",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "めおと日和",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "国王",
+      "title": "自宅に佐川急便から｢北海道の五十嵐さん宛にお荷物送られてますか？｣と謎の電話…何",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "毎回エナドリを購入するコンビニでレジのおばちゃんに「あんたが大量に買ってくからそ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "初対面の人と話す時に3ヶ月後に暗殺するつもりで話すといいと聞いたので実践したら割",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "santos x atlético-mg",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "魔獣使い",
+      "title": "有村治子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "石原さとみ",
+      "title": "笠井信輔",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "barcelona vs feyenoord",
+      "title": "ブレーブス 対 レイズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
-    },
-    {
-      "title": "バルセロナ 対 フェイエノールト",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ミセス約1カ月の夏季休暇終了報告",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_entertainment",
-      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
     {
-      "title": "【虫注意】スズメバチがカマキリを倒して捕食する姿を見てカマキリがなぜカマで戦わな",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「未購入の本を持ち込んで読めるカフェ」は本当にいらない…なんで他人が読んだ本を新",
+      "title": "iPhoneの「Pro」シリーズが大幅値上げ、昨年比較で最低4万円・最大12万円",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "人口激減は2055年に始まる─世界で出生率が急落している理由 | 少子化を加速さ",
+      "title": "買う価値のない野菜、買う価値のある野菜を列挙する",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "郵便局で高校生が「急ぎで口座作りたいンすけど！」と言った瞬間、局員と客の全員がピ",
+      "title": "自宅に佐川急便から｢北海道の五十嵐さん宛にお荷物送られてますか？｣と謎の電話…何",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本の左派と米MAGAに共通して広く見られる陰謀論6選（自己チェックシート付き）",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "千曲市舞台のアニメ｢Turkey！」経済効果7800万円と試算　市事業費の約10",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「メルカリでのマネロンの闇を教えてもらって恐怖してる」マンガやリモコンなどあまり",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「買う側」処罰化で女性を守れる？　支援当事者が問う売春防止法改正：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ペンギンを返して」→「3匹全部採用して」　批判殺到のSuica新キャラ、ファン",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "芦田愛菜が子役の頃から今まで極端に嫌われも消えもせず教養があるイメージまで獲得し",
+      "title": "毎回エナドリを購入するコンビニでレジのおばちゃんに「あんたが大量に買ってくからそ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "初対面の人と話す時に3ヶ月後に暗殺するつもりで話すといいと聞いたので実践したら割",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "みんなほしいのはiPhone Duo “mini”だよね",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ロマンシング サガ３ デスティニーユナイテッド │ SQUARE ENIX",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「iPhone Duo」はApple初の7.6型折りたたみで36万円強から",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "アスペ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "めおと日和",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
