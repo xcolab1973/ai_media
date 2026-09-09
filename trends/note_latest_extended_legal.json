@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-09-09T06:47:06+09:00",
- "valid_until": "2026-09-16T06:36:47+09:00",
+ "generated_at": "2026-09-09T16:55:00+09:00",
+ "valid_until": "2026-09-16T16:46:34+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "legal",
- "total_count": 11,
+ "total_count": 13,
  "merge": {
   "parent": "legal",
-  "from_current": 24,
-  "from_new": 4,
-  "expired_pruned": 17,
+  "from_current": 11,
+  "from_new": 3,
+  "expired_pruned": 1,
   "retention_dropped": 0,
-  "genres": 4,
+  "genres": 5,
   "retention_per_genre": 8
  },
  "candidates": [
@@ -198,6 +198,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "熟年離婚をする夫婦の特徴や原因とは？離婚の準備と手続きについても解説",
+   "url": "https://www.adire.jp/lega_life_lab/rikon/jukunenrikon/column124/",
+   "summary": "同居期間20年以上の夫婦による離婚が全体の2割超を占め増加傾向にあると解説。熟年離婚は財産分与や年金分割が複雑化しやすく、通常の離婚手続き(協議・調停・訴訟)に加え準備期間が必要だと法律専門家が指摘している。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "legal-divorce",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "リーガライフラボ",
+    "expert_origin": true,
+    "search_query": "離婚 夏休み明け 9月 増える 熟年離婚 手続き",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-16T16:46:34+09:00",
+   "validity_days": 7
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "退職金は離婚時に財産分与の対象になり得る！具体的なケースや金額は？",
    "url": "https://www.adire-rikon.jp/about/money/zaisan/taishokukin.html",
    "summary": "退職金は賃金の後払い的性質から財産分与の対象になり得るが、将来受給の退職金は「近い将来受領し得る蓋然性が高い場合」に限られる。定年まで10年以内かつ退職金規定がある公務員等が典型例。すでに退職金を使い切っている場合は原則対象外となるなど、読者が誤解しやすい線引きを整理。",
@@ -228,6 +258,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "もらい事故の示談交渉は保険会社に頼めない！示談の注意点や使える自分の保険を解説",
+   "url": "https://atomfirm.com/media/37796",
+   "summary": "過失割合ゼロの「もらい事故」では弁護士法の規定により被害者側保険会社が示談交渉を代行できないと弁護士が解説。被害者は自ら相手方と交渉するか弁護士費用特約を使って弁護士に依頼する必要があると整理している。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "hard_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "legal-accident",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "アトム法律事務所弁護士法人",
+    "expert_origin": true,
+    "search_query": "もらい事故 過失割合 示談交渉 保険会社 対応してくれない",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-16T16:46:34+09:00",
+   "validity_days": 7
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "過失割合で交通事故の慰謝料は変わる？納得いかない場合の対処法",
    "url": "https://www.daylight-law.jp/accident/qa/qa358/",
    "summary": "過失相殺により被害者側の過失割合分だけ慰謝料が減額される仕組みをQ&A形式で解説。過失割合8:2で慰謝料1000万円のケースを例に、200万円が減額され800万円になる計算過程を提示。示談内容に納得できない場合の対処法にも触れており、事故直後の読者の二次質問に対応する内容。",
@@ -254,36 +314,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-10T16:44:07+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "交通事故の示談金は、いくら貰えるのでしょうか？100対0で、一応救急車で運…",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12255350457",
-   "summary": "過失割合100対0の事故で提示された示談金額が適正か分からず不安を訴える投稿。保険会社基準と弁護士基準の差を知らないまま署名してしまうリスクへの下流の不安が表れている典型的な相談例。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "legal-accident",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "site:chiebukuro.yahoo.co.jp 交通事故 示談金 低い",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-09T16:46:27+09:00",
    "validity_days": 7
   },
   {
@@ -344,6 +374,36 @@
     "rescued": false
    },
    "valid_until": "2026-09-16T06:36:47+09:00",
+   "validity_days": 7
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "日本：2026年12月施行―改正公益通報者保護法と企業の実務対応",
+   "url": "https://oneasia.legal/17694",
+   "summary": "2026年12月1日施行の改正公益通報者保護法は、通報対応体制の周知義務化・フリーランスの保護対象化・従業員301人以上事業者への罰則新設が柱。300人以下企業は体制整備が引き続き努力義務である点を法律事務所が解説。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "hard_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "legal-smb",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "One Asia Lawyers",
+    "expert_origin": true,
+    "search_query": "公益通報者保護法 改正 2026年12月 中小企業 通報窓口",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-16T16:46:34+09:00",
    "validity_days": 7
   }
  ]

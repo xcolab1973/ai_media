@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-09-09T06:47:07+09:00",
+ "generated_at": "2026-09-09T16:55:00+09:00",
  "valid_until": "2026-09-16T16:47:34+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "review",
- "total_count": 9,
+ "total_count": 11,
  "merge": {
   "parent": "review",
-  "from_current": 28,
-  "from_new": 4,
-  "expired_pruned": 23,
+  "from_current": 9,
+  "from_new": 2,
+  "expired_pruned": 0,
   "retention_dropped": 0,
-  "genres": 3,
+  "genres": 4,
   "retention_per_genre": 8
  },
  "candidates": [
@@ -228,6 +228,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "【保存版】映画館のIMAX・MX4D・4DX・Dolby Cinemaの違いを徹底解説！どれを選べば正解？【失敗しない選び方】",
+   "url": "https://www.tabiroureview.jp/imax_dolby-cinema_mx4d_4dx/",
+   "summary": "IMAX・4DX・Dolby Cinema等の特殊上映方式の違いと選び方を整理。映像・音響重視ならIMAXやドルビーシネマ、体感重視なら4DXが向くと解説。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "review-entame",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "旅狼のレビュー小屋",
+    "expert_origin": false,
+    "search_query": "映画館 応援上映 4DX IMAX 違い 選び方 口コミ",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-14T16:51:18+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "１話で脱落するのどう思います？",
    "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12279797522",
    "summary": "秋の新ドラマ改編期に「1話がつまらなかったら見るのをやめてよいか」と悩む読者の生の声。何話まで我慢すべきかの基準を求めている。",
@@ -284,6 +314,36 @@
     "rescued": false
    },
    "valid_until": "2026-09-14T06:45:27+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "SNSや匿名掲示板で起こる芸能人・一般人への誹謗中傷…“開示請求”事例や手続きについて弁護士が解説",
+   "url": "https://news.mynavi.jp/article/20241010-3041799/",
+   "summary": "SNSでの芸能人への誹謗中傷に対する発信者情報開示請求の手続きを弁護士が解説。プロバイダ責任制限法に基づく投稿者特定の流れを紹介した実務解説記事。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "review-celeb",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "マイナビニュース",
+    "expert_origin": false,
+    "search_query": "芸能人 SNS 誹謗中傷 発信者情報開示 2026 事例",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-14T16:51:18+09:00",
    "validity_days": 5
   }
  ]
