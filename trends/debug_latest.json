@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T21:29:00+09:00",
+  "generated_at": "2026-09-10T01:54:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,159 +7,161 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 115,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 23,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
+    "neg_excluded": 5,
     "dedup_excluded": 8,
-    "passed_total": 99,
+    "passed_total": 119,
     "b2b_category_counts": {
-      "yahoo_realtime": 18,
       "x_realtime": 9,
+      "yahoo_realtime": 38,
       "google_trends": 10,
-      "yahoo_news_ranking": 11,
-      "news_web": 22
+      "news_web": 10,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 23,
+    "social_reaction": 38,
+    "personal_story": 1,
     "opinion": 10,
-    "hard_fact": 33,
-    "policy": 1,
-    "medical_science": 3
+    "medical_science": 3,
+    "hard_fact": 14,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 23,
+    "social_reaction": 38,
+    "personal_story": 1,
     "opinion": 10,
-    "hard_fact": 33,
-    "policy": 1,
-    "medical_science": 3
+    "hard_fact": 16,
+    "medical_science": 1,
+    "policy": 4
   },
   "b2b_top10": [
     {
-      "title": "板野友美「営業時間外だった」ホテル新声明で「子どもを深夜まで」と再炎上",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "連日話題の板野友美さんのリッツ・カールトン脱衣所撮影騒動、ホテル側からの追加回答",
+      "title": "【虫注意】スズメバチがカマキリを倒して捕食する姿を見てカマキリがなぜカマで戦わな",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【※苦手な人閲覧注意】「日テレの報道には失望」事務所スタッフへ暴行した容疑のデヴ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「眼瞼下垂」が引き起こす不調 頭痛や肩こりの原因になる？",
+      "title": "人口激減は2055年に始まる─世界で出生率が急落している理由 | 少子化を加速さ",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "床田寛樹",
+      "title": "「未購入の本を持ち込んで読めるカフェ」は本当にいらない…なんで他人が読んだ本を新",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "トランプ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "マックス フェルスタッペン",
+      "title": "国王",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "水谷豊が体調不良で「相棒」ロケを2週間離脱 家族めぐる心労懸念",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
+      "title": "魔獣使い",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "徳島の鉄塔で19歳の点検作業員が落下し死亡 当時現場周辺では落雷も",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
+      "title": "石原さとみ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "barcelona vs feyenoord",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "バルセロナ 対 フェイエノールト",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ミセス約1カ月の夏季休暇終了報告",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_entertainment",
       "topic_category": "hard_fact"
-    },
-    {
-      "title": "筧美和子",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "小園海斗 ビール売り子",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "板野友美「営業時間外だった」ホテル新声明で「子どもを深夜まで」と再炎上",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "連日話題の板野友美さんのリッツ・カールトン脱衣所撮影騒動、ホテル側からの追加回答",
+      "title": "【虫注意】スズメバチがカマキリを倒して捕食する姿を見てカマキリがなぜカマで戦わな",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「眼瞼下垂」が引き起こす不調 頭痛や肩こりの原因になる？",
+      "title": "「未購入の本を持ち込んで読めるカフェ」は本当にいらない…なんで他人が読んだ本を新",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "人口激減は2055年に始まる─世界で出生率が急落している理由 | 少子化を加速さ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【※苦手な人閲覧注意】「日テレの報道には失望」事務所スタッフへ暴行した容疑のデヴ",
+      "title": "郵便局で高校生が「急ぎで口座作りたいンすけど！」と言った瞬間、局員と客の全員がピ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "水谷豊が体調不良で「相棒」ロケを2週間離脱 家族めぐる心労懸念",
+      "title": "日本の左派と米MAGAに共通して広く見られる陰謀論6選（自己チェックシート付き）",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "フランスでルノワールの名画が盗難 わずか5分で被害額は16億円以上",
+      "title": "千曲市舞台のアニメ｢Turkey！」経済効果7800万円と試算　市事業費の約10",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "Appleオンラインストアがメンテナンス入り 新製品登場の事前準備か",
+      "title": "「メルカリでのマネロンの闇を教えてもらって恐怖してる」マンガやリモコンなどあまり",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "くら寿司「ちいかわ」コラボ景品を巡りヤフオクは出品者に入手経路の確認へ",
+      "title": "「買う側」処罰化で女性を守れる？　支援当事者が問う売春防止法改正：朝日新聞",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "四千頭身・後藤拓実、石橋遼大との会話で都築拓紀との「不穏な関係」示唆",
+      "title": "「ペンギンを返して」→「3匹全部採用して」　批判殺到のSuica新キャラ、ファン",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『説明しよう！求肥とは「餅米を砕いた粉に砂糖を加え、熱湯で練ったお菓子」である！",
+      "title": "芦田愛菜が子役の頃から今まで極端に嫌われも消えもせず教養があるイメージまで獲得し",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
