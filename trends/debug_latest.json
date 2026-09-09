@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T08:38:00+09:00",
+  "generated_at": "2026-09-09T15:41:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,154 +16,154 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 11,
-    "passed_total": 114,
+    "neg_excluded": 5,
+    "dedup_excluded": 14,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "google_trends": 10,
       "yahoo_realtime": 37,
-      "x_realtime": 7,
-      "news_web": 15,
-      "yahoo_news_ranking": 1
+      "google_trends": 10,
+      "yahoo_news_ranking": 6,
+      "x_realtime": 5,
+      "news_web": 12
     }
   },
   "note_category_counts": {
+    "personal_story": 3,
+    "social_reaction": 27,
     "opinion": 10,
-    "social_reaction": 32,
-    "personal_story": 1,
-    "medical_science": 4,
-    "hard_fact": 19,
-    "policy": 4
+    "medical_science": 3,
+    "hard_fact": 21,
+    "policy": 6
   },
   "b2b_topic_category_counts": {
+    "personal_story": 3,
+    "social_reaction": 27,
     "opinion": 10,
-    "social_reaction": 32,
-    "hard_fact": 19,
-    "medical_science": 4,
-    "personal_story": 1,
-    "policy": 4
+    "hard_fact": 22,
+    "medical_science": 2,
+    "policy": 6
   },
   "b2b_top10": [
     {
-      "title": "秋バテ対策",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "東大の本田由紀氏への「注意」受けて～「著名人」の反応",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "X見てて思った、やっぱり氷河期世代自体が使い物にならなかっただけなのでは？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "《くら寿司×ちいかわコラボ》千葉県内の店舗で景品の湯呑みを無料提供していた！広報",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "\"AI疲れ\"していませんか? | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "瀧七海",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "自分の番になってタクシーが来て、地元までの金額が無理すぎて「⚫︎駅まで折半しませ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中山 雄太",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "livゴルフ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ホワイトソックス 対 パイレーツ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    }
-  ],
-  "note_top10": [
-    {
-      "title": "秋バテ対策",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "東大の本田由紀氏への「注意」受けて～「著名人」の反応",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "X見てて思った、やっぱり氷河期世代自体が使い物にならなかっただけなのでは？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "インフル明けで登校した娘がプールの授業を休んだら、体育倉庫の掃除と体育館の雑巾が",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "自分の番になってタクシーが来て、地元までの金額が無理すぎて「⚫︎駅まで折半しませ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "優しい人だと思っていた人が「『優しい人』が出来る人」だと判明した瞬間にその人が怖",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『地雷メイクやめて、カラコンも変えて、前髪も薄くした』地雷系クリエイターがネット",
+      "title": "「未購入の本を持ち込んで読めるカフェ」は本当にいらない…なんで他人が読んだ本を新",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "映画「ゴジラ-0.0」予告が解禁、その最後に聞こえてきた怪獣の声に聴き覚えがあり",
+      "title": "PENTAXデジタル一眼レフカメラは新たなステージを目指します｜RICOH IM",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "いつもと違って目をつぶって眠るうさぎの寝顔を見て驚きハチワレとちいかわ…なお読者",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "人口激減は2055年に始まる─世界で出生率が急落している理由 | 少子化を加速さ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "シルバーウィークに開催される「上野ゾク夏祭り」は怪談やホラーや他ジャンルの演者に",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "apple 折りたたみ iphone",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "浸水の車 点検前エンジン始動NG",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "東大の本田由紀氏への「注意」受けて～「著名人」の反応",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【全文無料】何故SUZURIからクリエイターが離脱していくのか？｜そもそも『Pa",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "紅白 ebidan",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "玉川徹",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "チェコの演奏会で「日本では17時ごろに全国のあちこちでドヴォルザークのラルゴが流",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    }
+  ],
+  "note_top10": [
+    {
+      "title": "「未購入の本を持ち込んで読めるカフェ」は本当にいらない…なんで他人が読んだ本を新",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "PENTAXデジタル一眼レフカメラは新たなステージを目指します｜RICOH IM",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "人口激減は2055年に始まる─世界で出生率が急落している理由 | 少子化を加速さ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "台所用に3,900円の小型洗濯機を買ってから拭き掃除が苦ではなくなった、使った後",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東大の本田由紀氏への「注意」受けて～「著名人」の反応",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【全文無料】何故SUZURIからクリエイターが離脱していくのか？｜そもそも『Pa",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "チェコの演奏会で「日本では17時ごろに全国のあちこちでドヴォルザークのラルゴが流",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "コンビニでこれから出勤であろう女性がチューハイとおぼしき缶を開け、水筒に注いでい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "体育で自分は真剣にやったバレーのアタックフォームを悪い見本として晒されクラスの笑",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "藤井風 ピアノリサイタル | 11/20 fri 11/21 sat at TO",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
