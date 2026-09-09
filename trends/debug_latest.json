@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T15:41:00+09:00",
+  "generated_at": "2026-09-09T21:29:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,163 +7,161 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 115,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 23,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 14,
-    "passed_total": 113,
+    "neg_excluded": 8,
+    "dedup_excluded": 8,
+    "passed_total": 99,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
+      "yahoo_realtime": 18,
+      "x_realtime": 9,
       "google_trends": 10,
-      "yahoo_news_ranking": 6,
-      "x_realtime": 5,
-      "news_web": 12
+      "yahoo_news_ranking": 11,
+      "news_web": 22
     }
   },
   "note_category_counts": {
-    "personal_story": 3,
-    "social_reaction": 27,
+    "social_reaction": 23,
     "opinion": 10,
-    "medical_science": 3,
-    "hard_fact": 21,
-    "policy": 6
+    "hard_fact": 33,
+    "policy": 1,
+    "medical_science": 3
   },
   "b2b_topic_category_counts": {
-    "personal_story": 3,
-    "social_reaction": 27,
+    "social_reaction": 23,
     "opinion": 10,
-    "hard_fact": 22,
-    "medical_science": 2,
-    "policy": 6
+    "hard_fact": 33,
+    "policy": 1,
+    "medical_science": 3
   },
   "b2b_top10": [
     {
-      "title": "「未購入の本を持ち込んで読めるカフェ」は本当にいらない…なんで他人が読んだ本を新",
+      "title": "板野友美「営業時間外だった」ホテル新声明で「子どもを深夜まで」と再炎上",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "PENTAXデジタル一眼レフカメラは新たなステージを目指します｜RICOH IM",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "raw_source_key": "livedoor_topics",
       "topic_category": "social_reaction"
     },
     {
-      "title": "人口激減は2055年に始まる─世界で出生率が急落している理由 | 少子化を加速さ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "連日話題の板野友美さんのリッツ・カールトン脱衣所撮影騒動、ホテル側からの追加回答",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "apple 折りたたみ iphone",
+      "title": "【※苦手な人閲覧注意】「日テレの報道には失望」事務所スタッフへ暴行した容疑のデヴ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「眼瞼下垂」が引き起こす不調 頭痛や肩こりの原因になる？",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "livedoor_topics",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "床田寛樹",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "浸水の車 点検前エンジン始動NG",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
+      "title": "マックス フェルスタッペン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "水谷豊が体調不良で「相棒」ロケを2週間離脱 家族めぐる心労懸念",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "livedoor_topics",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "徳島の鉄塔で19歳の点検作業員が落下し死亡 当時現場周辺では落雷も",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "livedoor_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "東大の本田由紀氏への「注意」受けて～「著名人」の反応",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【全文無料】何故SUZURIからクリエイターが離脱していくのか？｜そもそも『Pa",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "紅白 ebidan",
+      "title": "筧美和子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "玉川徹",
+      "title": "小園海斗 ビール売り子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
-    },
-    {
-      "title": "チェコの演奏会で「日本では17時ごろに全国のあちこちでドヴォルザークのラルゴが流",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
-      "title": "「未購入の本を持ち込んで読めるカフェ」は本当にいらない…なんで他人が読んだ本を新",
+      "title": "板野友美「営業時間外だった」ホテル新声明で「子どもを深夜まで」と再炎上",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "PENTAXデジタル一眼レフカメラは新たなステージを目指します｜RICOH IM",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "raw_source_key": "livedoor_topics",
       "topic_category": "social_reaction"
     },
     {
-      "title": "人口激減は2055年に始まる─世界で出生率が急落している理由 | 少子化を加速さ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "連日話題の板野友美さんのリッツ・カールトン脱衣所撮影騒動、ホテル側からの追加回答",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "台所用に3,900円の小型洗濯機を買ってから拭き掃除が苦ではなくなった、使った後",
+      "title": "「眼瞼下垂」が引き起こす不調 頭痛や肩こりの原因になる？",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "raw_source_key": "livedoor_topics",
       "topic_category": "social_reaction"
     },
     {
-      "title": "東大の本田由紀氏への「注意」受けて～「著名人」の反応",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "【※苦手な人閲覧注意】「日テレの報道には失望」事務所スタッフへ暴行した容疑のデヴ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【全文無料】何故SUZURIからクリエイターが離脱していくのか？｜そもそも『Pa",
+      "title": "水谷豊が体調不良で「相棒」ロケを2週間離脱 家族めぐる心労懸念",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "raw_source_key": "livedoor_topics",
       "topic_category": "social_reaction"
     },
     {
-      "title": "チェコの演奏会で「日本では17時ごろに全国のあちこちでドヴォルザークのラルゴが流",
+      "title": "フランスでルノワールの名画が盗難 わずか5分で被害額は16億円以上",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "raw_source_key": "livedoor_topics",
       "topic_category": "social_reaction"
     },
     {
-      "title": "コンビニでこれから出勤であろう女性がチューハイとおぼしき缶を開け、水筒に注いでい",
+      "title": "Appleオンラインストアがメンテナンス入り 新製品登場の事前準備か",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "raw_source_key": "livedoor_topics",
       "topic_category": "social_reaction"
     },
     {
-      "title": "体育で自分は真剣にやったバレーのアタックフォームを悪い見本として晒されクラスの笑",
+      "title": "くら寿司「ちいかわ」コラボ景品を巡りヤフオクは出品者に入手経路の確認へ",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "raw_source_key": "livedoor_topics",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "藤井風 ピアノリサイタル | 11/20 fri 11/21 sat at TO",
+      "title": "四千頭身・後藤拓実、石橋遼大との会話で都築拓紀との「不穏な関係」示唆",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "raw_source_key": "livedoor_topics",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『説明しよう！求肥とは「餅米を砕いた粉に砂糖を加え、熱湯で練ったお菓子」である！",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
