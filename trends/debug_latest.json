@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T15:38:00+09:00",
+  "generated_at": "2026-09-10T21:22:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 10,
-    "passed_total": 110,
+    "neg_excluded": 9,
+    "dedup_excluded": 7,
+    "passed_total": 116,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
+      "yahoo_realtime": 36,
+      "news_web": 13,
       "google_trends": 10,
-      "news_web": 18,
-      "x_realtime": 6,
-      "yahoo_news_ranking": 2
+      "x_realtime": 10,
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 25,
-    "medical_science": 2,
     "personal_story": 3,
+    "social_reaction": 34,
     "opinion": 10,
-    "hard_fact": 20,
-    "policy": 10
+    "medical_science": 4,
+    "hard_fact": 16,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "medical_science": 1,
+    "personal_story": 3,
+    "social_reaction": 34,
+    "hard_fact": 17,
     "opinion": 10,
-    "social_reaction": 25,
-    "hard_fact": 22,
-    "policy": 9,
-    "personal_story": 3
+    "policy": 3,
+    "medical_science": 3
   },
   "b2b_top10": [
     {
-      "title": "救急医を名乗る人物から「息子さんが強い咳をした時に血を吐いて救急でいらして、検査",
+      "title": "定番の音楽制作ツール「Reason」が無料化！ 15種のデバイスを利用可能／DA",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "topic_category": "personal_story"
     },
     {
-      "title": "男子 バレー アジア 選手権 トーナメント",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "アメリカの大学で人類学専攻中に「日本人って本当に、物に魂が宿ってると思ってんの？",
+      "title": "エスカレーターを暴走、無断でスマホ充電、食べかけのごみ放置、大音量でSNS撮影.",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "「ジェットウォッシャーは意味ない」と言われると、じゃあこのポロポロ出てくる食べカ",
+      "title": "「みいちゃんと山田さん」じゃねっつの、真面目にやれ｜江波光則",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "il",
+      "title": "楽園の全執筆陣を引き継いだ新媒体・蒼天、10月にリイド社から刊行　Web増刊も継",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ポポーポポポポ♪」でおなじみ「呼び込み君」の新モデル「もっと！呼び込み君」が9",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "鳥貴族 均一価格410円に値上げへ",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "コジマプロダクション、新作『PHYSINT』ではPlayStationではなくX",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "ライデルマルティネス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "森田晃樹",
+      "title": "豊昇龍",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ウィル・オスプレイ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "タリウム",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "vaio",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "佐久間宣行",
+      "title": "レベル5",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,63 +107,63 @@
   ],
   "note_top10": [
     {
-      "title": "アメリカの大学で人類学専攻中に「日本人って本当に、物に魂が宿ってると思ってんの？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ジェットウォッシャーは意味ない」と言われると、じゃあこのポロポロ出てくる食べカ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "救急医を名乗る人物から「息子さんが強い咳をした時に血を吐いて救急でいらして、検査",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "なぜgoの過去形はwentなの？ 英語への向き合い方が変わる、英語史という入り口",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "客に「簡単な手順書を作ってほしい」と言われ納品するも「レイアウトがガタガタだ」と",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中学生の息子が「クラブチームを辞めたい、部活でサッカーやる」と言ってきた…理由は",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "３０年の営業マン生活で学んだ「弱点を強みにする戦略」について全部話そう。 - E",
+      "title": "定番の音楽制作ツール「Reason」が無料化！ 15種のデバイスを利用可能／DA",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "男子 バレー アジア 選手権 トーナメント",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "エスカレーターを暴走、無断でスマホ充電、食べかけのごみ放置、大音量でSNS撮影.",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
-      "title": "もう「心中」と呼ばない　国の専門委が変更　「子殺し覆い隠す」批判：朝日新聞",
+      "title": "『スカイリム』に“IKEAの白い棚”が仲間として実装される無料アプデが配信開始。",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "家畜の感染症「口てい疫」感染性のあるウイルスが検疫で初検出 | NHKニュース",
+      "title": "「みいちゃんと山田さん」じゃねっつの、真面目にやれ｜江波光則",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "楽園の全執筆陣を引き継いだ新媒体・蒼天、10月にリイド社から刊行　Web増刊も継",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ポポーポポポポ♪」でおなじみ「呼び込み君」の新モデル「もっと！呼び込み君」が9",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "夫に育児ノイローゼになりそうだとSOSを出したが、2か月間深夜残業と土日出勤…後",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "コラボレーションキャンペーンに関するお知らせとお願い | かっぱ寿司 | 回転寿",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "暁美ほむら担当声優が語る『劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "Suicaペンギンさん、もう転職先が決まっていた！？「正味こいつなら何処にでも転",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
