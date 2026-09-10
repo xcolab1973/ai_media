@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T01:42:00+09:00",
+  "generated_at": "2026-09-11T08:23:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,50 +16,50 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 7,
-    "passed_total": 119,
+    "neg_excluded": 5,
+    "dedup_excluded": 10,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_realtime": 39,
-      "x_realtime": 10,
+      "yahoo_realtime": 38,
+      "google_trends": 10,
+      "x_realtime": 8,
       "news_web": 12,
-      "google_trends": 9
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "personal_story": 6,
-    "opinion": 9,
-    "policy": 4,
-    "hard_fact": 15,
-    "medical_science": 3
+    "social_reaction": 29,
+    "personal_story": 4,
+    "opinion": 10,
+    "hard_fact": 19,
+    "policy": 7,
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
-    "hard_fact": 16,
-    "policy": 4,
-    "personal_story": 6,
-    "opinion": 9,
-    "medical_science": 2
+    "hard_fact": 20,
+    "social_reaction": 29,
+    "policy": 7,
+    "opinion": 10,
+    "personal_story": 4
   },
   "b2b_top10": [
     {
-      "title": "[第17話]にこにこ元気☆ハッピーちゃん - 犬嶋乃介 | 少年ジャンプ＋",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "[27話]天傍台閣 - 弓庭史路 | 少年ジャンプ＋",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "「踏ん張ると血尿が出てきた」線状降水帯により豪雨に見舞われた千葉、豪雨時の濁った",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
+    },
+    {
+      "title": "「一からどこかで修行し直しなよ」冷やし蟹ラーメン食中毒を起こしたこめお氏が衛生講",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "声はどのように映画館から駆逐されたか：映画館マナーの歴史に向けて - 勘違い",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "なぜ日本には「政府から独立した人権機関」がない？ NGOや弁護士らが2028年設",
@@ -68,13 +68,19 @@
       "topic_category": "policy"
     },
     {
-      "title": "「一からどこかで修行し直しなよ」冷やし蟹ラーメン食中毒を起こしたこめお氏が衛生講",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "私も詰めてしまう人間なんですが、黙ってしまう側の人間の本音が本気で聞きたくてなぜ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「みいちゃんと山田さん」じゃねっつの、真面目にやれ｜江波光則",
+      "title": "瀧七海",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「なぜなぜ」詰めることが駄目なことはわかった。どうしたら良くなるのか読むべき本が",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -86,69 +92,27 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "商用も無料のPDF編集ソフト「PDF MARIN」が登場、黒く塗るだけではない本",
+      "title": "「鳥貴族」全品410円に、10月から20円値上げ　原材料や人件費高騰で - 日本",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "hard_fact"
     },
     {
-      "title": "エスカレーターを暴走、無断でスマホ充電、食べかけのごみ放置、大音量でSNS撮影.",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「なぜなぜ」詰めることが駄目なことはわかった。どうしたら良くなるのか読むべき本が",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "マイナンバーカードを落として交番から手元に戻ってきたが、薬局でカードを提示したら",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
-      "title": "[第17話]にこにこ元気☆ハッピーちゃん - 犬嶋乃介 | 少年ジャンプ＋",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "[27話]天傍台閣 - 弓庭史路 | 少年ジャンプ＋",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "「一からどこかで修行し直しなよ」冷やし蟹ラーメン食中毒を起こしたこめお氏が衛生講",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「みいちゃんと山田さん」じゃねっつの、真面目にやれ｜江波光則",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "定番の音楽制作ツール「Reason」が無料化！ 15種のデバイスを利用可能／DA",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "商用も無料のPDF編集ソフト「PDF MARIN」が登場、黒く塗るだけではない本",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "エスカレーターを暴走、無断でスマホ充電、食べかけのごみ放置、大音量でSNS撮影.",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「なぜなぜ」詰めることが駄目なことはわかった。どうしたら良くなるのか読むべき本が",
+      "title": "声はどのように映画館から駆逐されたか：映画館マナーの歴史に向けて - 勘違い",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -160,7 +124,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ポポーポポポポ♪」でおなじみ「呼び込み君」の新モデル「もっと！呼び込み君」が9",
+      "title": "「なぜなぜ」詰めることが駄目なことはわかった。どうしたら良くなるのか読むべき本が",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "定番の音楽制作ツール「Reason」が無料化！ 15種のデバイスを利用可能／DA",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "マイナンバーカードを落として交番から手元に戻ってきたが、薬局でカードを提示したら",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「迎えないとさらに増殖にゃん」家の玄関前に現れた黒猫、悲しそうな目をしていたので",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "瀧七海",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "吉原ソープ嬢から異例の転身!　慶大卒、ハイスペ男性と3度の結婚歴…27歳行政書士",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "トランプ大統領が宇宙軍の新制服案を公開。スターウォーズの帝国軍に似すぎていると話",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
