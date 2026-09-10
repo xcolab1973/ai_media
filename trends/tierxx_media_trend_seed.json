@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-09-10T21:20:33+0900",
+    "generated_at": "2026-09-11T08:21:21+0900",
     "record_count": 35,
-    "source_total_in_db": 1160,
+    "source_total_in_db": 1161,
     "provenance_breakdown": {
       "evidence": 751,
-      "pain_seed": 409
+      "pain_seed": 410
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_e445bf3e742d",
+      "trend_term": "SNS炎上と謝罪戦略",
+      "raw_title": "SNS投稿が奪った200億円組織の信頼 ～なぜ謝罪の言いぶんが事態を悪化させたのか～ - リスク対策.com",
+      "summary": "SNS投稿による組織信頼喪失と謝罪対応の失敗事例。美容医療関係者のSNS運用・リスク管理の注意喚起素材。",
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yQTdQSkRJRUhPRXlqS3JFZWVhVnNHSC1seklOZFU5QlhLTDhPc1ZBTE16Y1gwUTlUQ1ZCa0ZUYi1LVEZEcDNPdWd1QjJMdVZMYlQtN25aWQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yQTdQSkRJRUhPRXlqS3JFZWVhVnNHSC1seklOZFU5QlhLTDhPc1ZBTE16Y1gwUTlUQ1ZCa0ZUYi1LVEZEcDNPdWd1QjJMdVZMYlQtN25aWQ?oc=5",
+      "source_name": "リスク対策.com",
+      "monitor_id": "bm-sns-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-09-25T08:21:21+0900",
+      "status": "candidate",
+      "created_at": "2026-09-11T08:21:21+0900"
+    },
     {
       "seed_id": "seed_19832931d7ed",
       "trend_term": "再生医療発想の美容医療",
@@ -551,24 +569,6 @@
       "valid_until": "2026-09-11T16:15:21+0900",
       "status": "candidate",
       "created_at": "2026-09-06T16:15:21+0900"
-    },
-    {
-      "seed_id": "seed_d23df926e5fd",
-      "trend_term": "美容医療SNS不正",
-      "raw_title": "美容外科大手「TCB」がSNS“サクラコメント”を指示していた！「コメント残して」「全員必ずやること」《社内LINE入手》 - bunshun.jp",
-      "summary": "大手美容外科チェーンがSNS上でサクラコメント指示を社内LINEで行っていたことが報道。実際の社内通信が根拠として提示されている。",
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ncnZnZ0VOZnVpMEQ2QkxpLVc1Uk13YnVaQ29FVE1uNzJsREVwTGRSQzNLVFVWM3MtbEU5MVdDcXNjN1dyNHdMN2x3Ylh0cGllQjR4YkFEYw?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ncnZnZ0VOZnVpMEQ2QkxpLVc1Uk13YnVaQ29FVE1uNzJsREVwTGRSQzNLVFVWM3MtbEU5MVdDcXNjN1dyNHdMN2x3Ylh0cGllQjR4YkFEYw?oc=5",
-      "source_name": "bunshun.jp",
-      "monitor_id": "bm-sns-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-11T08:10:28+0900",
-      "status": "candidate",
-      "created_at": "2026-09-06T08:10:28+0900"
     },
     {
       "seed_id": "seed_324f99184559",
