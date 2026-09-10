@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-09-10T16:28:05+0900",
+    "generated_at": "2026-09-10T21:20:33+0900",
     "record_count": 35,
-    "source_total_in_db": 1158,
+    "source_total_in_db": 1160,
     "provenance_breakdown": {
-      "evidence": 750,
-      "pain_seed": 408
+      "evidence": 751,
+      "pain_seed": 409
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_19832931d7ed",
+      "trend_term": "再生医療発想の美容医療",
+      "raw_title": "【エテルナム】美容医療・アンチエイジング医学の国際学会「AMWC Japan 2026」に出展。再生医療の知見を背景に、“未来の美”の可能性を医療従事者へ提案。 - prtimes.jp",
+      "summary": "エテルナムが国際学会AMWC Japan 2026に出展。再生医療の知見を背景に、美容医療の可能性を医療従事者へ提案する。",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VTlZnWjBUbjE4bDhJbGRaaVlBSGRLZXFTSE9TWmN4NVk5T3RESXhjaXVOWGtiZWtxUlhBOGZHZGUySDcxcVRuWl9scENtTDl3dWsxc1JfUmFaSEY4RVpTUmxjLVdwRVhmTUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VTlZnWjBUbjE4bDhJbGRaaVlBSGRLZXFTSE9TWmN4NVk5T3RESXhjaXVOWGtiZWtxUlhBOGZHZGUySDcxcVRuWl9scENtTDl3dWsxc1JfUmFaSEY4RVpTUmxjLVdwRVhmTUE?oc=5",
+      "source_name": "prtimes.jp",
+      "monitor_id": "bm-regen-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-09-15T21:20:14+0900",
+      "status": "candidate",
+      "created_at": "2026-09-10T21:20:14+0900"
+    },
+    {
+      "seed_id": "seed_0565c99b0814",
+      "trend_term": "ボトックス副作用",
+      "raw_title": "「ふくらはぎにボトックスを打って足が動かない」...イ・ボラム、「ゴールを蹴る彼女たち」脱落の理由 - 매일경제",
+      "summary": "タレントが脚のボトックス注射後に運動機能障害を経験。美容施術による予期しない身体影響の実例。",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rWGxaenhyb1BFTnNVdFNBUmsyZlRXUW9iSTNGRzZoaWtwbncyMS1LNVBFSkFBSWdtQWpSSjlXS2J6TWNMMndvZF9PeXJ1T19aVHRtTlNB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rWGxaenhyb1BFTnNVdFNBUmsyZlRXUW9iSTNGRzZoaWtwbncyMS1LNVBFSkFBSWdtQWpSSjlXS2J6TWNMMndvZF9PeXJ1T19aVHRtTlNB?oc=5",
+      "source_name": "매일경제",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-09-24T21:20:05+0900",
+      "status": "candidate",
+      "created_at": "2026-09-10T21:20:05+0900"
+    },
     {
       "seed_id": "seed_3440bcc8aab5",
       "trend_term": "フェムケア領域の動向",
@@ -319,24 +355,6 @@
       "created_at": "2026-09-09T16:31:15+0900"
     },
     {
-      "seed_id": "seed_9c4e980da165",
-      "trend_term": "韓国発スキンブースター導入",
-      "raw_title": "ベンスクリニック横浜、韓国で話題のスキンブースター「ティシボ（TISSIVO）」を2026年8月29日(土)より導入 - PR TIMES",
-      "summary": "ベンスクリニック横浜が韓国で話題のスキンブースター「ティシボ」を2026年8月29日より導入予定。新技術の医療機関への導入事例。",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vM3FGTUNpWFpxMy1OSjRzTXRpS1FjVUNWd0xwOVdSaFVOTFZ2VlcxZnMzaWtGV1YzaU9UWW5PRmtqT0hiTXBXaHk2UU9YWTVyXy1kV3YtM0czMk5NZFNvMnZ5YjhzeHRHMFE?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vM3FGTUNpWFpxMy1OSjRzTXRpS1FjVUNWd0xwOVdSaFVOTFZ2VlcxZnMzaWtGV1YzaU9UWW5PRmtqT0hiTXBXaHk2UU9YWTVyXy1kV3YtM0czMk5NZFNvMnZ5YjhzeHRHMFE?oc=5",
-      "source_name": "PR TIMES",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-14T16:31:06+0900",
-      "status": "candidate",
-      "created_at": "2026-09-09T16:31:06+0900"
-    },
-    {
       "seed_id": "seed_d7fa55d4799b",
       "trend_term": "美容医療ドラマ化",
       "raw_title": "美容整形業界を描くNetflixドラマ『ダウンタイム』衝撃の場面写真解禁 監修に高須クリニック、『地獄に堕ちるわよ』の特殊メイクチームも参加（KAI-YOU） - Yahoo!ニュース",
@@ -515,24 +533,6 @@
       "valid_until": "2026-09-11T16:15:37+0900",
       "status": "candidate",
       "created_at": "2026-09-06T16:15:37+0900"
-    },
-    {
-      "seed_id": "seed_2e75d2f65543",
-      "trend_term": "自家培養真皮線維芽細胞",
-      "raw_title": "医療法人社団BLOOM ROTUS R.O.clinicと提携。皮膚再生治療（肌の再生医療）に用いる自家培養真皮線維芽細胞の提供開始 - news.nicovideo.jp",
-      "summary": "医療法人社団BLOOM ROTUSがR.O.clinicと提携し、皮膚再生治療に用いる自家培養真皮線維芽細胞の提供を開始",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iVGg1VUdCSmZJTFhFb2dpWmg0TVdPczJPZklLU29vbDVNTDVKaEpORHV2RVpvNG9ZNlpBS3I0SVpVQjFNWjMxLTd4azE0cF9IWTVwTw?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iVGg1VUdCSmZJTFhFb2dpWmg0TVdPczJPZklLU29vbDVNTDVKaEpORHV2RVpvNG9ZNlpBS3I0SVpVQjFNWjMxLTd4azE0cF9IWTVwTw?oc=5",
-      "source_name": "news.nicovideo.jp",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-11T16:15:27+0900",
-      "status": "candidate",
-      "created_at": "2026-09-06T16:15:27+0900"
     },
     {
       "seed_id": "seed_eef3ef5134b4",
