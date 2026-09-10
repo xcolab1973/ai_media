@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T08:29:00+09:00",
+  "generated_at": "2026-09-10T15:38:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 3,
-    "dedup_excluded": 8,
-    "passed_total": 121,
+    "neg_excluded": 12,
+    "dedup_excluded": 10,
+    "passed_total": 110,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
+      "yahoo_realtime": 34,
       "google_trends": 10,
-      "x_realtime": 9,
-      "news_web": 12,
+      "news_web": 18,
+      "x_realtime": 6,
       "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "personal_story": 6,
-    "social_reaction": 33,
+    "social_reaction": 25,
+    "medical_science": 2,
+    "personal_story": 3,
     "opinion": 10,
-    "medical_science": 4,
-    "hard_fact": 11,
-    "policy": 6
+    "hard_fact": 20,
+    "policy": 10
   },
   "b2b_topic_category_counts": {
-    "personal_story": 6,
-    "social_reaction": 31,
+    "medical_science": 1,
     "opinion": 10,
-    "hard_fact": 15,
-    "policy": 6,
-    "medical_science": 2
+    "social_reaction": 25,
+    "hard_fact": 22,
+    "policy": 9,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "iPhoneの「Pro」シリーズが大幅値上げ、昨年比較で最低4万円・最大12万円",
+      "title": "救急医を名乗る人物から「息子さんが強い咳をした時に血を吐いて救急でいらして、検査",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "medical_science"
     },
     {
-      "title": "買う価値のない野菜、買う価値のある野菜を列挙する",
+      "title": "男子 バレー アジア 選手権 トーナメント",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "アメリカの大学で人類学専攻中に「日本人って本当に、物に魂が宿ってると思ってんの？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "めおと日和",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "自宅に佐川急便から｢北海道の五十嵐さん宛にお荷物送られてますか？｣と謎の電話…何",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「ジェットウォッシャーは意味ない」と言われると、じゃあこのポロポロ出てくる食べカ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "毎回エナドリを購入するコンビニでレジのおばちゃんに「あんたが大量に買ってくからそ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "初対面の人と話す時に3ヶ月後に暗殺するつもりで話すといいと聞いたので実践したら割",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "santos x atlético-mg",
+      "title": "il",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "有村治子",
+      "title": "森田晃樹",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "笠井信輔",
+      "title": "ウィル・オスプレイ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ブレーブス 対 レイズ",
+      "title": "タリウム",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "vaio",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "佐久間宣行",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +107,64 @@
   ],
   "note_top10": [
     {
-      "title": "iPhoneの「Pro」シリーズが大幅値上げ、昨年比較で最低4万円・最大12万円",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "買う価値のない野菜、買う価値のある野菜を列挙する",
+      "title": "アメリカの大学で人類学専攻中に「日本人って本当に、物に魂が宿ってると思ってんの？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "自宅に佐川急便から｢北海道の五十嵐さん宛にお荷物送られてますか？｣と謎の電話…何",
+      "title": "「ジェットウォッシャーは意味ない」と言われると、じゃあこのポロポロ出てくる食べカ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "救急医を名乗る人物から「息子さんが強い咳をした時に血を吐いて救急でいらして、検査",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "なぜgoの過去形はwentなの？ 英語への向き合い方が変わる、英語史という入り口",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "客に「簡単な手順書を作ってほしい」と言われ納品するも「レイアウトがガタガタだ」と",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "毎回エナドリを購入するコンビニでレジのおばちゃんに「あんたが大量に買ってくからそ",
+      "title": "中学生の息子が「クラブチームを辞めたい、部活でサッカーやる」と言ってきた…理由は",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "初対面の人と話す時に3ヶ月後に暗殺するつもりで話すといいと聞いたので実践したら割",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "みんなほしいのはiPhone Duo “mini”だよね",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ロマンシング サガ３ デスティニーユナイテッド │ SQUARE ENIX",
+      "title": "３０年の営業マン生活で学んだ「弱点を強みにする戦略」について全部話そう。 - E",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "「iPhone Duo」はApple初の7.6型折りたたみで36万円強から",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "アスペ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "めおと日和",
+      "title": "男子 バレー アジア 選手権 トーナメント",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
+    },
+    {
+      "title": "もう「心中」と呼ばない　国の専門委が変更　「子殺し覆い隠す」批判：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "家畜の感染症「口てい疫」感染性のあるウイルスが検疫で初検出 | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ]
 }
