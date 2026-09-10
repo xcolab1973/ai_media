@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T21:22:00+09:00",
+  "generated_at": "2026-09-11T01:42:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,77 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
+    "neg_excluded": 6,
     "dedup_excluded": 7,
-    "passed_total": 116,
+    "passed_total": 119,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
-      "news_web": 13,
-      "google_trends": 10,
+      "yahoo_realtime": 39,
       "x_realtime": 10,
-      "yahoo_news_ranking": 1
+      "news_web": 12,
+      "google_trends": 9
     }
   },
   "note_category_counts": {
-    "personal_story": 3,
-    "social_reaction": 34,
-    "opinion": 10,
-    "medical_science": 4,
-    "hard_fact": 16,
-    "policy": 3
+    "social_reaction": 33,
+    "personal_story": 6,
+    "opinion": 9,
+    "policy": 4,
+    "hard_fact": 15,
+    "medical_science": 3
   },
   "b2b_topic_category_counts": {
-    "personal_story": 3,
-    "social_reaction": 34,
-    "hard_fact": 17,
-    "opinion": 10,
-    "policy": 3,
-    "medical_science": 3
+    "social_reaction": 33,
+    "hard_fact": 16,
+    "policy": 4,
+    "personal_story": 6,
+    "opinion": 9,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
+      "title": "[第17話]にこにこ元気☆ハッピーちゃん - 犬嶋乃介 | 少年ジャンプ＋",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "[27話]天傍台閣 - 弓庭史路 | 少年ジャンプ＋",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「踏ん張ると血尿が出てきた」線状降水帯により豪雨に見舞われた千葉、豪雨時の濁った",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "なぜ日本には「政府から独立した人権機関」がない？ NGOや弁護士らが2028年設",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "「一からどこかで修行し直しなよ」冷やし蟹ラーメン食中毒を起こしたこめお氏が衛生講",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「みいちゃんと山田さん」じゃねっつの、真面目にやれ｜江波光則",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "定番の音楽制作ツール「Reason」が無料化！ 15種のデバイスを利用可能／DA",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "商用も無料のPDF編集ソフト「PDF MARIN」が登場、黒く塗るだけではない本",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
@@ -57,57 +98,45 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "「みいちゃんと山田さん」じゃねっつの、真面目にやれ｜江波光則",
+      "title": "「なぜなぜ」詰めることが駄目なことはわかった。どうしたら良くなるのか読むべき本が",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "楽園の全執筆陣を引き継いだ新媒体・蒼天、10月にリイド社から刊行　Web増刊も継",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ポポーポポポポ♪」でおなじみ「呼び込み君」の新モデル「もっと！呼び込み君」が9",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "鳥貴族 均一価格410円に値上げへ",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "コジマプロダクション、新作『PHYSINT』ではPlayStationではなくX",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ライデルマルティネス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "豊昇龍",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "レベル5",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
+      "title": "[第17話]にこにこ元気☆ハッピーちゃん - 犬嶋乃介 | 少年ジャンプ＋",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "[27話]天傍台閣 - 弓庭史路 | 少年ジャンプ＋",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「一からどこかで修行し直しなよ」冷やし蟹ラーメン食中毒を起こしたこめお氏が衛生講",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「みいちゃんと山田さん」じゃねっつの、真面目にやれ｜江波光則",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "定番の音楽制作ツール「Reason」が無料化！ 15種のデバイスを利用可能／DA",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "商用も無料のPDF編集ソフト「PDF MARIN」が登場、黒く塗るだけではない本",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
@@ -119,19 +148,13 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "『スカイリム』に“IKEAの白い棚”が仲間として実装される無料アプデが配信開始。",
+      "title": "「なぜなぜ」詰めることが駄目なことはわかった。どうしたら良くなるのか読むべき本が",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「みいちゃんと山田さん」じゃねっつの、真面目にやれ｜江波光則",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "楽園の全執筆陣を引き継いだ新媒体・蒼天、10月にリイド社から刊行　Web増刊も継",
+      "title": "私も詰めてしまう人間なんですが、黙ってしまう側の人間の本音が本気で聞きたくてなぜ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -140,30 +163,6 @@
       "title": "「ポポーポポポポ♪」でおなじみ「呼び込み君」の新モデル「もっと！呼び込み君」が9",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "夫に育児ノイローゼになりそうだとSOSを出したが、2か月間深夜残業と土日出勤…後",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "コラボレーションキャンペーンに関するお知らせとお願い | かっぱ寿司 | 回転寿",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "暁美ほむら担当声優が語る『劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Suicaペンギンさん、もう転職先が決まっていた！？「正味こいつなら何処にでも転",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
