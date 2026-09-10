@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-09-10T16:50:51+09:00",
+ "generated_at": "2026-09-11T06:49:11+09:00",
  "valid_until": "2026-09-17T06:36:49+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "biz",
- "total_count": 13,
+ "total_count": 12,
  "merge": {
   "parent": "biz",
   "from_current": 13,
   "from_new": 0,
-  "expired_pruned": 0,
+  "expired_pruned": 1,
   "retention_dropped": 0,
   "genres": 3,
   "retention_per_genre": 8
@@ -134,36 +134,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-16T06:36:14+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "補助金は併用できるのか？補助金の種類別に併用可否を解説",
-   "url": "https://so-labo.co.jp/hojyokin/basic/805/",
-   "summary": "同一経費への重複受給は禁止だが、対象経費が異なれば持続化補助金とデジタル化・AI導入補助金など複数制度の併用は可能。目的と経費を明確に区分し、申請時に既存申請の記載漏れがないよう注意点を解説。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "biz-subsidy",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "so-labo.co.jp",
-    "expert_origin": true,
-    "search_query": "補助金 併用 経費 重複受給 禁止 持続化補助金 ものづくり補助金 解説",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-11T06:37:29+09:00",
    "validity_days": 7
   },
   {

@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-09-10T16:50:52+09:00",
- "valid_until": "2026-09-24T16:49:37+09:00",
+ "generated_at": "2026-09-11T06:49:12+09:00",
+ "valid_until": "2026-09-25T06:47:14+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "work",
- "total_count": 28,
+ "total_count": 29,
  "merge": {
   "parent": "work",
-  "from_current": 27,
-  "from_new": 2,
-  "expired_pruned": 1,
+  "from_current": 28,
+  "from_new": 1,
+  "expired_pruned": 0,
   "retention_dropped": 0,
   "genres": 4,
   "retention_per_genre": 8
@@ -254,6 +254,36 @@
     "rescued": false
    },
    "valid_until": "2026-09-12T06:59:15+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "退職するのに有給消化を拒否された！ 労働基準監督署へ相談するべき？",
+   "url": "https://www.vbest.jp/roudoumondai/columns/2967/",
+   "summary": "弁護士監修コラム。退職時の有給消化を会社が拒否するのは違法となる場合が多く、時季変更権は退職日以降への変更には使えない点を解説。会社が『人手不足』『引き継ぎ未了』を理由に拒んでも法的根拠は薄く、労基署への相談や弁護士への交渉代行が有効な対処法として紹介されている。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "official_instruction",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "work-quit",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "弁護士法人Vbest法律事務所",
+    "expert_origin": true,
+    "search_query": "退職 有給消化 拒否された 労働基準監督署 相談 対処法",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-25T06:47:14+09:00",
    "validity_days": 14
   },
   {

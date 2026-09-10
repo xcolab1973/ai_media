@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T16:50:52+09:00",
+ "generated_at": "2026-09-11T06:49:12+09:00",
  "valid_until": "2026-09-24T06:41:32+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -8,14 +8,44 @@
  "total_count": 36,
  "merge": {
   "parent": "money",
-  "from_current": 37,
-  "from_new": 5,
-  "expired_pruned": 6,
+  "from_current": 36,
+  "from_new": 2,
+  "expired_pruned": 2,
   "retention_dropped": 0,
   "genres": 8,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "ふるさと納税に係る告示の改正（総務省）",
+   "url": "https://www.soumu.go.jp/main_content/000826061.pdf",
+   "summary": "総務省告示により2026年10月からふるさと納税の指定基準を改正。地場産品基準（区域内で生産・加工等の6類型）を厳格化し、募集経費の上限を段階的に5割→6割ルールへ移行する制度の一次情報。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "official_instruction",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "money-tax-individual",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "総務省",
+    "expert_origin": true,
+    "search_query": "ふるさと納税 6割ルール 総務省 発表 地場産品基準 告示",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-18T06:39:02+09:00",
+   "validity_days": 7
+  },
   {
    "source_category": "news_web",
    "raw_title": "ふるさと納税が10月から改悪！費用の割合変更や控除額の上限設定、ポイント廃止の影響など解説",
@@ -104,36 +134,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-16T06:38:52+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "ふるさと納税のポイント禁止への対抗策(仲介業者相談)",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13300268893",
-   "summary": "ふるさと納税の仲介業者で働く投稿者が、ポイント付与禁止後も利用者を維持する対抗策を知恵袋で相談している。制度改正で得してきた仕組みが崩れる側の当事者の悩みで、駆け込み需要や乗り換え先選びの記事ネタになりうる。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "money-tax-individual",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "ふるさと納税 6割ルール 返礼品 減る 知恵袋",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-11T06:42:33+09:00",
    "validity_days": 7
   },
   {
@@ -258,6 +258,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "相続時精算制度を利用して父親から、固定資産税評価額１０００万円程のマンション…",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13303361288",
+   "summary": "相続時精算課税を使って父親名義の賃貸マンションを生前に譲り受けようとする人の相談投稿。評価額の算定方法や税負担の見通しが分からず不安を抱える、制度改正前の生々しい判断ペイン。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "money-realestate-invest",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "site:chiebukuro.yahoo.co.jp 相続 賃貸マンション 節税 購入",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-18T06:39:02+09:00",
+   "validity_days": 7
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "不動産小口化商品の相続・贈与が変わる！評価方法の見直しと「総則6項」のリスクを解説",
    "url": "https://bs.taxlawyer328.jp/blog/zeiseikaisei/p13498/",
    "summary": "令和8年度税制改正で不動産小口化商品（任意組合型・信託受益権型）の相続・贈与税評価が「通常の取引価額」基準に変更。従来の評価圧縮効果がなくなり、令和9年1月以後の相続・贈与から適用と税理士が解説。",
@@ -344,36 +374,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-16T06:38:52+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "変動金利が0.975%から1.35%に上昇、繰り上げ返済か完済を検討",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11326983591",
-   "summary": "住宅ローンの変動金利が0.975%から1.35%に上がり、繰り上げ返済や完済を考え始めたという投稿者の相談。金利上昇局面でいくら増えたら見直すべきかという具体的な損益分岐の悩みが読み取れる。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "money-realestate-invest",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "住宅ローン 変動金利 上昇 不安 繰り上げ返済",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-11T06:42:33+09:00",
    "validity_days": 7
   },
   {
