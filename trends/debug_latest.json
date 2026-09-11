@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T21:21:00+09:00",
+  "generated_at": "2026-09-12T01:46:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,33 +17,51 @@
       "x_realtime": 10
     },
     "neg_excluded": 7,
-    "dedup_excluded": 8,
-    "passed_total": 117,
+    "dedup_excluded": 9,
+    "passed_total": 116,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
       "google_trends": 10,
-      "news_web": 12,
-      "yahoo_news_ranking": 2,
-      "x_realtime": 9
+      "yahoo_realtime": 36,
+      "x_realtime": 9,
+      "news_web": 13,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "opinion": 10,
-    "personal_story": 3,
-    "medical_science": 4,
+    "social_reaction": 31,
+    "personal_story": 4,
+    "opinion": 9,
     "policy": 5,
-    "hard_fact": 15
+    "medical_science": 2,
+    "hard_fact": 19
   },
   "b2b_topic_category_counts": {
+    "social_reaction": 31,
     "policy": 5,
-    "social_reaction": 33,
-    "opinion": 10,
-    "hard_fact": 15,
-    "medical_science": 4,
-    "personal_story": 3
+    "opinion": 9,
+    "hard_fact": 20,
+    "personal_story": 4,
+    "medical_science": 1
   },
   "b2b_top10": [
+    {
+      "title": "キムラ 緑子 炎上",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "MADE IN YAMATO - 第１６話　バズる筋肉 | ヤンマガWeb",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "昔は「子供がボットン便所に落ちると1週間で死ぬ」と言われたが、その死因からは汚水",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "中国　日本人へのビザ発給手数料約7.5倍に値上げへ　“相互主義”理由に…対抗措置",
       "source_category": "yahoo_realtime",
@@ -57,13 +75,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "玉城デニー氏装う偽メール出回る　実在の住所使い「琉球県に改称」「お礼の品」　事務",
+      "title": "新卒の頃、会社がフレックスで「決まった出社時間はありません」を真に受けて10時半",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "森本レオ",
+      "title": "玉城デニー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ショートスリーパー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "中国",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -71,41 +101,29 @@
     {
       "title": "中国 日本人ビザ約7.5倍に値上げ",
       "source_category": "news_web",
-      "raw_source_key": "yahoo_news_world",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
+    }
+  ],
+  "note_top10": [
+    {
+      "title": "キムラ 緑子 炎上",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "声はどのように映画館から駆逐されたか：映画館マナーの歴史に向けて - 勘違い",
+      "title": "MADE IN YAMATO - 第１６話　バズる筋肉 | ヤンマガWeb",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "韓国 クレーン ゲーム",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "昔は「子供がボットン便所に落ちると1週間で死ぬ」と言われたが、その死因からは汚水",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
-    {
-      "title": "懲戒処分",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "フード ファイター",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "河北新報",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    }
-  ],
-  "note_top10": [
     {
       "title": "タイのとある寺院、各国から観光客が来るのに日本語で『お静かに』とでかく書かれた看",
       "source_category": "yahoo_realtime",
@@ -113,57 +131,39 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "声はどのように映画館から駆逐されたか：映画館マナーの歴史に向けて - 勘違い",
+      "title": "新卒の頃、会社がフレックスで「決まった出社時間はありません」を真に受けて10時半",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "自動車メーカーのスズキ「企業インスタアカウント開設しました！」僕「おもしろそうや",
+      "title": "アース製薬さんのG駆除剤は1年過ぎたら餌になる？外からG呼び寄せる？ネットの都市",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "中国で評価される『鉄鍋のジャン！』｜上海在住のえいちゃん",
+      "title": "月2回の「営業」ノルマ、映画で勉強　元隊員が語る現地情報隊の実態：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "5年前に施工した物件で不具合が発生し、元請の営業に「さすがにタダでは見に行けない",
+      "title": "保健所に行く予定だった猟犬を飼ってたけど、最期まで申し訳なさそうで、自分は捨てら",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「食べられるものがないからね」「日本はそこまで発展していないと感じた」　イタリア",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "DIESELの時計を買ったら、ロゴに対して文字盤が上下逆さまで萎えてしまった…現",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "森本レオ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "最近の映画が見れてないドパ年寄りです。許してください。 - orangestar",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「大阪名物551の魔力強すぎる」東京・上野に朝8時前から長蛇の列、4時間待った客",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "陸自「現地情報隊」が民間人の思想信条など情報収集　元隊員が証言：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "体育アンチの意見に同調寄りだったけど「授業で1番バカなやつに合わせて教えないのと",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
