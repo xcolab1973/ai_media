@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-09-11T16:26:05+0900",
-    "record_count": 32,
-    "source_total_in_db": 1164,
+    "generated_at": "2026-09-11T21:19:22+0900",
+    "record_count": 31,
+    "source_total_in_db": 1166,
     "provenance_breakdown": {
-      "evidence": 753,
+      "evidence": 755,
       "pain_seed": 411
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_9ee61b1bcdd9",
+      "trend_term": "明確価格表示の動き",
+      "raw_title": "「表示価格＝支払総額」で美容医療をもっとシンプルに。あおなぎ美容クリニックが本厚木に開院 - Mantan Web",
+      "summary": "あおなぎ美容クリニックが本厚木に開院。支払総額を明確表示する事業モデルを導入。美容医療の価格透明化トレンド。",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QY19vdkhvay01WS1MSzFWYXF1eGxpYlZHX1FUOG13Tm5kSGhUNVlOajJGNVczdDlyeXFETjNUVVdfLXA2MzR4Y1hPXzNZVWJpTXA1ZmtnczlfVXcxZm81cFZ0c0J4OGZEcTNJU2NCSG5HamFuU2c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QY19vdkhvay01WS1MSzFWYXF1eGxpYlZHX1FUOG13Tm5kSGhUNVlOajJGNVczdDlyeXFETjNUVVdfLXA2MzR4Y1hPXzNZVWJpTXA1ZmtnczlfVXcxZm81cFZ0c0J4OGZEcTNJU2NCSG5HamFuU2c?oc=5",
+      "source_name": "Mantan Web",
+      "monitor_id": "bm-market-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-09-16T21:19:16+0900",
+      "status": "candidate",
+      "created_at": "2026-09-11T21:19:16+0900"
+    },
+    {
+      "seed_id": "seed_c6aee597ec3e",
+      "trend_term": "大規模業界イベント",
+      "raw_title": "業界初！来場者数5000人規模の美容クリニックイベント開催決定！ - ニコニコニュース",
+      "summary": "業界初の来場者5000人規模の美容クリニックイベント開催予定。美容医療市場の集約・可視化が進展。",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kbFRPMkNPdUlseWtDX0ZiSWVmTUNpUFZTWEV3eHBsV01DV1k0Uy1DRS0xNUc2S2poWVUtUFd4QlV6WTBGcXlaZzBXTjRCMm42eFFxVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kbFRPMkNPdUlseWtDX0ZiSWVmTUNpUFZTWEV3eHBsV01DV1k0Uy1DRS0xNUc2S2poWVUtUFd4QlV6WTBGcXlaZzBXTjRCMm42eFFxVQ?oc=5",
+      "source_name": "ニコニコニュース",
+      "monitor_id": "bm-market-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-09-16T21:19:16+0900",
+      "status": "candidate",
+      "created_at": "2026-09-11T21:19:16+0900"
+    },
     {
       "seed_id": "seed_7c6e36673281",
       "trend_term": "美容看護師の求人動向",
@@ -373,24 +409,6 @@
       "created_at": "2026-09-09T21:26:40+0900"
     },
     {
-      "seed_id": "seed_2c4a209d5711",
-      "trend_term": "溶ける糸リフト新展開",
-      "raw_title": "仙台駅前美容外科、開院1周年 溶ける糸リフト「アルテミスリフト」の特別価格提供を開始 - 美ST ONLINE",
-      "summary": "仙台駅前美容外科が開院1周年を記念し、溶ける糸リフト「アルテミスリフト」の特別価格提供を開始。新技術の臨床応用例として価値がある。",
-      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUcGtRT3N5dHE1MWNLaXhzOWt3V1lQZmF4RDFTTnBkVVNURXZKUXdmdDJKU2hKVml4MldRZFl6NXUzeDBKbFRpMnlpUQ?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUcGtRT3N5dHE1MWNLaXhzOWt3V1lQZmF4RDFTTnBkVVNURXZKUXdmdDJKU2hKVml4MldRZFl6NXUzeDBKbFRpMnlpUQ?oc=5",
-      "source_name": "美ST ONLINE",
-      "monitor_id": "bm-market-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-14T16:31:24+0900",
-      "status": "candidate",
-      "created_at": "2026-09-09T16:31:24+0900"
-    },
-    {
       "seed_id": "seed_c0b36fc9c873",
       "trend_term": "自家培養線維芽細胞による皮膚再生治療",
       "raw_title": "株式会社セルバンク、医療法人涼葵会 W CLINIC 梅田院と提携。自家培養真皮線維芽細胞を用いた皮膚再生治療（肌の再生医療）の開始 - Infoseek",
@@ -407,24 +425,6 @@
       "valid_until": "2026-09-14T16:31:15+0900",
       "status": "candidate",
       "created_at": "2026-09-09T16:31:15+0900"
-    },
-    {
-      "seed_id": "seed_d7fa55d4799b",
-      "trend_term": "美容医療ドラマ化",
-      "raw_title": "美容整形業界を描くNetflixドラマ『ダウンタイム』衝撃の場面写真解禁 監修に高須クリニック、『地獄に堕ちるわよ』の特殊メイクチームも参加（KAI-YOU） - Yahoo!ニュース",
-      "summary": "Netflixドラマ『ダウンタイム』が美容整形業界を描く。高須クリニックが監修、『地獄に堕ちるわよ』の特殊メイクチームが参加。",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xeWR5bmNERWxQeGZGS0hISnhJYzNKSlVXd21YdFJkWG9yVUQxc1R6eUFTQjJPTUxTb3l2UzgxVWVDQ0o3enhkWkExNk5DNl9oM21zLV9Yc0hwUTY3bWRnaXJObE8tb2plZXptaHp5WlBGODIzSzdkbzdzcmVDNVE?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xeWR5bmNERWxQeGZGS0hISnhJYzNKSlVXd21YdFJkWG9yVUQxc1R6eUFTQjJPTUxTb3l2UzgxVWVDQ0o3enhkWkExNk5DNl9oM21zLV9Yc0hwUTY3bWRnaXJObE8tb2plZXptaHp5WlBGODIzSzdkbzdzcmVDNVE?oc=5",
-      "source_name": "Yahoo!ニュース",
-      "monitor_id": "bm-market-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-13T16:22:54+0900",
-      "status": "candidate",
-      "created_at": "2026-09-08T16:22:54+0900"
     },
     {
       "seed_id": "seed_9ee59493bb43",
@@ -497,24 +497,6 @@
       "valid_until": "2026-09-12T08:01:21+0900",
       "status": "candidate",
       "created_at": "2026-09-07T08:01:21+0900"
-    },
-    {
-      "seed_id": "seed_e764dffa57ce",
-      "trend_term": "再生医療由来スキンケア",
-      "raw_title": "【HIROSHIMA美容フェス2026出展】再生医療研究から生まれた新たなスキンケアを広島へ。「年齢だから」と諦めていた変化に、「まだ戻る」という可能性を提案。 - PR TIMES",
-      "summary": "再生医療研究から開発されたスキンケアが、年齢による肌変化への新しいアプローチとして提案されている。広島での美容フェス出展。",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KaE1rajg4dFgwQzhQcnJ1ZzhreklsNEhFY0F4Q2RPcUVDOEpCNXE4bkFyYnFESkIxeUg5aEtPemZWRFA4YThGanJlekxXSk9NRGhFbDBEU3YyM29PcUJ3MDN3elVzb08yTGc?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KaE1rajg4dFgwQzhQcnJ1ZzhreklsNEhFY0F4Q2RPcUVDOEpCNXE4bkFyYnFESkIxeUg5aEtPemZWRFA4YThGanJlekxXSk9NRGhFbDBEU3YyM29PcUJ3MDN3elVzb08yTGc?oc=5",
-      "source_name": "PR TIMES",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-11T20:43:47+0900",
-      "status": "candidate",
-      "created_at": "2026-09-06T20:43:47+0900"
     },
     {
       "seed_id": "seed_324f99184559",
