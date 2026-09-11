@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T01:46:00+09:00",
+  "generated_at": "2026-09-12T08:31:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,51 +7,51 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
+    "neg_excluded": 4,
     "dedup_excluded": 9,
-    "passed_total": 116,
+    "passed_total": 109,
     "b2b_category_counts": {
+      "yahoo_realtime": 26,
+      "x_realtime": 10,
       "google_trends": 10,
-      "yahoo_realtime": 36,
-      "x_realtime": 9,
-      "news_web": 13,
+      "news_web": 22,
       "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 31,
-    "personal_story": 4,
-    "opinion": 9,
-    "policy": 5,
-    "medical_science": 2,
-    "hard_fact": 19
+    "social_reaction": 20,
+    "opinion": 10,
+    "personal_story": 1,
+    "medical_science": 6,
+    "hard_fact": 26,
+    "policy": 7
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 31,
-    "policy": 5,
-    "opinion": 9,
-    "hard_fact": 20,
-    "personal_story": 4,
-    "medical_science": 1
+    "social_reaction": 20,
+    "opinion": 10,
+    "hard_fact": 27,
+    "policy": 7,
+    "medical_science": 5,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "キムラ 緑子 炎上",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
+      "title": "MADE IN YAMATO - 第１６話　バズる筋肉 | ヤンマガWeb",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "MADE IN YAMATO - 第１６話　バズる筋肉 | ヤンマガWeb",
+      "title": "冷やしカニラーメンで食中毒123人　代表謝罪　衛生記録なしのずさん管理（テレビ朝",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -63,57 +63,57 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "中国　日本人へのビザ発給手数料約7.5倍に値上げへ　“相互主義”理由に…対抗措置",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "タイのとある寺院、各国から観光客が来るのに日本語で『お静かに』とでかく書かれた看",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "新卒の頃、会社がフレックスで「決まった出社時間はありません」を真に受けて10時半",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "玉城デニー",
+      "title": "ふるさと納税",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ショートスリーパー",
+      "title": "ベネチア映画祭",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "中国",
+      "title": "国宝 映画",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "中国 日本人ビザ約7.5倍に値上げ",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
+      "title": "出雲全日本大学選抜駅伝競走",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "外国人",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "阪神競馬場",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "石丸志門",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "キムラ 緑子 炎上",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
+      "title": "MADE IN YAMATO - 第１６話　バズる筋肉 | ヤンマガWeb",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "MADE IN YAMATO - 第１６話　バズる筋肉 | ヤンマガWeb",
+      "title": "冷やしカニラーメンで食中毒123人　代表謝罪　衛生記録なしのずさん管理（テレビ朝",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,46 +125,46 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "タイのとある寺院、各国から観光客が来るのに日本語で『お静かに』とでかく書かれた看",
+      "title": "フーシ、紅海沿岸の全域を制圧か　二つの海上要衝、同時に高まる危機：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "新卒の頃、会社がフレックスで「決まった出社時間はありません」を真に受けて10時半",
+      "title": "877円の買い物をしてレジで932円を出したら、レジ担当が「877円ですけど」と",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "金曜ロードショーで「タイタニック」を2週にわたって放送…公式がタイタニック号の歴",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "映画「魔法少女まどか☆マギカ」ワルプルギスの廻天のネタバレ解禁…本作の見どころや",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『だっこしてならわんチャン入館できます』いや「ワンちゃん」だろ→書き方ひとつで「",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「食べられるものがないからね」「日本はそこまで発展していないと感じた」　イタリア",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "アース製薬さんのG駆除剤は1年過ぎたら餌になる？外からG呼び寄せる？ネットの都市",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "月2回の「営業」ノルマ、映画で勉強　元隊員が語る現地情報隊の実態：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "保健所に行く予定だった猟犬を飼ってたけど、最期まで申し訳なさそうで、自分は捨てら",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "DIESELの時計を買ったら、ロゴに対して文字盤が上下逆さまで萎えてしまった…現",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "体育アンチの意見に同調寄りだったけど「授業で1番バカなやつに合わせて教えないのと",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "ふるさと納税",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
