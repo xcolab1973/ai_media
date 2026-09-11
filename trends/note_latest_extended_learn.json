@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-11T17:04:07+09:00",
- "valid_until": "2026-09-25T16:56:46+09:00",
+ "generated_at": "2026-09-12T06:41:47+09:00",
+ "valid_until": "2026-09-26T06:35:38+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -8,14 +8,44 @@
  "total_count": 15,
  "merge": {
   "parent": "learn",
-  "from_current": 14,
-  "from_new": 2,
+  "from_current": 15,
+  "from_new": 1,
   "expired_pruned": 1,
   "retention_dropped": 0,
   "genres": 2,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "資格勉強のモチベーション維持について悩んでいます。社会人26歳の女です。",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11318642376",
+   "summary": "社会人が資格勉強を続けるモチベーションが保てず悩む相談。仕事後の疲労や娯楽との両立が壁になっており、独学での継続の難しさという生の声。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "learn-method",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "資格勉強 モチベーション 続かない site:detail.chiebukuro.yahoo.co.jp",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-26T06:35:38+09:00",
+   "validity_days": 14
+  },
   {
    "source_category": "news_web",
    "raw_title": "雇用保険等の一部を改正する法律～教育訓練やリスキリング支援の充実～",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-14T06:36:52+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "｢資格試験に落ち続ける人｣がやりがちな勉強法",
-   "url": "https://toyokeizai.net/articles/-/540942",
-   "summary": "資格試験に落ちる人はインプット（教科書読み込み）に偏り、アウトプット（問題演習）が不足しがちだと指摘。スポーツを本や映像だけで学ぶような状態に例え、早い段階から問題集を繰り返し解く実践型の勉強法へ転換する必要があると解説している。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "learn-method",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "東洋経済オンライン",
-    "expert_origin": true,
-    "search_query": "資格試験 秋 直前 独学 勉強法 挫折 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-12T06:34:53+09:00",
    "validity_days": 14
   },
   {
