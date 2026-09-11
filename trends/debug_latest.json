@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T15:38:00+09:00",
+  "generated_at": "2026-09-11T21:21:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,38 +16,44 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
+    "neg_excluded": 7,
     "dedup_excluded": 8,
-    "passed_total": 116,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "x_realtime": 10,
-      "yahoo_realtime": 36,
+      "yahoo_realtime": 37,
       "google_trends": 10,
-      "news_web": 13,
-      "yahoo_news_ranking": 1
+      "news_web": 12,
+      "yahoo_news_ranking": 2,
+      "x_realtime": 9
     }
   },
   "note_category_counts": {
-    "social_reaction": 37,
-    "personal_story": 3,
-    "medical_science": 3,
+    "social_reaction": 33,
     "opinion": 10,
-    "policy": 2,
+    "personal_story": 3,
+    "medical_science": 4,
+    "policy": 5,
     "hard_fact": 15
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 37,
-    "policy": 2,
-    "medical_science": 3,
+    "policy": 5,
+    "social_reaction": 33,
     "opinion": 10,
     "hard_fact": 15,
+    "medical_science": 4,
     "personal_story": 3
   },
   "b2b_top10": [
     {
+      "title": "中国　日本人へのビザ発給手数料約7.5倍に値上げへ　“相互主義”理由に…対抗措置",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
       "title": "タイのとある寺院、各国から観光客が来るのに日本語で『お静かに』とでかく書かれた看",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -57,10 +63,16 @@
       "topic_category": "policy"
     },
     {
-      "title": "一昨年まで無料だったキャンプ場が有料になり、テント及び車中泊は400円に…治安の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "森本レオ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "中国 日本人ビザ約7.5倍に値上げ",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_world",
+      "topic_category": "hard_fact"
     },
     {
       "title": "声はどのように映画館から駆逐されたか：映画館マナーの歴史に向けて - 勘違い",
@@ -69,37 +81,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "睡眠中にさらされる光、少量でも心臓病リスク上昇か　新研究",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "風 薫る シマケン",
+      "title": "韓国 クレーン ゲーム",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "山菜食べ死亡も 厚労省が注意喚起",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_local",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "f-15",
+      "title": "懲戒処分",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "トヨタ・ヴェルファイア",
+      "title": "フード ファイター",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "アカカミアリ",
+      "title": "河北新報",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -108,14 +108,8 @@
   "note_top10": [
     {
       "title": "タイのとある寺院、各国から観光客が来るのに日本語で『お静かに』とでかく書かれた看",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "一昨年まで無料だったキャンプ場が有料になり、テント及び車中泊は400円に…治安の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -125,43 +119,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「食事量は1日1200kcal以下、でも肥満」な人を14日間追跡調査　痩せない理",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "警察官を名乗る電話1本をきっかけに経理部長が11億円を送金してしまった事例から詐",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「ごめん今起きた。二度寝しちゃった」いろいろルーズな恋人と旅行に行き、散々な目に",
+      "title": "自動車メーカーのスズキ「企業インスタアカウント開設しました！」僕「おもしろそうや",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "昔ファンレターをよく書いていたが、推しがイベントの挨拶で私の書いた文言と一言一句",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "娘の宿題に親のサインが必要らしく、忙しそうな妻に代わって「パパがサインするよ」と",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "睡眠中にさらされる光、少量でも心臓病リスク上昇か　新研究",
+      "title": "中国で評価される『鉄鍋のジャン！』｜上海在住のえいちゃん",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "毎日、病んでます・第9話 | マンガSPA!",
+      "title": "5年前に施工した物件で不具合が発生し、元請の営業に「さすがにタダでは見に行けない",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「食べられるものがないからね」「日本はそこまで発展していないと感じた」　イタリア",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "森本レオ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "最近の映画が見れてないドパ年寄りです。許してください。 - orangestar",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「大阪名物551の魔力強すぎる」東京・上野に朝8時前から長蛇の列、4時間待った客",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "陸自「現地情報隊」が民間人の思想信条など情報収集　元隊員が証言：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
