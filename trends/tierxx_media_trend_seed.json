@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-09-11T21:19:22+0900",
+    "generated_at": "2026-09-12T08:30:05+0900",
     "record_count": 31,
-    "source_total_in_db": 1166,
+    "source_total_in_db": 1168,
     "provenance_breakdown": {
-      "evidence": 755,
-      "pain_seed": 411
+      "evidence": 756,
+      "pain_seed": 412
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_5508a4a3c43b",
+      "trend_term": "RF・HIFU安全性議論",
+      "raw_title": "【江連×峯岸コラボ】美容外科医のホンネ。RF（高周波）やHIFUの知られざる危険性と、将来の手術に与えるデメリットとは - YouTube",
+      "summary": "美容外科医による高周波（RF）・HIFU治療の潜在的リスクと長期的デメリットについての対談。一般には知られていない問題点を専門家が言及。",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sNUV1N2xqNHdQVWN2VGZWc0pOUXIwazNDeTZCVWNCTFUzNDRaSElvQ05PMnZYYUpaYVJVUGt3XzEwLVR1WTZDZ2lZUVhPV1VQR0lqNHZHYnM2ZXcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sNUV1N2xqNHdQVWN2VGZWc0pOUXIwazNDeTZCVWNCTFUzNDRaSElvQ05PMnZYYUpaYVJVUGt3XzEwLVR1WTZDZ2lZUVhPV1VQR0lqNHZHYnM2ZXcw?oc=5",
+      "source_name": "YouTube",
+      "monitor_id": "bm-machine-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "opinion",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-09-17T08:29:53+0900",
+      "status": "candidate",
+      "created_at": "2026-09-12T08:29:53+0900"
+    },
+    {
+      "seed_id": "seed_502d559aeb5e",
+      "trend_term": "韓国発スキンブースター導入",
+      "raw_title": "ベンスクリニック新宿院、韓国で話題のスキンブースター「ティシボ（TISSIVO）」を2026年9月より導入 - 産経ニュース",
+      "summary": "ベンスクリニック新宿院が韓国で話題のスキンブースター「ティシボ（TISSIVO）」を2026年9月より導入。新技術の国内展開情報。",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fSEl3dWtSUkNtLXFoLWplbFAwSExjZHBRR0RHMzduMG9KSmQ0dkpVWkg5dlNnTG1TZTBQRjZiMnJvVmotcUJZU21CRGpLTVVRTkRocVMyaWx5S21TSjJuSTdNUXM4WHhJUWhhSWRBNlVSR3FfSG8wMnh5Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fSEl3dWtSUkNtLXFoLWplbFAwSExjZHBRR0RHMzduMG9KSmQ0dkpVWkg5dlNnTG1TZTBQRjZiMnJvVmotcUJZU21CRGpLTVVRTkRocVMyaWx5S21TSjJuSTdNUXM4WHhJUWhhSWRBNlVSR3FfSG8wMnh5Zw?oc=5",
+      "source_name": "産経ニュース",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-09-17T08:29:49+0900",
+      "status": "candidate",
+      "created_at": "2026-09-12T08:29:49+0900"
+    },
     {
       "seed_id": "seed_9ee61b1bcdd9",
       "trend_term": "明確価格表示の動き",
@@ -373,24 +409,6 @@
       "created_at": "2026-09-09T21:26:51+0900"
     },
     {
-      "seed_id": "seed_35373ba84124",
-      "trend_term": "ボトックス注射の医療リスク",
-      "raw_title": "高嶋ちさ子“カラス天狗化”で露見した「ボトックス」のリスク 町医者の副業、自己注射まで…美容外科医が警鐘〈1周回って知らない話きょう出演〉 - dot.asahi.com",
-      "summary": "美容外科医が、ボトックス施術における医療体制の問題（町医者の副業、自己注射）と実際の健康リスクについて警鐘を鳴らしている。",
-      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lbkVkWVB4REVUMndwTWx0WHV5TXYzSXZrakpDQ1pkdGJPMWZUa2ZRZG5McXhsNDBkdmd4ZlJGQ2lsUTJyUWxVblZBZkNlOHRY?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lbkVkWVB4REVUMndwTWx0WHV5TXYzSXZrakpDQ1pkdGJPMWZUa2ZRZG5McXhsNDBkdmd4ZlJGQ2lsUTJyUWxVblZBZkNlOHRY?oc=5",
-      "source_name": "dot.asahi.com",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "safety_claim",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-14T21:26:40+0900",
-      "status": "candidate",
-      "created_at": "2026-09-09T21:26:40+0900"
-    },
-    {
       "seed_id": "seed_746b1f95f580",
       "trend_term": "ヒアルロン酸の反復注入",
       "raw_title": "益若つばさ、ヒアルロン酸「注入して、溶かして」の “美容往復課金” で別人級の変化…「整形しすぎ説」は本人が否定 - news.yahoo.co.jp",
@@ -479,24 +497,6 @@
       "valid_until": "2026-09-12T16:29:07+0900",
       "status": "candidate",
       "created_at": "2026-09-07T16:29:07+0900"
-    },
-    {
-      "seed_id": "seed_e48cb99ab52e",
-      "trend_term": "再生医療発想まつ毛美容液",
-      "raw_title": "再生医療発想の次世代まつ毛美容液「iPSence ラッシュブースター」、大丸東京店の複合型体験ストア『明日見世』へ出品決定！ - CLASSY.[クラッシィ]",
-      "summary": "再生医療発想の次世代まつ毛美容液「iPSence ラッシュブースター」が大丸東京店の複合型体験ストア『明日見世』に出品決定",
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XWUZwUWRoVTFhbVo2VF9adFF1QzFkbDFoejI3empBU1BfY2hxZDZEUThEdnVhOUt3YWFXbUI2VFkxMkQ3SVItc256ekUzV2NBTTl4X0RNdw?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XWUZwUWRoVTFhbVo2VF9adFF1QzFkbDFoejI3empBU1BfY2hxZDZEUThEdnVhOUt3YWFXbUI2VFkxMkQ3SVItc256ekUzV2NBTTl4X0RNdw?oc=5",
-      "source_name": "CLASSY.[クラッシィ]",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-12T08:01:21+0900",
-      "status": "candidate",
-      "created_at": "2026-09-07T08:01:21+0900"
     },
     {
       "seed_id": "seed_324f99184559",
