@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T00:52:00+09:00",
+  "generated_at": "2026-09-13T08:20:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,42 +7,43 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
     "neg_excluded": 7,
     "dedup_excluded": 10,
-    "passed_total": 115,
+    "passed_total": 105,
     "b2b_category_counts": {
-      "x_realtime": 6,
-      "yahoo_realtime": 36,
+      "x_realtime": 7,
+      "yahoo_realtime": 25,
       "google_trends": 10,
-      "news_web": 18
+      "news_web": 25,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
-    "personal_story": 1,
+    "social_reaction": 24,
+    "personal_story": 2,
     "opinion": 10,
-    "policy": 4,
-    "hard_fact": 20
+    "policy": 3,
+    "hard_fact": 31
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 35,
+    "social_reaction": 24,
     "opinion": 10,
-    "hard_fact": 20,
+    "personal_story": 2,
     "policy": 4,
-    "personal_story": 1
+    "hard_fact": 30
   },
   "b2b_top10": [
     {
-      "title": "ねんどろいどのようなPVCフィギュアはベタつきが起きるから未開封で保管してはダメ",
+      "title": "ホテルで「びわこ虫が入りますので窓を開けるのはご遠慮頂きますようお願いいたします",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -54,49 +55,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "『食中毒を出さないための工夫』たまたま見た料理番組で元料理人の芸人が口うるさいく",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "「ランサムウェア」被害４１社のファイル２０００万件復元…警察庁開発の無料ツール、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「体は大人、頭はこどもの逆コナンだよ奴らは」中高生は驚くほど親の手を離れておらず",
+      "title": "落合博満",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "告白 25 年 目 の 秘密 最終 回",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "阪神競馬場",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "テレビ出演依頼で出演料25万請求される→なぜか担当の上司と直接会う話になり、10",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "プレミアリーグ",
+      "title": "以前、田舎にいる姑にアマノフーズのフリーズドライ味噌汁を送ったら、「物々交換」を",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "policy"
+    },
+    {
+      "title": "小田ときと",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "チェルシー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "こいつ左右対称のふりして地味に違うのキモい「どこだガチで」「素人目にはわからなす",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "トッテナム 対 エヴァートン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "アリソン",
+      "title": "算数",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -104,13 +105,7 @@
   ],
   "note_top10": [
     {
-      "title": "『食中毒を出さないための工夫』たまたま見た料理番組で元料理人の芸人が口うるさいく",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ねんどろいどのようなPVCフィギュアはベタつきが起きるから未開封で保管してはダメ",
+      "title": "ホテルで「びわこ虫が入りますので窓を開けるのはご遠慮頂きますようお願いいたします",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -128,40 +123,46 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「体は大人、頭はこどもの逆コナンだよ奴らは」中高生は驚くほど親の手を離れておらず",
+      "title": "テレビ出演依頼で出演料25万請求される→なぜか担当の上司と直接会う話になり、10",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "実家にあった「謎の金糸」を買取屋に持ち込んだら「本部で査定するから預かりします」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "こいつ左右対称のふりして地味に違うのキモい「どこだガチで」「素人目にはわからなす",
+      "title": "児童らが鉄道の車内アナウンスできるよ！　県が企画「先生応募して」：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "マックカフェで初めてロールケーキ頼んだら、厨房から「俺やったことない···」って",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "落合博満",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "告白 25 年 目 の 秘密 最終 回",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "阪神競馬場",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "東日本に多く見られる感覚として、「値切る」＝「みっともない」という言説…本来得ら",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "「くちべた食堂」の梵辛先生が「池袋で一人飯をする必要が出たときに思い浮かばないの",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "夫が1ヶ月以上口を聞いてくれない",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
     }
   ]
 }
