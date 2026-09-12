@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T15:31:00+09:00",
+  "generated_at": "2026-09-12T20:43:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,88 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 10,
-    "passed_total": 115,
+    "neg_excluded": 5,
+    "dedup_excluded": 9,
+    "passed_total": 118,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 37,
       "google_trends": 10,
       "news_web": 14,
       "x_realtime": 8,
-      "yahoo_news_ranking": 3
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
+    "social_reaction": 33,
+    "personal_story": 4,
     "opinion": 10,
-    "personal_story": 2,
-    "medical_science": 2,
-    "hard_fact": 20,
+    "hard_fact": 19,
     "policy": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 32,
+    "social_reaction": 33,
     "opinion": 10,
-    "hard_fact": 20,
+    "hard_fact": 19,
     "policy": 4,
-    "personal_story": 2,
-    "medical_science": 2
+    "personal_story": 4
   },
   "b2b_top10": [
     {
-      "title": "9.11同時多発テロで旅客機がビル内に吸い込まれ、消えている様に見えるのは機体が",
+      "title": "『食中毒を出さないための工夫』たまたま見た料理番組で元料理人の芸人が口うるさいく",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "危険運転致死傷罪",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "（ONGOING）辺野古が語られない沖縄知事選　16年前と何が変わった？那覇総局",
+      "title": "「ランサムウェア」被害４１社のファイル２０００万件復元…警察庁開発の無料ツール、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "低所得者",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "夫と付き合うか付き合わないかの頃、塚田農場でカップルかどうか聞かれて、「まだ微妙",
+      "title": "「日米同盟を終了、米軍は第二列島線へ」米シンクタンク提言に海外専門家から批判相次",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ベリテンライブ",
+      "title": "「体は大人、頭はこどもの逆コナンだよ奴らは」中高生は驚くほど親の手を離れておらず",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "大村競艇",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ロブチェン",
+      "title": "iphone18pro 値段",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "竹丸和幸",
+      "title": "陸上競技大会で食中毒か 23人搬送",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "大塚達宣",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ジョナタン ジュニオール",
+      "title": "岩美町",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "松本剛",
+      "title": "森崎ウィン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,63 +105,63 @@
   ],
   "note_top10": [
     {
-      "title": "9.11同時多発テロで旅客機がビル内に吸い込まれ、消えている様に見えるのは機体が",
+      "title": "『食中毒を出さないための工夫』たまたま見た料理番組で元料理人の芸人が口うるさいく",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "（ONGOING）辺野古が語られない沖縄知事選　16年前と何が変わった？那覇総局",
+      "title": "「ランサムウェア」被害４１社のファイル２０００万件復元…警察庁開発の無料ツール、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "危険運転致死傷罪",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "夫と付き合うか付き合わないかの頃、塚田農場でカップルかどうか聞かれて、「まだ微妙",
+      "title": "「日米同盟を終了、米軍は第二列島線へ」米シンクタンク提言に海外専門家から批判相次",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『うちの猫に最悪のブームが来た』猫に不定期に訪れる\"発見\"から生まれるブームがだ",
+      "title": "「体は大人、頭はこどもの逆コナンだよ奴らは」中高生は驚くほど親の手を離れておらず",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "公園に毒キノコ大量発生　愛知・岡崎市、職員も緊急出動　「食べると入院も」「見ため",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "マックカフェで初めてロールケーキ頼んだら、厨房から「俺やったことない···」って",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "英語圏はどうやって九九を覚えてるんやろ…「ににんがし」みたいなのあるんかな「トゥ",
+      "title": "お月見バーガーを頼んだら「たまごを入れ忘れました」と、あとから月見を持ってきたｗ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "Suicaの新しいキャラクター案、Cの子のストーリーがあまりにもかわいくて破竹の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ウナコーワのウナが「ウナ電」のウナだという無駄な知識を持っているが、もう「ウナ電",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "読めない看板「ンョ゛ハー゛」地元住民やファンからの要望でスーパー改装後も存続へ「",
+      "title": "「向井秀徳が選んだ100冊リスト」公開、半分が絶版か品切れ - 音楽ナタリー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "さす九について－九州男児の見解",
+      "title": "映画『オデュッセイア』に備えて本で予習してみませんか？→まずは『オデュッセイア物",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "実家にあった「謎の金糸」を買取屋に持ち込んだら「本部で査定するから預かりします」",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
