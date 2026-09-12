@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T20:43:00+09:00",
+  "generated_at": "2026-09-13T00:52:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,43 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 9,
-    "passed_total": 118,
+    "neg_excluded": 7,
+    "dedup_excluded": 10,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
+      "x_realtime": 6,
+      "yahoo_realtime": 36,
       "google_trends": 10,
-      "news_web": 14,
-      "x_realtime": 8,
-      "yahoo_news_ranking": 1
+      "news_web": 18
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "personal_story": 4,
+    "social_reaction": 35,
+    "personal_story": 1,
     "opinion": 10,
-    "hard_fact": 19,
-    "policy": 4
+    "policy": 4,
+    "hard_fact": 20
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
+    "social_reaction": 35,
     "opinion": 10,
-    "hard_fact": 19,
+    "hard_fact": 20,
     "policy": 4,
-    "personal_story": 4
+    "personal_story": 1
   },
   "b2b_top10": [
+    {
+      "title": "ねんどろいどのようなPVCフィギュアはベタつきが起きるから未開封で保管してはダメ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「日米同盟を終了、米軍は第二列島線へ」米シンクタンク提言に海外専門家から批判相次",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "『食中毒を出さないための工夫』たまたま見た料理番組で元料理人の芸人が口うるさいく",
       "source_category": "yahoo_realtime",
@@ -55,49 +66,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「日米同盟を終了、米軍は第二列島線へ」米シンクタンク提言に海外専門家から批判相次",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "「体は大人、頭はこどもの逆コナンだよ奴らは」中高生は驚くほど親の手を離れておらず",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "大村競艇",
+      "title": "プレミアリーグ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "iphone18pro 値段",
+      "title": "チェルシー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "陸上競技大会で食中毒か 23人搬送",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
+      "title": "こいつ左右対称のふりして地味に違うのキモい「どこだガチで」「素人目にはわからなす",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "大塚達宣",
+      "title": "トッテナム 対 エヴァートン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "岩美町",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "森崎ウィン",
+      "title": "アリソン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -111,13 +110,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ランサムウェア」被害４１社のファイル２０００万件復元…警察庁開発の無料ツール、",
+      "title": "ねんどろいどのようなPVCフィギュアはベタつきが起きるから未開封で保管してはダメ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「日米同盟を終了、米軍は第二列島線へ」米シンクタンク提言に海外専門家から批判相次",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「日米同盟を終了、米軍は第二列島線へ」米シンクタンク提言に海外専門家から批判相次",
+      "title": "「ランサムウェア」被害４１社のファイル２０００万件復元…警察庁開発の無料ツール、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -129,40 +134,34 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "公園に毒キノコ大量発生　愛知・岡崎市、職員も緊急出動　「食べると入院も」「見ため",
+      "title": "こいつ左右対称のふりして地味に違うのキモい「どこだガチで」「素人目にはわからなす",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "マックカフェで初めてロールケーキ頼んだら、厨房から「俺やったことない···」って",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "お月見バーガーを頼んだら「たまごを入れ忘れました」と、あとから月見を持ってきたｗ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「向井秀徳が選んだ100冊リスト」公開、半分が絶版か品切れ - 音楽ナタリー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "映画『オデュッセイア』に備えて本で予習してみませんか？→まずは『オデュッセイア物",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "実家にあった「謎の金糸」を買取屋に持ち込んだら「本部で査定するから預かりします」",
+      "title": "東日本に多く見られる感覚として、「値切る」＝「みっともない」という言説…本来得ら",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "「くちべた食堂」の梵辛先生が「池袋で一人飯をする必要が出たときに思い浮かばないの",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "夫が1ヶ月以上口を聞いてくれない",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     }
   ]
 }
