@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T15:46:00+09:00",
+  "generated_at": "2026-09-13T21:51:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,152 +16,152 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 11,
+    "neg_excluded": 5,
+    "dedup_excluded": 12,
     "passed_total": 115,
     "b2b_category_counts": {
-      "x_realtime": 7,
-      "yahoo_realtime": 36,
-      "google_trends": 9,
-      "news_web": 14,
-      "yahoo_news_ranking": 4
+      "x_realtime": 8,
+      "yahoo_realtime": 35,
+      "google_trends": 10,
+      "yahoo_news_ranking": 4,
+      "news_web": 13
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
-    "personal_story": 4,
-    "opinion": 9,
+    "social_reaction": 30,
+    "opinion": 10,
+    "personal_story": 2,
     "medical_science": 1,
     "hard_fact": 19,
-    "policy": 2
+    "policy": 8
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 35,
-    "opinion": 9,
+    "social_reaction": 30,
+    "opinion": 10,
+    "policy": 8,
     "hard_fact": 19,
-    "personal_story": 4,
-    "medical_science": 1,
-    "policy": 2
+    "personal_story": 2,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "今年ダウンを買うならどのブランド？「成金感はなくオシャレ」が条件ならマッカージュ",
+      "title": "「対策を考えないとかなりヤバい」NHKが高齢単身者の住まい探し問題を特集、貸す側",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "一定の効力を発揮後に公開終了したネット署名（オープンレター）に虚偽署名で巻き込ま",
+      "title": "雑誌「暮しの手帖」は暮しに対して本気であるため、昔は『実際に家を燃やしてみる』と",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "どちらが真実か…クルド人排斥デモ巡る訴訟の「攻防」　被告男性の「ヘイト対策」説明",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ゼレンスキー氏、G20でプーチン氏との会談に意欲 ロシア側は即座に拒否",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "セントライト記念",
+      "title": "阪神タイガース",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "純ガソリン車 次々廃止される事情",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "『ワルプルギスの廻天』EDについての考察｜背世",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "非常食のカップ麺を食べた旦那に「同じ商品を補充して」と伝えても、同じものを買って",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ペヨンジュン",
+      "title": "コベントリー 対 ブライトン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "国スポ 2026",
+      "title": "チョッキー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
+    },
+    {
+      "title": "二階堂ふみ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "新庄",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「死ぬのが怖い」今56歳、後20年生きれるのかさえわからない…みなさんはこの恐怖",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "10年以上住んでいて、とても細かくて口うるさかったクレーマー気質の入居者がようや",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "沖縄県知事選挙、古謝玄太が玉城デニー氏を破り当選確実な上、ゼロ打ちだったことに驚",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "policy"
     }
   ],
   "note_top10": [
     {
-      "title": "今年ダウンを買うならどのブランド？「成金感はなくオシャレ」が条件ならマッカージュ",
+      "title": "「対策を考えないとかなりヤバい」NHKが高齢単身者の住まい探し問題を特集、貸す側",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "一定の効力を発揮後に公開終了したネット署名（オープンレター）に虚偽署名で巻き込ま",
+      "title": "雑誌「暮しの手帖」は暮しに対して本気であるため、昔は『実際に家を燃やしてみる』と",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "どちらが真実か…クルド人排斥デモ巡る訴訟の「攻防」　被告男性の「ヘイト対策」説明",
+      "title": "「死ぬのが怖い」今56歳、後20年生きれるのかさえわからない…みなさんはこの恐怖",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ゼレンスキー氏、G20でプーチン氏との会談に意欲 ロシア側は即座に拒否",
+      "title": "10年以上住んでいて、とても細かくて口うるさかったクレーマー気質の入居者がようや",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "岸田メル先生「あの時剣買ってなかったら全く違った人生だったと思うから、剣買ってよ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "『ワルプルギスの廻天』EDについての考察｜背世",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "今日初めてソロしゃぶ葉をやってみたんだけど、時間内にやることが多くて忙しく、分身",
+      "title": "「ゴリゴリに怨念ありそう」田舎に底なし沼の人柱を祀った祠があるが、実は「本来の人",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "非常食のカップ麺を食べた旦那に「同じ商品を補充して」と伝えても、同じものを買って",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "俵万智さん「空港の保安検査場、ペットボトルの検査が『自分で飲む』という斬新な方法",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「ダンボール捨てに行ったらすごく闇を感じた」ゴミ捨て場に大量の『週刊少年ジャンプ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "フーシの紅海沿岸制圧受け、責任のなすりつけ合い始まる　「米サウジの途方もない大失",
+      "title": "夏休み前は相当荒れていた娘、「話しかけてこないで💢🚪バーン💥」ご飯も食べずに心配",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "官公庁オークションで安かったからという理由で実家の車が救急車だったことがあります",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "阪神タイガース",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ブックマーカー図鑑レポート：2026沖縄知事選 沖縄知事選には誰がいた？ - は",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
