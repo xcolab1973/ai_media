@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T21:51:00+09:00",
+  "generated_at": "2026-09-14T01:39:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,38 +16,38 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
+    "neg_excluded": 6,
     "dedup_excluded": 12,
-    "passed_total": 115,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "x_realtime": 8,
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 33,
       "google_trends": 10,
-      "yahoo_news_ranking": 4,
-      "news_web": 13
+      "x_realtime": 8,
+      "yahoo_news_ranking": 3,
+      "news_web": 16
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
+    "social_reaction": 28,
     "opinion": 10,
-    "personal_story": 2,
+    "personal_story": 1,
     "medical_science": 1,
-    "hard_fact": 19,
-    "policy": 8
+    "policy": 8,
+    "hard_fact": 22
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
-    "opinion": 10,
+    "social_reaction": 28,
     "policy": 8,
-    "hard_fact": 19,
-    "personal_story": 2,
-    "medical_science": 1
+    "opinion": 10,
+    "hard_fact": 22,
+    "medical_science": 1,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "「対策を考えないとかなりヤバい」NHKが高齢単身者の住まい探し問題を特集、貸す側",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "先史時代の狩猟採集民、人類最古の薬物使用で「悪循環」に陥っていた可能性　新研究",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -57,59 +57,65 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "阪神タイガース",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "コベントリー 対 ブライトン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "チョッキー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "二階堂ふみ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "新庄",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「死ぬのが怖い」今56歳、後20年生きれるのかさえわからない…みなさんはこの恐怖",
+      "title": "エンドロール中の離席、おしゃべり、ポップコーンの音…どこまで許せる？ 白熱する映",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "10年以上住んでいて、とても細かくて口うるさかったクレーマー気質の入居者がようや",
+      "title": "「対策を考えないとかなりヤバい」NHKが高齢単身者の住まい探し問題を特集、貸す側",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "沖縄県知事選挙、古謝玄太が玉城デニー氏を破り当選確実な上、ゼロ打ちだったことに驚",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
+    },
+    {
+      "title": "タイガース 対 ロッキーズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ラミン・ヤマル",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "tgs",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "miss",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ポーランド",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
       "title": "「対策を考えないとかなりヤバい」NHKが高齢単身者の住まい探し問題を特集、貸す側",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "先史時代の狩猟採集民、人類最古の薬物使用で「悪循環」に陥っていた可能性　新研究",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -119,7 +125,7 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「死ぬのが怖い」今56歳、後20年生きれるのかさえわからない…みなさんはこの恐怖",
+      "title": "エンドロール中の離席、おしゃべり、ポップコーンの音…どこまで許せる？ 白熱する映",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -131,39 +137,33 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ゴリゴリに怨念ありそう」田舎に底なし沼の人柱を祀った祠があるが、実は「本来の人",
+      "title": "親戚の子に私のあつ森のデータやフレンドを消されてしまいました…理由を聞くと『羨ま",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ダンボール捨てに行ったらすごく闇を感じた」ゴミ捨て場に大量の『週刊少年ジャンプ",
+      "title": "「魔法瓶」が妻にも子供にも通じず、何言ってるの？という目で見られた…もう魔法瓶と",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "夏休み前は相当荒れていた娘、「話しかけてこないで💢🚪バーン💥」ご飯も食べずに心配",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "官公庁オークションで安かったからという理由で実家の車が救急車だったことがあります",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "阪神タイガース",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ブックマーカー図鑑レポート：2026沖縄知事選 沖縄知事選には誰がいた？ - は",
+      "title": "SNSのせいで海外のスーパーからイワシの缶詰が消えている",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "反辺野古固執「オール沖縄」県政の終焉、玉城氏の言動に批判も　沖縄知事選で地殻変動",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "彼氏が「5、60歳あたりで地元に戻らないといけない」「そうなったらついてくる？」",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
