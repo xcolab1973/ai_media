@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T08:20:00+09:00",
+  "generated_at": "2026-09-13T15:46:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,97 +7,99 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 10,
-    "passed_total": 105,
+    "neg_excluded": 6,
+    "dedup_excluded": 11,
+    "passed_total": 115,
     "b2b_category_counts": {
       "x_realtime": 7,
-      "yahoo_realtime": 25,
-      "google_trends": 10,
-      "news_web": 25,
-      "yahoo_news_ranking": 3
+      "yahoo_realtime": 36,
+      "google_trends": 9,
+      "news_web": 14,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 24,
-    "personal_story": 2,
-    "opinion": 10,
-    "policy": 3,
-    "hard_fact": 31
+    "social_reaction": 35,
+    "personal_story": 4,
+    "opinion": 9,
+    "medical_science": 1,
+    "hard_fact": 19,
+    "policy": 2
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 24,
-    "opinion": 10,
-    "personal_story": 2,
-    "policy": 4,
-    "hard_fact": 30
+    "social_reaction": 35,
+    "opinion": 9,
+    "hard_fact": 19,
+    "personal_story": 4,
+    "medical_science": 1,
+    "policy": 2
   },
   "b2b_top10": [
     {
-      "title": "ホテルで「びわこ虫が入りますので窓を開けるのはご遠慮頂きますようお願いいたします",
+      "title": "今年ダウンを買うならどのブランド？「成金感はなくオシャレ」が条件ならマッカージュ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「日米同盟を終了、米軍は第二列島線へ」米シンクタンク提言に海外専門家から批判相次",
+      "title": "一定の効力を発揮後に公開終了したネット署名（オープンレター）に虚偽署名で巻き込ま",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ランサムウェア」被害４１社のファイル２０００万件復元…警察庁開発の無料ツール、",
+      "title": "どちらが真実か…クルド人排斥デモ巡る訴訟の「攻防」　被告男性の「ヘイト対策」説明",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "落合博満",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "告白 25 年 目 の 秘密 最終 回",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "阪神競馬場",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "テレビ出演依頼で出演料25万請求される→なぜか担当の上司と直接会う話になり、10",
+      "title": "ゼレンスキー氏、G20でプーチン氏との会談に意欲 ロシア側は即座に拒否",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "以前、田舎にいる姑にアマノフーズのフリーズドライ味噌汁を送ったら、「物々交換」を",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "policy"
-    },
-    {
-      "title": "小田ときと",
+      "title": "セントライト記念",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "算数",
+      "title": "純ガソリン車 次々廃止される事情",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "『ワルプルギスの廻天』EDについての考察｜背世",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "非常食のカップ麺を食べた旦那に「同じ商品を補充して」と伝えても、同じものを買って",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ペヨンジュン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "国スポ 2026",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,63 +107,63 @@
   ],
   "note_top10": [
     {
-      "title": "ホテルで「びわこ虫が入りますので窓を開けるのはご遠慮頂きますようお願いいたします",
+      "title": "今年ダウンを買うならどのブランド？「成金感はなくオシャレ」が条件ならマッカージュ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「日米同盟を終了、米軍は第二列島線へ」米シンクタンク提言に海外専門家から批判相次",
+      "title": "一定の効力を発揮後に公開終了したネット署名（オープンレター）に虚偽署名で巻き込ま",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ランサムウェア」被害４１社のファイル２０００万件復元…警察庁開発の無料ツール、",
+      "title": "どちらが真実か…クルド人排斥デモ巡る訴訟の「攻防」　被告男性の「ヘイト対策」説明",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "テレビ出演依頼で出演料25万請求される→なぜか担当の上司と直接会う話になり、10",
+      "title": "ゼレンスキー氏、G20でプーチン氏との会談に意欲 ロシア側は即座に拒否",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "岸田メル先生「あの時剣買ってなかったら全く違った人生だったと思うから、剣買ってよ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "実家にあった「謎の金糸」を買取屋に持ち込んだら「本部で査定するから預かりします」",
+      "title": "『ワルプルギスの廻天』EDについての考察｜背世",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "児童らが鉄道の車内アナウンスできるよ！　県が企画「先生応募して」：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "落合博満",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "告白 25 年 目 の 秘密 最終 回",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "阪神競馬場",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "東日本に多く見られる感覚として、「値切る」＝「みっともない」という言説…本来得ら",
+      "title": "今日初めてソロしゃぶ葉をやってみたんだけど、時間内にやることが多くて忙しく、分身",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "非常食のカップ麺を食べた旦那に「同じ商品を補充して」と伝えても、同じものを買って",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "俵万智さん「空港の保安検査場、ペットボトルの検査が『自分で飲む』という斬新な方法",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "フーシの紅海沿岸制圧受け、責任のなすりつけ合い始まる　「米サウジの途方もない大失",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
