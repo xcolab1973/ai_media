@@ -2,8 +2,8 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-09-14T17:03:30+0900",
-    "record_count": 34,
+    "generated_at": "2026-09-14T23:21:37+0900",
+    "record_count": 33,
     "source_total_in_db": 1186,
     "provenance_breakdown": {
       "evidence": 770,
@@ -533,24 +533,6 @@
       "valid_until": "2026-09-15T16:27:47+0900",
       "status": "candidate",
       "created_at": "2026-09-10T16:27:47+0900"
-    },
-    {
-      "seed_id": "seed_483d5e575632",
-      "trend_term": "PRP市場規模予測",
-      "raw_title": "再生医療の革新と美容医療への応用拡大が牽引し、多血小板血漿（PRP）市場は2032年までに26億2000万米ドルに達すると予測 ― SNS Insider - dreamnews.jp",
-      "summary": "多血小板血漿（PRP）市場が2032年までに26億2000万米ドルに達すると予測。再生医療の美容医療への応用拡大が成長牽引要因とされている。",
-      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BeDZWZmpHYjZheGFIUWxhNlRQVTlhVzVmbXNTbUJ5ckppX1VzOUY3SFdKX3ZPZThpTTJQdUtadnRVYldpTWZFNzZGYVBxTXRkTklv?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BeDZWZmpHYjZheGFIUWxhNlRQVTlhVzVmbXNTbUJ5ckppX1VzOUY3SFdKX3ZPZThpTTJQdUtadnRVYldpTWZFNzZGYVBxTXRkTklv?oc=5",
-      "source_name": "dreamnews.jp",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-14T21:26:51+0900",
-      "status": "candidate",
-      "created_at": "2026-09-09T21:26:51+0900"
     },
     {
       "seed_id": "seed_324f99184559",
