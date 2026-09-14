@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-09-14T08:22:48+0900",
-    "record_count": 35,
-    "source_total_in_db": 1185,
+    "generated_at": "2026-09-14T17:03:30+0900",
+    "record_count": 34,
+    "source_total_in_db": 1186,
     "provenance_breakdown": {
-      "evidence": 769,
+      "evidence": 770,
       "pain_seed": 416
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_78e5a95a2d15",
+      "trend_term": "地方美容クリニック開院",
+      "raw_title": "【四日市市】トナリエ東側にできたオフィスビルに「ルラ美容クリニック」が10月頃開院予定です！ - 号外NET 四日市市",
+      "summary": "四日市市のトナリエ東側オフィスビルに「ルラ美容クリニック」が10月頃開院予定。地方での新規美容医療施設展開事例。",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qeUFiVk9PTkllanhEY29TbHBmZ1REOFZMVEkyWHlGT1ZaWWEwQUNKV1cteGlOaE1CUjBISVRHZC1lWXhGY0VYdURkQVdPaVNnZW5ybEdMbHBuUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qeUFiVk9PTkllanhEY29TbHBmZ1REOFZMVEkyWHlGT1ZaWWEwQUNKV1cteGlOaE1CUjBISVRHZC1lWXhGY0VYdURkQVdPaVNnZW5ybEdMbHBuUQ?oc=5",
+      "source_name": "号外NET 四日市市",
+      "monitor_id": "bm-market-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-09-19T17:03:24+0900",
+      "status": "candidate",
+      "created_at": "2026-09-14T17:03:24+0900"
+    },
     {
       "seed_id": "seed_1dc619991e62",
       "trend_term": "次世代型スキンブースター",
@@ -481,24 +499,6 @@
       "created_at": "2026-09-10T16:28:04+0900"
     },
     {
-      "seed_id": "seed_24645e896e96",
-      "trend_term": "美容医療職向けウェビナー",
-      "raw_title": "美容クリニック従事者向けウェビナー、のべ2,109名が受講 - ニコニコニュース",
-      "summary": "美容クリニック従事者向けウェビナーの受講者数が2,109名に達した。業界内の教育機会の広がりを示す動向。",
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xc1Ziald5Smo1X1d4YWxyN1dPY2Nncko4eGltN3QzeENKRkZUYUlvenFaVk1sejI1N2pQT2hFMWswREdxSUNNbHl0cFE0bDYxdVAwZGR4ellmSTR6QkI4X3JOTHE5YlNP?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xc1Ziald5Smo1X1d4YWxyN1dPY2Nncko4eGltN3QzeENKRkZUYUlvenFaVk1sejI1N2pQT2hFMWswREdxSUNNbHl0cFE0bDYxdVAwZGR4ellmSTR6QkI4X3JOTHE5YlNP?oc=5",
-      "source_name": "ニコニコニュース",
-      "monitor_id": "bm-market-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-15T16:28:00+0900",
-      "status": "candidate",
-      "created_at": "2026-09-10T16:28:00+0900"
-    },
-    {
       "seed_id": "seed_c8b930a4ceac",
       "trend_term": "再生医療×美容医療の融合",
       "raw_title": "【エテルナム】美容医療・アンチエイジング医学の国際学会「AMWC Japan 2026」に出展。再生医療の知見を背景に、“未来の美”の可能性を医療従事者へ提案。 - 時事ドットコム",
@@ -551,24 +551,6 @@
       "valid_until": "2026-09-14T21:26:51+0900",
       "status": "candidate",
       "created_at": "2026-09-09T21:26:51+0900"
-    },
-    {
-      "seed_id": "seed_c0b36fc9c873",
-      "trend_term": "自家培養線維芽細胞による皮膚再生治療",
-      "raw_title": "株式会社セルバンク、医療法人涼葵会 W CLINIC 梅田院と提携。自家培養真皮線維芽細胞を用いた皮膚再生治療（肌の再生医療）の開始 - Infoseek",
-      "summary": "セルバンク社とW CLINIC梅田院が提携し、自家培養真皮線維芽細胞を用いた皮膚再生治療（肌の再生医療）を開始。",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE93RjNKb0E3eFNVdk5BdWNtWXQ4YlFtd1RBX18tRUYzbndFYTJRa3ZtbkRuV2RZMUY2WVdNamluWjlTY05nNklQUWtIeU84X2RwaFpHdlZpY1lIY1Z4Z1FfblpwLXpCX2pqWlB3bHVNYXEtdw?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE93RjNKb0E3eFNVdk5BdWNtWXQ4YlFtd1RBX18tRUYzbndFYTJRa3ZtbkRuV2RZMUY2WVdNamluWjlTY05nNklQUWtIeU84X2RwaFpHdlZpY1lIY1Z4Z1FfblpwLXpCX2pqWlB3bHVNYXEtdw?oc=5",
-      "source_name": "Infoseek",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-14T16:31:15+0900",
-      "status": "candidate",
-      "created_at": "2026-09-09T16:31:15+0900"
     },
     {
       "seed_id": "seed_324f99184559",
