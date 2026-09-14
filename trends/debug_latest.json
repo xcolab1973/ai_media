@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T03:13:00+09:00",
+  "generated_at": "2026-09-15T08:58:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,52 +7,64 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 12,
-    "passed_total": 100,
+    "neg_excluded": 13,
+    "dedup_excluded": 5,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 27,
-      "x_realtime": 5,
+      "x_realtime": 10,
       "google_trends": 10,
-      "yahoo_news_ranking": 7,
-      "news_web": 21
+      "news_web": 11,
+      "yahoo_realtime": 34,
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 18,
+    "social_reaction": 31,
     "opinion": 10,
-    "policy": 5,
-    "hard_fact": 36,
-    "medical_science": 1
+    "personal_story": 3,
+    "hard_fact": 19,
+    "policy": 7
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 18,
-    "hard_fact": 36,
-    "policy": 5,
+    "social_reaction": 30,
     "opinion": 10,
-    "medical_science": 1
+    "hard_fact": 21,
+    "policy": 6,
+    "personal_story": 3
   },
   "b2b_top10": [
-    {
-      "title": "「何入ってんのこれ？？？？」エグい乗り物酔いをする人でも平気になる市販薬『アネロ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
     {
       "title": "「子供のものを自分の評価に使うなよ」夫が職場の女性にちいかわのめじるしアクセサリ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "バーミヤン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "広い範囲で雷雨に注意 15日の天気",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "“自動で耳コピ”アプリ、ヤマハが無料公開　音源読み込み→3分でピアノ譜に",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
     },
     {
       "title": "敗北現職「SNS中傷が野放し」　玉城デニー氏陣営、告訴を準備",
@@ -61,46 +73,34 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "【解説】 ヒマラヤ山脈の氷河、急速に溶解　インド経済が「危機」に - BBCニュ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "千葉豪雨“屋外での移動危険”避難所開設しない判断の自治体も | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "日本の中高生で、女子の自殺が男子を上回ったという謎（週刊プレイボーイ連載696）",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "ファミマ",
+      "title": "江崎グリコ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "steam frame",
+      "title": "深津英臣",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "広島 警報",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "会社の大先輩を新居に招くことになったが「焼肉をやろう！」の一点張り→断ったのに、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「日本の不良漫画に登場する不良は、NYCならただの普通の人に見える」という海外の",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "賃貸の退去で意味の分からない請求をされたのでClaudeに「法的にギリギリ訴えら",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "岡山 警報",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
@@ -111,57 +111,57 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「何入ってんのこれ？？？？」エグい乗り物酔いをする人でも平気になる市販薬『アネロ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "敗北現職「SNS中傷が野放し」　玉城デニー氏陣営、告訴を準備",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "会社の大先輩を新居に招くことになったが「焼肉をやろう！」の一点張り→断ったのに、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ブスが着てごめんね♡と思いました」とあるブランドの服を買い、インスタでタグ付け",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「優しさが細やかすぎる」電車でおっちゃんに話しかけられ驚くも「寝てる女の子がスマ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "最近少年院に入る子供が増えつつある中、様々な要因が指摘されるが「昔は許されたこと",
+      "title": "コンビニでタバコを吸っていたら謎の中国人が唐突にタバコをくれた…なんかそういう文",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "映画「ちいかわ」特典第5弾「ひみつ本」に収録されてる内容が気になりすぎる…「ヒト",
+      "title": "「日本の不良漫画に登場する不良は、NYCならただの普通の人に見える」という海外の",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ファミマ",
+      "title": "おバカパーツで 馬改造 第14馬｜PLAYTECH PEP-4で『漢の1ハム』と",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "実家に脇差と十字槍の槍先があり、実家を取り壊した時に移動…登録のために警察に来て",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「国保逃れ」計1万1千人超、45事業所で疑い　厚労省が調査：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "バーミヤン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "パナソニックDIGAがテレビ録画のクラウド保存をサポート：MYUTA判決とは何だ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "賃貸の退去で意味の分からない請求をされたのでClaudeに「法的にギリギリ訴えら",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "リマスター版「トルネコの大冒険」が不具合満載…「テキストの改行のおかしさ」「ラグ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
