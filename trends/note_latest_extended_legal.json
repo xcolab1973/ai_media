@@ -1,21 +1,51 @@
 {
- "generated_at": "2026-09-13T06:45:09+09:00",
- "valid_until": "2026-09-20T06:35:31+09:00",
+ "generated_at": "2026-09-15T05:31:17+09:00",
+ "valid_until": "2026-09-21T15:30:58+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "legal",
- "total_count": 24,
+ "total_count": 26,
  "merge": {
   "parent": "legal",
-  "from_current": 23,
-  "from_new": 1,
+  "from_current": 24,
+  "from_new": 2,
   "expired_pruned": 0,
   "retention_dropped": 0,
   "genres": 5,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "本当に困っています。対処法を教えてください。副業詐欺にあいました。",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11297659266",
+   "summary": "インスタで紹介されたスマホ副業に手を出し詐欺に遭ったという相談。SNS経由の副業勧誘・なりすまし広告に絡む消費者被害の生々しい実例。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "legal-consumer",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "なりすまし広告 詐欺 騙された 知恵袋 返金",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-21T15:30:58+09:00",
+   "validity_days": 7
+  },
   {
    "source_category": "news_web",
    "raw_title": "法律相談｜定期購入商品の解約電話がつながらない",
@@ -494,6 +524,36 @@
     "rescued": false
    },
    "valid_until": "2026-09-16T16:46:34+09:00",
+   "validity_days": 7
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "【最新】106万の壁が実質消滅！パートの社会保険加入はどう変わる？",
+   "url": "https://inoue-sr.jp/roudouhoken/106man-kabe-shoumetsu/",
+   "summary": "2026年10月から年収106万円の賃金要件が撤廃され週20時間以上の労働時間要件に一本化。パート労働者は「週20時間未満に抑える」か「年収125万円以上を目指す」かの選択を迫られる。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "official_instruction",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "legal-labor",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "いのうえ社会保険労務士事務所",
+    "expert_origin": true,
+    "search_query": "106万円の壁 撤廃 週20時間 社会保険 パート 手取り減 どうなる",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-21T15:30:58+09:00",
    "validity_days": 7
   },
   {
