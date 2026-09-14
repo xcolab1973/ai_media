@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T16:07:00+09:00",
+  "generated_at": "2026-09-14T23:25:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,42 +16,54 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 8,
-    "passed_total": 116,
+    "neg_excluded": 9,
+    "dedup_excluded": 13,
+    "passed_total": 110,
     "b2b_category_counts": {
-      "yahoo_realtime": 39,
-      "x_realtime": 7,
-      "news_web": 11,
+      "yahoo_realtime": 38,
       "google_trends": 10,
-      "yahoo_news_ranking": 3
+      "yahoo_news_ranking": 6,
+      "x_realtime": 4,
+      "news_web": 12
     }
   },
   "note_category_counts": {
-    "personal_story": 9,
-    "social_reaction": 27,
-    "policy": 4,
+    "social_reaction": 23,
+    "personal_story": 5,
     "opinion": 10,
-    "hard_fact": 17,
+    "policy": 4,
+    "hard_fact": 25,
     "medical_science": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 27,
-    "hard_fact": 17,
-    "policy": 5,
-    "personal_story": 9,
+    "social_reaction": 23,
+    "hard_fact": 25,
+    "policy": 4,
     "opinion": 10,
-    "medical_science": 2
+    "medical_science": 3,
+    "personal_story": 5
   },
   "b2b_top10": [
     {
-      "title": "いい加減はてなで男女論とかジェンダー論をゾーニングしてほしい",
+      "title": "「何入ってんのこれ？？？？」エグい乗り物酔いをする人でも平気になる市販薬『アネロ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ゲームフリーク完全新作ゲーム『雨のちハレ女』いきなり発表！基本無料でモバイル向け",
+      "title": "“自動で耳コピ”アプリ、ヤマハが無料公開　音源読み込み→3分でピアノ譜に",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "敗北現職「SNS中傷が野放し」　玉城デニー氏陣営、告訴を準備",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【解説】 ヒマラヤ山脈の氷河、急速に溶解　インド経済が「危機」に - BBCニュ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
@@ -63,43 +75,31 @@
       "topic_category": "policy"
     },
     {
-      "title": "ホットペッパービューティーでネイルを予約したが、予約時間に担当者がおらず、知らな",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "ご厚意でポケモンカードを沢山頂き、中学生以下のお子様達に3枚まで無料配布したら、",
+      "title": "会社の大先輩を新居に招くことになったが「焼肉をやろう！」の一点張り→断ったのに、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "沖縄県庁の「辺野古課」廃止へ　新知事の古謝氏",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "東北や北陸 土砂災害や浸水に注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "今井春花",
+      "title": "マツコデラックス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ミャクミャク",
+      "title": "ダルベック",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "佐川",
+      "title": "あいのり",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "観客",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,63 +107,63 @@
   ],
   "note_top10": [
     {
-      "title": "ホットペッパービューティーでネイルを予約したが、予約時間に担当者がおらず、知らな",
+      "title": "「何入ってんのこれ？？？？」エグい乗り物酔いをする人でも平気になる市販薬『アネロ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "敗北現職「SNS中傷が野放し」　玉城デニー氏陣営、告訴を準備",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "会社の大先輩を新居に招くことになったが「焼肉をやろう！」の一点張り→断ったのに、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "何個もミス食らわせて絶対嫌われてると思ってた仕事相手が、陰で私のことを「レスが早",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ブスが着てごめんね♡と思いました」とあるブランドの服を買い、インスタでタグ付け",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "やってはいけないのは大前提として、ボーナスを支給すると税金がかかるので、頑張って",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『日本人の言う「中国人の喋り方はなんか怖い」の理由の95%が「啊」ではないか？』",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ヤクルトが元キャバ嬢&インフルエンサーの始球式イベントを中止に「夜の仕事をタレン",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "沖縄県庁の「辺野古課」廃止へ　新知事の古謝氏",
+      "title": "プロレスが日本でここまで人気なくなった理由を教えてくれ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "いい加減はてなで男女論とかジェンダー論をゾーニングしてほしい",
+      "title": "非常用トイレだけで5日間生活したらどうなる？ ゴミ・臭い・ストレスを徹底検証 |",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ご厚意でポケモンカードを沢山頂き、中学生以下のお子様達に3枚まで無料配布したら、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "これは本質情報ですが、日本語をちょっと勉強し始めたイタリア人に、Onigiriは",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "新潟旅行の前に夫が子どもたちにSwitchは持参しない理由を説明…新幹線や旅館な",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "東京生まれの彼氏が憎くて憎くてたまらないマジで死んでほしい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "スカジャンの背中の刺繍を手縫いする",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "【新作】『アイドルマスター SideM』家庭用ゲームは“315パッションコンテン",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「めちゃくちゃ立派」沖縄知事選で落選した玉城デニー氏が支持者に向かって沖縄舞踊を",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
