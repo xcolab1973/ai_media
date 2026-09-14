@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T08:29:00+09:00",
+  "generated_at": "2026-09-14T16:07:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,88 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 10,
-    "passed_total": 113,
+    "neg_excluded": 8,
+    "dedup_excluded": 8,
+    "passed_total": 116,
     "b2b_category_counts": {
+      "yahoo_realtime": 39,
       "x_realtime": 7,
-      "news_web": 17,
-      "yahoo_realtime": 34,
+      "news_web": 11,
       "google_trends": 10,
-      "yahoo_news_ranking": 2
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 24,
+    "personal_story": 9,
+    "social_reaction": 27,
+    "policy": 4,
     "opinion": 10,
-    "personal_story": 1,
-    "hard_fact": 22,
-    "policy": 13
+    "hard_fact": 17,
+    "medical_science": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 24,
-    "hard_fact": 22,
+    "social_reaction": 27,
+    "hard_fact": 17,
+    "policy": 5,
+    "personal_story": 9,
     "opinion": 10,
-    "policy": 13,
-    "personal_story": 1
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "ご厚意でポケモンカードを沢山頂き、中学生以下のお子様達に3枚まで無料配布したら、",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "いい加減はてなで男女論とかジェンダー論をゾーニングしてほしい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本海側 激しい雨や落雷に注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
+      "title": "ゲームフリーク完全新作ゲーム『雨のちハレ女』いきなり発表！基本無料でモバイル向け",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
     },
     {
-      "title": "先史時代の狩猟採集民、人類最古の薬物使用で「悪循環」に陥っていた可能性　新研究",
+      "title": "日本の中高生で、女子の自殺が男子を上回ったという謎（週刊プレイボーイ連載696）",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "ホットペッパービューティーでネイルを予約したが、予約時間に担当者がおらず、知らな",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "ご厚意でポケモンカードを沢山頂き、中学生以下のお子様達に3枚まで無料配布したら、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "エンドロール中の離席、おしゃべり、ポップコーンの音…どこまで許せる？ 白熱する映",
+      "title": "沖縄県庁の「辺野古課」廃止へ　新知事の古謝氏",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "広島 天気",
+      "title": "東北や北陸 土砂災害や浸水に注意",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "今井春花",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "金獅子賞 受賞の日本人監督は",
+      "title": "ミャクミャク",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "金獅子賞",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "社長「おまえゲーセンいくやんな」わい「はい」社長「給料の一部、コインにしといたで",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "郵便局から電話があり、荷物の預かり期限が迫っているとのこと…名前を聞かれたので、",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "コストコセール",
+      "title": "佐川",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,63 +107,63 @@
   ],
   "note_top10": [
     {
+      "title": "ホットペッパービューティーでネイルを予約したが、予約時間に担当者がおらず、知らな",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "沖縄県庁の「辺野古課」廃止へ　新知事の古謝氏",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "いい加減はてなで男女論とかジェンダー論をゾーニングしてほしい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "ご厚意でポケモンカードを沢山頂き、中学生以下のお子様達に3枚まで無料配布したら、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "これは本質情報ですが、日本語をちょっと勉強し始めたイタリア人に、Onigiriは",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "新潟旅行の前に夫が子どもたちにSwitchは持参しない理由を説明…新幹線や旅館な",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東京生まれの彼氏が憎くて憎くてたまらないマジで死んでほしい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "スカジャンの背中の刺繍を手縫いする",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "【新作】『アイドルマスター SideM』家庭用ゲームは“315パッションコンテン",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「めちゃくちゃ立派」沖縄知事選で落選した玉城デニー氏が支持者に向かって沖縄舞踊を",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "先史時代の狩猟採集民、人類最古の薬物使用で「悪循環」に陥っていた可能性　新研究",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "エンドロール中の離席、おしゃべり、ポップコーンの音…どこまで許せる？ 白熱する映",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "社長「おまえゲーセンいくやんな」わい「はい」社長「給料の一部、コインにしといたで",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "郵便局から電話があり、荷物の預かり期限が迫っているとのこと…名前を聞かれたので、",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "彼氏が「5、60歳あたりで地元に戻らないといけない」「そうなったらついてくる？」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "広島 天気",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "金獅子賞 受賞の日本人監督は",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "金獅子賞",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ほとんどの男がマトモなせいで男女論が終わらない",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
