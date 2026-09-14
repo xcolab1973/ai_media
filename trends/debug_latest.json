@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T23:25:00+09:00",
+  "generated_at": "2026-09-15T03:13:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,41 +7,39 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 13,
-    "passed_total": 110,
+    "neg_excluded": 10,
+    "dedup_excluded": 12,
+    "passed_total": 100,
     "b2b_category_counts": {
-      "yahoo_realtime": 38,
+      "yahoo_realtime": 27,
+      "x_realtime": 5,
       "google_trends": 10,
-      "yahoo_news_ranking": 6,
-      "x_realtime": 4,
-      "news_web": 12
+      "yahoo_news_ranking": 7,
+      "news_web": 21
     }
   },
   "note_category_counts": {
-    "social_reaction": 23,
-    "personal_story": 5,
+    "social_reaction": 18,
     "opinion": 10,
-    "policy": 4,
-    "hard_fact": 25,
-    "medical_science": 3
+    "policy": 5,
+    "hard_fact": 36,
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 23,
-    "hard_fact": 25,
-    "policy": 4,
+    "social_reaction": 18,
+    "hard_fact": 36,
+    "policy": 5,
     "opinion": 10,
-    "medical_science": 3,
-    "personal_story": 5
+    "medical_science": 1
   },
   "b2b_top10": [
     {
@@ -51,10 +49,10 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "“自動で耳コピ”アプリ、ヤマハが無料公開　音源読み込み→3分でピアノ譜に",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "title": "「子供のものを自分の評価に使うなよ」夫が職場の女性にちいかわのめじるしアクセサリ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
       "title": "敗北現職「SNS中傷が野放し」　玉城デニー氏陣営、告訴を準備",
@@ -69,43 +67,49 @@
       "topic_category": "hard_fact"
     },
     {
+      "title": "千葉豪雨“屋外での移動危険”避難所開設しない判断の自治体も | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
       "title": "日本の中高生で、女子の自殺が男子を上回ったという謎（週刊プレイボーイ連載696）",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
+      "title": "ファミマ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "steam frame",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "広島 警報",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
       "title": "会社の大先輩を新居に招くことになったが「焼肉をやろう！」の一点張り→断ったのに、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "マツコデラックス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ダルベック",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "あいのり",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "観客",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ],
   "note_top10": [
+    {
+      "title": "「子供のものを自分の評価に使うなよ」夫が職場の女性にちいかわのめじるしアクセサリ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "「何入ってんのこれ？？？？」エグい乗り物酔いをする人でも平気になる市販薬『アネロ",
       "source_category": "yahoo_realtime",
@@ -125,43 +129,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "何個もミス食らわせて絶対嫌われてると思ってた仕事相手が、陰で私のことを「レスが早",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "「ブスが着てごめんね♡と思いました」とあるブランドの服を買い、インスタでタグ付け",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "やってはいけないのは大前提として、ボーナスを支給すると税金がかかるので、頑張って",
+      "title": "「優しさが細やかすぎる」電車でおっちゃんに話しかけられ驚くも「寝てる女の子がスマ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『日本人の言う「中国人の喋り方はなんか怖い」の理由の95%が「啊」ではないか？』",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ヤクルトが元キャバ嬢&インフルエンサーの始球式イベントを中止に「夜の仕事をタレン",
+      "title": "最近少年院に入る子供が増えつつある中、様々な要因が指摘されるが「昔は許されたこと",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "プロレスが日本でここまで人気なくなった理由を教えてくれ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "映画「ちいかわ」特典第5弾「ひみつ本」に収録されてる内容が気になりすぎる…「ヒト",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "非常用トイレだけで5日間生活したらどうなる？ ゴミ・臭い・ストレスを徹底検証 |",
+      "title": "ファミマ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "パナソニックDIGAがテレビ録画のクラウド保存をサポート：MYUTA判決とは何だ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
