@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T15:43:00+09:00",
+  "generated_at": "2026-09-15T21:54:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,57 +16,61 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 10,
+    "neg_excluded": 7,
+    "dedup_excluded": 11,
     "passed_total": 114,
     "b2b_category_counts": {
+      "yahoo_realtime": 38,
       "x_realtime": 7,
-      "yahoo_realtime": 36,
       "google_trends": 10,
-      "yahoo_news_ranking": 4,
-      "news_web": 13
+      "news_web": 11,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
     "social_reaction": 36,
     "opinion": 10,
     "personal_story": 1,
-    "hard_fact": 18,
-    "medical_science": 1,
-    "policy": 4
+    "hard_fact": 20,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
-    "hard_fact": 21,
+    "social_reaction": 36,
     "opinion": 10,
-    "personal_story": 1,
-    "policy": 4,
-    "medical_science": 1
+    "hard_fact": 20,
+    "policy": 3,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "「オムツを捨てるゴミ箱は蓋無しのフルオープンの方が匂わない説」同じこと思ってた！",
+      "title": "メルカリ、9月16日より「ポケモンカードゲーム 30th CELEBRATION",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "20歳以下からはお金を取らないという、おばあちゃんがやってる大阪のお惣菜屋。近所",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "Netflixとセガが提携、名作ゲームを続々映像化へ　第1弾は「クレイジータクシ",
+      "title": "僕の心のヤバイやつ【最新話無料】・Karte.199 僕の心のヤバイやつ | チ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "予測",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "ヒットの規模は大きくなったのに、「みんなが知っている話題作」は少なくなった？──",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "鉄道廃線の代替バス低迷 廃止意向",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
+      "title": "[第64話] スライム聖女 - 八緒あいら/午子 | となりのヤングジャンプ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "インスタントラーメンに肉類を足したい場合何を入れるのが正解か",
@@ -75,41 +79,59 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "手作りで細々とやってた保育園のバザー、経営者ママがクオリティを引き上げ、何もかも",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "グローバルホーク",
+      "title": "ファイターズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "豊島逸夫",
+      "title": "グランドシネマサンシャイン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "金曜夜、元気がない6歳娘に「何か不安なことある？」と聞いたら泣き出した…保育園で",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "16日にかけ雨強まる 冠水など注意",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "御嶽海",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "G戸郷が大炎上 9失点で2回KO",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
     {
-      "title": "「オムツを捨てるゴミ箱は蓋無しのフルオープンの方が匂わない説」同じこと思ってた！",
+      "title": "メルカリ、9月16日より「ポケモンカードゲーム 30th CELEBRATION",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "20歳以下からはお金を取らないという、おばあちゃんがやってる大阪のお惣菜屋。近所",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "僕の心のヤバイやつ【最新話無料】・Karte.199 僕の心のヤバイやつ | チ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ヒットの規模は大きくなったのに、「みんなが知っている話題作」は少なくなった？──",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "[第64話] スライム聖女 - 八緒あいら/午子 | となりのヤングジャンプ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -119,49 +141,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "手作りで細々とやってた保育園のバザー、経営者ママがクオリティを引き上げ、何もかも",
+      "title": "食べ物写真が苦手",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "金曜夜、元気がない6歳娘に「何か不安なことある？」と聞いたら泣き出した…保育園で",
+      "title": "東京に住む大学生の息子が留学したので、掃除をしようと下宿先に行ったら、部屋着姿の",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "女性声優少年を男性声優に置き換えていく現代の流れマジで誰向けなんだ…→物議を醸す",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "卒婚って男性側から切り出しても良いんだろうか",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "沖縄県知事選。自分の中で壊れたもの、喪失したもの。｜トカ太郎",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "予測",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "史上最強「スーパーエルニーニョ」発生、世界の気象は未知の領域に",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "服装自由・サンダルOKの職場でお気に入りの服を職場の人に褒めてもらえて嬉しかった",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "元気がなかった山形のローカルスーパー「エンドー」が、げそ天とデザインの力で全国か",
+      "title": "うちの夫はどんどん先に歩いて行ってしまう人で、子供が生まれても変わらなかったので",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
