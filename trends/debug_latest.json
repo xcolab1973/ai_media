@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T08:58:00+09:00",
+  "generated_at": "2026-09-15T15:43:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,88 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 13,
-    "dedup_excluded": 5,
+    "neg_excluded": 8,
+    "dedup_excluded": 10,
     "passed_total": 114,
     "b2b_category_counts": {
-      "x_realtime": 10,
+      "x_realtime": 7,
+      "yahoo_realtime": 36,
       "google_trends": 10,
-      "news_web": 11,
-      "yahoo_realtime": 34,
-      "yahoo_news_ranking": 5
+      "yahoo_news_ranking": 4,
+      "news_web": 13
     }
   },
   "note_category_counts": {
-    "social_reaction": 31,
+    "social_reaction": 36,
     "opinion": 10,
-    "personal_story": 3,
-    "hard_fact": 19,
-    "policy": 7
+    "personal_story": 1,
+    "hard_fact": 18,
+    "medical_science": 1,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
-    "opinion": 10,
+    "social_reaction": 33,
     "hard_fact": 21,
-    "policy": 6,
-    "personal_story": 3
+    "opinion": 10,
+    "personal_story": 1,
+    "policy": 4,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "「子供のものを自分の評価に使うなよ」夫が職場の女性にちいかわのめじるしアクセサリ",
+      "title": "「オムツを捨てるゴミ箱は蓋無しのフルオープンの方が匂わない説」同じこと思ってた！",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "バーミヤン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "広い範囲で雷雨に注意 15日の天気",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "“自動で耳コピ”アプリ、ヤマハが無料公開　音源読み込み→3分でピアノ譜に",
+      "title": "Netflixとセガが提携、名作ゲームを続々映像化へ　第1弾は「クレイジータクシ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
     },
     {
-      "title": "敗北現職「SNS中傷が野放し」　玉城デニー氏陣営、告訴を準備",
+      "title": "予測",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "鉄道廃線の代替バス低迷 廃止意向",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "インスタントラーメンに肉類を足したい場合何を入れるのが正解か",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "江崎グリコ",
+      "title": "手作りで細々とやってた保育園のバザー、経営者ママがクオリティを引き上げ、何もかも",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "グローバルホーク",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "深津英臣",
+      "title": "豊島逸夫",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "「日本の不良漫画に登場する不良は、NYCならただの普通の人に見える」という海外の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "金曜夜、元気がない6歳娘に「何か不安なことある？」と聞いたら泣き出した…保育園で",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "賃貸の退去で意味の分からない請求をされたのでClaudeに「法的にギリギリ訴えら",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "岡山 警報",
+      "title": "御嶽海",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,63 +107,63 @@
   ],
   "note_top10": [
     {
-      "title": "「子供のものを自分の評価に使うなよ」夫が職場の女性にちいかわのめじるしアクセサリ",
+      "title": "「オムツを捨てるゴミ箱は蓋無しのフルオープンの方が匂わない説」同じこと思ってた！",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "敗北現職「SNS中傷が野放し」　玉城デニー氏陣営、告訴を準備",
+      "title": "インスタントラーメンに肉類を足したい場合何を入れるのが正解か",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "コンビニでタバコを吸っていたら謎の中国人が唐突にタバコをくれた…なんかそういう文",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「日本の不良漫画に登場する不良は、NYCならただの普通の人に見える」という海外の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "おバカパーツで 馬改造 第14馬｜PLAYTECH PEP-4で『漢の1ハム』と",
+      "title": "手作りで細々とやってた保育園のバザー、経営者ママがクオリティを引き上げ、何もかも",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "実家に脇差と十字槍の槍先があり、実家を取り壊した時に移動…登録のために警察に来て",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「国保逃れ」計1万1千人超、45事業所で疑い　厚労省が調査：朝日新聞",
+      "title": "金曜夜、元気がない6歳娘に「何か不安なことある？」と聞いたら泣き出した…保育園で",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "バーミヤン",
+      "title": "卒婚って男性側から切り出しても良いんだろうか",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "沖縄県知事選。自分の中で壊れたもの、喪失したもの。｜トカ太郎",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "予測",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "賃貸の退去で意味の分からない請求をされたのでClaudeに「法的にギリギリ訴えら",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "史上最強「スーパーエルニーニョ」発生、世界の気象は未知の領域に",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "リマスター版「トルネコの大冒険」が不具合満載…「テキストの改行のおかしさ」「ラグ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "服装自由・サンダルOKの職場でお気に入りの服を職場の人に褒めてもらえて嬉しかった",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "元気がなかった山形のローカルスーパー「エンドー」が、げそ天とデザインの力で全国か",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
