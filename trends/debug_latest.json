@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T02:19:00+09:00",
+  "generated_at": "2026-09-16T08:41:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,31 +17,39 @@
       "x_realtime": 10
     },
     "neg_excluded": 10,
-    "dedup_excluded": 13,
-    "passed_total": 109,
+    "dedup_excluded": 11,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
       "x_realtime": 7,
+      "yahoo_realtime": 34,
       "google_trends": 10,
-      "news_web": 14,
-      "yahoo_news_ranking": 6
+      "news_web": 16,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "opinion": 10,
-    "personal_story": 1,
-    "hard_fact": 25,
-    "policy": 4
+    "social_reaction": 34,
+    "analysis": 1,
+    "opinion": 9,
+    "personal_story": 3,
+    "hard_fact": 21,
+    "policy": 2
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
-    "opinion": 10,
-    "hard_fact": 25,
-    "policy": 4,
-    "personal_story": 1
+    "social_reaction": 34,
+    "opinion": 9,
+    "analysis": 1,
+    "hard_fact": 21,
+    "policy": 2,
+    "personal_story": 3
   },
   "b2b_top10": [
+    {
+      "title": "きんぎょ注意報！がYouTubeで全話公開→最終回の日に父が外食に行くと言い出し",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "欠勤したら朝礼で「急なお休みをいただき、ご迷惑をおかけしました」と謝るように注意",
       "source_category": "yahoo_realtime",
@@ -49,117 +57,111 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "20歳以下からはお金を取らないという、おばあちゃんがやってる大阪のお惣菜屋。近所",
+      "title": "バイブコーディングで GUI が壊れていく理由とその対策プロンプト",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "[179話]マリッジトキシン - 静脈/依田瑞稀 | 少年ジャンプ＋",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "メルカリ、9月16日より「ポケモンカードゲーム 30th CELEBRATION",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ポスト主の作品がヤフオクに出品されており、展示会の時に盗まれたらしく、「どうする",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "食べ物写真が苦手",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "上坂すみれに対する脅迫行為への対応について | VOICE KIT",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "オールナイトニッポン",
+      "title": "フレディ・フリーマン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "アル・アイン 対 アル・ナスル",
+      "title": "スンスン ガイドブック",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "apex",
+      "title": "一気見",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "2026年アジア競技大会におけるサッカー競技・男子",
+      "title": "アジア大会サッカー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
-    },
-    {
-      "title": "うちの夫はどんどん先に歩いて行ってしまう人で、子供が生まれても変わらなかったので",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日本料理界の大ボス「自分のために料理を作るやつが多すぎる」→「俺の料理食べられへ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
+      "title": "きんぎょ注意報！がYouTubeで全話公開→最終回の日に父が外食に行くと言い出し",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "欠勤したら朝礼で「急なお休みをいただき、ご迷惑をおかけしました」と謝るように注意",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "20歳以下からはお金を取らないという、おばあちゃんがやってる大阪のお惣菜屋。近所",
+      "title": "バイブコーディングで GUI が壊れていく理由とその対策プロンプト",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "[179話]マリッジトキシン - 静脈/依田瑞稀 | 少年ジャンプ＋",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "メルカリ、9月16日より「ポケモンカードゲーム 30th CELEBRATION",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ポスト主の作品がヤフオクに出品されており、展示会の時に盗まれたらしく、「どうする",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "食べ物写真が苦手",
+      "title": "友達2人とランチする予定だったのに、なぜか1人の子どもがぐずったらしく幼稚園を休",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "上坂すみれに対する脅迫行為への対応について | VOICE KIT",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "ドイツ鉄道で予約した席が14号車なのに来た電車が10両編成みたいなことはザラ…窓",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "基準地価とは",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "analysis"
     },
     {
       "title": "うちの夫はどんどん先に歩いて行ってしまう人で、子供が生まれても変わらなかったので",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日本料理界の大ボス「自分のために料理を作るやつが多すぎる」→「俺の料理食べられへ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "犬のことが大好きなうちのサビ猫が、ガン見したり頭突きしたりめり込んだりして犬を困",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "東京に住む大学生の息子が留学したので、掃除をしようと下宿先に行ったら、部屋着姿の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "家を片付けてたら「2001年12月に返却期限のTSUTAYAのレンタル袋」が出て",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "露の侵攻は「蛮行」　森衆院議長がウクライナ議会で異例の演説　原発被災の「共通点」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
