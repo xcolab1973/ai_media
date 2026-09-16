@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-09-16T21:46:21+0900",
+    "generated_at": "2026-09-17T08:45:41+0900",
     "record_count": 34,
-    "source_total_in_db": 1206,
+    "source_total_in_db": 1207,
     "provenance_breakdown": {
       "evidence": 781,
-      "pain_seed": 425
+      "pain_seed": 426
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_c24ac4410f5e",
+      "trend_term": "ボトックス注射の選び方",
+      "raw_title": "岐阜県でボトックス注射をするなら？ 口コミで評判の良いおすすめクリニック5選 - TOKYO HEADLINE",
+      "summary": "岐阜県でボトックス注射の施術を受ける際のクリニック選定に関する口コミ・評判情報。患者の医院選択の実際の悩みが反映されている。",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94dUs2Zk04RkhOV050cTAzNEp0dEdJcnVxajhwRE9NWmhUanl0R0VOckxNQktFNksxNjhid2dmdC1iMkZIRGJrc0RhbGhOcEFZZXVQNEVrX05XZ04xUTl4NG5mZzBiTVVyeUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94dUs2Zk04RkhOV050cTAzNEp0dEdJcnVxajhwRE9NWmhUanl0R0VOckxNQktFNksxNjhid2dmdC1iMkZIRGJrc0RhbGhOcEFZZXVQNEVrX05XZ04xUTl4NG5mZzBiTVVyeUE?oc=5",
+      "source_name": "TOKYO HEADLINE",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-01T08:45:21+0900",
+      "status": "candidate",
+      "created_at": "2026-09-17T08:45:21+0900"
+    },
     {
       "seed_id": "seed_21c88832dc95",
       "trend_term": "美容クリニック経営戦略",
@@ -353,24 +371,6 @@
       "valid_until": "2026-09-20T16:57:46+0900",
       "status": "candidate",
       "created_at": "2026-09-15T16:57:46+0900"
-    },
-    {
-      "seed_id": "seed_3bb9cb061328",
-      "trend_term": "ECM構造修復",
-      "raw_title": "[KWレポート] 韓国・皮膚回春の新潮流・ECM(上)…「ボリューム補充」から「構造修復」へ - news.infoseek.co.jp",
-      "summary": "韓国で皮膚回春技術がボリューム補充から構造修復へシフト。ECMに関する新潮流が報道される。",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KOVhBWGk1bno2WGp0N2ViN1RzTjFDdUNGSUlzdVM3dTB6LTF3MHg3SjduYThmazMzMWRaWEh2MkdUVWNoUnVqWGtLdllLS2h0RkpqdW9jUzRNM1prU2ZJQWk1VVjSAWpBVV95cUxOWGNQazEybF9wZ0hKOTZvNnZDQ0U4OXo2bFQ5ak1qV1VNcTV2c3k4VUJxTFczNWtweTFZNGlzT19UenJTYjJqWnlLSWZ1ZUl2QUJHblJrOTRGMDZBdVlvQmxVak45OFpub2Fn?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KOVhBWGk1bno2WGp0N2ViN1RzTjFDdUNGSUlzdVM3dTB6LTF3MHg3SjduYThmazMzMWRaWEh2MkdUVWNoUnVqWGtLdllLS2h0RkpqdW9jUzRNM1prU2ZJQWk1VVjSAWpBVV95cUxOWGNQazEybF9wZ0hKOTZvNnZDQ0U4OXo2bFQ5ak1qV1VNcTV2c3k4VUJxTFczNWtweTFZNGlzT19UenJTYjJqWnlLSWZ1ZUl2QUJHblJrOTRGMDZBdVlvQmxVak45OFpub2Fn?oc=5",
-      "source_name": "news.infoseek.co.jp",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-20T16:57:42+0900",
-      "status": "candidate",
-      "created_at": "2026-09-15T16:57:42+0900"
     },
     {
       "seed_id": "seed_78e5a95a2d15",
