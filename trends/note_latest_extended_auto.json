@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-15T05:31:17+09:00",
- "valid_until": "2026-09-27T06:34:41+09:00",
+ "generated_at": "2026-09-16T16:50:35+09:00",
+ "valid_until": "2026-09-29T08:33:41+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "auto",
   "from_current": 16,
-  "from_new": 2,
-  "expired_pruned": 0,
-  "retention_dropped": 2,
+  "from_new": 1,
+  "expired_pruned": 1,
+  "retention_dropped": 0,
   "genres": 2,
   "retention_per_genre": 8
  },
@@ -258,6 +258,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "バイク保管 - 雪国のバイク乗りの方に？です。皆さん積雪のある時期はどうや...",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1211135927",
+   "summary": "積雪地でのバイク冬季保管方法を尋ねるQ&A。バッテリー上がりや燃料タンクの錆びなど、再始動時につまずくポイントが実体験ベースで語られている。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "auto-bike",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "バイク 冬 保管 失敗 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-29T08:33:41+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "125cc新基準原付の登場で50cc原チャリはどうなる?",
    "url": "https://jafmate.jp/car/traffic_topics_20260529_1199202.html",
    "summary": "新基準原付（125cc以下・出力4kW制限、2025年4月導入）は2026年現在移行期。新車価格が従来50ccの約1.5〜2倍に高騰する一方、軽自動車税年2000円や自賠責区分など維持費は50cc同等のまま据え置き。",
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-17T06:35:43+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "バイクの台風対策に、一速にいれる、メンテナンススタンドで反対側を支える。これだけで結構耐えられますか?",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11302512296",
-   "summary": "台風対策として1速に入れる・スタンドで支えるだけで十分か不安を訴える質問。通勤で毎日使うバイクをどう守ればいいか分からないという生の不安が角度の種になる。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "auto-bike",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "バイク 台風 通勤 転倒 知恵袋 質問",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-15T07:18:15+09:00",
    "validity_days": 14
   }
  ]
