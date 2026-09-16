@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T02:18:00+09:00",
+  "generated_at": "2026-09-17T08:49:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,43 +7,49 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 110,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 18,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 7,
-    "passed_total": 96,
+    "neg_excluded": 12,
+    "dedup_excluded": 10,
+    "passed_total": 110,
     "b2b_category_counts": {
-      "x_realtime": 10,
-      "yahoo_realtime": 15,
+      "yahoo_realtime": 32,
+      "x_realtime": 7,
       "google_trends": 10,
-      "yahoo_news_ranking": 6,
-      "news_web": 29
+      "news_web": 14,
+      "yahoo_news_ranking": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 18,
-    "medical_science": 3,
+    "social_reaction": 24,
     "opinion": 10,
-    "personal_story": 1,
-    "hard_fact": 37,
-    "policy": 1
+    "personal_story": 2,
+    "hard_fact": 23,
+    "policy": 6,
+    "medical_science": 5
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 18,
-    "medical_science": 3,
+    "hard_fact": 23,
+    "social_reaction": 24,
+    "policy": 6,
     "opinion": 10,
-    "policy": 2,
-    "hard_fact": 36,
-    "personal_story": 1
+    "personal_story": 2,
+    "medical_science": 5
   },
   "b2b_top10": [
+    {
+      "title": "高尾山中腹の登山道にツキノワグマ出没　シルバーウイーク直前で注意喚起、東京・八王",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
     {
       "title": "「無事に1週間経過しました」堀大輔の一週間ライブが終了…「成功したみたいになって",
       "source_category": "x_realtime",
@@ -51,58 +57,52 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "堀大輔氏「体力はあり余っている」1日30分睡眠の1週間ライブ終了",
+      "title": "値上げしても客が離れない｢日本路線｣を自ら手放した…中国航空3社が2000億円赤",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "サンドウィッチマン富澤に危険な兆候か 健康特番で警告され絶句",
+      "title": "人口350人の村、独身成人男性の難民申請者1200人超収容計画めぐり住民投票 女",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "medical_science"
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
     },
     {
-      "title": "香川県で高校生40人超が食中毒 寮の食事からウエルシュ菌が検出",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "立憲民主党",
+      "title": "シンクロナイズドスイミング",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "高校教師",
+      "title": "スネル",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "山本裕典",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ヤフー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "japan earthquake",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "何故か電車内にブラジャーが落ちており、近くにいた地方から出張したと思われるお兄さ",
+      "title": "「勝手に登記簿見て基地局設置しようってどういう用件だい？」楽天モバイルからの提案",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "応援上映",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "投げ銭",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "能登半島",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
@@ -113,58 +113,58 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "堀大輔氏「体力はあり余っている」1日30分睡眠の1週間ライブ終了",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "香川県で高校生40人超が食中毒 寮の食事からウエルシュ菌が検出",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "サンドウィッチマン富澤に危険な兆候か 健康特番で警告され絶句",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "何故か電車内にブラジャーが落ちており、近くにいた地方から出張したと思われるお兄さ",
+      "title": "「勝手に登記簿見て基地局設置しようってどういう用件だい？」楽天モバイルからの提案",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "平成に登場→令和に人気再燃した「家庭科のドラゴン」が小説化 SNS大反響",
+      "title": "値上げしても客が離れない｢日本路線｣を自ら手放した…中国航空3社が2000億円赤",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ポケモンカードが「高校生以下限定」「子どもの帰宅後に販売」異例対応",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "漫画『呪術廻戦』と牛角の5周年コラボグッズを入手した人が開封された跡を見つけたこ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "高校を卒業し就職した19歳の社員が転落死 カバンから発見された遺書からは「仕事で",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "何故か電車内にブラジャーが落ちており、近くにいた地方から出張したと思われるお兄さ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ひとり時間でアパホテルにいた時、知らない番号から電話「ゴミ捨ての時に子供が玄関の",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "社内のSlackの研修を担当している者がテキストコミュニケーションの性質として「",
+      "title": "リムレスメガネを買ったんだけど、目が悪すぎてリムレスについてるレンズの厚みとは思",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "タイで働いて一番衝撃を受けたのは、2日連続で無断欠勤した人が3日目に普通の顔して",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "電車中心の生活だと、クルマの自由ってクルマで行けるとこにしか及ばない感じがする",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "シンクロナイズドスイミング",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
