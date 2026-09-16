@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T16:50:36+09:00",
+ "generated_at": "2026-09-17T06:40:09+09:00",
  "valid_until": "2026-09-30T16:44:46+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -8,9 +8,9 @@
  "total_count": 34,
  "merge": {
   "parent": "money",
-  "from_current": 37,
-  "from_new": 8,
-  "expired_pruned": 11,
+  "from_current": 34,
+  "from_new": 1,
+  "expired_pruned": 1,
   "retention_dropped": 0,
   "genres": 8,
   "retention_per_genre": 8
@@ -195,6 +195,36 @@
    },
    "valid_until": "2026-09-26T16:46:20+09:00",
    "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "相続税対策に激震！貸付不動産の評価改正「5年ルール」を徹底解説",
+   "url": "https://tax.prime-partners.co.jp/%E7%9B%B8%E7%B6%9A%E7%A8%8E%E5%AF%BE%E7%AD%96%E3%81%AB%E6%BF%80%E9%9C%87%EF%BC%81%E8%B2%B8%E4%BB%98%E4%B8%8D%E5%8B%95%E7%94%A3%E3%81%AE%E8%A9%95%E4%BE%A1%E6%94%B9%E6%AD%A3%E3%80%8C5%E5%B9%B4%E3%83%AB/",
+   "summary": "相続開始前5年以内に取得・新築した貸付用不動産は、令和9年1月以後の相続から原則「通常の取引価額」での評価となり、従来の「貸付事業用宅地の減額」等による節税スキームが事実上使えなくなる点を税理士法人が解説。不動産投資による相続対策を検討する読者に影響が大きい。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "hard_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "money-realestate-invest",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "相続税のPrime（税理士法人）",
+    "expert_origin": true,
+    "search_query": "貸付用不動産 相続税評価 見直し 5年以内取得 節税スキーム 使えない",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-24T06:35:36+09:00",
+   "validity_days": 7
   },
   {
    "source_category": "news_web",
@@ -914,36 +944,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-17T16:46:20+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "仮想通貨の税金が払えないとどうなる？もしものときにできること２つ",
-   "url": "https://www.cryptact.com/blog/unable_to_pay_cryptotax",
-   "summary": "暗号資産の税金を一括納付できない場合、納税猶予の申請で最大1年間差し押さえを猶予できる制度がある。海外取引所の情報も租税条約で共有されるため無申告はほぼ発覚するとの指摘。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "money-crypto",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "cryptact（暗号資産税務ツール）",
-    "expert_origin": true,
-    "search_query": "仮想通貨 税金 払えない 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-17T06:38:59+09:00",
    "validity_days": 5
   },
   {

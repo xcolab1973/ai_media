@@ -1,21 +1,51 @@
 {
- "generated_at": "2026-09-13T06:45:09+09:00",
+ "generated_at": "2026-09-17T06:40:09+09:00",
  "valid_until": "2026-09-25T17:03:44+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "travel",
- "total_count": 16,
+ "total_count": 15,
  "merge": {
   "parent": "travel",
-  "from_current": 14,
-  "from_new": 2,
-  "expired_pruned": 0,
+  "from_current": 16,
+  "from_new": 1,
+  "expired_pruned": 1,
   "retention_dropped": 0,
   "genres": 2,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "ANA燃油サーチャージが9月発券分から引き下げ——欧米片道55,000円、JALは50,000円。往復で2万円安くなる",
+   "url": "https://teamelite.jp/travel/ana-fuel-surcharge-2026-september-october-cut/",
+   "summary": "ANA・JALが2026年9月1日～10月31日発券分の国際線燃油サーチャージを引き下げ。欧米路線でJALは片道約15,000円、ANAは約10,000円下がり、往復で最大2万~3万円の節約になる。ポイントは旅行日ではなく『発券日』が対象期間内かどうかで、11月以降分は未定のため年末年始旅行者は続報を待つ必要がある。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "hard_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "travel-abroad",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "TE travel（teamelite.jp）",
+    "expert_origin": true,
+    "search_query": "ANA JAL 燃油サーチャージ 引き下げ 2026年9月 海外旅行 予約 タイミング",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-24T06:38:16+09:00",
+   "validity_days": 7
+  },
   {
    "source_category": "news_web",
    "raw_title": "ESTA等の申請代行サイトに関する相談が増加しています",
@@ -74,36 +104,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-20T06:43:25+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "ANA・JALの燃油サーチャージが9月発券分から引き下げ——欧米片道55,000円、JALは50,000円。往復で2万円安くなる",
-   "url": "https://teamelite.jp/travel/ana-fuel-surcharge-2026-september-october-cut/",
-   "summary": "ANA/JALが2026年9〜10月発券分の国際線燃油サーチャージを引き下げ。欧州・北米（ハワイ除く）方面は片道55,000円（ANA）、JALは片道5万円。搭乗日でなく発券日基準で適用されるため、8月中に発券済みの航空券は旧額のままになる点に注意。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "hard_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "travel-abroad",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "TE travel (teamelite.jp)",
-    "expert_origin": false,
-    "search_query": "燃油サーチャージ 引き下げ 2026年9月 ANA JAL 海外航空券 予約タイミング",
-    "freshness": "fresh",
-    "integrity_warning": "claim_hard_but_source_not_expert: 出版前に一次情報で裏取り必須",
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-19T06:38:54+09:00",
    "validity_days": 7
   },
   {
@@ -224,36 +224,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-17T06:40:26+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "秋の最大9連休、旅費が安くなる穴場はどこ？ 2026年シルバーウィークに行きたい国内外の宿泊費大幅下落ランキング＆混雑回避の裏ワザ！",
-   "url": "https://tetsudo-ch.com/13036068.html",
-   "summary": "2026年秋のシルバーウィークは最大9連休となる見込みで、宿泊費が下がる『穴場』の国内外の行き先や混雑回避の工夫が紹介されている。円安が続く中、海外旅行では物価の安い渡航先選びが費用を左右する。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "travel-abroad",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "旅とおでかけ 鉄道チャンネル",
-    "expert_origin": true,
-    "search_query": "秋 連休 海外旅行 円安 予算 2026",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-16T06:45:04+09:00",
    "validity_days": 7
   },
   {

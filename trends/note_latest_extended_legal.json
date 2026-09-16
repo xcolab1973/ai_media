@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-16T16:50:35+09:00",
- "valid_until": "2026-09-23T16:43:48+09:00",
+ "generated_at": "2026-09-17T06:40:09+09:00",
+ "valid_until": "2026-09-24T06:34:32+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -8,14 +8,44 @@
  "total_count": 22,
  "merge": {
   "parent": "legal",
-  "from_current": 26,
-  "from_new": 3,
-  "expired_pruned": 7,
+  "from_current": 22,
+  "from_new": 1,
+  "expired_pruned": 1,
   "retention_dropped": 0,
   "genres": 5,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "「解約できない」はダークパターン？悪質UIの事例7選と対策を解説",
+   "url": "https://webtan.impress.co.jp/e/2026/09/15/53277",
+   "summary": "2026年9月15日公開。消費者庁が国内通販サイトの7割にダークパターン該当UIがあると指摘し規制強化へ。1回限定に見せかけた定期購入や解約ページを見つけにくくする手口など悪質UI事例7選と、消費者が被害を避けるための見分け方を解説。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "legal-consumer",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Web担当者Forum",
+    "expert_origin": true,
+    "search_query": "ネット通販 定期購入 解約できない ダークパターン 消費者庁 規制 2026",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-24T06:34:32+09:00",
+   "validity_days": 7
+  },
   {
    "source_category": "news_web",
    "raw_title": "本当に困っています。対処法を教えてください。副業詐欺にあいました。",
@@ -164,36 +194,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-18T06:40:13+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "サブスクの解約はどうしてあんなに分かりにくいのでしょうか？",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11285258166",
-   "summary": "サブスクの解約手続きが意図的に分かりにくく作られていると感じる読者の生の疑問。解約を思いとどまらせる設計への不満が根強く、消費者庁が進めるダークパターン規制の議論とも直結する現場感覚が読み取れる。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "legal-consumer",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "サブスク 解約 できない 引き止め 知恵袋 分かりにくい",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-17T06:35:19+09:00",
    "validity_days": 7
   },
   {
