@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T08:41:00+09:00",
+  "generated_at": "2026-09-16T15:46:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,42 +16,78 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 11,
-    "passed_total": 111,
+    "neg_excluded": 9,
+    "dedup_excluded": 9,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "x_realtime": 7,
-      "yahoo_realtime": 34,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "news_web": 16,
-      "yahoo_news_ranking": 3
+      "x_realtime": 8,
+      "yahoo_news_ranking": 6,
+      "news_web": 11
     }
   },
   "note_category_counts": {
-    "social_reaction": 34,
-    "analysis": 1,
+    "social_reaction": 33,
+    "personal_story": 4,
     "opinion": 9,
-    "personal_story": 3,
-    "hard_fact": 21,
-    "policy": 2
+    "medical_science": 1,
+    "policy": 4,
+    "hard_fact": 19
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 34,
+    "social_reaction": 31,
     "opinion": 9,
-    "analysis": 1,
-    "hard_fact": 21,
-    "policy": 2,
-    "personal_story": 3
+    "personal_story": 4,
+    "policy": 4,
+    "medical_science": 1,
+    "hard_fact": 21
   },
   "b2b_top10": [
     {
-      "title": "きんぎょ注意報！がYouTubeで全話公開→最終回の日に父が外食に行くと言い出し",
+      "title": "ストレートエッジがマンガレーベルを設立、原作者・漫画家を募集→弁護士でもある小説",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "注意報",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「日本に住むというのは、何年も問題なく使っていた持ち物がいつの間にかカビだらけに",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "欠勤したら朝礼で「急なお休みをいただき、ご迷惑をおかけしました」と謝るように注意",
+      "title": "ルックバックも【推しの子】も、突然やってくる「あいつら」が劇的なキーポイントにな",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【やじうまミニレビュー】 ダイソーのイス付きリュック、カッターが貫通する薄さでP",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "低所得者",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ガソリン補助金 過去最高の51円",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
+      "topic_category": "policy"
+    },
+    {
+      "title": "饅頭屋で「5個のを5個」と注文され「25個」を用意したのに「5個のを2つだよ」と",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -63,59 +99,29 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "[179話]マリッジトキシン - 静脈/依田瑞稀 | 少年ジャンプ＋",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "メルカリ、9月16日より「ポケモンカードゲーム 30th CELEBRATION",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ポスト主の作品がヤフオクに出品されており、展示会の時に盗まれたらしく、「どうする",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "フレディ・フリーマン",
+      "title": "胃がん",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "スンスン ガイドブック",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "一気見",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "アジア大会サッカー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "topic_category": "medical_science"
     }
   ],
   "note_top10": [
     {
-      "title": "きんぎょ注意報！がYouTubeで全話公開→最終回の日に父が外食に行くと言い出し",
+      "title": "「日本に住むというのは、何年も問題なく使っていた持ち物がいつの間にかカビだらけに",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "欠勤したら朝礼で「急なお休みをいただき、ご迷惑をおかけしました」と謝るように注意",
+      "title": "ストレートエッジがマンガレーベルを設立、原作者・漫画家を募集→弁護士でもある小説",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ルックバックも【推しの子】も、突然やってくる「あいつら」が劇的なキーポイントにな",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -125,45 +131,39 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "[179話]マリッジトキシン - 静脈/依田瑞稀 | 少年ジャンプ＋",
+      "title": "【やじうまミニレビュー】 ダイソーのイス付きリュック、カッターが貫通する薄さでP",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "メルカリ、9月16日より「ポケモンカードゲーム 30th CELEBRATION",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ポスト主の作品がヤフオクに出品されており、展示会の時に盗まれたらしく、「どうする",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "友達2人とランチする予定だったのに、なぜか1人の子どもがぐずったらしく幼稚園を休",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ドイツ鉄道で予約した席が14号車なのに来た電車が10両編成みたいなことはザラ…窓",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "基準地価とは",
+      "title": "注意報",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
-      "topic_category": "analysis"
+      "topic_category": "opinion"
     },
     {
-      "title": "うちの夫はどんどん先に歩いて行ってしまう人で、子供が生まれても変わらなかったので",
+      "title": "饅頭屋で「5個のを5個」と注文され「25個」を用意したのに「5個のを2つだよ」と",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「結論から言うと、非常用トイレのゴミは屋内保管が難しいほどの悪臭がありました」災",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「←憧れる部屋 今買ったもの→」理想の暮らしと現実のギャップがぜんぜん埋まらず、",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "オンライン会議で口論になり、相手が「もう退出します」…残った人に本音を話したら、",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
