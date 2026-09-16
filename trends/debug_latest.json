@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T21:50:00+09:00",
+  "generated_at": "2026-09-17T02:18:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,163 +7,163 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 110,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 18,
       "x_realtime": 10
     },
-    "neg_excluded": 13,
-    "dedup_excluded": 9,
-    "passed_total": 100,
+    "neg_excluded": 7,
+    "dedup_excluded": 7,
+    "passed_total": 96,
     "b2b_category_counts": {
-      "yahoo_realtime": 23,
-      "x_realtime": 6,
+      "x_realtime": 10,
+      "yahoo_realtime": 15,
       "google_trends": 10,
-      "news_web": 27,
-      "yahoo_news_ranking": 4
+      "yahoo_news_ranking": 6,
+      "news_web": 29
     }
   },
   "note_category_counts": {
-    "social_reaction": 19,
-    "medical_science": 2,
-    "personal_story": 3,
+    "social_reaction": 18,
+    "medical_science": 3,
     "opinion": 10,
-    "hard_fact": 34,
-    "policy": 2
+    "personal_story": 1,
+    "hard_fact": 37,
+    "policy": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 19,
-    "medical_science": 2,
+    "social_reaction": 18,
+    "medical_science": 3,
     "opinion": 10,
-    "hard_fact": 33,
-    "personal_story": 3,
-    "policy": 3
+    "policy": 2,
+    "hard_fact": 36,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "名古屋市立小で集合写真を突然廃止　保護者は反発、学校の説明は（毎日新聞） - Y",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "発達障害の一つ「ADHD」、発症メカニズムの一端を解明　福井大研究チーム、新たな",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "ルックバックも【推しの子】も、突然やってくる「あいつら」が劇的なキーポイントにな",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「日本に住むというのは、何年も問題なく使っていた持ち物がいつの間にかカビだらけに",
+      "title": "「無事に1週間経過しました」堀大輔の一週間ライブが終了…「成功したみたいになって",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "長女がいじめられ、学校との話し合いの場で「加害者も人間関係に悩んでまして…」とい",
+      "title": "堀大輔氏「体力はあり余っている」1日30分睡眠の1週間ライブ終了",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "raw_source_key": "livedoor_topics",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「年収1億も教育も海外旅行も全て吹き飛ばす」田舎生まれや貧乏家庭など色々あるが、",
+      "title": "サンドウィッチマン富澤に危険な兆候か 健康特番で警告され絶句",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "raw_source_key": "livedoor_topics",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "香川県で高校生40人超が食中毒 寮の食事からウエルシュ菌が検出",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "livedoor_topics",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ニノチョコマッチ",
+      "title": "立憲民主党",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "tohoシネマズ日比谷",
+      "title": "高校教師",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "赤木志郎",
+      "title": "山本裕典",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "チョコエッグ",
+      "title": "ヤフー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
+    },
+    {
+      "title": "japan earthquake",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "何故か電車内にブラジャーが落ちており、近くにいた地方から出張したと思われるお兄さ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
-      "title": "「日本に住むというのは、何年も問題なく使っていた持ち物がいつの間にかカビだらけに",
+      "title": "「無事に1週間経過しました」堀大輔の一週間ライブが終了…「成功したみたいになって",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "名古屋市立小で集合写真を突然廃止　保護者は反発、学校の説明は（毎日新聞） - Y",
+      "title": "堀大輔氏「体力はあり余っている」1日30分睡眠の1週間ライブ終了",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "raw_source_key": "livedoor_topics",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ルックバックも【推しの子】も、突然やってくる「あいつら」が劇的なキーポイントにな",
+      "title": "香川県で高校生40人超が食中毒 寮の食事からウエルシュ菌が検出",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "raw_source_key": "livedoor_topics",
       "topic_category": "social_reaction"
     },
     {
-      "title": "長女がいじめられ、学校との話し合いの場で「加害者も人間関係に悩んでまして…」とい",
+      "title": "サンドウィッチマン富澤に危険な兆候か 健康特番で警告され絶句",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「年収1億も教育も海外旅行も全て吹き飛ばす」田舎生まれや貧乏家庭など色々あるが、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "電車中心の生活だと、クルマの自由ってクルマで行けるとこにしか及ばない感じがする",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "発達障害の一つ「ADHD」、発症メカニズムの一端を解明　福井大研究チーム、新たな",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "raw_source_key": "livedoor_topics",
       "topic_category": "medical_science"
     },
     {
-      "title": "女から見た「女のやばさ」ってなんで男の人に伝わりづらいんだろう？→彼氏のサークル",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "中学生の時、ワンクリックエロ動画詐欺に引っ掛かり、親バレ回避のため決死の覚悟で電",
+      "title": "何故か電車内にブラジャーが落ちており、近くにいた地方から出張したと思われるお兄さ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「結論から言うと、非常用トイレのゴミは屋内保管が難しいほどの悪臭がありました」災",
+      "title": "平成に登場→令和に人気再燃した「家庭科のドラゴン」が小説化 SNS大反響",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "raw_source_key": "livedoor_topics",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ポケモンカードが「高校生以下限定」「子どもの帰宅後に販売」異例対応",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "livedoor_topics",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "漫画『呪術廻戦』と牛角の5周年コラボグッズを入手した人が開封された跡を見つけたこ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "高校を卒業し就職した19歳の社員が転落死 カバンから発見された遺書からは「仕事で",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "社内のSlackの研修を担当している者がテキストコミュニケーションの性質として「",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
