@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-09-17T21:44:06+0900",
-    "record_count": 33,
-    "source_total_in_db": 1216,
+    "generated_at": "2026-09-18T08:37:53+0900",
+    "record_count": 30,
+    "source_total_in_db": 1217,
     "provenance_breakdown": {
-      "evidence": 788,
+      "evidence": 789,
       "pain_seed": 428
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_7b6ce9a85922",
+      "trend_term": "第5世代スキンブースター",
+      "raw_title": "ベンスクリニック新宿院、韓国で話題のhADM配合スキンブースター「ティシボ（TISSIVO）」に続き「リトゥオ（Re2O）」の導入を決定- 第5世代スキンブースターのラインアップを拡充 - Mantan Web",
+      "summary": "ベンスクリニック新宿院がhADM配合スキンブースター「ティシボ」「リトゥオ」の導入を決定。第5世代スキンブースターのラインアップを拡充。",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaC10bzZzUmNwTkd2cmZyb1RKUTBYZU1UU3hHQlIyZTRfbEc2Z3ZuWXo1aTNxaGFnZ0tMOFZMeENVdkZQdW9rZ1VIRm93eTBLbGJkTjB1NjV4RUJCX0N5blZacnktMklZWE84VWpaa3VTNE1LcVRvMmpnck00OWxoTzV3eFQ0WnBt?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaC10bzZzUmNwTkd2cmZyb1RKUTBYZU1UU3hHQlIyZTRfbEc2Z3ZuWXo1aTNxaGFnZ0tMOFZMeENVdkZQdW9rZ1VIRm93eTBLbGJkTjB1NjV4RUJCX0N5blZacnktMklZWE84VWpaa3VTNE1LcVRvMmpnck00OWxoTzV3eFQ0WnBt?oc=5",
+      "source_name": "Mantan Web",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-09-23T08:37:35+0900",
+      "status": "candidate",
+      "created_at": "2026-09-18T08:37:35+0900"
+    },
     {
       "seed_id": "seed_3f74c8e118a7",
       "trend_term": "老舗クリニックの銀座移転",
@@ -337,24 +355,6 @@
       "created_at": "2026-09-16T16:50:42+0900"
     },
     {
-      "seed_id": "seed_ca243c9f379c",
-      "trend_term": "次世代スキンブースター導入",
-      "raw_title": "【横浜院導入】ベンスクリニック横浜、次世代ECMスキンブースター「Re2O（リトゥオ）」開始 - ニコニコニュース",
-      "summary": "ベンスクリニック横浜が次世代ECMスキンブースター「Re2O」を導入開始。新技術の臨床応用例。",
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tVnJYbXE4U0VQVjNZMXhwdzBtaXVzM2UxMEQ2ZldPaV9CYnBtTTJwU0U2aW43dmZxT0h6ZEthZHRLb1NvTDNrZUkzTzZQWG1TVTJkQ3dfQ2l2b3lKV0lHaHpEaTl6Sk9t?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tVnJYbXE4U0VQVjNZMXhwdzBtaXVzM2UxMEQ2ZldPaV9CYnBtTTJwU0U2aW43dmZxT0h6ZEthZHRLb1NvTDNrZUkzTzZQWG1TVTJkQ3dfQ2l2b3lKV0lHaHpEaTl6Sk9t?oc=5",
-      "source_name": "ニコニコニュース",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-21T16:50:33+0900",
-      "status": "candidate",
-      "created_at": "2026-09-16T16:50:33+0900"
-    },
-    {
       "seed_id": "seed_d59a3081da4a",
       "trend_term": "ボトックス副作用への警告",
       "raw_title": "「動く顔が恋しい」40歳人気女優、ボトックスに苦言「刑務所」 - ｄメニューニュース",
@@ -499,42 +499,6 @@
       "created_at": "2026-09-13T16:37:27+0900"
     },
     {
-      "seed_id": "seed_774fe3257144",
-      "trend_term": "脂肪吸引手術死亡事故認定",
-      "raw_title": "中国・杭州市衛生健康委員会、ネット有名人「網紅」さんの脂肪吸引手術死亡事件を「医療事故」と認定 - wowkorea.jp",
-      "summary": "中国・杭州市衛生健康委員会がネット有名人の脂肪吸引手術死亡事件を医療事故と認定。美容医療の安全性に関わる公式判断。",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tOExEOG9qb3p3b0ZTXy1vWFZEQTk1UjBJS2thOUhBa1ZkYnhYUGVpZXFiNWpfUmdkNEFxeVhwWGNlb1hySWZJRmoxdkp4YWxwVEZfbXpYZEY?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tOExEOG9qb3p3b0ZTXy1vWFZEQTk1UjBJS2thOUhBa1ZkYnhYUGVpZXFiNWpfUmdkNEFxeVhwWGNlb1hySWZJRmoxdkp4YWxwVEZfbXpYZEY?oc=5",
-      "source_name": "wowkorea.jp",
-      "monitor_id": "bm-safety-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-18T08:12:25+0900",
-      "status": "candidate",
-      "created_at": "2026-09-13T08:12:25+0900"
-    },
-    {
-      "seed_id": "seed_af0169de78b4",
-      "trend_term": "美容医療アプリ個人情報流出",
-      "raw_title": "韓国美容医療アプリ「カンナムオンニ」で約22万人の個人情報流出 日本も約4.8万人、予約写真や施術・決済情報も対象 運営のヒーリングペーパーが謝罪、二次被害に注意喚起 (1/1) - j7p.jp",
-      "summary": "韓国美容医療アプリ「カンナムオンニ」で約22万人の個人情報流出。日本ユーザー約4.8万人も対象で、予約写真や施術・決済情報が含まれる。運営企業が謝罪・二次被害に注意喚起。",
-      "source_url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE5zRTFEcjF6ZnlZUG5VaEVHeHhYUDJSX0JVT1AwM3BLQ1pxaDNpYldFZGxxZUFqQlAx?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE5zRTFEcjF6ZnlZUG5VaEVHeHhYUDJSX0JVT1AwM3BLQ1pxaDNpYldFZGxxZUFqQlAx?oc=5",
-      "source_name": "j7p.jp",
-      "monitor_id": "bm-safety-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-18T08:12:25+0900",
-      "status": "candidate",
-      "created_at": "2026-09-13T08:12:25+0900"
-    },
-    {
       "seed_id": "seed_4367003f43b2",
       "trend_term": "RF・HIFU安全性",
       "raw_title": "【江連×峯岸コラボ】美容外科医のホンネ。RF（高周波）やHIFUの知られざる危険性と、将来の手術に与えるデメリットとは - YouTube",
@@ -587,24 +551,6 @@
       "valid_until": "2026-09-19T08:12:46+0900",
       "status": "candidate",
       "created_at": "2026-09-05T08:12:46+0900"
-    },
-    {
-      "seed_id": "seed_15bc8fbbbcfc",
-      "trend_term": "海外美容整形のリスク",
-      "raw_title": "《みみたんが語った「海外で美容整形」の落とし穴》術後に患部が化膿して感染症に…「日本語でのやり取りも内容が噛み合わない」「国外での施術はもう懲りました」変化した“整形への考え方”とは - NEWSポストセブン",
-      "summary": "海外での美容整形施術における感染症・化膿などの合併症リスク、言語障壁による医療コミュニケーション課題が実体験から報告されている",
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82MEF4YnNJOVZsU29RbHpfVTdMekZ5VmJvNm9jb21PVFYwZ3Y4WGJVNlNFOFA1eTF1M2RXUFEtNUhuQmdsb0JZRnVzWTRpU055QmF4OXNIdWRVMXNXQ191WTJzcEQ3U2laX1hUa3MxTFVzZE5pdXl3?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82MEF4YnNJOVZsU29RbHpfVTdMekZ5VmJvNm9jb21PVFYwZ3Y4WGJVNlNFOFA1eTF1M2RXUFEtNUhuQmdsb0JZRnVzWTRpU055QmF4OXNIdWRVMXNXQ191WTJzcEQ3U2laX1hUa3MxTFVzZE5pdXl3?oc=5",
-      "source_name": "NEWSポストセブン",
-      "monitor_id": "bm-sns-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-18T08:28:12+0900",
-      "status": "candidate",
-      "created_at": "2026-09-04T08:28:12+0900"
     }
   ]
 }
