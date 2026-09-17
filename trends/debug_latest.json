@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T02:17:00+09:00",
+  "generated_at": "2026-09-18T08:39:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,62 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 14,
-    "dedup_excluded": 11,
+    "neg_excluded": 18,
+    "dedup_excluded": 7,
     "passed_total": 107,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
+      "x_realtime": 8,
+      "yahoo_realtime": 30,
       "google_trends": 10,
-      "news_web": 18,
-      "yahoo_news_ranking": 3,
-      "x_realtime": 6
+      "yahoo_news_ranking": 4,
+      "news_web": 18
     }
   },
   "note_category_counts": {
-    "social_reaction": 25,
-    "medical_science": 2,
-    "personal_story": 4,
+    "social_reaction": 23,
+    "personal_story": 3,
     "opinion": 10,
-    "policy": 6,
-    "hard_fact": 23
+    "hard_fact": 28,
+    "policy": 6
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 25,
-    "medical_science": 2,
+    "social_reaction": 23,
+    "hard_fact": 26,
     "opinion": 10,
-    "hard_fact": 20,
-    "policy": 9,
-    "personal_story": 4
+    "policy": 8,
+    "personal_story": 3
   },
   "b2b_top10": [
+    {
+      "title": "イギリスで20万した電チャリが盗まれた…その後ロンドンの警察から「防犯カメラの映",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "南海電鉄、磁気定期券を27年3月末で販売終了　30年度の廃止見据え - 日本経済",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "小1の娘が「帰り道がわからない」というクラスの友達を家に連れてきた。放置するわけ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ガチで常識無いんだけど「他人の家でお菓子を出されたらゴミは持ち帰らないといけない",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "川口バイク男性死亡、トルコ国籍男に実刑1年6月　さいたま地裁、信号無視「危険な運",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
     {
       "title": "レストランで知らない人に「こうやって食べるものよ！マナーがなってないわよ！」とラ",
       "source_category": "yahoo_realtime",
@@ -51,55 +79,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ボートに乗って人生初の釣りをした！と水着姿の写真で報告する投稿に「老害マジレスお",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ネット副業としての排外主義があると思う人✋ - 電脳塵芥",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "裁判",
+      "title": "上坂樹里",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "大型の台風25号 離れた所も注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "「これは受注じゃない。看取りだ」金型屋の廃業が相次ぎ仕事は増えているが不快しかな",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "新幹線予約",
+      "title": "アストロズ 対 ロイヤルズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "大東 市 スーパー",
+      "title": "相撲 丹治",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "昔から借りてる40アールの田んぼが東京在住のマダムに相続され、15000円/反の",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "バロンドール",
+      "title": "ネイリスト殺人事件",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +105,64 @@
   ],
   "note_top10": [
     {
+      "title": "イギリスで20万した電チャリが盗まれた…その後ロンドンの警察から「防犯カメラの映",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "小1の娘が「帰り道がわからない」というクラスの友達を家に連れてきた。放置するわけ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ガチで常識無いんだけど「他人の家でお菓子を出されたらゴミは持ち帰らないといけない",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "レストランで知らない人に「こうやって食べるものよ！マナーがなってないわよ！」とラ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ボートに乗って人生初の釣りをした！と水着姿の写真で報告する投稿に「老害マジレスお",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "無印良品から高たんぱくや食物繊維に着目した納豆やのりのスナック、鶏むね肉のカルパ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "昔から借りてる40アールの田んぼが東京在住のマダムに相続され、15000円/反の",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "元カレに料理を頼まれ、いざ料理を出したら「二度と料理しようなんて思わないで」と言",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ネット副業としての排外主義があると思う人✋ - 電脳塵芥",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "とんでもない映画を観たから強くオススメしたけど、同じ熱量を求められるのがしんどい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "警視庁から電話がかかってきたので「責任者が席を外しているので折り返ししたい」と伝",
+      "title": "病院に貼り出されてた、子どもの体から実際に摘出された異物がリアルで怖い「胃がバケ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "イオンモール特定VTuber・静馬レイの乙女ゲー風動画が爆誕するも様子がおかしい",
+      "title": "大人になってからあらゆるアニメを見ていると「話し合えーッッ！！！！！」となる話…",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "アドルフ・ヒトラーはキャラクターとして本当に魅力的なのだが致命的なのは「実在した",
+      "title": "「これは今しか撮れないから」浅草に遊びに行ったときに夫が建築途中のスカイツリーの",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "上坂樹里",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "アストロズ 対 ロイヤルズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "相撲 丹治",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
