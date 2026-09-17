@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T08:49:00+09:00",
+  "generated_at": "2026-09-17T15:39:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,43 +7,73 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
     "neg_excluded": 12,
-    "dedup_excluded": 10,
-    "passed_total": 110,
+    "dedup_excluded": 9,
+    "passed_total": 101,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
-      "x_realtime": 7,
+      "yahoo_realtime": 24,
+      "x_realtime": 8,
       "google_trends": 10,
-      "news_web": 14,
-      "yahoo_news_ranking": 7
+      "news_web": 20,
+      "yahoo_news_ranking": 8
     }
   },
   "note_category_counts": {
-    "social_reaction": 24,
+    "personal_story": 4,
+    "social_reaction": 18,
+    "medical_science": 3,
     "opinion": 10,
-    "personal_story": 2,
-    "hard_fact": 23,
-    "policy": 6,
-    "medical_science": 5
+    "hard_fact": 30,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 23,
-    "social_reaction": 24,
-    "policy": 6,
+    "personal_story": 4,
+    "social_reaction": 18,
+    "medical_science": 3,
+    "hard_fact": 30,
     "opinion": 10,
-    "personal_story": 2,
-    "medical_science": 5
+    "policy": 5
   },
   "b2b_top10": [
+    {
+      "title": "「笑っちゃいけないけど笑ってしまった」部屋が焼失したオタクの体験談が、大変な惨事",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "ボートに乗って人生初の釣りをした！と水着姿の写真で報告する投稿に「老害マジレスお",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "買ったばかりのMacBook Pro M5のキーボードとモニターの間に薄い紙資料",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ネット副業としての排外主義があると思う人✋ - 電脳塵芥",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "国内スマホ市場、Android端末が54%に伸長　値上げでiPhone離れか -",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "高尾山中腹の登山道にツキノワグマ出没　シルバーウイーク直前で注意喚起、東京・八王",
       "source_category": "yahoo_realtime",
@@ -51,55 +81,25 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "「無事に1週間経過しました」堀大輔の一週間ライブが終了…「成功したみたいになって",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "値上げしても客が離れない｢日本路線｣を自ら手放した…中国航空3社が2000億円赤",
+      "title": "死に伴う「意味」の喪失と、宗教の役割 - シロクマの屑籠",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "人口350人の村、独身成人男性の難民申請者1200人超収容計画めぐり住民投票 女",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "シンクロナイズドスイミング",
+      "title": "玉川徹",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "スネル",
+      "title": "馬渕磨理子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "「勝手に登記簿見て基地局設置しようってどういう用件だい？」楽天モバイルからの提案",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "応援上映",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "投げ銭",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "能登半島",
+      "title": "小松本遥",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +107,64 @@
   ],
   "note_top10": [
     {
-      "title": "「無事に1週間経過しました」堀大輔の一週間ライブが終了…「成功したみたいになって",
+      "title": "「笑っちゃいけないけど笑ってしまった」部屋が焼失したオタクの体験談が、大変な惨事",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "ボートに乗って人生初の釣りをした！と水着姿の写真で報告する投稿に「老害マジレスお",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「勝手に登記簿見て基地局設置しようってどういう用件だい？」楽天モバイルからの提案",
+      "title": "買ったばかりのMacBook Pro M5のキーボードとモニターの間に薄い紙資料",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "値上げしても客が離れない｢日本路線｣を自ら手放した…中国航空3社が2000億円赤",
+      "title": "国内スマホ市場、Android端末が54%に伸長　値上げでiPhone離れか -",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "高校を卒業し就職した19歳の社員が転落死 カバンから発見された遺書からは「仕事で",
+      "title": "死に伴う「意味」の喪失と、宗教の役割 - シロクマの屑籠",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "何故か電車内にブラジャーが落ちており、近くにいた地方から出張したと思われるお兄さ",
+      "title": "「皆、ドラレコは入れといた方がいい」前を走っていたバイクの高齢者が目の前でふらふ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "ネット副業としての排外主義があると思う人✋ - 電脳塵芥",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "生徒が、数学の問題で手が止まった時に、「どう解くんですか？」と言ったらほぼ赤に近",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "国内カメラ市場に異変、「コダック」台数首位　スマホ未満がエモさ演出 - 日本経済",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ひとり時間でアパホテルにいた時、知らない番号から電話「ゴミ捨ての時に子供が玄関の",
+      "title": "マックで店員にアンケートを求められ対応したら「あ、すみません今のところ『ほぼ満足",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "リムレスメガネを買ったんだけど、目が悪すぎてリムレスについてるレンズの厚みとは思",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "タイで働いて一番衝撃を受けたのは、2日連続で無断欠勤した人が3日目に普通の顔して",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "電車中心の生活だと、クルマの自由ってクルマで行けるとこにしか及ばない感じがする",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "シンクロナイズドスイミング",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ]
 }
