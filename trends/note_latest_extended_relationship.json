@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-17T06:40:09+09:00",
- "valid_until": "2026-10-01T06:34:01+09:00",
+ "generated_at": "2026-09-18T07:19:42+09:00",
+ "valid_until": "2026-10-02T07:14:53+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -10,12 +10,72 @@
   "parent": "relationship",
   "from_current": 16,
   "from_new": 2,
-  "expired_pruned": 0,
-  "retention_dropped": 2,
+  "expired_pruned": 2,
+  "retention_dropped": 0,
   "genres": 3,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "【産業医が解説】職場の人間関係に馴染めない原因と孤立感を解消する5つの実践的解決法",
+   "url": "https://ishinkai.org/archives/5155",
+   "summary": "産業医監修の解説記事。新しい職場に馴染めないのは本人の性格の問題だけでなく、環境変化や職場ごとの暗黙のルールとの不一致が原因になりやすいと指摘。孤立感を和らげるための実践的な向き合い方を紹介しており、異動直後の読者に刺さる裏取り情報源になる。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "relationship-social",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "りんかい月島・豊洲クリニック（精神科・心療内科／産業医解説）",
+    "expert_origin": true,
+    "search_query": "異動先 職場 人間関係 馴染めない 孤独 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-10-02T07:14:53+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "職場で孤立しています。事務員の女性です。他の女性は群れてお喋りをしていて…",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11278642576",
+   "summary": "Yahoo!知恵袋の実際の相談投稿。職場の女性グループに馴染めず孤立している当事者の生の悩み。数値や断定的事実は含まれず、あくまで角度発掘用の生ペインとして参照する。異動・転職直後の孤立という切り口の具体的な言葉づかいが拾える。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "relationship-social",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "異動先 職場 人間関係 馴染めない 孤独 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-10-02T07:14:53+09:00",
+   "validity_days": 14
+  },
   {
    "source_category": "news_web",
    "raw_title": "職場の人間関係に限界を感じたら？原因・対処法と相談先",
@@ -134,36 +194,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-24T06:39:08+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "職場に馴染めない。新卒で入社して2ヶ月目、20代女です。接客業で働い...",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14227360324",
-   "summary": "新卒・接客業で入社2ヶ月、職場の人間関係に馴染めず悩む相談。自分から話しかける積極性の不足や疎外感など、異動・転職直後にありがちな孤立感が生々しく語られている。数値断定はなく、悩みの種としての参照。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "relationship-social",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "異動 新しい職場 馴染めない 人間関係 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-18T06:40:49+09:00",
    "validity_days": 14
   },
   {
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-23T16:50:46+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "妻が年収200〜250万程でパート勤務なのですが、私の扶養に入れた方が…",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10327434065",
-   "summary": "妻のパート収入をめぐり、夫の扶養に留まるべきか、扶養を外れて働くべきかで悩む相談。扶養内継続のメリットと、外れた場合の手取り減・将来の年金増というトレードオフをどう判断するかで夫婦間の意見が分かれている様子がうかがえる、生の家計相談。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "relationship-marriage",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "扶養から外れる パート 夫婦 家計 相談 悩み",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-17T16:48:55+09:00",
    "validity_days": 14
   }
  ]
