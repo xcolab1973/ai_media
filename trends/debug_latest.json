@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T01:45:00+09:00",
+  "generated_at": "2026-09-19T08:33:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,42 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 11,
-    "passed_total": 116,
+    "neg_excluded": 9,
+    "dedup_excluded": 9,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "x_realtime": 9,
       "google_trends": 10,
-      "yahoo_news_ranking": 4,
-      "x_realtime": 8,
-      "news_web": 13
+      "yahoo_realtime": 32,
+      "news_web": 15,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "personal_story": 2,
+    "social_reaction": 29,
     "opinion": 10,
-    "medical_science": 2,
     "hard_fact": 25,
-    "policy": 3
+    "policy": 6
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 25,
-    "social_reaction": 28,
-    "policy": 3,
+    "social_reaction": 29,
     "opinion": 10,
-    "medical_science": 2,
-    "personal_story": 2
+    "hard_fact": 25,
+    "policy": 6
   },
   "b2b_top10": [
+    {
+      "title": "漫画アプリの無料報酬獲得のためにクソゲー広告を見ていたら「貸せ、オレがやる」モー",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "鈴木亮平",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
     {
       "title": "国立美術館6施設、入館料値上げ　10月以降、現行の2～3倍に",
       "source_category": "yahoo_realtime",
@@ -51,55 +59,43 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "おかき製造販売の播磨屋本店　27年3月末で廃業方針",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ガソリン補助金51円で過去最高。米独は3割高、日本だけ価格が止まった半年の代償 ",
+      "title": "スウェーデン総選挙、左派野党が僅差で勝利 首相は辞任表明",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "レートチェック",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「着替えも仕事のうちです」「着替える前にタイムカード押してください」あるお菓子工",
+      "title": "駅でみつけた鉄柱の錆び跡が言われてみたら有名絵画に見えてくる「確かにそう見える！",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "遺書",
+      "title": "サタプラ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "オールナイトニッポン",
+      "title": "「おじゃる丸」人気投票の中間発表で1位が「ウシ」なのはガチなのか荒らされてるのか",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "ある日、日赤から「あなたの白血球と一致した人がいます。使っていいですか？」と電話",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "レンジャーズ 対 ブルージェイズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "タケノコ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "スペイン代表",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ウルトラジャパン",
+      "title": "幕張メッセ イベント",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +103,64 @@
   ],
   "note_top10": [
     {
-      "title": "おかき製造販売の播磨屋本店　27年3月末で廃業方針",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「着替えも仕事のうちです」「着替える前にタイムカード押してください」あるお菓子工",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Uberで2人前の寿司を頼んだのに1人前セットが届いた。料金は2人前払っていて、",
+      "title": "漫画アプリの無料報酬獲得のためにクソゲー広告を見ていたら「貸せ、オレがやる」モー",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「コレだけは認めざるを得ない」野田元総理が駅前でビラ配りを実施、明らかに手慣れた",
+      "title": "駅でみつけた鉄柱の錆び跡が言われてみたら有名絵画に見えてくる「確かにそう見える！",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ある日、日赤から「あなたの白血球と一致した人がいます。使っていいですか？」と電話",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【独自】元中道・泉健太衆院議員、新党「民主改革の会」に入党しない意向 | TBS",
+      "title": "女性なら、社会人になった時点でわかるようになるかも。私も高校生の時、東方proj",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【肉6枚】「パティの暴力」日本にわずか3店舗の“米軍マクドナルド”…巨大バーガー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「史上最悪」の声も…アジア大会の宿泊施設に海外選手団から不満 | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "勤務先のトイレで盗撮被害に遭ったJR東日本の女性社員、800万円の賠償を求めて会",
+      "title": "おばあちゃんの葬式に来たら遺影が別人…親戚が生前の写真を使ってAIで画像生成した",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ヒースロー空港内のパブで頼んだ4000円超えのフィッシュ&チップスが信じられない",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "MADE IN YAMATO - 第１７話　筋肉センサーを信じろ | ヤンマガW",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「祖母が暮らした築50年団地」を25歳の孫が購入！思い出が詰まった57平米を自分",
+      "title": "鈴木亮平",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "サタプラ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ストラトキャスター・スタイルをめぐる争いが続く中、フェンダーのCEOは進め方に問",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "韓国の試合前に北朝鮮の国歌、アジア大会で不手際　行事で秀吉登場も：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ]
 }
