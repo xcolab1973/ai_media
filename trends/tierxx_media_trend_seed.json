@@ -2,8 +2,8 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-09-18T21:20:17+0900",
-    "record_count": 34,
+    "generated_at": "2026-09-19T08:30:52+0900",
+    "record_count": 31,
     "source_total_in_db": 1229,
     "provenance_breakdown": {
       "evidence": 798,
@@ -535,42 +535,6 @@
       "created_at": "2026-09-15T16:57:46+0900"
     },
     {
-      "seed_id": "seed_ff8bc4e8e596",
-      "trend_term": "美容医療×文化コラボ",
-      "raw_title": "中央クリニックグループのベルサイユのばらコラボがSNSで大反響 - ガジェット通信",
-      "summary": "中央クリニックグループがベルサイユのばらとコラボレーション。SNS上で反響を呼んでいる状況が報道されている。",
-      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWLUhuOVRwZ2RyN0I4X1lkMGNRLW14VXZ2R0VNWVFybE1jckVjdU1vUHNDNDByeW9tT3VWbm9VeTAyLXJDUXFxUnhVSQ?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWLUhuOVRwZ2RyN0I4X1lkMGNRLW14VXZ2R0VNWVFybE1jckVjdU1vUHNDNDByeW9tT3VWbm9VeTAyLXJDUXFxUnhVSQ?oc=5",
-      "source_name": "ガジェット通信",
-      "monitor_id": "bm-sns-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-18T21:49:01+0900",
-      "status": "candidate",
-      "created_at": "2026-09-13T21:49:01+0900"
-    },
-    {
-      "seed_id": "seed_52085f7c149b",
-      "trend_term": "まつげ美容液リニューアル",
-      "raw_title": "ラブ・ライナーのプレミアムまつげ美容液がリニューアル！ - 繊研新聞",
-      "summary": "ラブ・ライナーのプレミアムまつげ美容液がリニューアル。製品改良による新展開。",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXdjZWtrekZRcmc4ajZnMnY5SHNyUmluMi0wQnBza3VGWFVfVVB4dG9oRmN3RFY2QXpuQkVtZzQwNlFnZzRLeng2WnlRZ2NndHluUC1Fc01WeTdHTVpBdGNXV2dqZGNGTm1MV0Y3UXhkbTZvTWZpdjFJMmN6YXJESFFvVkpoaENRQU4tRDZSYlVBNXAxVlFsd195YXRVd1FabU80SW5haktsQldvZXc?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXdjZWtrekZRcmc4ajZnMnY5SHNyUmluMi0wQnBza3VGWFVfVVB4dG9oRmN3RFY2QXpuQkVtZzQwNlFnZzRLeng2WnlRZ2NndHluUC1Fc01WeTdHTVpBdGNXV2dqZGNGTm1MV0Y3UXhkbTZvTWZpdjFJMmN6YXJESFFvVkpoaENRQU4tRDZSYlVBNXAxVlFsd195YXRVd1FabU80SW5haktsQldvZXc?oc=5",
-      "source_name": "繊研新聞",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-18T21:48:43+0900",
-      "status": "candidate",
-      "created_at": "2026-09-13T21:48:43+0900"
-    },
-    {
       "seed_id": "seed_4367003f43b2",
       "trend_term": "RF・HIFU安全性",
       "raw_title": "【江連×峯岸コラボ】美容外科医のホンネ。RF（高周波）やHIFUの知られざる危険性と、将来の手術に与えるデメリットとは - YouTube",
@@ -605,24 +569,6 @@
       "valid_until": "2026-09-25T08:21:21+0900",
       "status": "candidate",
       "created_at": "2026-09-11T08:21:21+0900"
-    },
-    {
-      "seed_id": "seed_324f99184559",
-      "trend_term": "医療過誤リスク認識",
-      "raw_title": "権威性と密室性に潜む重大な医療過誤…障害事件や死亡事故、有名事件の背景を暴き根絶を目指す専門医の想い - gentosha-go.com",
-      "summary": "美容医療における医療過誤・事故事例と、権威性と密室性に潜む問題構造についての専門家による指摘",
-      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yTHo4UzhHSE1oc1VySEpsbFJueFJmNmdlOUtTdW55MFNMd3l3TktPYUg3VGhrVmMydzJZa0NIcDJoZUdkUFZDOHU1dE5YSmNSMEE?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yTHo4UzhHSE1oc1VySEpsbFJueFJmNmdlOUtTdW55MFNMd3l3TktPYUg3VGhrVmMydzJZa0NIcDJoZUdkUFZDOHU1dE5YSmNSMEE?oc=5",
-      "source_name": "gentosha-go.com",
-      "monitor_id": "bm-safety-news",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "opinion",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-19T08:12:46+0900",
-      "status": "candidate",
-      "created_at": "2026-09-05T08:12:46+0900"
     }
   ]
 }
