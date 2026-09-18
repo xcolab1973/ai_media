@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T16:51:15+09:00",
+ "generated_at": "2026-09-19T06:37:58+09:00",
  "valid_until": "2026-10-02T16:44:44+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -8,9 +8,9 @@
  "total_count": 38,
  "merge": {
   "parent": "money",
-  "from_current": 31,
-  "from_new": 7,
-  "expired_pruned": 0,
+  "from_current": 38,
+  "from_new": 1,
+  "expired_pruned": 1,
   "retention_dropped": 0,
   "genres": 8,
   "retention_per_genre": 8
@@ -858,24 +858,24 @@
   },
   {
    "source_category": "news_web",
-   "raw_title": "ふるさと納税が10月から新ルールへ！寄付の6割以上を事業に回す基準と、9月中に確認したい3つのこと",
-   "url": "https://8and.jp/2026/09/11/%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E7%B4%8D%E7%A8%8E%E3%81%8C10%E6%9C%88%E3%81%8B%E3%82%89%E6%96%B0%E3%83%AB%E3%83%BC%E3%83%AB%E3%81%B8%EF%BC%81%E5%AF%84%E4%BB%98%E3%81%AE6%E5%89%B2%E4%BB%A5/",
-   "summary": "2026年10月から自治体の募集経費上限が寄付額の50%→47.5%に引き下げられ、段階的に「6割ルール」完成形へ向かう。9月中に確認しておきたい3点を紹介。全国一律の駆け込み期限はないが、狙っている返礼品があるなら早めの寄付が安全という助言。",
+   "raw_title": "2028年、暗号資産は申告分離課税へ。何が変わるのか",
+   "url": "https://bitcoinnote.jp/blog/crypto-tax-reform-2028/",
+   "summary": "暗号資産の申告分離課税(20.315%)の適用開始は2028年1月が有力。それまでは雑所得として総合課税(最大55%)が続き、対象は国内取引所経由の特定暗号資産譲渡に限定される見込みと整理。",
    "signal_type": "trend",
    "engagement_signal": false,
    "approx_traffic": "100+",
    "preliminary_claim_type": "soft_fact",
    "relevance_to_niche": "high",
    "topic_category": null,
-   "primary_genre": "money-points-cashless",
+   "primary_genre": "money-crypto",
    "karte_matched_category": null,
    "karte_aligned": false,
    "account_id": "default",
    "origin": "pre_collector_extended",
    "provenance": {
-    "source_name": "8and.jp",
+    "source_name": "ビットコインノート",
     "expert_origin": false,
-    "search_query": "ふるさと納税 9月中 駆け込み 6割ルール 何が変わる",
+    "search_query": "暗号資産 20%分離課税 いつから 2028年 それまで 総合課税 確定申告",
     "freshness": "fresh",
     "integrity_warning": null,
     "provenance_kind": "evidence",
@@ -883,8 +883,8 @@
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-09-18T16:58:38+09:00",
-   "validity_days": 7
+   "valid_until": "2026-09-24T06:34:25+09:00",
+   "validity_days": 5
   },
   {
    "source_category": "news_web",
