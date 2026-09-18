@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T21:23:00+09:00",
+  "generated_at": "2026-09-19T01:45:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,49 +17,37 @@
       "x_realtime": 10
     },
     "neg_excluded": 5,
-    "dedup_excluded": 10,
-    "passed_total": 117,
+    "dedup_excluded": 11,
+    "passed_total": 116,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
-      "news_web": 12,
+      "yahoo_realtime": 35,
       "google_trends": 10,
       "yahoo_news_ranking": 4,
-      "x_realtime": 8
+      "x_realtime": 8,
+      "news_web": 13
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
+    "social_reaction": 28,
     "personal_story": 2,
     "opinion": 10,
     "medical_science": 2,
-    "hard_fact": 22,
-    "policy": 4
+    "hard_fact": 25,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 22,
-    "policy": 4,
-    "social_reaction": 30,
+    "hard_fact": 25,
+    "social_reaction": 28,
+    "policy": 3,
     "opinion": 10,
     "medical_science": 2,
     "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "国立美術館6施設、入館料値上げ　10月以降、現行の2～3倍に（共同通信） - Y",
+      "title": "国立美術館6施設、入館料値上げ　10月以降、現行の2～3倍に",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ガソリン補助金51円で過去最高。米独は3割高、日本だけ価格が止まった半年の代償 ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "連休前にインフル流行拡大 注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
@@ -69,40 +57,52 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "沖縄知事当選の古謝氏　家族関係先に爆破予告　県警も把握し調べる | 沖縄タイムス",
+      "title": "ガソリン補助金51円で過去最高。米独は3割高、日本だけ価格が止まった半年の代償 ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "レートチェック",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「着替えも仕事のうちです」「着替える前にタイムカード押してください」あるお菓子工",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ノア ヴォクシー",
+      "title": "遺書",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "奈緒",
+      "title": "オールナイトニッポン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "アジア 大会 バレーボール メンバー",
+      "title": "タケノコ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "スタバ ラテなどの定番商品値上げ",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
+      "title": "スペイン代表",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "「もう手遅れかもしれません」レスバ癖が付いた人の言動が、ドンドンおかしくなってい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "title": "ウルトラジャパン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
@@ -113,43 +113,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "沖縄知事当選の古謝氏　家族関係先に爆破予告　県警も把握し調べる | 沖縄タイムス",
+      "title": "「着替えも仕事のうちです」「着替える前にタイムカード押してください」あるお菓子工",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ランチに行ったら隣の席がカップルで彼女が料理の写真を撮影中…彼氏が「まだ食べちゃ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【独自】元中道・泉健太衆院議員、新党「民主改革の会」に入党しない意向 | TBS",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "JR東日本で盗撮被害「うちではよくある」と3か月放置…休職の女性社員が816万円",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "簗農水相、性的少数者「種の保存に反する」発言に「非公開」と答えず：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "LEVY’S Untamed Animal Print シリーズレビュー｜声に出",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "福島県の建設事務所から封筒が届き開けてみたら、知らない人の土地の相続人になってい",
+      "title": "Uberで2人前の寿司を頼んだのに1人前セットが届いた。料金は2人前払っていて、",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -161,10 +131,40 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "『紛争でしたら八田まで』のアニメ化は『みい山』より危うい？ウクライナ編を含め歴史",
+      "title": "【独自】元中道・泉健太衆院議員、新党「民主改革の会」に入党しない意向 | TBS",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【肉6枚】「パティの暴力」日本にわずか3店舗の“米軍マクドナルド”…巨大バーガー",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「史上最悪」の声も…アジア大会の宿泊施設に海外選手団から不満 | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "勤務先のトイレで盗撮被害に遭ったJR東日本の女性社員、800万円の賠償を求めて会",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "ヒースロー空港内のパブで頼んだ4000円超えのフィッシュ&チップスが信じられない",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「祖母が暮らした築50年団地」を25歳の孫が購入！思い出が詰まった57平米を自分",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     }
   ]
 }
