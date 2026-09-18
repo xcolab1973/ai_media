@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-09-18T07:19:42+09:00",
+ "generated_at": "2026-09-18T16:51:15+09:00",
  "valid_until": "2026-10-01T06:38:32+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "sports",
- "total_count": 15,
+ "total_count": 16,
  "merge": {
   "parent": "sports",
   "from_current": 15,
-  "from_new": 3,
-  "expired_pruned": 3,
+  "from_new": 1,
+  "expired_pruned": 0,
   "retention_dropped": 0,
   "genres": 2,
   "retention_per_genre": 8
@@ -255,6 +255,36 @@
    },
    "valid_until": "2026-09-25T06:45:29+09:00",
    "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "Jリーグは何が変わる？開幕時期・レギュレーションは？｜2026-27シーズン",
+   "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/jleague-opening-regulations-2026-27/blt675ac6b13bdd1f26",
+   "summary": "Jリーグが2026-27シーズンから秋春制へ移行することに伴う開幕時期・ウィンターブレイク・レギュレーション変更点を整理。2026年8月開幕、2027年5月末閉幕という移行期特有の変則日程を説明している。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "sports-watch",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Goal.com 日本",
+    "expert_origin": false,
+    "search_query": "Jリーグ 秋春制 2026-27 開幕 変更点",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": true,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-23T16:48:02+09:00",
+   "validity_days": 5
   },
   {
    "source_category": "news_web",
