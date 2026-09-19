@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-19T06:37:57+09:00",
- "valid_until": "2026-10-02T07:07:48+09:00",
+ "generated_at": "2026-09-19T16:50:17+09:00",
+ "valid_until": "2026-10-03T16:43:39+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "childcare",
- "total_count": 9,
+ "total_count": 10,
  "merge": {
   "parent": "childcare",
   "from_current": 9,
@@ -164,6 +164,36 @@
     "rescued": false
    },
    "valid_until": "2026-09-24T06:34:22+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "赤ちゃんをRSウイルス感染症から守るための「3つの予防法」",
+   "url": "https://www.pfizervaccines.jp/rs-virus/prevention",
+   "summary": "RSウイルスは生後1歳までに半数以上、2歳までにほぼ全ての乳幼児が感染するとされ、生後1〜2カ月がピーク。手洗い・マスク・消毒などの基本対策に加え、母子免疫ワクチンやモノクローナル抗体による新しい予防選択肢を紹介。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "childcare-newborn",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "ファイザー",
+    "expert_origin": false,
+    "search_query": "新生児 秋冬 RSウイルス感染対策 2026 予防接種 スケジュール",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-10-03T16:43:39+09:00",
    "validity_days": 14
   },
   {

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T06:37:57+09:00",
+ "generated_at": "2026-09-19T16:50:17+09:00",
  "valid_until": "2026-10-03T06:33:28+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -8,9 +8,9 @@
  "total_count": 16,
  "merge": {
   "parent": "biz",
-  "from_current": 17,
+  "from_current": 16,
   "from_new": 1,
-  "expired_pruned": 2,
+  "expired_pruned": 1,
   "retention_dropped": 0,
   "genres": 3,
   "retention_per_genre": 8
@@ -318,6 +318,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "来月1日から普通郵便の送料が値上がりするためヤフオクの出品してる値段をすべて見直すのですが出品してる数が3000程あり価格...",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11304642761",
+   "summary": "送料値上げに伴い出品中の約3000件の価格をすべて見直す必要があり、作業負担にどう対応すればよいか困っている出品者の相談。値上げのたびに大量出品の価格改定作業が発生する現場の生の悩みがうかがえる（数値は投稿者の申告ベース）。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "biz-ec-shop",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "ネットショップ 送料値上げ 困った 知恵袋 OR 掲示板 OR Yahoo",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-24T16:43:24+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "EC利用者の半数以上「送料無料」「割引条件」目的の追加購入 スポルアップ調査",
    "url": "https://ecnomikata.com/ecnews/marketing/51428/",
    "summary": "「送料無料や〇円以上の割引条件を満たすためだけに予定外の商品を追加購入した経験がある」消費者が約半数（よくある14.0%、たまにある41.0%）に上るという調査結果。送料値上げ局面での送料無料ライン設計が客単価に直結する読者ペインとして浮上。",
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-23T07:11:24+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "ネットショップをbaseやstoresなどで作る場合、開業届は...",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11251560581",
-   "summary": "BASEやSTORESでネットショップを始める際に開業届の提出が必要かどうかを尋ねる質問。ノーコードでEC開業する個人が手続き面でつまずきやすい典型的な疑問を示す一例。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "biz-ec-shop",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "site:detail.chiebukuro.yahoo.co.jp ネットショップ 補助金 OR 有料化",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": true,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-19T11:49:46+09:00",
    "validity_days": 5
   }
  ]
