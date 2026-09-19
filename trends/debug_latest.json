@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T21:04:00+09:00",
+  "generated_at": "2026-09-20T01:06:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,54 +7,84 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 15,
-    "dedup_excluded": 7,
-    "passed_total": 110,
+    "neg_excluded": 17,
+    "dedup_excluded": 12,
+    "passed_total": 93,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
+      "yahoo_realtime": 22,
       "google_trends": 10,
-      "x_realtime": 8,
-      "news_web": 16,
-      "yahoo_news_ranking": 3
+      "x_realtime": 4,
+      "news_web": 27,
+      "yahoo_news_ranking": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
+    "social_reaction": 20,
+    "personal_story": 1,
     "opinion": 10,
-    "medical_science": 7,
-    "personal_story": 4,
-    "hard_fact": 18,
-    "policy": 3
+    "hard_fact": 31,
+    "policy": 3,
+    "medical_science": 5
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
-    "hard_fact": 20,
+    "social_reaction": 20,
+    "hard_fact": 32,
     "policy": 3,
+    "personal_story": 1,
     "opinion": 10,
-    "medical_science": 5,
-    "personal_story": 4
+    "medical_science": 4
   },
   "b2b_top10": [
     {
-      "title": "「作風で売れている人は、基本的にいない」イラストレーター中村佑介が学生に語った仕",
+      "title": "ある自転車屋に中学生が修理に来たが危険走行をしている疑いがあり、もし自転車で怪我",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "新作TVアニメ「新 美味しんぼ」放送決定！シンエイ動画50周年記念で発表（動画あ",
+      "title": "VTuberと子ども服ブランドのコラボ撤回をめぐる一連の経緯から考えた「どうすれ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
+    },
+    {
+      "title": "市議全員が補助金で飲食　福岡県議会きっかけに高知市の議員連盟が辞退へ「問題と感じ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "学校で習った水循環のバランスが崩壊、地球上の全人口に影響　WMO",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "「生涯を通してセックスを経験したことがない人の特徴」様々な意見はあるが、40〜5",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "踊る大捜査線",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ハンドメイド作家が、ある学校のPTAから「放課後に子ども向けにミシンとか料理を教",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "東京・八重洲口前再開発で「ど根性ビル」2棟残る　オーナー「売るなと親に言われたた",
@@ -63,43 +93,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "北方領土、ドイツ機密文書が映すロシアの本音　「対話の期待」逆手に - 日本経済新",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "室伏広治",
+      "title": "グランドシネマサンシャイン 池袋",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "大友愛",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "メゾピアノの騒動、ブランドの顧客層と損失を考えると、企画を通した担当者は首が飛ぶ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ショート動画で猫に舐められて絶望してる鳩が流れてきたのでそれをずっと見ている「こ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "武井壮",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "トッテナム",
+      "title": "柿谷曜一朗",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,7 +107,19 @@
   ],
   "note_top10": [
     {
-      "title": "「作風で売れている人は、基本的にいない」イラストレーター中村佑介が学生に語った仕",
+      "title": "ある自転車屋に中学生が修理に来たが危険走行をしている疑いがあり、もし自転車で怪我",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「生涯を通してセックスを経験したことがない人の特徴」様々な意見はあるが、40〜5",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "ハンドメイド作家が、ある学校のPTAから「放課後に子ども向けにミシンとか料理を教",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -119,19 +131,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "メゾピアノの騒動、ブランドの顧客層と損失を考えると、企画を通した担当者は首が飛ぶ",
+      "title": "小さい頃から使っていた布団が手放せない女性、夫に「子供ができたら流石に捨てて欲し",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「イギリスの公園にオープンワールドゲームにありがちな草が生えてた」世界中で起きて",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ショート動画で猫に舐められて絶望してる鳩が流れてきたのでそれをずっと見ている「こ",
+      "title": "「聞いていいわけないのに」社内の自己啓発セミナーで人生で一番辛かったことをスピー",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -143,28 +149,22 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "AIに任せた品質は、誰が見立てるのか - AI時代のテストマネジメント",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日銀1.25%へ利上げ決定と謎ナラティブ｜飯田泰之",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "トマトのビニールハウスで振動受粉用のマルハナバチが手に止まると毎回花粉の塊を置い",
+      "title": "ショート動画で猫に舐められて絶望してる鳩が流れてきたのでそれをずっと見ている「こ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ミニサイズの生ハム原木を買ったのだが、セットのナイフを使ってもうまく削げない「パ",
+      "title": "朝起きられない思春期男子二人を起こすため、母親がベッドに潜り込んだら→どちらも添",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "踊る大捜査線",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
