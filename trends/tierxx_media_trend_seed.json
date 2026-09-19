@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-09-19T21:01:28+0900",
+    "generated_at": "2026-09-20T08:24:21+0900",
     "record_count": 34,
-    "source_total_in_db": 1239,
+    "source_total_in_db": 1240,
     "provenance_breakdown": {
-      "evidence": 805,
+      "evidence": 806,
       "pain_seed": 434
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_54559b80e5a7",
+      "trend_term": "美容クリニック症例投稿自動化",
+      "raw_title": "「症例写真を“投稿しない”のは大きな損失！美容クリニックの投稿作業を自動化する新サービスを提供開始」 - PR TIMES",
+      "summary": "美容クリニックの症例写真投稿を自動化する新サービスが提供開始。クリニックのSNS運用課題に対応した新技術・サービスモデル",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1ZzlCa0Jwa3ZEUmFYMjZYVTdzX3cxX2hfT2dCTmc2eWxpRnQ0X1VkMkJ4TGt4MmR0MkJWbHM1S2xfeVdxbTRJRm4tSWxLRmtwb1V3eGRnVnA1MzNRYmJaZVJ2Y0NBSUZLZFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1ZzlCa0Jwa3ZEUmFYMjZYVTdzX3cxX2hfT2dCTmc2eWxpRnQ0X1VkMkJ4TGt4MmR0MkJWbHM1S2xfeVdxbTRJRm4tSWxLRmtwb1V3eGRnVnA1MzNRYmJaZVJ2Y0NBSUZLZFE?oc=5",
+      "source_name": "PR TIMES",
+      "monitor_id": "bm-sns-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-09-25T08:24:21+0900",
+      "status": "candidate",
+      "created_at": "2026-09-20T08:24:21+0900"
+    },
     {
       "seed_id": "seed_807fe21459cf",
       "trend_term": "美容クリニック情報源調査",
@@ -605,24 +623,6 @@
       "valid_until": "2026-09-26T20:42:00+0900",
       "status": "candidate",
       "created_at": "2026-09-12T20:42:00+0900"
-    },
-    {
-      "seed_id": "seed_e445bf3e742d",
-      "trend_term": "SNS炎上と謝罪戦略",
-      "raw_title": "SNS投稿が奪った200億円組織の信頼 ～なぜ謝罪の言いぶんが事態を悪化させたのか～ - リスク対策.com",
-      "summary": "SNS投稿による組織信頼喪失と謝罪対応の失敗事例。美容医療関係者のSNS運用・リスク管理の注意喚起素材。",
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yQTdQSkRJRUhPRXlqS3JFZWVhVnNHSC1seklOZFU5QlhLTDhPc1ZBTE16Y1gwUTlUQ1ZCa0ZUYi1LVEZEcDNPdWd1QjJMdVZMYlQtN25aWQ?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yQTdQSkRJRUhPRXlqS3JFZWVhVnNHSC1seklOZFU5QlhLTDhPc1ZBTE16Y1gwUTlUQ1ZCa0ZUYi1LVEZEcDNPdWd1QjJMdVZMYlQtN25aWQ?oc=5",
-      "source_name": "リスク対策.com",
-      "monitor_id": "bm-sns-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-25T08:21:21+0900",
-      "status": "candidate",
-      "created_at": "2026-09-11T08:21:21+0900"
     }
   ]
 }
