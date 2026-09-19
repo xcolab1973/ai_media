@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T08:33:00+09:00",
+  "generated_at": "2026-09-19T15:39:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,47 +16,57 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 9,
+    "neg_excluded": 10,
+    "dedup_excluded": 8,
     "passed_total": 114,
     "b2b_category_counts": {
-      "x_realtime": 9,
-      "google_trends": 10,
       "yahoo_realtime": 32,
-      "news_web": 15,
-      "yahoo_news_ranking": 4
+      "google_trends": 10,
+      "x_realtime": 9,
+      "news_web": 14,
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
+    "social_reaction": 28,
+    "medical_science": 5,
     "opinion": 10,
-    "hard_fact": 25,
-    "policy": 6
+    "personal_story": 2,
+    "policy": 6,
+    "hard_fact": 19
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
+    "social_reaction": 28,
+    "medical_science": 4,
     "opinion": 10,
-    "hard_fact": 25,
-    "policy": 6
+    "policy": 6,
+    "hard_fact": 20,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "漫画アプリの無料報酬獲得のためにクソゲー広告を見ていたら「貸せ、オレがやる」モー",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "東京・八重洲口前再開発で「ど根性ビル」2棟残る　オーナー「売るなと親に言われたた",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "鈴木亮平",
+      "title": "ブルガダ症候群の対策として、心外膜アブレーション手術を受けました - 下林明正の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "田中将大",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "国立美術館6施設、入館料値上げ　10月以降、現行の2～3倍に",
+      "title": "工場長「有給？何するの？」私「親戚が長くないので婚約者と会いに」工場長「定休でよ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "social_reaction"
     },
     {
       "title": "スウェーデン総選挙、左派野党が僅差で勝利 首相は辞任表明",
@@ -65,37 +75,31 @@
       "topic_category": "policy"
     },
     {
-      "title": "駅でみつけた鉄柱の錆び跡が言われてみたら有名絵画に見えてくる「確かにそう見える！",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "サタプラ",
+      "title": "巨人 対 中日",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "「おじゃる丸」人気投票の中間発表で1位が「ウシ」なのはガチなのか荒らされてるのか",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ある日、日赤から「あなたの白血球と一致した人がいます。使っていいですか？」と電話",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "レンジャーズ 対 ブルージェイズ",
+      "title": "コンサドーレ札幌",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "幕張メッセ イベント",
+      "title": "味スタ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "篠塚",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "中央銀行",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -103,64 +107,64 @@
   ],
   "note_top10": [
     {
-      "title": "漫画アプリの無料報酬獲得のためにクソゲー広告を見ていたら「貸せ、オレがやる」モー",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "駅でみつけた鉄柱の錆び跡が言われてみたら有名絵画に見えてくる「確かにそう見える！",
+      "title": "東京・八重洲口前再開発で「ど根性ビル」2棟残る　オーナー「売るなと親に言われたた",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ある日、日赤から「あなたの白血球と一致した人がいます。使っていいですか？」と電話",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "ブルガダ症候群の対策として、心外膜アブレーション手術を受けました - 下林明正の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
     },
     {
-      "title": "女性なら、社会人になった時点でわかるようになるかも。私も高校生の時、東方proj",
+      "title": "工場長「有給？何するの？」私「親戚が長くないので婚約者と会いに」工場長「定休でよ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "おばあちゃんの葬式に来たら遺影が別人…親戚が生前の写真を使ってAIで画像生成した",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "MADE IN YAMATO - 第１７話　筋肉センサーを信じろ | ヤンマガW",
+      "title": "【独自】エホバの証人、「他人の血」輸血を一部容認へ　内部文書入手　全血は禁止維持",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "鈴木亮平",
+      "title": "先方から「申し訳ないが緊急で来てもらえないか」と連絡が入った時、たまたまその会社",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "メゾピアノの騒動、ブランドの顧客層と損失を考えると、企画を通した担当者は首が飛ぶ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ヨーグルトを毎日食べるのは「祈り」だと思っていたが、食べるのをやめた時にひどい目",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "海外のお子様に着付けをすることになった、浴衣を見て「布じゃん！」→完成すると初見",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "田中将大",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "サタプラ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ストラトキャスター・スタイルをめぐる争いが続く中、フェンダーのCEOは進め方に問",
+      "title": "睡眠姦してみた感想。",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "韓国の試合前に北朝鮮の国歌、アジア大会で不手際　行事で秀吉登場も：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     }
   ]
 }
