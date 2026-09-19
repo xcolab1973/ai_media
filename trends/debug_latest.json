@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T15:39:00+09:00",
+  "generated_at": "2026-09-19T21:04:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,46 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 8,
-    "passed_total": 114,
+    "neg_excluded": 15,
+    "dedup_excluded": 7,
+    "passed_total": 110,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
+      "yahoo_realtime": 33,
       "google_trends": 10,
-      "x_realtime": 9,
-      "news_web": 14,
-      "yahoo_news_ranking": 5
+      "x_realtime": 8,
+      "news_web": 16,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
     "social_reaction": 28,
-    "medical_science": 5,
     "opinion": 10,
-    "personal_story": 2,
-    "policy": 6,
-    "hard_fact": 19
+    "medical_science": 7,
+    "personal_story": 4,
+    "hard_fact": 18,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
     "social_reaction": 28,
-    "medical_science": 4,
-    "opinion": 10,
-    "policy": 6,
     "hard_fact": 20,
-    "personal_story": 2
+    "policy": 3,
+    "opinion": 10,
+    "medical_science": 5,
+    "personal_story": 4
   },
   "b2b_top10": [
+    {
+      "title": "「作風で売れている人は、基本的にいない」イラストレーター中村佑介が学生に語った仕",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "新作TVアニメ「新 美味しんぼ」放送決定！シンエイ動画50周年記念で発表（動画あ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
     {
       "title": "東京・八重洲口前再開発で「ど根性ビル」2棟残る　オーナー「売るなと親に言われたた",
       "source_category": "yahoo_realtime",
@@ -51,55 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ブルガダ症候群の対策として、心外膜アブレーション手術を受けました - 下林明正の",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "田中将大",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "工場長「有給？何するの？」私「親戚が長くないので婚約者と会いに」工場長「定休でよ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "スウェーデン総選挙、左派野党が僅差で勝利 首相は辞任表明",
+      "title": "北方領土、ドイツ機密文書が映すロシアの本音　「対話の期待」逆手に - 日本経済新",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "巨人 対 中日",
+      "title": "室伏広治",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "コンサドーレ札幌",
+      "title": "大友愛",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "味スタ",
+      "title": "メゾピアノの騒動、ブランドの顧客層と損失を考えると、企画を通した担当者は首が飛ぶ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ショート動画で猫に舐められて絶望してる鳩が流れてきたのでそれをずっと見ている「こ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "武井壮",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "篠塚",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "中央銀行",
+      "title": "トッテナム",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +107,64 @@
   ],
   "note_top10": [
     {
+      "title": "「作風で売れている人は、基本的にいない」イラストレーター中村佑介が学生に語った仕",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "東京・八重洲口前再開発で「ど根性ビル」2棟残る　オーナー「売るなと親に言われたた",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ブルガダ症候群の対策として、心外膜アブレーション手術を受けました - 下林明正の",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "工場長「有給？何するの？」私「親戚が長くないので婚約者と会いに」工場長「定休でよ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【独自】エホバの証人、「他人の血」輸血を一部容認へ　内部文書入手　全血は禁止維持",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "先方から「申し訳ないが緊急で来てもらえないか」と連絡が入った時、たまたまその会社",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "メゾピアノの騒動、ブランドの顧客層と損失を考えると、企画を通した担当者は首が飛ぶ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ヨーグルトを毎日食べるのは「祈り」だと思っていたが、食べるのをやめた時にひどい目",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "海外のお子様に着付けをすることになった、浴衣を見て「布じゃん！」→完成すると初見",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "田中将大",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "睡眠姦してみた感想。",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「イギリスの公園にオープンワールドゲームにありがちな草が生えてた」世界中で起きて",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ショート動画で猫に舐められて絶望してる鳩が流れてきたのでそれをずっと見ている「こ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "自分の年齢が40歳であることを公表したVTuberさん、視聴者の年齢層から若者が",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "AIに任せた品質は、誰が見立てるのか - AI時代のテストマネジメント",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "日銀1.25%へ利上げ決定と謎ナラティブ｜飯田泰之",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "トマトのビニールハウスで振動受粉用のマルハナバチが手に止まると毎回花粉の塊を置い",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ミニサイズの生ハム原木を買ったのだが、セットのナイフを使ってもうまく削げない「パ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ]
 }
