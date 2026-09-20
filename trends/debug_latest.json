@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T21:38:00+09:00",
+  "generated_at": "2026-09-21T01:31:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,97 +7,99 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 117,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 25,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 11,
-    "passed_total": 114,
+    "neg_excluded": 10,
+    "dedup_excluded": 7,
+    "passed_total": 100,
     "b2b_category_counts": {
-      "yahoo_realtime": 39,
+      "yahoo_realtime": 21,
       "google_trends": 10,
-      "x_realtime": 5,
-      "yahoo_news_ranking": 3,
-      "news_web": 13
+      "x_realtime": 10,
+      "yahoo_news_ranking": 8,
+      "news_web": 21
     }
   },
   "note_category_counts": {
-    "social_reaction": 34,
-    "personal_story": 4,
-    "medical_science": 9,
+    "social_reaction": 28,
+    "personal_story": 1,
     "opinion": 10,
-    "hard_fact": 13
+    "medical_science": 5,
+    "hard_fact": 25,
+    "policy": 1
   },
   "b2b_topic_category_counts": {
-    "medical_science": 5,
-    "social_reaction": 34,
-    "personal_story": 4,
+    "social_reaction": 28,
     "opinion": 10,
-    "hard_fact": 17
+    "personal_story": 1,
+    "hard_fact": 29,
+    "policy": 1,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "【分析】トランプ氏のAI規制反対は「中国に勝つ」ため　中国の脅威はどれほどなのか",
+      "title": "TBSによる試合終了後の録画放送を巡って批判が続出 サッカー試合中にCM",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "転売ヤーが『ウルトラマンティガ』のキャラ名が言えなくて弾かれたのを横目にちゃんと",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "raw_source_key": "livedoor_topics",
       "topic_category": "social_reaction"
     },
     {
-      "title": "フードコートで銀だこを食べてたら見知らぬ子が「僕も食べたーい」と言い、親が「すみ",
+      "title": "リーグアン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "real madrid",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "レアル・マドリード",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "深夜に腹痛、しびれ、呼吸困難…救急搬送された庄司智春が心境を回顧",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "raw_source_key": "livedoor_topics",
       "topic_category": "personal_story"
     },
     {
-      "title": "息子がアパート引き払う時にとんでもない高額を請求され、不動産屋におかしなところを",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "母親の実家のある地方で『祟り』があると噂される石塚が破壊されているのが発見され、",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "新幹線で14,000円払ってるのに隣の男性にスペース侵食されて10,000円分ぐ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "元山飛優",
+      "title": "田中碧",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ジェイソンステイサム",
+      "title": "エンドゲーム アンコール",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "イッテq",
+      "title": "ヨーロッパ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "xsmb",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "nba",
+      "title": "石橋静河",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,63 +107,63 @@
   ],
   "note_top10": [
     {
-      "title": "転売ヤーが『ウルトラマンティガ』のキャラ名が言えなくて弾かれたのを横目にちゃんと",
+      "title": "TBSによる試合終了後の録画放送を巡って批判が続出 サッカー試合中にCM",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "raw_source_key": "livedoor_topics",
       "topic_category": "social_reaction"
     },
     {
-      "title": "フードコートで銀だこを食べてたら見知らぬ子が「僕も食べたーい」と言い、親が「すみ",
+      "title": "深夜に腹痛、しびれ、呼吸困難…救急搬送された庄司智春が心境を回顧",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "raw_source_key": "livedoor_topics",
       "topic_category": "personal_story"
     },
     {
-      "title": "【分析】トランプ氏のAI規制反対は「中国に勝つ」ため　中国の脅威はどれほどなのか",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "新幹線で14,000円払ってるのに隣の男性にスペース侵食されて10,000円分ぐ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "“江戸の謎の漂着船”「うつろ舟」新資料 国立公文書館で確認 | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "キッコーマン、アメリカで３か所目のしょうゆ工場を本格稼働「米国の国民的調味料にな",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日本との決勝前に韓国男子バスケ練習中止　送迎バス来ず「意図的な妨害も疑わざるを得",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "白雪姫が7歳であることから鏡がロリコン趣味すぎないかという話…「七人の小人もヤバ",
+      "title": "母親の実家のある地方で『祟り』があると噂される石塚が破壊されているのが発見され、",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「我々平民の最も知りたいのは」天皇、皇后両陛下がジブリパークをご訪問、記念撮影を",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「≒JOY」の藤沢莉子がバセドウ病を公表 今後の活動に一部制限",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "livedoor_topics",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「『アフタヌーンティー』のことを『ヌン活』『ヌン茶』って略すの下品！」みたいなの",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "井ノ原快彦にゲストから思わぬ告白「ずっと楽屋でそわそわしちゃって」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "livedoor_topics",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "アジア大会のクルーズ船選手村の紹介映像 海外ファンから反響",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "livedoor_topics",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「映画ちいかわ」が入場者特典を巡り謝罪 声優の名前などに誤り",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "livedoor_topics",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "鹿児島県の飲食店経営者 遺体発見から殺人断定まで1カ月の背景",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "livedoor_topics",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "有吉弘行が野球漫画「ドラフトキング」を「めっちゃ面白い」と絶賛",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "livedoor_topics",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "アジア大会サッカー男子 U-21日本がキルギスに勝利で決勝トーナメントへ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "livedoor_topics",
       "topic_category": "social_reaction"
     }
   ]
