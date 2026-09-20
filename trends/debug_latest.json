@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T01:31:00+09:00",
+  "generated_at": "2026-09-21T08:29:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,163 +7,163 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 117,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 25,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 7,
-    "passed_total": 100,
+    "neg_excluded": 5,
+    "dedup_excluded": 13,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 21,
+      "yahoo_realtime": 39,
       "google_trends": 10,
-      "x_realtime": 10,
-      "yahoo_news_ranking": 8,
-      "news_web": 21
+      "x_realtime": 5,
+      "news_web": 13,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "personal_story": 1,
+    "personal_story": 4,
+    "social_reaction": 34,
     "opinion": 10,
-    "medical_science": 5,
-    "hard_fact": 25,
-    "policy": 1
+    "medical_science": 8,
+    "hard_fact": 11,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
+    "personal_story": 4,
+    "social_reaction": 34,
     "opinion": 10,
-    "personal_story": 1,
-    "hard_fact": 29,
-    "policy": 1,
-    "medical_science": 1
+    "medical_science": 3,
+    "hard_fact": 16,
+    "policy": 3
   },
   "b2b_top10": [
     {
-      "title": "TBSによる試合終了後の録画放送を巡って批判が続出 サッカー試合中にCM",
+      "title": "[閲覧注意]生き残った者/消えた妹/1980サバイバル imahi in1983",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "リーグアン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "real madrid",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "レアル・マドリード",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "深夜に腹痛、しびれ、呼吸困難…救急搬送された庄司智春が心境を回顧",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "母親の実家のある地方で『祟り』があると噂される石塚が破壊されているのが発見され、",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「すぐに」を意味する「immediately」はかなり緊急性の高い表現だが、ちょ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "田中碧",
+      "title": "マック",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "エンドゲーム アンコール",
+      "title": "少し前、旦那から内臓が腐ったような臭いがしたので検査を受けたら大腸に悪性のポリー",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "チョッキー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ヨーロッパ",
+      "title": "ミルクスネーク",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "石橋静河",
+      "title": "チョッキー 俳優",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
+    },
+    {
+      "title": "【アジア大会】選手村なしで混乱　男女同室、自力でホテル探し、サッカーバスが野球場",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "母親の実家のある地方で『祟り』があると噂される石塚が破壊されているのが発見され、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "映画「ちいかわ」がひみつ本の誤字訂正を報告に合わせて、ナガノ先生も鮭を觟と誤字し",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
-      "title": "TBSによる試合終了後の録画放送を巡って批判が続出 サッカー試合中にCM",
+      "title": "[閲覧注意]生き残った者/消えた妹/1980サバイバル imahi in1983",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "深夜に腹痛、しびれ、呼吸困難…救急搬送された庄司智春が心境を回顧",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
+      "title": "「すぐに」を意味する「immediately」はかなり緊急性の高い表現だが、ちょ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「我々平民の最も知りたいのは」天皇、皇后両陛下がジブリパークをご訪問、記念撮影を",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "【アジア大会】選手村なしで混乱　男女同室、自力でホテル探し、サッカーバスが野球場",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "母親の実家のある地方で『祟り』があると噂される石塚が破壊されているのが発見され、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "映画「ちいかわ」がひみつ本の誤字訂正を報告に合わせて、ナガノ先生も鮭を觟と誤字し",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "決勝当日にバスが来ない、豊臣秀吉がお出迎え、韓国戦で北朝鮮国歌……愛知で開催され",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「おもしろさ」は「若さ」「元気」「健康」に依存している - シロクマの屑籠",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "VTuber・しぐれういが「mezzo piano」コラボ中止の件について配信で",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「≒JOY」の藤沢莉子がバセドウ病を公表 今後の活動に一部制限",
+      "title": "「失敗許されない年」JOC会長　アジア大会の先に描くシナリオは：朝日新聞",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "井ノ原快彦にゲストから思わぬ告白「ずっと楽屋でそわそわしちゃって」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "アジア大会のクルーズ船選手村の紹介映像 海外ファンから反響",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「映画ちいかわ」が入場者特典を巡り謝罪 声優の名前などに誤り",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "鹿児島県の飲食店経営者 遺体発見から殺人断定まで1カ月の背景",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "有吉弘行が野球漫画「ドラフトキング」を「めっちゃ面白い」と絶賛",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "アジア大会サッカー男子 U-21日本がキルギスに勝利で決勝トーナメントへ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
