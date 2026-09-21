@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T08:29:00+09:00",
+  "generated_at": "2026-09-21T16:12:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,163 +7,163 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 13,
-    "passed_total": 114,
+    "neg_excluded": 8,
+    "dedup_excluded": 7,
+    "passed_total": 107,
     "b2b_category_counts": {
-      "yahoo_realtime": 39,
+      "yahoo_realtime": 27,
+      "x_realtime": 9,
       "google_trends": 10,
-      "x_realtime": 5,
-      "news_web": 13,
-      "yahoo_news_ranking": 3
+      "news_web": 22,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "personal_story": 4,
-    "social_reaction": 34,
+    "social_reaction": 25,
+    "medical_science": 9,
+    "personal_story": 2,
     "opinion": 10,
-    "medical_science": 8,
-    "hard_fact": 11,
-    "policy": 3
+    "policy": 2,
+    "hard_fact": 22
   },
   "b2b_topic_category_counts": {
-    "personal_story": 4,
-    "social_reaction": 34,
+    "medical_science": 4,
+    "social_reaction": 25,
     "opinion": 10,
-    "medical_science": 3,
-    "hard_fact": 16,
-    "policy": 3
+    "hard_fact": 25,
+    "personal_story": 2,
+    "policy": 4
   },
   "b2b_top10": [
     {
-      "title": "[閲覧注意]生き残った者/消えた妹/1980サバイバル imahi in1983",
+      "title": "リアルター - フクダ地蔵 / 第１６話　外れた人の道 | コミックDAYS",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「すぐに」を意味する「immediately」はかなり緊急性の高い表現だが、ちょ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "マック",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "少し前、旦那から内臓が腐ったような臭いがしたので検査を受けたら大腸に悪性のポリー",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "medical_science"
     },
     {
-      "title": "チョッキー",
+      "title": "トラブル返金対応の不適切表現で物議をかもしているアイドルグループ、スタッフが現地",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "プレスリーガーバー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ミルクスネーク",
+      "title": "多摩川競艇",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "チョッキー 俳優",
+      "title": "停電情報",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "【アジア大会】選手村なしで混乱　男女同室、自力でホテル探し、サッカーバスが野球場",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "橋本大輝",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "母親の実家のある地方で『祟り』があると噂される石塚が破壊されているのが発見され、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "競馬ラボ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "映画「ちいかわ」がひみつ本の誤字訂正を報告に合わせて、ナガノ先生も鮭を觟と誤字し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "あーちゃん",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ロブチェン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "モスクワ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "[閲覧注意]生き残った者/消えた妹/1980サバイバル imahi in1983",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「すぐに」を意味する「immediately」はかなり緊急性の高い表現だが、ちょ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「我々平民の最も知りたいのは」天皇、皇后両陛下がジブリパークをご訪問、記念撮影を",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "【アジア大会】選手村なしで混乱　男女同室、自力でホテル探し、サッカーバスが野球場",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "母親の実家のある地方で『祟り』があると噂される石塚が破壊されているのが発見され、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "映画「ちいかわ」がひみつ本の誤字訂正を報告に合わせて、ナガノ先生も鮭を觟と誤字し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "決勝当日にバスが来ない、豊臣秀吉がお出迎え、韓国戦で北朝鮮国歌……愛知で開催され",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「おもしろさ」は「若さ」「元気」「健康」に依存している - シロクマの屑籠",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "VTuber・しぐれういが「mezzo piano」コラボ中止の件について配信で",
+      "title": "トラブル返金対応の不適切表現で物議をかもしているアイドルグループ、スタッフが現地",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「失敗許されない年」JOC会長　アジア大会の先に描くシナリオは：朝日新聞",
+      "title": "リアルター - フクダ地蔵 / 第１６話　外れた人の道 | コミックDAYS",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "『踊る大捜査線N.E.W.』良くも悪くも「平成感ある」という声が強いが、この画像",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "旅先で道を尋ねると「え？！そこまで徒歩で？！30分はかかりますよ？！」とビビられ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "利上げ加速で始まる銀行選別　信金の嘆き｢天井まで耐えられるのか｣ - 日本経済新",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "アメリカのケーキ屋さんで売っていた『スニッカーズケーキ』を見たときに「これは日本",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "夫はたまに的確すぎるアドバイスをくれる、食べない2歳の子供に悩んでた時に「食べて",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "大塚国際美術館を訪れた漫画家・椎名高志先生、とある絵を前に「おれ・・ここを知って",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『機動警察パトレイバー』ゆうきまさみ先生が約15年前に「以前読んだ香港時代の内海",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中国語を勉強していた時、老師から「ネイティブと話すのが一番の勉強」とよく言われた",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
