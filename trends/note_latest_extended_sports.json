@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21T06:36:53+09:00",
+ "generated_at": "2026-09-21T16:54:18+09:00",
  "valid_until": "2026-10-05T06:35:32+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "sports",
   "from_current": 16,
-  "from_new": 3,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 3,
+  "retention_dropped": 1,
   "genres": 2,
   "retention_per_genre": 8
  },
@@ -258,6 +258,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "ラグビーリーグワンプレーオフはどこで見られる？視聴方法まとめ",
+   "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/ntt-japan-league-one-2025-26-play-off-schedule-broadcast/blte39dba92b6b6baac",
+   "summary": "秋開幕シーズンに向けてラグビーリーグワンをJ SPORTS、ABEMA、Amazon Prime Videoなど複数配信サービスのどれで視聴すべきかを整理した記事。初めて観戦する読者が配信選びで迷う点をカバー。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "sports-watch",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Goal.com 日本",
+    "expert_origin": true,
+    "search_query": "ラグビー リーグワン 2026 開幕 配信 初めて見る 楽しみ方",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-26T16:50:56+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "「CSをやる意味あるのか？」プロ野球ファイナルSのルール改定に賛否",
    "url": "https://news.yahoo.co.jp/articles/925c632bcb3da4de2956cfc9ce96be21181a93d4",
    "summary": "NPBのCSファイナルステージのアドバンテージ拡大ルールについて、ファンから「1位を勝たせたいなら最初からやめたら」など賛否両論の声が上がっている。観戦者の間でルール変更への理解不足も見られる。",
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-24T06:36:29+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "Jリーグは何が変わる？開幕時期・レギュレーションは？｜2026-27シーズン",
-   "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/jleague-opening-regulations-2026-27/blt675ac6b13bdd1f26",
-   "summary": "Jリーグが2026-27シーズンから秋春制へ移行することに伴う開幕時期・ウィンターブレイク・レギュレーション変更点を整理。2026年8月開幕、2027年5月末閉幕という移行期特有の変則日程を説明している。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "sports-watch",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Goal.com 日本",
-    "expert_origin": false,
-    "search_query": "Jリーグ 秋春制 2026-27 開幕 変更点",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": true,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-23T16:48:02+09:00",
    "validity_days": 5
   }
  ]

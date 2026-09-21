@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-09-21T06:36:52+09:00",
- "valid_until": "2026-10-04T06:33:51+09:00",
+ "generated_at": "2026-09-21T16:54:17+09:00",
+ "valid_until": "2026-10-05T16:43:12+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "childcare",
- "total_count": 13,
+ "total_count": 14,
  "merge": {
   "parent": "childcare",
   "from_current": 13,
-  "from_new": 3,
+  "from_new": 1,
   "expired_pruned": 0,
   "retention_dropped": 0,
   "genres": 2,
@@ -254,6 +254,36 @@
     "rescued": false
    },
    "valid_until": "2026-09-24T06:34:22+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "新生児の熱が38度以上！いつごろ受診するべき？目安や夜間の対応を解説",
+   "url": "https://www.annyo.jp/magazine/shinseiji-netsu/",
+   "summary": "小児科オンライン診療クリニック監修。新生児の平熱は36.7〜37.5度。生後3ヶ月未満で37.5度以上は機嫌が良くてもかかりつけ医に相談、生後1ヶ月未満で38度以上は夜間救急を検討すべきと解説。秋の気温差では厚着による見かけ上の発熱にも注意。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "safety_claim",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "childcare-newborn",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "あんよ（オンライン診療小児科）",
+    "expert_origin": true,
+    "search_query": "新生児 秋 体調管理 発熱 何科 受診 目安 気温差",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-10-05T16:43:12+09:00",
    "validity_days": 14
   },
   {
