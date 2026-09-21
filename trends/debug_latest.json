@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T23:33:00+09:00",
+  "generated_at": "2026-09-22T03:20:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,31 +16,31 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 4,
-    "dedup_excluded": 10,
-    "passed_total": 118,
+    "neg_excluded": 3,
+    "dedup_excluded": 9,
+    "passed_total": 120,
     "b2b_category_counts": {
-      "yahoo_realtime": 38,
-      "x_realtime": 7,
-      "news_web": 13,
+      "yahoo_realtime": 39,
+      "x_realtime": 9,
       "google_trends": 10,
+      "news_web": 10,
       "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
+    "social_reaction": 32,
     "personal_story": 5,
-    "opinion": 9,
+    "opinion": 10,
     "medical_science": 6,
-    "hard_fact": 13,
-    "policy": 4
+    "hard_fact": 11,
+    "policy": 6
   },
   "b2b_topic_category_counts": {
     "social_reaction": 32,
-    "hard_fact": 18,
     "personal_story": 5,
-    "opinion": 9,
-    "policy": 5,
+    "opinion": 10,
+    "hard_fact": 15,
+    "policy": 7,
     "medical_science": 1
   },
   "b2b_top10": [
@@ -51,15 +51,15 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "減便・廃線ラッシュの日本と何が違う？鉄道網をビジネス任せにせず公的に守るヨーロッ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "今日初めましてXを初めました！！中1のあゆむです！！みんな仲良くしてください！！",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "なんでもかんでも値上げした結果、その値段を出してまで食うものじゃないなってものが",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "減便・廃線ラッシュの日本と何が違う？鉄道網をビジネス任せにせず公的に守るヨーロッ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -75,10 +75,10 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "大島町 土砂災害危険警報に切替",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
+      "title": "なんでもかんでも値上げした結果、その値段を出してまで食うものじゃないなってものが",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
       "title": "もう全部はできないので---高河｜高河ゆん",
@@ -87,22 +87,22 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "地震 速報",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
       "title": "[閲覧注意]生き残った者/消えた妹/1980サバイバル imahi in1983",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "オルカン",
+      "title": "徳山秀典",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
+    },
+    {
+      "title": "大島町 土砂災害危険警報に切替",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
@@ -113,19 +113,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "減便・廃線ラッシュの日本と何が違う？鉄道網をビジネス任せにせず公的に守るヨーロッ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "NHKつけたら平野レミが生放送で勝手に告知初めて「レミさん！NHKです！本当にや",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "なんでもかんでも値上げした結果、その値段を出してまで食うものじゃないなってものが",
+      "title": "今日初めましてXを初めました！！中1のあゆむです！！みんな仲良くしてください！！",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -137,9 +131,21 @@
       "topic_category": "personal_story"
     },
     {
+      "title": "減便・廃線ラッシュの日本と何が違う？鉄道網をビジネス任せにせず公的に守るヨーロッ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "NHK、戸別の訪問営業を再開　23年廃止の外部法人委託を復活、受信料収入の増加図",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "なんでもかんでも値上げした結果、その値段を出してまで食うものじゃないなってものが",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -155,13 +161,7 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "「東大行った人のこういう情報、マジで助かる」『勉強を教えない家庭教師が、ポケモン",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "元警察官のスペイン人夫が日本で「麻薬」を見かけなさすぎて驚いた話…かつて日本でも",
+      "title": "子供が「○○くんのパパヤクザなんだよー」と言っていたが、この間会ったら腰の低いお",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
