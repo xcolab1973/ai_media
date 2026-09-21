@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T16:12:00+09:00",
+  "generated_at": "2026-09-21T23:33:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,99 +7,99 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 7,
-    "passed_total": 107,
+    "neg_excluded": 4,
+    "dedup_excluded": 10,
+    "passed_total": 118,
     "b2b_category_counts": {
-      "yahoo_realtime": 27,
-      "x_realtime": 9,
+      "yahoo_realtime": 38,
+      "x_realtime": 7,
+      "news_web": 13,
       "google_trends": 10,
-      "news_web": 22,
       "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 25,
-    "medical_science": 9,
-    "personal_story": 2,
-    "opinion": 10,
-    "policy": 2,
-    "hard_fact": 22
+    "social_reaction": 33,
+    "personal_story": 5,
+    "opinion": 9,
+    "medical_science": 6,
+    "hard_fact": 13,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "medical_science": 4,
-    "social_reaction": 25,
-    "opinion": 10,
-    "hard_fact": 25,
-    "personal_story": 2,
-    "policy": 4
+    "social_reaction": 32,
+    "hard_fact": 18,
+    "personal_story": 5,
+    "opinion": 9,
+    "policy": 5,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "リアルター - フクダ地蔵 / 第１６話　外れた人の道 | コミックDAYS",
+      "title": "48歳男性の友人が制服姿の愛娘を含めた女子高校生3人とルンルンで焼肉を食べて店か",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "トラブル返金対応の不適切表現で物議をかもしているアイドルグループ、スタッフが現地",
+      "title": "減便・廃線ラッシュの日本と何が違う？鉄道網をビジネス任せにせず公的に守るヨーロッ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "なんでもかんでも値上げした結果、その値段を出してまで食うものじゃないなってものが",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "プレスリーガーバー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "NHK、戸別の訪問営業を再開　23年廃止の外部法人委託を復活、受信料収入の増加図",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "多摩川競艇",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "NHKつけたら平野レミが生放送で勝手に告知初めて「レミさん！NHKです！本当にや",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "停電情報",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "大島町 土砂災害危険警報に切替",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "橋本大輝",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "もう全部はできないので---高河｜高河ゆん",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "競馬ラボ",
+      "title": "地震 速報",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "topic_category": "hard_fact"
     },
     {
-      "title": "あーちゃん",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "[閲覧注意]生き残った者/消えた妹/1980サバイバル imahi in1983",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
-      "title": "ロブチェン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "モスクワ",
+      "title": "オルカン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
-      "title": "トラブル返金対応の不適切表現で物議をかもしているアイドルグループ、スタッフが現地",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "リアルター - フクダ地蔵 / 第１６話　外れた人の道 | コミックDAYS",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "『踊る大捜査線N.E.W.』良くも悪くも「平成感ある」という声が強いが、この画像",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "旅先で道を尋ねると「え？！そこまで徒歩で？！30分はかかりますよ？！」とビビられ",
+      "title": "48歳男性の友人が制服姿の愛娘を含めた女子高校生3人とルンルンで焼肉を食べて店か",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "利上げ加速で始まる銀行選別　信金の嘆き｢天井まで耐えられるのか｣ - 日本経済新",
+      "title": "減便・廃線ラッシュの日本と何が違う？鉄道網をビジネス任せにせず公的に守るヨーロッ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "アメリカのケーキ屋さんで売っていた『スニッカーズケーキ』を見たときに「これは日本",
+      "title": "NHKつけたら平野レミが生放送で勝手に告知初めて「レミさん！NHKです！本当にや",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "なんでもかんでも値上げした結果、その値段を出してまで食うものじゃないなってものが",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "夫はたまに的確すぎるアドバイスをくれる、食べない2歳の子供に悩んでた時に「食べて",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "[閲覧注意]生き残った者/消えた妹/1980サバイバル imahi in1983",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "NHK、戸別の訪問営業を再開　23年廃止の外部法人委託を復活、受信料収入の増加図",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "大塚国際美術館を訪れた漫画家・椎名高志先生、とある絵を前に「おれ・・ここを知って",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "もう全部はできないので---高河｜高河ゆん",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『機動警察パトレイバー』ゆうきまさみ先生が約15年前に「以前読んだ香港時代の内海",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "ジョニー・マー、ザ・スミス時代にモリッシーと曲作りをした「魔法」のような体験を回",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「東大行った人のこういう情報、マジで助かる」『勉強を教えない家庭教師が、ポケモン",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "中国語を勉強していた時、老師から「ネイティブと話すのが一番の勉強」とよく言われた",
+      "title": "元警察官のスペイン人夫が日本で「麻薬」を見かけなさすぎて驚いた話…かつて日本でも",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
