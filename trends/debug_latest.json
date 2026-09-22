@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T09:16:00+09:00",
+  "generated_at": "2026-09-22T15:47:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,154 +16,154 @@
       "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
+    "neg_excluded": 8,
     "dedup_excluded": 11,
-    "passed_total": 106,
+    "passed_total": 103,
     "b2b_category_counts": {
-      "yahoo_realtime": 27,
-      "x_realtime": 8,
-      "news_web": 22,
+      "yahoo_realtime": 28,
+      "news_web": 17,
       "google_trends": 10,
-      "yahoo_news_ranking": 3
+      "x_realtime": 7,
+      "yahoo_news_ranking": 8
     }
   },
   "note_category_counts": {
+    "social_reaction": 21,
     "personal_story": 2,
-    "social_reaction": 23,
     "opinion": 10,
-    "policy": 6,
-    "medical_science": 5,
-    "hard_fact": 24
+    "medical_science": 4,
+    "hard_fact": 29,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "personal_story": 2,
-    "social_reaction": 23,
-    "policy": 7,
-    "hard_fact": 27,
+    "social_reaction": 21,
+    "hard_fact": 32,
     "opinion": 10,
+    "personal_story": 2,
+    "policy": 4,
     "medical_science": 1
   },
   "b2b_top10": [
     {
+      "title": "クジラの死骸が千葉に漂着した動画に、近くで眺める人たちが映っているが「クジラの死",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "うるう秒廃止、10月に正式決定　地球の自転速まり、うるう時を導入：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「店員が営業中に飲酒？」「記念撮影がまずダメ」…資さんうどん「乾杯動画」炎上に見",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "露下院選が終了 節目を越え今後は",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_world",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "PTA会長が女児を誘拐、キャンピングカーでありとあらゆる暴行を加え命を奪う……か",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ジャイアンツtv",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "bリーグ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "台風一過 関東など急な暑さに注意",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_domestic",
+      "topic_category": "hard_fact"
+    },
+    {
       "title": "寒い中、ヘルメットを被ったままATMへ…大金を懐にした直後に肩を掴まれ「すわ強盗",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "水族館で奇声をあげながら展示ガラスをガンガン叩いてる女児がいたので注意したら泣き",
+      "title": "動画で見たウイスキーのロウ付け作業が気持ちよすぎたので、ロウ付け体験に行ってみた",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Netflixで仕事するようなエリートたちが日本向けに何を作ればバズるか考えた結",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "NHK、戸別の訪問営業を再開　23年廃止の外部法人委託を復活、受信料収入の増加図",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "大阪都構想の特別区名、維新がアンケート　「ミャクミャ区」「ハルカス区」…独特な案",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "台湾労働部長が訪中 頼政権の高官で初",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "全国900万戸の空き家問題に一石投じるか　条例による独自課税へ　京都や大阪・寝屋",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "台風の爪痕残る 川や崖など注意を",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "Z世代がカジュアルに使う「食事キャンセル界隈」は本当に大丈夫なのか？　若者が「食",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "紅白歌合戦",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "topic_category": "personal_story"
     }
   ],
   "note_top10": [
     {
+      "title": "クジラの死骸が千葉に漂着した動画に、近くで眺める人たちが映っているが「クジラの死",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "うるう秒廃止、10月に正式決定　地球の自転速まり、うるう時を導入：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「店員が営業中に飲酒？」「記念撮影がまずダメ」…資さんうどん「乾杯動画」炎上に見",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "寒い中、ヘルメットを被ったままATMへ…大金を懐にした直後に肩を掴まれ「すわ強盗",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "水族館で奇声をあげながら展示ガラスをガンガン叩いてる女児がいたので注意したら泣き",
+      "title": "動画で見たウイスキーのロウ付け作業が気持ちよすぎたので、ロウ付け体験に行ってみた",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Netflixで仕事するようなエリートたちが日本向けに何を作ればバズるか考えた結",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "NHK、戸別の訪問営業を再開　23年廃止の外部法人委託を復活、受信料収入の増加図",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "大阪都構想の特別区名、維新がアンケート　「ミャクミャ区」「ハルカス区」…独特な案",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Z世代がカジュアルに使う「食事キャンセル界隈」は本当に大丈夫なのか？　若者が「食",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "子供が「○○くんのパパヤクザなんだよー」と言っていたが、この間会ったら腰の低いお",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ドイツで賃貸の詐欺が横行しているため、内見後に今日のeveningくらいまでに返",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "〈千葉・重度障がいの長女を殺害〉「ごめんなさい…本当にごめんなさい」介護を休むた",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "ドイツの鉄道メーカーが「日本に工場」をつくる理由 独自規格、商習慣の違いの壁を越",
+      "title": "PTA会長が女児を誘拐、キャンピングカーでありとあらゆる暴行を加え命を奪う……か",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "報道がキャンセル界隈って単語使うのやめた方がよくない？貧困って言いなさいよ→散々",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【アジア大会】トラブル多発の背景に仏企業の起用　処分受けた大手代理店「復活」求め",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ハードオフで買った、ジャンク品のファミコン→裏返すと……　「なんか涙出る」まさか",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "子供が使う下敷きがボロボロだと言うので「下敷きと言えばアニメイトでしょ」と近くの",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
