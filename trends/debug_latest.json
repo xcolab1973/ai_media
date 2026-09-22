@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T15:47:00+09:00",
+  "generated_at": "2026-09-22T21:50:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,35 +17,52 @@
       "x_realtime": 10
     },
     "neg_excluded": 8,
-    "dedup_excluded": 11,
-    "passed_total": 103,
+    "dedup_excluded": 7,
+    "passed_total": 107,
     "b2b_category_counts": {
       "yahoo_realtime": 28,
-      "news_web": 17,
       "google_trends": 10,
-      "x_realtime": 7,
-      "yahoo_news_ranking": 8
+      "news_web": 18,
+      "x_realtime": 10,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 21,
-    "personal_story": 2,
-    "opinion": 10,
-    "medical_science": 4,
-    "hard_fact": 29,
-    "policy": 4
+    "social_reaction": 29,
+    "analysis": 1,
+    "opinion": 9,
+    "hard_fact": 25,
+    "policy": 3,
+    "medical_science": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 21,
-    "hard_fact": 32,
-    "opinion": 10,
-    "personal_story": 2,
-    "policy": 4,
-    "medical_science": 1
+    "social_reaction": 29,
+    "hard_fact": 28,
+    "opinion": 9,
+    "analysis": 1,
+    "policy": 3
   },
   "b2b_top10": [
     {
       "title": "クジラの死骸が千葉に漂着した動画に、近くで眺める人たちが映っているが「クジラの死",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "台風25号通過後の埼玉県越谷市のレイクタウン、「レイクタウン水没wまさにレイクタ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "アジア大会組織委が会見、続発するトラブルの一部を謝罪　事実と異なる報道も多いと注",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "走る美食、鉄道経営の救世主に　「レストラン列車」相次ぎ登場　南海は100年ぶり復",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -57,52 +74,34 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「店員が営業中に飲酒？」「記念撮影がまずダメ」…資さんうどん「乾杯動画」炎上に見",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "露下院選が終了 節目を越え今後は",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_world",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "PTA会長が女児を誘拐、キャンピングカーでありとあらゆる暴行を加え命を奪う……か",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ジャイアンツtv",
+      "title": "アジア大会",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "bリーグ",
+      "title": "チャイニーズタイペイとは",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "analysis"
+    },
+    {
+      "title": "小川泰平",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "台風一過 関東など急な暑さに注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
-      "topic_category": "hard_fact"
+      "title": "張本美和",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "寒い中、ヘルメットを被ったままATMへ…大金を懐にした直後に肩を掴まれ「すわ強盗",
+      "title": "「コアラの里」から逃れたい…SOSが止まらない　「過酷な施設」と知りながら行政は",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "動画で見たウイスキーのロウ付け作業が気持ちよすぎたので、ロウ付け体験に行ってみた",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
@@ -113,55 +112,55 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "アジア大会組織委が会見、続発するトラブルの一部を謝罪　事実と異なる報道も多いと注",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "走る美食、鉄道経営の救世主に　「レストラン列車」相次ぎ登場　南海は100年ぶり復",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "うるう秒廃止、10月に正式決定　地球の自転速まり、うるう時を導入：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「店員が営業中に飲酒？」「記念撮影がまずダメ」…資さんうどん「乾杯動画」炎上に見",
+      "title": "「コアラの里」から逃れたい…SOSが止まらない　「過酷な施設」と知りながら行政は",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "寒い中、ヘルメットを被ったままATMへ…大金を懐にした直後に肩を掴まれ「すわ強盗",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "チャイニーズタイペイとは",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "analysis"
     },
     {
-      "title": "動画で見たウイスキーのロウ付け作業が気持ちよすぎたので、ロウ付け体験に行ってみた",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "PTA会長が女児を誘拐、キャンピングカーでありとあらゆる暴行を加え命を奪う……か",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "報道がキャンセル界隈って単語使うのやめた方がよくない？貧困って言いなさいよ→散々",
+      "title": "友達が結婚することになり、ウキウキで報告してくれて幸せいっぱいだったが、次に会っ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【アジア大会】トラブル多発の背景に仏企業の起用　処分受けた大手代理店「復活」求め",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "中学生の頃に私が描いた鯖の絵を父が行きつけの居酒屋に飾ったらしい、なんで…？「理",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ハードオフで買った、ジャンク品のファミコン→裏返すと……　「なんか涙出る」まさか",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "アメリカの知人「日本に寿司食べに行くから旨い店教えて」→わざわざ飛行機で日本へ？",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "子供が使う下敷きがボロボロだと言うので「下敷きと言えばアニメイトでしょ」と近くの",
+      "title": "愛鳥の火葬のため休みを取った後、上司に「犬や猫なら分かるけど、鳥が死んで悲しくな",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
