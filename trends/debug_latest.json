@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T02:20:00+09:00",
+  "generated_at": "2026-09-23T08:47:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,88 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
+    "neg_excluded": 5,
     "dedup_excluded": 10,
-    "passed_total": 115,
+    "passed_total": 117,
     "b2b_category_counts": {
       "yahoo_realtime": 37,
-      "x_realtime": 8,
       "google_trends": 10,
-      "news_web": 13,
-      "yahoo_news_ranking": 2
+      "x_realtime": 5,
+      "news_web": 15,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
+    "social_reaction": 28,
     "opinion": 10,
-    "hard_fact": 17,
-    "policy": 8,
-    "medical_science": 3
+    "personal_story": 2,
+    "policy": 6,
+    "medical_science": 3,
+    "hard_fact": 21
   },
   "b2b_topic_category_counts": {
-    "policy": 8,
-    "hard_fact": 19,
-    "social_reaction": 32,
+    "policy": 6,
+    "social_reaction": 26,
     "opinion": 10,
-    "medical_science": 1
+    "hard_fact": 24,
+    "medical_science": 2,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "米共和党、トランスジェンダー問題を中間選挙の切り札に",
+      "title": "【速報】国連総会で法の支配重視を訴えると首相",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "秋のJev祭り｜shi3z",
+      "title": "アメリカの知人「日本に寿司食べに行くから旨い店教えて」→わざわざ飛行機で日本へ？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "友達が結婚することになり、ウキウキで報告してくれて幸せいっぱいだったが、次に会っ",
+      "title": "ローソンのぼだっこ弁当「普通の鮭フレークが少し塩っぱいだけ」「これ、ぼだっこじゃ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "自宅が放火された時、幼稚園児だった自分と弟はベランダから受け取ってくれと放り出さ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ラヴ上等",
+      "title": "アジア 大会 北 朝鮮",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "純烈",
+      "title": "京都 天気",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "税金で買った本",
+      "title": "パイレーツ 対 カージナルス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ゆーちゅーぶ",
+      "title": "フィリーズ 対 ブルワーズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ナスダック100",
+      "title": "熱帯低気圧",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "山口茜",
+      "title": "山本里菜",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,13 +107,49 @@
   ],
   "note_top10": [
     {
-      "title": "友達が結婚することになり、ウキウキで報告してくれて幸せいっぱいだったが、次に会っ",
+      "title": "アメリカの知人「日本に寿司食べに行くから旨い店教えて」→わざわざ飛行機で日本へ？",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ローソンのぼだっこ弁当「普通の鮭フレークが少し塩っぱいだけ」「これ、ぼだっこじゃ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "自宅が放火された時、幼稚園児だった自分と弟はベランダから受け取ってくれと放り出さ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ゴールデンカムイをアニメだけで見ている母が登場人物の名前をどんどん忘れていくが…",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「推しの知名度が上がっている！！ので！！今が宣伝の時！！」あのVTuberを推す",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "昔ハワイでUberを呼んだらポルシェのSUVが来て、運転手が夜勤明けの消防士で家",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『風とロック芋煮会』でドンデコルテに「知らないよって方ー！」と声をかけられ挙手し",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "アニメ「ちいかわ」のハチワレの手で潰した虫の残骸をズームするアニオリ、親切過ぎる",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -123,43 +161,7 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "中学生の頃に私が描いた鯖の絵を父が行きつけの居酒屋に飾ったらしい、なんで…？「理",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『これで寺ミスなんですよ』世界遺産の中尊寺の境内にあるのにメニューの名前がやかま",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "アジア大会は超無理ゲー。名古屋は最後の日本開催になるだろう｜八田益之（「大人のト",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "アジア大会側が反論「組織委が原因ではありません」貧素な食事など報道に…自責ミスに",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "分身のロボットがカウンターで接客、難病・障害持つ「ママ」が遠隔操作…東京・日本橋",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "金沢城に行ったら、石垣の積み方がきれいなところとそうでないところがあり「別のチー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【企画展】「書店から消えた本　絶版回収本展示会」の開催について | 日本大学文理",
+      "title": "「タイは物価が安いから移住したら月40万円あれば余裕で暮らせる」という記事がある",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
