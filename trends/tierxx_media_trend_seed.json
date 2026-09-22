@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-09-21T23:27:37+0900",
+    "generated_at": "2026-09-22T09:14:46+0900",
     "record_count": 36,
-    "source_total_in_db": 1260,
+    "source_total_in_db": 1261,
     "provenance_breakdown": {
-      "evidence": 822,
+      "evidence": 823,
       "pain_seed": 438
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_88148f91d822",
+      "trend_term": "韓国発スキンブースター導入",
+      "raw_title": "ベンスクリニック横浜院、韓国で話題のスキンブースター「ティシボ（TISSIVO）」を2026年9月より導入 - iza.ne.jp",
+      "summary": "ベンスクリニック横浜院が韓国で話題のスキンブースター「ティシボ」を2026年9月より導入予定。新技術の日本展開情報。",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uUlJERUFMbG1MS2hLb0FfS1BKR2pNUklYdkdPSUZTeFdoN2hIMmlrYUotV2pUYkZCRWJQR3d3VHVBdzZ6Q3k4Z2p5Z1ZvOG5xWTl5M0p2cEZBcldlNHFCZDVnV2xpRG1KSl9ieTlqSzh6U2kwVlI1UkJn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uUlJERUFMbG1MS2hLb0FfS1BKR2pNUklYdkdPSUZTeFdoN2hIMmlrYUotV2pUYkZCRWJQR3d3VHVBdzZ6Q3k4Z2p5Z1ZvOG5xWTl5M0p2cEZBcldlNHFCZDVnV2xpRG1KSl9ieTlqSzh6U2kwVlI1UkJn?oc=5",
+      "source_name": "iza.ne.jp",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-09-27T09:14:25+0900",
+      "status": "candidate",
+      "created_at": "2026-09-22T09:14:25+0900"
+    },
     {
       "seed_id": "seed_41cb96f1a2b8",
       "trend_term": "美容医療人材確保競争",
@@ -425,24 +443,6 @@
       "valid_until": "2026-10-03T21:01:07+0900",
       "status": "candidate",
       "created_at": "2026-09-19T21:01:07+0900"
-    },
-    {
-      "seed_id": "seed_31334bcd1fd0",
-      "trend_term": "ヒアルロン酸注入適正",
-      "raw_title": "「ヒアルロン酸注入」が向いている人･向いていない人の違いとは? 施術を受ける前の注意点も皮膚科医が解説!【Gallery】 - メディカルドック",
-      "summary": "皮膚科医がヒアルロン酸注入に向く・向かない人の違い、施術前注意点を解説。患者の適応判断の悩み。",
-      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RYnE3c1NiTGtHTjdqa25OV2xxNFduVVltOEJIS0dFVWo2V0xDZ3pVazBqbGxFeFkxNm5rQ2lyZ0RJWXNzT2pZemQ2cW9kMTJuR0pYa3RMZHRIdEJDaEJ2RDlSTQ?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RYnE3c1NiTGtHTjdqa25OV2xxNFduVVltOEJIS0dFVWo2V0xDZ3pVazBqbGxFeFkxNm5rQ2lyZ0RJWXNzT2pZemQ2cW9kMTJuR0pYa3RMZHRIdEJDaEJ2RDlSTQ?oc=5",
-      "source_name": "メディカルドック",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-03T21:01:03+0900",
-      "status": "candidate",
-      "created_at": "2026-09-19T21:01:03+0900"
     },
     {
       "seed_id": "seed_a27ffc4067ca",
