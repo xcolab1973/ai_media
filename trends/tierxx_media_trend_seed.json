@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-09-22T16:53:40+0900",
-    "record_count": 36,
-    "source_total_in_db": 1266,
+    "generated_at": "2026-09-22T21:47:04+0900",
+    "record_count": 34,
+    "source_total_in_db": 1267,
     "provenance_breakdown": {
-      "evidence": 826,
+      "evidence": 827,
       "pain_seed": 440
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_f51bfa4dfae5",
+      "trend_term": "地域別クリニック選定ガイド",
+      "raw_title": "【2026年】京都市のヒアルロン酸注射 おすすめしたい6医院 - メディカルドック",
+      "summary": "京都市におけるヒアルロン酸注射対応医院の比較情報。地域別クリニック選択時の判断材料として機能する医療施設情報。",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wN3QyMklEWExDaGpfS3ctWHlfUml3WHhhSkhTNHptV1ExdERyVl9yVVVBWmppd3RoRUhBUWlLR1RzbnMyZFQ1c3B0VFdFMXhfeWtta2dzVnRham5Pd3RiQ0RrS0lyUTdtWUF3TzdBMHd4MDByNFlCbzMyNA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wN3QyMklEWExDaGpfS3ctWHlfUml3WHhhSkhTNHptV1ExdERyVl9yVVVBWmppd3RoRUhBUWlLR1RzbnMyZFQ1c3B0VFdFMXhfeWtta2dzVnRham5Pd3RiQ0RrS0lyUTdtWUF3TzdBMHd4MDByNFlCbzMyNA?oc=5",
+      "source_name": "メディカルドック",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "soft_fact",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-06T21:46:41+0900",
+      "status": "candidate",
+      "created_at": "2026-09-22T21:46:41+0900"
+    },
     {
       "seed_id": "seed_40d38232cd94",
       "trend_term": "美容クリニック市場分析",
@@ -319,24 +337,6 @@
       "created_at": "2026-09-20T21:34:11+0900"
     },
     {
-      "seed_id": "seed_8b3caafed374",
-      "trend_term": "次世代スキンブースター導入",
-      "raw_title": "【横浜院導入】ベンスクリニック横浜、次世代ECMスキンブースター「Re2O（..（VANDS CLINIC プレスリリース） - 財経新聞",
-      "summary": "ベンスクリニック横浜が次世代ECMスキンブースター『Re2O』を導入。新技術の施設展開",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93VVR4OFM4ajBUaERVZzJhLTQ1LXVpYlowU1hEemh3dDJjeDlTOXZzX1FRYnBBc3NrQ2lCRDJMQW9uYXFkb0FnNmdkVjFybkJjRTVINg?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93VVR4OFM4ajBUaERVZzJhLTQ1LXVpYlowU1hEemh3dDJjeDlTOXZzX1FRYnBBc3NrQ2lCRDJMQW9uYXFkb0FnNmdkVjFybkJjRTVINg?oc=5",
-      "source_name": "財経新聞",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-25T21:34:11+0900",
-      "status": "candidate",
-      "created_at": "2026-09-20T21:34:11+0900"
-    },
-    {
       "seed_id": "seed_cf0ba78b76bd",
       "trend_term": "糸リフト新施術導入",
       "raw_title": "聖心美容クリニック、糸リフト・スレッドリフトの専門性を持つ寺町英明医師監修の新施術3種を導入 - news.nicovideo.jp",
@@ -587,42 +587,6 @@
       "valid_until": "2026-09-23T16:33:34+0900",
       "status": "candidate",
       "created_at": "2026-09-18T16:33:34+0900"
-    },
-    {
-      "seed_id": "seed_745a251072f8",
-      "trend_term": "美容医療SNS不正行為",
-      "raw_title": "(2ページ目)美容外科大手「TCB」がSNS“サクラコメント”を指示していた！「コメント残して」「全員必ずやること」《社内LINE入手》 - 文春オンライン",
-      "summary": "美容外科大手TCBが社内LINEでSNS投稿へのサクラコメント指示を行っていたことが報道されました。",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jYUpOZjdWZndWVlpTc3M1SmdPajRiR2tzYVZCcktFaTAzQ0x2ZnQ5bXNLN0FqQnFrc2dsTktEOGlMaUdlX3RwSEg4NERzbDZJcUFSWg?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jYUpOZjdWZndWVlpTc3M1SmdPajRiR2tzYVZCcktFaTAzQ0x2ZnQ5bXNLN0FqQnFrc2dsTktEOGlMaUdlX3RwSEg4NERzbDZJcUFSWg?oc=5",
-      "source_name": "文春オンライン",
-      "monitor_id": "bm-sns-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-22T16:55:43+0900",
-      "status": "candidate",
-      "created_at": "2026-09-17T16:55:43+0900"
-    },
-    {
-      "seed_id": "seed_fa7b4ae862c2",
-      "trend_term": "美容施術トラブル・合併症",
-      "raw_title": "美容施術で顔面に大やけどを負った元K-POPアイドル、“整形疑惑”に反論「自然美人ではなく…」 - RBB TODAY",
-      "summary": "美容施術による顔面熱傷事例。患者の実体験に基づく安全性・リスク管理に関わる情報源",
-      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14VGRHR3VHeHYyMGpsaVZjc3JPckI3R3VJSjNNYy1xQ3k2b2NqVEFkcUVnVVF0UnRSa0FjRVhaVGxXaDBpNDg1QnBlWDhWc3FLaTNVSi1IY0RVcjRBSGlPNFFZUWNudw?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14VGRHR3VHeHYyMGpsaVZjc3JPckI3R3VJSjNNYy1xQ3k2b2NqVEFkcUVnVVF0UnRSa0FjRVhaVGxXaDBpNDg1QnBlWDhWc3FLaTNVSi1IY0RVcjRBSGlPNFFZUWNudw?oc=5",
-      "source_name": "RBB TODAY",
-      "monitor_id": "bm-safety-news",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-22T16:55:31+0900",
-      "status": "candidate",
-      "created_at": "2026-09-17T16:55:31+0900"
     },
     {
       "seed_id": "seed_230ab6d4a757",
