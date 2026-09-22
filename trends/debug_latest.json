@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T03:20:00+09:00",
+  "generated_at": "2026-09-22T09:16:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,59 +7,59 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 3,
-    "dedup_excluded": 9,
-    "passed_total": 120,
+    "neg_excluded": 5,
+    "dedup_excluded": 11,
+    "passed_total": 106,
     "b2b_category_counts": {
-      "yahoo_realtime": 39,
-      "x_realtime": 9,
+      "yahoo_realtime": 27,
+      "x_realtime": 8,
+      "news_web": 22,
       "google_trends": 10,
-      "news_web": 10,
-      "yahoo_news_ranking": 2
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
-    "personal_story": 5,
+    "personal_story": 2,
+    "social_reaction": 23,
     "opinion": 10,
-    "medical_science": 6,
-    "hard_fact": 11,
-    "policy": 6
+    "policy": 6,
+    "medical_science": 5,
+    "hard_fact": 24
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 32,
-    "personal_story": 5,
-    "opinion": 10,
-    "hard_fact": 15,
+    "personal_story": 2,
+    "social_reaction": 23,
     "policy": 7,
+    "hard_fact": 27,
+    "opinion": 10,
     "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "48歳男性の友人が制服姿の愛娘を含めた女子高校生3人とルンルンで焼肉を食べて店か",
+      "title": "寒い中、ヘルメットを被ったままATMへ…大金を懐にした直後に肩を掴まれ「すわ強盗",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "今日初めましてXを初めました！！中1のあゆむです！！みんな仲良くしてください！！",
+      "title": "水族館で奇声をあげながら展示ガラスをガンガン叩いてる女児がいたので注意したら泣き",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "減便・廃線ラッシュの日本と何が違う？鉄道網をビジネス任せにせず公的に守るヨーロッ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "Netflixで仕事するようなエリートたちが日本向けに何を作ればバズるか考えた結",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -69,71 +69,59 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "NHKつけたら平野レミが生放送で勝手に告知初めて「レミさん！NHKです！本当にや",
+      "title": "大阪都構想の特別区名、維新がアンケート　「ミャクミャ区」「ハルカス区」…独特な案",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "なんでもかんでも値上げした結果、その値段を出してまで食うものじゃないなってものが",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "もう全部はできないので---高河｜高河ゆん",
+      "title": "台湾労働部長が訪中 頼政権の高官で初",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "policy"
     },
     {
-      "title": "[閲覧注意]生き残った者/消えた妹/1980サバイバル imahi in1983",
+      "title": "全国900万戸の空き家問題に一石投じるか　条例による独自課税へ　京都や大阪・寝屋",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "policy"
     },
     {
-      "title": "徳山秀典",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "大島町 土砂災害危険警報に切替",
+      "title": "台風の爪痕残る 川や崖など注意を",
       "source_category": "news_web",
       "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
+    },
+    {
+      "title": "Z世代がカジュアルに使う「食事キャンセル界隈」は本当に大丈夫なのか？　若者が「食",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "紅白歌合戦",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "48歳男性の友人が制服姿の愛娘を含めた女子高校生3人とルンルンで焼肉を食べて店か",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "NHKつけたら平野レミが生放送で勝手に告知初めて「レミさん！NHKです！本当にや",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "今日初めましてXを初めました！！中1のあゆむです！！みんな仲良くしてください！！",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "[閲覧注意]生き残った者/消えた妹/1980サバイバル imahi in1983",
+      "title": "寒い中、ヘルメットを被ったままATMへ…大金を懐にした直後に肩を掴まれ「すわ強盗",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "減便・廃線ラッシュの日本と何が違う？鉄道網をビジネス任せにせず公的に守るヨーロッ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "水族館で奇声をあげながら展示ガラスをガンガン叩いてる女児がいたので注意したら泣き",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "Netflixで仕事するようなエリートたちが日本向けに何を作ればバズるか考えた結",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -143,27 +131,39 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "なんでもかんでも値上げした結果、その値段を出してまで食うものじゃないなってものが",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "もう全部はできないので---高河｜高河ゆん",
+      "title": "大阪都構想の特別区名、維新がアンケート　「ミャクミャ区」「ハルカス区」…独特な案",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ジョニー・マー、ザ・スミス時代にモリッシーと曲作りをした「魔法」のような体験を回",
+      "title": "Z世代がカジュアルに使う「食事キャンセル界隈」は本当に大丈夫なのか？　若者が「食",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "子供が「○○くんのパパヤクザなんだよー」と言っていたが、この間会ったら腰の低いお",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ドイツで賃貸の詐欺が横行しているため、内見後に今日のeveningくらいまでに返",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "〈千葉・重度障がいの長女を殺害〉「ごめんなさい…本当にごめんなさい」介護を休むた",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "子供が「○○くんのパパヤクザなんだよー」と言っていたが、この間会ったら腰の低いお",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "ドイツの鉄道メーカーが「日本に工場」をつくる理由 独自規格、商習慣の違いの壁を越",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
