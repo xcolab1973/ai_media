@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T02:29:00+09:00",
+  "generated_at": "2026-09-24T08:56:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,98 +7,99 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
     "neg_excluded": 4,
-    "dedup_excluded": 11,
-    "passed_total": 107,
+    "dedup_excluded": 8,
+    "passed_total": 120,
     "b2b_category_counts": {
-      "yahoo_realtime": 28,
+      "x_realtime": 9,
+      "yahoo_realtime": 38,
       "google_trends": 10,
-      "x_realtime": 6,
-      "news_web": 23,
-      "yahoo_news_ranking": 3
+      "news_web": 11,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 22,
-    "personal_story": 2,
+    "social_reaction": 36,
     "opinion": 10,
-    "medical_science": 1,
-    "hard_fact": 35
+    "personal_story": 2,
+    "medical_science": 3,
+    "policy": 5,
+    "hard_fact": 14
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 22,
+    "social_reaction": 35,
     "opinion": 10,
-    "hard_fact": 33,
+    "hard_fact": 16,
+    "policy": 5,
     "personal_story": 2,
-    "medical_science": 1,
-    "policy": 2
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "犬の糞を放置する人を特定→様子を監視カメラで撮影→1カ月後に拾った糞をまとめて飼",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "羽田空港の荷物受け取りエリアに密輸探知犬のラブラドールがいて、ある男性のリュック",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "知らない人「登山のため工場の前に車停めさせてもらませんか？」僕「3000円でいい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "緊急着陸",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "浜崎あゆみ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "日本人での人種差別がほとんどない理由は「日本人が基本的にみんなを嫌っている」から",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "天津飯だけを注文し続けて14年、ついに店主から「良かったら天津飯以外もお願いしま",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "北海道のおばあちゃんが一人でやってる居酒屋に行った時に出てきたじゃがバターが美味",
+      "title": "コミケ帰り、東京駅で「ブランデーどら焼き」なるものがバラ売りで販売、食べてみたら",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "新宿 火事",
+      "title": "ある炎上――シュナムルと社会性昆虫 - 二階の床から石粒と火が",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「騙されたと思って数秒だけ見てほしい」電車のドアを過信しすぎると危険だと伝える動",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "カブス 対 マーリンズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "日ハム",
+      "title": "ブレーブス 対 レッズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "肝臓",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "フィリーズ 対 ブルワーズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "竹原慎二",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "パイレーツ 対 カージナルス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "気温",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,64 +107,64 @@
   ],
   "note_top10": [
     {
-      "title": "犬の糞を放置する人を特定→様子を監視カメラで撮影→1カ月後に拾った糞をまとめて飼",
+      "title": "コミケ帰り、東京駅で「ブランデーどら焼き」なるものがバラ売りで販売、食べてみたら",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ある炎上――シュナムルと社会性昆虫 - 二階の床から石粒と火が",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "羽田空港の荷物受け取りエリアに密輸探知犬のラブラドールがいて、ある男性のリュック",
+      "title": "「騙されたと思って数秒だけ見てほしい」電車のドアを過信しすぎると危険だと伝える動",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "北海道のおばあちゃんが一人でやってる居酒屋に行った時に出てきたじゃがバターが美味",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ジャングリア沖縄 親会社が173億円余の赤字 | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "元海上自衛官の父に東京マルイの20式小銃を持たせてみたら「銃床の長さが変わるのか",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "知らない人「登山のため工場の前に車停めさせてもらませんか？」僕「3000円でいい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日本人での人種差別がほとんどない理由は「日本人が基本的にみんなを嫌っている」から",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "天津飯だけを注文し続けて14年、ついに店主から「良かったら天津飯以外もお願いしま",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ダメな「左派」とは誰か：陰謀論化しやすい「護憲ムラ」の構造｜女子大生起業家",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「体幹や運動神経の成長に良いかな」と思って子供をぐるんぐるん回す遊びをしているの",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "国立大理系卒の担当営業に、自分が日本古代史専攻であることを話したら「ダメですよー",
+      "title": "とあるVTuberの配信に投げられた虹スパがなぜか「流派東方不敗」な上に細部まで",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "交際1カ月、息子の彼女はとてもいい子で…　数日後に驚きの事実判明：朝日新聞",
+      "title": "北海道で「赤飯」の色付けは「小豆ではなく食紅」なので道外の人間に驚かれる話…むし",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「書くと、体が健康になる」。『さとこはいつも』沖田修一×折坂悠太×柴田聡子が語る",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "カブス 対 マーリンズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
