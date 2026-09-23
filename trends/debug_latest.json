@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T08:47:00+09:00",
+  "generated_at": "2026-09-23T15:40:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,46 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
+    "neg_excluded": 3,
     "dedup_excluded": 10,
-    "passed_total": 117,
+    "passed_total": 119,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
+      "x_realtime": 7,
+      "yahoo_realtime": 39,
       "google_trends": 10,
-      "x_realtime": 5,
-      "news_web": 15,
-      "yahoo_news_ranking": 3
+      "news_web": 12,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
+    "social_reaction": 26,
+    "personal_story": 4,
     "opinion": 10,
-    "personal_story": 2,
-    "policy": 6,
-    "medical_science": 3,
+    "policy": 8,
+    "medical_science": 1,
     "hard_fact": 21
   },
   "b2b_topic_category_counts": {
-    "policy": 6,
     "social_reaction": 26,
+    "policy": 9,
+    "hard_fact": 20,
     "opinion": 10,
-    "hard_fact": 24,
-    "medical_science": 2,
-    "personal_story": 2
+    "personal_story": 4,
+    "medical_science": 1
   },
   "b2b_top10": [
+    {
+      "title": "アメリカ人の友人の子育てを見ていたら、子供に何か注意する時は「Don’t」ではな",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「遭難救助は税金のムダ」なんかじゃないと思うのだが",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "【速報】国連総会で法の支配重視を訴えると首相",
       "source_category": "yahoo_realtime",
@@ -57,49 +69,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ローソンのぼだっこ弁当「普通の鮭フレークが少し塩っぱいだけ」「これ、ぼだっこじゃ",
+      "title": "「やれることはやった！まだ床下浸水してない耐えてくれ」台風に備えて土嚢を900k",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "宇多田ヒカルのtravelingを聞いてたら、若い人が「1番にも2番にも平家物語",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "自宅が放火された時、幼稚園児だった自分と弟はベランダから受け取ってくれと放り出さ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "アジア 大会 北 朝鮮",
+      "title": "重症 熱性 血小板 減少 症候群",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "京都 天気",
+      "title": "マリナーズ 対 アストロズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "パイレーツ 対 カージナルス",
+      "title": "a東京 対 琉球",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "フィリーズ 対 ブルワーズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "熱帯低気圧",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "山本里菜",
+      "title": "市川團十郎",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +107,64 @@
   ],
   "note_top10": [
     {
+      "title": "アメリカ人の友人の子育てを見ていたら、子供に何か注意する時は「Don’t」ではな",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "アメリカの知人「日本に寿司食べに行くから旨い店教えて」→わざわざ飛行機で日本へ？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ローソンのぼだっこ弁当「普通の鮭フレークが少し塩っぱいだけ」「これ、ぼだっこじゃ",
+      "title": "「遭難救助は税金のムダ」なんかじゃないと思うのだが",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "自宅が放火された時、幼稚園児だった自分と弟はベランダから受け取ってくれと放り出さ",
+      "title": "宇多田ヒカルのtravelingを聞いてたら、若い人が「1番にも2番にも平家物語",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ゴールデンカムイをアニメだけで見ている母が登場人物の名前をどんどん忘れていくが…",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「推しの知名度が上がっている！！ので！！今が宣伝の時！！」あのVTuberを推す",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "昔ハワイでUberを呼んだらポルシェのSUVが来て、運転手が夜勤明けの消防士で家",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『風とロック芋煮会』でドンデコルテに「知らないよって方ー！」と声をかけられ挙手し",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "アニメ「ちいかわ」のハチワレの手で潰した虫の残骸をズームするアニオリ、親切過ぎる",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ホワイトハウス「トランプTV」開始 主要メディアと対立のなか | NHKニュース",
+      "title": "前から言ってたじゃんと思った時の対処法 - Konifar's ZATSU",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「タイは物価が安いから移住したら月40万円あれば余裕で暮らせる」という記事がある",
+      "title": "▶　『 対論 ： 斎藤幸平 × トーマス・セドラチェク 』を通じて共産主義への欲",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "公道で目撃されたダチョウ、パトカー相手にスピードで勝利する→途中でエミューだと判",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "レストランのバイキングで一旦プレートを置いてコーヒーを取って戻ってきたら他人が席",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "若い時ガンだった友達の見舞いに…看護師から退院したと告げられ、連絡してみますと言",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "スプーンで脱獄しよう！　コンクリートの壁は何日掘り続ければトンネルが掘れるのか",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     }
   ]
 }
