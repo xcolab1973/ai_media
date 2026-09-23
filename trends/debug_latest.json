@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T15:40:00+09:00",
+  "generated_at": "2026-09-23T22:02:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,37 +17,49 @@
       "x_realtime": 10
     },
     "neg_excluded": 3,
-    "dedup_excluded": 10,
-    "passed_total": 119,
+    "dedup_excluded": 12,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "x_realtime": 7,
+      "x_realtime": 5,
       "yahoo_realtime": 39,
       "google_trends": 10,
       "news_web": 12,
-      "yahoo_news_ranking": 2
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
+    "social_reaction": 27,
     "personal_story": 4,
     "opinion": 10,
-    "policy": 8,
-    "medical_science": 1,
-    "hard_fact": 21
+    "medical_science": 3,
+    "hard_fact": 20,
+    "policy": 6
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 26,
-    "policy": 9,
-    "hard_fact": 20,
+    "social_reaction": 27,
     "opinion": 10,
-    "personal_story": 4,
-    "medical_science": 1
+    "hard_fact": 20,
+    "medical_science": 3,
+    "policy": 6,
+    "personal_story": 4
   },
   "b2b_top10": [
     {
-      "title": "アメリカ人の友人の子育てを見ていたら、子供に何か注意する時は「Don’t」ではな",
+      "title": "「騙されたと思って数秒だけ見てほしい」電車のドアを過信しすぎると危険だと伝える動",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "羽田空港の荷物受け取りエリアに密輸探知犬のラブラドールがいて、ある男性のリュック",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "アメリカ人の友人の子育てを見ていたら、子供に何か注意する時は「Don’t」ではな",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -57,49 +69,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "【速報】国連総会で法の支配重視を訴えると首相",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "アメリカの知人「日本に寿司食べに行くから旨い店教えて」→わざわざ飛行機で日本へ？",
+      "title": "「さよなら日本国籍」ニュージーランドの国籍を取得したために日本の国籍喪失届を出し",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「やれることはやった！まだ床下浸水してない耐えてくれ」台風に備えて土嚢を900k",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "宇多田ヒカルのtravelingを聞いてたら、若い人が「1番にも2番にも平家物語",
+      "title": "日本人での人種差別がほとんどない理由は「日本人が基本的にみんなを嫌っている」から",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "重症 熱性 血小板 減少 症候群",
+      "title": "天津飯だけを注文し続けて14年、ついに店主から「良かったら天津飯以外もお願いしま",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "重岡 大 毅",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "マリナーズ 対 アストロズ",
+      "title": "アジア大会 卓球",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "a東京 対 琉球",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "市川團十郎",
+      "title": "timelesz メンバー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -108,14 +108,20 @@
   "note_top10": [
     {
       "title": "アメリカ人の友人の子育てを見ていたら、子供に何か注意する時は「Don’t」ではな",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「騙されたと思って数秒だけ見てほしい」電車のドアを過信しすぎると危険だと伝える動",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "アメリカの知人「日本に寿司食べに行くから旨い店教えて」→わざわざ飛行機で日本へ？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "羽田空港の荷物受け取りエリアに密輸探知犬のラブラドールがいて、ある男性のリュック",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -125,46 +131,40 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "宇多田ヒカルのtravelingを聞いてたら、若い人が「1番にも2番にも平家物語",
+      "title": "「さよなら日本国籍」ニュージーランドの国籍を取得したために日本の国籍喪失届を出し",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "前から言ってたじゃんと思った時の対処法 - Konifar's ZATSU",
+      "title": "日本人での人種差別がほとんどない理由は「日本人が基本的にみんなを嫌っている」から",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "▶　『 対論 ： 斎藤幸平 × トーマス・セドラチェク 』を通じて共産主義への欲",
+      "title": "天津飯だけを注文し続けて14年、ついに店主から「良かったら天津飯以外もお願いしま",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "公道で目撃されたダチョウ、パトカー相手にスピードで勝利する→途中でエミューだと判",
+      "title": "百貨店で試着後、購入となった時に「私◯◯。担当の△△さんに言っておいて」とお金を",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "レストランのバイキングで一旦プレートを置いてコーヒーを取って戻ってきたら他人が席",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "引用回数多い論文の数 日本は4年連続で13位 低迷続く | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "若い時ガンだった友達の見舞いに…看護師から退院したと告げられ、連絡してみますと言",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "スプーンで脱獄しよう！　コンクリートの壁は何日掘り続ければトンネルが掘れるのか",
+      "title": "維新の新大臣が「大林組からカネを受け取っていた」【重大証言】",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     }
   ]
 }
