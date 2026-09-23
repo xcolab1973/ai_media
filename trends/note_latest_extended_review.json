@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-23T06:52:47+09:00",
+ "generated_at": "2026-09-23T16:57:55+09:00",
  "valid_until": "2026-10-06T16:48:55+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "review",
   "from_current": 32,
-  "from_new": 5,
+  "from_new": 2,
   "expired_pruned": 0,
-  "retention_dropped": 5,
+  "retention_dropped": 2,
   "genres": 4,
   "retention_per_genre": 8
  },
@@ -258,6 +258,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "サブスクで聴いて、CDを買う。2026年、若者が「音楽を所有する」理由",
+   "url": "https://www.jam03.com/260715-1048/",
+   "summary": "サブスクで無限に流れる音楽の中から、自分にとって大切な一枚をあえて所有する行為としてCD購入を選ぶ若年層の心理を分析。秋フェスで新人アーティストを知った後の「追い方」選びに関わる角度。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "review-music",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "jam03.com",
+    "expert_origin": false,
+    "search_query": "秋フェス 2026 新人アーティスト サブスクで追う CD どっち",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-28T16:56:07+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "「チケット不正転売禁止法」超入門",
    "url": "https://www.bunka.go.jp/seisaku/bunka_gyosei/ticket_resale_ban/index.html",
    "summary": "文化庁公式ページ。チケット不正転売禁止法の概要と、2026年6月に文化庁が主催者へ本人確認・公式リセール整備の徹底を改めて要請した経緯を紹介。",
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-25T16:41:40+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "学生におすすめ、音楽アプリの学割プランはどれが安い？ 比較まとめ",
-   "url": "https://appllio.com/music-subscription-student-plan",
-   "summary": "音楽サブスクの学割プランは月額480〜580円程度が相場だが、中学生・高校生は対象外のサービスもある点に注意。家族でシェアするならファミリープラン、一人で使う学生なら学割プランが有利という使い分けの目安を紹介。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "review-music",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "アプリオ",
-    "expert_origin": false,
-    "search_query": "音楽サブスク 学生プラン 家族プラン 損得 比較 失敗",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-25T06:39:29+09:00",
    "validity_days": 5
   },
   {
@@ -738,6 +738,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "「推し活をやめても、グッズは捨てない」―― 休止経験者の8割が“思い出”として保管",
+   "url": "https://prtimes.jp/main/html/rd/p/000000152.000004344.html",
+   "summary": "株式会社サマリーの調査で、推しの卒業・活動休止・解散を経験したファンの36.6％が推し活を離脱する一方、休止経験者の8割はグッズを手放さず保管すると回答。活動休止後のグッズ・課金との向き合い方という具体的な読者ペインを示す一次データ。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "review-celeb",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "株式会社サマリー（PR TIMES）",
+    "expert_origin": true,
+    "search_query": "推し 活動休止 引退発表 グッズ 課金 投げ銭 ファンはどうする",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-09-28T16:56:07+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "有名人になりすました偽広告詐欺急増｜被害に遭わないための対策",
    "url": "https://security.nifty.com/posts/ggkpr22x_epk/",
    "summary": "著名人の写真・名前を使ったなりすまし詐欺広告が急増している実態と、認証バッジの確認など本物と偽物を見分ける具体的な対策を紹介するセキュリティ専門記事。",
@@ -944,36 +974,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-26T06:35:16+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "紅白歌合戦2025-2026出演者予想・曲目一覧｜旧ジャニーズは誰が出場？",
-   "url": "https://ichimame.com/vod/nhk-kouhaku",
-   "summary": "紅白歌合戦の出演者予想記事の中で、旧ジャニーズ事務所（現STARTO ENTERTAINMENT）所属タレントの出場可否が読者の関心事として取り上げられている。事務所再編後の出演動向が注目点。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "review-celeb",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "ichimame.com",
-    "expert_origin": false,
-    "search_query": "紅白歌合戦 2026 出演者 予想 選考基準",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-24T06:37:09+09:00",
    "validity_days": 5
   }
  ]
