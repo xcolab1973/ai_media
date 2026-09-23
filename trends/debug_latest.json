@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T22:02:00+09:00",
+  "generated_at": "2026-09-24T02:29:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,72 +7,71 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 3,
-    "dedup_excluded": 12,
-    "passed_total": 117,
+    "neg_excluded": 4,
+    "dedup_excluded": 11,
+    "passed_total": 107,
     "b2b_category_counts": {
-      "x_realtime": 5,
-      "yahoo_realtime": 39,
+      "yahoo_realtime": 28,
       "google_trends": 10,
-      "news_web": 12,
-      "yahoo_news_ranking": 4
+      "x_realtime": 6,
+      "news_web": 23,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 27,
-    "personal_story": 4,
+    "social_reaction": 22,
+    "personal_story": 2,
     "opinion": 10,
-    "medical_science": 3,
-    "hard_fact": 20,
-    "policy": 6
+    "medical_science": 1,
+    "hard_fact": 35
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 27,
+    "social_reaction": 22,
     "opinion": 10,
-    "hard_fact": 20,
-    "medical_science": 3,
-    "policy": 6,
-    "personal_story": 4
+    "hard_fact": 33,
+    "personal_story": 2,
+    "medical_science": 1,
+    "policy": 2
   },
   "b2b_top10": [
     {
-      "title": "「騙されたと思って数秒だけ見てほしい」電車のドアを過信しすぎると危険だと伝える動",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "犬の糞を放置する人を特定→様子を監視カメラで撮影→1カ月後に拾った糞をまとめて飼",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "羽田空港の荷物受け取りエリアに密輸探知犬のラブラドールがいて、ある男性のリュック",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "アメリカ人の友人の子育てを見ていたら、子供に何か注意する時は「Don’t」ではな",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「遭難救助は税金のムダ」なんかじゃないと思うのだが",
+      "title": "知らない人「登山のため工場の前に車停めさせてもらませんか？」僕「3000円でいい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「さよなら日本国籍」ニュージーランドの国籍を取得したために日本の国籍喪失届を出し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "緊急着陸",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "浜崎あゆみ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "日本人での人種差別がほとんどない理由は「日本人が基本的にみんなを嫌っている」から",
@@ -87,19 +86,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "重岡 大 毅",
+      "title": "北海道のおばあちゃんが一人でやってる居酒屋に行った時に出てきたじゃがバターが美味",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "新宿 火事",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "アジア大会 卓球",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "timelesz メンバー",
+      "title": "日ハム",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,31 +106,25 @@
   ],
   "note_top10": [
     {
-      "title": "アメリカ人の友人の子育てを見ていたら、子供に何か注意する時は「Don’t」ではな",
+      "title": "犬の糞を放置する人を特定→様子を監視カメラで撮影→1カ月後に拾った糞をまとめて飼",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「騙されたと思って数秒だけ見てほしい」電車のドアを過信しすぎると危険だと伝える動",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "羽田空港の荷物受け取りエリアに密輸探知犬のラブラドールがいて、ある男性のリュック",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「遭難救助は税金のムダ」なんかじゃないと思うのだが",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「さよなら日本国籍」ニュージーランドの国籍を取得したために日本の国籍喪失届を出し",
+      "title": "北海道のおばあちゃんが一人でやってる居酒屋に行った時に出てきたじゃがバターが美味",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "知らない人「登山のため工場の前に車停めさせてもらませんか？」僕「3000円でいい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -149,19 +142,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "百貨店で試着後、購入となった時に「私◯◯。担当の△△さんに言っておいて」とお金を",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "引用回数多い論文の数 日本は4年連続で13位 低迷続く | NHKニュース",
+      "title": "ダメな「左派」とは誰か：陰謀論化しやすい「護憲ムラ」の構造｜女子大生起業家",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "維新の新大臣が「大林組からカネを受け取っていた」【重大証言】",
+      "title": "「体幹や運動神経の成長に良いかな」と思って子供をぐるんぐるん回す遊びをしているの",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "国立大理系卒の担当営業に、自分が日本古代史専攻であることを話したら「ダメですよー",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "交際1カ月、息子の彼女はとてもいい子で…　数日後に驚きの事実判明：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
