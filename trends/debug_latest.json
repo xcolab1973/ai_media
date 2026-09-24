@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T21:55:00+09:00",
+  "generated_at": "2026-09-25T02:34:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,43 +16,38 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 4,
-    "dedup_excluded": 10,
-    "passed_total": 118,
+    "neg_excluded": 3,
+    "dedup_excluded": 9,
+    "passed_total": 120,
     "b2b_category_counts": {
-      "yahoo_realtime": 38,
-      "x_realtime": 8,
+      "yahoo_realtime": 40,
       "google_trends": 10,
-      "news_web": 13,
+      "x_realtime": 9,
+      "news_web": 10,
       "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
-    "opinion": 9,
-    "personal_story": 4,
-    "hard_fact": 17,
-    "policy": 4,
-    "medical_science": 1
+    "social_reaction": 36,
+    "opinion": 10,
+    "personal_story": 3,
+    "policy": 5,
+    "hard_fact": 14,
+    "medical_science": 2
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
-    "opinion": 9,
-    "hard_fact": 20,
-    "policy": 4,
-    "personal_story": 4
+    "social_reaction": 36,
+    "opinion": 10,
+    "hard_fact": 15,
+    "policy": 5,
+    "personal_story": 3,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "大英図書館の再開発工事を日本の三井不動産が行うのだが、着工にあたって地鎮祭をやっ",
+      "title": "ある旅館が「Agodaなどの海外のホテル予約サイトを使わないで」と注意喚起→宿泊",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ある旅館が「Agodaなどの海外のホテル予約サイトを使わないで」と注意喚起→宿泊",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -62,43 +57,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "Disney＋とHuluが値上げ、ディズニーがストリーミングサービスのインフレに",
+      "title": "大英図書館の再開発工事を日本の三井不動産が行うのだが、着工にあたって地鎮祭をやっ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "親父の認知症による火の不始末で、自宅も車もコレクションも全て完全に燃えて終わった",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "iphone20",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "japan vs uruguay",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "娘が体育祭のリーダー打ち上げで焼肉とボーリングに行くことに…行きたいからお金くれ",
+      "title": "Colabo公金チューチュー問題とは何だったのか",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "田中碧",
+      "title": "パイレーツ 対 カージナルス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "久保建英",
+      "title": "エンセン井上",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "西勇輝",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ana",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "bkb",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "井桁弘恵",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,21 +107,9 @@
   ],
   "note_top10": [
     {
-      "title": "大英図書館の再開発工事を日本の三井不動産が行うのだが、着工にあたって地鎮祭をやっ",
+      "title": "ある旅館が「Agodaなどの海外のホテル予約サイトを使わないで」と注意喚起→宿泊",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ある旅館が「Agodaなどの海外のホテル予約サイトを使わないで」と注意喚起→宿泊",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "親父の認知症による火の不始末で、自宅も車もコレクションも全て完全に燃えて終わった",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -130,9 +119,33 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "Disney＋とHuluが値上げ、ディズニーがストリーミングサービスのインフレに",
+      "title": "大英図書館の再開発工事を日本の三井不動産が行うのだが、着工にあたって地鎮祭をやっ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "Colabo公金チューチュー問題とは何だったのか",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ダウ90000蓮見翔　伊集院光の『クレヨンしんちゃん』酷評に対する思いを語る",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "セーラームーンのアニメ見てた時、タキシード仮面って何の役に立つん？ってずっと思っ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "子どもに絵本を買ったらなぜかレジで「保冷剤をお付けしますか？」と聞かれた「みんな",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -142,25 +155,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "娘が体育祭のリーダー打ち上げで焼肉とボーリングに行くことに…行きたいからお金くれ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "久々にテレビを見てたら挿絵が「アドビのパートナーモデルで生成」したものだった→テ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ネックもボディもないエレキギターが話題に - amass",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "今度いつきみに会えるのかな covered by 如月千早",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日本全国でMicrosoft Officeが突然消えたりライセンス認証が外れる不",
+      "title": "「少なくとも『誰も悪くない』は通用しない」印旛沼の堤防決壊、近くでは浸水したソー",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
