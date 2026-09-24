@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T15:45:00+09:00",
+  "generated_at": "2026-09-24T21:55:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,89 +16,89 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 3,
-    "dedup_excluded": 8,
-    "passed_total": 121,
+    "neg_excluded": 4,
+    "dedup_excluded": 10,
+    "passed_total": 118,
     "b2b_category_counts": {
+      "yahoo_realtime": 38,
+      "x_realtime": 8,
       "google_trends": 10,
-      "news_web": 12,
-      "yahoo_realtime": 37,
-      "x_realtime": 9,
-      "yahoo_news_ranking": 2
+      "news_web": 13,
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
-    "personal_story": 6,
-    "opinion": 10,
+    "social_reaction": 35,
+    "opinion": 9,
+    "personal_story": 4,
     "hard_fact": 17,
     "policy": 4,
     "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "opinion": 10,
+    "social_reaction": 33,
+    "opinion": 9,
     "hard_fact": 20,
-    "social_reaction": 30,
-    "personal_story": 6,
-    "policy": 4
+    "policy": 4,
+    "personal_story": 4
   },
   "b2b_top10": [
     {
-      "title": "west",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "山本由伸",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "WEST.活動終了 約5秒頭下げ謝罪",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "WEST. 今月末で活動終了",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_entertainment",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ドーミーインの客層は、数倍もの値段のオークラよりも間違いなくいい、客層ピラミッド",
+      "title": "大英図書館の再開発工事を日本の三井不動産が行うのだが、着工にあたって地鎮祭をやっ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "あま猫",
+      "title": "ある旅館が「Agodaなどの海外のホテル予約サイトを使わないで」と注意喚起→宿泊",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "学級写真を突然、廃止　小学校PTA会長が辞意「これ以上は…」 | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "Disney＋とHuluが値上げ、ディズニーがストリーミングサービスのインフレに",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "親父の認知症による火の不始末で、自宅も車もコレクションも全て完全に燃えて終わった",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "iphone20",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "スシロー コラボ",
+      "title": "japan vs uruguay",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "国民年金",
+      "title": "娘が体育祭のリーダー打ち上げで焼肉とボーリングに行くことに…行きたいからお金くれ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "田中碧",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ウェスト",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "河北新報",
+      "title": "久保建英",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,63 +106,63 @@
   ],
   "note_top10": [
     {
-      "title": "ドーミーインの客層は、数倍もの値段のオークラよりも間違いなくいい、客層ピラミッド",
+      "title": "大英図書館の再開発工事を日本の三井不動産が行うのだが、着工にあたって地鎮祭をやっ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「勘繰ってしまう構成」NHKスペシャルで北関東連続幼女誘拐・殺人事件が特集された",
+      "title": "ある旅館が「Agodaなどの海外のホテル予約サイトを使わないで」と注意喚起→宿泊",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "闇バイトが家に侵入したので熊スプレーを噴射したら失明、これは罪に問われるの？→原",
+      "title": "親父の認知症による火の不始末で、自宅も車もコレクションも全て完全に燃えて終わった",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「コンドームは避妊率100%ではない」って話を聞く度に「物理的に遮断してるのにな",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "高校生の頃、日本史の授業でクラスのほとんどの人が寝たときに先生が言った「友人知人",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "心の底からうんこの重さを測ってみたい衝動に駆られて、タッパーにしようか本気で迷っ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "施設に入った母から「実家は好きにしていい」と…銀行の評価で建物はゼロ、買い手のロ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験【",
+      "title": "学級写真を突然、廃止　小学校PTA会長が辞意「これ以上は…」 | 毎日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "west",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "光文社様｜東出昌大 | Masahiro Higashide",
+      "title": "Disney＋とHuluが値上げ、ディズニーがストリーミングサービスのインフレに",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "料理のレシピで「砂糖を一番最初に表記しないのは不親切です！」なぜなら計量さじを液",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "娘が体育祭のリーダー打ち上げで焼肉とボーリングに行くことに…行きたいからお金くれ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ネックもボディもないエレキギターが話題に - amass",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "今度いつきみに会えるのかな covered by 如月千早",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "日本全国でMicrosoft Officeが突然消えたりライセンス認証が外れる不",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
