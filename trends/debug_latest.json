@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T02:34:00+09:00",
+  "generated_at": "2026-09-25T08:59:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,45 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 3,
+    "neg_excluded": 2,
     "dedup_excluded": 9,
-    "passed_total": 120,
+    "passed_total": 121,
     "b2b_category_counts": {
-      "yahoo_realtime": 40,
-      "google_trends": 10,
+      "yahoo_realtime": 34,
       "x_realtime": 9,
-      "news_web": 10,
-      "yahoo_news_ranking": 1
+      "google_trends": 10,
+      "news_web": 15,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 36,
+    "social_reaction": 33,
     "opinion": 10,
-    "personal_story": 3,
-    "policy": 5,
-    "hard_fact": 14,
+    "personal_story": 2,
+    "policy": 6,
+    "hard_fact": 17,
     "medical_science": 2
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 36,
+    "social_reaction": 30,
     "opinion": 10,
-    "hard_fact": 15,
-    "policy": 5,
-    "personal_story": 3,
-    "medical_science": 1
+    "policy": 3,
+    "hard_fact": 25,
+    "personal_story": 2
   },
   "b2b_top10": [
+    {
+      "title": "【公式】『ちいかわ』第381話「パラレルワールド⑦」※1週間限定配信＜10/2 ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ヤマト運輸から「貴方が○月○日に発送した荷物が衣類だと書かれていましたが実際は書",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "ある旅館が「Agodaなどの海外のホテル予約サイトを使わないで」と注意喚起→宿泊",
       "source_category": "yahoo_realtime",
@@ -51,63 +62,81 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "社説：広がる野生動物カフェ　リスク踏まえた対策必要 | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "証券取引で不正疑い、AppleやGoogleアカウント乗っ取りでも発生 - 日本",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "友達を守っただけなのに エド・シーラン擁護でワンオクTakaが海外で炎上した理由",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ブレーブス 対 レッズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ちいかわ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "スリゲ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
       "title": "学級写真を突然、廃止　小学校PTA会長が辞意「これ以上は…」 | 毎日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "大英図書館の再開発工事を日本の三井不動産が行うのだが、着工にあたって地鎮祭をやっ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Colabo公金チューチュー問題とは何だったのか",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "パイレーツ 対 カージナルス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "エンセン井上",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "西勇輝",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ana",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "bkb",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "井桁弘恵",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
+      "title": "ヤマト運輸から「貴方が○月○日に発送した荷物が衣類だと書かれていましたが実際は書",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【公式】『ちいかわ』第381話「パラレルワールド⑦」※1週間限定配信＜10/2 ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "社説：広がる野生動物カフェ　リスク踏まえた対策必要 | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "ある旅館が「Agodaなどの海外のホテル予約サイトを使わないで」と注意喚起→宿泊",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "証券取引で不正疑い、AppleやGoogleアカウント乗っ取りでも発生 - 日本",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "友達を守っただけなのに エド・シーラン擁護でワンオクTakaが海外で炎上した理由",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -119,49 +148,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "大英図書館の再開発工事を日本の三井不動産が行うのだが、着工にあたって地鎮祭をやっ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Colabo公金チューチュー問題とは何だったのか",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ダウ90000蓮見翔　伊集院光の『クレヨンしんちゃん』酷評に対する思いを語る",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "セーラームーンのアニメ見てた時、タキシード仮面って何の役に立つん？ってずっと思っ",
+      "title": "ジャングリア沖縄が173億円の大赤字と聞き、後輩に何が悪かったと思う？と聞いたら",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "子どもに絵本を買ったらなぜかレジで「保冷剤をお付けしますか？」と聞かれた「みんな",
+      "title": "まさか40歳で両親がいなくなって天涯孤独になるとは思ってもみなかったし、自分がこ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "料理のレシピで「砂糖を一番最初に表記しないのは不親切です！」なぜなら計量さじを液",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "久々にテレビを見てたら挿絵が「アドビのパートナーモデルで生成」したものだった→テ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「少なくとも『誰も悪くない』は通用しない」印旛沼の堤防決壊、近くでは浸水したソー",
+      "title": "近所のおばあさんが、やんちゃな飼い猫にお説教してたんだけど、「そんなんだから、猫",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
