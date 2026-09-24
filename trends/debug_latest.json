@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T08:56:00+09:00",
+  "generated_at": "2026-09-24T15:45:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,89 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 4,
+    "neg_excluded": 3,
     "dedup_excluded": 8,
-    "passed_total": 120,
+    "passed_total": 121,
     "b2b_category_counts": {
-      "x_realtime": 9,
-      "yahoo_realtime": 38,
       "google_trends": 10,
-      "news_web": 11,
+      "news_web": 12,
+      "yahoo_realtime": 37,
+      "x_realtime": 9,
       "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 36,
+    "social_reaction": 32,
+    "personal_story": 6,
     "opinion": 10,
-    "personal_story": 2,
-    "medical_science": 3,
-    "policy": 5,
-    "hard_fact": 14
+    "hard_fact": 17,
+    "policy": 4,
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 35,
     "opinion": 10,
-    "hard_fact": 16,
-    "policy": 5,
-    "personal_story": 2,
-    "medical_science": 2
+    "hard_fact": 20,
+    "social_reaction": 30,
+    "personal_story": 6,
+    "policy": 4
   },
   "b2b_top10": [
     {
-      "title": "コミケ帰り、東京駅で「ブランデーどら焼き」なるものがバラ売りで販売、食べてみたら",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "west",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "ある炎上――シュナムルと社会性昆虫 - 二階の床から石粒と火が",
+      "title": "山本由伸",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "WEST.活動終了 約5秒頭下げ謝罪",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "WEST. 今月末で活動終了",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_entertainment",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "ドーミーインの客層は、数倍もの値段のオークラよりも間違いなくいい、客層ピラミッド",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「騙されたと思って数秒だけ見てほしい」電車のドアを過信しすぎると危険だと伝える動",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "カブス 対 マーリンズ",
+      "title": "あま猫",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ブレーブス 対 レッズ",
+      "title": "スシロー コラボ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "肝臓",
+      "title": "国民年金",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "フィリーズ 対 ブルワーズ",
+      "title": "ウェスト",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "竹原慎二",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "パイレーツ 対 カージナルス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "気温",
+      "title": "河北新報",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +106,64 @@
   ],
   "note_top10": [
     {
-      "title": "コミケ帰り、東京駅で「ブランデーどら焼き」なるものがバラ売りで販売、食べてみたら",
+      "title": "ドーミーインの客層は、数倍もの値段のオークラよりも間違いなくいい、客層ピラミッド",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「勘繰ってしまう構成」NHKスペシャルで北関東連続幼女誘拐・殺人事件が特集された",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ある炎上――シュナムルと社会性昆虫 - 二階の床から石粒と火が",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「騙されたと思って数秒だけ見てほしい」電車のドアを過信しすぎると危険だと伝える動",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "北海道のおばあちゃんが一人でやってる居酒屋に行った時に出てきたじゃがバターが美味",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ジャングリア沖縄 親会社が173億円余の赤字 | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "元海上自衛官の父に東京マルイの20式小銃を持たせてみたら「銃床の長さが変わるのか",
+      "title": "闇バイトが家に侵入したので熊スプレーを噴射したら失明、これは罪に問われるの？→原",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "とあるVTuberの配信に投げられた虹スパがなぜか「流派東方不敗」な上に細部まで",
+      "title": "「コンドームは避妊率100%ではない」って話を聞く度に「物理的に遮断してるのにな",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "北海道で「赤飯」の色付けは「小豆ではなく食紅」なので道外の人間に驚かれる話…むし",
+      "title": "高校生の頃、日本史の授業でクラスのほとんどの人が寝たときに先生が言った「友人知人",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「書くと、体が健康になる」。『さとこはいつも』沖田修一×折坂悠太×柴田聡子が語る",
+      "title": "心の底からうんこの重さを測ってみたい衝動に駆られて、タッパーにしようか本気で迷っ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "施設に入った母から「実家は好きにしていい」と…銀行の評価で建物はゼロ、買い手のロ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験【",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "カブス 対 マーリンズ",
+      "title": "west",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
+    },
+    {
+      "title": "光文社様｜東出昌大 | Masahiro Higashide",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ]
 }
