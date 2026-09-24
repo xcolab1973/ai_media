@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-09-23T16:57:55+09:00",
- "valid_until": "2026-09-30T16:49:32+09:00",
+ "generated_at": "2026-09-24T16:54:01+09:00",
+ "valid_until": "2026-10-01T16:48:29+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "legal",
- "total_count": 30,
+ "total_count": 31,
  "merge": {
   "parent": "legal",
   "from_current": 30,
-  "from_new": 3,
-  "expired_pruned": 2,
+  "from_new": 2,
+  "expired_pruned": 0,
   "retention_dropped": 1,
   "genres": 5,
   "retention_per_genre": 8
@@ -258,6 +258,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "養育費に基づく差押え",
+   "url": "https://www.courts.go.jp/saiban/syurui/syurui_minzi/minzi_25_09/minzi_26_01/index.html",
+   "summary": "裁判所公式サイトが2026年4月施行の法定養育費・先取特権制度に基づく差押え手続きを解説。公正証書なしでも一定の要件で差押え申立てが可能になった点を案内。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "official_instruction",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "legal-divorce",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "裁判所",
+    "expert_origin": true,
+    "search_query": "法定養育費 月2万円 請求方法 先取特権 差し押さえ",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-10-01T16:48:29+09:00",
+   "validity_days": 7
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "養育費の「先取特権」による迅速な差押え｜不払いを防ぐ強力な新制度",
    "url": "https://yuhigaoka-law.com/lp/divorce/knowledge/child-custody/preferential-right/",
    "summary": "弁護士法人による解説。2026年4月施行の民法改正で養育費請求権に先取特権が付与され、債務名義がなくても通帳コピーやLINEのやり取り等の疎明資料で迅速な差押え申立てが可能になると説明。",
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-27T16:41:36+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "iDeCo・企業型DCは離婚時に財産分与の対象？年金分割との違い・評価方法を解説",
-   "url": "https://office-tree.jp/blog/divorce/ideco-corporate-dc-divorce/",
-   "summary": "iDeCoは厚生年金の年金分割の対象外だが、婚姻期間中の積立額・運用益相当分は財産分与の対象になるとされる。原則60歳まで引き出せないため、現物分割ではなく預貯金等での代償金精算が実務では主流という解説。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "legal-divorce",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "行政書士法人Tree",
-    "expert_origin": true,
-    "search_query": "離婚 財産分与 確定拠出年金 iDeCo 分割 方法",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": true,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-26T16:44:21+09:00",
    "validity_days": 7
   },
   {
@@ -854,6 +854,36 @@
     "rescued": false
    },
    "valid_until": "2026-09-26T06:33:24+09:00",
+   "validity_days": 7
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "【2026年10月1日施行】カスタマーハラスメント対策が義務化｜企業が準備すべき10の措置と対応手順",
+   "url": "https://mscompass.ms-ins.com/business-news/customer-harassment-law/",
+   "summary": "三井住友海上系メディアが中小企業向けにカスハラ対策義務化の実務対応を解説。人員に余裕のない小規模事業者は外部窓口委託が現実的と指摘、東京都・名古屋市の奨励金制度も紹介。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "legal-smb",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "MSコンパス（三井住友海上）",
+    "expert_origin": true,
+    "search_query": "カスタマーハラスメント防止措置 義務化 中小企業 何をすればいい 相談窓口",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-10-01T16:48:29+09:00",
    "validity_days": 7
   },
   {
