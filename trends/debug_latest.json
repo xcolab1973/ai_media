@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T15:37:00+09:00",
+  "generated_at": "2026-09-25T22:01:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,99 +7,99 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
     "neg_excluded": 4,
-    "dedup_excluded": 11,
-    "passed_total": 117,
+    "dedup_excluded": 8,
+    "passed_total": 110,
     "b2b_category_counts": {
-      "x_realtime": 6,
-      "yahoo_realtime": 40,
-      "google_trends": 9,
-      "news_web": 11,
-      "yahoo_news_ranking": 4
+      "yahoo_realtime": 27,
+      "google_trends": 10,
+      "yahoo_news_ranking": 5,
+      "x_realtime": 10,
+      "news_web": 18
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "personal_story": 4,
-    "opinion": 9,
-    "policy": 6,
+    "social_reaction": 22,
+    "personal_story": 3,
+    "opinion": 10,
+    "hard_fact": 28,
     "medical_science": 2,
-    "hard_fact": 21
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
-    "policy": 7,
-    "opinion": 9,
-    "personal_story": 4,
-    "hard_fact": 21,
-    "medical_science": 1
+    "hard_fact": 28,
+    "social_reaction": 22,
+    "opinion": 10,
+    "policy": 6,
+    "medical_science": 1,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "【閲覧注意】NHKの「北関東連続幼女誘拐・殺人事件」特集放送後、未解決事件「飯塚",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "ドコモが携帯料金値上げ　業界5年で3割上昇、「官製値下げ」から反転 - 日本経済",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "【公式】『ちいかわ』第381話「パラレルワールド⑦」※1週間限定配信＜10/2 ",
+      "title": "【閲覧注意】NHKの「北関東連続幼女誘拐・殺人事件」特集放送後、未解決事件「飯塚",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "新聞・テレビが口を閉ざした「天皇制の是非」",
+      "title": "平野佳寿",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "【皇室典範改正】男系・女系で大揉めした裏で…新聞・テレビが口を閉ざした「天皇制の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "ドコモ",
+      "title": "中島佑気ジョセフ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "太田市市場町",
+      "title": "松岡茉優",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "大谷翔平",
+      "title": "巨人",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "アメリカ人には意味わからんと思いますが、これは「バーモントカレー」です→「うちの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "weather tomorrow",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "「こういう雑な感じのキャンプがいいんだよな」という投稿に「本当の雑キャンプを見せ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "山田 二 千 華",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "ガストのネコちゃんの耳を触ると何か喋ると聞いたことがあるので試してみたが、想像以",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "ウナギ・サヤカ",
+      "title": "なでしこジャパン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -108,38 +108,38 @@
   "note_top10": [
     {
       "title": "【閲覧注意】NHKの「北関東連続幼女誘拐・殺人事件」特集放送後、未解決事件「飯塚",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "病院食についてのポスト『卵焼きと里芋でどうやってお米食べればいいですか…』→「私",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "ハプニングバーに行ったら飲んでいるだけの人ばかりなので「意外と普通のバーなんです",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【公式】『ちいかわ』第381話「パラレルワールド⑦」※1週間限定配信＜10/2 ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "日本人「アホみたいに円が安くなりすぎて何も買えん…」アメリカ人「アホみたいなイン",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "アメリカ人には意味わからんと思いますが、これは「バーモントカレー」です→「うちの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「アイラップでにんじん1本まるごとレンチン7分」がめちゃ美味しいらしい→さっそく",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「こういう雑な感じのキャンプがいいんだよな」という投稿に「本当の雑キャンプを見せ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ガストのネコちゃんの耳を触ると何か喋ると聞いたことがあるので試してみたが、想像以",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "【ワンルームで二人暮らし＋愛犬】85平米→都心6畳1間の築約50年マンションへ！",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「被災して電車が3か月動かなくなった。遅刻が多くなるかもしれないが大目に見てほし",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -149,19 +149,19 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "「骨髄採血と薬代がこわくて縮こまってしまった」Webライターが健康診断で慢性骨髄",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "平野佳寿",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "ジャングリア沖縄が173億円の大赤字と聞き、後輩に何が悪かったと思う？と聞いたら",
+      "title": "カメラ付きスマートグラスで女性を盗撮して動画をオンラインに投稿するセクハラについ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "アニメ「ちいかわ」パラレルワールド編が完結…「言わないよねェッ」の演技がマンガと",
+      "title": "議事録をAIに要約させてチームで共有していたが、ある日部長に「先週の会議は結論出",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
