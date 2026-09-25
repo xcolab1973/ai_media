@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T08:59:00+09:00",
+  "generated_at": "2026-09-25T15:37:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,33 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 2,
-    "dedup_excluded": 9,
-    "passed_total": 121,
+    "neg_excluded": 4,
+    "dedup_excluded": 11,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
-      "x_realtime": 9,
-      "google_trends": 10,
-      "news_web": 15,
-      "yahoo_news_ranking": 2
+      "x_realtime": 6,
+      "yahoo_realtime": 40,
+      "google_trends": 9,
+      "news_web": 11,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "opinion": 10,
-    "personal_story": 2,
+    "social_reaction": 28,
+    "personal_story": 4,
+    "opinion": 9,
     "policy": 6,
-    "hard_fact": 17,
-    "medical_science": 2
+    "medical_science": 2,
+    "hard_fact": 21
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
-    "opinion": 10,
-    "policy": 3,
-    "hard_fact": 25,
-    "personal_story": 2
+    "social_reaction": 28,
+    "policy": 7,
+    "opinion": 9,
+    "personal_story": 4,
+    "hard_fact": 21,
+    "medical_science": 1
   },
   "b2b_top10": [
+    {
+      "title": "【閲覧注意】NHKの「北関東連続幼女誘拐・殺人事件」特集放送後、未解決事件「飯塚",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "【公式】『ちいかわ』第381話「パラレルワールド⑦」※1週間限定配信＜10/2 ",
       "source_category": "yahoo_realtime",
@@ -50,63 +57,57 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ヤマト運輸から「貴方が○月○日に発送した荷物が衣類だと書かれていましたが実際は書",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ある旅館が「Agodaなどの海外のホテル予約サイトを使わないで」と注意喚起→宿泊",
+      "title": "新聞・テレビが口を閉ざした「天皇制の是非」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "policy"
     },
     {
-      "title": "社説：広がる野生動物カフェ　リスク踏まえた対策必要 | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "証券取引で不正疑い、AppleやGoogleアカウント乗っ取りでも発生 - 日本",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "友達を守っただけなのに エド・シーラン擁護でワンオクTakaが海外で炎上した理由",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ブレーブス 対 レッズ",
+      "title": "ドコモ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ちいかわ",
+      "title": "太田市市場町",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "スリゲ",
+      "title": "大谷翔平",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "学級写真を突然、廃止　小学校PTA会長が辞意「これ以上は…」 | 毎日新聞",
+      "title": "アメリカ人には意味わからんと思いますが、これは「バーモントカレー」です→「うちの",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "「こういう雑な感じのキャンプがいいんだよな」という投稿に「本当の雑キャンプを見せ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ガストのネコちゃんの耳を触ると何か喋ると聞いたことがあるので試してみたが、想像以",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "ウナギ・サヤカ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "ヤマト運輸から「貴方が○月○日に発送した荷物が衣類だと書かれていましたが実際は書",
+      "title": "【閲覧注意】NHKの「北関東連続幼女誘拐・殺人事件」特集放送後、未解決事件「飯塚",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -118,49 +119,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "社説：広がる野生動物カフェ　リスク踏まえた対策必要 | 毎日新聞",
+      "title": "アメリカ人には意味わからんと思いますが、これは「バーモントカレー」です→「うちの",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ある旅館が「Agodaなどの海外のホテル予約サイトを使わないで」と注意喚起→宿泊",
+      "title": "「こういう雑な感じのキャンプがいいんだよな」という投稿に「本当の雑キャンプを見せ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "証券取引で不正疑い、AppleやGoogleアカウント乗っ取りでも発生 - 日本",
+      "title": "ガストのネコちゃんの耳を触ると何か喋ると聞いたことがあるので試してみたが、想像以",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "【ワンルームで二人暮らし＋愛犬】85平米→都心6畳1間の築約50年マンションへ！",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "友達を守っただけなのに エド・シーラン擁護でワンオクTakaが海外で炎上した理由",
+      "title": "夫と子供の教育方針で大喧嘩をずっと繰り返している",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "学級写真を突然、廃止　小学校PTA会長が辞意「これ以上は…」 | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「骨髄採血と薬代がこわくて縮こまってしまった」Webライターが健康診断で慢性骨髄",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "ジャングリア沖縄が173億円の大赤字と聞き、後輩に何が悪かったと思う？と聞いたら",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "まさか40歳で両親がいなくなって天涯孤独になるとは思ってもみなかったし、自分がこ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "近所のおばあさんが、やんちゃな飼い猫にお説教してたんだけど、「そんなんだから、猫",
+      "title": "アニメ「ちいかわ」パラレルワールド編が完結…「言わないよねェッ」の演技がマンガと",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
