@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T22:01:00+09:00",
+  "generated_at": "2026-09-26T02:34:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,99 +7,99 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
     "neg_excluded": 4,
-    "dedup_excluded": 8,
-    "passed_total": 110,
+    "dedup_excluded": 11,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_realtime": 27,
+      "yahoo_realtime": 37,
       "google_trends": 10,
+      "x_realtime": 7,
       "yahoo_news_ranking": 5,
-      "x_realtime": 10,
-      "news_web": 18
+      "news_web": 11
     }
   },
   "note_category_counts": {
-    "social_reaction": 22,
-    "personal_story": 3,
+    "social_reaction": 26,
+    "personal_story": 5,
     "opinion": 10,
-    "hard_fact": 28,
-    "medical_science": 2,
-    "policy": 5
+    "medical_science": 3,
+    "hard_fact": 22,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 28,
-    "social_reaction": 22,
+    "social_reaction": 26,
+    "personal_story": 5,
     "opinion": 10,
-    "policy": 6,
-    "medical_science": 1,
-    "personal_story": 3
+    "hard_fact": 22,
+    "medical_science": 3,
+    "policy": 4
   },
   "b2b_top10": [
     {
-      "title": "ドコモが携帯料金値上げ　業界5年で3割上昇、「官製値下げ」から反転 - 日本経済",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "【閲覧注意】NHKの「北関東連続幼女誘拐・殺人事件」特集放送後、未解決事件「飯塚",
+      "title": "一部メニュー見直しのお知らせ | ニュースリリース | マクドナルド公式",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "平野佳寿",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "【皇室典範改正】男系・女系で大揉めした裏で…新聞・テレビが口を閉ざした「天皇制の",
+      "title": "パナソニック、市販カーナビの生産を2027年3月までに終了 生産終了後もアフター",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "topic_category": "personal_story"
     },
     {
-      "title": "中島佑気ジョセフ",
+      "title": "水没しても国家は「存続」　海面上昇対策で国連が初の合意文書 | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "食品会社でチーズを開発している人が作った「コーヒー牛乳」分析マップが詳細すぎて凄",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「急に増えすぎて不気味さを感じる」最近ちょっと空き店舗があるとすぐ「買取の店」が",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "olympia",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "松岡茉優",
+      "title": "レッドソックス 対 カブス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "巨人",
+      "title": "広島東洋カープ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "weather tomorrow",
+      "title": "緒方恵美",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "山田 二 千 華",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "なでしこジャパン",
+      "title": "タレント",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
-      "title": "【閲覧注意】NHKの「北関東連続幼女誘拐・殺人事件」特集放送後、未解決事件「飯塚",
+      "title": "水没しても国家は「存続」　海面上昇対策で国連が初の合意文書 | 毎日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "一部メニュー見直しのお知らせ | ニュースリリース | マクドナルド公式",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "パナソニック、市販カーナビの生産を2027年3月までに終了 生産終了後もアフター",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "食品会社でチーズを開発している人が作った「コーヒー牛乳」分析マップが詳細すぎて凄",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「急に増えすぎて不気味さを感じる」最近ちょっと空き店舗があるとすぐ「買取の店」が",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「誰やねんお前」ポケモンとスタバのコラボ、タンブラーなどに使われているイラストが",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "病院食についてのポスト『卵焼きと里芋でどうやってお米食べればいいですか…』→「私",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "ハプニングバーに行ったら飲んでいるだけの人ばかりなので「意外と普通のバーなんです",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日本人「アホみたいに円が安くなりすぎて何も買えん…」アメリカ人「アホみたいなイン",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "元中道・泉健太氏が衆院会派結成へ　新党入らず緒方衆院議員と | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
       "title": "「アイラップでにんじん1本まるごとレンチン7分」がめちゃ美味しいらしい→さっそく",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「被災して電車が3か月動かなくなった。遅刻が多くなるかもしれないが大目に見てほし",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "夫と子供の教育方針で大喧嘩をずっと繰り返している",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "平野佳寿",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "カメラ付きスマートグラスで女性を盗撮して動画をオンラインに投稿するセクハラについ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "議事録をAIに要約させてチームで共有していたが、ある日部長に「先週の会議は結論出",
+      "title": "「ニートになるならまだマシで」Xで「子どものうちにしっかり勉強しておくべき」的な",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
