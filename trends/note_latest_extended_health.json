@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-26T08:37:07+09:00",
- "valid_until": "2026-10-10T08:29:39+09:00",
+ "generated_at": "2026-09-26T19:27:12+09:00",
+ "valid_until": "2026-10-10T19:19:14+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -8,14 +8,44 @@
  "total_count": 36,
  "merge": {
   "parent": "health",
-  "from_current": 35,
-  "from_new": 2,
+  "from_current": 36,
+  "from_new": 1,
   "expired_pruned": 1,
   "retention_dropped": 0,
   "genres": 5,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "秋こそ実践！太りにくい体質になる7つの習慣",
+   "url": "https://www.t-pec.co.jp/health_news/2024-09/",
+   "summary": "食欲の秋に太りにくい体質を作る7つの生活習慣を紹介する読み物。季節の変わり目の代謝低下と食欲増進への対策を一般向けにやさしく解説。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "health-diet",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "ティーペック株式会社（健康相談サービス）",
+    "expert_origin": false,
+    "search_query": "秋 ダイエット 食欲の秋 太らない 代謝 持続可能 やせる習慣",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-10-10T19:19:14+09:00",
+   "validity_days": 14
+  },
   {
    "source_category": "news_web",
    "raw_title": "厚労省、サプリメントの健康被害報告を「努力義務」から「義務化」へ GMPの義務化は事前の届出制で",
@@ -164,36 +194,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-30T16:43:03+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "ダイエットの停滞期は失敗ではない｜体重が落ちない時に確認したいこと",
-   "url": "https://fujicl.or.jp/diet/weight-loss-plateau-overcome/",
-   "summary": "ダイエット肥満外来のクリニックが解説。停滞期はホメオスタシス（体の防衛反応）が主因で、3〜6ヶ月続いても変化がない場合はGLP-1受容体作動薬など医療的アプローチの相談時期とされる。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "health-diet",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "富士在宅診療所 ダイエット/肥満外来",
-    "expert_origin": true,
-    "search_query": "秋 ダイエット 停滞期 健康診断 数値 2026",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-26T16:44:21+09:00",
    "validity_days": 14
   },
   {
