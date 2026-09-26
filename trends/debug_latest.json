@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T21:29:00+09:00",
+  "generated_at": "2026-09-27T01:47:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,40 +16,46 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 7,
-    "passed_total": 120,
+    "neg_excluded": 10,
+    "dedup_excluded": 12,
+    "passed_total": 110,
     "b2b_category_counts": {
-      "x_realtime": 10,
-      "yahoo_realtime": 38,
-      "news_web": 9,
+      "yahoo_realtime": 34,
+      "news_web": 18,
       "google_trends": 10,
-      "yahoo_news_ranking": 3
+      "x_realtime": 4,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 41,
+    "social_reaction": 31,
     "opinion": 10,
-    "medical_science": 5,
-    "hard_fact": 10,
-    "policy": 4
+    "medical_science": 7,
+    "hard_fact": 20,
+    "policy": 2
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 41,
-    "hard_fact": 12,
+    "social_reaction": 31,
+    "hard_fact": 22,
     "opinion": 10,
-    "medical_science": 3,
-    "policy": 4
+    "medical_science": 4,
+    "policy": 3
   },
   "b2b_top10": [
     {
-      "title": "【閲覧注意】アメリカの病院あるある→日本人が捨てないと職場の冷蔵庫でペニシリンが",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "40代最後の日を迎えた",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【立ち食いそば放浪記400】日本一安いかけそば！ 2026年9月現在も1杯170",
+      "title": "部下がばっさり髪を切っているが「髪切った？」はセクハラになると悩んだ結果…最悪の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「遺伝的要因のおそろしさを感じる」X投稿で猛批判を浴びた東大・本田由紀教授につい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -61,22 +67,16 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「中学生娘のクラスイベントへのお金を出し渋る母」に様々な意見が集まるが、大学でも",
+      "title": "【立ち食いそば放浪記400】日本一安いかけそば！ 2026年9月現在も1杯170",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "定期船が廃止 夫婦2人だけ住む島",
+      "title": "WEST.のラジオ終了 全員で発表",
       "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
+      "raw_source_key": "yahoo_news_entertainment",
       "topic_category": "hard_fact"
-    },
-    {
-      "title": "トイレに閉じ込められてドアをぶち破って脱出…突っ張り棒で3時間壁をぶん殴り続ける",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
     },
     {
       "title": "国立美術館が入館料を大幅値上げ…「稼げる展示」求める国の姿勢に「文化軽視の国は先",
@@ -85,19 +85,19 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "交渉人真下正義",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "「中学生娘のクラスイベントへのお金を出し渋る母」に様々な意見が集まるが、大学でも",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "ノア ヴォクシー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "トイレに閉じ込められてドアをぶち破って脱出…突っ張り棒で3時間壁をぶん殴り続ける",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "町田啓太",
+      "title": "せいや",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -111,13 +111,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "【閲覧注意】アメリカの病院あるある→日本人が捨てないと職場の冷蔵庫でペニシリンが",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "トイレに閉じ込められてドアをぶち破って脱出…突っ張り棒で3時間壁をぶん殴り続ける",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "トイレに閉じ込められてドアをぶち破って脱出…突っ張り棒で3時間壁をぶん殴り続ける",
+      "title": "40代最後の日を迎えた",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "部下がばっさり髪を切っているが「髪切った？」はセクハラになると悩んだ結果…最悪の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「テレビで見るヤクザさんと本物のヤクザさんの違い」17歳の女子高生が『探偵！ナイ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「遺伝的要因のおそろしさを感じる」X投稿で猛批判を浴びた東大・本田由紀教授につい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -135,33 +153,15 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "女子枠論争補遺：もう一つの対立軸、一般人対アカデミア｜Tatsuo Tanaka",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "感じのいい人が「大丈夫です」の代わりに使う「5文字の言葉」とは？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ローカルLLMで使えるWeb検索まとめ｜npaka",
+      "title": "「例のプール。中に1人で気まずかった」21世紀美術館のプールの写真の構図が社会風",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "ピクニック好きすぎて徹夜で100人前のサンドイッチを作って通行人に振る舞ったりし",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "京都の飲食店で飲み食いしてから、現金オンリーなことを知って「無銭飲食で終わった」",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
