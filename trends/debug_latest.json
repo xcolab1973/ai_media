@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T02:34:00+09:00",
+  "generated_at": "2026-09-26T09:08:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 4,
-    "dedup_excluded": 11,
-    "passed_total": 117,
+    "neg_excluded": 1,
+    "dedup_excluded": 10,
+    "passed_total": 121,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
+      "yahoo_realtime": 36,
       "google_trends": 10,
-      "x_realtime": 7,
-      "yahoo_news_ranking": 5,
-      "news_web": 11
+      "x_realtime": 9,
+      "news_web": 13,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
-    "personal_story": 5,
+    "social_reaction": 36,
     "opinion": 10,
-    "medical_science": 3,
-    "hard_fact": 22,
-    "policy": 4
+    "personal_story": 4,
+    "medical_science": 1,
+    "policy": 5,
+    "hard_fact": 14
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 26,
-    "personal_story": 5,
+    "social_reaction": 33,
     "opinion": 10,
-    "hard_fact": 22,
-    "medical_science": 3,
-    "policy": 4
+    "policy": 5,
+    "hard_fact": 17,
+    "personal_story": 4,
+    "medical_science": 1
   },
   "b2b_top10": [
+    {
+      "title": "秘密法人デスメイカー・第41話 | ヤンチャンWeb（ヤングチャンピオン）",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "一部メニュー見直しのお知らせ | ニュースリリース | マクドナルド公式",
       "source_category": "yahoo_realtime",
@@ -51,55 +57,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "パナソニック、市販カーナビの生産を2027年3月までに終了 生産終了後もアフター",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "水没しても国家は「存続」　海面上昇対策で国連が初の合意文書 | 毎日新聞",
+      "title": "「BYDラッコ、いや驚きました」世界首位のBEVメーカーが本気で造った軽自動車の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "食品会社でチーズを開発している人が作った「コーヒー牛乳」分析マップが詳細すぎて凄",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「急に増えすぎて不気味さを感じる」最近ちょっと空き店舗があるとすぐ「買取の店」が",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "olympia",
+      "title": "ホワイトソックス 対 ロッキーズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "レッドソックス 対 カブス",
+      "title": "サメ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "広島東洋カープ",
+      "title": "上白石萌音",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "緒方恵美",
+      "title": "マーリンズ 対 ブレーブス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "タレント",
+      "title": "宝くじ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "佐藤早也伽",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "三原理稀",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,7 +107,7 @@
   ],
   "note_top10": [
     {
-      "title": "水没しても国家は「存続」　海面上昇対策で国連が初の合意文書 | 毎日新聞",
+      "title": "秘密法人デスメイカー・第41話 | ヤンチャンWeb（ヤングチャンピオン）",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -119,10 +119,16 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "パナソニック、市販カーナビの生産を2027年3月までに終了 生産終了後もアフター",
+      "title": "「BYDラッコ、いや驚きました」世界首位のBEVメーカーが本気で造った軽自動車の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "トイレに閉じ込められてドアをぶち破って脱出…突っ張り棒で3時間壁をぶん殴り続ける",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
       "title": "食品会社でチーズを開発している人が作った「コーヒー牛乳」分析マップが詳細すぎて凄",
@@ -131,37 +137,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「急に増えすぎて不気味さを感じる」最近ちょっと空き店舗があるとすぐ「買取の店」が",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「誰やねんお前」ポケモンとスタバのコラボ、タンブラーなどに使われているイラストが",
+      "title": "小学生の頃、誰にも告げずに家出して、1人で生きていくんだ…これからはこういう物し",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "病院食についてのポスト『卵焼きと里芋でどうやってお米食べればいいですか…』→「私",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "帰宅後「5月の電気料金払ってないぞ早く払わないと電気止めるぞ」とのSMSが…クレ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "元中道・泉健太氏が衆院会派結成へ　新党入らず緒方衆院議員と | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「アイラップでにんじん1本まるごとレンチン7分」がめちゃ美味しいらしい→さっそく",
+      "title": "もうすぐ定年だけど仕事が楽しくなくてヤバい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ニートになるならまだマシで」Xで「子どものうちにしっかり勉強しておくべき」的な",
+      "title": "MADE IN YAMATO - 第１８話　宗教弾圧！？ | ヤンマガWeb",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "大学ではじめての授業遅刻したとき声をかけてくれたギャルの友達にずっとメロついてる",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
