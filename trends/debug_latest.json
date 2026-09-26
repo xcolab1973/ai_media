@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T15:37:00+09:00",
+  "generated_at": "2026-09-26T21:29:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,44 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 8,
-    "passed_total": 117,
+    "neg_excluded": 5,
+    "dedup_excluded": 7,
+    "passed_total": 120,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
-      "news_web": 12,
+      "x_realtime": 10,
+      "yahoo_realtime": 38,
+      "news_web": 9,
       "google_trends": 10,
-      "x_realtime": 8,
       "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "personal_story": 2,
+    "social_reaction": 41,
     "opinion": 10,
-    "hard_fact": 15,
-    "policy": 7,
-    "medical_science": 3
+    "medical_science": 5,
+    "hard_fact": 10,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
-    "hard_fact": 16,
+    "social_reaction": 41,
+    "hard_fact": 12,
     "opinion": 10,
-    "policy": 7,
-    "personal_story": 2,
-    "medical_science": 2
+    "medical_science": 3,
+    "policy": 4
   },
   "b2b_top10": [
+    {
+      "title": "【閲覧注意】アメリカの病院あるある→日本人が捨てないと職場の冷蔵庫でペニシリンが",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【立ち食いそば放浪記400】日本一安いかけそば！ 2026年9月現在も1杯170",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "取ったら役に立つとかコスパが高いとかじゃなくて「何の役にも立たないけど勉強過程が",
       "source_category": "yahoo_realtime",
@@ -51,7 +61,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "新潟の廃止油田 止まらぬ石油流出",
+      "title": "「中学生娘のクラスイベントへのお金を出し渋る母」に様々な意見が集まるが、大学でも",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "定期船が廃止 夫婦2人だけ住む島",
       "source_category": "news_web",
       "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
@@ -63,43 +79,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "女子枠論争補遺：もう一つの対立軸、一般人対アカデミア｜Tatsuo Tanaka",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「BYDラッコ、いや驚きました」世界首位のBEVメーカーが本気で造った軽自動車の",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "国立美術館が入館料を大幅値上げ…「稼げる展示」求める国の姿勢に「文化軽視の国は先",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
     },
     {
-      "title": "持ち家",
+      "title": "交渉人真下正義",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "名古屋テレビ塔",
+      "title": "ノア ヴォクシー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "バス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "オリックス 対 日本ハム",
+      "title": "町田啓太",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,7 +111,25 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "【閲覧注意】アメリカの病院あるある→日本人が捨てないと職場の冷蔵庫でペニシリンが",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "トイレに閉じ込められてドアをぶち破って脱出…突っ張り棒で3時間壁をぶん殴り続ける",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【立ち食いそば放浪記400】日本一安いかけそば！ 2026年9月現在も1杯170",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「中学生娘のクラスイベントへのお金を出し渋る母」に様々な意見が集まるが、大学でも",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,43 +141,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「BYDラッコ、いや驚きました」世界首位のBEVメーカーが本気で造った軽自動車の",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "感じのいい人が「大丈夫です」の代わりに使う「5文字の言葉」とは？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "家事代行を「13時～15時」で頼んだが、スタッフが電車乗り換えに失敗して20分遅",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【ｅスポーツ】11歳栗原悠輝、金メダル獲得！「ぷよぷよ」でアジア大会史上最年少メ",
+      "title": "ローカルLLMで使えるWeb検索まとめ｜npaka",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "歴代総理は個人的に支持できるかはおいといて支持者がいる理由は分かった..",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "親にハンマーで殴られながら勉強させられた友人、宅飲み中に電話が鳴りまくり一回「オ",
+      "title": "ピクニック好きすぎて徹夜で100人前のサンドイッチを作って通行人に振る舞ったりし",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "出雲のスーパーに売っていた謎の食べ物『巨大な琥珀糖』がよく分からないので買って食",
+      "title": "京都の飲食店で飲み食いしてから、現金オンリーなことを知って「無銭飲食で終わった」",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
