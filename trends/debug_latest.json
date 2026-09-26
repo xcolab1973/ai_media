@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T01:47:00+09:00",
+  "generated_at": "2026-09-27T08:52:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,149 +17,151 @@
       "x_realtime": 10
     },
     "neg_excluded": 10,
-    "dedup_excluded": 12,
-    "passed_total": 110,
+    "dedup_excluded": 9,
+    "passed_total": 113,
     "b2b_category_counts": {
       "yahoo_realtime": 34,
-      "news_web": 18,
       "google_trends": 10,
-      "x_realtime": 4,
+      "x_realtime": 8,
+      "news_web": 14,
       "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
     "social_reaction": 31,
     "opinion": 10,
-    "medical_science": 7,
-    "hard_fact": 20,
-    "policy": 2
+    "personal_story": 2,
+    "medical_science": 5,
+    "hard_fact": 17,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
     "social_reaction": 31,
-    "hard_fact": 22,
     "opinion": 10,
-    "medical_science": 4,
-    "policy": 3
+    "hard_fact": 19,
+    "policy": 6,
+    "medical_science": 2,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "40代最後の日を迎えた",
+      "title": "「テレワーク廃止で人が辞める」「争奪戦が激しいITエンジニア職」、変革期を生き抜",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "部下がばっさり髪を切っているが「髪切った？」はセクハラになると悩んだ結果…最悪の",
+      "title": "[第１２４話]ふつうの軽音部 - クワハリ/出内テツオ | 少年ジャンプ＋",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「遺伝的要因のおそろしさを感じる」X投稿で猛批判を浴びた東大・本田由紀教授につい",
+      "title": "[70話]英雄機関 - 蔡河ケイ/高橋アキラ | 少年ジャンプ＋",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "取ったら役に立つとかコスパが高いとかじゃなくて「何の役にも立たないけど勉強過程が",
+      "title": "「緒方恵美が最近ヤバくなったと思ってる人も多いがこの人若い頃に一演者に過ぎないの",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【立ち食いそば放浪記400】日本一安いかけそば！ 2026年9月現在も1杯170",
+      "title": "AI が書く Go コードの品質を劇的に向上させる Linter: “decls",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "WEST.のラジオ終了 全員で発表",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_entertainment",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "国立美術館が入館料を大幅値上げ…「稼げる展示」求める国の姿勢に「文化軽視の国は先",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "「中学生娘のクラスイベントへのお金を出し渋る母」に様々な意見が集まるが、大学でも",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "トイレに閉じ込められてドアをぶち破って脱出…突っ張り棒で3時間壁をぶん殴り続ける",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "せいや",
+      "title": "成宮寛貴",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
+    },
+    {
+      "title": "旅の祭典",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ツーリズムexpoジャパン2026",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "テレワーク廃止で人が辞める――それでも企業が“出社させたがる”のはなぜ？",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "元被虐待児童の人が語る小学5年生の個人面談の翌日に担任が「子供を褒めてあそこまで",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
-      "title": "取ったら役に立つとかコスパが高いとかじゃなくて「何の役にも立たないけど勉強過程が",
+      "title": "「テレワーク廃止で人が辞める」「争奪戦が激しいITエンジニア職」、変革期を生き抜",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "トイレに閉じ込められてドアをぶち破って脱出…突っ張り棒で3時間壁をぶん殴り続ける",
+      "title": "[第１２４話]ふつうの軽音部 - クワハリ/出内テツオ | 少年ジャンプ＋",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "40代最後の日を迎えた",
+      "title": "[70話]英雄機関 - 蔡河ケイ/高橋アキラ | 少年ジャンプ＋",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "部下がばっさり髪を切っているが「髪切った？」はセクハラになると悩んだ結果…最悪の",
+      "title": "「緒方恵美が最近ヤバくなったと思ってる人も多いがこの人若い頃に一演者に過ぎないの",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「テレビで見るヤクザさんと本物のヤクザさんの違い」17歳の女子高生が『探偵！ナイ",
+      "title": "AI が書く Go コードの品質を劇的に向上させる Linter: “decls",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "テレワーク廃止で人が辞める――それでも企業が“出社させたがる”のはなぜ？",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "元被虐待児童の人が語る小学5年生の個人面談の翌日に担任が「子供を褒めてあそこまで",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「指差しレスしたのに写真あげてくれない！」とアイドルが思うことはあるかもしれない",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「なんか変ですわと思ったらレシピの1行目読んでなかった」カットすべき肉を塊のまま",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "「遺伝的要因のおそろしさを感じる」X投稿で猛批判を浴びた東大・本田由紀教授につい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【立ち食いそば放浪記400】日本一安いかけそば！ 2026年9月現在も1杯170",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「中学生娘のクラスイベントへのお金を出し渋る母」に様々な意見が集まるが、大学でも",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「例のプール。中に1人で気まずかった」21世紀美術館のプールの写真の構図が社会風",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ピクニック好きすぎて徹夜で100人前のサンドイッチを作って通行人に振る舞ったりし",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
