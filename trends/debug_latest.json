@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T09:08:00+09:00",
+  "generated_at": "2026-09-26T15:37:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,42 +16,54 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 1,
-    "dedup_excluded": 10,
-    "passed_total": 121,
+    "neg_excluded": 7,
+    "dedup_excluded": 8,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
+      "yahoo_realtime": 37,
+      "news_web": 12,
       "google_trends": 10,
-      "x_realtime": 9,
-      "news_web": 13,
-      "yahoo_news_ranking": 2
+      "x_realtime": 8,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 36,
+    "social_reaction": 33,
+    "personal_story": 2,
     "opinion": 10,
-    "personal_story": 4,
-    "medical_science": 1,
-    "policy": 5,
-    "hard_fact": 14
+    "hard_fact": 15,
+    "policy": 7,
+    "medical_science": 3
   },
   "b2b_topic_category_counts": {
     "social_reaction": 33,
+    "hard_fact": 16,
     "opinion": 10,
-    "policy": 5,
-    "hard_fact": 17,
-    "personal_story": 4,
-    "medical_science": 1
+    "policy": 7,
+    "personal_story": 2,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "秘密法人デスメイカー・第41話 | ヤンチャンWeb（ヤングチャンピオン）",
+      "title": "取ったら役に立つとかコスパが高いとかじゃなくて「何の役にも立たないけど勉強過程が",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "一部メニュー見直しのお知らせ | ニュースリリース | マクドナルド公式",
+      "title": "新潟の廃止油田 止まらぬ石油流出",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "トイレに閉じ込められてドアをぶち破って脱出…突っ張り棒で3時間壁をぶん殴り続ける",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "女子枠論争補遺：もう一つの対立軸、一般人対アカデミア｜Tatsuo Tanaka",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -63,43 +75,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ホワイトソックス 対 ロッキーズ",
+      "title": "国立美術館が入館料を大幅値上げ…「稼げる展示」求める国の姿勢に「文化軽視の国は先",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "持ち家",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "サメ",
+      "title": "名古屋テレビ塔",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "上白石萌音",
+      "title": "バス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "マーリンズ 対 ブレーブス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "宝くじ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "佐藤早也伽",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "三原理稀",
+      "title": "オリックス 対 日本ハム",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,13 +107,19 @@
   ],
   "note_top10": [
     {
-      "title": "秘密法人デスメイカー・第41話 | ヤンチャンWeb（ヤングチャンピオン）",
+      "title": "取ったら役に立つとかコスパが高いとかじゃなくて「何の役にも立たないけど勉強過程が",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "一部メニュー見直しのお知らせ | ニュースリリース | マクドナルド公式",
+      "title": "トイレに閉じ込められてドアをぶち破って脱出…突っ張り棒で3時間壁をぶん殴り続ける",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "女子枠論争補遺：もう一つの対立軸、一般人対アカデミア｜Tatsuo Tanaka",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,43 +131,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "トイレに閉じ込められてドアをぶち破って脱出…突っ張り棒で3時間壁をぶん殴り続ける",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "食品会社でチーズを開発している人が作った「コーヒー牛乳」分析マップが詳細すぎて凄",
+      "title": "感じのいい人が「大丈夫です」の代わりに使う「5文字の言葉」とは？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "小学生の頃、誰にも告げずに家出して、1人で生きていくんだ…これからはこういう物し",
+      "title": "家事代行を「13時～15時」で頼んだが、スタッフが電車乗り換えに失敗して20分遅",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "帰宅後「5月の電気料金払ってないぞ早く払わないと電気止めるぞ」とのSMSが…クレ",
+      "title": "【ｅスポーツ】11歳栗原悠輝、金メダル獲得！「ぷよぷよ」でアジア大会史上最年少メ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "歴代総理は個人的に支持できるかはおいといて支持者がいる理由は分かった..",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "親にハンマーで殴られながら勉強させられた友人、宅飲み中に電話が鳴りまくり一回「オ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "もうすぐ定年だけど仕事が楽しくなくてヤバい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "MADE IN YAMATO - 第１８話　宗教弾圧！？ | ヤンマガWeb",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "大学ではじめての授業遅刻したとき声をかけてくれたギャルの友達にずっとメロついてる",
+      "title": "出雲のスーパーに売っていた謎の食べ物『巨大な琥珀糖』がよく分からないので買って食",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
