@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T08:52:00+09:00",
+  "generated_at": "2026-09-27T16:05:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
+    "neg_excluded": 11,
     "dedup_excluded": 9,
-    "passed_total": 113,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
+      "yahoo_realtime": 32,
       "google_trends": 10,
+      "yahoo_news_ranking": 5,
       "x_realtime": 8,
-      "news_web": 14,
-      "yahoo_news_ranking": 4
+      "news_web": 15
     }
   },
   "note_category_counts": {
-    "social_reaction": 31,
+    "personal_story": 3,
+    "social_reaction": 26,
     "opinion": 10,
-    "personal_story": 2,
-    "medical_science": 5,
-    "hard_fact": 17,
-    "policy": 5
+    "medical_science": 7,
+    "hard_fact": 18,
+    "policy": 6
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 31,
+    "personal_story": 2,
     "opinion": 10,
-    "hard_fact": 19,
-    "policy": 6,
-    "medical_science": 2,
-    "personal_story": 2
+    "hard_fact": 24,
+    "social_reaction": 24,
+    "medical_science": 5,
+    "policy": 5
   },
   "b2b_top10": [
     {
-      "title": "「テレワーク廃止で人が辞める」「争奪戦が激しいITエンジニア職」、変革期を生き抜",
+      "title": "ADHD検査アプリをリバースエンジニアリングした結果",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "[第１２４話]ふつうの軽音部 - クワハリ/出内テツオ | 少年ジャンプ＋",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "[70話]英雄機関 - 蔡河ケイ/高橋アキラ | 少年ジャンプ＋",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「緒方恵美が最近ヤバくなったと思ってる人も多いがこの人若い頃に一演者に過ぎないの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "AI が書く Go コードの品質を劇的に向上させる Linter: “decls",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "成宮寛貴",
+      "title": "jra",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "旅の祭典",
+      "title": "【独自】酒々井町の住宅地冠水、放置盛り土崩落が原因 排水路遮断、復旧見通せず 高",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "桑木志帆",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ツーリズムexpoジャパン2026",
+      "title": "山手線",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "テレワーク廃止で人が辞める――それでも企業が“出社させたがる”のはなぜ？",
+      "title": "食品添加物",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ランサムウェア",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "朝乃山広暉",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "古文は平安人の恋愛やセックスに関する話が出てくるが、模試か過去問で「下紐を解く」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "元被虐待児童の人が語る小学5年生の個人面談の翌日に担任が「子供を褒めてあそこまで",
+      "title": "保活がしんどすぎて実母に愚痴っていたら「あんたの住んでるマンションの上の階売りに",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -107,63 +107,63 @@
   ],
   "note_top10": [
     {
-      "title": "「テレワーク廃止で人が辞める」「争奪戦が激しいITエンジニア職」、変革期を生き抜",
+      "title": "ADHD検査アプリをリバースエンジニアリングした結果",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "古文は平安人の恋愛やセックスに関する話が出てくるが、模試か過去問で「下紐を解く」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "[第１２４話]ふつうの軽音部 - クワハリ/出内テツオ | 少年ジャンプ＋",
+      "title": "保活がしんどすぎて実母に愚痴っていたら「あんたの住んでるマンションの上の階売りに",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "[70話]英雄機関 - 蔡河ケイ/高橋アキラ | 少年ジャンプ＋",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「緒方恵美が最近ヤバくなったと思ってる人も多いがこの人若い頃に一演者に過ぎないの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "AI が書く Go コードの品質を劇的に向上させる Linter: “decls",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "テレワーク廃止で人が辞める――それでも企業が“出社させたがる”のはなぜ？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "元被虐待児童の人が語る小学5年生の個人面談の翌日に担任が「子供を褒めてあそこまで",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「指差しレスしたのに写真あげてくれない！」とアイドルが思うことはあるかもしれない",
+      "title": "最高速度50キロの道路を25キロで走る車が前にいて「遅いなー」と思ってたら、運転",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「なんか変ですわと思ったらレシピの1行目読んでなかった」カットすべき肉を塊のまま",
+      "title": "フードコートで「パパが水を取りにいけるかちゃんとみてて！！ずーーっとみておいてね",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「遺伝的要因のおそろしさを感じる」X投稿で猛批判を浴びた東大・本田由紀教授につい",
+      "title": "トイレのリモコンの「流す」ボタンが故障したのでTOTOに相談、在庫がないので便器",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "jra",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "食べ放題「回転ずしバス」来月から東京で運行　「皿飛ばないか」試行錯誤100回",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ゴルバチョフって知ってる？",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "今日泊まるホテル潰れてたんだけどｗ実は去年泊まったことがあって、内部の様子はホラ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
