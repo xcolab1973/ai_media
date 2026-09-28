@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T01:03:00+09:00",
+  "generated_at": "2026-09-29T04:51:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,45 +16,69 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 10,
+    "neg_excluded": 8,
+    "dedup_excluded": 11,
     "passed_total": 113,
     "b2b_category_counts": {
-      "news_web": 10,
-      "yahoo_realtime": 38,
+      "yahoo_realtime": 40,
       "google_trends": 10,
-      "x_realtime": 9,
-      "yahoo_news_ranking": 3
+      "news_web": 10,
+      "yahoo_news_ranking": 2,
+      "x_realtime": 8
     }
   },
   "note_category_counts": {
     "social_reaction": 31,
-    "medical_science": 10,
-    "opinion": 10,
-    "personal_story": 3,
-    "hard_fact": 12,
-    "policy": 4
+    "personal_story": 4,
+    "opinion": 5,
+    "medical_science": 9,
+    "hard_fact": 16,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "medical_science": 7,
     "social_reaction": 31,
-    "opinion": 10,
-    "hard_fact": 15,
-    "policy": 4,
-    "personal_story": 3
+    "hard_fact": 19,
+    "medical_science": 6,
+    "opinion": 5,
+    "policy": 5,
+    "personal_story": 4
   },
   "b2b_top10": [
     {
-      "title": "生命維持治療終了の新指針 4学会",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "medical_science"
+      "title": "1990年以降の日本の現代音楽｜アルプスの少年",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "地震情報",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
     },
     {
       "title": "作者の自宅まで「行った」、『みいちゃんと山田さん』作者の“自宅情報”拡散、講談社",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "地震速報",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "地震",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "生命維持治療終了の新指針 4学会",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "medical_science"
     },
     {
       "title": "【速報】生命維持治療終了に関する指針公表",
@@ -63,43 +87,19 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "グランドライツってなに？　―外国曲の「演劇的演奏」と、日本のグランドライツ管理の",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "東京 地震",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "マンション修繕談合",
+      "title": "ヤフー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "休職中の転職活動で内定が決まった後に妻と相談したら「正直に休職の話をした方が良い",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "宝くじ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "インフルエンザ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ps5 pro",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "河本準一",
+      "title": "震度",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,13 +107,13 @@
   ],
   "note_top10": [
     {
-      "title": "作者の自宅まで「行った」、『みいちゃんと山田さん』作者の“自宅情報”拡散、講談社",
+      "title": "1990年以降の日本の現代音楽｜アルプスの少年",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "グランドライツってなに？　―外国曲の「演劇的演奏」と、日本のグランドライツ管理の",
+      "title": "作者の自宅まで「行った」、『みいちゃんと山田さん』作者の“自宅情報”拡散、講談社",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -122,12 +122,6 @@
       "title": "休職中の転職活動で内定が決まった後に妻と相談したら「正直に休職の話をした方が良い",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「普通に意識失って死ぬレベル」健康診断で数値が悪く検査したら1年に1人いるかどう",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -137,34 +131,40 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "蛇系のキャラは細長い切れ目に描かれがちだが実際はまんまる…それを意識して描かれた",
+      "title": "ビールグラスが汚かったら泡が内側にへばりつくし、綺麗だったら泡の輪っかができるの",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "友達とおしゃれなカフェに行って「パスタおいしすぎワロタ」「このスープ、毒チワワの",
+      "title": "「すけべ光沢乳出しバニー」と銘打たれたセクシー衣装がどうみてもずんだもんすぎる…",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本が原子力潜水艦を保有する!? 小泉進次郎防衛相の発言に込められた真意と、立ち",
+      "title": "通ってる美容院、この状態で店から出される「この後お出かけですか？☺️って聞かれた",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「料理本オタク」な長谷川あかりさんおすすめのレシピ本12選",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "次期総長予定者に藤垣裕子氏を選出 | 東京大学",
+      "title": "「本を売れないのは編集者の責任感の欠如」。社員６人、本社は明石。一人当たりの売上",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "欧州男子サッカー、アイルランド代表がイスラエル代表との握手を拒否 - BBCニュ",
+      "title": "時速500キロなのに「普通すぎる」！リニア新型車両の試乗で分かった意外な弱点【試",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     }
   ]
 }
