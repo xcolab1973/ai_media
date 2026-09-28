@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-26T19:27:12+09:00",
- "valid_until": "2026-10-10T19:25:29+09:00",
+ "generated_at": "2026-09-29T06:37:34+09:00",
+ "valid_until": "2026-10-13T06:36:30+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -10,8 +10,8 @@
   "parent": "work",
   "from_current": 28,
   "from_new": 1,
-  "expired_pruned": 0,
-  "retention_dropped": 1,
+  "expired_pruned": 1,
+  "retention_dropped": 0,
   "genres": 4,
   "retention_per_genre": 8
  },
@@ -258,6 +258,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "退職前にやらないと損する『教育訓練給付』の話。私は40%（20万円）が口座に戻ってきました【35歳独立・実体験】",
+   "url": "https://note.com/clever_gnu406/n/n5c308d836398",
+   "summary": "35歳で退職する半年前に特定一般教育訓練給付を使い、受講料52万円の40%（約20万円）が振り込まれた実体験。退職後は「離職から1年以内に受講開始」という制限がかかるため在職中の申請の方が有利と指摘。辞める前にやらないと損する制度を知らずに退職する読者へ刺さる二次質問的角度。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "work-quit",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "note（個人ブログ／なつき）",
+    "expert_origin": false,
+    "search_query": "退職 教育訓練休暇給付金 辞める前に 使える 会社員",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-10-13T06:36:30+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "退職引き止めの５つの断り方と例文を解説！慰留・引き伸ばしにも対応",
    "url": "https://topcourt-law.com/roudou/106",
    "summary": "法律事務所による解説。退職の引き止めに法的強制力はなく、民法627条により労働者はいつでも退職を申し出られると明記。パターン別の断り方例文つき。",
@@ -374,36 +404,6 @@
     "rescued": false
    },
    "valid_until": "2026-10-01T06:38:22+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "会社都合退職と自己都合退職は何が違う？各条件や失業保険・退職の手続きも解説【社労士監修】",
-   "url": "https://doda.jp/guide/naiteitaisyoku/004.html",
-   "summary": "会社都合退職と自己都合退職で失業保険の受給開始時期・給付日数・上限額が大きく異なることを社労士監修で解説。退職代行を使った場合、離職票の退職理由が実態と食い違うケースがあり、ハローワークで訂正を申し出られる可能性がある点にも言及。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "work-quit",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "doda（社労士監修）",
-    "expert_origin": true,
-    "search_query": "退職代行 使った後 失業保険 手続き 会社都合 自己都合",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-27T06:43:26+09:00",
    "validity_days": 14
   },
   {
