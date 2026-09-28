@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T16:39:00+09:00",
+  "generated_at": "2026-09-29T01:03:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,42 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 16,
-    "dedup_excluded": 12,
-    "passed_total": 104,
+    "neg_excluded": 9,
+    "dedup_excluded": 10,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
-      "google_trends": 9,
-      "x_realtime": 4,
-      "news_web": 16,
-      "yahoo_news_ranking": 5
+      "news_web": 10,
+      "yahoo_realtime": 38,
+      "google_trends": 10,
+      "x_realtime": 9,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "medical_science": 6,
-    "opinion": 9,
-    "personal_story": 1,
-    "hard_fact": 18,
-    "policy": 3
+    "social_reaction": 31,
+    "medical_science": 10,
+    "opinion": 10,
+    "personal_story": 3,
+    "hard_fact": 12,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
-    "medical_science": 2,
-    "opinion": 9,
-    "hard_fact": 22,
-    "personal_story": 1,
-    "policy": 3
+    "medical_science": 7,
+    "social_reaction": 31,
+    "opinion": 10,
+    "hard_fact": 15,
+    "policy": 4,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "Adoの炎上の件、推しのライブを観に来たらフィナーレで知らない歌手に「踊るポンポ",
+      "title": "生命維持治療終了の新指針 4学会",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "作者の自宅まで「行った」、『みいちゃんと山田さん』作者の“自宅情報”拡散、講談社",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -57,49 +63,43 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "これいい！！ありそうでなかった、味付けなしの冷凍パスタ！レンチンでいけるからタイ",
+      "title": "グランドライツってなに？　―外国曲の「演劇的演奏」と、日本のグランドライツ管理の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "長男「谷口（仮名）が俺の卵焼きを美味そう言うから毎回あげてる、今度これいっぱい持",
+      "title": "マンション修繕談合",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "休職中の転職活動で内定が決まった後に妻と相談したら「正直に休職の話をした方が良い",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "母親",
+      "title": "宝くじ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "矢口アサミ",
+      "title": "インフルエンザ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "カフェのトイレで外からガチャガチャされ「あら！開かない、どうして？」とおばさんの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "東山紀之",
+      "title": "ps5 pro",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "競歩",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "松岡朱里",
+      "title": "河本準一",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +107,64 @@
   ],
   "note_top10": [
     {
-      "title": "Adoの炎上の件、推しのライブを観に来たらフィナーレで知らない歌手に「踊るポンポ",
+      "title": "作者の自宅まで「行った」、『みいちゃんと山田さん』作者の“自宅情報”拡散、講談社",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "これいい！！ありそうでなかった、味付けなしの冷凍パスタ！レンチンでいけるからタイ",
+      "title": "グランドライツってなに？　―外国曲の「演劇的演奏」と、日本のグランドライツ管理の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "長男「谷口（仮名）が俺の卵焼きを美味そう言うから毎回あげてる、今度これいっぱい持",
+      "title": "休職中の転職活動で内定が決まった後に妻と相談したら「正直に休職の話をした方が良い",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「イヤイヤ期の言語化に成功した天才」「ちゃんと子育てしてる人の解像度だ」のりつけ",
+      "title": "「普通に意識失って死ぬレベル」健康診断で数値が悪く検査したら1年に1人いるかどう",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "カフェのトイレで外からガチャガチャされ「あら！開かない、どうして？」とおばさんの",
+      "title": "岩屋毅前外務大臣が王毅外相と会談　中国側は歴史問題などで強い主張　中国・北京 |",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "考えられる中でも有数の最悪なことが起きた…出張帰りに奮発して新幹線のグリーン席取",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "令和の「艦砲ぬ喰ぇー残さー」、Coccoにアイデンティティを包まれて｜情報深掘り",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "犬猫の殺処分、10年で9割減ったけど　「ゼロ」遠いそれぞれの事情：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "保育園児の頃「家出する！」と荷造りしてたら、婆ちゃんが「どこでも困らんように」と",
+      "title": "蛇系のキャラは細長い切れ目に描かれがちだが実際はまんまる…それを意識して描かれた",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【速報】生命維持治療終了に関する指針公表",
+      "title": "友達とおしゃれなカフェに行って「パスタおいしすぎワロタ」「このスープ、毒チワワの",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "日本が原子力潜水艦を保有する!? 小泉進次郎防衛相の発言に込められた真意と、立ち",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "次期総長予定者に藤垣裕子氏を選出 | 東京大学",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "欧州男子サッカー、アイルランド代表がイスラエル代表との握手を拒否 - BBCニュ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ]
 }
