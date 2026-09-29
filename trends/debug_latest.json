@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T04:51:00+09:00",
+  "generated_at": "2026-09-29T10:14:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 11,
-    "passed_total": 113,
+    "neg_excluded": 14,
+    "dedup_excluded": 10,
+    "passed_total": 108,
     "b2b_category_counts": {
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 36,
       "google_trends": 10,
-      "news_web": 10,
-      "yahoo_news_ranking": 2,
-      "x_realtime": 8
+      "news_web": 12,
+      "x_realtime": 7,
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 31,
+    "social_reaction": 28,
     "personal_story": 4,
-    "opinion": 5,
-    "medical_science": 9,
-    "hard_fact": 16,
-    "policy": 5
+    "opinion": 10,
+    "policy": 3,
+    "medical_science": 6,
+    "hard_fact": 19
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 31,
-    "hard_fact": 19,
-    "medical_science": 6,
-    "opinion": 5,
-    "policy": 5,
-    "personal_story": 4
+    "policy": 4,
+    "social_reaction": 28,
+    "opinion": 10,
+    "hard_fact": 20,
+    "personal_story": 4,
+    "medical_science": 4
   },
   "b2b_top10": [
+    {
+      "title": "10月1日こう変わる　ビール系の税率統一、年収「106万円の壁」撤廃 - 日本経",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
     {
       "title": "1990年以降の日本の現代音楽｜アルプスの少年",
       "source_category": "yahoo_realtime",
@@ -51,10 +57,16 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "地震情報",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
+      "title": "久保建英に苦言「いや、触ってねえし」　VAR→PK判定で…同僚との心理戦「微妙で",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "独身中年男性が一人たのピクをしようとしたら悲壮感が漂ってしまうも、ランチョンマッ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "作者の自宅まで「行った」、『みいちゃんと山田さん』作者の“自宅情報”拡散、講談社",
@@ -63,43 +75,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "地震速報",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "地震",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "生命維持治療終了の新指針 4学会",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "【速報】生命維持治療終了に関する指針公表",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "東京 地震",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ヤフー",
+      "title": "高橋塁",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "震度",
+      "title": "宇野千代",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "台風26号接近へ 関東への影響注意",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "昔の講義で「10階建てマンションのエレベーターが故障、住民負担で修理が必要だが1",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "キオクシア 分割",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,58 +113,58 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "久保建英に苦言「いや、触ってねえし」　VAR→PK判定で…同僚との心理戦「微妙で",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "独身中年男性が一人たのピクをしようとしたら悲壮感が漂ってしまうも、ランチョンマッ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "作者の自宅まで「行った」、『みいちゃんと山田さん』作者の“自宅情報”拡散、講談社",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "休職中の転職活動で内定が決まった後に妻と相談したら「正直に休職の話をした方が良い",
+      "title": "昔の講義で「10階建てマンションのエレベーターが故障、住民負担で修理が必要だが1",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "岩屋毅前外務大臣が王毅外相と会談　中国側は歴史問題などで強い主張　中国・北京 |",
+      "title": "会社で「ケーキを10個ケーキ屋で買ってきて」と5000円渡された。今時、ケーキ1",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ビールグラスが汚かったら泡が内側にへばりつくし、綺麗だったら泡の輪っかができるの",
+      "title": "楽天モバイル、携帯「独り立ち」へ正念場　ＫＤＤＩの回線貸し出し縮小―基地局整備、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "前にXで見て気になってたヤマザキのユアクイーンリッチブレッドをスーパーで見かけた",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「すけべ光沢乳出しバニー」と銘打たれたセクシー衣装がどうみてもずんだもんすぎる…",
+      "title": "専業主婦やらせてもらってるけど、暇な時間に永遠にスマホ見てるだけのドパオバになっ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "通ってる美容院、この状態で店から出される「この後お出かけですか？☺️って聞かれた",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「料理本オタク」な長谷川あかりさんおすすめのレシピ本12選",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「本を売れないのは編集者の責任感の欠如」。社員６人、本社は明石。一人当たりの売上",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "時速500キロなのに「普通すぎる」！リニア新型車両の試乗で分かった意外な弱点【試",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
+    },
+    {
+      "title": "免許を取得する若者が減っている影響で教習所が相次ぎ閉鎖されている問題、お金の問題",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ]
 }
