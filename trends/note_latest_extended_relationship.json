@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-29T06:37:33+09:00",
- "valid_until": "2026-10-13T06:31:13+09:00",
+ "generated_at": "2026-09-30T02:53:06+09:00",
+ "valid_until": "2026-10-13T19:54:12+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -8,10 +8,10 @@
  "total_count": 19,
  "merge": {
   "parent": "relationship",
-  "from_current": 20,
-  "from_new": 2,
-  "expired_pruned": 1,
-  "retention_dropped": 2,
+  "from_current": 19,
+  "from_new": 1,
+  "expired_pruned": 0,
+  "retention_dropped": 1,
   "genres": 3,
   "retention_per_genre": 8
  },
@@ -348,6 +348,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "会話のない夫婦って結構いますか？食事に行っても無言で食べます",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13310721283",
+   "summary": "既婚者が、食事中も無言で会話がほぼない夫婦生活の実情を相談。離婚はしないが心の距離が広がる「仮面夫婦」的な状態への戸惑いが読み取れ、卒婚・関係の再構築という角度の種になる生ペイン。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "relationship-marriage",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "site:chiebukuro.yahoo.co.jp 夫婦 会話がない すれ違い 卒婚",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-10-13T19:54:12+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "夫婦の会話がないことに疲れた方へ。会話がなくなる原因と対処法",
    "url": "https://www.uraraka-soudan.com/column/281",
    "summary": "夫婦間の会話が減っていくことに疲れを感じている人向けに、会話がなくなる典型的な原因（すれ違い・役割の固定化・関心の低下など）と、関係を立て直すための対処法をオンラインカウンセリングサービスが解説している。",
@@ -554,36 +584,6 @@
     "rescued": false
    },
    "valid_until": "2026-10-05T16:51:12+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "熟年離婚したいときにやるべき4つの準備とタイミングを弁護士が解説",
-   "url": "https://atomfirm.com/rikon/1237",
-   "summary": "熟年離婚を検討する人向けに、切り出す前にやるべき4つの準備とタイミングを弁護士が解説。年金分割や財産分与の把握、離婚後の生活設計など、長期の婚姻関係を清算する際の実務的な論点を整理。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "relationship-marriage",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "アトム法律事務所弁護士法人",
-    "expert_origin": true,
-    "search_query": "夫婦 熟年離婚 後悔 準備 何から始める 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": true,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-10-03T16:47:46+09:00",
    "validity_days": 14
   }
  ]

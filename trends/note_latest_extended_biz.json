@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T06:37:33+09:00",
+ "generated_at": "2026-09-30T02:53:05+09:00",
  "valid_until": "2026-10-13T06:30:42+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -8,9 +8,9 @@
  "total_count": 10,
  "merge": {
   "parent": "biz",
-  "from_current": 17,
+  "from_current": 10,
   "from_new": 1,
-  "expired_pruned": 8,
+  "expired_pruned": 1,
   "retention_dropped": 0,
   "genres": 3,
   "retention_per_genre": 8
@@ -288,9 +288,9 @@
   },
   {
    "source_category": "news_web",
-   "raw_title": "Yahoo!ショッピング出店料、12年ぶり有償化 9月から",
-   "url": "https://www.nikkei.com/article/DGXZQOUC055RE0V00C26A3000000/",
-   "summary": "LINEヤフーは2026年9月からYahoo!ショッピングの出店プランを変更。月額システム利用料1万円（税抜）と売上ロイヤリティ2.5%を新設し、2013年から続いた無料出店モデルが終了する。LINEショッピングタブ経由には別途2〜4%のチャネル掲載料も新設される。",
+   "raw_title": "Yahoo!ショッピング出店料が12年ぶり有償化、月額1万円+ロイヤリティ2.5%の生存戦略",
+   "url": "https://note.com/ec_consulting/n/nbe86e5948699",
+   "summary": "Yahoo!ショッピングが2026年9月から出店を有償化。月額システム利用料1万円+売上ロイヤリティ2.5%、LINEショッピング経由は追加2〜4%。無料出店前提だった中小EC事業者は価格転嫁や他モール移行など生存戦略の検討が急務。",
    "signal_type": "trend",
    "engagement_signal": false,
    "approx_traffic": "100+",
@@ -303,9 +303,9 @@
    "account_id": "default",
    "origin": "pre_collector_extended",
    "provenance": {
-    "source_name": "日本経済新聞",
+    "source_name": "note（EC-Consulting Japan 松下直人）",
     "expert_origin": true,
-    "search_query": "Yahoo!ショッピング 出店 有償化 2026年9月 月額1万円 ロイヤリティ2.5% 対応",
+    "search_query": "Yahoo!ショッピング 有償化 個人事業主 対策 2026年9月",
     "freshness": "fresh",
     "integrity_warning": null,
     "provenance_kind": "evidence",
@@ -313,7 +313,7 @@
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-09-29T16:47:32+09:00",
+   "valid_until": "2026-10-04T16:41:08+09:00",
    "validity_days": 5
   }
  ]

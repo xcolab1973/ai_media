@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-29T06:37:33+09:00",
- "valid_until": "2026-10-13T06:31:49+09:00",
+ "generated_at": "2026-09-30T02:53:06+09:00",
+ "valid_until": "2026-10-13T16:42:36+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -8,10 +8,10 @@
  "total_count": 50,
  "merge": {
   "parent": "life",
-  "from_current": 52,
-  "from_new": 5,
-  "expired_pruned": 2,
-  "retention_dropped": 5,
+  "from_current": 50,
+  "from_new": 1,
+  "expired_pruned": 1,
+  "retention_dropped": 0,
   "genres": 7,
   "retention_per_genre": 8
  },
@@ -614,6 +614,36 @@
     "rescued": false
    },
    "valid_until": "2026-10-05T06:32:46+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "共働き家庭の年末準備はいつから？大掃除をプロに頼む賢い段取りとタイミング",
+   "url": "https://www.aobaya.co.jp/blog/%E5%AE%B6%E4%BA%8B%E4%BB%A3%E8%A1%8C%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/32200/",
+   "summary": "年末の大掃除を家事代行に依頼したい共働き家庭向けに、繁忙期で予約が取りにくくなる前にいつから動き始めるべきか、段取りの立て方やタイミングを解説している記事。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "life-housework",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "青葉家事代行 ブログ",
+    "expert_origin": false,
+    "search_query": "年末 大掃除 家事代行 予約 繁忙期 頼み方 コツ",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-10-13T16:42:36+09:00",
    "validity_days": 14
   },
   {
@@ -1484,36 +1514,6 @@
     "rescued": false
    },
    "valid_until": "2026-09-30T16:50:16+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "生前贈与トラブル５選┃対策しないと節税逆効果＆死後争いに発展",
-   "url": "https://legalpro.jp/souzoku/13105/",
-   "summary": "節税目的の生前贈与でも直後に亡くなれば加算対象になり効果が薄れる場合がある。老後資金・介護費用を削ってまで贈与しすぎると後で生活が苦しくなるリスク、相続人間の不公平感からのトラブルも指摘される。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "life-inheritance",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "legalpro.jp（相続コラム）",
-    "expert_origin": false,
-    "search_query": "生前贈与 やめるべき 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-29T16:48:23+09:00",
    "validity_days": 7
   }
  ]

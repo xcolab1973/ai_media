@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-09-26T08:37:06+09:00",
- "valid_until": "2026-10-10T08:28:03+09:00",
+ "generated_at": "2026-09-30T02:53:05+09:00",
+ "valid_until": "2026-10-13T16:41:01+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "childcare",
- "total_count": 12,
+ "total_count": 11,
  "merge": {
   "parent": "childcare",
   "from_current": 12,
   "from_new": 1,
-  "expired_pruned": 1,
+  "expired_pruned": 2,
   "retention_dropped": 0,
   "genres": 2,
   "retention_per_genre": 8
@@ -168,24 +168,24 @@
   },
   {
    "source_category": "news_web",
-   "raw_title": "出産準備はいつから始めるべき？早すぎても問題ない？遅すぎるとどうなる？",
-   "url": "https://chachacha-toy.com/column/when-to-prepare-birth/",
-   "summary": "出産準備は妊娠5〜8か月頃に始める人が多いが、早すぎると性別不明のまま購入して無駄になったり、必要以上に買い込んで後悔したりする声がある一方、予定日より早産だった場合は早めの準備が助かったという声も。必要最小限を心がけるのがコツと紹介。",
+   "raw_title": "年末調整後、出産や入籍で扶養する家族が増えた場合の確定申告は？",
+   "url": "https://allabout.co.jp/gm/gc/23672/",
+   "summary": "年末調整の後に子どもが生まれるなど扶養家族が増えた場合、勤務先への年末調整のやり直し依頼か確定申告での追加控除のいずれかで対応が必要という解説。新生児家庭が年末の手続きタイミングを誤ると還付を取りこぼす点を指摘。",
    "signal_type": "evergreen",
    "engagement_signal": false,
    "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
+   "preliminary_claim_type": "soft_fact",
    "relevance_to_niche": "high",
    "topic_category": null,
-   "primary_genre": "childcare-pregnancy",
+   "primary_genre": "childcare-newborn",
    "karte_matched_category": null,
    "karte_aligned": false,
    "account_id": "default",
    "origin": "pre_collector_extended",
    "provenance": {
-    "source_name": "Cha Cha Cha コラム",
-    "expert_origin": false,
-    "search_query": "出産準備 いつから始める 早すぎた 後悔 知恵袋",
+    "source_name": "All About",
+    "expert_origin": true,
+    "search_query": "年末調整 新生児 扶養控除 書き方 いつから",
     "freshness": "evergreen",
     "integrity_warning": null,
     "provenance_kind": "evidence",
@@ -193,7 +193,7 @@
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-09-29T05:19:15+09:00",
+   "valid_until": "2026-10-13T16:41:01+09:00",
    "validity_days": 14
   },
   {
@@ -344,36 +344,6 @@
     "rescued": false
    },
    "valid_until": "2026-10-03T16:43:39+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "育児期間の国民年金保険料免除制度｜厚生労働省",
-   "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000143356_00038.html",
-   "summary": "厚生労働省による制度解説ページ。2026年10月開始の育児期間中の国民年金保険料免除制度について、対象者・免除期間・手続きの概要を公的機関の立場で説明している。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "childcare-newborn",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "厚生労働省",
-    "expert_origin": true,
-    "search_query": "育児期間 国民年金保険料免除 2026年10月 新生児 申請方法",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-09-29T17:13:50+09:00",
    "validity_days": 14
   }
  ]
