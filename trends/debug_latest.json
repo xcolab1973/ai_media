@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T10:14:00+09:00",
+  "generated_at": "2026-09-29T16:30:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,39 +16,45 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 14,
-    "dedup_excluded": 10,
+    "neg_excluded": 13,
+    "dedup_excluded": 11,
     "passed_total": 108,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
-      "google_trends": 10,
-      "news_web": 12,
+      "yahoo_realtime": 34,
       "x_realtime": 7,
-      "yahoo_news_ranking": 5
+      "google_trends": 9,
+      "news_web": 16,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "personal_story": 4,
-    "opinion": 10,
-    "policy": 3,
+    "social_reaction": 31,
+    "personal_story": 3,
     "medical_science": 6,
-    "hard_fact": 19
+    "opinion": 8,
+    "policy": 2,
+    "hard_fact": 20
   },
   "b2b_topic_category_counts": {
-    "policy": 4,
-    "social_reaction": 28,
-    "opinion": 10,
-    "hard_fact": 20,
-    "personal_story": 4,
-    "medical_science": 4
+    "social_reaction": 31,
+    "medical_science": 3,
+    "opinion": 8,
+    "hard_fact": 22,
+    "policy": 3,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "10月1日こう変わる　ビール系の税率統一、年収「106万円の壁」撤廃 - 日本経",
+      "title": "精神的損害の賠償見直し検討　ネット中傷に「低額」批判　法務省 | 毎日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "電車で「あの人めっちゃかわいい。付き合って下さいって言っていい？」と親に聞いてい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "1990年以降の日本の現代音楽｜アルプスの少年",
@@ -57,49 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "久保建英に苦言「いや、触ってねえし」　VAR→PK判定で…同僚との心理戦「微妙で",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "3年間植物状態だった人が睡眠薬『マイスリー』を飲んだら4時間だけ目を覚まし会話が",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "medical_science"
     },
     {
-      "title": "独身中年男性が一人たのピクをしようとしたら悲壮感が漂ってしまうも、ランチョンマッ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "作者の自宅まで「行った」、『みいちゃんと山田さん』作者の“自宅情報”拡散、講談社",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "高橋塁",
+      "title": "声優",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "宇野千代",
+      "title": "小園健太",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "台風26号接近へ 関東への影響注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "昔の講義で「10階建てマンションのエレベーターが故障、住民負担で修理が必要だが1",
+      "title": "ランニングから帰ってきた夫が、着ていたTシャツとパンツだけ洗濯機回してる…なんで",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "キオクシア 分割",
+      "title": "障害者手帳を写しながら自宅とおぼしき場所で写真撮影……『みいちゃんと山田さん』作",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "孫",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "佐々木千隼",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
+      "title": "精神的損害の賠償見直し検討　ネット中傷に「低額」批判　法務省 | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "電車で「あの人めっちゃかわいい。付き合って下さいって言っていい？」と親に聞いてい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "1990年以降の日本の現代音楽｜アルプスの少年",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "久保建英に苦言「いや、触ってねえし」　VAR→PK判定で…同僚との心理戦「微妙で",
+      "title": "ランニングから帰ってきた夫が、着ていたTシャツとパンツだけ洗濯機回してる…なんで",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "独身中年男性が一人たのピクをしようとしたら悲壮感が漂ってしまうも、ランチョンマッ",
+      "title": "障害者手帳を写しながら自宅とおぼしき場所で写真撮影……『みいちゃんと山田さん』作",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "作者の自宅まで「行った」、『みいちゃんと山田さん』作者の“自宅情報”拡散、講談社",
+      "title": "味より「接客」が大事？ 飲食店の口コミが生まれる仕組みを行動経済学者に聞く - ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "昔の講義で「10階建てマンションのエレベーターが故障、住民負担で修理が必要だが1",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "会社で「ケーキを10個ケーキ屋で買ってきて」と5000円渡された。今時、ケーキ1",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "楽天モバイル、携帯「独り立ち」へ正念場　ＫＤＤＩの回線貸し出し縮小―基地局整備、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "前にXで見て気になってたヤマザキのユアクイーンリッチブレッドをスーパーで見かけた",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "専業主婦やらせてもらってるけど、暇な時間に永遠にスマホ見てるだけのドパオバになっ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
     },
     {
-      "title": "免許を取得する若者が減っている影響で教習所が相次ぎ閉鎖されている問題、お金の問題",
+      "title": "桂浜水族館マスコットキャラクターおとどちゃんが綴る、よさこい祭りの熱狂に染まる高",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "目を酷使するX民、「何が効いてるかわからんけど、めっちゃ見えますねん！」と目薬の",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "広告で見かけるマウント女が出てくる漫画『だってワタシ、120点だもの。』実際に読",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『楽しいピクニック（100km）』自衛隊の行軍訓練のイラストで「それ何に使うの？",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
