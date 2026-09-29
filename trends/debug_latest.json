@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T23:22:00+09:00",
+  "generated_at": "2026-09-30T03:19:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,69 +7,75 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 11,
-    "passed_total": 105,
+    "neg_excluded": 9,
+    "dedup_excluded": 9,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 27,
+      "yahoo_realtime": 34,
       "google_trends": 10,
-      "yahoo_news_ranking": 8,
+      "yahoo_news_ranking": 6,
       "x_realtime": 8,
-      "news_web": 17
+      "news_web": 12
     }
   },
   "note_category_counts": {
-    "social_reaction": 24,
-    "personal_story": 2,
+    "social_reaction": 26,
+    "personal_story": 7,
     "opinion": 10,
-    "medical_science": 9,
-    "hard_fact": 23,
-    "policy": 2
+    "medical_science": 5,
+    "hard_fact": 17,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 26,
-    "social_reaction": 24,
+    "social_reaction": 26,
     "opinion": 10,
-    "personal_story": 2,
-    "policy": 2,
-    "medical_science": 6
+    "personal_story": 7,
+    "policy": 5,
+    "hard_fact": 20,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "【速報】維新所属議員の秘書が「都構想公文書」に「『大阪市廃止』ではなく、副首都ふ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "目を酷使するX民、「何が効いてるかわからんけど、めっちゃ見えますねん！」と目薬の",
+      "title": "前横浜市長・山中氏が出馬会見　「加害者として行える対策ある」 | 毎日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "この国は個人情報を流出しても罪に問われないのか？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "残業時間",
+      "title": "スペイン 対 クロアチア",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "なでしこジャパン",
+      "title": "9月29日の雨で「東京都心で34日連続雨」になり気象学的に約150年ぶりの最長記",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "チェコ 対 イングランド",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ブレーブス 対 フィリーズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "岡田結実",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -87,19 +93,13 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "「休んでる人間はいないのと同じなんだから人員を補充するんだよ……」産休と育休を繰",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "iphone アプリ",
+      "title": "スポティファイ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ふるさと納税",
+      "title": "山本裕典",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,16 +107,22 @@
   ],
   "note_top10": [
     {
-      "title": "目を酷使するX民、「何が効いてるかわからんけど、めっちゃ見えますねん！」と目薬の",
+      "title": "前横浜市長・山中氏が出馬会見　「加害者として行える対策ある」 | 毎日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "この国は個人情報を流出しても罪に問われないのか？",
+      "title": "9月29日の雨で「東京都心で34日連続雨」になり気象学的に約150年ぶりの最長記",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "みんな（君も）「デザイン」という言葉を使いすぎ。",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
       "title": "部下の派遣社員に1on1で来季の目標を聞いたら「目標とか求められても日常をやり過",
@@ -125,13 +131,13 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "「休んでる人間はいないのと同じなんだから人員を補充するんだよ……」産休と育休を繰",
+      "title": "「缶コーヒーはあるのに缶の紅茶って聞かない」紅茶の消費量を増やすために敷居を下げ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "水族館の水槽に「タコが行方不明になりました。その辺を歩いていたら捕まえるか、スタ",
+      "title": "「勝ちを譲って利を得る」学生時代に後輩とモノポリーをやっていた際、普通の人は三角",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -143,28 +149,22 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "古代米「赤米」がジャポニカ種だったことを東大と相川七瀬さんらが特定→本当にあの相",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "初めて親に命を絶ちたいと言ったら、母がそうしろと包丁を向けてきて、それを見た父が",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ドンキ、「トイザらス」日本事業を買収　全150店舗を継承 - 日本経済新聞",
+      "title": "コストを払ってでも得る価値とは--百合と萩尾先生とユーフォ｜高河ゆん",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "潜入ジャーナリストが見た「1日30分睡眠」堀大輔氏のショートスリーパー講座の実態",
+      "title": "味より「接客」が大事？ 飲食店の口コミが生まれる仕組みを行動経済学者に聞く - ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "スペイン 対 クロアチア",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
