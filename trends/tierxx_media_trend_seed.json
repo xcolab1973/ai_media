@@ -2,16 +2,70 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-09-29T10:11:39+0900",
-    "record_count": 34,
-    "source_total_in_db": 1340,
+    "generated_at": "2026-09-29T17:54:04+0900",
+    "record_count": 31,
+    "source_total_in_db": 1343,
     "provenance_breakdown": {
-      "evidence": 858,
-      "pain_seed": 482
+      "evidence": 859,
+      "pain_seed": 484
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_cc4500918fe7",
+      "trend_term": "美容医療特化の人材紹介",
+      "raw_title": "美容医療業界特化の人材紹介「リバビキャリア」、サービス開始から1年 - ニコニコニュース",
+      "summary": "美容医療業界向け人材紹介サービス「リバビキャリア」がサービス開始から1年を迎えた。業界の人材需要と採用動向の実態",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iaV8zc2d6WjNGbXY1cHV0TTlfMi1qWEhwaEQwOEU4VE1ST0VXWGxCNl9HYmV6MHB0QXdNeld2OHNMTjl0NDE1ZngzVHJyZlRhT1BnRA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iaV8zc2d6WjNGbXY1cHV0TTlfMi1qWEhwaEQwOEU4VE1ST0VXWGxCNl9HYmV6MHB0QXdNeld2OHNMTjl0NDE1ZngzVHJyZlRhT1BnRA?oc=5",
+      "source_name": "ニコニコニュース",
+      "monitor_id": "bm-market-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-04T17:53:59+0900",
+      "status": "candidate",
+      "created_at": "2026-09-29T17:53:59+0900"
+    },
+    {
+      "seed_id": "seed_3d178e6d72fc",
+      "trend_term": "段階的な美容医療の追加施術",
+      "raw_title": "『ドリシングルズ3』イ・ソラ、胸・鼻の整形に続き、鼻下ボトックスも「認証」···「継続的に打って」 - 스포탈코리아",
+      "summary": "タレントが複数回の美容施術を段階的に実施・公開。継続的な施術需要を示唆する事例",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pRHU1UnpnREtycGxhbUJVeC1KTXVyeG9tSzhOejZURGcyLWVTeDFZbjVTY091MHFmajd2LTVBT3FXbV8zVDR4X3JoSGRDNzVmY2VYLWZwM3pTX09qNDJCRm5PVGQxczdPcXlsT3pR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pRHU1UnpnREtycGxhbUJVeC1KTXVyeG9tSzhOejZURGcyLWVTeDFZbjVTY091MHFmajd2LTVBT3FXbV8zVDR4X3JoSGRDNzVmY2VYLWZwM3pTX09qNDJCRm5PVGQxczdPcXlsT3pR?oc=5",
+      "source_name": "스포탈코리아",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-04T17:53:42+0900",
+      "status": "candidate",
+      "created_at": "2026-09-29T17:53:42+0900"
+    },
+    {
+      "seed_id": "seed_ac49b4c85668",
+      "trend_term": "芸能人のボトックス透明化",
+      "raw_title": "ソヌ・ヨンヨ、あごにボトックスを打たれた制作陣に「はぁ、何でも」 - 스포탈코리아",
+      "summary": "韓国タレントがボトックス施術を公開で言及。美容医療の可視化・日常化の傾向を示す実例",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5SlZFX3o4bDZZcWxyWEVwUUo0TnItcXZ1MTVZYXc4RnM4T084eGZmOGhITlR6OXUxb3BNQlNlVWVueTVZOVlMYWM2LXRTUUVvTVRKaDRya1QyUF9manZUT3pFeWNVTjVGaWRxTk93?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5SlZFX3o4bDZZcWxyWEVwUUo0TnItcXZ1MTVZYXc4RnM4T084eGZmOGhITlR6OXUxb3BNQlNlVWVueTVZOVlMYWM2LXRTUUVvTVRKaDRya1QyUF9manZUT3pFeWNVTjVGaWRxTk93?oc=5",
+      "source_name": "스포탈코리아",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-04T17:53:42+0900",
+      "status": "candidate",
+      "created_at": "2026-09-29T17:53:42+0900"
+    },
     {
       "seed_id": "seed_53c84122ccd4",
       "trend_term": "韓国スキンブースター導入",
@@ -157,24 +211,6 @@
       "created_at": "2026-09-28T17:53:06+0900"
     },
     {
-      "seed_id": "seed_712ac35c712b",
-      "trend_term": "韓国発スキンブースター導入",
-      "raw_title": "【ベンスクリニック新宿院】韓国で話題のhADM配合スキンブースター「リトゥオ（Re2O）」「ティシボ（TISSIVO）」開始・大型連休中も毎日休まず通常営業 - excite.co.jp",
-      "summary": "ベンスクリニック新宿院がhADM配合スキンブースター「Re2O」「TISSIVO」の提供開始。韓国で話題の施術を国内導入。",
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tQ0dmRE9vLW9kcmlLaHpEU3F3NWZNVlZkZjVvVFp1Y2pwVzdzRmNPQ05Nd0lacTU3YVhUQTFfSzVKVEJZalFTOHh1V25TQmR3Z2Y2Zk9SSWhoSGJpY05BdDJlSFZqc3BwUWZEUktYWWY3OGNQ?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tQ0dmRE9vLW9kcmlLaHpEU3F3NWZNVlZkZjVvVFp1Y2pwVzdzRmNPQ05Nd0lacTU3YVhUQTFfSzVKVEJZalFTOHh1V25TQmR3Z2Y2Zk9SSWhoSGJpY05BdDJlSFZqc3BwUWZEUktYWWY3OGNQ?oc=5",
-      "source_name": "excite.co.jp",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-03T17:53:06+0900",
-      "status": "candidate",
-      "created_at": "2026-09-28T17:53:06+0900"
-    },
-    {
       "seed_id": "seed_792ffcbbc59f",
       "trend_term": "再生美容国際フォーラム",
       "raw_title": "【PR TIMES 医療・医薬・福祉 美容・健康】【美の総合クリニック】自由が丘クリニック、国内外の専門医を集結させ「再生美容国際フォーラム」を開催――解剖学に基づいた次世代の美容医療を提唱 - 茨城新聞クロスアイ",
@@ -209,24 +245,6 @@
       "valid_until": "2026-10-03T08:53:58+0900",
       "status": "candidate",
       "created_at": "2026-09-28T08:53:58+0900"
-    },
-    {
-      "seed_id": "seed_cc081ca2e677",
-      "trend_term": "ボトックス体験イベント",
-      "raw_title": "小倉唯：人気声優が「ダウンタイム」出演 話題の“ボトックス”パーティーに 場面写真公開 - MANTANWEB",
-      "summary": "声優がボトックス関連イベント『ダウンタイム』に出演。美容医療体験への関心の高さを示す事例。",
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yMkp1OEtQRm05REhaS0Y0OUZHZk1YNkxGY0RwcnVBdHc2N05pUVhGOGsxbzc2SHRyb3A0cmxGX1QwZjJaSlRtd3Ridm5ZU3BRbUlqSHBlX3ZJRjZjQzdyQUFnVDRlUDJNR2FJ?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yMkp1OEtQRm05REhaS0Y0OUZHZk1YNkxGY0RwcnVBdHc2N05pUVhGOGsxbzc2SHRyb3A0cmxGX1QwZjJaSlRtd3Ridm5ZU3BRbUlqSHBlX3ZJRjZjQzdyQUFnVDRlUDJNR2FJ?oc=5",
-      "source_name": "MANTANWEB",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-03T08:53:47+0900",
-      "status": "candidate",
-      "created_at": "2026-09-28T08:53:47+0900"
     },
     {
       "seed_id": "seed_e23165470d01",
@@ -463,24 +481,6 @@
       "created_at": "2026-09-26T09:03:15+0900"
     },
     {
-      "seed_id": "seed_5066a16e7056",
-      "trend_term": "医療広告ガイドライン2026年版",
-      "raw_title": "美容クリニック向け｜医療広告ガイドラインと通信費削減戦略の最前線レポート【2026年9月版】 - ニコニコニュース",
-      "summary": "2026年9月版の美容クリニック向け医療広告ガイドラインと通信費削減戦略に関するレポート。業界の最新規制動向を扱う。",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54REI1WXJwRzdTTmpwSS1yQkpiYVUyZjA1cEt3eUw1Z25oVGRyTnE0UzJqZjB0Tk4xaDU0VndMeDB2S0NkQnl3UWNteGNvX2hvc0F2WVBSY0llS3FFUmoxV0l5OFZoY1ROb1dMZG1fbDFLRHVVMm9yMlIzQQ?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54REI1WXJwRzdTTmpwSS1yQkpiYVUyZjA1cEt3eUw1Z25oVGRyTnE0UzJqZjB0Tk4xaDU0VndMeDB2S0NkQnl3UWNteGNvX2hvc0F2WVBSY0llS3FFUmoxV0l5OFZoY1ROb1dMZG1fbDFLRHVVMm9yMlIzQQ?oc=5",
-      "source_name": "ニコニコニュース",
-      "monitor_id": "bm-market-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "official_instruction",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-30T21:54:22+0900",
-      "status": "candidate",
-      "created_at": "2026-09-25T21:54:22+0900"
-    },
-    {
       "seed_id": "seed_e4af94146da0",
       "trend_term": "大人向け美容医療の後悔回避",
       "raw_title": "ボトックス、HIFU（ハイフ）など話題の治療の今と、大人世代が後悔しない「美容医療」の心得【植松晃士のエイジレス・ビューティ】 - 千葉テレビ放送",
@@ -497,42 +497,6 @@
       "valid_until": "2026-10-08T21:51:04+0900",
       "status": "candidate",
       "created_at": "2026-09-24T21:51:04+0900"
-    },
-    {
-      "seed_id": "seed_1a49a4aa644a",
-      "trend_term": "SNS経由の美容医療患者",
-      "raw_title": "原田浩光医師の指名初診患者、“88.6％”がSNSをきっかけに｜Days Beauty Clinicが予約経路データを公開 - 朝日新聞",
-      "summary": "Days Beauty Clinicが公開したデータによれば、原田浩光医師の指名初診患者の88.6％がSNSをきっかけに来院。美容医療の患者獲得経路の実態を示す具体的統計。",
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kTGIxRVh3YmhvT3g1S3QtcGFweXNTalM0azFIT0piUDdHZWtLRERhdHBheGpyajBaeURFbWtJcWFvTDlxbkhmUXFoT0V2V3FFMmdnb0dRSXhxOU0?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kTGIxRVh3YmhvT3g1S3QtcGFweXNTalM0azFIT0piUDdHZWtLRERhdHBheGpyajBaeURFbWtJcWFvTDlxbkhmUXFoT0V2V3FFMmdnb0dRSXhxOU0?oc=5",
-      "source_name": "朝日新聞",
-      "monitor_id": "bm-sns-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-29T16:45:22+0900",
-      "status": "candidate",
-      "created_at": "2026-09-24T16:45:22+0900"
-    },
-    {
-      "seed_id": "seed_ac17a2a3143f",
-      "trend_term": "再生医療の認知ギャップ",
-      "raw_title": "【再生医療「詳しくは知らない」58％】説明や条件に納得できれば76％が検討に前向き - PR TIMES",
-      "summary": "再生医療について詳しく知らない読者が58%である一方、説明・条件次第で検討意向が76%まで上昇することから、情報提供による行動変化の可能性を示唆",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzbnVfQ3ZSWnpSNzE1N0xBMEh0SGVacENFcmI0NWdvQlZOdktDRTNycDhHUmQ0d2dEWHpiVUh6MTAtcWdyMVNDUjZGZTl5OU5wVWl0bmlkWnNmdEFRbnlONy1MeXFfUmZfZVE?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzbnVfQ3ZSWnpSNzE1N0xBMEh0SGVacENFcmI0NWdvQlZOdktDRTNycDhHUmQ0d2dEWHpiVUh6MTAtcWdyMVNDUjZGZTl5OU5wVWl0bmlkWnNmdEFRbnlONy1MeXFfUmZfZVE?oc=5",
-      "source_name": "PR TIMES",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-29T16:45:08+0900",
-      "status": "candidate",
-      "created_at": "2026-09-24T16:45:08+0900"
     },
     {
       "seed_id": "seed_b329491d1113",
@@ -605,24 +569,6 @@
       "valid_until": "2026-10-02T21:20:17+0900",
       "status": "candidate",
       "created_at": "2026-09-18T21:20:17+0900"
-    },
-    {
-      "seed_id": "seed_230ab6d4a757",
-      "trend_term": "美容医療の倫理観・医師の哲学",
-      "raw_title": "美しすぎる美容外科医・紀田基邦先生、美容医療は「あくまで背中を押してくれるもの」たどり着いた“美”の定義 - ライブドアニュース",
-      "summary": "美容外科医が美容医療の役割を「補助的なもの」と定義し、患者の自己決定を重視する姿勢。医療提供者の倫理的アプローチを示す事例",
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lWEx0ejBIS0g5N2pybm4zcEhkMXI5SUFkMmtvLTRIeGpwSlc4dFl3dG1tT0lpZ20wRW1XZTdHdjZkLU51anN0RDN4VnFpQjhCeXFEN2ptY2M4bnhfRnpB?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lWEx0ejBIS0g5N2pybm4zcEhkMXI5SUFkMmtvLTRIeGpwSlc4dFl3dG1tT0lpZ20wRW1XZTdHdjZkLU51anN0RDN4VnFpQjhCeXFEN2ptY2M4bnhfRnpB?oc=5",
-      "source_name": "ライブドアニュース",
-      "monitor_id": "bm-sns-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "opinion",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-09-29T16:58:06+0900",
-      "status": "candidate",
-      "created_at": "2026-09-15T16:58:06+0900"
     }
   ]
 }
