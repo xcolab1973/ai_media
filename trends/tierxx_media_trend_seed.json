@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-09-30T09:42:19+0900",
-    "record_count": 31,
-    "source_total_in_db": 1345,
+    "generated_at": "2026-09-30T17:53:57+0900",
+    "record_count": 32,
+    "source_total_in_db": 1347,
     "provenance_breakdown": {
-      "evidence": 860,
-      "pain_seed": 485
+      "evidence": 861,
+      "pain_seed": 486
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_beb4593f1ad0",
+      "trend_term": "クリニック経営支援SaaS",
+      "raw_title": "【美容医療業界への新サービス】美容クリニック経営の「羅針盤」となるトータルサポート『CLINIC COMPASS』を提供開始 - PR TIMES",
+      "summary": "美容クリニック経営向けトータルサポートサービス『CLINIC COMPASS』がサービス開始。業界の経営支援ツールの動向を示す。",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mMDBRMklSeGJ6VzBpTVMyd2thYkpHR2V4b2kwVVN0TktnQmtNOENjbmdZeGtaeGRGWmNaYXVpUldYMXJ2YkwxTHpyb3ZGZzJuTWFqR29mQXpxSVhmbUlHX1VoeHB1a2dPUGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mMDBRMklSeGJ6VzBpTVMyd2thYkpHR2V4b2kwVVN0TktnQmtNOENjbmdZeGtaeGRGWmNaYXVpUldYMXJ2YkwxTHpyb3ZGZzJuTWFqR29mQXpxSVhmbUlHX1VoeHB1a2dPUGc?oc=5",
+      "source_name": "PR TIMES",
+      "monitor_id": "bm-market-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-05T17:53:53+0900",
+      "status": "candidate",
+      "created_at": "2026-09-30T17:53:53+0900"
+    },
+    {
+      "seed_id": "seed_7d47128b3939",
+      "trend_term": "高級美容医療クリニック経営",
+      "raw_title": "《入会金は250万円》“上皇さまの執刀医”が超高級クリニックの理事に…本人が明かした「納得の理由」 - 女性自身",
+      "summary": "医療のトップレベルの執刀医が超高級クリニック経営に参画。読者の高級美容医療への関心・実態把握の角度。",
+      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBwZHVEZG5BSGEyYlR3U1poTmw5MkhOekdWUTd0SV9pajB6SjZkbmNtM3NUaFZfVGJkUUxnWll1SW43clRZSDZtWDFB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBwZHVEZG5BSGEyYlR3U1poTmw5MkhOekdWUTd0SV9pajB6SjZkbmNtM3NUaFZfVGJkUUxnWll1SW43clRZSDZtWDFB?oc=5",
+      "source_name": "女性自身",
+      "monitor_id": "bm-regen-news",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-05T17:53:44+0900",
+      "status": "candidate",
+      "created_at": "2026-09-30T17:53:44+0900"
+    },
     {
       "seed_id": "seed_63f8b29da9a8",
       "trend_term": "タレント美容医療言及",
@@ -407,24 +443,6 @@
       "valid_until": "2026-10-01T16:56:42+0900",
       "status": "candidate",
       "created_at": "2026-09-26T16:56:42+0900"
-    },
-    {
-      "seed_id": "seed_6746b860c161",
-      "trend_term": "クリニック選びの失敗",
-      "raw_title": "「その美容クリニック、本当に信頼できる？」約半数が“クリニック選びを失敗”していた！？ | 株式会社ETANAのプレスリリース - PR TIMES",
-      "summary": "約半数が美容クリニック選びに失敗した経験を持つという調査結果。患者の信頼性判断の課題を示唆する。",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xU3J4R25xdWFmN1gzUlEwTnltUkJwS3E2N0hTR2NSOW1saDB5T2ZIMWpBZUthVl9RZi12bkt1VXJtaXdDZi0tVmJTb3dZc0VyQWhjcEVLS1A3NGlldHIyTkkyMXV1a0hSclE?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xU3J4R25xdWFmN1gzUlEwTnltUkJwS3E2N0hTR2NSOW1saDB5T2ZIMWpBZUthVl9RZi12bkt1VXJtaXdDZi0tVmJTb3dZc0VyQWhjcEVLS1A3NGlldHIyTkkyMXV1a0hSclE?oc=5",
-      "source_name": "PR TIMES",
-      "monitor_id": "bm-market-news",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-10T16:56:38+0900",
-      "status": "candidate",
-      "created_at": "2026-09-26T16:56:38+0900"
     },
     {
       "seed_id": "seed_e91e348726c7",
