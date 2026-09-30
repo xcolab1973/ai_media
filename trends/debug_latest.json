@@ -1,167 +1,163 @@
 {
-  "generated_at": "2026-09-30T16:28:00+09:00",
+  "generated_at": "2026-09-30T23:15:00+09:00",
   "fetch_status": {
-    "google_trends": "ok",
+    "google_trends": "error",
     "yahoo_news_ranking": "ok",
     "yahoo_realtime": "ok",
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 112,
   "filter": {
     "raw_by_category": {
-      "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 6,
-    "passed_total": 118,
+    "neg_excluded": 9,
+    "dedup_excluded": 9,
+    "passed_total": 94,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
-      "google_trends": 10,
-      "news_web": 12,
-      "x_realtime": 10,
-      "yahoo_news_ranking": 5
+      "yahoo_realtime": 28,
+      "x_realtime": 8,
+      "news_web": 25,
+      "yahoo_news_ranking": 9
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "personal_story": 3,
-    "opinion": 10,
-    "policy": 7,
+    "social_reaction": 19,
+    "personal_story": 1,
+    "hard_fact": 42,
     "medical_science": 4,
-    "hard_fact": 13
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "policy": 8,
-    "social_reaction": 30,
-    "opinion": 10,
-    "hard_fact": 18,
-    "personal_story": 2,
-    "medical_science": 2
+    "social_reaction": 19,
+    "hard_fact": 43,
+    "personal_story": 1,
+    "medical_science": 3,
+    "policy": 4
   },
   "b2b_top10": [
     {
-      "title": "高市首相が抜擢の「新・農水大臣」に“圧力疑惑”　選挙で支援しなかった自治体補助金",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "北大「追い出し部屋」　教授会の「組織的なアカハラ」認定 | 毎日新聞",
+      "title": "「欲求に負けた」警察施設で性行為、巡査の男女を処分　奈良県警（毎日新聞） - Y",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "何年か前にエジプトの方とZoomで話した時に、「中国は相手が何を欲しているか？し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "大貫晋一",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "中島佑気ジョセフ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "沖縄知事 辺野古対策課の廃止表明",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
+      "title": "「終了させました」という表現が不穏？ジャンプラ編集部が林士平氏の会社への編集業務",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "hard_fact"
     },
     {
-      "title": "「動物病院の待ち時間に耐えきれず爆寝する妹と、必死に眠気と戦っている犬」その後の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "神戸 発砲",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "クロワデュノール",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ファミクラストア",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    }
-  ],
-  "note_top10": [
-    {
-      "title": "北大「追い出し部屋」　教授会の「組織的なアカハラ」認定 | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "何年か前にエジプトの方とZoomで話した時に、「中国は相手が何を欲しているか？し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "浴室乾燥を使ってみたらすごい乾くけど5時間もかかった、一体いくらかかってるんだ？",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「動物病院の待ち時間に耐えきれず爆寝する妹と、必死に眠気と戦っている犬」その後の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "現役猟師だからわかるが警察や国は熊に人が食われまくってもどうでもいいと思ってる",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "転職で絶対に失敗したくなかった私が「合わない会社」を見極めるためにやったこと -",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「声のパブリシティー権」認める判決　声優の津田健次郎さんが敗訴も：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "https://www.courts.go.jp/assets/hanrei/h",
+      "title": "飲食店に推定2歳と5歳の子供を連れてきた客がラーメン1杯だけ注文したと思ったらそ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "声にも「パブリシティー権」認める　生成ＡＩで声模倣、人気声優訴え―東京地裁：時事",
+      "title": "北大「追い出し部屋」　教授会の「組織的なアカハラ」認定 | 毎日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "業者「HDD救出成功です。復旧率は99％です」さすがプロ！「正常オープン可能なこ",
+      "title": "くら寿司が今後のコラボについて発表…犯人への対応は不明、被害にあった顧客への保証",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "米軍 IS巡るイラクでの任務を終了",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "産休と育休を繰り返す同僚にキレた記事に、約10年前の資生堂の働き方改革問題を思い",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "外国人の「ホテルで寝て起きたらベッドになにかの卵があった」に対して「鼠の卵だ・・",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "飲食料品値上げ 10月は3153品目",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "沖縄知事 辺野古対策課の廃止表明",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_local",
+      "topic_category": "hard_fact"
+    }
+  ],
+  "note_top10": [
+    {
+      "title": "「欲求に負けた」警察施設で性行為、巡査の男女を処分　奈良県警（毎日新聞） - Y",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "北大「追い出し部屋」　教授会の「組織的なアカハラ」認定 | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "飲食店に推定2歳と5歳の子供を連れてきた客がラーメン1杯だけ注文したと思ったらそ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "産休と育休を繰り返す同僚にキレた記事に、約10年前の資生堂の働き方改革問題を思い",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "外国人の「ホテルで寝て起きたらベッドになにかの卵があった」に対して「鼠の卵だ・・",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "晩ご飯はマックにしたんだけど、モバイルオーダー注文したけど番号の表示がない。あれ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "スリッパの上になんかめっちゃ小さいやつがいて寝ているんだけどどうしよう「武器持っ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "家を取り壊したら、知らない地下への階段が出てきた「わくわくするやん」「行く前にち",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "関東で生まれ育った人たちが日照不足で鬱になってるのを見ると、日本海側の冬ってこん",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "美人すぎてイジメられていた母と、女を取っ替え引っ替えするほどモテた父の子供なのに",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
