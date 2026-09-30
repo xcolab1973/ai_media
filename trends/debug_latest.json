@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T03:19:00+09:00",
+  "generated_at": "2026-09-30T09:44:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 9,
-    "passed_total": 114,
+    "neg_excluded": 4,
+    "dedup_excluded": 8,
+    "passed_total": 120,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
+      "yahoo_realtime": 30,
       "google_trends": 10,
-      "yahoo_news_ranking": 6,
-      "x_realtime": 8,
-      "news_web": 12
+      "news_web": 13,
+      "x_realtime": 10,
+      "yahoo_news_ranking": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
-    "personal_story": 7,
+    "social_reaction": 36,
+    "personal_story": 3,
     "opinion": 10,
     "medical_science": 5,
-    "hard_fact": 17,
-    "policy": 5
+    "hard_fact": 13,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 26,
+    "social_reaction": 28,
+    "hard_fact": 25,
     "opinion": 10,
-    "personal_story": 7,
-    "policy": 5,
-    "hard_fact": 20,
-    "medical_science": 2
+    "personal_story": 3,
+    "medical_science": 2,
+    "policy": 2
   },
   "b2b_top10": [
     {
-      "title": "前横浜市長・山中氏が出馬会見　「加害者として行える対策ある」 | 毎日新聞",
+      "title": "北大「追い出し部屋」　教授会の「組織的なアカハラ」認定 | 毎日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "スペイン 対 クロアチア",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "9月29日の雨で「東京都心で34日連続雨」になり気象学的に約150年ぶりの最長記",
+      "title": "IIJ、新人エンジニア向け研修教材を無料公開　Web技術の基礎から生成AI活用ま",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "チェコ 対 イングランド",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ブレーブス 対 フィリーズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "岡田結実",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "男子 バレー アジア 大会 パキスタン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "部下の派遣社員に1on1で来季の目標を聞いたら「目標とか求められても日常をやり過",
+      "title": "“アイヌ語オンリー”の美少女と交流ゲーム『【悲報】転校生、アイヌ語しか使えない模",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "hard_fact"
     },
     {
-      "title": "スポティファイ",
+      "title": "中村奨吾",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "山本裕典",
+      "title": "中間淳太",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ブラッサム",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "熱中症で娘倒れ寝たきり 父の訴え",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "子供がピアノ教室でもっと練習しろと怒られたらしく、家で練習する必要があるなら、も",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ヤンキース 対 レッドソックス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "26h2",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,16 +107,52 @@
   ],
   "note_top10": [
     {
-      "title": "前横浜市長・山中氏が出馬会見　「加害者として行える対策ある」 | 毎日新聞",
+      "title": "北大「追い出し部屋」　教授会の「組織的なアカハラ」認定 | 毎日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "9月29日の雨で「東京都心で34日連続雨」になり気象学的に約150年ぶりの最長記",
+      "title": "IIJ、新人エンジニア向け研修教材を無料公開　Web技術の基礎から生成AI活用ま",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "子供がピアノ教室でもっと練習しろと怒られたらしく、家で練習する必要があるなら、も",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream D",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "タイムズカーの会員情報漏えいのニュース→TOPPAN「タイムズがデカいのやらかし",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "最近猫のトイレの回数が少ないので腎臓などの異常を心配してたけど。猫おまえこのやろ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "何年か前にエジプトの方とZoomで話した時に、「中国は相手が何を欲しているか？し",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "高校1年で留年、2回目の1年生で退学し、通信制高校に転入…「今年ちょっと課題を頑",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
     },
     {
       "title": "みんな（君も）「デザイン」という言葉を使いすぎ。",
@@ -125,46 +161,10 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "部下の派遣社員に1on1で来季の目標を聞いたら「目標とか求められても日常をやり過",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「缶コーヒーはあるのに缶の紅茶って聞かない」紅茶の消費量を増やすために敷居を下げ",
+      "title": "GitHub - mizchi/explainer",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "「勝ちを譲って利を得る」学生時代に後輩とモノポリーをやっていた際、普通の人は三角",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "海外オタクが「ドラコ・マルフォイが金髪美少女だったら…最強じゃないか？？？？」と",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "コストを払ってでも得る価値とは--百合と萩尾先生とユーフォ｜高河ゆん",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "味より「接客」が大事？ 飲食店の口コミが生まれる仕組みを行動経済学者に聞く - ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "スペイン 対 クロアチア",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ]
 }
