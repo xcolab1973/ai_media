@@ -1,43 +1,47 @@
 {
-  "generated_at": "2026-09-30T23:15:00+09:00",
+  "generated_at": "2026-10-01T03:09:00+09:00",
   "fetch_status": {
-    "google_trends": "error",
+    "google_trends": "ok",
     "yahoo_news_ranking": "ok",
     "yahoo_realtime": "ok",
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 112,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
+      "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
       "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 9,
-    "passed_total": 94,
+    "neg_excluded": 12,
+    "dedup_excluded": 12,
+    "passed_total": 98,
     "b2b_category_counts": {
-      "yahoo_realtime": 28,
+      "yahoo_realtime": 20,
       "x_realtime": 8,
+      "google_trends": 10,
       "news_web": 25,
-      "yahoo_news_ranking": 9
+      "yahoo_news_ranking": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 19,
-    "personal_story": 1,
-    "hard_fact": 42,
-    "medical_science": 4,
-    "policy": 4
+    "social_reaction": 15,
+    "personal_story": 2,
+    "medical_science": 6,
+    "opinion": 10,
+    "hard_fact": 34,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 19,
-    "hard_fact": 43,
-    "personal_story": 1,
-    "medical_science": 3,
-    "policy": 4
+    "social_reaction": 15,
+    "hard_fact": 35,
+    "medical_science": 5,
+    "opinion": 10,
+    "personal_story": 2,
+    "policy": 3
   },
   "b2b_top10": [
     {
@@ -47,9 +51,45 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "米軍、IS掃討作戦「正式終了」 イラクから撤収 国防総省",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
       "title": "「終了させました」という表現が不穏？ジャンプラ編集部が林士平氏の会社への編集業務",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "赤ちゃんの頭のゆがみを矯正するヘルメット治療にルッキズム云々と言う人もいるが、実",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "機長",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "竜星涼",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "さとふる",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "米軍 IS巡るイラクでの任務を終了",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
@@ -59,46 +99,10 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "北大「追い出し部屋」　教授会の「組織的なアカハラ」認定 | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "くら寿司が今後のコラボについて発表…犯人への対応は不明、被害にあった顧客への保証",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "米軍 IS巡るイラクでの任務を終了",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "産休と育休を繰り返す同僚にキレた記事に、約10年前の資生堂の働き方改革問題を思い",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "外国人の「ホテルで寝て起きたらベッドになにかの卵があった」に対して「鼠の卵だ・・",
+      "title": "ジュエリーツツミに結婚指輪を受け取りに行ったら、親指でも緩いサイズのが出てきたの",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "飲食料品値上げ 10月は3153品目",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "沖縄知事 辺野古対策課の廃止表明",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_local",
-      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
@@ -109,58 +113,58 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "北大「追い出し部屋」　教授会の「組織的なアカハラ」認定 | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "飲食店に推定2歳と5歳の子供を連れてきた客がラーメン1杯だけ注文したと思ったらそ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "産休と育休を繰り返す同僚にキレた記事に、約10年前の資生堂の働き方改革問題を思い",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "外国人の「ホテルで寝て起きたらベッドになにかの卵があった」に対して「鼠の卵だ・・",
+      "title": "ジュエリーツツミに結婚指輪を受け取りに行ったら、親指でも緩いサイズのが出てきたの",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "晩ご飯はマックにしたんだけど、モバイルオーダー注文したけど番号の表示がない。あれ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "スリッパの上になんかめっちゃ小さいやつがいて寝ているんだけどどうしよう「武器持っ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "家を取り壊したら、知らない地下への階段が出てきた「わくわくするやん」「行く前にち",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "関東で生まれ育った人たちが日照不足で鬱になってるのを見ると、日本海側の冬ってこん",
+      "title": "アクセサリーの色味で迷っている奥さんに「全部同じに見える」と言う旦那さん…そこで",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "美人すぎてイジメられていた母と、女を取っ替え引っ替えするほどモテた父の子供なのに",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "祖母が亡くなった時にひ孫のギャルJKが大泣きしながら自身のメイク道具で死化粧を施",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "ハリー・ポッターのもしも設定なら「ハリーが見た目は母親リリーの生き写しで瞳だけが",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "『カフェオレ専用の急須』なるものが爆誕し「かわいい」「ロイヤルミルクティー的な？",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "転職で絶対に失敗したくなかった私が「合わない会社」を見極めるためにやったこと -",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "赤ちゃんの頭のゆがみを矯正するヘルメット治療にルッキズム云々と言う人もいるが、実",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
     }
   ]
 }
