@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T09:44:00+09:00",
+  "generated_at": "2026-09-30T16:28:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 4,
-    "dedup_excluded": 8,
-    "passed_total": 120,
+    "neg_excluded": 8,
+    "dedup_excluded": 6,
+    "passed_total": 118,
     "b2b_category_counts": {
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 33,
       "google_trends": 10,
-      "news_web": 13,
+      "news_web": 12,
       "x_realtime": 10,
-      "yahoo_news_ranking": 7
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 36,
+    "social_reaction": 33,
     "personal_story": 3,
     "opinion": 10,
-    "medical_science": 5,
-    "hard_fact": 13,
-    "policy": 3
+    "policy": 7,
+    "medical_science": 4,
+    "hard_fact": 13
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
-    "hard_fact": 25,
+    "policy": 8,
+    "social_reaction": 30,
     "opinion": 10,
-    "personal_story": 3,
-    "medical_science": 2,
-    "policy": 2
+    "hard_fact": 18,
+    "personal_story": 2,
+    "medical_science": 2
   },
   "b2b_top10": [
+    {
+      "title": "高市首相が抜擢の「新・農水大臣」に“圧力疑惑”　選挙で支援しなかった自治体補助金",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
     {
       "title": "北大「追い出し部屋」　教授会の「組織的なアカハラ」認定 | 毎日新聞",
       "source_category": "yahoo_realtime",
@@ -51,55 +57,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "IIJ、新人エンジニア向け研修教材を無料公開　Web技術の基礎から生成AI活用ま",
+      "title": "何年か前にエジプトの方とZoomで話した時に、「中国は相手が何を欲しているか？し",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "“アイヌ語オンリー”の美少女と交流ゲーム『【悲報】転校生、アイヌ語しか使えない模",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "中村奨吾",
+      "title": "大貫晋一",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "中間淳太",
+      "title": "中島佑気ジョセフ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ブラッサム",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "熱中症で娘倒れ寝たきり 父の訴え",
+      "title": "沖縄知事 辺野古対策課の廃止表明",
       "source_category": "news_web",
       "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "子供がピアノ教室でもっと練習しろと怒られたらしく、家で練習する必要があるなら、も",
+      "title": "「動物病院の待ち時間に耐えきれず爆寝する妹と、必死に眠気と戦っている犬」その後の",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ヤンキース 対 レッドソックス",
+      "title": "神戸 発砲",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "26h2",
+      "title": "クロワデュノール",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ファミクラストア",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,57 +113,57 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "IIJ、新人エンジニア向け研修教材を無料公開　Web技術の基礎から生成AI活用ま",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "子供がピアノ教室でもっと練習しろと怒られたらしく、家で練習する必要があるなら、も",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream D",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "タイムズカーの会員情報漏えいのニュース→TOPPAN「タイムズがデカいのやらかし",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "最近猫のトイレの回数が少ないので腎臓などの異常を心配してたけど。猫おまえこのやろ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "何年か前にエジプトの方とZoomで話した時に、「中国は相手が何を欲しているか？し",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "浴室乾燥を使ってみたらすごい乾くけど5時間もかかった、一体いくらかかってるんだ？",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "高校1年で留年、2回目の1年生で退学し、通信制高校に転入…「今年ちょっと課題を頑",
+      "title": "「動物病院の待ち時間に耐えきれず爆寝する妹と、必死に眠気と戦っている犬」その後の",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "みんな（君も）「デザイン」という言葉を使いすぎ。",
+      "title": "現役猟師だからわかるが警察や国は熊に人が食われまくってもどうでもいいと思ってる",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "転職で絶対に失敗したくなかった私が「合わない会社」を見極めるためにやったこと -",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「声のパブリシティー権」認める判決　声優の津田健次郎さんが敗訴も：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "https://www.courts.go.jp/assets/hanrei/h",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "GitHub - mizchi/explainer",
+      "title": "声にも「パブリシティー権」認める　生成ＡＩで声模倣、人気声優訴え―東京地裁：時事",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "業者「HDD救出成功です。復旧率は99％です」さすがプロ！「正常オープン可能なこ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
