@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-09-29T23:16:03+0900",
+    "generated_at": "2026-09-30T09:42:19+0900",
     "record_count": 31,
-    "source_total_in_db": 1343,
+    "source_total_in_db": 1345,
     "provenance_breakdown": {
-      "evidence": 859,
-      "pain_seed": 484
+      "evidence": 860,
+      "pain_seed": 485
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_63f8b29da9a8",
+      "trend_term": "タレント美容医療言及",
+      "raw_title": "GENERATIONS中務裕太、舞台あいさつで衝撃告白「ボトックスしたい」 メンバーもびっくり「これ全国やで!?」「何を言っているの？」 - 山陽新聞",
+      "summary": "GENERATIONS中務裕太が舞台あいさつでボトックス施術希望を公言。一般向け美容医療への関心・受容態度の広がりを反映。",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yZkxWSTNOSU1QeVUxcVp0cWRmamxha1MwcDVRTWxyQUJ2d1dvQlZ4NzNSdlozX3ZRZG9IRUZkLVoxT2VTVldfc05pNW9VaXNjdEE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yZkxWSTNOSU1QeVUxcVp0cWRmamxha1MwcDVRTWxyQUJ2d1dvQlZ4NzNSdlozX3ZRZG9IRUZkLVoxT2VTVldfc05pNW9VaXNjdEE?oc=5",
+      "source_name": "山陽新聞",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "opinion",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-14T09:42:01+0900",
+      "status": "candidate",
+      "created_at": "2026-09-30T09:42:01+0900"
+    },
+    {
+      "seed_id": "seed_6c02c24523f7",
+      "trend_term": "第5世代スキンブースター",
+      "raw_title": "ベンスクリニック新宿院、韓国で話題のhADM配合スキンブースター「ティシボ（TISSIVO）」に続き「リトゥオ（Re2O）」の導入を決定- 第5世代スキンブースターのラインアップを拡充 - Excite エキサイト",
+      "summary": "ベンスクリニック新宿院がhADM配合スキンブースター「ティシボ」「リトゥオ」を導入。韓国で話題の第5世代スキンブースターのラインアップ拡充。",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12ZlJ1dlJIelc4eWdKV0hhOXJPS0VTWS1BOUpEMVJmSG9GR0NuU1VjMUc4N1RhOHYxRzJsYWFkNE5VYWVub245S2x3bkc5eW9NdEdZcU5MNUs4eUpJdUREZ3daSlRTZkZRTlRhZnZjLWRPMnFv?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12ZlJ1dlJIelc4eWdKV0hhOXJPS0VTWS1BOUpEMVJmSG9GR0NuU1VjMUc4N1RhOHYxRzJsYWFkNE5VYWVub245S2x3bkc5eW9NdEdZcU5MNUs4eUpJdUREZ3daSlRTZkZRTlRhZnZjLWRPMnFv?oc=5",
+      "source_name": "Excite エキサイト",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-05T09:42:01+0900",
+      "status": "candidate",
+      "created_at": "2026-09-30T09:42:01+0900"
+    },
     {
       "seed_id": "seed_cc4500918fe7",
       "trend_term": "美容医療特化の人材紹介",
@@ -103,24 +139,6 @@
       "created_at": "2026-09-29T10:11:20+0900"
     },
     {
-      "seed_id": "seed_35b1c085a18d",
-      "trend_term": "ティシボスキンブースター導入",
-      "raw_title": "ベンスクリニック横浜院、韓国で話題のスキンブースター「ティシボ（TISSIVO）」を2026年9月より導入 - GISELe(ジゼル)",
-      "summary": "ベンスクリニック横浜院が2026年9月、韓国で話題のスキンブースター「ティシボ」を導入予定。",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zaWNiOWZSQmRUTlJHVHdKZW5qTnBWQnRFSmtjTTM4N3RaWmhBb09WX20xWkc1R3pFRTJpM0QybG1kUjh4TUVIOWtIdEQxZ1hxbzZpQQ?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zaWNiOWZSQmRUTlJHVHdKZW5qTnBWQnRFSmtjTTM4N3RaWmhBb09WX20xWkc1R3pFRTJpM0QybG1kUjh4TUVIOWtIdEQxZ1hxbzZpQQ?oc=5",
-      "source_name": "GISELe(ジゼル)",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-04T00:47:52+0900",
-      "status": "candidate",
-      "created_at": "2026-09-29T00:47:52+0900"
-    },
-    {
       "seed_id": "seed_55fb3f36eb51",
       "trend_term": "タレントのヒアルロン酸注入施術",
       "raw_title": "41歳タレント、ヒアルロン酸注入の衝撃姿を公開しスタジオ動揺「ちょちょ！ヤバっ！」「情報量多すぎる」 - 千葉テレビ放送株式会社",
@@ -191,24 +209,6 @@
       "valid_until": "2026-10-12T17:53:10+0900",
       "status": "candidate",
       "created_at": "2026-09-28T17:53:10+0900"
-    },
-    {
-      "seed_id": "seed_267f6f4bf096",
-      "trend_term": "タレントのヒアルロン酸注入公開",
-      "raw_title": "【写真・画像】41歳タレント、ヒアルロン酸注入の衝撃姿を公開しスタジオ動揺「ちょちょ！ヤバっ！」「情報量多すぎる」 1枚目 - ABEMA TIMES",
-      "summary": "41歳タレントがヒアルロン酸注入施術の様子を公開。施術直後の見た目変化について視聴者の反応を記録した内容。",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xTjZaeXdDZ2ZRZVRmZlBGTXc0VU5UajBZY1FaRjBJOTRMcjlWZFlhVDUyYWVKVEJPcjFwMmVzYnc5TUhBd2twbjlrQTB6bDh5MmJPTWd6NlQ1UQ?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xTjZaeXdDZ2ZRZVRmZlBGTXc0VU5UajBZY1FaRjBJOTRMcjlWZFlhVDUyYWVKVEJPcjFwMmVzYnc5TUhBd2twbjlrQTB6bDh5MmJPTWd6NlQ1UQ?oc=5",
-      "source_name": "ABEMA TIMES",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-12T17:53:06+0900",
-      "status": "candidate",
-      "created_at": "2026-09-28T17:53:06+0900"
     },
     {
       "seed_id": "seed_792ffcbbc59f",
