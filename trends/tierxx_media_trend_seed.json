@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-01T09:45:12+0900",
-    "record_count": 31,
-    "source_total_in_db": 1348,
+    "generated_at": "2026-10-01T18:18:36+0900",
+    "record_count": 29,
+    "source_total_in_db": 1349,
     "provenance_breakdown": {
-      "evidence": 861,
+      "evidence": 862,
       "pain_seed": 487
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_92bb866b1a19",
+      "trend_term": "湘南美容クリニック株価割安感",
+      "raw_title": "米国上場の湘南美容クリニックに割安感（西 勇太郎） - トウシル",
+      "summary": "米国上場の湘南美容クリニックの株価に関する市場分析。投資情報として美容医療業界の事業規模・信用度を示す指標となる可能性。",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01TmRPZEZfR1Y3UlplZVJvUEFXc0x1ZFJLb2NsUEFNdmYxUFM2eUh4QmlDazkxUkFsc2Jhcm84UXVzTTJZcDhEUE52YnpkZ1JYU00zcjAxQ1hUZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01TmRPZEZfR1Y3UlplZVJvUEFXc0x1ZFJLb2NsUEFNdmYxUFM2eUh4QmlDazkxUkFsc2Jhcm84UXVzTTJZcDhEUE52YnpkZ1JYU00zcjAxQ1hUZw?oc=5",
+      "source_name": "トウシル",
+      "monitor_id": "bm-market-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-06T18:18:31+0900",
+      "status": "candidate",
+      "created_at": "2026-10-01T18:18:31+0900"
+    },
     {
       "seed_id": "seed_454f416a862a",
       "trend_term": "男性のボトックス認知",
@@ -391,24 +409,6 @@
       "created_at": "2026-09-26T21:22:57+0900"
     },
     {
-      "seed_id": "seed_b263016af4ec",
-      "trend_term": "大手美容医療グループの経営戦略",
-      "raw_title": "SBCメディカルグループHD相川佳之CEOが語った｢『顧客数で日本一』の戦略｣｢直美問題｣｢ナスダック上場1年｣ - toyokeizai.net",
-      "summary": "SBCメディカルグループHDのCEOが顧客数日本一戦略、ナスダック上場1年の成果について言及。業界の経営動向と上場企業の実績に関する第三者報道",
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhS0VmT29CdE1zOUliWENmWGpmSV9fczg1eHVIbEtaM1I4bUMzUkZaLUJwUHlpN3Utc1lhblRYX1dIbTh0Slcyd1F3SUdyNWJxY05DaDVBdWtIWTA?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhS0VmT29CdE1zOUliWENmWGpmSV9fczg1eHVIbEtaM1I4bUMzUkZaLUJwUHlpN3Utc1lhblRYX1dIbTh0Slcyd1F3SUdyNWJxY05DaDVBdWtIWTA?oc=5",
-      "source_name": "toyokeizai.net",
-      "monitor_id": "bm-market-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-01T21:22:52+0900",
-      "status": "candidate",
-      "created_at": "2026-09-26T21:22:52+0900"
-    },
-    {
       "seed_id": "seed_50eed1136c34",
       "trend_term": "メディアの整形表現",
       "raw_title": "Netflix『ダウンタイム』最終話までネタバレ感想！ラスト・その後はどうなる？描かれる子どもの整形や醜形恐怖症を解説 - ciatr[シアター]",
@@ -425,42 +425,6 @@
       "valid_until": "2026-10-10T21:22:47+0900",
       "status": "candidate",
       "created_at": "2026-09-26T21:22:47+0900"
-    },
-    {
-      "seed_id": "seed_626f32db65b9",
-      "trend_term": "美容整形の低年齢化",
-      "raw_title": "加速する美容整形の低年齢化 背景に「SNSの影」 記者ノートfrom湊町 (産経新聞) - news.yahoo.co.jp",
-      "summary": "SNSの影響で美容整形を受ける低年齢層が増加している傾向が報道されている。若年層の美容医療利用動向の背景にデジタルメディアが関与",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRGJ4bTdERWpnS0VUemN0MGdrRjZoR0hBY0otTEEzTndXSVd6dDN0bHZjNldYUnRNNk56YTVKUFVNaFNrYmZKRzRNODZXTk1VQ1JsaVEtS1RTWlFZc0xnZ3NzZ1dXUUZUMUJwUlpVSjZJV1dYdkpwV2pPREdudHhGYjJ5dXZFYnc0X3JTY3dR?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRGJ4bTdERWpnS0VUemN0MGdrRjZoR0hBY0otTEEzTndXSVd6dDN0bHZjNldYUnRNNk56YTVKUFVNaFNrYmZKRzRNODZXTk1VQ1JsaVEtS1RTWlFZc0xnZ3NzZ1dXUUZUMUJwUlpVSjZJV1dYdkpwV2pPREdudHhGYjJ5dXZFYnc0X3JTY3dR?oc=5",
-      "source_name": "news.yahoo.co.jp",
-      "monitor_id": "bm-sns-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-01T16:56:42+0900",
-      "status": "candidate",
-      "created_at": "2026-09-26T16:56:42+0900"
-    },
-    {
-      "seed_id": "seed_e91e348726c7",
-      "trend_term": "脂肪吸引事故と医療安全",
-      "raw_title": "あご下の脂肪吸引で死にかけた34歳女性が語る恐怖体験、事故る美容医療が浮き彫りにする「自己責任」の限界 【誰でも美容医療2025】「直美（ちょくび）」と「献体前ピース」で物議を醸す業界、3つの観点から浮かび上がる闇 - jbpress.ismedia.jp",
-      "summary": "脂肪吸引施術で健康被害を受けた患者の体験報告。美容医療業界の安全管理体制と自己責任の限界に関する問題提起。",
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zaUZSaTExRlhodHc1ZkdmSFdGQmw4anUyUExpWmNxck1qdnFzenBhMEdDVmU0dVVkbnZ3ckZtRzR1Nk5pZTBxbzV0ZXlFR0F3UVk2a3V3OWZ1cDFuenJ3?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zaUZSaTExRlhodHc1ZkdmSFdGQmw4anUyUExpWmNxck1qdnFzenBhMEdDVmU0dVVkbnZ3ckZtRzR1Nk5pZTBxbzV0ZXlFR0F3UVk2a3V3OWZ1cDFuenJ3?oc=5",
-      "source_name": "jbpress.ismedia.jp",
-      "monitor_id": "bm-safety-news",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-01T16:56:33+0900",
-      "status": "candidate",
-      "created_at": "2026-09-26T16:56:33+0900"
     },
     {
       "seed_id": "seed_6f6e522b521c",
