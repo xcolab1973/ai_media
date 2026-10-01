@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:48:00+09:00",
+  "generated_at": "2026-10-01T23:48:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,152 +16,154 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 13,
+    "neg_excluded": 8,
     "dedup_excluded": 8,
-    "passed_total": 111,
+    "passed_total": 116,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 37,
       "google_trends": 9,
-      "x_realtime": 7,
-      "news_web": 14,
-      "yahoo_news_ranking": 5
+      "news_web": 12,
+      "x_realtime": 10,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
+    "analysis": 1,
+    "social_reaction": 32,
+    "opinion": 8,
     "personal_story": 3,
-    "opinion": 9,
     "medical_science": 2,
-    "hard_fact": 21,
+    "hard_fact": 18,
     "policy": 6
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "opinion": 9,
+    "hard_fact": 19,
+    "policy": 6,
+    "opinion": 8,
+    "analysis": 1,
+    "social_reaction": 32,
     "personal_story": 3,
-    "hard_fact": 22,
-    "medical_science": 1,
-    "policy": 6
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "「マガジン航」終了のお知らせ",
+      "title": "伊東四朗「いい爺ィになりました」芸能活動引退発表、来年6月の卒寿誕生日節目にラジ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "hard_fact"
     },
     {
-      "title": "アニメちいかわの「キャラカットステッカーガム」を購入、ベンチで開封したら「ちょう",
+      "title": "伊東四朗が引退発表　来年90歳の誕生日で　芸能界で70年…「急速に退化」　ラジオ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "hard_fact"
     },
     {
-      "title": "小園海斗",
+      "title": "ニセ情報に踊る有権者と稼ぐSNS…「アテンション・エコノミー」が壊す選挙のリアル",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "篠塚大輝",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "戦時中、中国戦線に送られシベリアに抑留された祖父に「戦争で酷い目にあった？」と聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "錦織圭",
+      "title": "阪神 試合",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ヴァンビ",
+      "title": "阪神タイガース",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "伊東四朗",
+      "title": "阪神",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "来季の選手契約について ｜広島東洋カープ公式サイト",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "国宝級イケメンランキング",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "analysis"
     },
     {
-      "title": "不機嫌で人を動かすのは「心の子ども返り」　支配されないためには：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "ナガエツルノゲイトウ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "「金をケチって大阪の激ヤバ西成の中でも1番安いホテルに泊まった」過去の推し活が話",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "虎テレ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "「マガジン航」終了のお知らせ",
+      "title": "国宝級イケメンランキング",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "analysis"
+    },
+    {
+      "title": "ヒゲじいが新種の名前に！ - ダーウィンが来た！からのお知らせ - ダーウィンが",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "アニメちいかわの「キャラカットステッカーガム」を購入、ベンチで開封したら「ちょう",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "来季の選手契約について ｜広島東洋カープ公式サイト",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "不機嫌で人を動かすのは「心の子ども返り」　支配されないためには：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "命がけで日本大使館守ったアフガン人　難民となり今はケバブ売る生活：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "広島　小園海斗、矢野雅哉ら４選手に戦力外通告　小園は「信頼できないと言われたんで",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「金をケチって大阪の激ヤバ西成の中でも1番安いホテルに泊まった」過去の推し活が話",
+      "title": "「リアルは世知辛くて即物的」小説家・澁澤龍彦は近親相姦にロマンチックさを求めて調",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「なんでこんなに優しいの」父からのラインがどこをとっても優しさの化身で泣ける…「",
+      "title": "裁縫セット使いたくて缶を開けたらクッキーが入ってるんだけど！？なにこれ！？バグ！",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ゴミを捨てに来て帰ろうとしたら、おばちゃんが袋を開けて血だらけになった靴を出して",
+      "title": "人気イラストレーターがカフェで作業していたら隣にいたJKに手紙を渡される神イベ発",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "戦時中、中国戦線に送られシベリアに抑留された祖父に「戦争で酷い目にあった？」と聞",
+      "title": "篠塚大輝",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "柔道女子、中国選手が衝撃の反則負け　前田凛にガブリ噛みつき…歯形くっきり　放送席",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "富山県内の高校すくなくとも14校で「中敷き」をむしり取る変態盗難犯による被害…女",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【一問一答】「シロかクロかと言えばシロ」広島カープ 鈴木球団本部長「もう早い方が",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "彼女がサークル内の男女比2:2の旅行に行くと言っているが、何も言わない方がいいの",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
