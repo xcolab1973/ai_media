@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T09:49:00+09:00",
+  "generated_at": "2026-10-01T16:48:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,99 +7,99 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
-    "dedup_excluded": 11,
-    "passed_total": 100,
+    "neg_excluded": 13,
+    "dedup_excluded": 8,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "yahoo_realtime": 22,
-      "google_trends": 10,
-      "x_realtime": 8,
-      "news_web": 25,
+      "yahoo_realtime": 35,
+      "google_trends": 9,
+      "x_realtime": 7,
+      "news_web": 14,
       "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 18,
-    "opinion": 8,
-    "medical_science": 4,
-    "personal_story": 2,
-    "hard_fact": 30,
-    "policy": 8
+    "social_reaction": 29,
+    "personal_story": 3,
+    "opinion": 9,
+    "medical_science": 2,
+    "hard_fact": 21,
+    "policy": 6
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 32,
-    "social_reaction": 18,
-    "policy": 8,
-    "opinion": 8,
-    "medical_science": 2,
-    "personal_story": 2
+    "social_reaction": 29,
+    "opinion": 9,
+    "personal_story": 3,
+    "hard_fact": 22,
+    "medical_science": 1,
+    "policy": 6
   },
   "b2b_top10": [
     {
-      "title": "太洋物産、宅配ピザ「ナポリの窯」売却　堀江貴文氏は業務執行取締役に - 日本経済",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "「欲求に負けた」警察施設で性行為、巡査の男女を処分　奈良県警（毎日新聞） - Y",
+      "title": "「マガジン航」終了のお知らせ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "家賃高騰で87歳の女性が退去させられ……スペインの住宅危機、抗議受け政府が対策を",
+      "title": "アニメちいかわの「キャラカットステッカーガム」を購入、ベンチで開封したら「ちょう",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "米軍、IS掃討作戦「正式終了」 イラクから撤収 国防総省",
+      "title": "小園海斗",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "戦時中、中国戦線に送られシベリアに抑留された祖父に「戦争で酷い目にあった？」と聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "ニデック 株価",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ヤンキース 対 レッドソックス",
+      "title": "錦織圭",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "仮面ライダーカブト 20th 天を継ぐもの",
+      "title": "ヴァンビ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "アルゼンチン 対 ボリビア",
+      "title": "伊東四朗",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "村上蘭",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "来季の選手契約について ｜広島東洋カープ公式サイト",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
-      "title": "マクド駐輪場所が満車だったので歩道に止めたら新任店長が来て歩道には止めないでほし",
+      "title": "不機嫌で人を動かすのは「心の子ども返り」　支配されないためには：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「金をケチって大阪の激ヤバ西成の中でも1番安いホテルに泊まった」過去の推し活が話",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -107,64 +107,64 @@
   ],
   "note_top10": [
     {
-      "title": "「欲求に負けた」警察施設で性行為、巡査の男女を処分　奈良県警（毎日新聞） - Y",
+      "title": "「マガジン航」終了のお知らせ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "マクド駐輪場所が満車だったので歩道に止めたら新任店長が来て歩道には止めないでほし",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "松戸の東横イン、何があったんだよ「竪穴インになっとる」「外観これなのに中入るとち",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "おぼっちゃまくん REBORN｜テレビ朝日",
+      "title": "アニメちいかわの「キャラカットステッカーガム」を購入、ベンチで開封したら「ちょう",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "退職予定だった会社から給与が振り込まれていなくて事務所に凸ってみたら今朝から社長",
+      "title": "来季の選手契約について ｜広島東洋カープ公式サイト",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "不機嫌で人を動かすのは「心の子ども返り」　支配されないためには：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "命がけで日本大使館守ったアフガン人　難民となり今はケバブ売る生活：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "広島　小園海斗、矢野雅哉ら４選手に戦力外通告　小園は「信頼できないと言われたんで",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「金をケチって大阪の激ヤバ西成の中でも1番安いホテルに泊まった」過去の推し活が話",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "8月下旬に激安航空券としてSNSで話題になったアラスカ航空の日本発ロサンゼルス行",
+      "title": "「なんでこんなに優しいの」父からのラインがどこをとっても優しさの化身で泣ける…「",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ヤンキース 対 レッドソックス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "ゴミを捨てに来て帰ろうとしたら、おばちゃんが袋を開けて血だらけになった靴を出して",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "仮面ライダーカブト 20th 天を継ぐもの",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "アルゼンチン 対 ボリビア",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "村上蘭",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "戦時中、中国戦線に送られシベリアに抑留された祖父に「戦争で酷い目にあった？」と聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ]
 }
