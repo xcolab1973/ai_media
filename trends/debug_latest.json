@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T23:48:00+09:00",
+  "generated_at": "2026-10-02T03:35:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,34 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
+    "neg_excluded": 9,
     "dedup_excluded": 8,
-    "passed_total": 116,
+    "passed_total": 115,
     "b2b_category_counts": {
       "yahoo_realtime": 37,
-      "google_trends": 9,
+      "google_trends": 10,
+      "x_realtime": 9,
       "news_web": 12,
-      "x_realtime": 10,
       "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
     "analysis": 1,
-    "social_reaction": 32,
+    "social_reaction": 30,
     "opinion": 8,
-    "personal_story": 3,
     "medical_science": 2,
-    "hard_fact": 18,
+    "personal_story": 2,
+    "hard_fact": 21,
     "policy": 6
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 19,
+    "hard_fact": 22,
     "policy": 6,
     "opinion": 8,
+    "social_reaction": 30,
     "analysis": 1,
-    "social_reaction": 32,
-    "personal_story": 3,
-    "medical_science": 1
+    "medical_science": 1,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
@@ -65,46 +65,46 @@
       "topic_category": "policy"
     },
     {
-      "title": "篠塚大輝",
+      "title": "ロト6 結果",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "阪神 試合",
+      "title": "デンマーク 対 ポルトガル",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "阪神タイガース",
+      "title": "菊池 風 磨 白 塗り",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "阪神",
+      "title": "ウェールズ 対 ノルウェー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "国宝級イケメンランキング",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "analysis"
+      "title": "『図説・日本武器集成』という本を読んでいたら忍具の写真が載っていてその武器の所有",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "ナガエツルノゲイトウ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "「お金があればなんでもできることを思い出させてくれる表参道のアップルストア」とい",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "虎テレ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "下着や靴下をユニクロで買っていたが、すごい勢いで劣化するので同価格帯で良いものが",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
@@ -115,9 +115,33 @@
       "topic_category": "analysis"
     },
     {
+      "title": "『図説・日本武器集成』という本を読んでいたら忍具の写真が載っていてその武器の所有",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「お金があればなんでもできることを思い出させてくれる表参道のアップルストア」とい",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "下着や靴下をユニクロで買っていたが、すごい勢いで劣化するので同価格帯で良いものが",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "ヒゲじいが新種の名前に！ - ダーウィンが来た！からのお知らせ - ダーウィンが",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ちいかわのラベルにしたぐらいで売れると思ってんのウケるw→「買うわけないよね」「",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -127,46 +151,22 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "裁縫セット使いたくて缶を開けたらクッキーが入ってるんだけど！？なにこれ！？バグ！",
+      "title": "5年前にドン・キホーテで買った「ケツ毛ジョリー」が今でも愛用してる…気軽で刃が直",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "人気イラストレーターがカフェで作業していたら隣にいたJKに手紙を渡される神イベ発",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "篠塚大輝",
+      "title": "ロト6 結果",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "柔道女子、中国選手が衝撃の反則負け　前田凛にガブリ噛みつき…歯形くっきり　放送席",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "富山県内の高校すくなくとも14校で「中敷き」をむしり取る変態盗難犯による被害…女",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【一問一答】「シロかクロかと言えばシロ」広島カープ 鈴木球団本部長「もう早い方が",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "彼女がサークル内の男女比2:2の旅行に行くと言っているが、何も言わない方がいいの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "デンマーク 対 ポルトガル",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
