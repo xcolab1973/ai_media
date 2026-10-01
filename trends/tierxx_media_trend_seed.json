@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-09-30T23:07:40+0900",
-    "record_count": 32,
-    "source_total_in_db": 1347,
+    "generated_at": "2026-10-01T09:45:12+0900",
+    "record_count": 31,
+    "source_total_in_db": 1348,
     "provenance_breakdown": {
       "evidence": 861,
-      "pain_seed": 486
+      "pain_seed": 487
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_454f416a862a",
+      "trend_term": "男性のボトックス認知",
+      "raw_title": "ソヌ・ヨンニョ、男性スタッフのボトックス告白に「末世だ末世」 - 조선일보",
+      "summary": "韓国の著名人が男性スタッフのボトックス使用について言及。男性の美容医療利用に対する社会的反応を示すデータ。",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUDNyemg2aXM1anZ1QmNZOVlXdE8tZ253ZmFvM0dPT2NrY0RqZmdhVFhxcmJ0U2o1MERWLWxZRjk1ZmNHVVk3WmtyeUtFVEpTVzZKc0kyeUF3alpRVS1veVNVWmpCLUNQX1Azblc4WFpsY0FlZDdfM0dpNEpQNk1YUDVWWDNsLVU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUDNyemg2aXM1anZ1QmNZOVlXdE8tZ253ZmFvM0dPT2NrY0RqZmdhVFhxcmJ0U2o1MERWLWxZRjk1ZmNHVVk3WmtyeUtFVEpTVzZKc0kyeUF3alpRVS1veVNVWmpCLUNQX1Azblc4WFpsY0FlZDdfM0dpNEpQNk1YUDVWWDNsLVU?oc=5",
+      "source_name": "조선일보",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "opinion",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-06T09:44:52+0900",
+      "status": "candidate",
+      "created_at": "2026-10-01T09:44:52+0900"
+    },
     {
       "seed_id": "seed_beb4593f1ad0",
       "trend_term": "クリニック経営支援SaaS",
@@ -189,24 +207,6 @@
       "demand_signal": "",
       "evidence_card_id": null,
       "valid_until": "2026-10-13T00:47:52+0900",
-      "status": "candidate",
-      "created_at": "2026-09-29T00:47:52+0900"
-    },
-    {
-      "seed_id": "seed_c4913af7cb28",
-      "trend_term": "韓国発ECMスキンブースター導入",
-      "raw_title": "【2026.09ベンスクリニック渋谷】韓国で話題のECMスキンブースター『リアロ（REALLO INJECT FINE）』導入 - Excite エキサイト",
-      "summary": "ベンスクリニック渋谷院が2026年9月、韓国で話題のECMスキンブースター『リアロ』を導入。",
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SeDh4bFRoR05Ed3R0S1N5WGY0emZmRHE2eldTMFpPZ0JKVmR0c1hoZF85a2JKbkR1ZHhjemdBS0w4TEJIeURjRi1nNmhXQmRZUFQyaE8xTjdWZ2ttbTI4cERWN2FiWEctTTNPOHB3WXloTFVx?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SeDh4bFRoR05Ed3R0S1N5WGY0emZmRHE2eldTMFpPZ0JKVmR0c1hoZF85a2JKbkR1ZHhjemdBS0w4TEJIeURjRi1nNmhXQmRZUFQyaE8xTjdWZ2ttbTI4cERWN2FiWEctTTNPOHB3WXloTFVx?oc=5",
-      "source_name": "Excite エキサイト",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-04T00:47:52+0900",
       "status": "candidate",
       "created_at": "2026-09-29T00:47:52+0900"
     },
@@ -479,24 +479,6 @@
       "valid_until": "2026-10-10T16:56:26+0900",
       "status": "candidate",
       "created_at": "2026-09-26T16:56:26+0900"
-    },
-    {
-      "seed_id": "seed_b5e30a92d773",
-      "trend_term": "再生医療の認知と受容度",
-      "raw_title": "【再生医療「詳しくは知らない」58％】説明や条件に納得できれば76％が検討に前向き - 繊研新聞",
-      "summary": "繊研新聞の調査で、再生医療について「詳しくは知らない」が58%。説明や条件に納得できれば76%が検討に前向きという認知と受容のギャップが明らかになった。",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYzFaTDZ4N1ZQT0JlaDBYSWp0dVBOb3FUYU9NV1RxWnp0OUJubFFpNFIzcmxfcks5dGV5cHZXcklSdE1YUTZMOURXeXlmT0VZaWVKdmROVFAxRldUQjAtWHM3VEVZNnMwRkpSUktmT0hNWDVyejl6SXhpVUs1U3pWbXJsZTl6cmNMM25XcU8tUHVyS1FUdnVBV1RUWnllVWtQSnN1YnAzZVk5TmNMMkE?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYzFaTDZ4N1ZQT0JlaDBYSWp0dVBOb3FUYU9NV1RxWnp0OUJubFFpNFIzcmxfcks5dGV5cHZXcklSdE1YUTZMOURXeXlmT0VZaWVKdmROVFAxRldUQjAtWHM3VEVZNnMwRkpSUktmT0hNWDVyejl6SXhpVUs1U3pWbXJsZTl6cmNMM25XcU8tUHVyS1FUdnVBV1RUWnllVWtQSnN1YnAzZVk5TmNMMkE?oc=5",
-      "source_name": "繊研新聞",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-01T09:03:15+0900",
-      "status": "candidate",
-      "created_at": "2026-09-26T09:03:15+0900"
     },
     {
       "seed_id": "seed_e4af94146da0",
