@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-01T18:18:36+0900",
-    "record_count": 29,
-    "source_total_in_db": 1349,
+    "generated_at": "2026-10-01T23:41:42+0900",
+    "record_count": 27,
+    "source_total_in_db": 1350,
     "provenance_breakdown": {
-      "evidence": 862,
+      "evidence": 863,
       "pain_seed": 487
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_df66a8635716",
+      "trend_term": "広島の新規美容クリニック開院",
+      "raw_title": "【八丁堀駅 徒歩1分】オルタ天神クリニック広島中央2026年8月9日開院 - PR TIMES",
+      "summary": "オルタ天神クリニック広島中央が2026年8月9日に八丁堀駅徒歩1分の場所に開院予定。新規開院情報として地域での美容医療選択肢拡大を示す。",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1cG5yeEhyTzhhZENHVlB6TjQ5Mmcwb1RPTEpxcU03aGN4bnBWZU1PQnBDbGtfQnU2Sl9UbGd0elk3SFpycTlDYVREckZhMEYybjFIakcxMVhiY3U0ZGgxT3FVcEltRGJfTVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1cG5yeEhyTzhhZENHVlB6TjQ5Mmcwb1RPTEpxcU03aGN4bnBWZU1PQnBDbGtfQnU2Sl9UbGd0elk3SFpycTlDYVREckZhMEYybjFIakcxMVhiY3U0ZGgxT3FVcEltRGJfTVE?oc=5",
+      "source_name": "PR TIMES",
+      "monitor_id": "bm-market-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-06T23:41:39+0900",
+      "status": "candidate",
+      "created_at": "2026-10-01T23:41:39+0900"
+    },
     {
       "seed_id": "seed_92bb866b1a19",
       "trend_term": "湘南美容クリニック株価割安感",
@@ -337,24 +355,6 @@
       "created_at": "2026-09-27T17:28:29+0900"
     },
     {
-      "seed_id": "seed_e20e1f3fecff",
-      "trend_term": "予約システム連携",
-      "raw_title": "業界初*1 美容クリニック向けサイトコントローラー「らくらく予約マネージャーfor美容クリニック」と美容医療の検索・予約サイト「美容ヒフコ」が今夏、連携開始 | 株式会社シアンのプレスリリース - PR TIMES",
-      "summary": "美容クリニック向け予約管理システム「らくらく予約マネージャー」と検索・予約サイト「美容ヒフコ」が連携開始",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQM3FOd2ZnTVBCYVhwVTJGR1RsUnRHN3k2TGhFOGwwdnJLZG4yYmRwNGVCeVN5blRSM1lKRndBQ3hydkRaVE1fT3FlQ191UWZMUDF0aVZMaWR5YjlOYlZBNGRlbE9GZUFWZUE?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQM3FOd2ZnTVBCYVhwVTJGR1RsUnRHN3k2TGhFOGwwdnJLZG4yYmRwNGVCeVN5blRSM1lKRndBQ3hydkRaVE1fT3FlQ191UWZMUDF0aVZMaWR5YjlOYlZBNGRlbE9GZUFWZUE?oc=5",
-      "source_name": "PR TIMES",
-      "monitor_id": "bm-market-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-02T17:28:29+0900",
-      "status": "candidate",
-      "created_at": "2026-09-27T17:28:29+0900"
-    },
-    {
       "seed_id": "seed_e750e01c3c5e",
       "trend_term": "開院記念キャンペーン",
       "raw_title": "湘南美容クリニック熊本院、開院10年目。地域への感謝を込めた「特別企画」を開催 - CLASSY.[クラッシィ]",
@@ -371,42 +371,6 @@
       "valid_until": "2026-10-02T17:28:29+0900",
       "status": "candidate",
       "created_at": "2026-09-27T17:28:29+0900"
-    },
-    {
-      "seed_id": "seed_d6db321d528e",
-      "trend_term": "美容整形の低年齢化",
-      "raw_title": "加速する美容整形の低年齢化 背景に「SNSの影」 記者ノートfrom湊町（産経新聞） - Yahoo!ニュース",
-      "summary": "SNSの影響により美容整形の低年齢化が進行している現象について、産経新聞記者による報告。読者の世代別動向・社会的背景の理解に価値あり。",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oMTc1SmRmczk1Yk1aR1M5cE52bXhsQ2JKVlZTQ3F3UXhSZnpaMXlzWEtjRUxUT3ZSTi1DaXFCRDNoUVp4MlBlYndpYW9WZXRFTmRCVDYtQ3lOOVZ3TmlRbDE0MFp6Um9uU1pka2VnRUFpRkFnQzdMaDY1NmlWNHM?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oMTc1SmRmczk1Yk1aR1M5cE52bXhsQ2JKVlZTQ3F3UXhSZnpaMXlzWEtjRUxUT3ZSTi1DaXFCRDNoUVp4MlBlYndpYW9WZXRFTmRCVDYtQ3lOOVZ3TmlRbDE0MFp6Um9uU1pka2VnRUFpRkFnQzdMaDY1NmlWNHM?oc=5",
-      "source_name": "Yahoo!ニュース",
-      "monitor_id": "bm-sns-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-01T21:22:57+0900",
-      "status": "candidate",
-      "created_at": "2026-09-26T21:22:57+0900"
-    },
-    {
-      "seed_id": "seed_df93a3997bed",
-      "trend_term": "美容施術の依存リスク",
-      "raw_title": "美容施術経験者の5人に1人が依存リスク――SNSが美のゴールポストを動かす - ｄメニューニュース",
-      "summary": "美容施術経験者の5人に1人が依存リスクを抱えている調査結果。SNSが美の基準設定に与える影響を数値化した報告。",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nTjl3LU5RdTdjWW5mMHFCM2IyWkhRZTBYbnNGUVNWWUF2R1E3bnV1bmVCNTFRbzIxbzE4bHE0REtCcy1jcTY2Y0owdUZpME05SlJUb2xrMFFuZFNjTEJQTmlfU2VVdjVjUnhnTUlyOUxQamd0aEUzbWFn0gF_QVVfeXFMUHBMRnlYYkpJLUxyUGtnNmtueVhSdnNjeWZIYjdydEdEMDM4UHZCd3ZTaE9YXzBEVlpfMU53MjBOa1AwYUgxMUdrMFlCSkFtZ2FSclc2MlZUQ0JVTzZ1MUp4RHktcGNKZlZuNDBVTV9Sc3dwZFVtM296WUJaZ2tEcw?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nTjl3LU5RdTdjWW5mMHFCM2IyWkhRZTBYbnNGUVNWWUF2R1E3bnV1bmVCNTFRbzIxbzE4bHE0REtCcy1jcTY2Y0owdUZpME05SlJUb2xrMFFuZFNjTEJQTmlfU2VVdjVjUnhnTUlyOUxQamd0aEUzbWFn0gF_QVVfeXFMUHBMRnlYYkpJLUxyUGtnNmtueVhSdnNjeWZIYjdydEdEMDM4UHZCd3ZTaE9YXzBEVlpfMU53MjBOa1AwYUgxMUdrMFlCSkFtZ2FSclc2MlZUQ0JVTzZ1MUp4RHktcGNKZlZuNDBVTV9Sc3dwZFVtM296WUJaZ2tEcw?oc=5",
-      "source_name": "ｄメニューニュース",
-      "monitor_id": "bm-sns-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-01T21:22:57+0900",
-      "status": "candidate",
-      "created_at": "2026-09-26T21:22:57+0900"
     },
     {
       "seed_id": "seed_50eed1136c34",
