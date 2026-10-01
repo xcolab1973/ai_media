@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T03:09:00+09:00",
+  "generated_at": "2026-10-01T09:49:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,39 +16,51 @@
       "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 12,
-    "passed_total": 98,
+    "neg_excluded": 11,
+    "dedup_excluded": 11,
+    "passed_total": 100,
     "b2b_category_counts": {
-      "yahoo_realtime": 20,
-      "x_realtime": 8,
+      "yahoo_realtime": 22,
       "google_trends": 10,
+      "x_realtime": 8,
       "news_web": 25,
-      "yahoo_news_ranking": 7
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 15,
+    "social_reaction": 18,
+    "opinion": 8,
+    "medical_science": 4,
     "personal_story": 2,
-    "medical_science": 6,
-    "opinion": 10,
-    "hard_fact": 34,
-    "policy": 3
+    "hard_fact": 30,
+    "policy": 8
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 15,
-    "hard_fact": 35,
-    "medical_science": 5,
-    "opinion": 10,
-    "personal_story": 2,
-    "policy": 3
+    "hard_fact": 32,
+    "social_reaction": 18,
+    "policy": 8,
+    "opinion": 8,
+    "medical_science": 2,
+    "personal_story": 2
   },
   "b2b_top10": [
+    {
+      "title": "太洋物産、宅配ピザ「ナポリの窯」売却　堀江貴文氏は業務執行取締役に - 日本経済",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
     {
       "title": "「欲求に負けた」警察施設で性行為、巡査の男女を処分　奈良県警（毎日新聞） - Y",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "家賃高騰で87歳の女性が退去させられ……スペインの住宅危機、抗議受け政府が対策を",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
     },
     {
       "title": "米軍、IS掃討作戦「正式終了」 イラクから撤収 国防総省",
@@ -57,49 +69,37 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "「終了させました」という表現が不穏？ジャンプラ編集部が林士平氏の会社への編集業務",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "ニデック 株価",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
       "topic_category": "hard_fact"
     },
     {
-      "title": "赤ちゃんの頭のゆがみを矯正するヘルメット治療にルッキズム云々と言う人もいるが、実",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "機長",
+      "title": "ヤンキース 対 レッドソックス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "竜星涼",
+      "title": "仮面ライダーカブト 20th 天を継ぐもの",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "さとふる",
+      "title": "アルゼンチン 対 ボリビア",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "米軍 IS巡るイラクでの任務を終了",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
+      "title": "村上蘭",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "飲食店に推定2歳と5歳の子供を連れてきた客がラーメン1杯だけ注文したと思ったらそ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "ジュエリーツツミに結婚指輪を受け取りに行ったら、親指でも緩いサイズのが出てきたの",
+      "title": "マクド駐輪場所が満車だったので歩道に止めたら新任店長が来て歩道には止めないでほし",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -113,58 +113,58 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "飲食店に推定2歳と5歳の子供を連れてきた客がラーメン1杯だけ注文したと思ったらそ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "ジュエリーツツミに結婚指輪を受け取りに行ったら、親指でも緩いサイズのが出てきたの",
+      "title": "マクド駐輪場所が満車だったので歩道に止めたら新任店長が来て歩道には止めないでほし",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "アクセサリーの色味で迷っている奥さんに「全部同じに見える」と言う旦那さん…そこで",
+      "title": "松戸の東横イン、何があったんだよ「竪穴インになっとる」「外観これなのに中入るとち",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "美人すぎてイジメられていた母と、女を取っ替え引っ替えするほどモテた父の子供なのに",
+      "title": "おぼっちゃまくん REBORN｜テレビ朝日",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "祖母が亡くなった時にひ孫のギャルJKが大泣きしながら自身のメイク道具で死化粧を施",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "ハリー・ポッターのもしも設定なら「ハリーが見た目は母親リリーの生き写しで瞳だけが",
+      "title": "退職予定だった会社から給与が振り込まれていなくて事務所に凸ってみたら今朝から社長",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『カフェオレ専用の急須』なるものが爆誕し「かわいい」「ロイヤルミルクティー的な？",
+      "title": "8月下旬に激安航空券としてSNSで話題になったアラスカ航空の日本発ロサンゼルス行",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "転職で絶対に失敗したくなかった私が「合わない会社」を見極めるためにやったこと -",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "ヤンキース 対 レッドソックス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "赤ちゃんの頭のゆがみを矯正するヘルメット治療にルッキズム云々と言う人もいるが、実",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "title": "仮面ライダーカブト 20th 天を継ぐもの",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "アルゼンチン 対 ボリビア",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "村上蘭",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
