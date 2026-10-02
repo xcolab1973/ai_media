@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:09:00+09:00",
+  "generated_at": "2026-10-03T03:04:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,31 +16,31 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 13,
+    "neg_excluded": 8,
+    "dedup_excluded": 11,
     "passed_total": 113,
     "b2b_category_counts": {
       "yahoo_realtime": 35,
-      "news_web": 15,
       "google_trends": 10,
-      "yahoo_news_ranking": 4,
-      "x_realtime": 6
+      "x_realtime": 7,
+      "yahoo_news_ranking": 3,
+      "news_web": 15
     }
   },
   "note_category_counts": {
-    "social_reaction": 25,
-    "personal_story": 4,
+    "social_reaction": 26,
+    "personal_story": 5,
     "opinion": 9,
-    "policy": 9,
-    "hard_fact": 21,
+    "policy": 5,
+    "hard_fact": 23,
     "medical_science": 2
   },
   "b2b_topic_category_counts": {
-    "policy": 9,
-    "social_reaction": 25,
-    "hard_fact": 23,
+    "policy": 6,
+    "social_reaction": 26,
     "opinion": 9,
-    "personal_story": 4
+    "hard_fact": 24,
+    "personal_story": 5
   },
   "b2b_top10": [
     {
@@ -50,37 +50,31 @@
       "topic_category": "policy"
     },
     {
+      "title": "開発終了が決定した『2XKO』、運営継続には“数十万人から数百万人”のアクティブ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "6カ月前「でっかい肉を食おうぜ…テキサスへようこそ」と投稿しバズったテキサスニキ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "佐川急便 宅配便平均13%値上げへ",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
+      "title": "クリックせずに“腕立て伏せで戦う”新たな放置ゲーム『Incremental Pu",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "鏡優翔",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "雇用統計",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
+      "title": "上だけ服を着て下はパンツだけ…男の子のイラストは恥ずかしいが、女の子は一応サマに",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "内田真礼",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "松本穂香",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -92,19 +86,31 @@
       "topic_category": "opinion"
     },
     {
-      "title": "バレーボール男子",
+      "title": "iphone duo",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "9月に入社した人、採用担当の上司2人が入社2日後に退職し「人事部に採用したことが",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "とあるアンガーマネジメントの本に書かれていた「怒りを皮肉で表現する人」の問題点の",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "激務だと50代くらいで本当に死ぬ…超人的だった教授も死んだ…休息を軽視しないほう",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
+    {
+      "title": "開発終了が決定した『2XKO』、運営継続には“数十万人から数百万人”のアクティブ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "6カ月前「でっかい肉を食おうぜ…テキサスへようこそ」と投稿しバズったテキサスニキ",
       "source_category": "yahoo_realtime",
@@ -112,7 +118,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "9月に入社した人、採用担当の上司2人が入社2日後に退職し「人事部に採用したことが",
+      "title": "クリックせずに“腕立て伏せで戦う”新たな放置ゲーム『Incremental Pu",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "上だけ服を着て下はパンツだけ…男の子のイラストは恥ずかしいが、女の子は一応サマに",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -124,19 +136,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「イヤホンを舐めて耳にねじ込む」女性の性行為時の感覚を語った映画の露骨な内容にシ",
+      "title": "9月に入社した人、採用担当の上司2人が入社2日後に退職し「人事部に採用したことが",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「リンツ詰め放題の缶（5980円）に約15000円分詰める方法」を教えてくれる人",
+      "title": "とあるアンガーマネジメントの本に書かれていた「怒りを皮肉で表現する人」の問題点の",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "今年一番焦ったのは「進撃の巨人」を見たことがない友達と鑑賞会したときに…5話くら",
+      "title": "激務だと50代くらいで本当に死ぬ…超人的だった教授も死んだ…休息を軽視しないほう",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -148,22 +160,10 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "はやぶさ2 エンジンすべて故障 装置つないで再生し飛行継続へ | NHKニュース",
+      "title": "「ｅ－Ｔａｘ」で不具合　贈与税申告内容が閲覧される状態に | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "「バッグでかい女はダサい」と思って生きてきたけど雨で帰宅困難になって地獄を見たの",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「15分ぐらい肉が来なかった」「履歴上では1人で80皿注文したことになった」しゃ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
     }
   ]
 }
