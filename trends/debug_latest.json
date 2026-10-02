@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T16:31:00+09:00",
+  "generated_at": "2026-10-02T23:09:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,106 +16,111 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 3,
-    "dedup_excluded": 8,
-    "passed_total": 121,
+    "neg_excluded": 6,
+    "dedup_excluded": 13,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "x_realtime": 9,
-      "yahoo_realtime": 37,
+      "yahoo_realtime": 35,
+      "news_web": 15,
       "google_trends": 10,
-      "news_web": 12,
-      "yahoo_news_ranking": 2
+      "yahoo_news_ranking": 4,
+      "x_realtime": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
-    "personal_story": 2,
+    "social_reaction": 25,
+    "personal_story": 4,
     "opinion": 9,
-    "medical_science": 4,
-    "policy": 7,
-    "hard_fact": 13
+    "policy": 9,
+    "hard_fact": 21,
+    "medical_science": 2
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
-    "policy": 7,
+    "policy": 9,
+    "social_reaction": 25,
+    "hard_fact": 23,
     "opinion": 9,
-    "hard_fact": 16,
-    "personal_story": 2,
-    "medical_science": 3
+    "personal_story": 4
   },
   "b2b_top10": [
     {
+      "title": "簗氏が発言したとされる会合の音声データ　「予算大幅カット」《無料公開》｜下野新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
       "title": "6カ月前「でっかい肉を食おうぜ…テキサスへようこそ」と投稿しバズったテキサスニキ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「これは危ない」千葉県の道路を走行中、ちょうど首元辺りにロープがかけられた、危険",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「イヤホンを舐めて耳にねじ込む」女性の性行為時の感覚を語った映画の露骨な内容にシ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "首相",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "policy"
-    },
-    {
-      "title": "プルデンシャル",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "黒木千晶",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ミヤネ屋",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "皇居ラン マナー違反の実態調査へ",
+      "title": "佐川急便 宅配便平均13%値上げへ",
       "source_category": "news_web",
-      "raw_source_key": "yahoo_news_local",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "高市早苗",
+      "title": "鏡優翔",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "坂東尚樹",
+      "title": "雇用統計",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "内田真礼",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
+    },
+    {
+      "title": "松本穂香",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "なでしこジャパン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "バレーボール男子",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "9月に入社した人、採用担当の上司2人が入社2日後に退職し「人事部に採用したことが",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
       "title": "6カ月前「でっかい肉を食おうぜ…テキサスへようこそ」と投稿しバズったテキサスニキ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「これは危ない」千葉県の道路を走行中、ちょうど首元辺りにロープがかけられた、危険",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "9月に入社した人、採用担当の上司2人が入社2日後に退職し「人事部に採用したことが",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "その昔、市役所の採用試験の面接で尊敬する人は誰かと聞かれて「ケマル・アタテュルク",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -125,46 +130,40 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「本当に人生そのものを終わらせてしまった人もいる」内閣改造で新農水相に就任した簗",
+      "title": "「リンツ詰め放題の缶（5980円）に約15000円分詰める方法」を教えてくれる人",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "スレッズに和菓子を盛った器を畳に置いた画像を投稿したら「食べ物床に置いてる時点で",
+      "title": "今年一番焦ったのは「進撃の巨人」を見たことがない友達と鑑賞会したときに…5話くら",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "僕が仕事の節目で呼んでいるブログ記事 - ふくしま",
+      "title": "昔は旅館で仲居さんに「これでコーヒーでも飲んでください」と言って、2,000～3",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "米テネシー州、死刑執行に失敗　薬物を2回投与されても死に至らず重体に",
+      "title": "はやぶさ2 エンジンすべて故障 装置つないで再生し飛行継続へ | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "FIIO、手のひらサイズでステレオ再生できるポータブルラジオ「RR13」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「バッグでかい女はダサい」と思って生きてきたけど雨で帰宅困難になって地獄を見たの",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「15分ぐらい肉が来なかった」「履歴上では1人で80皿注文したことになった」しゃ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
-    },
-    {
-      "title": "やっぱりおかしい東京大学　ネット大荒れ「女性枠学長」　大手町の片隅から　乾正人",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『出川哲朗の充電させてもらえませんか？』のテレ東Pが投稿した「仕上げ作業」の編集",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
     }
   ]
 }
