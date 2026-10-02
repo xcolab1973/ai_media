@@ -1,21 +1,51 @@
 {
- "generated_at": "2026-10-01T14:34:01+09:00",
- "valid_until": "2026-10-15T14:32:26+09:00",
+ "generated_at": "2026-10-03T06:28:34+09:00",
+ "valid_until": "2026-10-17T06:26:33+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "auto",
- "total_count": 14,
+ "total_count": 15,
  "merge": {
   "parent": "auto",
-  "from_current": 11,
-  "from_new": 6,
-  "expired_pruned": 2,
+  "from_current": 14,
+  "from_new": 2,
+  "expired_pruned": 0,
   "retention_dropped": 1,
   "genres": 2,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "車検費用が高い…通す？買い替える？損しない判断とディーラー下取りの落とし穴【2026年版】",
+   "url": "https://kaitorirakuda.com/news/news-01M098FEEYT49T7ATBQWVB1JX7",
+   "summary": "車検費用が高いときに車検を通すか買い替えるかの判断軸と、ディーラー下取りの注意点を扱う記事。自賠責値上げ前後の判断に結びつけられる。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "auto-choose-review",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "買取ラクダ",
+    "expert_origin": false,
+    "search_query": "車 買い替え 年末 ボーナス 納期 下取り 買取 失敗 2026",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-10-10T06:26:33+09:00",
+   "validity_days": 7
+  },
   {
    "source_category": "news_web",
    "raw_title": "中古車に詳しい方、購入経験がある方に質問です！中古車の保証ってあっ...",
@@ -195,6 +225,36 @@
    },
    "valid_until": "2026-10-03T08:28:38+09:00",
    "validity_days": 7
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "【完全版】バイクの冬眠準備と起こし方：失敗しないバッテリー/ガソリン対策と長期保管術",
+   "url": "https://oikura.jp/magazine/bike25/",
+   "summary": "バイクを冬に乗らない間のバッテリー・ガソリン対策と冬眠明けの手順をまとめた記事。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "auto-bike",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "oikura",
+    "expert_origin": false,
+    "search_query": "バイク 冬 バッテリー上がり 長期放置 冬眠 保管 対策 乗らない期間",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-10-17T06:26:33+09:00",
+   "validity_days": 14
   },
   {
    "source_category": "news_web",
@@ -404,36 +464,6 @@
     "rescued": false
    },
    "valid_until": "2026-10-05T06:32:26+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "【冬でも安心】バイクのバッテリー上がりを防ぐ！放置期間と対策",
-   "url": "https://tecmate.co.jp/blog/bike-battery-period/",
-   "summary": "冬季は気温低下で電解液の性能が落ち自然放電も進むため、バッテリー上がりまでの目安は1か月程度に短縮。取り外し・定期充電・マイナス端子切断などの保管時対策が必要とされる。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "auto-bike",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "テックメイトジャパン",
-    "expert_origin": false,
-    "search_query": "バイク 冬 保管 バッテリー 上がる 対策 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-10-03T06:33:07+09:00",
    "validity_days": 14
   }
  ]
