@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T03:35:00+09:00",
+  "generated_at": "2026-10-02T10:04:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,52 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 8,
-    "passed_total": 115,
+    "neg_excluded": 5,
+    "dedup_excluded": 10,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
+      "x_realtime": 8,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "x_realtime": 9,
-      "news_web": 12,
-      "yahoo_news_ranking": 2
+      "news_web": 14,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "analysis": 1,
-    "social_reaction": 30,
-    "opinion": 8,
-    "medical_science": 2,
+    "social_reaction": 31,
     "personal_story": 2,
+    "opinion": 10,
     "hard_fact": 21,
-    "policy": 6
+    "medical_science": 1,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 22,
-    "policy": 6,
-    "opinion": 8,
-    "social_reaction": 30,
-    "analysis": 1,
-    "medical_science": 1,
-    "personal_story": 2
+    "social_reaction": 29,
+    "hard_fact": 23,
+    "opinion": 10,
+    "personal_story": 2,
+    "policy": 5,
+    "medical_science": 1
   },
   "b2b_top10": [
+    {
+      "title": "借りていたトランクルームを見にいったら雨漏りしていて天井はカビびっしりで床はビシ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "本当に不謹慎で申し訳ないが、コロナ禍の自粛生活が楽しく、引きこもりが社会的に認め",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「飲食から足を洗う前に、手を洗え」160人ニキになってしまったこめお氏が「割烹こ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
     {
       "title": "伊東四朗「いい爺ィになりました」芸能活動引退発表、来年6月の卒寿誕生日節目にラジ",
       "source_category": "yahoo_realtime",
@@ -53,120 +69,102 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "伊東四朗が引退発表　来年90歳の誕生日で　芸能界で70年…「急速に退化」　ラジオ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ニセ情報に踊る有権者と稼ぐSNS…「アテンション・エコノミー」が壊す選挙のリアル",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "ロト6 結果",
+      "title": "ai",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "デンマーク 対 ポルトガル",
+      "title": "jr",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
-    },
-    {
-      "title": "菊池 風 磨 白 塗り",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ウェールズ 対 ノルウェー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "『図説・日本武器集成』という本を読んでいたら忍具の写真が載っていてその武器の所有",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「お金があればなんでもできることを思い出させてくれる表参道のアップルストア」とい",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
     },
     {
       "title": "下着や靴下をユニクロで買っていたが、すごい勢いで劣化するので同価格帯で良いものが",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "流行語「ドパガキ」どう広がった？内輪の言葉が…Xの90万投稿分析：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「まんま我が家の話かと思った」更年期と反抗期が重なった母娘のリアルな日々を記録し",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "村上蘭",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "国宝級イケメンランキング",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "analysis"
+      "title": "借りていたトランクルームを見にいったら雨漏りしていて天井はカビびっしりで床はビシ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "『図説・日本武器集成』という本を読んでいたら忍具の写真が載っていてその武器の所有",
+      "title": "本当に不謹慎で申し訳ないが、コロナ禍の自粛生活が楽しく、引きこもりが社会的に認め",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「お金があればなんでもできることを思い出させてくれる表参道のアップルストア」とい",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "僕が仕事の節目で呼んでいるブログ記事 - ふくしま",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "下着や靴下をユニクロで買っていたが、すごい勢いで劣化するので同価格帯で良いものが",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ヒゲじいが新種の名前に！ - ダーウィンが来た！からのお知らせ - ダーウィンが",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ちいかわのラベルにしたぐらいで売れると思ってんのウケるw→「買うわけないよね」「",
+      "title": "流行語「ドパガキ」どう広がった？内輪の言葉が…Xの90万投稿分析：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「まんま我が家の話かと思った」更年期と反抗期が重なった母娘のリアルな日々を記録し",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "【絶対にやめてください！】国指定天然記念物「葦毛湿原」で極めて重大な自然破壊行為",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "2歳児がカロナール一袋を飲み終わった時点で医師から電話、通常の2.5倍を誤って処",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「リアルは世知辛くて即物的」小説家・澁澤龍彦は近親相姦にロマンチックさを求めて調",
+      "title": "母は熱を出すと絶対に「体に悪そうなニセモンのサクランボみたいなやつがのった安いケ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "5年前にドン・キホーテで買った「ケツ毛ジョリー」が今でも愛用してる…気軽で刃が直",
+      "title": "キティちゃんのポーチがぶっ壊れてこびとづかんが出てきたんだが…「二度おいしい的な",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "ロト6 結果",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "デンマーク 対 ポルトガル",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ]
 }
