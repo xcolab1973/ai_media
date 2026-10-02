@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-02T17:50:38+0900",
-    "record_count": 29,
-    "source_total_in_db": 1358,
+    "generated_at": "2026-10-02T23:02:58+0900",
+    "record_count": 28,
+    "source_total_in_db": 1360,
     "provenance_breakdown": {
       "evidence": 869,
-      "pain_seed": 489
+      "pain_seed": 491
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_88f4ebdb5ff0",
+      "trend_term": "SNS症例選別の危険性",
+      "raw_title": "【大会長インタビュー】SNS症例で選ぶのは危険!? 失敗しない美容医療と医師の見極め方 - メディカルドック",
+      "summary": "SNS上の症例写真だけで医師や施設を選ぶことのリスク、失敗しない美容医療と医師選びの見極め方について専門家インタビュー",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZZ0pzVGF2TGVLaThMbGRmeExVdVhvV1BQNjVqcjRQeVBVLWROSVRrWjR5MVlOWDZfem1BeUFqV0FXZU83RHFPUzRveXc0UVJEeGZGaUlkejY?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZZ0pzVGF2TGVLaThMbGRmeExVdVhvV1BQNjVqcjRQeVBVLWROSVRrWjR5MVlOWDZfem1BeUFqV0FXZU83RHFPUzRveXc0UVJEeGZGaUlkejY?oc=5",
+      "source_name": "メディカルドック",
+      "monitor_id": "bm-sns-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "opinion",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-16T23:02:58+0900",
+      "status": "candidate",
+      "created_at": "2026-10-02T23:02:58+0900"
+    },
+    {
+      "seed_id": "seed_fad3a3a9b65d",
+      "trend_term": "著名人のヒアルロン酸注入施術公開",
+      "raw_title": "41歳タレント、ヒアルロン酸注入の衝撃姿を公開しスタジオ動揺「ちょちょ！ヤバっ！」「情報量多すぎる」 - Infoseek",
+      "summary": "41歳タレントがヒアルロン酸注入の施術過程を公開。視聴者の反応から、注入施術の見た目の変化や違和感に対する一般的な反応が見える。",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KWGk1YlRTa0dnZ2FTOVZYcjVlNmEzRDJMTzgzNm9NZVFtaVY4Mk5sZTF4SG14T3pFa1ZMNi1wNGkyREJLMTU3ZU5NZFk5SmV5WkxyMm50RHJjN3VwVjBVNkhCdUlaN3PSAWxBVV95cUxOUHRhcjd3UDFPUkliVC1PbVVuUUJ6elNsNU1FS2Nrblc3OFNzeUJvcXp3VDNONGlMNzRrTGlqblcyTnRZVnFOWmZ5NDdkNE56QTNWRnMtQjIzSlppXzMwY2xJUDZENW9GTHRlNDc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KWGk1YlRTa0dnZ2FTOVZYcjVlNmEzRDJMTzgzNm9NZVFtaVY4Mk5sZTF4SG14T3pFa1ZMNi1wNGkyREJLMTU3ZU5NZFk5SmV5WkxyMm50RHJjN3VwVjBVNkhCdUlaN3PSAWxBVV95cUxOUHRhcjd3UDFPUkliVC1PbVVuUUJ6elNsNU1FS2Nrblc3OFNzeUJvcXp3VDNONGlMNzRrTGlqblcyTnRZVnFOWmZ5NDdkNE56QTNWRnMtQjIzSlppXzMwY2xJUDZENW9GTHRlNDc?oc=5",
+      "source_name": "Infoseek",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-07T23:02:33+0900",
+      "status": "candidate",
+      "created_at": "2026-10-02T23:02:33+0900"
+    },
     {
       "seed_id": "seed_b8f5f2aefc1f",
       "trend_term": "SNS症例選別の危険性",
@@ -301,24 +337,6 @@
       "created_at": "2026-09-29T17:53:59+0900"
     },
     {
-      "seed_id": "seed_ac49b4c85668",
-      "trend_term": "芸能人のボトックス透明化",
-      "raw_title": "ソヌ・ヨンヨ、あごにボトックスを打たれた制作陣に「はぁ、何でも」 - 스포탈코리아",
-      "summary": "韓国タレントがボトックス施術を公開で言及。美容医療の可視化・日常化の傾向を示す実例",
-      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5SlZFX3o4bDZZcWxyWEVwUUo0TnItcXZ1MTVZYXc4RnM4T084eGZmOGhITlR6OXUxb3BNQlNlVWVueTVZOVlMYWM2LXRTUUVvTVRKaDRya1QyUF9manZUT3pFeWNVTjVGaWRxTk93?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5SlZFX3o4bDZZcWxyWEVwUUo0TnItcXZ1MTVZYXc4RnM4T084eGZmOGhITlR6OXUxb3BNQlNlVWVueTVZOVlMYWM2LXRTUUVvTVRKaDRya1QyUF9manZUT3pFeWNVTjVGaWRxTk93?oc=5",
-      "source_name": "스포탈코리아",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-04T17:53:42+0900",
-      "status": "candidate",
-      "created_at": "2026-09-29T17:53:42+0900"
-    },
-    {
       "seed_id": "seed_e5ba7e882b36",
       "trend_term": "糸リフト専門医による新施術",
       "raw_title": "聖心美容クリニック、糸リフト・スレッドリフトの専門性を持つ寺町英明医師監修の新施術3種を導入 - Infoseek",
@@ -389,24 +407,6 @@
       "valid_until": "2026-10-03T08:53:58+0900",
       "status": "candidate",
       "created_at": "2026-09-28T08:53:58+0900"
-    },
-    {
-      "seed_id": "seed_e23165470d01",
-      "trend_term": "韓国美容医療の日本向け展開",
-      "raw_title": "【釜山・南浦】日本語対応の美容皮膚科「ベンスクリニック釜山南浦店」が10月5日オープン！開院記念イベントを10月31日 - ニコニコニュース",
-      "summary": "釜山の日本語対応美容皮膚科「ベンスクリニック釜山南浦店」が10月5日にオープン。医療観光ニーズの増加に対応",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWVGI4U1BTYUt3QVVsTkVtdHE4NnFpV3NzdGFoN3JBQVREbllvT3NCMjlraTJvOUNXLVlRdXV2eVlsUWo2RnQ3Z1ljUXJVVGFxSkpQbw?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWVGI4U1BTYUt3QVVsTkVtdHE4NnFpV3NzdGFoN3JBQVREbllvT3NCMjlraTJvOUNXLVlRdXV2eVlsUWo2RnQ3Z1ljUXJVVGFxSkpQbw?oc=5",
-      "source_name": "ニコニコニュース",
-      "monitor_id": "bm-market-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-02T22:13:49+0900",
-      "status": "candidate",
-      "created_at": "2026-09-27T22:13:49+0900"
     },
     {
       "seed_id": "seed_50eed1136c34",
@@ -515,24 +515,6 @@
       "valid_until": "2026-10-03T21:01:07+0900",
       "status": "candidate",
       "created_at": "2026-09-19T21:01:07+0900"
-    },
-    {
-      "seed_id": "seed_d1983348c076",
-      "trend_term": "芸能人の美容施術体験",
-      "raw_title": "ノンスタ井上が美容施術で「若返ってます」 クマとシワ改善で「またイケメンに」「いい感じ」 - ENCOUNT",
-      "summary": "芸能人が美容施術でクマやシワの改善を実感した事例。読者の施術効果への期待値や同じ悩みを持つ層の関心が高い",
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vVVFNSVF0NUlndWhUV1VDdkV5TXVxTkYyaTdlSXlDZEdHR242bDZ5NlVRTDhyUmVZdWI0Qm1xWE1PN1BTdkNtaUtYSndrc1E?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vVVFNSVF0NUlndWhUV1VDdkV5TXVxTkYyaTdlSXlDZEdHR242bDZ5NlVRTDhyUmVZdWI0Qm1xWE1PN1BTdkNtaUtYSndrc1E?oc=5",
-      "source_name": "ENCOUNT",
-      "monitor_id": "bm-sns-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-02T21:20:17+0900",
-      "status": "candidate",
-      "created_at": "2026-09-18T21:20:17+0900"
     }
   ]
 }
