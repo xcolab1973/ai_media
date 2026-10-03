@@ -2,16 +2,88 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-03T17:27:51+0900",
-    "record_count": 27,
-    "source_total_in_db": 1365,
+    "generated_at": "2026-10-03T21:41:26+0900",
+    "record_count": 28,
+    "source_total_in_db": 1369,
     "provenance_breakdown": {
-      "evidence": 873,
-      "pain_seed": 492
+      "evidence": 876,
+      "pain_seed": 493
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_ef8d25608f71",
+      "trend_term": "大手美容クリニック新院開設",
+      "raw_title": "SBCメディカルグループ、「SBCスキンクリニック 宇都宮院」を2026年10月2日（金）に開院 - ニコニコニュース",
+      "summary": "SBCメディカルグループが「SBCスキンクリニック 宇都宮院」を2026年10月2日に開院予定。",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CTm5mdGFZZEgtVF9KNTE5LU5CMEpIRlQ2UXYwaEJHZzA1RElPai1KYWZEbkdKSlVjamwtYXZLVElzSUtJZkd0Ui1pYV9RTGpMYUdwdm5ETWl6SlZ3X19XU3BvT2EwQlozUU5WMmRTM3RhRHd1Q01zM29qdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CTm5mdGFZZEgtVF9KNTE5LU5CMEpIRlQ2UXYwaEJHZzA1RElPai1KYWZEbkdKSlVjamwtYXZLVElzSUtJZkd0Ui1pYV9RTGpMYUdwdm5ETWl6SlZ3X19XU3BvT2EwQlozUU5WMmRTM3RhRHd1Q01zM29qdw?oc=5",
+      "source_name": "ニコニコニュース",
+      "monitor_id": "bm-market-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-08T21:41:21+0900",
+      "status": "candidate",
+      "created_at": "2026-10-03T21:41:21+0900"
+    },
+    {
+      "seed_id": "seed_37fd16b02169",
+      "trend_term": "美容整形アディクション",
+      "raw_title": "《美容整形の光と闇・後編》女性たちの強い欲望を支える美容整形の進歩　施術の幅が広がりコストも大幅に軽減、一方で満足できずに手術を繰り返す「アディクション」の懸念も - news.infoseek.co.jp",
+      "summary": "施術の幅拡大とコスト低減により美容整形が浸透する一方で、満足できずに手術を繰り返す「アディクション」の懸念が指摘されている。",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GSkxNRkF4QkpZTWNwMVlMWUdqSE9WVjdqQnJhcVg4ekNNcVlVT0lfTUFwOVZXODRMSFlPcXdqLUpLZ2xsTFFXNzdNOXYtbHVtTGZIOVdyT1RaaXA4cl9tX3BKWC0wU3dzdUHSAWpBVV95cUxNRkpMTUZBeEJKWU1jcDFZTFlHakhPVlY3akJyYXFYOHpDTXFZVU9JX01BcDlWVzg0TEhZT3F3ai1KS2dsbExRVzc3TTl2LWx1bUxmSDlXck9UWmlwOHJfbV9wSlgtMFN3c3VB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GSkxNRkF4QkpZTWNwMVlMWUdqSE9WVjdqQnJhcVg4ekNNcVlVT0lfTUFwOVZXODRMSFlPcXdqLUpLZ2xsTFFXNzdNOXYtbHVtTGZIOVdyT1RaaXA4cl9tX3BKWC0wU3dzdUHSAWpBVV95cUxNRkpMTUZBeEJKWU1jcDFZTFlHakhPVlY3akJyYXFYOHpDTXFZVU9JX01BcDlWVzg0TEhZT3F3ai1KS2dsbExRVzc3TTl2LWx1bUxmSDlXck9UWmlwOHJfbV9wSlgtMFN3c3VB?oc=5",
+      "source_name": "news.infoseek.co.jp",
+      "monitor_id": "bm-safety-news",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-17T21:41:17+0900",
+      "status": "candidate",
+      "created_at": "2026-10-03T21:41:17+0900"
+    },
+    {
+      "seed_id": "seed_aa9b5af2f2f6",
+      "trend_term": "洗い流さないバブル美容液マスク",
+      "raw_title": "スキンケアブランド「RISM（リズム）」より、洗い流さないバブル美容液マスク「ピコレーザー マイクロバブルブライト」新発売 - 朝日新聞",
+      "summary": "スキンケアブランド「RISM」が洗い流さないバブル美容液マスク「ピコレーザー マイクロバブルブライト」を新発売。新製品の機能・成分・使用感について掘り下げるネタとして活用可能。",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tWUo4N3hNUzNlZmpHV2RLblM4NHhRcThVdkhnNVYzSF9TbldQNlc5NG4zaFUwOVpmU2VCeWZSUEZ4U3ZFUmpBOHNNdTJObE5WWlZIQVVjTi1ac3M?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tWUo4N3hNUzNlZmpHV2RLblM4NHhRcThVdkhnNVYzSF9TbldQNlc5NG4zaFUwOVpmU2VCeWZSUEZ4U3ZFUmpBOHNNdTJObE5WWlZIQVVjTi1ac3M?oc=5",
+      "source_name": "朝日新聞",
+      "monitor_id": "bm-machine-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-08T21:41:08+0900",
+      "status": "candidate",
+      "created_at": "2026-10-03T21:41:08+0900"
+    },
+    {
+      "seed_id": "seed_07b5bdf3d223",
+      "trend_term": "人体組織輸入と美容用途",
+      "raw_title": "韓国・輸入「人体組織」も治療目的へ優先配分を検討…美容用スキンブースター急増で - news.infoseek.co.jp",
+      "summary": "韓国・輸入の人体組織が治療目的への優先配分検討対象となり、美容用スキンブースター急増が背景にある制度的動き",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PTWpiTm9uY2Y2ZHNrTEkwRUdmWlc0OHFPTjk2ZzFzdERrTXRsR2dOSGY5TGZZeVlCV0JCSDRTQTBUcWRSa1BDYTlBTDBYLWlvOWI4ZHRMSmczSlBERXJlMEZIT3bSAWpBVV95cUxOUWhTY1ZCQlAwWEsyWkhnYVFyLWZncnhoVDh4RmJER2E2LTg1Q1ZnbUNFTHhGMDE4enVEREx6NHlKNkZ2Q0NTaUViQnZqZW5MTzNXNnZyNldWM2d1ZndFYU96QzZ2OHFwMnRB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PTWpiTm9uY2Y2ZHNrTEkwRUdmWlc0OHFPTjk2ZzFzdERrTXRsR2dOSGY5TGZZeVlCV0JCSDRTQTBUcWRSa1BDYTlBTDBYLWlvOWI4ZHRMSmczSlBERXJlMEZIT3bSAWpBVV95cUxOUWhTY1ZCQlAwWEsyWkhnYVFyLWZncnhoVDh4RmJER2E2LTg1Q1ZnbUNFTHhGMDE4enVEREx6NHlKNkZ2Q0NTaUViQnZqZW5MTzNXNnZyNldWM2d1ZndFYU96QzZ2OHFwMnRB?oc=5",
+      "source_name": "news.infoseek.co.jp",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-08T21:41:03+0900",
+      "status": "candidate",
+      "created_at": "2026-10-03T21:41:03+0900"
+    },
     {
       "seed_id": "seed_0c83167c5727",
       "trend_term": "次世代ECMスキンブースター",
@@ -247,24 +319,6 @@
       "created_at": "2026-10-02T10:02:11+0900"
     },
     {
-      "seed_id": "seed_bba789166c91",
-      "trend_term": "韓国発hADM配合注入剤",
-      "raw_title": "【ベンスクリニック新宿院】韓国で話題のhADM配合スキンブースター「リトゥオ（Re2O）」「ティシボ（TISSIVO）」開始・大型連休中も毎日休まず通常営業 - prtimes.jp",
-      "summary": "ベンスクリニック新宿院がhADM配合スキンブースター「リトゥオ」「ティシボ」導入開始。",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5WXVRbjR3ZmhKbFE2QXUybk5ZU3RzVVBURnhBVmowUHFjclZSOXNndmlpX3QxWFY0SVlmeFNNZVhsUi1Za3lhYnFUdlJQbmV5SFdpcjhtcVltcHFfMlk1V3pnS19FWVRadUE?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5WXVRbjR3ZmhKbFE2QXUybk5ZU3RzVVBURnhBVmowUHFjclZSOXNndmlpX3QxWFY0SVlmeFNNZVhsUi1Za3lhYnFUdlJQbmV5SFdpcjhtcVltcHFfMlk1V3pnS19FWVRadUE?oc=5",
-      "source_name": "prtimes.jp",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-07T10:02:11+0900",
-      "status": "candidate",
-      "created_at": "2026-10-02T10:02:11+0900"
-    },
-    {
       "seed_id": "seed_df66a8635716",
       "trend_term": "広島の新規美容クリニック開院",
       "raw_title": "【八丁堀駅 徒歩1分】オルタ天神クリニック広島中央2026年8月9日開院 - PR TIMES",
@@ -353,24 +407,6 @@
       "valid_until": "2026-10-04T17:53:59+0900",
       "status": "candidate",
       "created_at": "2026-09-29T17:53:59+0900"
-    },
-    {
-      "seed_id": "seed_e5ba7e882b36",
-      "trend_term": "糸リフト専門医による新施術",
-      "raw_title": "聖心美容クリニック、糸リフト・スレッドリフトの専門性を持つ寺町英明医師監修の新施術3種を導入 - Infoseek",
-      "summary": "聖心美容クリニックが糸リフト・スレッドリフト専門の寺町英明医師監修による新施術3種を導入。医師の専門性に基づく施術展開。",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JaFhlZG5aLW1CcEhYYUhKbTd2Ym9sS0tCWEx5V0Z0U1hELUpnQzY3Z1ZlbWhZRE1HRFRnekJsU2piREtCSW1QUTc5YXU5Mm4tNnJrWUM1b2NOZlhKNWdRRmJZVHU1RWRNQ1BUaU1LSnRnZw?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JaFhlZG5aLW1CcEhYYUhKbTd2Ym9sS0tCWEx5V0Z0U1hELUpnQzY3Z1ZlbWhZRE1HRFRnekJsU2piREtCSW1QUTc5YXU5Mm4tNnJrWUM1b2NOZlhKNWdRRmJZVHU1RWRNQ1BUaU1LSnRnZw?oc=5",
-      "source_name": "Infoseek",
-      "monitor_id": "bm-market-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-03T17:53:24+0900",
-      "status": "candidate",
-      "created_at": "2026-09-28T17:53:24+0900"
     },
     {
       "seed_id": "seed_bda168ea2842",
@@ -479,24 +515,6 @@
       "valid_until": "2026-10-04T21:34:26+0900",
       "status": "candidate",
       "created_at": "2026-09-20T21:34:26+0900"
-    },
-    {
-      "seed_id": "seed_7a737f7280af",
-      "trend_term": "美容施術の痛み体験",
-      "raw_title": "EXIT兼近、りんたろー。から勧められた美容施術に衝撃「痛すぎて」 - ABEMA TIMES",
-      "summary": "有名人が美容施術を受けた際の痛みについての体験談。施術選択時の痛みリスクを検討する読者の悩み種として価値あり。",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yd3lQb0NJR3otXy0ycXZ4QjI0QmFQTkowMWFxWnhaVmZHalZOSDhLQzB2OHlJT3BwdXR1RGRVLXlFVUhaNzNGYTdZUXV2Vi1tRkRMRg?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yd3lQb0NJR3otXy0ycXZ4QjI0QmFQTkowMWFxWnhaVmZHalZOSDhLQzB2OHlJT3BwdXR1RGRVLXlFVUhaNzNGYTdZUXV2Vi1tRkRMRg?oc=5",
-      "source_name": "ABEMA TIMES",
-      "monitor_id": "bm-machine-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "opinion",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-03T21:01:07+0900",
-      "status": "candidate",
-      "created_at": "2026-09-19T21:01:07+0900"
     }
   ]
 }
