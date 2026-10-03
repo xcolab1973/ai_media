@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T03:04:00+09:00",
+  "generated_at": "2026-10-03T09:43:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,33 +16,39 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 11,
+    "neg_excluded": 9,
+    "dedup_excluded": 10,
     "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_news_ranking": 6,
+      "yahoo_realtime": 33,
+      "x_realtime": 9,
       "google_trends": 10,
-      "x_realtime": 7,
-      "yahoo_news_ranking": 3,
-      "news_web": 15
+      "news_web": 12
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
-    "personal_story": 5,
-    "opinion": 9,
-    "policy": 5,
-    "hard_fact": 23,
-    "medical_science": 2
+    "social_reaction": 29,
+    "opinion": 10,
+    "personal_story": 3,
+    "hard_fact": 19,
+    "policy": 8,
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "policy": 6,
-    "social_reaction": 26,
-    "opinion": 9,
-    "hard_fact": 24,
-    "personal_story": 5
+    "hard_fact": 20,
+    "policy": 8,
+    "social_reaction": 29,
+    "opinion": 10,
+    "personal_story": 3
   },
   "b2b_top10": [
+    {
+      "title": "配膳で「横取り」しゃぶ葉対策へ",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
+      "topic_category": "hard_fact"
+    },
     {
       "title": "簗氏が発言したとされる会合の音声データ　「予算大幅カット」《無料公開》｜下野新聞",
       "source_category": "yahoo_realtime",
@@ -50,119 +56,113 @@
       "topic_category": "policy"
     },
     {
-      "title": "開発終了が決定した『2XKO』、運営継続には“数十万人から数百万人”のアクティブ",
+      "title": "おひとり様高齢者、難しい身分保証　入院・介護へ備えるサービスに需要 - 日本経済",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "6カ月前「でっかい肉を食おうぜ…テキサスへようこそ」と投稿しバズったテキサスニキ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「同じ場所に正確に刃を入れられるのがすごい」竹林の伐採に日本刀で挑戦するも失敗→",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "クリックせずに“腕立て伏せで戦う”新たな放置ゲーム『Incremental Pu",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "上だけ服を着て下はパンツだけ…男の子のイラストは恥ずかしいが、女の子は一応サマに",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "内田真礼",
+      "title": "ライフ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "なでしこジャパン",
+      "title": "有村架純",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "iphone duo",
+      "title": "なるはやで",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "佐久間宣行",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
       "title": "とあるアンガーマネジメントの本に書かれていた「怒りを皮肉で表現する人」の問題点の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "激務だと50代くらいで本当に死ぬ…超人的だった教授も死んだ…休息を軽視しないほう",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "簗和生農相、予算カット発言を認める　辞任は否定　自民内には支援しなかったことへの",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
     }
   ],
   "note_top10": [
     {
-      "title": "開発終了が決定した『2XKO』、運営継続には“数十万人から数百万人”のアクティブ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「同じ場所に正確に刃を入れられるのがすごい」竹林の伐採に日本刀で挑戦するも失敗→",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "6カ月前「でっかい肉を食おうぜ…テキサスへようこそ」と投稿しバズったテキサスニキ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "クリックせずに“腕立て伏せで戦う”新たな放置ゲーム『Incremental Pu",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "上だけ服を着て下はパンツだけ…男の子のイラストは恥ずかしいが、女の子は一応サマに",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "その昔、市役所の採用試験の面接で尊敬する人は誰かと聞かれて「ケマル・アタテュルク",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "9月に入社した人、採用担当の上司2人が入社2日後に退職し「人事部に採用したことが",
+      "title": "おひとり様高齢者、難しい身分保証　入院・介護へ備えるサービスに需要 - 日本経済",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "とあるアンガーマネジメントの本に書かれていた「怒りを皮肉で表現する人」の問題点の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "職場に面接に来ていた方が急に意識不明になり、あえぐような呼吸で心停止に見えたので",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ピアノ教室で練習不足について先生から「いつ練習してるの？」と詰問され、1週間の習",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "もう退会してたけどタイムズカーの情報漏洩に含まれていたので、いまからでも個人情報",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "母「Cookieて何！？同意してもいいの～！？」私「Cookieは全員よく分かっ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "激務だと50代くらいで本当に死ぬ…超人的だった教授も死んだ…休息を軽視しないほう",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "なんか歴史の先生が無敵モード入ってどの先生は元教え子と結婚してるとか言い出して神",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "昔は旅館で仲居さんに「これでコーヒーでも飲んでください」と言って、2,000～3",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ｅ－Ｔａｘ」で不具合　贈与税申告内容が閲覧される状態に | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「これって海老入ってますか」だけだと「海老が入ってたら嬉しい」から「エビアレルギ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
