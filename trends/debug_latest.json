@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T09:43:00+09:00",
+  "generated_at": "2026-10-03T16:06:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,151 +16,150 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 10,
-    "passed_total": 113,
+    "neg_excluded": 6,
+    "dedup_excluded": 12,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_news_ranking": 6,
-      "yahoo_realtime": 33,
-      "x_realtime": 9,
+      "yahoo_realtime": 37,
+      "x_realtime": 6,
       "google_trends": 10,
-      "news_web": 12
+      "yahoo_news_ranking": 6,
+      "news_web": 11
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "opinion": 10,
+    "social_reaction": 32,
     "personal_story": 3,
-    "hard_fact": 19,
-    "policy": 8,
-    "medical_science": 1
+    "opinion": 10,
+    "hard_fact": 22,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 20,
-    "policy": 8,
-    "social_reaction": 29,
+    "social_reaction": 32,
+    "hard_fact": 22,
     "opinion": 10,
-    "personal_story": 3
+    "personal_story": 3,
+    "policy": 3
   },
   "b2b_top10": [
     {
-      "title": "配膳で「横取り」しゃぶ葉対策へ",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "簗氏が発言したとされる会合の音声データ　「予算大幅カット」《無料公開》｜下野新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "おひとり様高齢者、難しい身分保証　入院・介護へ備えるサービスに需要 - 日本経済",
+      "title": "「今日はお前らにタイ人OL給料の消え方紹介する。よく聞け」アラサーOLの平均月収",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「同じ場所に正確に刃を入れられるのがすごい」竹林の伐採に日本刀で挑戦するも失敗→",
+      "title": "冷凍餃子を一気に全部焼く時の並べ方の正解はこれです「いつも円にして皿から少しはみ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ライフ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "ロシア東部で女性がペストにより死亡 高官",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "有村架純",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "なるはやで",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "佐久間宣行",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "とあるアンガーマネジメントの本に書かれていた「怒りを皮肉で表現する人」の問題点の",
+      "title": "Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "簗和生農相、予算カット発言を認める　辞任は否定　自民内には支援しなかったことへの",
+      "title": "「詰んだ…開かない…たすけて…」Amazonから読めない字で宅配ボックスの暗証番",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "富山市 人口水増し",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "上野由岐子",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "吉野家 豚角煮定食",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "広島 対 阪神",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "「同じ場所に正確に刃を入れられるのがすごい」竹林の伐採に日本刀で挑戦するも失敗→",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "おひとり様高齢者、難しい身分保証　入院・介護へ備えるサービスに需要 - 日本経済",
+      "title": "「今日はお前らにタイ人OL給料の消え方紹介する。よく聞け」アラサーOLの平均月収",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "とあるアンガーマネジメントの本に書かれていた「怒りを皮肉で表現する人」の問題点の",
+      "title": "冷凍餃子を一気に全部焼く時の並べ方の正解はこれです「いつも円にして皿から少しはみ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "職場に面接に来ていた方が急に意識不明になり、あえぐような呼吸で心停止に見えたので",
+      "title": "「詰んだ…開かない…たすけて…」Amazonから読めない字で宅配ボックスの暗証番",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "子猫がミルクを飲むたびお腹がぽんぽこりんになる…獣医さんは爆笑してたけど、私も笑",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "ピアノ教室で練習不足について先生から「いつ練習してるの？」と詰問され、1週間の習",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "もう退会してたけどタイムズカーの情報漏洩に含まれていたので、いまからでも個人情報",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "母「Cookieて何！？同意してもいいの～！？」私「Cookieは全員よく分かっ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "激務だと50代くらいで本当に死ぬ…超人的だった教授も死んだ…休息を軽視しないほう",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "なんか歴史の先生が無敵モード入ってどの先生は元教え子と結婚してるとか言い出して神",
+      "title": "宿にチェックインしたら様子がおかしくて、入る建物を間違ったんかと思って混乱したが",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「これって海老入ってますか」だけだと「海老が入ってたら嬉しい」から「エビアレルギ",
+      "title": "「このお父さん『働きやすさマップ』を作ったというのがすごすぎる」ASDの息子を持",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "窓の外に飼い主を発見した犬がわちゃわちゃして、猫がひたすら冷静な動画「なぜ猫をわ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
