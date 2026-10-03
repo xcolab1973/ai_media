@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T06:28:34+09:00",
+ "generated_at": "2026-10-03T16:39:01+09:00",
  "valid_until": "2026-10-17T06:28:08+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "sports",
   "from_current": 16,
-  "from_new": 8,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 8,
+  "retention_dropped": 1,
   "genres": 2,
   "retention_per_genre": 8
  },
@@ -258,6 +258,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "ドジャース戦の地上波NHK中継・Amazon配信・無料視聴はある？",
+   "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/how-to-watch-dodgers-games-2026-on-nhk-and-amazon-for-free/blt12354bac6932cc32",
+   "summary": "ドジャース戦をNHK中継やAmazon配信、無料で見られるかを整理した記事。ポストシーズンでどの視聴手段を選ぶべきかという二次質問に繋がる。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "sports-watch",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Goal.com Japan",
+    "expert_origin": false,
+    "search_query": "2026 ワールドシリーズ 日程 視聴方法 ドジャース ポストシーズン U-NEXT NHK",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-10-08T16:38:22+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "【最新版】アジア競技大会・愛知・名古屋2026｜日程・日本時間・放送予定・ライブ配信・日本代表・選手一覧・見どころ",
    "url": "https://www.olympics.com/ja/news/20th-asian-games-aichi-nagoya-2026-complete-guide",
    "summary": "愛知・名古屋アジア大会2026の日程・放送予定・配信・日本代表・見どころをまとめたOlympics.comの総合ガイド。大会は終盤にあたり、競技別の視聴先や見る順番に迷う観戦者向けの入口になる。",
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-10-06T16:37:34+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "2026年新人選手選択会議「プロ野球ドラフト会議 supported by リポビタンＤ」 開催要項・チケット発売要項",
-   "url": "https://sports.yahoo.co.jp/official/detail/2026092900065-spnaviow",
-   "summary": "2026年のプロ野球ドラフト会議の開催要項とチケット発売要項（スポーツナビ掲載の公式告知）。日程・観覧方法を確認でき、観戦計画や視聴方法を調べる読者の裏取りに使える。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "sports-watch",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "スポーツナビ",
-    "expert_origin": true,
-    "search_query": "プロ野球 ドラフト会議 2026 見どころ 視聴方法 配信",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-10-06T14:33:33+09:00",
    "validity_days": 5
   }
  ]
