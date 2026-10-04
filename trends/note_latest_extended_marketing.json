@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-10-04T06:32:15+09:00",
+ "generated_at": "2026-10-04T16:41:45+09:00",
  "valid_until": "2026-10-18T06:30:33+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "marketing",
- "total_count": 39,
+ "total_count": 38,
  "merge": {
   "parent": "marketing",
-  "from_current": 35,
-  "from_new": 5,
-  "expired_pruned": 0,
+  "from_current": 39,
+  "from_new": 1,
+  "expired_pruned": 1,
   "retention_dropped": 1,
   "genres": 5,
   "retention_per_genre": 8
@@ -194,36 +194,6 @@
     "rescued": false
    },
    "valid_until": "2026-10-10T08:30:17+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "CRMが定着しない7つの原因と立て直し方｜「入れたのに使われない」は運用で直せる",
-   "url": "https://etika.life/ai-sales-growth/crm-adoption-failure",
-   "summary": "CRMを導入したのに現場に定着しない中小企業でよく見られる7つの原因（目的の曖昧さ、現場との乖離、運用ルール不明瞭など）と立て直し方を整理。「入れたのに使われない」という読者の典型的なつまずきを扱う。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "marketing-crm",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "etika",
-    "expert_origin": false,
-    "search_query": "CRM導入 失敗 理由 選び方 中小企業 定着しない",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-10-04T06:34:45+09:00",
    "validity_days": 14
   },
   {
@@ -948,6 +918,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "Google のコア／スパムアップデート 2026年の一覧【9月時点】— 順位が落ちたときに Search Console で確かめる順番",
+   "url": "https://tufecompany.co.jp/blog/google-core-spam-update-2026-ranking-drop-check-guide",
+   "summary": "順位下落時にSearch Consoleで確認する順番を整理した記事。で、自分はどうすればいいという二次質問に対応する角度。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "marketing-web",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "tufecompany",
+    "expert_origin": false,
+    "search_query": "Google コアアップデート 2026 年末商戦 SEO 順位 下落 対処",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-10-09T16:38:24+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "2026年個人情報保護法改正の概要(3) ―課徴金制度と施行に向けた今後の動き―",
    "url": "https://stellexlaw.com/ja/japan-appi-2026-amendments-surcharge-system-enforcement/",
    "summary": "法律事務所による課徴金制度と施行に向けた動きの解説。法的裏取りに使える専門家ソース。",
@@ -1154,36 +1154,6 @@
     "rescued": false
    },
    "valid_until": "2026-10-05T16:37:03+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "特商法にダークパターン規制｜2026年8月の中間取りまとめ案を弁護士が読む",
-   "url": "https://haruki-law-cla.net/blog-post29/",
-   "summary": "消費者庁が2026年8月に公表したダークパターン規制の中間取りまとめ案を弁護士が解説。解約導線の複雑さや最終確認画面、アップセル表示などWebサイトのUI設計が特商法改正で規制対象になり得る点を指摘。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "marketing-web",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "はるき法律事務所",
-    "expert_origin": true,
-    "search_query": "ダークパターン規制 中間とりまとめ LP 解約導線 何が禁止 消費者庁",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-10-04T16:43:00+09:00",
    "validity_days": 5
   }
  ]
