@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T22:29:00+09:00",
+  "generated_at": "2026-10-05T02:05:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,66 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 9,
-    "passed_total": 113,
+    "neg_excluded": 7,
+    "dedup_excluded": 10,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 38,
+      "yahoo_realtime": 39,
       "x_realtime": 7,
       "google_trends": 10,
-      "news_web": 12,
+      "news_web": 11,
       "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "personal_story": 2,
+    "social_reaction": 35,
+    "personal_story": 3,
     "opinion": 10,
-    "policy": 9,
-    "medical_science": 6,
-    "hard_fact": 14
+    "medical_science": 5,
+    "hard_fact": 14,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "policy": 9,
+    "social_reaction": 35,
+    "hard_fact": 16,
     "opinion": 10,
-    "hard_fact": 17,
-    "medical_science": 3,
-    "personal_story": 2
+    "personal_story": 3,
+    "policy": 4,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
+      "title": "[第17話]打ち切られ漫画家と同人女 - 澄ヒビト | 少年ジャンプ＋",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "[104話]ケントゥリア - 暗森透 | 少年ジャンプ＋",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "あるゲームセンターで客のマナーが悪すぎて「イニシャルD」「湾岸ミッドナイト」を撤",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「死因特定推理ゲーム」空前のブーム到来。『未整理記録』など無料で面白いゲームも続",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
       "title": "データセンター急増、地域に波紋　マンション隣にも、住民「だまされた気持ち」国も対",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「雑に扱うと面倒、と思わせるのは大事」大手金融機関に無限のAI対応やられ実質ノー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -57,49 +87,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "【閲覧注意】「内容があまりにもひどくて吐き気を催した」山形一家3人殺傷事件、犯人",
+      "title": "個人向けGeminiのモデル選択が厳格化　無料ユーザーが使えるのは「Flash-",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「予算大幅カット」発言が物議を醸している簗農水相、下野新聞が週刊誌がカットした部",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "「雑に扱うと面倒、と思わせるのは大事」大手金融機関に無限のAI対応やられ実質ノー",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「King & Prince」髙橋海人が「KAITO」としてソロ活動開始…公式タ",
+      "title": "荒木飛呂彦｜マンガ家が選ぶ思い出の一話｜SHUEISHA MANGA EXPO ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "広瀬アリス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ジャミーン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "グリーンチャンネル",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "abema",
+      "title": "石川雅規",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,6 +107,18 @@
   ],
   "note_top10": [
     {
+      "title": "[第17話]打ち切られ漫画家と同人女 - 澄ヒビト | 少年ジャンプ＋",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "[104話]ケントゥリア - 暗森透 | 少年ジャンプ＋",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "データセンター急増、地域に波紋　マンション隣にも、住民「だまされた気持ち」国も対",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
@@ -119,49 +131,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "【閲覧注意】「内容があまりにもひどくて吐き気を催した」山形一家3人殺傷事件、犯人",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "あるゲームセンターで客のマナーが悪すぎて「イニシャルD」「湾岸ミッドナイト」を撤",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "「雑に扱うと面倒、と思わせるのは大事」大手金融機関に無限のAI対応やられ実質ノー",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「King & Prince」髙橋海人が「KAITO」としてソロ活動開始…公式タ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "無職転生見てて思うけど、一夫多妻制って若い頃なら憧れるけど、オッサンになってから",
+      "title": "個人向けGeminiのモデル選択が厳格化　無料ユーザーが使えるのは「Flash-",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "自信を持ってオススメ出来るお取り寄せグルメまとめ｜山本さほ",
+      "title": "荒木飛呂彦｜マンガ家が選ぶ思い出の一話｜SHUEISHA MANGA EXPO ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "塩を作りたいなら海水を煮込めばいいじゃない？→能登半島にある珠洲製塩が作った「揚",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "[1話]のろのろぷくぷく - 茶んた | 少年ジャンプ＋",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「『お前もう船降りろ』の強火版……」訓練中の水分摂取を過度に制限した陸自隊員9人",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "猫が1匹で留守番できる時間はどれくらい？獣医によると8〜12時間、最高でも24時",
+      "title": "世界中のソフトウェア開発者の実態を調べた「State of Devs 2026」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
