@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-04T17:40:32+0900",
-    "record_count": 33,
-    "source_total_in_db": 1379,
+    "generated_at": "2026-10-04T22:24:02+0900",
+    "record_count": 32,
+    "source_total_in_db": 1381,
     "provenance_breakdown": {
-      "evidence": 881,
+      "evidence": 883,
       "pain_seed": 498
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_8e14ba972d63",
+      "trend_term": "膝関節再生医療の臨床展開",
+      "raw_title": "ひざの再生医療「セルバンク」 第98回日本整形外科学会学術総会に出展 - PR TIMES",
+      "summary": "膝の再生医療「セルバンク」が日本整形外科学会学術総会に出展。医学会での正式な学術発表機会であることから、臨床データ・研究知見の開示が期待される。",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXREx1a250WHkyODdjUzBHcktqYlFONjdxZzZrNE83eWNzRmtzUFlGSWJrQmtHNUxmSHFBdmhKWUFJa0FGUzhZYmFNQzRZY0tRQmZ6VzFvZjRQdy0xRjN2S3Z2ZWsxVEhIamc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXREx1a250WHkyODdjUzBHcktqYlFONjdxZzZrNE83eWNzRmtzUFlGSWJrQmtHNUxmSHFBdmhKWUFJa0FGUzhZYmFNQzRZY0tRQmZ6VzFvZjRQdy0xRjN2S3Z2ZWsxVEhIamc?oc=5",
+      "source_name": "PR TIMES",
+      "monitor_id": "bm-regen-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-09T22:23:46+0900",
+      "status": "candidate",
+      "created_at": "2026-10-04T22:23:46+0900"
+    },
+    {
+      "seed_id": "seed_1812c7bd1849",
+      "trend_term": "韓国発スキンブースター",
+      "raw_title": "【2026年ベンスクリニック名古屋院】韓国で話題のhADM配合スキンブースター「リトゥオ（Re2O）」に続き「ティシボ - ニコニコニュース",
+      "summary": "韓国で話題のhADM配合スキンブースター「リトゥオ（Re2O）」が日本の医療機関で導入された新しい美容医療トレンド",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwNkMyYnA3YUZ4cFV1cVViMll2R0RJSm1Qb0xVRzFLazBQYmgtSGFQWk5ka1lfTnRIZC1vdHNxeHhPNnhxWHlpcGJpcXQ3R096TjhwMg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwNkMyYnA3YUZ4cFV1cVViMll2R0RJSm1Qb0xVRzFLazBQYmgtSGFQWk5ka1lfTnRIZC1vdHNxeHhPNnhxWHlpcGJpcXQ3R096TjhwMg?oc=5",
+      "source_name": "ニコニコニュース",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-09T22:23:38+0900",
+      "status": "candidate",
+      "created_at": "2026-10-04T22:23:38+0900"
+    },
     {
       "seed_id": "seed_d56b3f72459a",
       "trend_term": "美容整形業界の実態描写",
@@ -265,24 +301,6 @@
       "created_at": "2026-10-03T21:41:03+0900"
     },
     {
-      "seed_id": "seed_0c83167c5727",
-      "trend_term": "次世代ECMスキンブースター",
-      "raw_title": "［2026年9月］ベンスクリニック名古屋院、次世代ECMスキンブースター「ティシボ」「Re2O（ブナジュ）」を導入決定（PR TIMES） - mainichi.jp",
-      "summary": "ベンスクリニック名古屋院が2026年9月に次世代ECMスキンブースター「ティシボ」「Re2O（ブナジュ）」の導入を決定。",
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUNVNPbkUzNTJHMVFQSHkzNTZHSmFkZGJhVFBmcGN5THhqckNTcWNucGktOHNlR3FRZXdLQVlTZ2ZpVzZfcWdRalhDbDZkVXd3WmdkWGxkak52b0lDUzNzVWhxQmN5MDRB?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUNVNPbkUzNTJHMVFQSHkzNTZHSmFkZGJhVFBmcGN5THhqckNTcWNucGktOHNlR3FRZXdLQVlTZ2ZpVzZfcWdRalhDbDZkVXd3WmdkWGxkak52b0lDUzNzVWhxQmN5MDRB?oc=5",
-      "source_name": "mainichi.jp",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-08T17:27:31+0900",
-      "status": "candidate",
-      "created_at": "2026-10-03T17:27:31+0900"
-    },
-    {
       "seed_id": "seed_68f71d07eea8",
       "trend_term": "hADM配合スキンブースター",
       "raw_title": "【ベンスクリニック新宿院】韓国で話題のhADM配合スキンブースター「リトゥオ（Re2O）」「ティシボ（TISSIVO）」開始・大型連休中も毎日休まず通常営業 - Infoseek",
@@ -481,24 +499,6 @@
       "created_at": "2026-09-30T17:53:44+0900"
     },
     {
-      "seed_id": "seed_cc4500918fe7",
-      "trend_term": "美容医療特化の人材紹介",
-      "raw_title": "美容医療業界特化の人材紹介「リバビキャリア」、サービス開始から1年 - ニコニコニュース",
-      "summary": "美容医療業界向け人材紹介サービス「リバビキャリア」がサービス開始から1年を迎えた。業界の人材需要と採用動向の実態",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iaV8zc2d6WjNGbXY1cHV0TTlfMi1qWEhwaEQwOEU4VE1ST0VXWGxCNl9HYmV6MHB0QXdNeld2OHNMTjl0NDE1ZngzVHJyZlRhT1BnRA?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iaV8zc2d6WjNGbXY1cHV0TTlfMi1qWEhwaEQwOEU4VE1ST0VXWGxCNl9HYmV6MHB0QXdNeld2OHNMTjl0NDE1ZngzVHJyZlRhT1BnRA?oc=5",
-      "source_name": "ニコニコニュース",
-      "monitor_id": "bm-market-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-04T17:53:59+0900",
-      "status": "candidate",
-      "created_at": "2026-09-29T17:53:59+0900"
-    },
-    {
       "seed_id": "seed_bda168ea2842",
       "trend_term": "医療HIFU施設選択",
       "raw_title": "京都の医療ハイフ（HIFU）がおすすめのクリニック - マイベスト",
@@ -587,24 +587,6 @@
       "valid_until": "2026-10-05T23:27:19+0900",
       "status": "candidate",
       "created_at": "2026-09-21T23:27:19+0900"
-    },
-    {
-      "seed_id": "seed_7560f423045b",
-      "trend_term": "施術による皮膚損傷リスク",
-      "raw_title": "美容施術で顔に火傷、元AOAミナのすっぴん近影にファンから心配の声「激痩せした」 - Kagit",
-      "summary": "美容施術で顔に火傷を負った事例。患者の健康状態の変化についてのファンの懸念がある。",
-      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VdnVQUzBSWk9JNjVTczNpVjhyVEVONFMybmZmUmc1VjRNNjNySTZlWDc5dHJwWnZGWjBYejczcEpRT0tuZDN1MU05Q2NDVDYwa2J5amdYTmNhdXVjSXc?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VdnVQUzBSWk9JNjVTczNpVjhyVEVONFMybmZmUmc1VjRNNjNySTZlWDc5dHJwWnZGWjBYejczcEpRT0tuZDN1MU05Q2NDVDYwa2J5amdYTmNhdXVjSXc?oc=5",
-      "source_name": "Kagit",
-      "monitor_id": "bm-safety-news",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-04T21:34:26+0900",
-      "status": "candidate",
-      "created_at": "2026-09-20T21:34:26+0900"
     }
   ]
 }
