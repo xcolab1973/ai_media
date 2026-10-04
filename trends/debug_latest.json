@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T16:24:00+09:00",
+  "generated_at": "2026-10-04T22:29:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,46 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 13,
-    "passed_total": 107,
+    "neg_excluded": 10,
+    "dedup_excluded": 9,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
-      "google_trends": 9,
-      "news_web": 17,
-      "x_realtime": 5,
-      "yahoo_news_ranking": 4
+      "yahoo_realtime": 38,
+      "x_realtime": 7,
+      "google_trends": 10,
+      "news_web": 12,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 27,
-    "personal_story": 4,
-    "policy": 5,
-    "opinion": 9,
-    "medical_science": 5,
-    "hard_fact": 20
+    "social_reaction": 29,
+    "personal_story": 2,
+    "opinion": 10,
+    "policy": 9,
+    "medical_science": 6,
+    "hard_fact": 14
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 27,
-    "policy": 5,
-    "hard_fact": 23,
-    "opinion": 9,
-    "personal_story": 4,
-    "medical_science": 2
+    "social_reaction": 29,
+    "policy": 9,
+    "opinion": 10,
+    "hard_fact": 17,
+    "medical_science": 3,
+    "personal_story": 2
   },
   "b2b_top10": [
+    {
+      "title": "データセンター急増、地域に波紋　マンション隣にも、住民「だまされた気持ち」国も対",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "テニスを知らない人からするとよくわからないかもしれないが錦織圭の世界ランキング４",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "【閲覧注意】「内容があまりにもひどくて吐き気を催した」山形一家3人殺傷事件、犯人",
       "source_category": "yahoo_realtime",
@@ -57,55 +69,55 @@
       "topic_category": "policy"
     },
     {
-      "title": "今日小4の娘がクラスの男子とみなとみらいで「ちいかわ」の映画を観るのだが、さすが",
+      "title": "「雑に扱うと面倒、と思わせるのは大事」大手金融機関に無限のAI対応やられ実質ノー",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「King & Prince」髙橋海人が「KAITO」としてソロ活動開始…公式タ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "訓練中の水分摂取を過度に制限し20代の隊員死亡　ほかに隊員4人が熱中症に…　陸上",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "桐谷健太",
+      "title": "広瀬アリス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "パリ ロンシャン 競馬 場",
+      "title": "ジャミーン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "桑木志帆",
+      "title": "グリーンチャンネル",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "毎日王冠",
+      "title": "abema",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
-    },
-    {
-      "title": "京都大賞典",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "台湾在住の人「日本人客が台湾旅行最終日に『お世話になりました』とパイナップルケー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
+    {
+      "title": "データセンター急増、地域に波紋　マンション隣にも、住民「だまされた気持ち」国も対",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "テニスを知らない人からするとよくわからないかもしれないが錦織圭の世界ランキング４",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "【閲覧注意】「内容があまりにもひどくて吐き気を催した」山形一家3人殺傷事件、犯人",
       "source_category": "yahoo_realtime",
@@ -113,57 +125,45 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "今日小4の娘がクラスの男子とみなとみらいで「ちいかわ」の映画を観るのだが、さすが",
+      "title": "「雑に扱うと面倒、と思わせるのは大事」大手金融機関に無限のAI対応やられ実質ノー",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「King & Prince」髙橋海人が「KAITO」としてソロ活動開始…公式タ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "台湾在住の人「日本人客が台湾旅行最終日に『お世話になりました』とパイナップルケー",
+      "title": "無職転生見てて思うけど、一夫多妻制って若い頃なら憧れるけど、オッサンになってから",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "平安時代の話で「射殺した」と書いたら「《しゃさつ》したって何だよｗその時代に銃な",
+      "title": "自信を持ってオススメ出来るお取り寄せグルメまとめ｜山本さほ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "塩を作りたいなら海水を煮込めばいいじゃない？→能登半島にある珠洲製塩が作った「揚",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「『お前もう船降りろ』の強火版……」訓練中の水分摂取を過度に制限した陸自隊員9人",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "猫が1匹で留守番できる時間はどれくらい？獣医によると8〜12時間、最高でも24時",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "海外旅行が趣味の人の体験談を聞いたり、金持ち自慢だと感じる話…「違うんじゃ」実は",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「アイシャドウは全部マットにしろ！」「メイク上手じゃないとマットは難しい」肌がき",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "母が亡くなり遺骨を抱えて空港の保安検査所で「ご一緒にどうぞ」と優しくゲートを案内",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「理屈より体感が勝る瞬間」リカバリーウェアってどんな効果があるのかわからなかった",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中2から27年間1人でやっている謎競技「フリースタイルノートブック」→「これはど",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
