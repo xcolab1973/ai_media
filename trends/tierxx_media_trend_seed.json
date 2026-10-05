@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-05T18:30:05+0900",
-    "record_count": 34,
-    "source_total_in_db": 1387,
+    "generated_at": "2026-10-06T01:19:39+0900",
+    "record_count": 33,
+    "source_total_in_db": 1388,
     "provenance_breakdown": {
-      "evidence": 887,
+      "evidence": 888,
       "pain_seed": 500
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_0fbcc1042f08",
+      "trend_term": "第5世代スキンブースター",
+      "raw_title": "ベンスクリニック新宿院、韓国で話題のhADM配合スキンブースター「ティシボ（TISSIVO）」に続き「リトゥオ（Re2O）」の導入を決定- 第5世代スキンブースターのラインアップを拡充 - Infoseek",
+      "summary": "ベンスクリニック新宿院が韓国発のhADM配合スキンブースター「リトゥオ」を導入。第5世代製品のラインアップ拡充。",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hWW41X29zanlkQWNER2ZtcUd3VWo2aVNCLUd0SHg5d2lQTVN6N1hIMXlvbFlnVXZqdzdwS2dmQVlmVDZ0XzdZdGZ1SUhIbnB5WUk3MkNEemNGbS1LWGlybkZWU1hxU0hKbV9Oa2tVekhwUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hWW41X29zanlkQWNER2ZtcUd3VWo2aVNCLUd0SHg5d2lQTVN6N1hIMXlvbFlnVXZqdzdwS2dmQVlmVDZ0XzdZdGZ1SUhIbnB5WUk3MkNEemNGbS1LWGlybkZWU1hxU0hKbV9Oa2tVekhwUQ?oc=5",
+      "source_name": "Infoseek",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-11T01:19:00+0900",
+      "status": "candidate",
+      "created_at": "2026-10-06T01:19:00+0900"
+    },
     {
       "seed_id": "seed_43802f4b5464",
       "trend_term": "自費診療の業界動向",
@@ -319,24 +337,6 @@
       "created_at": "2026-10-04T08:59:16+0900"
     },
     {
-      "seed_id": "seed_8840e32d8f73",
-      "trend_term": "スキンブースター新製品",
-      "raw_title": "【2026年ベンスクリニック名古屋院】韓国で話題のhADM配合スキンブースター「リトゥオ（Re2O）」に続き「ティシボ（TISSIVO）」の導入 - GISELe(ジゼル)",
-      "summary": "ベンスクリニック名古屋院がhADM配合スキンブースター「ティシボ（TISSIVO）」「リトゥオ（Re2O）」を導入。第5世代製品のラインアップ拡充",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jeVZKbGF3VjdidF9KVUpUR1RUeXl1ZktsTkRtQS1sdjlrXzdHTkZXT1hjanVnMldpd1hZejNYdWFKVjAxeFVYVnRqdzBZeTZwbWJRZw?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jeVZKbGF3VjdidF9KVUpUR1RUeXl1ZktsTkRtQS1sdjlrXzdHTkZXT1hjanVnMldpd1hZejNYdWFKVjAxeFVYVnRqdzBZeTZwbWJRZw?oc=5",
-      "source_name": "GISELe(ジゼル)",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-09T08:59:16+0900",
-      "status": "candidate",
-      "created_at": "2026-10-04T08:59:16+0900"
-    },
-    {
       "seed_id": "seed_ef8d25608f71",
       "trend_term": "大手美容クリニック新院開設",
       "raw_title": "SBCメディカルグループ、「SBCスキンクリニック 宇都宮院」を2026年10月2日（金）に開院 - ニコニコニュース",
@@ -605,24 +605,6 @@
       "valid_until": "2026-10-08T21:51:04+0900",
       "status": "candidate",
       "created_at": "2026-09-24T21:51:04+0900"
-    },
-    {
-      "seed_id": "seed_b329491d1113",
-      "trend_term": "医療ハイフ選び方ガイド",
-      "raw_title": "池袋の医療ハイフ（HIFU）がおすすめのクリニック - マイベスト",
-      "summary": "池袋の医療ハイフ（HIFU）クリニック比較情報。読者のクリニック選択悩みに応える実用記事の基盤となるペイン。",
-      "source_url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFA5TXBvRUtkZ1hDbUtCUFB1Uk5uTUFzUkRFa0xOakR2Z3pjV2gyWkYwLTRVN2RJZ2JDTUt2YTBB?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFA5TXBvRUtkZ1hDbUtCUFB1Uk5uTUFzUkRFa0xOakR2Z3pjV2gyWkYwLTRVN2RJZ2JDTUt2YTBB?oc=5",
-      "source_name": "マイベスト",
-      "monitor_id": "bm-machine-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-05T23:27:19+0900",
-      "status": "candidate",
-      "created_at": "2026-09-21T23:27:19+0900"
     }
   ]
 }
