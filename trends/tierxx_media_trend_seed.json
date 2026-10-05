@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-04T22:24:02+0900",
-    "record_count": 32,
-    "source_total_in_db": 1381,
+    "generated_at": "2026-10-05T09:06:18+0900",
+    "record_count": 34,
+    "source_total_in_db": 1383,
     "provenance_breakdown": {
-      "evidence": 883,
-      "pain_seed": 498
+      "evidence": 884,
+      "pain_seed": 499
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_53d361001e3b",
+      "trend_term": "SNS症例と医師選別",
+      "raw_title": "【大会長インタビュー】SNS症例で選ぶのは危険!? 失敗しない美容医療と医師の見極め方 - ライブドアニュース",
+      "summary": "SNS上の症例写真だけで美容医療の医師を選ぶことの危険性と、失敗しない医師選びの見極め方についての大会長インタビュー",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GYi1SbXNGbExIWE5uVlB2T3QwNGpwZnpuUHljSEE0cTd6LTd1c1ZSWW9TazJEY2xfZkVmanB3SFdPUDRzNUtUU3Zzb1VjV19UQmRidVN6QVlyZ192Tm9v?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GYi1SbXNGbExIWE5uVlB2T3QwNGpwZnpuUHljSEE0cTd6LTd1c1ZSWW9TazJEY2xfZkVmanB3SFdPUDRzNUtUU3Zzb1VjV19UQmRidVN6QVlyZ192Tm9v?oc=5",
+      "source_name": "ライブドアニュース",
+      "monitor_id": "bm-sns-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-19T09:06:18+0900",
+      "status": "candidate",
+      "created_at": "2026-10-05T09:06:18+0900"
+    },
+    {
+      "seed_id": "seed_023d9288beee",
+      "trend_term": "美容クリニック経営リスク",
+      "raw_title": "美容クリニック運営グループの元幹部を背任疑いで逮捕 - news.web.nhk",
+      "summary": "美容クリニック運営グループの元幹部が背任疑いで逮捕された。美容医療業界のコンプライアンス問題を示す事例。",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QTHJSSEVIMGkzQXRuV3dPR0hMQTlPRDlkdGdSUnNFSFBuWFREaEYwSDQ1UGFvTVpRWlhzUTNIUmszdVdOMDdRZ1NYNThGTGZMTEI3ejdVdG5GRGJWby1R?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QTHJSSEVIMGkzQXRuV3dPR0hMQTlPRDlkdGdSUnNFSFBuWFREaEYwSDQ1UGFvTVpRWlhzUTNIUmszdVdOMDdRZ1NYNThGTGZMTEI3ejdVdG5GRGJWby1R?oc=5",
+      "source_name": "news.web.nhk",
+      "monitor_id": "bm-safety-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-10T09:06:13+0900",
+      "status": "candidate",
+      "created_at": "2026-10-05T09:06:13+0900"
+    },
     {
       "seed_id": "seed_8e14ba972d63",
       "trend_term": "膝関節再生医療の臨床展開",
