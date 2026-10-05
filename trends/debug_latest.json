@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T16:41:00+09:00",
+  "generated_at": "2026-10-06T01:25:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,57 +16,51 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
-    "dedup_excluded": 7,
-    "passed_total": 114,
+    "neg_excluded": 12,
+    "dedup_excluded": 10,
+    "passed_total": 110,
     "b2b_category_counts": {
-      "x_realtime": 8,
-      "news_web": 13,
-      "yahoo_realtime": 36,
+      "yahoo_realtime": 34,
       "google_trends": 10,
-      "yahoo_news_ranking": 3
+      "news_web": 17,
+      "x_realtime": 7,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
-    "personal_story": 2,
-    "opinion": 9,
-    "hard_fact": 15,
-    "medical_science": 5,
-    "policy": 4
+    "social_reaction": 28,
+    "opinion": 10,
+    "personal_story": 1,
+    "policy": 8,
+    "medical_science": 4,
+    "hard_fact": 19
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
-    "hard_fact": 18,
-    "policy": 6,
-    "opinion": 9,
-    "personal_story": 2,
-    "medical_science": 2
+    "social_reaction": 28,
+    "opinion": 10,
+    "policy": 10,
+    "hard_fact": 20,
+    "personal_story": 1,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
       "title": "（おっぱい注意）「水着グラビア写真集の表紙」「それを撮っている現場」水辺での撮影",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "シャウエッセン 実質値上げ発表",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "何これ、すごすぎる！！ PhotoshopやIllustratorをオープンソー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日経平均株価",
+      "title": "昼食後の謎の強い眠気に悩んでいたかつての自分に教えてあげたいこと「それ血糖値スパ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ノーベル賞 生理学医学賞",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
+      "topic_category": "opinion"
     },
     {
       "title": "簗農相「予算大幅カット」発言の背景は？　衆院栃木3区、保守分裂や確執の経緯を振り",
@@ -75,31 +69,37 @@
       "topic_category": "policy"
     },
     {
-      "title": "3億5000万人が登録、サービス開始日に登録者数が1500万人突破──数字がデカ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "息子の友人に「最近の若い人はお酒を飲まないの？」と尋ねたところ、「アルコール飲料",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "簗和生農水相「私が取ってきた予算をなんで受注」　釈明会見後に地元紙が音声公開..",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "オーバードーズ",
+      "title": "ロバーツ監督",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "山口 一郎",
+      "title": "「6年間も放置されてるってこと？」池袋駅徒歩0分の所にコロナ禍で臨時休業したまま",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "indonesia vs thailand",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "丸亀製麺 メニュー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "カルディ エコバッグ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "g7 欠席",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
+      "title": "昼食後の謎の強い眠気に悩んでいたかつての自分に教えてあげたいこと「それ血糖値スパ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "（おっぱい注意）「水着グラビア写真集の表紙」「それを撮っている現場」水辺での撮影",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「6年間も放置されてるってこと？」池袋駅徒歩0分の所にコロナ禍で臨時休業したまま",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ババアがダイエットしていると「モテる為にダイエットしているの？」とか言われるけど",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "何これ、すごすぎる！！ PhotoshopやIllustratorをオープンソー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "息子の友人に「最近の若い人はお酒を飲まないの？」と尋ねたところ、「アルコール飲料",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "シニアになりきれない中堅エンジニアは、何を読めばいいのか 2026年版 - じゃ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「炭酸飲料を若者に差し出したらお礼も言われず拒まれた」というエピソードを見て、娘",
+      "title": "「ある種の拷問」漫画『腸よ鼻よ』の島袋全優先生、術後で様子を見てくれているお母さ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "職場に不慣れだった頃「何かお手伝いできることはありますか？」と尋ねたら「なんであ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "ノーベル賞 生理学医学賞",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "10年以上前スシローに1人で行きテーブル席に案内されたが、向かい側に知らないじー",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "セブンイレブンで購入できる商品の製造者が地方によって違うようで、長野県の商品レベ",
+      "title": "サンリオの「クロミ」著作権侵害訴訟の判決文が公開されました（栗原潔） - エキス",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "君の髪が気になるんだ - 兼田りょう / ＃１ | コミックDAYS",
+      "title": "身だしなみや美容を軽視する人で「自分の本質は別にあるからそこで評価し..",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ノア・スミス「AI は大卒の雇用を奪ってない（けどアーティストの仕事は奪ってる）",
+      "title": "マリリン・マンソンのジレンマ - 山形浩生の「経済のトリセツ」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "実写ルックバックで諦めついた話",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
