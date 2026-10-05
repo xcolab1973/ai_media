@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T09:09:00+09:00",
+  "generated_at": "2026-10-05T16:41:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,155 +16,155 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 8,
-    "passed_total": 117,
+    "neg_excluded": 11,
+    "dedup_excluded": 7,
+    "passed_total": 114,
     "b2b_category_counts": {
+      "x_realtime": 8,
+      "news_web": 13,
       "yahoo_realtime": 36,
       "google_trends": 10,
-      "x_realtime": 9,
-      "yahoo_news_ranking": 4,
-      "news_web": 11
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 37,
-    "opinion": 10,
-    "personal_story": 1,
+    "social_reaction": 35,
+    "personal_story": 2,
+    "opinion": 9,
+    "hard_fact": 15,
     "medical_science": 5,
-    "policy": 6,
-    "hard_fact": 11
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 35,
-    "opinion": 10,
-    "policy": 8,
-    "medical_science": 2,
-    "hard_fact": 14,
-    "personal_story": 1
+    "social_reaction": 33,
+    "hard_fact": 18,
+    "policy": 6,
+    "opinion": 9,
+    "personal_story": 2,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "デニーズで友達が頼んだパフェがやばい→公式サイトの紹介ページを読んで納得「賢い商",
+      "title": "（おっぱい注意）「水着グラビア写真集の表紙」「それを撮っている現場」水辺での撮影",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "シャウエッセン 実質値上げ発表",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "何これ、すごすぎる！！ PhotoshopやIllustratorをオープンソー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "石橋静河",
+      "title": "日経平均株価",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "topic_category": "hard_fact"
     },
     {
-      "title": "スペイン議会、87歳女性の強制立ち退き受けた住宅危機対策を否決　早期選挙の可能性",
+      "title": "簗農相「予算大幅カット」発言の背景は？　衆院栃木3区、保守分裂や確執の経緯を振り",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "データセンター急増、地域に波紋　マンション隣にも、住民「だまされた気持ち」国も対",
+      "title": "3億5000万人が登録、サービス開始日に登録者数が1500万人突破──数字がデカ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "息子の友人に「最近の若い人はお酒を飲まないの？」と尋ねたところ、「アルコール飲料",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "テニスを知らない人からするとよくわからないかもしれないが錦織圭の世界ランキング４",
+      "title": "簗和生農水相「私が取ってきた予算をなんで受注」　釈明会見後に地元紙が音声公開..",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "policy"
     },
     {
-      "title": "トヨタ・カローラ",
+      "title": "オーバードーズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "nba",
+      "title": "山口 一郎",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
-    },
-    {
-      "title": "今日の天気",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "職場で休憩時間を守らず、話を聞かず、嘘をつく新人…なぜ土日に手順書やマニュアルを",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "セブンイレブンで購入できる商品の製造者が地方によって違うようで、長野県の商品レベ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
-      "title": "データセンター急増、地域に波紋　マンション隣にも、住民「だまされた気持ち」国も対",
+      "title": "（おっぱい注意）「水着グラビア写真集の表紙」「それを撮っている現場」水辺での撮影",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "何これ、すごすぎる！！ PhotoshopやIllustratorをオープンソー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "テニスを知らない人からするとよくわからないかもしれないが錦織圭の世界ランキング４",
+      "title": "息子の友人に「最近の若い人はお酒を飲まないの？」と尋ねたところ、「アルコール飲料",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "デニーズで友達が頼んだパフェがやばい→公式サイトの紹介ページを読んで納得「賢い商",
+      "title": "シニアになりきれない中堅エンジニアは、何を読めばいいのか 2026年版 - じゃ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「炭酸飲料を若者に差し出したらお礼も言われず拒まれた」というエピソードを見て、娘",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "職場に不慣れだった頃「何かお手伝いできることはありますか？」と尋ねたら「なんであ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "10年以上前スシローに1人で行きテーブル席に案内されたが、向かい側に知らないじー",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "セブンイレブンで購入できる商品の製造者が地方によって違うようで、長野県の商品レベ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "職場で休憩時間を守らず、話を聞かず、嘘をつく新人…なぜ土日に手順書やマニュアルを",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "自宅に18禁コーナーを作って成年マンガを収納する部屋づくりが遊び心溢れすぎていて",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "川崎重工、人が乗れる4足モビリティー販売へ　NVIDIAの基盤活用 - 日本経済",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "中国舞台のVIVANT2が現地で話題「シンシーはありえない」ツッコミ入れつつネッ",
+      "title": "君の髪が気になるんだ - 兼田りょう / ＃１ | コミックDAYS",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "前職で退職者が続いてるらしく、更なる退職を防ぐために退職願は6カ月前からに就業規",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "ノア・スミス「AI は大卒の雇用を奪ってない（けどアーティストの仕事は奪ってる）",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "石橋静河",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ]
 }
