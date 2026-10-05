@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T02:05:00+09:00",
+  "generated_at": "2026-10-05T09:09:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,56 +17,50 @@
       "x_realtime": 10
     },
     "neg_excluded": 7,
-    "dedup_excluded": 10,
-    "passed_total": 115,
+    "dedup_excluded": 8,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_realtime": 39,
-      "x_realtime": 7,
+      "yahoo_realtime": 36,
       "google_trends": 10,
-      "news_web": 11,
-      "yahoo_news_ranking": 3
+      "x_realtime": 9,
+      "yahoo_news_ranking": 4,
+      "news_web": 11
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
-    "personal_story": 3,
+    "social_reaction": 37,
     "opinion": 10,
+    "personal_story": 1,
     "medical_science": 5,
-    "hard_fact": 14,
-    "policy": 3
+    "policy": 6,
+    "hard_fact": 11
   },
   "b2b_topic_category_counts": {
     "social_reaction": 35,
-    "hard_fact": 16,
     "opinion": 10,
-    "personal_story": 3,
-    "policy": 4,
-    "medical_science": 2
+    "policy": 8,
+    "medical_science": 2,
+    "hard_fact": 14,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "[第17話]打ち切られ漫画家と同人女 - 澄ヒビト | 少年ジャンプ＋",
+      "title": "デニーズで友達が頼んだパフェがやばい→公式サイトの紹介ページを読んで納得「賢い商",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "[104話]ケントゥリア - 暗森透 | 少年ジャンプ＋",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "石橋静河",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "あるゲームセンターで客のマナーが悪すぎて「イニシャルD」「湾岸ミッドナイト」を撤",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「死因特定推理ゲーム」空前のブーム到来。『未整理記録』など無料で面白いゲームも続",
+      "title": "スペイン議会、87歳女性の強制立ち退き受けた住宅危機対策を否決　早期選挙の可能性",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "policy"
     },
     {
       "title": "データセンター急増、地域に波紋　マンション隣にも、住民「だまされた気持ち」国も対",
@@ -75,50 +69,44 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「雑に扱うと面倒、と思わせるのは大事」大手金融機関に無限のAI対応やられ実質ノー",
+      "title": "テニスを知らない人からするとよくわからないかもしれないが錦織圭の世界ランキング４",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "テニスを知らない人からするとよくわからないかもしれないが錦織圭の世界ランキング４",
+      "title": "トヨタ・カローラ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "nba",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "今日の天気",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "職場で休憩時間を守らず、話を聞かず、嘘をつく新人…なぜ土日に手順書やマニュアルを",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "個人向けGeminiのモデル選択が厳格化　無料ユーザーが使えるのは「Flash-",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "セブンイレブンで購入できる商品の製造者が地方によって違うようで、長野県の商品レベ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "荒木飛呂彦｜マンガ家が選ぶ思い出の一話｜SHUEISHA MANGA EXPO ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "石川雅規",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "[第17話]打ち切られ漫画家と同人女 - 澄ヒビト | 少年ジャンプ＋",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "[104話]ケントゥリア - 暗森透 | 少年ジャンプ＋",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "データセンター急増、地域に波紋　マンション隣にも、住民「だまされた気持ち」国も対",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
@@ -126,45 +114,57 @@
     },
     {
       "title": "テニスを知らない人からするとよくわからないかもしれないが錦織圭の世界ランキング４",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "デニーズで友達が頼んだパフェがやばい→公式サイトの紹介ページを読んで納得「賢い商",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "セブンイレブンで購入できる商品の製造者が地方によって違うようで、長野県の商品レベ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "あるゲームセンターで客のマナーが悪すぎて「イニシャルD」「湾岸ミッドナイト」を撤",
+      "title": "職場で休憩時間を守らず、話を聞かず、嘘をつく新人…なぜ土日に手順書やマニュアルを",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「雑に扱うと面倒、と思わせるのは大事」大手金融機関に無限のAI対応やられ実質ノー",
+      "title": "自宅に18禁コーナーを作って成年マンガを収納する部屋づくりが遊び心溢れすぎていて",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "川崎重工、人が乗れる4足モビリティー販売へ　NVIDIAの基盤活用 - 日本経済",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "個人向けGeminiのモデル選択が厳格化　無料ユーザーが使えるのは「Flash-",
+      "title": "中国舞台のVIVANT2が現地で話題「シンシーはありえない」ツッコミ入れつつネッ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "荒木飛呂彦｜マンガ家が選ぶ思い出の一話｜SHUEISHA MANGA EXPO ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "前職で退職者が続いてるらしく、更なる退職を防ぐために退職願は6カ月前からに就業規",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "[1話]のろのろぷくぷく - 茶んた | 少年ジャンプ＋",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "世界中のソフトウェア開発者の実態を調べた「State of Devs 2026」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "石橋静河",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
