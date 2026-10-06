@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-06T14:52:33+09:00",
- "valid_until": "2026-10-20T14:50:37+09:00",
+ "generated_at": "2026-10-06T16:38:35+09:00",
+ "valid_until": "2026-10-20T16:36:47+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -8,8 +8,8 @@
  "total_count": 32,
  "merge": {
   "parent": "beauty",
-  "from_current": 29,
-  "from_new": 5,
+  "from_current": 32,
+  "from_new": 2,
   "expired_pruned": 0,
   "retention_dropped": 2,
   "genres": 4,
@@ -498,6 +498,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "ハロウィンメイクを綺麗に落とす!本番前に用意したいアイテムは?",
+   "url": "https://kininatta-gp.net/beauty/halloween-make-cleansing/",
+   "summary": "ハロウィンの濃いメイクの落とし方と事前準備の話。『落とし方を知らずに肌が荒れた』という行動直後の瞬間のペイン（角度の種）。個人ブログで公開claimにはしない。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "beauty-makeup",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "kininatta-gp.net",
+    "expert_origin": false,
+    "search_query": "ハロウィン 仮装 メイク 肌荒れ 落とし方",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": true,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-10-13T16:36:47+09:00",
+   "validity_days": 7
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "【徹底比較】40代向けファンデーションのおすすめ人気ランキング",
    "url": "https://my-best.com/345",
    "summary": "40代向けファンデの比較ランキング。ツヤ・ハリ感や肌が綺麗に見える選び方が軸。乾燥する秋冬に崩れず自然に見せる選び方の下流の問いは薄く、空白がある。",
@@ -708,24 +738,24 @@
   },
   {
    "source_category": "news_web",
-   "raw_title": "乾燥肌の方がメイク崩れしやすい原因とは？スキンケアとベースメイクの基本を解説",
-   "url": "https://www.yuskin.co.jp/hadaiku/detail.html?pdid=200",
-   "summary": "乾燥肌がメイク崩れしやすい理由と、スキンケア・ベースメイクの基本を扱う解説。",
+   "raw_title": "秋の肌トラブルの原因とは？夏に蓄積された肌ストレスを皮膚科医が解説！",
+   "url": "https://maquia.hpplus.jp/skincare/news/122045/",
+   "summary": "夏の紫外線や冷房で蓄積した肌ストレスが秋に乾燥・くすみ・肌荒れとして表れるという皮膚科医解説。『夏の延長のケアのままでいいのか』という切り替え時の下流の問いに使える。",
    "signal_type": "evergreen",
    "engagement_signal": false,
    "approx_traffic": "100+",
    "preliminary_claim_type": "soft_fact",
    "relevance_to_niche": "high",
    "topic_category": null,
-   "primary_genre": "beauty-makeup",
+   "primary_genre": "beauty-skincare",
    "karte_matched_category": null,
    "karte_aligned": false,
    "account_id": "default",
    "origin": "pre_collector_extended",
    "provenance": {
-    "source_name": "肌育研究所(ユースキン)",
+    "source_name": "MAQUIA",
     "expert_origin": true,
-    "search_query": "秋冬メイク ベースメイク 崩れ 乾燥 粉ふき",
+    "search_query": "秋 肌 乾燥 スキンケア 切り替え 夏ダメージ 皮膚科医",
     "freshness": "evergreen",
     "integrity_warning": null,
     "provenance_kind": "evidence",
@@ -733,8 +763,8 @@
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-10-09T16:36:34+09:00",
-   "validity_days": 7
+   "valid_until": "2026-10-20T16:36:47+09:00",
+   "validity_days": 14
   },
   {
    "source_category": "news_web",
@@ -944,36 +974,6 @@
     "rescued": false
    },
    "valid_until": "2026-10-14T16:36:54+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "基礎化粧品の切り替えのタイミング",
-   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1110922676",
-   "summary": "季節の変わり目に基礎化粧品を秋冬用から春夏用へ切り替えるタイミングが分からず悩む質問。いつ・どう変えるべきか具体策を求める生の読者ペイン。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "beauty-skincare",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Yahoo!知恵袋",
-    "expert_origin": false,
-    "search_query": "季節の変わり目 肌荒れ 10月 化粧水 変えるべきか 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-10-10T19:18:28+09:00",
    "validity_days": 14
   }
  ]
