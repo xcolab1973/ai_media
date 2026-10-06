@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-06T18:14:59+0900",
+    "generated_at": "2026-10-06T23:25:02+0900",
     "record_count": 34,
-    "source_total_in_db": 1391,
+    "source_total_in_db": 1393,
     "provenance_breakdown": {
-      "evidence": 890,
+      "evidence": 892,
       "pain_seed": 501
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_116dd1938f6b",
+      "trend_term": "クリニック向けエージェント",
+      "raw_title": "美容医療業界に革新をもたらす『LOGICA』クリニック専門のエージェントサービス開始 - PR TIMES",
+      "summary": "美容医療業界向けのクリニック専門エージェントサービス『LOGICA』が開始される。業界の新しい支援インフラの登場。",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Qbm15RmlwczU5R0gtUHp0OVplOHJicjhMS2pGQmJDdzB4b2haRTlqandoT0M2TUtsYlpES285TktMSlgtQTV0cU9wYU9DcGJCdlFXRkY2a3JmdGt2WFlOc1dCamNrRE1hbUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Qbm15RmlwczU5R0gtUHp0OVplOHJicjhMS2pGQmJDdzB4b2haRTlqandoT0M2TUtsYlpES285TktMSlgtQTV0cU9wYU9DcGJCdlFXRkY2a3JmdGt2WFlOc1dCamNrRE1hbUE?oc=5",
+      "source_name": "PR TIMES",
+      "monitor_id": "bm-market-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-11T23:24:58+0900",
+      "status": "candidate",
+      "created_at": "2026-10-06T23:24:58+0900"
+    },
+    {
+      "seed_id": "seed_976aec0509a7",
+      "trend_term": "韓国発hADM配合スキンブースター",
+      "raw_title": "【ベンスクリニック新宿院】韓国で話題のhADM配合スキンブースター「リトゥオ（Re2O）」「ティシボ（TISSIVO）」開始・大型連休中も毎日休まず通常営業 - 新宿経済新聞",
+      "summary": "韓国で話題のhADM配合スキンブースター「リトゥオ」「ティシボ」が新宿院で開始。新規導入技術の動向として価値あり。",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00OVk0d0RmRDVvQm1zZzVKZHlQUnBKSXYxMUlwRFRxMnNwLVRfRzloUnloUks1czNzeWpWQzBwOFVPd1B5YWxibXQ1Q1pMQ2RVVTl3amNR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00OVk0d0RmRDVvQm1zZzVKZHlQUnBKSXYxMUlwRFRxMnNwLVRfRzloUnloUks1czNzeWpWQzBwOFVPd1B5YWxibXQ1Q1pMQ2RVVTl3amNR?oc=5",
+      "source_name": "新宿経済新聞",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-11T23:24:41+0900",
+      "status": "candidate",
+      "created_at": "2026-10-06T23:24:41+0900"
+    },
     {
       "seed_id": "seed_0ac4f8df687b",
       "trend_term": "男性の再生医療への関心",
@@ -265,24 +301,6 @@
       "created_at": "2026-10-04T17:40:14+0900"
     },
     {
-      "seed_id": "seed_1eeb4bf46e4e",
-      "trend_term": "タレント施術動画公開",
-      "raw_title": "41歳タレント、衝撃のヒアルロン酸注入の施術光景を公開「私が初じゃね？」 - ニコニコニュース",
-      "summary": "41歳タレントがヒアルロン酸注入施術を公開。施術の可視化による読者の不安・関心事を反映。",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxVXVzMm1Sel95STVvcEtkRmZMR0szeDB4WkQ1WXp1VjFzZGxIYWVNZTNPbnB6c1dCMTFaNklyUE85Y3VxWDdvaGkteEVvQUl2T3JqNA?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxVXVzMm1Sel95STVvcEtkRmZMR0szeDB4WkQ1WXp1VjFzZGxIYWVNZTNPbnB6c1dCMTFaNklyUE85Y3VxWDdvaGkteEVvQUl2T3JqNA?oc=5",
-      "source_name": "ニコニコニュース",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-09T17:40:11+0900",
-      "status": "candidate",
-      "created_at": "2026-10-04T17:40:11+0900"
-    },
-    {
       "seed_id": "seed_3f4de02128de",
       "trend_term": "hADM配合スキンブースター",
       "raw_title": "【2026年ベンスクリニック名古屋院】韓国で話題のhADM配合スキンブースター「リトゥオ（Re2O）」に続き「ティシボ（TISSIVO）」の導入 - news.infoseek.co.jp",
@@ -533,24 +551,6 @@
       "valid_until": "2026-10-06T23:41:39+0900",
       "status": "candidate",
       "created_at": "2026-10-01T23:41:39+0900"
-    },
-    {
-      "seed_id": "seed_92bb866b1a19",
-      "trend_term": "湘南美容クリニック株価割安感",
-      "raw_title": "米国上場の湘南美容クリニックに割安感（西 勇太郎） - トウシル",
-      "summary": "米国上場の湘南美容クリニックの株価に関する市場分析。投資情報として美容医療業界の事業規模・信用度を示す指標となる可能性。",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01TmRPZEZfR1Y3UlplZVJvUEFXc0x1ZFJLb2NsUEFNdmYxUFM2eUh4QmlDazkxUkFsc2Jhcm84UXVzTTJZcDhEUE52YnpkZ1JYU00zcjAxQ1hUZw?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01TmRPZEZfR1Y3UlplZVJvUEFXc0x1ZFJLb2NsUEFNdmYxUFM2eUh4QmlDazkxUkFsc2Jhcm84UXVzTTJZcDhEUE52YnpkZ1JYU00zcjAxQ1hUZw?oc=5",
-      "source_name": "トウシル",
-      "monitor_id": "bm-market-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-06T18:18:31+0900",
-      "status": "candidate",
-      "created_at": "2026-10-01T18:18:31+0900"
     },
     {
       "seed_id": "seed_bda168ea2842",
