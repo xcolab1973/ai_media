@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-06T01:19:39+0900",
+    "generated_at": "2026-10-06T10:50:57+0900",
     "record_count": 33,
-    "source_total_in_db": 1388,
+    "source_total_in_db": 1389,
     "provenance_breakdown": {
       "evidence": 888,
-      "pain_seed": 500
+      "pain_seed": 501
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_0ae0ae8b6a66",
+      "trend_term": "美容医療の見え方・倫理",
+      "raw_title": "時代劇にヒアルロン酸注入済の唇で出演…ナナ、酷評を受け謝罪「不快感を与えたのなら、私の過ち」 - chiba-tv.com",
+      "summary": "時代劇出演時のヒアルロン酸注入について視聴者から酷評を受け、本人が謝罪。美容医療の可視化と表現媒体での受け入れの課題が浮き彫りに。",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wUkl6bUhrVlRlTFc5OFhrMFc5d2trZ09XRkVCRWtGRmQxSE1EVHpCRXlGd2dtbzJlckhsekRWY1hfUFdCNVd3RjNoNV9ua2dPODV2YmM1X1RSVjFXX0o0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wUkl6bUhrVlRlTFc5OFhrMFc5d2trZ09XRkVCRWtGRmQxSE1EVHpCRXlGd2dtbzJlckhsekRWY1hfUFdCNVd3RjNoNV9ua2dPODV2YmM1X1RSVjFXX0o0?oc=5",
+      "source_name": "chiba-tv.com",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-11T10:50:39+0900",
+      "status": "candidate",
+      "created_at": "2026-10-06T10:50:39+0900"
+    },
     {
       "seed_id": "seed_0fbcc1042f08",
       "trend_term": "第5世代スキンブースター",
@@ -317,24 +335,6 @@
       "valid_until": "2026-10-18T08:59:31+0900",
       "status": "candidate",
       "created_at": "2026-10-04T08:59:31+0900"
-    },
-    {
-      "seed_id": "seed_432f0edce296",
-      "trend_term": "ダウンタイム",
-      "raw_title": "小倉唯＞人気声優が「ダウンタイム」出演 話題の“ボトックス”パーティーに 場面写真公開 (MANTANWEB) - news.yahoo.co.jp",
-      "summary": "人気声優がボトックス関連の話題作に出演。メディア露出により「ダウンタイム」という概念が一般層に認知される傾向",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUm1fV2pMc2lJQW1CUVZvWk1pS21lMEZsTVZpcnhwNTkxS0YxeGtmQmNjOG1Lb0VweVdOQ0lHQ0pNNWFKUmx1YUMxTkJpRTJzWmp3ck9kZHFmMXhnaEtsd2RFSEktdEZVT2RhdDlBcm9NS1g2c3VkWnhFTmpmczNMWWxLMDBLTmphcUNycjFn?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUm1fV2pMc2lJQW1CUVZvWk1pS21lMEZsTVZpcnhwNTkxS0YxeGtmQmNjOG1Lb0VweVdOQ0lHQ0pNNWFKUmx1YUMxTkJpRTJzWmp3ck9kZHFmMXhnaEtsd2RFSEktdEZVT2RhdDlBcm9NS1g2c3VkWnhFTmpmczNMWWxLMDBLTmphcUNycjFn?oc=5",
-      "source_name": "news.yahoo.co.jp",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-09T08:59:16+0900",
-      "status": "candidate",
-      "created_at": "2026-10-04T08:59:16+0900"
     },
     {
       "seed_id": "seed_ef8d25608f71",
