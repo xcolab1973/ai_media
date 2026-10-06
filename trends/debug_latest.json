@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T17:09:00+09:00",
+  "generated_at": "2026-10-06T23:29:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 4,
-    "dedup_excluded": 11,
+    "neg_excluded": 7,
+    "dedup_excluded": 8,
     "passed_total": 117,
     "b2b_category_counts": {
+      "yahoo_realtime": 37,
       "news_web": 11,
-      "yahoo_realtime": 36,
       "google_trends": 10,
-      "x_realtime": 9,
-      "yahoo_news_ranking": 4
+      "yahoo_news_ranking": 2,
+      "x_realtime": 10
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "personal_story": 6,
+    "social_reaction": 30,
+    "personal_story": 5,
     "opinion": 10,
-    "medical_science": 6,
-    "hard_fact": 12,
-    "policy": 8
+    "hard_fact": 8,
+    "policy": 12,
+    "medical_science": 5
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 15,
-    "social_reaction": 28,
+    "social_reaction": 30,
+    "hard_fact": 12,
+    "personal_story": 5,
     "opinion": 10,
-    "personal_story": 6,
-    "policy": 9,
-    "medical_science": 2
+    "policy": 12,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "ゆうちょATM ファミマ順次終了へ",
+      "title": "「ティーバッグは絞るべき？」英国紅茶のアーマッドティーが投稿したおしゃれな絞り方",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "パ全日程終了 各部門タイトル一覧",
       "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
+      "raw_source_key": "yahoo_news_sports",
       "topic_category": "hard_fact"
     },
     {
-      "title": "サンリオ「クロミ」裁判の追加情報（栗原潔） - エキスパート - Yahoo!ニ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ネパール土石流、行方不明者の捜索・救助を終了…日本人５人含む５２００人以上が不明",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "スズキ 軽自動車",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "大坂なおみ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "庵野秀明 ヤマト",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ブラックベリーヨーグルトフラペチーノ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「ひげ、指毛、眉間の毛を処理する」「他人の家での生理用品のゴミは持ち帰る」母親も",
+      "title": "アイドルが電気柵に触れ「感電」、本人や周囲は笑顔も...動画に波紋　「危険事案な",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "中国 産 野菜",
+      "title": "マンジャロ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "反田恭平",
+      "title": "阿部一二三",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "草刈り",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "中西健治",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "山岸祐也",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "俺たちの箱根駅伝 キャスト",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "菅田将暉 兄弟",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,63 +107,63 @@
   ],
   "note_top10": [
     {
-      "title": "サンリオ「クロミ」裁判の追加情報（栗原潔） - エキスパート - Yahoo!ニ",
+      "title": "「ティーバッグは絞るべき？」英国紅茶のアーマッドティーが投稿したおしゃれな絞り方",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ネパール土石流、行方不明者の捜索・救助を終了…日本人５人含む５２００人以上が不明",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ひげ、指毛、眉間の毛を処理する」「他人の家での生理用品のゴミは持ち帰る」母親も",
+      "title": "アイドルが電気柵に触れ「感電」、本人や周囲は笑顔も...動画に波紋　「危険事案な",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "6歳の時、親に突然「バイバイ」と言われ、知らないお姉さんに手を引かれて飛行機に乗",
+      "title": "大村知事「来てほしくなかった」　食事への不満投稿のタイ代表に | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "生徒会にも穴はある！ 第1話「オスガキにも穴はあるんだよな…」「かいちょーは梅く",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "SNSで相次ぐ被害女性への中傷、知事も苦言　沖縄強盗殺人 | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「ロンドンとかだとアスファルトの下って全部そうなってる…？」現代的な道路の下に昔",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「家を選ぶときは歳を取った時のことを考えた方がいい」急な階段20段くらい上がらな",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「横浜にありがちな家の裏側」崖地に建てられた家への疑問、暮らすのはなかなか大変ら",
+      "title": "ナンパに困っている女性を助けようと彼氏のフリして声をかけたら「すみません…アナタ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『実は、路上で生活していた仔猫を迎え入れました』とっても元気で可愛いことが雰囲気",
+      "title": "「外来種による外来種の駆除」何か言いたげな顔で見つめてくる用水路のアライグマ、さ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "どこからどこまで歩いたことがありますか？ - 暮らし - はてなパークス",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ヒップホップは生まれた日と場所が確定している　〜二十三夜待・第二夜〜",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "やば！おしゃれなイタリアンや！1人客お断りだろうなと思ったら、壁を隔てておしゃれ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "新潟の郷土料理・きりざいが食べたくて作ってみた。そしてみつけた納豆のポテンシャル",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "ロシアの偽スタバがわざわざグジェリ焼きというロシアの伝統陶芸でタンブラーを出して",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
