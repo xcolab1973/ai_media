@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T10:52:00+09:00",
+  "generated_at": "2026-10-06T17:09:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,38 +16,44 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
+    "neg_excluded": 4,
     "dedup_excluded": 11,
-    "passed_total": 114,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "x_realtime": 8,
+      "news_web": 11,
       "yahoo_realtime": 36,
       "google_trends": 10,
-      "news_web": 14,
-      "yahoo_news_ranking": 2
+      "x_realtime": 9,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
-    "personal_story": 3,
-    "medical_science": 6,
+    "social_reaction": 28,
+    "personal_story": 6,
     "opinion": 10,
-    "policy": 8,
-    "hard_fact": 17
+    "medical_science": 6,
+    "hard_fact": 12,
+    "policy": 8
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 26,
-    "medical_science": 3,
+    "hard_fact": 15,
+    "social_reaction": 28,
     "opinion": 10,
-    "personal_story": 3,
-    "hard_fact": 20,
-    "policy": 8
+    "personal_story": 6,
+    "policy": 9,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "病院にて9時の予約で時間通りに診察券と保険証を提出…12時の診察終了まで呼ばれず",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "ゆうちょATM ファミマ順次終了へ",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "サンリオ「クロミ」裁判の追加情報（栗原潔） - エキスパート - Yahoo!ニ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -57,59 +63,53 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ノンアルの人も受け入れたいというのは下戸でバーテンダーをやっているからわかるが、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "臨時国会で重点的に取り組んでほしい政策1位は「社会保障対策」、高市内閣の支持率は",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "デザインが許可なく使われたので「使うなら契約して下さい」と伝えたら、「使わせてく",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ヤンキース",
+      "title": "スズキ 軽自動車",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "やば！おしゃれなイタリアンや！1人客お断りだろうなと思ったら、壁を隔てておしゃれ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "レイズ 対 ヤンキース",
+      "title": "大坂なおみ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "木竜麻生",
+      "title": "庵野秀明 ヤマト",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "タイムズカーの免許証画像流出、退会後も7年保管　同業他社はすぐ削除 - 日本経済",
+      "title": "ブラックベリーヨーグルトフラペチーノ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「ひげ、指毛、眉間の毛を処理する」「他人の家での生理用品のゴミは持ち帰る」母親も",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "中国 産 野菜",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "反田恭平",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "病院にて9時の予約で時間通りに診察券と保険証を提出…12時の診察終了まで呼ばれず",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "サンリオ「クロミ」裁判の追加情報（栗原潔） - エキスパート - Yahoo!ニ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -119,52 +119,52 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ノンアルの人も受け入れたいというのは下戸でバーテンダーをやっているからわかるが、",
+      "title": "「ひげ、指毛、眉間の毛を処理する」「他人の家での生理用品のゴミは持ち帰る」母親も",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "デザインが許可なく使われたので「使うなら契約して下さい」と伝えたら、「使わせてく",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「結婚式、相手さえ良ければ体育館を貸し切ってそこでやったらよくない？」体育館を使",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
     },
     {
+      "title": "6歳の時、親に突然「バイバイ」と言われ、知らないお姉さんに手を引かれて飛行機に乗",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「横浜にありがちな家の裏側」崖地に建てられた家への疑問、暮らすのはなかなか大変ら",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『実は、路上で生活していた仔猫を迎え入れました』とっても元気で可愛いことが雰囲気",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "どこからどこまで歩いたことがありますか？ - 暮らし - はてなパークス",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ヒップホップは生まれた日と場所が確定している　〜二十三夜待・第二夜〜",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "やば！おしゃれなイタリアンや！1人客お断りだろうなと思ったら、壁を隔てておしゃれ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『キムチ美味すぎて止まんない、日本は韓国の領土』日本人のポストにドン引きしつつも",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "タイムズカーの免許証画像流出、退会後も7年保管　同業他社はすぐ削除 - 日本経済",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "バカクソ高いみりん醤油VS一般的なみりん醤油で同じ味付けでひじき煮を作ってどのく",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "臨時国会で重点的に取り組んでほしい政策1位は「社会保障対策」、高市内閣の支持率は",
+      "title": "新潟の郷土料理・きりざいが食べたくて作ってみた。そしてみつけた納豆のポテンシャル",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "topic_category": "social_reaction"
     }
   ]
 }
