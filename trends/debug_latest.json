@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T23:29:00+09:00",
+  "generated_at": "2026-10-07T03:38:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,99 +7,99 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
+    "neg_excluded": 12,
     "dedup_excluded": 8,
-    "passed_total": 117,
+    "passed_total": 102,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
-      "news_web": 11,
+      "yahoo_realtime": 22,
       "google_trends": 10,
-      "yahoo_news_ranking": 2,
+      "news_web": 22,
+      "yahoo_news_ranking": 6,
       "x_realtime": 10
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "personal_story": 5,
-    "opinion": 10,
-    "hard_fact": 8,
-    "policy": 12,
+    "social_reaction": 23,
+    "personal_story": 3,
+    "opinion": 9,
+    "policy": 6,
+    "hard_fact": 24,
     "medical_science": 5
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
-    "hard_fact": 12,
-    "personal_story": 5,
-    "opinion": 10,
-    "policy": 12,
+    "social_reaction": 23,
+    "opinion": 9,
+    "hard_fact": 28,
+    "personal_story": 3,
+    "policy": 6,
     "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "「ティーバッグは絞るべき？」英国紅茶のアーマッドティーが投稿したおしゃれな絞り方",
+      "title": "「こういうトラブルがありえるのか…」不調なまま使っていたエコキュートがレジオネラ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
+      "title": "クロアチア 対 スペイン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "西湘バイパス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "旭化成",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
       "title": "パ全日程終了 各部門タイトル一覧",
       "source_category": "news_web",
-      "raw_source_key": "yahoo_news_sports",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "アイドルが電気柵に触れ「感電」、本人や周囲は笑顔も...動画に波紋　「危険事案な",
+      "title": "死ぬのがあまり嫌ではなくなった\"戦う哲学者\"が､じわじわとわかるようになった｢私",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "マンジャロ",
+      "title": "イギリス王室",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "阿部一二三",
+      "title": "読売新聞",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "草刈り",
+      "title": "生徒会にもアナはある 規制解除",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "topic_category": "policy"
     },
     {
-      "title": "中西健治",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "山岸祐也",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "俺たちの箱根駅伝 キャスト",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "菅田将暉 兄弟",
+      "title": "和田アキ子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,16 +107,52 @@
   ],
   "note_top10": [
     {
-      "title": "「ティーバッグは絞るべき？」英国紅茶のアーマッドティーが投稿したおしゃれな絞り方",
+      "title": "「こういうトラブルがありえるのか…」不調なまま使っていたエコキュートがレジオネラ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "アイドルが電気柵に触れ「感電」、本人や周囲は笑顔も...動画に波紋　「危険事案な",
+      "title": "死ぬのがあまり嫌ではなくなった\"戦う哲学者\"が､じわじわとわかるようになった｢私",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
+    },
+    {
+      "title": "大泉洋さんが偉そうになったとか言ってる人を見たけど、23歳の頃と53歳の今を比較",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "推しが謎イベに出る！と思って茨城まで行ったらオタクを舐めた酷いイベントだった話｜",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ダイソーさん本当にありがとうございます…味噌のフタを売ってくれて「サイズぴったり",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "信じられないかもしれないが、一時期埼玉県に住んでいた時は平坦で辛かった…地形に一",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「マイクロソフトに言ってください案件」社内SEをやっていた際「Excelファイル",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "クロアチア 対 スペイン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "大村知事「来てほしくなかった」　食事への不満投稿のタイ代表に | 毎日新聞",
@@ -125,45 +161,9 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "生徒会にも穴はある！ 第1話「オスガキにも穴はあるんだよな…」「かいちょーは梅く",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "SNSで相次ぐ被害女性への中傷、知事も苦言　沖縄強盗殺人 | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
       "title": "「ロンドンとかだとアスファルトの下って全部そうなってる…？」現代的な道路の下に昔",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「家を選ぶときは歳を取った時のことを考えた方がいい」急な階段20段くらい上がらな",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ナンパに困っている女性を助けようと彼氏のフリして声をかけたら「すみません…アナタ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「外来種による外来種の駆除」何か言いたげな顔で見つめてくる用水路のアライグマ、さ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ロシアの偽スタバがわざわざグジェリ焼きというロシアの伝統陶芸でタンブラーを出して",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
