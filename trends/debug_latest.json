@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T10:00:00+09:00",
+  "generated_at": "2026-10-07T16:42:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
+    "neg_excluded": 8,
     "dedup_excluded": 12,
-    "passed_total": 111,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
-      "news_web": 17,
-      "yahoo_news_ranking": 4,
       "google_trends": 10,
-      "x_realtime": 7
+      "yahoo_realtime": 35,
+      "x_realtime": 6,
+      "yahoo_news_ranking": 5,
+      "news_web": 14
     }
   },
   "note_category_counts": {
-    "social_reaction": 24,
-    "medical_science": 6,
+    "social_reaction": 29,
     "opinion": 10,
+    "medical_science": 3,
     "personal_story": 1,
     "hard_fact": 20,
-    "policy": 9
+    "policy": 7
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 23,
-    "medical_science": 3,
-    "social_reaction": 24,
     "opinion": 10,
-    "policy": 9,
+    "hard_fact": 20,
+    "social_reaction": 29,
+    "medical_science": 2,
+    "policy": 8,
     "personal_story": 1
   },
   "b2b_top10": [
+    {
+      "title": "実質賃金",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
     {
       "title": "シャウエッセン、6本から5本へ「時代に負けてたまるか」はなぜ炎上？　実質値上げの",
       "source_category": "yahoo_realtime",
@@ -51,55 +57,49 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "シャウエッセンのX投稿 なぜ炎上",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "肺ペストとは何か、その危険性はどれくらいか",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "隣の家が建築中だが大工さんたちの喫煙とスピーカーでのクラブミュージックガンガンの",
+      "title": "大手ビールメーカー4社を強制調査 価格カルテル疑い 公取委　 | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "実質賃金10年ぶり8カ月連続プラス",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "数十人を隔離、病院は閉鎖　ペスト研究所の職員死亡受け　ロシア",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "ファミリーマートに設置しているATMの営業終了のお知らせ～2027年1月から営業",
+      "title": "8月の実質賃金 前年同月比1.5％増 8か月連続プラス | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "パドレス 対 ブルワーズ",
+      "title": "がっかり だっ た 夏 ドラマ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "保育園の運動会が土曜日に開催なのに「やむを得ず小学生のご兄弟をお連れの場合は〜」",
+      "title": "「KAITOって人、代理戦争勃発してるのに本人全然出てこないの何で？って思ってた",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "職質で鞄の中を見せろと求められたが「職務規定で部外者には見せられないので、会社ま",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "タワレコやミスドみたいな「発祥の国で衰退したのになぜか日本では元気」の逆パターン",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "片山さつき",
+      "title": "天皇杯 放送",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "天皇杯",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
-      "title": "隣の家が建築中だが大工さんたちの喫煙とスピーカーでのクラブミュージックガンガンの",
+      "title": "大手ビールメーカー4社を強制調査 価格カルテル疑い 公取委　 | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ファミリーマートに設置しているATMの営業終了のお知らせ～2027年1月から営業",
+      "title": "8月の実質賃金 前年同月比1.5％増 8か月連続プラス | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "保育園の運動会が土曜日に開催なのに「やむを得ず小学生のご兄弟をお連れの場合は〜」",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "実質賃金",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "信じられないかもしれないが、一時期埼玉県に住んでいた時は平坦で辛かった…地形に一",
+      "title": "職質で鞄の中を見せろと求められたが「職務規定で部外者には見せられないので、会社ま",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ダイソーさん本当にありがとうございます…味噌のフタを売ってくれて「サイズぴったり",
+      "title": "韓国人「なんでハーゲンダッツは日本だけで新しいフレーバーが次々出てくるの？他の国",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "実は耳掻きはしなくてもいいと聞いて、その通りにして3ヶ月後くらいに耳の中に違和感",
+      "title": "「違う！違う！若年性認知症じゃない！」家族が私を病院に連れて行こうとしたので理由",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "タワレコやミスドみたいな「発祥の国で衰退したのになぜか日本では元気」の逆パターン",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "旦那が仕事で泊まった良いホテルから何度も営業電話が…「私と泊まったことないですけ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "マッチョじゃなくてもフライパンを曲げたい　曲げ方を調べ、曲げやすいフライパンを選",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "昔FANZAのアカウントが乗っ取られ、好き放題漫画を買われて約17万円の請求…サ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "ピローミストで緊張やストレスから解放！無印良品やロクシタンやニールズヤードなどお",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "企業「パスワードは3ヶ月毎に変えるようにしてください」僕「はい」企業「ごめんミス",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "友達、オタクじゃなさすぎてアクスタのことプラバンって言ってて最高「急に手作りチー",
+      "title": "錦糸町で「ワシが死んでもええんか!?」と絶叫してるおじさん…あまりにも将来の自分",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
