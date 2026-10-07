@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T06:28:19+09:00",
+ "generated_at": "2026-10-07T16:39:06+09:00",
  "valid_until": "2026-10-21T06:26:50+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "biz",
   "from_current": 24,
-  "from_new": 9,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 9,
+  "retention_dropped": 0,
   "genres": 3,
   "retention_per_genre": 8
  },
@@ -498,13 +498,13 @@
   },
   {
    "source_category": "news_web",
-   "raw_title": "日本郵便の料金改定とEC発送への影響（ネットショップ担当者フォーラム）",
+   "raw_title": "日本郵便、2026年10月1日からゆうパック・ゆうパケット・クリックポストを改定",
    "url": "https://netshop.impress.co.jp/n/2026/07/07/16365",
-   "summary": "日本郵便の運賃改定をEC事業者向けに伝える記事。年末商戦前の送料設定・送料無料ライン見直しの起点になる。",
+   "summary": "ゆうパックは基本運賃が平均約10%上昇(東京発北海道着60サイズ1,410円→1,550円)。ゆうパケットは全サイズ一律360円、クリックポストは185円→240円でサイズ上限・重量上限も変更。包装資材も値上げ。送料設定の見直しが年末商戦前の宿題になる。",
    "signal_type": "trend",
    "engagement_signal": false,
    "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
+   "preliminary_claim_type": "official_instruction",
    "relevance_to_niche": "high",
    "topic_category": null,
    "primary_genre": "biz-ec-shop",
@@ -515,7 +515,7 @@
    "provenance": {
     "source_name": "ネットショップ担当者フォーラム",
     "expert_origin": true,
-    "search_query": "ネットショップ 年末商戦 2026 ゆうパケット クリックポスト 値上げ 送料 価格設定 見直し",
+    "search_query": "ネットショップ ゆうパケット クリックポスト 値上げ 2026年10月 送料 見直し 個人ショップ 対策",
     "freshness": "fresh",
     "integrity_warning": null,
     "provenance_kind": "evidence",
@@ -523,7 +523,7 @@
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-10-12T06:26:50+09:00",
+   "valid_until": "2026-10-12T16:37:25+09:00",
    "validity_days": 5
   },
   {
