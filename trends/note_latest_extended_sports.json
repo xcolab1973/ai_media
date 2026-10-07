@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T16:39:06+09:00",
+ "generated_at": "2026-10-08T06:28:41+09:00",
  "valid_until": "2026-10-21T06:27:57+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -11,7 +11,7 @@
   "from_current": 16,
   "from_new": 2,
   "expired_pruned": 0,
-  "retention_dropped": 2,
+  "retention_dropped": 1,
   "genres": 2,
   "retention_per_genre": 8
  },
@@ -258,13 +258,13 @@
   },
   {
    "source_category": "news_web",
-   "raw_title": "NPB クライマックスシリーズ2026 日程と中継（ABEMA de J SPORTS）",
+   "raw_title": "2026年 NPBクライマックスシリーズ日程（vegcale）",
    "url": "https://vegcale.com/2026/09/06/npb-climax-series-2026-schedule/",
-   "summary": "ファーストステージは10月10日開幕、ファイナルは10月14日から。中継はABEMAの予定だが、料金や無料視聴可否は9月5日時点で未発表と記載。どこで見られるか迷う観戦者向けの二次質問が残る。",
+   "summary": "9/5時点の記事。ファーストステージは10/10開幕、ファイナルは10/14開幕。チケットはFC先行抽選→一般発売の流れ。中継はABEMA de J SPORTSの予定。順位次第で方式が変わるため確定は公式で確認が必要。",
    "signal_type": "trend",
    "engagement_signal": false,
    "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
+   "preliminary_claim_type": "opinion",
    "relevance_to_niche": "high",
    "topic_category": null,
    "primary_genre": "sports-watch",
@@ -275,15 +275,45 @@
    "provenance": {
     "source_name": "vegcale",
     "expert_origin": false,
-    "search_query": "クライマックスシリーズ 2026 ファイナルステージ アドバンテージ 2勝 日程 日本シリーズ 進出",
+    "search_query": "プロ野球 CS 観戦 チケット 払い戻し 中継 見方 2026 ポストシーズン",
     "freshness": "fresh",
     "integrity_warning": null,
     "provenance_kind": "evidence",
-    "opportunity_gap": true,
+    "opportunity_gap": false,
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-10-12T16:38:30+09:00",
+   "valid_until": "2026-10-13T06:28:20+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "セントラル・リーグ（NPB クライマックスシリーズ情報）",
+   "url": "https://npb.jp/games/2026/info_cs.html",
+   "summary": "NPB公式のCS情報ページ。2026年からファイナルステージのアドバンテージ制度が見直された。制度の一次情報として裏取りに使える。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "official_instruction",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "sports-watch",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "NPB公式",
+    "expert_origin": true,
+    "search_query": "クライマックスシリーズ 2026 アドバンテージ2勝 ファイナルステージ 日程 ルール",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-10-13T06:28:20+09:00",
    "validity_days": 5
   },
   {
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-10-11T14:51:58+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "チケット不正転売禁止法 ～「知らない」では済まされない！Q＆A～",
-   "url": "https://www.cpra.jp/cpra_article/article/000610.html",
-   "summary": "チケット不正転売禁止法のQ&A解説。観戦チケットを譲る・買う際に何が違法になるかという、観戦者の二次質問に結びつく。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "sports-watch",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "CPRA Article",
-    "expert_origin": true,
-    "search_query": "2026年10月 スポーツ観戦 チケット 転売 規制 施行 初心者 ルール 解説",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-10-10T16:38:50+09:00",
    "validity_days": 5
   }
  ]
