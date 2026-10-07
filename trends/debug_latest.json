@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T16:42:00+09:00",
+  "generated_at": "2026-10-07T23:46:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,39 +16,45 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 12,
-    "passed_total": 112,
+    "neg_excluded": 6,
+    "dedup_excluded": 11,
+    "passed_total": 115,
     "b2b_category_counts": {
+      "yahoo_realtime": 38,
       "google_trends": 10,
-      "yahoo_realtime": 35,
       "x_realtime": 6,
-      "yahoo_news_ranking": 5,
-      "news_web": 14
+      "news_web": 11,
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "opinion": 10,
-    "medical_science": 3,
-    "personal_story": 1,
-    "hard_fact": 20,
-    "policy": 7
+    "social_reaction": 27,
+    "personal_story": 3,
+    "opinion": 9,
+    "medical_science": 2,
+    "hard_fact": 21,
+    "policy": 8
   },
   "b2b_topic_category_counts": {
-    "opinion": 10,
+    "social_reaction": 27,
     "hard_fact": 20,
-    "social_reaction": 29,
-    "medical_science": 2,
-    "policy": 8,
-    "personal_story": 1
+    "opinion": 9,
+    "personal_story": 3,
+    "policy": 9,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "実質賃金",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "シャウエッセンの広告がなぜ炎上したか専門家が過去の他社の例を出して解説「『改悪を",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "大手ビールメーカー4社を強制調査 価格カルテル疑い 公取委　 | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "シャウエッセン、6本から5本へ「時代に負けてたまるか」はなぜ炎上？　実質値上げの",
@@ -57,49 +63,43 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "大手ビールメーカー4社を強制調査 価格カルテル疑い 公取委　 | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "8月の実質賃金 前年同月比1.5％増 8か月連続プラス | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "がっかり だっ た 夏 ドラマ",
+      "title": "伊原六花",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "「KAITOって人、代理戦争勃発してるのに本人全然出てこないの何で？って思ってた",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "職質で鞄の中を見せろと求められたが「職務規定で部外者には見せられないので、会社ま",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "タワレコやミスドみたいな「発祥の国で衰退したのになぜか日本では元気」の逆パターン",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "天皇杯 放送",
+      "title": "ベイカレントクラシック",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "天皇杯",
+      "title": "おひたしが好きすぎて毎日食べているが、偶然見つけたレシピを試してみたら料亭の味み",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「女の子の絵の中指と薬指がくっついてる描き方」って時代を作ったよね、発明したのっ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "坂口杏里",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "モデルチェンジ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ワンピースカード 抽選",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,63 +107,63 @@
   ],
   "note_top10": [
     {
+      "title": "シャウエッセンの広告がなぜ炎上したか専門家が過去の他社の例を出して解説「『改悪を",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "おひたしが好きすぎて毎日食べているが、偶然見つけたレシピを試してみたら料亭の味み",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
       "title": "大手ビールメーカー4社を強制調査 価格カルテル疑い 公取委　 | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "8月の実質賃金 前年同月比1.5％増 8か月連続プラス | NHKニュース",
+      "title": "兄が10歳前後の時、夕飯でふざけて味噌汁を床に落とすも母はピクリともせず「そこに",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "実質賃金",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "職質で鞄の中を見せろと求められたが「職務規定で部外者には見せられないので、会社ま",
+      "title": "「女の子の絵の中指と薬指がくっついてる描き方」って時代を作ったよね、発明したのっ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "韓国人「なんでハーゲンダッツは日本だけで新しいフレーバーが次々出てくるの？他の国",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「違う！違う！若年性認知症じゃない！」家族が私を病院に連れて行こうとしたので理由",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "タワレコやミスドみたいな「発祥の国で衰退したのになぜか日本では元気」の逆パターン",
+      "title": "「外国人からめっちゃ道聞かれるんだけど、Google翻訳出そうとしたらアイツら止",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "マッチョじゃなくてもフライパンを曲げたい　曲げ方を調べ、曲げやすいフライパンを選",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ピローミストで緊張やストレスから解放！無印良品やロクシタンやニールズヤードなどお",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "錦糸町で「ワシが死んでもええんか!?」と絶叫してるおじさん…あまりにも将来の自分",
+      "title": "不登校児の漫画に様々な意見が集まる中、『二階堂地獄ゴルフ』からは主人公の凄さを感",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『機動戦艦ナデシコ』テレビ放送30周年　サントラ＆キャラソンを一挙サブスク解禁",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "愛知県知事、タイのアジア大会チームに「来てほしくなかった」　現地は反発「発言は驚",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "情報漏えい相次ぎ 愛知県でも免許証番号変更を認める | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
