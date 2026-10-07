@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T03:38:00+09:00",
+  "generated_at": "2026-10-07T10:00:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,99 +7,99 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 8,
-    "passed_total": 102,
+    "neg_excluded": 9,
+    "dedup_excluded": 12,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "yahoo_realtime": 22,
+      "yahoo_realtime": 32,
+      "news_web": 17,
+      "yahoo_news_ranking": 4,
       "google_trends": 10,
-      "news_web": 22,
-      "yahoo_news_ranking": 6,
-      "x_realtime": 10
+      "x_realtime": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 23,
-    "personal_story": 3,
-    "opinion": 9,
-    "policy": 6,
-    "hard_fact": 24,
-    "medical_science": 5
+    "social_reaction": 24,
+    "medical_science": 6,
+    "opinion": 10,
+    "personal_story": 1,
+    "hard_fact": 20,
+    "policy": 9
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 23,
-    "opinion": 9,
-    "hard_fact": 28,
-    "personal_story": 3,
-    "policy": 6,
-    "medical_science": 1
+    "hard_fact": 23,
+    "medical_science": 3,
+    "social_reaction": 24,
+    "opinion": 10,
+    "policy": 9,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "「こういうトラブルがありえるのか…」不調なまま使っていたエコキュートがレジオネラ",
+      "title": "シャウエッセン、6本から5本へ「時代に負けてたまるか」はなぜ炎上？　実質値上げの",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "hard_fact"
     },
     {
-      "title": "クロアチア 対 スペイン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "西湘バイパス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "旭化成",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "パ全日程終了 各部門タイトル一覧",
+      "title": "シャウエッセンのX投稿 なぜ炎上",
       "source_category": "news_web",
       "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "死ぬのがあまり嫌ではなくなった\"戦う哲学者\"が､じわじわとわかるようになった｢私",
+      "title": "肺ペストとは何か、その危険性はどれくらいか",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "medical_science"
     },
     {
-      "title": "イギリス王室",
+      "title": "隣の家が建築中だが大工さんたちの喫煙とスピーカーでのクラブミュージックガンガンの",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "実質賃金10年ぶり8カ月連続プラス",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "数十人を隔離、病院は閉鎖　ペスト研究所の職員死亡受け　ロシア",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "ファミリーマートに設置しているATMの営業終了のお知らせ～2027年1月から営業",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "パドレス 対 ブルワーズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "読売新聞",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "保育園の運動会が土曜日に開催なのに「やむを得ず小学生のご兄弟をお連れの場合は〜」",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "生徒会にもアナはある 規制解除",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "policy"
-    },
-    {
-      "title": "和田アキ子",
+      "title": "片山さつき",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,63 +107,63 @@
   ],
   "note_top10": [
     {
-      "title": "「こういうトラブルがありえるのか…」不調なまま使っていたエコキュートがレジオネラ",
+      "title": "隣の家が建築中だが大工さんたちの喫煙とスピーカーでのクラブミュージックガンガンの",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "死ぬのがあまり嫌ではなくなった\"戦う哲学者\"が､じわじわとわかるようになった｢私",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "大泉洋さんが偉そうになったとか言ってる人を見たけど、23歳の頃と53歳の今を比較",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "推しが謎イベに出る！と思って茨城まで行ったらオタクを舐めた酷いイベントだった話｜",
+      "title": "ファミリーマートに設置しているATMの営業終了のお知らせ～2027年1月から営業",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ダイソーさん本当にありがとうございます…味噌のフタを売ってくれて「サイズぴったり",
+      "title": "保育園の運動会が土曜日に開催なのに「やむを得ず小学生のご兄弟をお連れの場合は〜」",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "信じられないかもしれないが、一時期埼玉県に住んでいた時は平坦で辛かった…地形に一",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「マイクロソフトに言ってください案件」社内SEをやっていた際「Excelファイル",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "クロアチア 対 スペイン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "大村知事「来てほしくなかった」　食事への不満投稿のタイ代表に | 毎日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ロンドンとかだとアスファルトの下って全部そうなってる…？」現代的な道路の下に昔",
+      "title": "ダイソーさん本当にありがとうございます…味噌のフタを売ってくれて「サイズぴったり",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "実は耳掻きはしなくてもいいと聞いて、その通りにして3ヶ月後くらいに耳の中に違和感",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "旦那が仕事で泊まった良いホテルから何度も営業電話が…「私と泊まったことないですけ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "昔FANZAのアカウントが乗っ取られ、好き放題漫画を買われて約17万円の請求…サ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "企業「パスワードは3ヶ月毎に変えるようにしてください」僕「はい」企業「ごめんミス",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "友達、オタクじゃなさすぎてアクスタのことプラバンって言ってて最高「急に手作りチー",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
