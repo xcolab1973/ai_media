@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T06:28:41+09:00",
+ "generated_at": "2026-10-09T06:29:00+09:00",
  "valid_until": "2026-10-22T06:28:07+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "money",
   "from_current": 64,
-  "from_new": 8,
+  "from_new": 2,
   "expired_pruned": 0,
-  "retention_dropped": 7,
+  "retention_dropped": 1,
   "genres": 8,
   "retention_per_genre": 8
  },
@@ -1458,9 +1458,9 @@
   },
   {
    "source_category": "news_web",
-   "raw_title": "特定暗号資産の申告分離課税（令和8年度税制改正）",
+   "raw_title": "k04 separate taxation for crypto assets",
    "url": "https://www.yamada-partners.jp/reform/r8/k04-separate-taxation-for-crypto-assets",
-   "summary": "特定暗号資産の譲渡は他の所得と分離し税率20.315%、損失は一定要件で翌年以後3年繰越可。総合課税の暗号資産は最大55.945%で損益通算不可。適用は金融商品取引法改正法の施行日の属する年の翌年1月1日以後の譲渡から。",
+   "summary": "令和8年度税制改正大綱に基づく暗号資産の申告分離課税の概要。特定暗号資産の譲渡所得等は20.315%で分離課税、適用は金商法改正法の施行翌年1月1日以後の譲渡から。損失は条件付きで3年繰越可。法案次第で変わり得る。",
    "signal_type": "trend",
    "engagement_signal": false,
    "approx_traffic": "100+",
@@ -1475,7 +1475,7 @@
    "provenance": {
     "source_name": "山田&パートナーズ",
     "expert_origin": true,
-    "search_query": "暗号資産 申告分離課税 20% 税制改正大綱",
+    "search_query": "暗号資産 申告分離課税 20% 金融商品取引法 改正 2026 税制改正大綱 いつから",
     "freshness": "fresh",
     "integrity_warning": null,
     "provenance_kind": "evidence",
@@ -1483,7 +1483,37 @@
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-10-13T06:28:07+09:00",
+   "valid_until": "2026-10-14T06:27:40+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "Japan Eyes First Bitcoin ETF Launch by 2028 as Crypto Regulatory Reform Gains Momentum",
+   "url": "https://www.cryptometer.io/news/japan-eyes-first-bitcoin-etf-launch-by-2028-as-crypto-regulatory-reform-gains-momentum/",
+   "summary": "日本でビットコインETFの初上場が2028年までを目標に議論されているとの報道。暗号資産規制改革の流れの中で、ETF解禁を待つか現物を持つかという下流の迷いが生じる。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "money-crypto",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Cryptometer",
+    "expert_origin": false,
+    "search_query": "暗号資産 ビットコイン ETF 解禁 日本 2026 損益通算 確定申告 取引所 年間取引報告書",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-10-14T06:27:40+09:00",
    "validity_days": 5
   },
   {
@@ -1659,36 +1689,6 @@
     "freshness": "evergreen",
     "integrity_warning": null,
     "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-10-10T06:27:16+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "暗号資産の損益計算が難しいと言われるのはなぜ？正しく計算を行う方法を紹介",
-   "url": "https://linebitmax.blog.jp/archives/29915953.html",
-   "summary": "暗号資産の損益計算がつまずきやすい理由を整理した記事。複数取引所・取引履歴の整理が主なつまずきとして想定される。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "money-crypto",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "LINE BITMAX blog",
-    "expert_origin": false,
-    "search_query": "暗号資産 税金 年末 損出し 移動平均法 総平均法 計算 失敗",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
     "opportunity_gap": false,
     "discovered_angle": null,
     "rescued": false
