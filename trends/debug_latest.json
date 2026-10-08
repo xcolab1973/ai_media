@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T23:57:00+09:00",
+  "generated_at": "2026-10-09T04:01:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,39 +16,39 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 9,
-    "passed_total": 116,
+    "neg_excluded": 8,
+    "dedup_excluded": 11,
+    "passed_total": 113,
     "b2b_category_counts": {
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "yahoo_realtime": 36,
-      "x_realtime": 9,
-      "yahoo_news_ranking": 4,
-      "news_web": 11
+      "yahoo_news_ranking": 3,
+      "news_web": 15,
+      "x_realtime": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "opinion": 10,
+    "social_reaction": 25,
     "personal_story": 2,
+    "opinion": 10,
     "medical_science": 4,
-    "policy": 12,
-    "hard_fact": 14
+    "policy": 11,
+    "hard_fact": 18
   },
   "b2b_topic_category_counts": {
-    "opinion": 10,
+    "social_reaction": 25,
     "policy": 12,
-    "social_reaction": 28,
-    "hard_fact": 15,
+    "opinion": 10,
+    "hard_fact": 18,
     "personal_story": 2,
     "medical_science": 3
   },
   "b2b_top10": [
     {
-      "title": "食中毒",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "イタリア産生ハム解禁へ　アフリカ豚熱対策、長期熟成条件に / 日本農業新聞公式ウ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "【速報】首相、簗農相を続投させる意向表明",
@@ -63,43 +63,43 @@
       "topic_category": "policy"
     },
     {
-      "title": "なんで我々アジア人が欧米の主導する対露制裁に協力する義理があるのか？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "イタリア産生ハム解禁へ　アフリカ豚熱対策、長期熟成条件に / 日本農業新聞公式ウ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "札幌市の小学6年生に提供される給食、とある日の献立を撮影した写真が「配膳ミス」か",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "石川祐希",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "このまま家賃と物価だけ上がって給料が追いつかなかったら、一人暮らしできない若者が",
+      "title": "2000年前後から2026年までの『嫌われるデザインの歴史』を調べたサイトが大変",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "qilin",
+      "title": "ジェミニ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "刀剣 乱舞 トヨタ",
+      "title": "相次ぐ個人情報流出の件、登録する住所の最後に「（企業名）」を付与するようにしたら",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "openai",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "進撃の巨人",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "h&m",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -119,28 +119,16 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "このまま家賃と物価だけ上がって給料が追いつかなかったら、一人暮らしできない若者が",
+      "title": "2000年前後から2026年までの『嫌われるデザインの歴史』を調べたサイトが大変",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "なんで我々アジア人が欧米の主導する対露制裁に協力する義理があるのか？",
+      "title": "相次ぐ個人情報流出の件、登録する住所の最後に「（企業名）」を付与するようにしたら",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "食中毒",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "駅に推しの応援広告を出した話と手順、備忘録を添えて｜霧島大和",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
     },
     {
       "title": "【重要】NewsPicksのお客様の個人情報漏洩の可能性に関するお詫びとお知らせ",
@@ -149,19 +137,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "農家数は減って大丈夫？—―「農家が25％減」でも全然大丈夫　農水省の数字が農業の",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「人格否定的なものはわりと避けてる」辻元清美参院議員の人格を評価する声があるが、",
+      "title": "「退職勧告のことを“Sell Happiness”と呼ぶ」「知り合いの個人情報を",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
+      "title": "地元がサイクリストの聖地になった。",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "祖母は「たま」という名だが、お嬢様だったらしく18歳になるまで飯炊きはおろか掃除",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "勝手にはてなパークスのユーザー数を増やす方法を考えるスレッド - はてなパークス",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「太った」「痩せた」体型変化を“ニュース”にされた千葉雄大が心境を明かす…「心底",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
