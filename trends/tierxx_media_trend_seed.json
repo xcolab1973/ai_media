@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-07T23:42:45+0900",
-    "record_count": 37,
-    "source_total_in_db": 1402,
+    "generated_at": "2026-10-08T10:13:22+0900",
+    "record_count": 36,
+    "source_total_in_db": 1403,
     "provenance_breakdown": {
-      "evidence": 899,
+      "evidence": 900,
       "pain_seed": 503
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_e41f288b4654",
+      "trend_term": "羊膜レンズ・スキンブースター",
+      "raw_title": "エムエスバイオ、IPOで事業拡大へ 羊膜レンズ・スキンブースターを育成 - 코메디닷컴",
+      "summary": "エムエスバイオがIPOで事業拡大を計画。羊膜レンズとスキンブースターを育成対象製品として位置付け。",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NYmZXSXVSVkZKUDEtaGVpczR6Z1BabGJISXloMGxTVkNidzNWRTRxZFBFYVhFRXk5eEszZEZyamFuQjFLU1VGbHNvUXRYM1ZFa3VTdHUwdXk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NYmZXSXVSVkZKUDEtaGVpczR6Z1BabGJISXloMGxTVkNidzNWRTRxZFBFYVhFRXk5eEszZEZyamFuQjFLU1VGbHNvUXRYM1ZFa3VTdHUwdXk?oc=5",
+      "source_name": "코메디닷컴",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-13T10:13:04+0900",
+      "status": "candidate",
+      "created_at": "2026-10-08T10:13:04+0900"
+    },
     {
       "seed_id": "seed_05e181aa7095",
       "trend_term": "美容医療の客単価向上施策",
@@ -319,24 +337,6 @@
       "created_at": "2026-10-05T18:29:51+0900"
     },
     {
-      "seed_id": "seed_cc6b0e26b11f",
-      "trend_term": "次世代スキンブースター",
-      "raw_title": "【ベンスクリニック新宿院】次世代ECMスキンブースター「Re2O（リトゥオ）」の施術を開始 - ニコニコニュース",
-      "summary": "ベンスクリニック新宿院が次世代ECMスキンブースター「Re2O」の施術を開始。新技術の導入事例。",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xSWJKYXgzTjlaRnM3U2lONDVwN0NDam1LZXhVUXMtTFNHVXlkLUpBdlgwSTRPSUV3RDdGSkotdERsUmFHWFE0cW5pc0hpT3AtbzVlQ0kwWDdrSWh1R2hhUlRRbnVSVGthenBXd1QxSFg3NWhnWFg5REttVQ?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xSWJKYXgzTjlaRnM3U2lONDVwN0NDam1LZXhVUXMtTFNHVXlkLUpBdlgwSTRPSUV3RDdGSkotdERsUmFHWFE0cW5pc0hpT3AtbzVlQ0kwWDdrSWh1R2hhUlRRbnVSVGthenBXd1QxSFg3NWhnWFg5REttVQ?oc=5",
-      "source_name": "ニコニコニュース",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-10T18:29:43+0900",
-      "status": "candidate",
-      "created_at": "2026-10-05T18:29:43+0900"
-    },
-    {
       "seed_id": "seed_53d361001e3b",
       "trend_term": "SNS症例と医師選別",
       "raw_title": "【大会長インタビュー】SNS症例で選ぶのは危険!? 失敗しない美容医療と医師の見極め方 - ライブドアニュース",
@@ -533,24 +533,6 @@
       "valid_until": "2026-10-08T21:41:08+0900",
       "status": "candidate",
       "created_at": "2026-10-03T21:41:08+0900"
-    },
-    {
-      "seed_id": "seed_d84237bda3bd",
-      "trend_term": "男性の美容医療選好変化",
-      "raw_title": "「キレイパス byGMO」、男性に人気の美容医療施術に変化「ルメッカ」が9位から2位、「ポテンツァ」が10位から3位に - prtimes.jp",
-      "summary": "「キレイパス byGMO」のデータから、男性利用者の施術選好が変化。ルメッカが9位から2位、ポテンツァが10位から3位へランクアップ。男性美容医療市場の需要シフトを示す。",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBQUYzZUgyeGIxSklZbzNfaVJRREtLb3BYelJoWnF3elJ4VUFudVExQzg5NzZJY0Jtc2lJS3ZObTIzc3U3QzhaYVpfeGFzazV1WUtDcFY4LXFBa3J0T0dzZ3FON0VJZEZoblE?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBQUYzZUgyeGIxSklZbzNfaVJRREtLb3BYelJoWnF3elJ4VUFudVExQzg5NzZJY0Jtc2lJS3ZObTIzc3U3QzhaYVpfeGFzazV1WUtDcFY4LXFBa3J0T0dzZ3FON0VJZEZoblE?oc=5",
-      "source_name": "prtimes.jp",
-      "monitor_id": "bm-machine-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-08T09:39:54+0900",
-      "status": "candidate",
-      "created_at": "2026-10-03T09:39:54+0900"
     },
     {
       "seed_id": "seed_88f4ebdb5ff0",
