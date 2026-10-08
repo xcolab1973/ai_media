@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T10:17:00+09:00",
+  "generated_at": "2026-10-08T16:59:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,89 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 7,
-    "passed_total": 119,
+    "neg_excluded": 10,
+    "dedup_excluded": 10,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "x_realtime": 10,
-      "yahoo_realtime": 39,
+      "x_realtime": 6,
+      "news_web": 16,
+      "yahoo_realtime": 33,
       "google_trends": 10,
-      "news_web": 8,
-      "yahoo_news_ranking": 3
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
+    "social_reaction": 29,
     "personal_story": 4,
-    "medical_science": 3,
-    "opinion": 9,
-    "hard_fact": 15,
-    "policy": 4
+    "opinion": 10,
+    "hard_fact": 18,
+    "policy": 8,
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 35,
-    "personal_story": 4,
-    "medical_science": 3,
-    "hard_fact": 15,
-    "opinion": 9,
-    "policy": 4
+    "social_reaction": 29,
+    "hard_fact": 18,
+    "policy": 9,
+    "opinion": 10,
+    "personal_story": 4
   },
   "b2b_top10": [
     {
-      "title": "オリコンニュースのYouTubeチャート記事で2位の「INMU KING」がきち",
+      "title": "日本語能力試験の例題のとても正解とは思えないような正解の音を聞いてほしい「想像の",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "スーパーカップ抹茶 製造終了の訳",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "【速報】首相、簗農相を続投させる意向表明",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "高市首相、簗農相の予算削減発言「不適切で厳しく注意」　更迭は否定 - 日本経済新",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "「人間っておもしれ〜！」ノーベル化学賞に選ばれた硤合憲三先生が、自身の研究につい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "なんで我々アジア人が欧米の主導する対露制裁に協力する義理があるのか？",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "交通系ICをうまく使えないご老人にキツめに注意するバスの運転手を見ていたら、ガチ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "1日16万円以上のAI費用発生で開発元が悲鳴。『妹に運転を教える』プレイヤー数1",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "WHOがロシア当局に追加情報要求　ペスト対策研究所職員が“原因不明の肺炎”で死亡",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "【開催報告 & 資料公開】Claude Mythos 時代の AWS セキュリテ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【YouTubeチャート】EBiDAN「Yes! 東京」が首位返り咲き　千葉雄喜",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ドジャース 速報 今日 結果速報 リアルタイム",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "八田與一",
+      "title": "水 ダウ マスクマン 第 4 弾",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "若い時の「俺は天才だ」「俺は他の人とは違う」という根拠のない驕りを正すことで人は",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "万引き",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "mlb ポストシーズン 日程",
+      "title": "仲 里依紗",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +106,64 @@
   ],
   "note_top10": [
     {
-      "title": "オリコンニュースのYouTubeチャート記事で2位の「INMU KING」がきち",
+      "title": "日本語能力試験の例題のとても正解とは思えないような正解の音を聞いてほしい「想像の",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「人間っておもしれ〜！」ノーベル化学賞に選ばれた硤合憲三先生が、自身の研究につい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "このまま家賃と物価だけ上がって給料が追いつかなかったら、一人暮らしできない若者が",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "なんで我々アジア人が欧米の主導する対露制裁に協力する義理があるのか？",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "交通系ICをうまく使えないご老人にキツめに注意するバスの運転手を見ていたら、ガチ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "3歳の子どもが「ママぁ、紺色の色鉛筆ほしい」と言うのでポチろうとしたが、「ほしい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "祖母は「たま」という名だが、お嬢様だったらしく18歳になるまで飯炊きはおろか掃除",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【開催報告 & 資料公開】Claude Mythos 時代の AWS セキュリテ",
+      "title": "アメリカ本社から「やれ！」と強制された銃撃対応のe-Learningは日本では遭",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "1日16万円以上のAI費用発生で開発元が悲鳴。『妹に運転を教える』プレイヤー数1",
+      "title": "東京生活　代沢編｜文・岡本太玖斗 - SUUMOタウン",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "【YouTubeチャート】EBiDAN「Yes! 東京」が首位返り咲き　千葉雄喜",
+      "title": "神奈川県警の警察官 回収した運転免許証 数十枚不正に持ち出し | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "若い時の「俺は天才だ」「俺は他の人とは違う」という根拠のない驕りを正すことで人は",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "WHOがロシア当局に追加情報要求　ペスト対策研究所職員が“原因不明の肺炎”で死亡",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "「キャプテン翼」の世界観、Ｊ１基準満たす２３区初の球技専用スタジアムに取り入れる",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "斎藤元彦知事、フリー記者の「人殺し」発言「容認しがたい」…会見参加認めず専門家「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「Windows」アプリの「リモート PC」接続が一般提供に、RDC接続もこのア",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
     }
   ]
 }
