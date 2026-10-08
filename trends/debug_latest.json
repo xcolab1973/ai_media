@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T16:59:00+09:00",
+  "generated_at": "2026-10-08T23:57:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,44 +16,39 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 10,
-    "passed_total": 112,
+    "neg_excluded": 7,
+    "dedup_excluded": 9,
+    "passed_total": 116,
     "b2b_category_counts": {
-      "x_realtime": 6,
-      "news_web": 16,
-      "yahoo_realtime": 33,
       "google_trends": 10,
-      "yahoo_news_ranking": 5
+      "yahoo_realtime": 36,
+      "x_realtime": 9,
+      "yahoo_news_ranking": 4,
+      "news_web": 11
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "personal_story": 4,
+    "social_reaction": 28,
     "opinion": 10,
-    "hard_fact": 18,
-    "policy": 8,
-    "medical_science": 1
+    "personal_story": 2,
+    "medical_science": 4,
+    "policy": 12,
+    "hard_fact": 14
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "hard_fact": 18,
-    "policy": 9,
     "opinion": 10,
-    "personal_story": 4
+    "policy": 12,
+    "social_reaction": 28,
+    "hard_fact": 15,
+    "personal_story": 2,
+    "medical_science": 3
   },
   "b2b_top10": [
     {
-      "title": "日本語能力試験の例題のとても正解とは思えないような正解の音を聞いてほしい「想像の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "スーパーカップ抹茶 製造終了の訳",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
+      "title": "食中毒",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "【速報】首相、簗農相を続投させる意向表明",
@@ -68,37 +63,43 @@
       "topic_category": "policy"
     },
     {
-      "title": "「人間っておもしれ〜！」ノーベル化学賞に選ばれた硤合憲三先生が、自身の研究につい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "なんで我々アジア人が欧米の主導する対露制裁に協力する義理があるのか？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "交通系ICをうまく使えないご老人にキツめに注意するバスの運転手を見ていたら、ガチ",
+      "title": "イタリア産生ハム解禁へ　アフリカ豚熱対策、長期熟成条件に / 日本農業新聞公式ウ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "水 ダウ マスクマン 第 4 弾",
+      "title": "札幌市の小学6年生に提供される給食、とある日の献立を撮影した写真が「配膳ミス」か",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "石川祐希",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "万引き",
+      "title": "このまま家賃と物価だけ上がって給料が追いつかなかったら、一人暮らしできない若者が",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "qilin",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "仲 里依紗",
+      "title": "刀剣 乱舞 トヨタ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,13 +107,13 @@
   ],
   "note_top10": [
     {
-      "title": "日本語能力試験の例題のとても正解とは思えないような正解の音を聞いてほしい「想像の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "イタリア産生ハム解禁へ　アフリカ豚熱対策、長期熟成条件に / 日本農業新聞公式ウ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「人間っておもしれ〜！」ノーベル化学賞に選ばれた硤合憲三先生が、自身の研究につい",
+      "title": "札幌市の小学6年生に提供される給食、とある日の献立を撮影した写真が「配膳ミス」か",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -130,37 +131,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "交通系ICをうまく使えないご老人にキツめに注意するバスの運転手を見ていたら、ガチ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "食中毒",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "3歳の子どもが「ママぁ、紺色の色鉛筆ほしい」と言うのでポチろうとしたが、「ほしい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "祖母は「たま」という名だが、お嬢様だったらしく18歳になるまで飯炊きはおろか掃除",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "アメリカ本社から「やれ！」と強制された銃撃対応のe-Learningは日本では遭",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "東京生活　代沢編｜文・岡本太玖斗 - SUUMOタウン",
+      "title": "駅に推しの応援広告を出した話と手順、備忘録を添えて｜霧島大和",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "神奈川県警の警察官 回収した運転免許証 数十枚不正に持ち出し | NHKニュース",
+      "title": "【重要】NewsPicksのお客様の個人情報漏洩の可能性に関するお詫びとお知らせ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "農家数は減って大丈夫？—―「農家が25％減」でも全然大丈夫　農水省の数字が農業の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「人格否定的なものはわりと避けてる」辻元清美参院議員の人格を評価する声があるが、",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "祖母は「たま」という名だが、お嬢様だったらしく18歳になるまで飯炊きはおろか掃除",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
