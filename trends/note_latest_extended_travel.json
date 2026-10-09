@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T06:29:00+09:00",
+ "generated_at": "2026-10-09T18:49:20+09:00",
  "valid_until": "2026-10-21T16:38:32+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,18 +9,18 @@
  "merge": {
   "parent": "travel",
   "from_current": 16,
-  "from_new": 6,
+  "from_new": 3,
   "expired_pruned": 0,
-  "retention_dropped": 5,
+  "retention_dropped": 1,
   "genres": 2,
   "retention_per_genre": 8
  },
  "candidates": [
   {
    "source_category": "news_web",
-   "raw_title": "surcharge ana jal",
+   "raw_title": "ANA/JAL 燃油サーチャージ（surcharge ana jal）",
    "url": "https://www.pipinobu.com/entry/surcharge-ana-jal",
-   "summary": "ANA/JALの燃油サーチャージの推移と改定をまとめた記事。発券時期で総額が変わるため、年末年始の航空券をいつ発券するかという二次質問の材料。最新額は公式で要確認。",
+   "summary": "ANA・JALの国際線燃油サーチャージの改定を整理するブログ。年末年始の航空券をいつ発券すると得かという、改定タイミングと発券日の関係が読者のペイン。金額は公式発表で要確認。",
    "signal_type": "trend",
    "engagement_signal": false,
    "approx_traffic": "100+",
@@ -35,7 +35,7 @@
    "provenance": {
     "source_name": "pipinobu",
     "expert_origin": false,
-    "search_query": "燃油サーチャージ 11月 12月発券分 JAL ANA 2026",
+    "search_query": "年末年始 海外旅行 航空券 燃油サーチャージ 2026 12月 発券 時期",
     "freshness": "fresh",
     "integrity_warning": null,
     "provenance_kind": "evidence",
@@ -43,14 +43,14 @@
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-10-16T06:28:51+09:00",
+   "valid_until": "2026-10-16T18:48:58+09:00",
    "validity_days": 7
   },
   {
    "source_category": "news_web",
-   "raw_title": "passport validity",
+   "raw_title": "パスポートの残存期間（passport validity）について",
    "url": "https://www.smbctb.co.jp/globalcompass/tips/passport-validity/",
-   "summary": "パスポート残存期間は国ごとに要件が異なり、不足だと入国拒否や搭乗拒否になり得ることを解説。渡航前に訪問国と乗継国の要件を確認する重要性を示す。",
+   "summary": "海外旅行の旅行会社系ガイド。パスポートの残存期間が足りず入国や搭乗で止まるトラブルを避けるための確認ポイントを扱う記事。渡航先ごとに必要な残存期間が違う点が、初心者のつまずきどころ。",
    "signal_type": "evergreen",
    "engagement_signal": false,
    "approx_traffic": "100+",
@@ -63,9 +63,9 @@
    "account_id": "default",
    "origin": "pre_collector_extended",
    "provenance": {
-    "source_name": "三井住友トラストクラブ(グローバルコンパス)",
+    "source_name": "三井住友トラストクラブ系 旅行情報",
     "expert_origin": true,
-    "search_query": "海外旅行 パスポート 残存期間 入国拒否",
+    "search_query": "海外旅行 パスポート 残存期間 入国拒否 トラブル 初心者 注意点",
     "freshness": "evergreen",
     "integrity_warning": null,
     "provenance_kind": "evidence",
@@ -73,7 +73,37 @@
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-10-16T06:28:51+09:00",
+   "valid_until": "2026-10-16T18:48:58+09:00",
+   "validity_days": 7
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "Don't forget: ETIAS scheduled to go into effect Q4 of 2026",
+   "url": "https://groupstoday.com/news/don-t-forget-etias-scheduled-to-go-into-effect-q4-of-2026",
+   "summary": "欧州渡航認証ETIASが2026年第4四半期に開始予定という旅行業界ニュース。年末年始に欧州へ行く人が、いつ何を申請すべきか迷う起点になる。開始日は公式情報での確認が必要。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "travel-abroad",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Groups Today",
+    "expert_origin": false,
+    "search_query": "ETIAS 開始日 外務省 海外安全ホームページ 2026",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-10-16T18:48:58+09:00",
    "validity_days": 7
   },
   {
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-10-15T06:28:20+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "海外旅行の予約はいつからできる?知りたいポイントをまとめました",
-   "url": "https://www.travel.co.jp/guide/howto/266/",
-   "summary": "海外旅行の予約開始時期の一般的な目安をまとめたガイド。年末年始に向けて今から動く読者が、航空券とホテルのどちらを先に押さえるかの二次質問に繋げられる。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "travel-abroad",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "トラベルjp",
-    "expert_origin": true,
-    "search_query": "海外旅行 初めて 年末年始 航空券 高い いつ買う 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-10-14T06:27:54+09:00",
    "validity_days": 7
   },
   {
