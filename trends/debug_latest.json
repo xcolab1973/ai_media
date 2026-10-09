@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T23:41:00+09:00",
+  "generated_at": "2026-10-10T03:32:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,36 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 13,
+    "neg_excluded": 5,
+    "dedup_excluded": 14,
     "passed_total": 113,
     "b2b_category_counts": {
       "yahoo_realtime": 35,
-      "news_web": 14,
+      "news_web": 16,
       "google_trends": 10,
-      "yahoo_news_ranking": 6,
+      "yahoo_news_ranking": 4,
       "x_realtime": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 23,
-    "personal_story": 5,
-    "opinion": 10,
-    "policy": 9,
+    "social_reaction": 28,
+    "personal_story": 2,
+    "opinion": 9,
+    "policy": 7,
     "medical_science": 4,
-    "hard_fact": 19
+    "hard_fact": 20
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 23,
-    "personal_story": 5,
-    "policy": 9,
-    "opinion": 10,
-    "hard_fact": 22,
+    "social_reaction": 28,
+    "personal_story": 2,
+    "policy": 7,
+    "opinion": 9,
+    "hard_fact": 23,
     "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "江ノ島や鎌倉近辺でノロウイルスに汚染された「生しらす」が原因の食中毒が相次いで発",
+      "title": "長女が「お化粧教えて」と言ってきたので、まず毎日洗顔・保湿・日焼け止め、眉とヒゲ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -57,7 +57,7 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "『82点のテスト、「正解した問題」こそ見てほしい理由』",
+      "title": "バンドスコア模倣し無料公開 賠償命令が確定 最高裁 | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -75,54 +75,42 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "予算削減「言ってはならぬ」　佐藤勉元総務相が簗農相に苦言、国交省にも説明求める《",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "仲里依紗",
+      "title": "オールナイトニッポン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "無印良品のダメージリペア ヘアミルクはコスパ◎でサラサラの仕上がり！｜編集部の買",
+      "title": "娘にダンスを習わせたいが、ダンススクールがどこもみんな子どもにヘソ出して躍らせる",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "中尾 明慶",
+      "title": "abema",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "松屋 牛めし全品を20円値上げへ",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
+      "title": "sri lanka vs pakistan",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "お胸のサイズが控えめな女性とお付き合いしていると「男ってどうせ巨乳が好きなんでし",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
-      "title": "『82点のテスト、「正解した問題」こそ見てほしい理由』",
+      "title": "長女が「お化粧教えて」と言ってきたので、まず毎日洗顔・保湿・日焼け止め、眉とヒゲ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "江ノ島や鎌倉近辺でノロウイルスに汚染された「生しらす」が原因の食中毒が相次いで発",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "無印良品のダメージリペア ヘアミルクはコスパ◎でサラサラの仕上がり！｜編集部の買",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
     },
     {
       "title": "統一教会批判が陰謀論化してしまい、誰も聞かなくなっている件｜女子大生起業家",
@@ -137,13 +125,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "元不登校で、東大で不登校を研究した私が「はなまる不登校日記」炎上に思うこと｜みず",
+      "title": "バンドスコア模倣し無料公開 賠償命令が確定 最高裁 | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
       "title": "娘にダンスを習わせたいが、ダンススクールがどこもみんな子どもにヘソ出して躍らせる",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "お胸のサイズが控えめな女性とお付き合いしていると「男ってどうせ巨乳が好きなんでし",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "MADE IN YAMATO - 第２０話　激突！関東女子フィジーク前編 | ヤ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -155,16 +155,16 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "妹の旦那が親戚の集まりに参加した時、「皆さんのこと覚えたいので、アプリで家系図に",
+      "title": "東横イン様へ…朝食バイキングで毎日同じ場所にとろろが置いてあり、毎朝ご飯にかけて",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "靖国神社の内部文書初開示 A級戦犯合祀の詳細が明らかに | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "オールナイトニッポン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
