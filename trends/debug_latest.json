@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:00:00+09:00",
+  "generated_at": "2026-10-09T23:41:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,104 +16,122 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 11,
-    "passed_total": 112,
+    "neg_excluded": 6,
+    "dedup_excluded": 13,
+    "passed_total": 113,
     "b2b_category_counts": {
       "yahoo_realtime": 35,
+      "news_web": 14,
       "google_trends": 10,
-      "yahoo_news_ranking": 2,
-      "x_realtime": 7,
-      "news_web": 16
+      "yahoo_news_ranking": 6,
+      "x_realtime": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 25,
-    "personal_story": 4,
+    "social_reaction": 23,
+    "personal_story": 5,
     "opinion": 10,
-    "hard_fact": 21,
-    "policy": 5,
-    "medical_science": 5
+    "policy": 9,
+    "medical_science": 4,
+    "hard_fact": 19
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 23,
-    "social_reaction": 25,
-    "personal_story": 4,
-    "policy": 5,
+    "social_reaction": 23,
+    "personal_story": 5,
+    "policy": 9,
     "opinion": 10,
-    "medical_science": 3
+    "hard_fact": 22,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "江の島の飲食店「貝作」など2店舗で食中毒　営業禁止　藤沢市保健所：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "三大「なんか同時に値上げしてるもの」 ・ビール ・アイス ・ あと一つは？",
+      "title": "江ノ島や鎌倉近辺でノロウイルスに汚染された「生しらす」が原因の食中毒が相次いで発",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "宅配ボックスが常にいっぱいで荷物が全然受け取れないから管理会社に何らかの対策を問",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "元不登校で、東大で不登校を研究した私が「はなまる不登校日記」炎上に思うこと｜みず",
+      "title": "統一教会批判が陰謀論化してしまい、誰も聞かなくなっている件｜女子大生起業家",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "簗大臣「応援しない自治体は予算カット」、「自民党のお家芸」だった",
+      "title": "『82点のテスト、「正解した問題」こそ見てほしい理由』",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "個人情報巡る対策 政府が緊急要請",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "policy"
+    },
+    {
+      "title": "「サイバーパンク2077」映画化！｜シネマトゥデイ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "予算削減「言ってはならぬ」　佐藤勉元総務相が簗農相に苦言、国交省にも説明求める《",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "ドコモ",
+      "title": "仲里依紗",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "日本シリーズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "全国インフル「注意報」基準超え",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_science",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "「いつもの3倍くらい早く走れて何⁉️って思ったら瞬足履いてたワロタ」子ども向けだ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「しゃぶ葉で高級肉がスティールされると聞いたので」秋葉原店で実証実験したが肉は盗",
+      "title": "無印良品のダメージリペア ヘアミルクはコスパ◎でサラサラの仕上がり！｜編集部の買",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
+    },
+    {
+      "title": "中尾 明慶",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "松屋 牛めし全品を20円値上げへ",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
+      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
     {
-      "title": "宅配ボックスが常にいっぱいで荷物が全然受け取れないから管理会社に何らかの対策を問",
+      "title": "『82点のテスト、「正解した問題」こそ見てほしい理由』",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "三大「なんか同時に値上げしてるもの」 ・ビール ・アイス ・ あと一つは？",
+      "title": "江ノ島や鎌倉近辺でノロウイルスに汚染された「生しらす」が原因の食中毒が相次いで発",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "無印良品のダメージリペア ヘアミルクはコスパ◎でサラサラの仕上がり！｜編集部の買",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "統一教会批判が陰謀論化してしまい、誰も聞かなくなっている件｜女子大生起業家",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「サイバーパンク2077」映画化！｜シネマトゥデイ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,43 +143,25 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "「いつもの3倍くらい早く走れて何⁉️って思ったら瞬足履いてたワロタ」子ども向けだ",
+      "title": "娘にダンスを習わせたいが、ダンススクールがどこもみんな子どもにヘソ出して躍らせる",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「しゃぶ葉で高級肉がスティールされると聞いたので」秋葉原店で実証実験したが肉は盗",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "旦那のお気に入りのパン屋でオープン直後、まだパンが陳列されておらず焼きたてを出そ",
+      "title": "料理系インフルエンサーが出した『赤いきつね』のPR動画が、100点満点過ぎる内容",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "海外から「あなたの枕はずっと冷たいままだろう」的な引用がきて「不幸を祈られてる？",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "妹の旦那が親戚の集まりに参加した時、「皆さんのこと覚えたいので、アプリで家系図に",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "祖母は大地主の娘だったが、戦後の農地解放で貧乏になるも実感なし…結婚して9人の子",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "猫や赤ちゃんにも寝床を取られるくらい優しい性格の雑種犬だったうちの子は火葬場でも",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ノンフライヤーって何？って思ってる人へ…このくらいの適当さで20分で塩豚が出来ま",
+      "title": "靖国神社の内部文書初開示 A級戦犯合祀の詳細が明らかに | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
