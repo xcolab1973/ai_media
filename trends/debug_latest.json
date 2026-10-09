@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T10:26:00+09:00",
+  "generated_at": "2026-10-09T17:00:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,161 +7,163 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 118,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 26,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 8,
-    "passed_total": 105,
+    "neg_excluded": 9,
+    "dedup_excluded": 11,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "x_realtime": 9,
-      "yahoo_realtime": 24,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "news_web": 21,
-      "yahoo_news_ranking": 6
+      "yahoo_news_ranking": 2,
+      "x_realtime": 7,
+      "news_web": 16
     }
   },
   "note_category_counts": {
-    "social_reaction": 24,
-    "opinion": 9,
-    "hard_fact": 31,
-    "policy": 4,
-    "medical_science": 2
+    "social_reaction": 25,
+    "personal_story": 4,
+    "opinion": 10,
+    "hard_fact": 21,
+    "policy": 5,
+    "medical_science": 5
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 24,
-    "hard_fact": 31,
-    "opinion": 9,
+    "hard_fact": 23,
+    "social_reaction": 25,
+    "personal_story": 4,
     "policy": 5,
-    "medical_science": 1
+    "opinion": 10,
+    "medical_science": 3
   },
   "b2b_top10": [
     {
+      "title": "江の島の飲食店「貝作」など2店舗で食中毒　営業禁止　藤沢市保健所：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "三大「なんか同時に値上げしてるもの」 ・ビール ・アイス ・ あと一つは？",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "宅配ボックスが常にいっぱいで荷物が全然受け取れないから管理会社に何らかの対策を問",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "3カ月間まったく売れなかった物件が「即売れ」大逆転させた3つの戦略",
+      "title": "元不登校で、東大で不登校を研究した私が「はなまる不登校日記」炎上に思うこと｜みず",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
-      "title": "3連休の天気、広範囲で秋晴れの予想 伊豆諸島では高波やうねりに注意",
+      "title": "簗大臣「応援しない自治体は予算カット」、「自民党のお家芸」だった",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
     },
     {
-      "title": "ウクライナで路線バスがロシア軍の攻撃を受ける 30人死亡、18人けが",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
+      "title": "ドコモ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "日本シリーズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "全国インフル「注意報」基準超え",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_science",
       "topic_category": "hard_fact"
     },
     {
-      "title": "6990円の高級耳栓に「想像以上」",
+      "title": "「いつもの3倍くらい早く走れて何⁉️って思ったら瞬足履いてたワロタ」子ども向けだ",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "米IT大手アマゾン・コム 生成AI搭載の新型タブレット3機種を発表",
+      "title": "「しゃぶ葉で高級肉がスティールされると聞いたので」秋葉原店で実証実験したが肉は盗",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ホワイトソックス 試合",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ライアンガルシア",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "谷川萌々子",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "コーンフェリーツアー選手権",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     }
   ],
   "note_top10": [
     {
       "title": "宅配ボックスが常にいっぱいで荷物が全然受け取れないから管理会社に何らかの対策を問",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "三大「なんか同時に値上げしてるもの」 ・ビール ・アイス ・ あと一つは？",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "元不登校で、東大で不登校を研究した私が「はなまる不登校日記」炎上に思うこと｜みず",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「いつもの3倍くらい早く走れて何⁉️って思ったら瞬足履いてたワロタ」子ども向けだ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「しゃぶ葉で高級肉がスティールされると聞いたので」秋葉原店で実証実験したが肉は盗",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "旦那のお気に入りのパン屋でオープン直後、まだパンが陳列されておらず焼きたてを出そ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "海外から「あなたの枕はずっと冷たいままだろう」的な引用がきて「不幸を祈られてる？",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "3カ月間まったく売れなかった物件が「即売れ」大逆転させた3つの戦略",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "3連休の天気、広範囲で秋晴れの予想 伊豆諸島では高波やうねりに注意",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "6990円の高級耳栓に「想像以上」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "労災認定 7年連続で最多を更新",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ダイソーの「味噌のフタ」ピンポイントな発想に驚きの声",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ギャル＝バカ」の偏見を覆したい…MENSA会員のギャル語る知性の裏側",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "東京～大阪間の航空便が存続するワケ、ネットワーク産業としての本質とは",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ちいかわ」コラボのスクラブが即完売、Xで波紋「小児科以外に不要」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "2台並んだATMで隣のおばあさんから「わたし操作分からないのでやってもらえない？",
+      "title": "祖母は大地主の娘だったが、戦後の農地解放で貧乏になるも実感なし…結婚して9人の子",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "猫や赤ちゃんにも寝床を取られるくらい優しい性格の雑種犬だったうちの子は火葬場でも",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ノンフライヤーって何？って思ってる人へ…このくらいの適当さで20分で塩豚が出来ま",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
