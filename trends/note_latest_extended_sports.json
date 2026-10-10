@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T23:56:53+09:00",
+ "generated_at": "2026-10-10T23:57:48+09:00",
  "valid_until": "2026-10-23T06:28:29+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -11,7 +11,7 @@
   "from_current": 16,
   "from_new": 2,
   "expired_pruned": 0,
-  "retention_dropped": 2,
+  "retention_dropped": 1,
   "genres": 2,
   "retention_per_genre": 8
  },
@@ -260,7 +260,7 @@
    "source_category": "news_web",
    "raw_title": "【プロ野球CS】2026年の新ルールを解説 2勝アドバンテージの適用条件と必要な勝利数",
    "url": "https://www.baseballchannel.jp/npb/294388/",
-   "summary": "2026年のCSファイナルは、ファーストステージ勝者がリーグ優勝球団と10ゲーム差以上、またはレギュラーシーズン勝率5割未満の場合に優勝球団のアドバンテージが2勝になる。今年はパ・リーグで適用され、セ・リーグは従来どおり1勝。適用条件と必要勝利数の整理。",
+   "summary": "パ・リーグのCSファイナルで、勝ち上がり球団が優勝球団と10ゲーム差以上または勝率5割未満なら優勝球団のアドバンテージが1勝から2勝に拡大(7試合制)。今年はパ=ソフトバンクに2勝、セ=阪神に1勝。日本シリーズ進出に必要な勝利数や引き分け時の扱いも解説。",
    "signal_type": "trend",
    "engagement_signal": false,
    "approx_traffic": "100+",
@@ -275,7 +275,7 @@
    "provenance": {
     "source_name": "ベースボールチャンネル",
     "expert_origin": true,
-    "search_query": "クライマックスシリーズ 2026 アドバンテージ2勝 ファイナルステージ 日程 放送 見どころ",
+    "search_query": "2026年10月 プロ野球 クライマックスシリーズ 日程 見どころ 初心者 観戦 ルール",
     "freshness": "fresh",
     "integrity_warning": null,
     "provenance_kind": "evidence",
@@ -283,7 +283,37 @@
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-10-15T23:56:21+09:00",
+   "valid_until": "2026-10-15T23:56:47+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "スポーツ観戦は「選んで契約するもの」へ 配信サービス分散の背景",
+   "url": "https://dxmagazine.jp/column/in2616uk07/",
+   "summary": "地上波中心から競技・リーグごとの配信契約に変わり、複数契約すると月額数千円〜1万円程度になることもある。ハイライト視聴や選手軸の観戦も広がる。どのサービスを契約すべきか迷う読者の下流の問い。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "sports-watch",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "DXマガジン",
+    "expert_origin": false,
+    "search_query": "スポーツ観戦 配信 見逃した どこで見れる 複数サービス 契約 迷う",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-10-15T23:56:47+09:00",
    "validity_days": 5
   },
   {
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-10-14T06:28:29+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "2026年 NPBクライマックスシリーズ日程（vegcale）",
-   "url": "https://vegcale.com/2026/09/06/npb-climax-series-2026-schedule/",
-   "summary": "9/5時点の記事。ファーストステージは10/10開幕、ファイナルは10/14開幕。チケットはFC先行抽選→一般発売の流れ。中継はABEMA de J SPORTSの予定。順位次第で方式が変わるため確定は公式で確認が必要。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "sports-watch",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "vegcale",
-    "expert_origin": false,
-    "search_query": "プロ野球 CS 観戦 チケット 払い戻し 中継 見方 2026 ポストシーズン",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-10-13T06:28:20+09:00",
    "validity_days": 5
   }
  ]
