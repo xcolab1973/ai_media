@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T03:32:00+09:00",
+  "generated_at": "2026-10-10T10:13:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,155 +16,154 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 14,
-    "passed_total": 113,
+    "neg_excluded": 6,
+    "dedup_excluded": 10,
+    "passed_total": 116,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
-      "news_web": 16,
-      "google_trends": 10,
-      "yahoo_news_ranking": 4,
-      "x_realtime": 5
+      "yahoo_realtime": 31,
+      "x_realtime": 7,
+      "google_trends": 9,
+      "news_web": 19,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
     "personal_story": 2,
+    "social_reaction": 31,
     "opinion": 9,
-    "policy": 7,
-    "medical_science": 4,
-    "hard_fact": 20
+    "policy": 6,
+    "hard_fact": 21,
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
     "personal_story": 2,
-    "policy": 7,
+    "social_reaction": 27,
     "opinion": 9,
-    "hard_fact": 23,
-    "medical_science": 1
+    "policy": 7,
+    "hard_fact": 25
   },
   "b2b_top10": [
     {
-      "title": "長女が「お化粧教えて」と言ってきたので、まず毎日洗顔・保湿・日焼け止め、眉とヒゲ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "統一教会批判が陰謀論化してしまい、誰も聞かなくなっている件｜女子大生起業家",
+      "title": "現役弁護士、ラーメン二郎の「ロット乱し」についてコメントしたら炎上してしまったこ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "バンドスコア模倣し無料公開 賠償命令が確定 最高裁 | NHKニュース",
+      "title": "秘密法人デスメイカー・第42話 | ヤンチャンWeb（ヤングチャンピオン）",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "個人情報巡る対策 政府が緊急要請",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "policy"
-    },
-    {
-      "title": "「サイバーパンク2077」映画化！｜シネマトゥデイ",
+      "title": "無料で漫画を読む方法 / 無料で漫画を読む方法 - 白井もも吉 | サンデーうぇ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "オールナイトニッポン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "長女が「お化粧教えて」と言ってきたので、まず毎日洗顔・保湿・日焼け止め、眉とヒゲ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "娘にダンスを習わせたいが、ダンススクールがどこもみんな子どもにヘソ出して躍らせる",
+      "title": "「秀丸エディタ」v9.59が公開 ～Windows XP/Vistaのサポートを",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "『拝啓、タイラー・ダーデン様』 【無料公開中】 | ヤンマガWeb",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "abema",
+      "title": "ゴルフ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "sri lanka vs pakistan",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "お胸のサイズが控えめな女性とお付き合いしていると「男ってどうせ巨乳が好きなんでし",
+      "title": "うるさいバイクはなんの意味があってうるさくしてるんですか？？「動物の縄張り主張や",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について | ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ベトナムでたくさんアオザイを着たけど、骨格に合わない形を着たときと合ってるときの",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
-      "title": "長女が「お化粧教えて」と言ってきたので、まず毎日洗顔・保湿・日焼け止め、眉とヒゲ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "統一教会批判が陰謀論化してしまい、誰も聞かなくなっている件｜女子大生起業家",
+      "title": "現役弁護士、ラーメン二郎の「ロット乱し」についてコメントしたら炎上してしまったこ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "「サイバーパンク2077」映画化！｜シネマトゥデイ",
+      "title": "不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について | ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "バンドスコア模倣し無料公開 賠償命令が確定 最高裁 | NHKニュース",
+      "title": "秘密法人デスメイカー・第42話 | ヤンチャンWeb（ヤングチャンピオン）",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "娘にダンスを習わせたいが、ダンススクールがどこもみんな子どもにヘソ出して躍らせる",
+      "title": "無料で漫画を読む方法 / 無料で漫画を読む方法 - 白井もも吉 | サンデーうぇ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "お胸のサイズが控えめな女性とお付き合いしていると「男ってどうせ巨乳が好きなんでし",
+      "title": "長女が「お化粧教えて」と言ってきたので、まず毎日洗顔・保湿・日焼け止め、眉とヒゲ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「秀丸エディタ」v9.59が公開 ～Windows XP/Vistaのサポートを",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "『拝啓、タイラー・ダーデン様』 【無料公開中】 | ヤンマガWeb",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "MADE IN YAMATO - 第２０話　激突！関東女子フィジーク前編 | ヤ",
+      "title": "うるさいバイクはなんの意味があってうるさくしてるんですか？？「動物の縄張り主張や",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "料理系インフルエンサーが出した『赤いきつね』のPR動画が、100点満点過ぎる内容",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "ベトナムでたくさんアオザイを着たけど、骨格に合わない形を着たときと合ってるときの",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "東横イン様へ…朝食バイキングで毎日同じ場所にとろろが置いてあり、毎朝ご飯にかけて",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "独身時代の貯金が底を尽きてしまい奨学金の返還猶予を申請…決定通知で親が驚くと思っ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "オールナイトニッポン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ]
 }
