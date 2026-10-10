@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T22:59:00+09:00",
+  "generated_at": "2026-10-11T02:29:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,39 +17,33 @@
       "x_realtime": 10
     },
     "neg_excluded": 6,
-    "dedup_excluded": 11,
-    "passed_total": 115,
+    "dedup_excluded": 10,
+    "passed_total": 116,
     "b2b_category_counts": {
       "yahoo_realtime": 38,
       "google_trends": 10,
+      "x_realtime": 7,
       "news_web": 13,
-      "x_realtime": 6,
-      "yahoo_news_ranking": 3
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
+    "social_reaction": 33,
     "opinion": 10,
-    "medical_science": 4,
     "personal_story": 3,
-    "policy": 7,
-    "hard_fact": 16
+    "medical_science": 3,
+    "policy": 6,
+    "hard_fact": 15
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
+    "social_reaction": 33,
     "opinion": 10,
-    "hard_fact": 16,
-    "medical_science": 3,
-    "policy": 8,
+    "hard_fact": 15,
+    "policy": 7,
+    "medical_science": 2,
     "personal_story": 3
   },
   "b2b_top10": [
-    {
-      "title": "プリキュアシリーズ公式がイベントでの迷惑行為に「法的措置も視野に入れる」と注意喚",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
     {
       "title": "3Dプリンター製ナイフが保安検査を突破→飛行機内持ち込み動画の衝撃…国土交通省が",
       "source_category": "yahoo_realtime",
@@ -63,43 +57,49 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "THE SOUNDING EARTH — 音で旅する地球儀",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "ある業界団体の会合で価格の話が出た瞬間、外資系企業の人がコーヒーを派手にこぼして",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "チェルシー 対 ボーンマス",
+      "title": "それスノ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "30年近く翻訳の仕事を続けてきて怖いこと…仕事が減ることだけではなく、積み重ねて",
+      "title": "ラーメン二郎はかつて緊張感ゼロで面白いオッちゃんが「慶應の学生が喜ぶから」と大盛",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "トレード",
+      "title": "la liga",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "イプスウィッチ",
+      "title": "フェイエノールト 対 アルクマール",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "若狭敬一",
+      "title": "man utd đấu với tottenham",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "augsburg vs bayern",
+      "title": "卓球女子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,19 +113,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "プリキュアシリーズ公式がイベントでの迷惑行為に「法的措置も視野に入れる」と注意喚",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "というかお前らってどんな音楽聞いてるんだ？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
+      "title": "THE SOUNDING EARTH — 音で旅する地球儀",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "ある業界団体の会合で価格の話が出た瞬間、外資系企業の人がコーヒーを派手にこぼして",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ラーメン二郎はかつて緊張感ゼロで面白いオッちゃんが「慶應の学生が喜ぶから」と大盛",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -143,25 +149,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「一同驚きとともに深い感慨を覚えております」京都・正寿院で御本尊を修復していたと",
+      "title": "山東航空のビジネスクラスの軽食が独特すぎて、日本を出発したばかりなのに日本食が恋",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「警視庁遺失物センター」から送られてきた封書からQRコードを読み込ませ個人情報を",
+      "title": "異世界と日本で個人貿易するWeb小説について話していたが、実際にマネタイズするの",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "なぜイタリア人はピッツァを絶対にシェアしないのか？ 日本の「当たり前」が通じない",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "コメダで案内された席、どう見ても別のお客さんが既に座っていたんだけど、そのお客さ",
+      "title": "こたけ正義感　永野の「こたけ正義感はスゴく面白いたかまつなな」発言が許せない話",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
