@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T10:13:00+09:00",
+  "generated_at": "2026-10-10T16:44:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,33 +16,39 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 10,
-    "passed_total": 116,
+    "neg_excluded": 7,
+    "dedup_excluded": 8,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_realtime": 31,
-      "x_realtime": 7,
-      "google_trends": 9,
-      "news_web": 19,
-      "yahoo_news_ranking": 4
+      "yahoo_realtime": 33,
+      "google_trends": 10,
+      "x_realtime": 9,
+      "news_web": 15,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "personal_story": 2,
     "social_reaction": 31,
+    "personal_story": 1,
     "opinion": 9,
-    "policy": 6,
-    "hard_fact": 21,
+    "hard_fact": 19,
+    "policy": 9,
     "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "personal_story": 2,
-    "social_reaction": 27,
+    "social_reaction": 30,
+    "personal_story": 1,
     "opinion": 9,
-    "policy": 7,
-    "hard_fact": 25
+    "hard_fact": 21,
+    "policy": 9
   },
   "b2b_top10": [
+    {
+      "title": "ある業界団体の会合で価格の話が出た瞬間、外資系企業の人がコーヒーを派手にこぼして",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "現役弁護士、ラーメン二郎の「ロット乱し」についてコメントしたら炎上してしまったこ",
       "source_category": "yahoo_realtime",
@@ -50,61 +56,61 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "秘密法人デスメイカー・第42話 | ヤンチャンWeb（ヤングチャンピオン）",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "無料で漫画を読む方法 / 無料で漫画を読む方法 - 白井もも吉 | サンデーうぇ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "長女が「お化粧教えて」と言ってきたので、まず毎日洗顔・保湿・日焼け止め、眉とヒゲ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「秀丸エディタ」v9.59が公開 ～Windows XP/Vistaのサポートを",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "『拝啓、タイラー・ダーデン様』 【無料公開中】 | ヤンマガWeb",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ゴルフ",
+      "title": "j2 順位",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "うるさいバイクはなんの意味があってうるさくしてるんですか？？「動物の縄張り主張や",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "野球速報",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について | ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "有働由美子",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "ベトナムでたくさんアオザイを着たけど、骨格に合わない形を着たときと合ってるときの",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "度会隆輝",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "今井春花",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "セリーグ クライマックスシリーズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "iphone 15",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "奈緒",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
+    {
+      "title": "ある業界団体の会合で価格の話が出た瞬間、外資系企業の人がコーヒーを派手にこぼして",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "現役弁護士、ラーメン二郎の「ロット乱し」についてコメントしたら炎上してしまったこ",
       "source_category": "yahoo_realtime",
@@ -112,57 +118,51 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について | ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "秘密法人デスメイカー・第42話 | ヤンチャンWeb（ヤングチャンピオン）",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "無料で漫画を読む方法 / 無料で漫画を読む方法 - 白井もも吉 | サンデーうぇ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "長女が「お化粧教えて」と言ってきたので、まず毎日洗顔・保湿・日焼け止め、眉とヒゲ",
+      "title": "『指輪物語』をワクワクしながら読み始めたら、本編に入る前の序章に設定がぎっちり詰",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「秀丸エディタ」v9.59が公開 ～Windows XP/Vistaのサポートを",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "『拝啓、タイラー・ダーデン様』 【無料公開中】 | ヤンマガWeb",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "うるさいバイクはなんの意味があってうるさくしてるんですか？？「動物の縄張り主張や",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ベトナムでたくさんアオザイを着たけど、骨格に合わない形を着たときと合ってるときの",
+      "title": "1歳の息子のすごい人見知り、悩む母親のとった行動がカッコよすぎた「まずは自分が、",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "独身時代の貯金が底を尽きてしまい奨学金の返還猶予を申請…決定通知で親が驚くと思っ",
+      "title": "パック酒(普通酒)の経験が乏しいのでこの世で一番うまいパック酒を誰か教えてほしい",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "無印のカレーはマズいと言っていた投稿を見て自分の口に合わないことを「マズい」と言",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「赤さんの絶望泣き、あまりにも無力さを感じて好き」\"溜め\"がある全力っぷりやこの",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "おいゴルァァァァァァ‼️‼️‼️ ざるそばァァァァァァ‼️‼️‼️ お..",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ここがパパの職場だよ」急逝したロッテ右腕へ...唐川侑己が引退試合で贈ったサプ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "娘が発達障害かもしれない",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
