@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T23:57:48+09:00",
+ "generated_at": "2026-10-11T06:28:11+09:00",
  "valid_until": "2026-10-23T06:27:13+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,22 +9,22 @@
  "merge": {
   "parent": "biz",
   "from_current": 24,
-  "from_new": 3,
+  "from_new": 2,
   "expired_pruned": 0,
-  "retention_dropped": 3,
+  "retention_dropped": 0,
   "genres": 3,
   "retention_per_genre": 8
  },
  "candidates": [
   {
    "source_category": "news_web",
-   "raw_title": "持続化補助金 第20回：11月5日受付開始・様式4の期限12月4日・申請5ステップ",
+   "raw_title": "持続化補助金 第20回はいつから?【11月5日受付開始】様式4を商工会に頼む期限12月4日・申請5ステップ",
    "url": "https://vegcale.com/?p=9692",
-   "summary": "第20回の受付開始と、商工会へ様式4を頼む期限が申請締切より早い点、申請手順を整理した記事。",
+   "summary": "第20回は11月5日受付開始、様式4の依頼期限12月4日、申請締切12月15日17:00。GビズIDプライム取得は郵送だと最大1か月かかるため早めの着手が必要。窓口は年末に混みやすい。",
    "signal_type": "trend",
    "engagement_signal": false,
    "approx_traffic": "100+",
-   "preliminary_claim_type": "hard_fact",
+   "preliminary_claim_type": "soft_fact",
    "relevance_to_niche": "high",
    "topic_category": null,
    "primary_genre": "biz-subsidy",
@@ -35,15 +35,15 @@
    "provenance": {
     "source_name": "vegcale",
     "expert_origin": false,
-    "search_query": "小規模事業者持続化補助金 第20回 公募要領 2026 様式4 商工会議所 事前相談 間に合わない",
+    "search_query": "小規模事業者持続化補助金 第20回 公募要領 様式4 商工会議所 申請 つまずき",
     "freshness": "fresh",
-    "integrity_warning": "claim_hard_but_source_not_expert: 出版前に一次情報で裏取り必須",
+    "integrity_warning": null,
     "provenance_kind": "evidence",
     "opportunity_gap": false,
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-10-16T18:47:40+09:00",
+   "valid_until": "2026-10-18T06:26:34+09:00",
    "validity_days": 7
   },
   {
@@ -498,6 +498,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "ゆうパック値上げはいつから？【2026年10月1日実施】ゆうパケット・クリックポストも改定、サイズ別にいくら上がるか試算",
+   "url": "https://vegcale.com/2026/09/03/yupack-yupacket-clickpost-price-hike-2026-10/",
+   "summary": "2026年10月1日にゆうパックは平均約10%（2〜約40%）改定。ゆうパケットは一律360円、クリックポストは185円から240円でサイズ上限は緩和。送料を価格にどう転嫁するかが個店の悩み。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "biz-ec-shop",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "vegcale",
+    "expert_origin": false,
+    "search_query": "ゆうパケット クリックポスト 値上げ 2026年10月 ネットショップ 送料 見直し",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-10-16T06:26:34+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "ゆうパック・ゆうパケット・クリックポスト運賃改定（2026年10月1日施行）で変わること",
    "url": "https://netshop.impress.co.jp/index%2Ephp/n/2026/07/07/16365",
    "summary": "2026年10月1日からゆうパックは平均約10%値上げ。ゆうパケットは全サイズ一律360円、クリックポストは185円から240円に。発送コストの見直しと送料設定の再検討が必要になる。",
@@ -584,36 +614,6 @@
     "rescued": false
    },
    "valid_until": "2026-10-15T23:55:19+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "ゆうパック・ゆうパケット・クリックポスト値上げ 2026年10月",
-   "url": "https://vegcale.com/2026/09/03/yupack-yupacket-clickpost-price-hike-2026-10/",
-   "summary": "2026年10月の日本郵便の運賃改定（ゆうパック・ゆうパケット・クリックポスト）を扱う記事（検索結果の題名に基づく。料金の詳細は未確認）。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "biz-ec-shop",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "vegcale",
-    "expert_origin": false,
-    "search_query": "知恵袋 ネットショップ ゆうパケット 値上げ 送料 どうしたら 個人 ハンドメイド フリマ 10月",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-10-15T23:54:37+09:00",
    "validity_days": 5
   },
   {
