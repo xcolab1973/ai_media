@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T16:44:00+09:00",
+  "generated_at": "2026-10-10T22:59:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,33 +16,52 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 8,
-    "passed_total": 117,
+    "neg_excluded": 6,
+    "dedup_excluded": 11,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
+      "yahoo_realtime": 38,
       "google_trends": 10,
-      "x_realtime": 9,
-      "news_web": 15,
+      "news_web": 13,
+      "x_realtime": 6,
       "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 31,
-    "personal_story": 1,
-    "opinion": 9,
-    "hard_fact": 19,
-    "policy": 9,
-    "medical_science": 1
+    "social_reaction": 30,
+    "opinion": 10,
+    "medical_science": 4,
+    "personal_story": 3,
+    "policy": 7,
+    "hard_fact": 16
   },
   "b2b_topic_category_counts": {
     "social_reaction": 30,
-    "personal_story": 1,
-    "opinion": 9,
-    "hard_fact": 21,
-    "policy": 9
+    "opinion": 10,
+    "hard_fact": 16,
+    "medical_science": 3,
+    "policy": 8,
+    "personal_story": 3
   },
   "b2b_top10": [
+    {
+      "title": "プリキュアシリーズ公式がイベントでの迷惑行為に「法的措置も視野に入れる」と注意喚",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "3Dプリンター製ナイフが保安検査を突破→飛行機内持ち込み動画の衝撃…国土交通省が",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "というかお前らってどんな音楽聞いてるんだ？",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "ある業界団体の会合で価格の話が出た瞬間、外資系企業の人がコーヒーを派手にこぼして",
       "source_category": "yahoo_realtime",
@@ -50,55 +69,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "現役弁護士、ラーメン二郎の「ロット乱し」についてコメントしたら炎上してしまったこ",
+      "title": "チェルシー 対 ボーンマス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "30年近く翻訳の仕事を続けてきて怖いこと…仕事が減ることだけではなく、積み重ねて",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "j2 順位",
+      "title": "トレード",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "野球速報",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "有働由美子",
+      "title": "イプスウィッチ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "度会隆輝",
+      "title": "若狭敬一",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "今井春花",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "セリーグ クライマックスシリーズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "iphone 15",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "奈緒",
+      "title": "augsburg vs bayern",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,61 +107,61 @@
   ],
   "note_top10": [
     {
+      "title": "3Dプリンター製ナイフが保安検査を突破→飛行機内持ち込み動画の衝撃…国土交通省が",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "プリキュアシリーズ公式がイベントでの迷惑行為に「法的措置も視野に入れる」と注意喚",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "というかお前らってどんな音楽聞いてるんだ？",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "ある業界団体の会合で価格の話が出た瞬間、外資系企業の人がコーヒーを派手にこぼして",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "現役弁護士、ラーメン二郎の「ロット乱し」についてコメントしたら炎上してしまったこ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "『指輪物語』をワクワクしながら読み始めたら、本編に入る前の序章に設定がぎっちり詰",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "1歳の息子のすごい人見知り、悩む母親のとった行動がカッコよすぎた「まずは自分が、",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "パック酒(普通酒)の経験が乏しいのでこの世で一番うまいパック酒を誰か教えてほしい",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "無印のカレーはマズいと言っていた投稿を見て自分の口に合わないことを「マズい」と言",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「赤さんの絶望泣き、あまりにも無力さを感じて好き」\"溜め\"がある全力っぷりやこの",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "おいゴルァァァァァァ‼️‼️‼️ ざるそばァァァァァァ‼️‼️‼️ お..",
+      "title": "30年近く翻訳の仕事を続けてきて怖いこと…仕事が減ることだけではなく、積み重ねて",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ここがパパの職場だよ」急逝したロッテ右腕へ...唐川侑己が引退試合で贈ったサプ",
+      "title": "スタバでセルフオーダーしたら自動でニックネームがついたんだけど、こんなクセ強の名",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "娘が発達障害かもしれない",
+      "title": "「一同驚きとともに深い感慨を覚えております」京都・正寿院で御本尊を修復していたと",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「警視庁遺失物センター」から送られてきた封書からQRコードを読み込ませ個人情報を",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "なぜイタリア人はピッツァを絶対にシェアしないのか？ 日本の「当たり前」が通じない",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "コメダで案内された席、どう見ても別のお客さんが既に座っていたんだけど、そのお客さ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
