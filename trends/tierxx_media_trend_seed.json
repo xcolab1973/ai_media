@@ -2,8 +2,8 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-10T10:08:41+0900",
-    "record_count": 39,
+    "generated_at": "2026-10-10T17:49:05+0900",
+    "record_count": 38,
     "source_total_in_db": 1423,
     "provenance_breakdown": {
       "evidence": 913,
@@ -695,24 +695,6 @@
       "valid_until": "2026-10-10T21:22:47+0900",
       "status": "candidate",
       "created_at": "2026-09-26T21:22:47+0900"
-    },
-    {
-      "seed_id": "seed_6f6e522b521c",
-      "trend_term": "韓国美容医療体験",
-      "raw_title": "【韓国美容医療はしご旅①】アートメイク／眉とつむじを初体験｜＠BAILA（バイラ） - BAILA（バイラ）",
-      "summary": "アートメイク（眉・つむじ）の施術体験レポート。韓国での美容医療トレンドと実際の施術感についての読者の生の関心事を反映した記事。",
-      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wQWNMV0UxNjVxM04zaXV1VF9jWlhmMk1nemd4SmN3VnhmRFRTOWliM0MzWGlObHprR0I1SFg0c1pPc25NLXBHNm56cmNDS2VFNjEyV3BGanNlaDZO?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wQWNMV0UxNjVxM04zaXV1VF9jWlhmMk1nemd4SmN3VnhmRFRTOWliM0MzWGlObHprR0I1SFg0c1pPc25NLXBHNm56cmNDS2VFNjEyV3BGanNlaDZO?oc=5",
-      "source_name": "BAILA（バイラ）",
-      "monitor_id": "bm-machine-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-10T16:56:26+0900",
-      "status": "candidate",
-      "created_at": "2026-09-26T16:56:26+0900"
     }
   ]
 }
