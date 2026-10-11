@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T02:29:00+09:00",
+  "generated_at": "2026-10-11T09:27:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,42 +16,42 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 10,
-    "passed_total": 116,
+    "neg_excluded": 8,
+    "dedup_excluded": 11,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 38,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "x_realtime": 7,
-      "news_web": 13,
-      "yahoo_news_ranking": 2
+      "x_realtime": 6,
+      "news_web": 15,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "opinion": 10,
+    "social_reaction": 30,
+    "medical_science": 4,
     "personal_story": 3,
-    "medical_science": 3,
-    "policy": 6,
-    "hard_fact": 15
+    "opinion": 10,
+    "policy": 7,
+    "hard_fact": 16
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
+    "medical_science": 3,
+    "social_reaction": 29,
     "opinion": 10,
-    "hard_fact": 15,
+    "hard_fact": 18,
     "policy": 7,
-    "medical_science": 2,
     "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "3Dプリンター製ナイフが保安検査を突破→飛行機内持ち込み動画の衝撃…国土交通省が",
+      "title": "患者撮影の動画投稿、看護師2人を懲戒解雇　千葉西総合病院 - 日本経済新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "medical_science"
     },
     {
-      "title": "というかお前らってどんな音楽聞いてるんだ？",
+      "title": "3Dプリンター製ナイフが保安検査を突破→飛行機内持ち込み動画の衝撃…国土交通省が",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -63,43 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ある業界団体の会合で価格の話が出た瞬間、外資系企業の人がコーヒーを派手にこぼして",
+      "title": "というかお前らってどんな音楽聞いてるんだ？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "それスノ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ラーメン二郎はかつて緊張感ゼロで面白いオッちゃんが「慶應の学生が喜ぶから」と大盛",
+      "title": "列車を撮ろうと駅近くを訪れた男女３人、スタックした車を押したところ線路脇に横転…",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "la liga",
+      "title": "木原稔",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "フェイエノールト 対 アルクマール",
+      "title": "米国債",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "man utd đấu với tottenham",
+      "title": "上原浩治",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "卓球女子",
+      "title": "ホワイトソックス 試合",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ミジオロウスキー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,27 +113,39 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "というかお前らってどんな音楽聞いてるんだ？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "THE SOUNDING EARTH — 音で旅する地球儀",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ある業界団体の会合で価格の話が出た瞬間、外資系企業の人がコーヒーを派手にこぼして",
+      "title": "というかお前らってどんな音楽聞いてるんだ？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ラーメン二郎はかつて緊張感ゼロで面白いオッちゃんが「慶應の学生が喜ぶから」と大盛",
+      "title": "患者撮影の動画投稿、看護師2人を懲戒解雇　千葉西総合病院 - 日本経済新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "列車を撮ろうと駅近くを訪れた男女３人、スタックした車を押したところ線路脇に横転…",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "税理士法人のホームページに海外からのアクセスが約75%、その中には存在しない管理",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ChatGPTに対して些細なミスでも執拗に詰めるパワハラを続けていたら、完全に萎",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -143,25 +155,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "スタバでセルフオーダーしたら自動でニックネームがついたんだけど、こんなクセ強の名",
+      "title": "障害者５０人が「９か月」で雇用打ち切り、予定は「１年半」・業者任せの就労管理が原",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "山東航空のビジネスクラスの軽食が独特すぎて、日本を出発したばかりなのに日本食が恋",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "異世界と日本で個人貿易するWeb小説について話していたが、実際にマネタイズするの",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "こたけ正義感　永野の「こたけ正義感はスゴく面白いたかまつなな」発言が許せない話",
+      "title": "ラーメン二郎はかつて緊張感ゼロで面白いオッちゃんが「慶應の学生が喜ぶから」と大盛",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
