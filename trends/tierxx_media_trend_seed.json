@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-11T18:11:30+0900",
+    "generated_at": "2026-10-11T23:18:42+0900",
     "record_count": 39,
-    "source_total_in_db": 1433,
+    "source_total_in_db": 1435,
     "provenance_breakdown": {
       "evidence": 918,
-      "pain_seed": 515
+      "pain_seed": 517
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_2f07a8e59fb8",
+      "trend_term": "ヒアルロン酸注入の顔面変化",
+      "raw_title": "「総額1000万整形」公表のMatt、ヒアルロン酸注入で起きた“顎が3cm伸びる”顔面激変告白…父・桑田真澄への“あこがれ”にじむ場面も (SmartFLASH) - Yahoo!ニュース",
+      "summary": "ヒアルロン酸注入により顎が3cm伸びるなど顔貌が大きく変わったことを公表者が告白。注入系施術の可視的な変化と副作用への読者関心",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjZPbWw2NEJmZzcxTWdmRlpiS19ESDBWaGNwaTVPU2RHdUJWODhqLW5DUG5rRDliNURLZnRJUmtFR3dzSE5BSHdEdWJ1ejFXSmE1QW1VSjdLR0xPbVY1bGFZa3Z2ZEVTdE9KQUQ3aGljSTF5M3hEUGY1ZWN4RXFvV1UxN196RTl2UHV5MXR3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjZPbWw2NEJmZzcxTWdmRlpiS19ESDBWaGNwaTVPU2RHdUJWODhqLW5DUG5rRDliNURLZnRJUmtFR3dzSE5BSHdEdWJ1ejFXSmE1QW1VSjdLR0xPbVY1bGFZa3Z2ZEVTdE9KQUQ3aGljSTF5M3hEUGY1ZWN4RXFvV1UxN196RTl2UHV5MXR3?oc=5",
+      "source_name": "Yahoo!ニュース",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-25T23:18:17+0900",
+      "status": "candidate",
+      "created_at": "2026-10-11T23:18:17+0900"
+    },
+    {
+      "seed_id": "seed_f3ef21511e70",
+      "trend_term": "美容医療と身体の主権",
+      "raw_title": "Netflixシリーズ『ダウンタイム』が等しく照らした“救い”と“暗部”　その身体は誰のものなのか - リアルサウンド",
+      "summary": "Netflixシリーズで美容医療と身体の主権に関する根本的な問いが提示されている。施術決定と後悔の心理的側面への問題提起",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyYmFISkluNGxKb0lZUjAxXy15SDJQdTlKOHNWcWtZcjRpbm45eHBqV1BBbjFPSG95dlplTFRzRWRScjNtSElHaVlqN29wa3VMNDdEN215WnBLQWR4UW5KbEhB0gFnQVVfeXFMTkdHZVNHamZRREVxdFBkQ2h2U0x6cHNUYVhCejZqaXFaeXZ2QkRGcW5hN0RXM21RcVprdGlVZUZQSklXMHFmY0JVMTRMdVhEeG5Mb3cwWlJqMnFjWEROLU50ek56SDF4dw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyYmFISkluNGxKb0lZUjAxXy15SDJQdTlKOHNWcWtZcjRpbm45eHBqV1BBbjFPSG95dlplTFRzRWRScjNtSElHaVlqN29wa3VMNDdEN215WnBLQWR4UW5KbEhB0gFnQVVfeXFMTkdHZVNHamZRREVxdFBkQ2h2U0x6cHNUYVhCejZqaXFaeXZ2QkRGcW5hN0RXM21RcVprdGlVZUZQSklXMHFmY0JVMTRMdVhEeG5Mb3cwWlJqMnFjWEROLU50ek56SDF4dw?oc=5",
+      "source_name": "リアルサウンド",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "opinion",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-25T23:18:17+0900",
+      "status": "candidate",
+      "created_at": "2026-10-11T23:18:17+0900"
+    },
     {
       "seed_id": "seed_722f64393aff",
       "trend_term": "美容医療の安全性リスク",
@@ -301,24 +337,6 @@
       "created_at": "2026-10-09T18:28:15+0900"
     },
     {
-      "seed_id": "seed_2b19a3df6201",
-      "trend_term": "ボトックス注射クリニック選び",
-      "raw_title": "【2026年】港区のボトックス注射 おすすめしたい7医院 - メディカルドック",
-      "summary": "港区でボトックス注射を提供する医院の情報リスト。クリニック選択の参考情報として機能する可能性のあるコンテンツ",
-      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NWm9UM1cwTjhQcGhuS3R3RjJQellpX3lHMG81UEpZTkVnOTRKSmh3ZUtyeGJJWWswTGlPYTlqdllxS2dvZWpMV01jeUZvdWlRR1ROMndRMzV5UnJWS0s5ZzFR?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NWm9UM1cwTjhQcGhuS3R3RjJQellpX3lHMG81UEpZTkVnOTRKSmh3ZUtyeGJJWWswTGlPYTlqdllxS2dvZWpMV01jeUZvdWlRR1ROMndRMzV5UnJWS0s5ZzFR?oc=5",
-      "source_name": "メディカルドック",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-23T18:28:11+0900",
-      "status": "candidate",
-      "created_at": "2026-10-09T18:28:11+0900"
-    },
-    {
       "seed_id": "seed_27598d47fe39",
       "trend_term": "再生医療由来の新製品発売",
       "raw_title": "医師監修 再生医療から生まれたサロン向け美容液を 6月中旬に発売 ～年齢肌や毛髪のお悩みにアプローチ～ - アットプレス",
@@ -371,24 +389,6 @@
       "valid_until": "2026-10-14T10:20:56+0900",
       "status": "candidate",
       "created_at": "2026-10-09T10:20:56+0900"
-    },
-    {
-      "seed_id": "seed_78f5854f40eb",
-      "trend_term": "胃ボトックス痩身治療",
-      "raw_title": "『胃のボトックス注射』で痩せる？ ― 効果・リスク・向いている人を医師が解説 (メディカルドック) - Yahoo!ニュース",
-      "summary": "胃へのボトックス注射による痩身効果について、医師による効果・リスク・適応患者の解説記事。医学的見地からの説明あり。",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYkpXdGZIRmtkQXRfUW9KbkJQYUNMa05sSjFsb1Q5N3ZqU0hsMHVSWHlPalNiRTk5MXc4VUkzb2VsbElsMVdYWmtBUEZZajNIWWR0c1FVXzlUZ1FmU0ZZX1VMblNqTVZfbFg2bW9aSXM5VkNGQnRPV194eHVqNXdmVGhjQWs3dFVkWHRWNHJR?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYkpXdGZIRmtkQXRfUW9KbkJQYUNMa05sSjFsb1Q5N3ZqU0hsMHVSWHlPalNiRTk5MXc4VUkzb2VsbElsMVdYWmtBUEZZajNIWWR0c1FVXzlUZ1FmU0ZZX1VMblNqTVZfbFg2bW9aSXM5VkNGQnRPV194eHVqNXdmVGhjQWs3dFVkWHRWNHJR?oc=5",
-      "source_name": "Yahoo!ニュース",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-14T10:20:46+0900",
-      "status": "candidate",
-      "created_at": "2026-10-09T10:20:46+0900"
     },
     {
       "seed_id": "seed_ebad39192be5",
