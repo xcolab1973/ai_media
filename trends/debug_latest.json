@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T09:27:00+09:00",
+  "generated_at": "2026-10-11T16:49:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,43 +7,55 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 11,
-    "passed_total": 113,
+    "neg_excluded": 5,
+    "dedup_excluded": 9,
+    "passed_total": 108,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 26,
+      "news_web": 23,
       "google_trends": 10,
-      "x_realtime": 6,
-      "news_web": 15,
-      "yahoo_news_ranking": 4
+      "x_realtime": 9,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "medical_science": 4,
-    "personal_story": 3,
+    "social_reaction": 24,
+    "personal_story": 1,
+    "medical_science": 7,
     "opinion": 10,
-    "policy": 7,
-    "hard_fact": 16
+    "hard_fact": 22,
+    "policy": 6
   },
   "b2b_topic_category_counts": {
-    "medical_science": 3,
-    "social_reaction": 29,
+    "medical_science": 6,
+    "social_reaction": 24,
+    "hard_fact": 23,
     "opinion": 10,
-    "hard_fact": 18,
-    "policy": 7,
-    "personal_story": 3
+    "policy": 6,
+    "personal_story": 1
   },
   "b2b_top10": [
+    {
+      "title": "ADHDの人は便秘や過敏性腸症候群などの「腸の問題」を抱えやすいことが約200万",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "神戸空港でクッキー缶を買ったら謎のポエムが付いてるし、個包装もなくギチギチに入っ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "患者撮影の動画投稿、看護師2人を懲戒解雇　千葉西総合病院 - 日本経済新聞",
       "source_category": "yahoo_realtime",
@@ -51,19 +63,7 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "3Dプリンター製ナイフが保安検査を突破→飛行機内持ち込み動画の衝撃…国土交通省が",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "THE SOUNDING EARTH — 音で旅する地球儀",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "というかお前らってどんな音楽聞いてるんだ？",
+      "title": "なぜ「腰巻き・肩掛け」が再ブームに？　90年代ルック復活、手軽な寒暖差対策にも ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -75,31 +75,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "木原稔",
+      "title": "i☆Ris 2027年末で活動終了へ",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_entertainment",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "浜地真澄",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "米国債",
+      "title": "新幹線 自由席",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "上原浩治",
+      "title": "cs ファイナルステージ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ホワイトソックス 試合",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ミジオロウスキー",
+      "title": "横浜",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,28 +107,22 @@
   ],
   "note_top10": [
     {
-      "title": "3Dプリンター製ナイフが保安検査を突破→飛行機内持ち込み動画の衝撃…国土交通省が",
+      "title": "なぜ「腰巻き・肩掛け」が再ブームに？　90年代ルック復活、手軽な寒暖差対策にも ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "THE SOUNDING EARTH — 音で旅する地球儀",
+      "title": "神戸空港でクッキー缶を買ったら謎のポエムが付いてるし、個包装もなくギチギチに入っ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "というかお前らってどんな音楽聞いてるんだ？",
+      "title": "はてなパークスを２か月ほど使って分かったこと - orangestar2",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "患者撮影の動画投稿、看護師2人を懲戒解雇　千葉西総合病院 - 日本経済新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
     },
     {
       "title": "列車を撮ろうと駅近くを訪れた男女３人、スタックした車を押したところ線路脇に横転…",
@@ -137,34 +131,40 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "税理士法人のホームページに海外からのアクセスが約75%、その中には存在しない管理",
+      "title": "最近言ってて頭を抱えた言葉「使ったものは元に戻そうね」「借りた物を壊さないよ」→",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ChatGPTに対して些細なミスでも執拗に詰めるパワハラを続けていたら、完全に萎",
+      "title": "自分より太っている医者に「痩せたほうがいい」と言われ、思わず医者の顔を見たら「言",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "30年近く翻訳の仕事を続けてきて怖いこと…仕事が減ることだけではなく、積み重ねて",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "agodaで予約した宿に着いたら「当ホステルではagodaと契約しておりません」",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "障害者５０人が「９か月」で雇用打ち切り、予定は「１年半」・業者任せの就労管理が原",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "笑点といらすとやがコラボしてLINEスタンプ発売→春風亭一之輔氏「金くれんのか？",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ラーメン二郎はかつて緊張感ゼロで面白いオッちゃんが「慶應の学生が喜ぶから」と大盛",
+      "title": "犬が誕生日祝われてる時のよく分かんないけど嬉しいみたいな反応が好き「人間が楽しそ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "33歳でコンサルタントに転職…BCG元日本代表が、いま「あの頃の自分」に手渡した",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     }
   ]
 }
