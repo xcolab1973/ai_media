@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T16:49:00+09:00",
+  "generated_at": "2026-10-11T23:23:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,99 +7,99 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 9,
-    "passed_total": 108,
+    "neg_excluded": 3,
+    "dedup_excluded": 11,
+    "passed_total": 118,
     "b2b_category_counts": {
-      "yahoo_realtime": 26,
-      "news_web": 23,
+      "yahoo_realtime": 34,
       "google_trends": 10,
-      "x_realtime": 9,
+      "x_realtime": 7,
+      "news_web": 17,
       "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 24,
-    "personal_story": 1,
-    "medical_science": 7,
+    "social_reaction": 34,
+    "personal_story": 3,
     "opinion": 10,
-    "hard_fact": 22,
-    "policy": 6
+    "hard_fact": 10,
+    "policy": 9,
+    "medical_science": 4
   },
   "b2b_topic_category_counts": {
-    "medical_science": 6,
-    "social_reaction": 24,
-    "hard_fact": 23,
+    "hard_fact": 17,
+    "social_reaction": 31,
     "opinion": 10,
-    "policy": 6,
-    "personal_story": 1
+    "personal_story": 3,
+    "policy": 7,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "ADHDの人は便秘や過敏性腸症候群などの「腸の問題」を抱えやすいことが約200万",
+      "title": "【i☆Risから皆様へ大切なお知らせ】 - NEWS | i☆Ris OFFIC",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "神戸空港でクッキー缶を買ったら謎のポエムが付いてるし、個包装もなくギチギチに入っ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "患者撮影の動画投稿、看護師2人を懲戒解雇　千葉西総合病院 - 日本経済新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "なぜ「腰巻き・肩掛け」が再ブームに？　90年代ルック復活、手軽な寒暖差対策にも ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "列車を撮ろうと駅近くを訪れた男女３人、スタックした車を押したところ線路脇に横転…",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "i☆Ris 2027年末で活動終了へ",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_entertainment",
       "topic_category": "hard_fact"
     },
     {
-      "title": "浜地真澄",
+      "title": "【完全版】電子書籍をPDF化・OCRする方法｜Kindle・Kobo・DMMなど",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "povo",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "新幹線 自由席",
+      "title": "マンチェスターシティ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "cs ファイナルステージ",
+      "title": "小田凱人",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "横浜",
+      "title": "もうパパ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "一人の男性を6人の写真家に撮影してもらう事になったが、それぞれに全く異なる人物像",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "赤ちゃんのミルクで義妹に「水道水ダメですよー」と言われて、昔の人は水道水を使って",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東横INN、チェーンなのに朝食の内容に差がありすぎるのはなぜ？→年間50泊する人",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "車椅子テニス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +107,64 @@
   ],
   "note_top10": [
     {
-      "title": "なぜ「腰巻き・肩掛け」が再ブームに？　90年代ルック復活、手軽な寒暖差対策にも ",
+      "title": "【完全版】電子書籍をPDF化・OCRする方法｜Kindle・Kobo・DMMなど",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "神戸空港でクッキー缶を買ったら謎のポエムが付いてるし、個包装もなくギチギチに入っ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "はてなパークスを２か月ほど使って分かったこと - orangestar2",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "列車を撮ろうと駅近くを訪れた男女３人、スタックした車を押したところ線路脇に横転…",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "最近言ってて頭を抱えた言葉「使ったものは元に戻そうね」「借りた物を壊さないよ」→",
+      "title": "「ガキの頃はお祭りの出店にワクワクしたのだが、今は複数の理由が目に付いて買えない",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "自分より太っている医者に「痩せたほうがいい」と言われ、思わず医者の顔を見たら「言",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "agodaで予約した宿に着いたら「当ホステルではagodaと契約しておりません」",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "笑点といらすとやがコラボしてLINEスタンプ発売→春風亭一之輔氏「金くれんのか？",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "犬が誕生日祝われてる時のよく分かんないけど嬉しいみたいな反応が好き「人間が楽しそ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "33歳でコンサルタントに転職…BCG元日本代表が、いま「あの頃の自分」に手渡した",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
+    },
+    {
+      "title": "一人の男性を6人の写真家に撮影してもらう事になったが、それぞれに全く異なる人物像",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "赤ちゃんのミルクで義妹に「水道水ダメですよー」と言われて、昔の人は水道水を使って",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東横INN、チェーンなのに朝食の内容に差がありすぎるのはなぜ？→年間50泊する人",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「AIに指示するだけでひとりでそこそこのゲームが作れてしまいます」ゲームクリエイ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "日本で最も到達難易度が高そうな東横INNこと『東横INN対馬比田勝』に宿泊してみ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "GPU不要で驚きの精度。リアルタイム多言語文字起こしツール「hayamimi」使",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "新大久保でも東上野でもない…日本人が捨てた内臓や尻尾をホルモンに変えた｢都内最古",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「出産した回数」が母親の寿命に影響を与える可能性がある",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ]
 }
