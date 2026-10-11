@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-11T16:39:14+09:00",
- "valid_until": "2026-10-25T16:38:13+09:00",
+ "generated_at": "2026-10-12T06:30:34+09:00",
+ "valid_until": "2026-10-26T06:30:03+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "relationship",
   "from_current": 24,
-  "from_new": 2,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 2,
+  "retention_dropped": 0,
   "genres": 3,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "ママ友・友人関係の距離の取り方（All About）",
+   "url": "https://allabout.co.jp/gm/gc/488290/",
+   "summary": "ママ友付き合いに疲れたときの距離の取り方を扱う解説。年賀状じまい等の年末の区切りで関係を整理したい人の悩みの角度に使える。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "relationship-social",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "All About",
+    "expert_origin": true,
+    "search_query": "ママ友 付き合い 疲れた 距離の取り方 年賀状 じまい 友達 縁を切る",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-10-26T06:30:03+09:00",
+   "validity_days": 14
+  },
   {
    "source_category": "news_web",
    "raw_title": "リモートワークで職場の心理的距離が広がる JTBコミュニケーションデザイン調査(会社員1030人)",
@@ -164,36 +194,6 @@
     "rescued": false
    },
    "valid_until": "2026-10-23T18:48:38+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "ママ友、仕事の人間関係に“疲れ”を感じたら…近すぎず遠すぎない「適度な距離感」のつくり方",
-   "url": "https://allabout.co.jp/gm/gc/488290/",
-   "summary": "ママ友や仕事関係で疲れたときの距離の取り方。私生活の話をしすぎない、誘いは相手が納得する理由を添えて断る、LINEは即返信できないと先に伝える、好意的な態度は保つ、といった整理。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "relationship-social",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "All About",
-    "expert_origin": true,
-    "search_query": "ママ友 人間関係 距離の取り方 疲れた 知恵袋 付き合い方",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-10-22T06:28:09+09:00",
    "validity_days": 14
   },
   {
