@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T02:48:00+09:00",
+  "generated_at": "2026-10-12T09:43:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,164 +7,164 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 110,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 18,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 3,
-    "dedup_excluded": 8,
-    "passed_total": 99,
+    "neg_excluded": 5,
+    "dedup_excluded": 12,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 17,
+      "x_realtime": 7,
+      "yahoo_realtime": 36,
       "google_trends": 10,
-      "x_realtime": 10,
-      "yahoo_news_ranking": 10,
-      "news_web": 23
+      "news_web": 16,
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 22,
-    "personal_story": 2,
+    "social_reaction": 30,
+    "personal_story": 1,
     "opinion": 10,
-    "policy": 3,
-    "medical_science": 4,
-    "hard_fact": 29
+    "hard_fact": 16,
+    "policy": 7,
+    "medical_science": 6
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 22,
+    "social_reaction": 30,
+    "hard_fact": 19,
+    "policy": 7,
     "opinion": 10,
-    "personal_story": 2,
-    "policy": 3,
-    "hard_fact": 31,
-    "medical_science": 2
+    "personal_story": 1,
+    "medical_science": 3
   },
   "b2b_top10": [
     {
-      "title": "パキスタン大統領が北西部州に非常事態宣言 治安対策めぐり権限停止",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Matt、ヒアルロン酸注入で起きた「顎が3cm伸びる」顔面激変告白",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日曜劇場 vivant",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "フライブルク",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "チャンピオンズリーグ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "vivant最終回",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "有 吉弘 行",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "韓国のゴマ油をカルディで買ってきた！日本のと全く違うなんて知らなかった…豚キムチ",
+      "title": "給食おばになって驚いたのは、給食に生野菜はNGなので副菜の和え物の具材は全てボイ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "evo france 2026",
+      "title": "東京の水害対策｢ためる｣から｢流す｣へ　環七地下の調節池結び巨大河川 - 日本経",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "公立病院、25年度は8割が赤字　材料費や人件費重く - 日本経済新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "「ここまで言い切れるのってかなりこわい」立てかけてある看板に「熊が鈴の音に慣れて",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "アフリカ・ナイジェリアで養蜂を普及させようとしたが村の農家に「ミツバチに自分の作",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "母親のショートステイ施設に持っていった良い感じのバスタオルが紛失、代わりに雑巾み",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "北朝鮮 ミサイル",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ngoại hạng anh",
+      "title": "brewers vs dodgers",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
+    },
+    {
+      "title": "ドラム",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "台風29号で高波 海のレジャー注意",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
     {
-      "title": "パキスタン大統領が北西部州に非常事態宣言 治安対策めぐり権限停止",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
+      "title": "給食おばになって驚いたのは、給食に生野菜はNGなので副菜の和え物の具材は全てボイ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "Matt、ヒアルロン酸注入で起きた「顎が3cm伸びる」顔面激変告白",
+      "title": "「ここまで言い切れるのってかなりこわい」立てかけてある看板に「熊が鈴の音に慣れて",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "アフリカ・ナイジェリアで養蜂を普及させようとしたが村の農家に「ミツバチに自分の作",
       "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "母親のショートステイ施設に持っていった良い感じのバスタオルが紛失、代わりに雑巾み",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "「ガキの頃はお祭りの出店にワクワクしたのだが、今は複数の理由が目に付いて買えない",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
       "title": "韓国のゴマ油をカルディで買ってきた！日本のと全く違うなんて知らなかった…豚キムチ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「見えない隣人」　都心2割が法人所有、短期売買で価格高騰 ―マンション不都合な真",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "家に謎の小石が飾ってあり母にこの石は何？と質問…父が落ち込んで公園のベンチにいた",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "赤字173億円のジャングリア沖縄、経営者目線で見る現実「実験場であり…」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "B′z松本孝弘、好きなテレビ番組明かす「TBSさんだったら…」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "岡山市の行方不明だった19歳男性 約18時間後に自らタクシーで自宅",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "走行中のつくばエクスプレスが駅到着前にドアが約15cm開く 客が操作か",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "アレン様がギャラ事情を告白 強気の交渉に藤本美貴も驚き「凄くない？」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "livedoor_topics",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日本で最も到達難易度が高そうな東横INNこと『東横INN対馬比田勝』に宿泊してみ",
+      "title": "「ホテルの部屋についてる洗濯機回したらこれ出てきて泣きそう」白いワンピを洗濯した",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "廃棄うどんでタイ釣る、香川大学などが疑似餌開発　26年度内に商品化 - 日本経済",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ]
 }
