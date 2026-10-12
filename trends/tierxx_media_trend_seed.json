@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-12T18:36:49+0900",
+    "generated_at": "2026-10-13T01:56:50+0900",
     "record_count": 37,
-    "source_total_in_db": 1442,
+    "source_total_in_db": 1444,
     "provenance_breakdown": {
       "evidence": 921,
-      "pain_seed": 521
+      "pain_seed": 523
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_0fd8678e99c7",
+      "trend_term": "ヒアルロン酸注入の顔面変化",
+      "raw_title": "「総額1000万整形」公表のMatt、ヒアルロン酸注入で起きた“顎が3cm伸びる”顔面激変告白…父・桑田真澄への“あこがれ”にじむ場面も - smart-flash.jp",
+      "summary": "有名人が注入系美容医療による顔の大きな変化を公開。読者の「施術後の見た目変化への不安」を浮き彫りにする素材。",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Dd2t6Z2xUSlNXLUNkZGpoWWRwS0Q1REQyeXVQV0hXUjJ0U01lOUo0OG1sSGMtZHBoM2RpbEVIMEN0c0FXeWFidkhYOGhLUHJMeVNQMjdMV0FzOEFEallTVE5Ed2hTVTVZUFJtM0djV1IxUVFFckMxY0JrMA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Dd2t6Z2xUSlNXLUNkZGpoWWRwS0Q1REQyeXVQV0hXUjJ0U01lOUo0OG1sSGMtZHBoM2RpbEVIMEN0c0FXeWFidkhYOGhLUHJMeVNQMjdMV0FzOEFEallTVE5Ed2hTVTVZUFJtM0djV1IxUVFFckMxY0JrMA?oc=5",
+      "source_name": "smart-flash.jp",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-27T01:55:12+0900",
+      "status": "candidate",
+      "created_at": "2026-10-13T01:55:12+0900"
+    },
+    {
+      "seed_id": "seed_4afbee04de44",
+      "trend_term": "ボトックス副作用への社会的警告",
+      "raw_title": "クリスティアーノ・ロナウドが痛烈に皮肉「ボトックスはやめろ、まるでリンゴみたいだ」 - Goal.com",
+      "summary": "有名人がボトックスの過度使用の見た目リスク（不自然な仕上がり）に言及。施術の失敗例への読者の潜在的な不安を喚起。",
+      "source_url": "https://news.google.com/rss/articles/CBMikAVBVV95cUxOSzkzQ3pVT0ZoVEtLcVFDYXpwV3pxTGxyQlM1STJxWnRUNjVjZjhEUzkwT2gzdlE4NFJSWUhKbUxhazBrYWpDdlpLNnZDR0JWYlBYcTQ5TjdHWG5WOUQ1ZFIwREhxbTRUQVdBaE92QjhpakRGMGxtMGVlMnhjcnhtV1lQLXY2YWpBNk5fNXdfOUhscjRkTkx0WklUNkYwdWhRWUFENnRWcWhJZnZiVUwzTnhoMktGLUw1OUk0R2xfNXl2UUdSSVFWeG9hVUs2VGZXY0RnaU15MUJCdHdnay1QZzAtVUFrVGFaeEtXOTV0MFBHOTBlYkhaNXVMb21IcFgzYW5ka005WlExRXF5RlRLRVBMTHlEbnA1MjRVTk5WOWlSTVRUOWJkVkJGZlRqWld1S1ktN01aaWV0c3A5dzQ0TkJkel80aFpEMUhtWExkNmpSR3hlLW52czJqSTluSDZPSzVDUUdQOU5KRThINWVfWjFnNmpZNWpBTkFDcFBpMnFlMUlyYVhVckc5aHRrSm44LWdXZFdmTlVNRVVSX0llYkROYklVTzZIYkVDdHMxT0d6NzlFZ2hDTm9GdlFHYzhMRC1MdmVNNWxxbl91M3Y0bWhrcWVveEh4YmE3bmUzak1iQTV4T1dVSmJacjh1NTNRUXBibUV2QzBiSDRKQ0NWUTg1NHBUeVA3enFHTktFcGFFSzdPdTdydDFTa3h4ekZwQTBoYmtUUkpsZ0xOYmc0bnNhUFUyYVY1R2FYaUthT1Y2dlpQU0xCQTJRcGgtT2lTMmhSTk5jMmI4UjgtRkJNOEZ1T1BaYmxrbnBrWV9lSzFGTWZSYmNWY21hT3F4WUhpTW5ZOHhKdUZTdjE2WmdZNQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAVBVV95cUxOSzkzQ3pVT0ZoVEtLcVFDYXpwV3pxTGxyQlM1STJxWnRUNjVjZjhEUzkwT2gzdlE4NFJSWUhKbUxhazBrYWpDdlpLNnZDR0JWYlBYcTQ5TjdHWG5WOUQ1ZFIwREhxbTRUQVdBaE92QjhpakRGMGxtMGVlMnhjcnhtV1lQLXY2YWpBNk5fNXdfOUhscjRkTkx0WklUNkYwdWhRWUFENnRWcWhJZnZiVUwzTnhoMktGLUw1OUk0R2xfNXl2UUdSSVFWeG9hVUs2VGZXY0RnaU15MUJCdHdnay1QZzAtVUFrVGFaeEtXOTV0MFBHOTBlYkhaNXVMb21IcFgzYW5ka005WlExRXF5RlRLRVBMTHlEbnA1MjRVTk5WOWlSTVRUOWJkVkJGZlRqWld1S1ktN01aaWV0c3A5dzQ0TkJkel80aFpEMUhtWExkNmpSR3hlLW52czJqSTluSDZPSzVDUUdQOU5KRThINWVfWjFnNmpZNWpBTkFDcFBpMnFlMUlyYVhVckc5aHRrSm44LWdXZFdmTlVNRVVSX0llYkROYklVTzZIYkVDdHMxT0d6NzlFZ2hDTm9GdlFHYzhMRC1MdmVNNWxxbl91M3Y0bWhrcWVveEh4YmE3bmUzak1iQTV4T1dVSmJacjh1NTNRUXBibUV2QzBiSDRKQ0NWUTg1NHBUeVA3enFHTktFcGFFSzdPdTdydDFTa3h4ekZwQTBoYmtUUkpsZ0xOYmc0bnNhUFUyYVY1R2FYaUthT1Y2dlpQU0xCQTJRcGgtT2lTMmhSTk5jMmI4UjgtRkJNOEZ1T1BaYmxrbnBrWV9lSzFGTWZSYmNWY21hT3F4WUhpTW5ZOHhKdUZTdjE2WmdZNQ?oc=5",
+      "source_name": "Goal.com",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "opinion",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-27T01:55:12+0900",
+      "status": "candidate",
+      "created_at": "2026-10-13T01:55:12+0900"
+    },
     {
       "seed_id": "seed_8faee578da35",
       "trend_term": "クリニック周年経営",
@@ -317,42 +353,6 @@
       "valid_until": "2026-10-16T09:22:42+0900",
       "status": "candidate",
       "created_at": "2026-10-11T09:22:42+0900"
-    },
-    {
-      "seed_id": "seed_1afc6a4b2c11",
-      "trend_term": "ECMスキンブースター",
-      "raw_title": "【2026.09ベンスクリニック渋谷】韓国で話題のECMスキンブースター『リアロ（REALLO INJECT FINE）』導入 - 毎日キレイ",
-      "summary": "ベンスクリニック渋谷院が韓国で話題のECMスキンブースター『リアロ』の導入を2026年9月に開始予定。",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91bEg1MHl4dWRLbWpoeFh2ZnZfYWNkb1NwdnB6V29vcDdpVktIeWkwNEVWNnUwZ3J5Y1NOMmpmelp2azNFU2tWN0hudmJfRmVlaDMzX2FlU3A2V244UFdNWlc2bzJCLWZiVVlrTUZyTHBlRDhJR2V6SkV3?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91bEg1MHl4dWRLbWpoeFh2ZnZfYWNkb1NwdnB6V29vcDdpVktIeWkwNEVWNnUwZ3J5Y1NOMmpmelp2azNFU2tWN0hudmJfRmVlaDMzX2FlU3A2V244UFdNWlc2bzJCLWZiVVlrTUZyTHBlRDhJR2V6SkV3?oc=5",
-      "source_name": "毎日キレイ",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-16T09:22:32+0900",
-      "status": "candidate",
-      "created_at": "2026-10-11T09:22:32+0900"
-    },
-    {
-      "seed_id": "seed_6c9bd6b5989e",
-      "trend_term": "韓国発スキンブースター",
-      "raw_title": "ベンスクリニック新宿院、韓国で話題のhADM配合スキンブースター「ティシボ（TISSIVO）」に続き「リトゥオ（Re2O）」の導入を決定- 第5世代スキンブースターのラインアップを拡充 - 朝日新聞",
-      "summary": "ベンスクリニック新宿院がhADM配合スキンブースター「リトゥオ」「ティシボ」を導入。韓国で話題の第5世代スキンブースターのラインアップ拡充。",
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GS0V6THBzQ1RXZnJCX1hKQUZGRm4tNXc5NTlwWmstMVdiX1FUeDM2NjA0OXBrcTNGaHJXMlNRVDVaRDFJaFUxcHY2QkhjejRucFBXbXZ5TVR6Ylk?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GS0V6THBzQ1RXZnJCX1hKQUZGRm4tNXc5NTlwWmstMVdiX1FUeDM2NjA0OXBrcTNGaHJXMlNRVDVaRDFJaFUxcHY2QkhjejRucFBXbXZ5TVR6Ylk?oc=5",
-      "source_name": "朝日新聞",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-16T09:22:32+0900",
-      "status": "candidate",
-      "created_at": "2026-10-11T09:22:32+0900"
     },
     {
       "seed_id": "seed_a94c8b7de64a",
