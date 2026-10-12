@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T09:43:00+09:00",
+  "generated_at": "2026-10-12T17:00:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,106 +16,106 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 12,
-    "passed_total": 115,
+    "neg_excluded": 12,
+    "dedup_excluded": 9,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "x_realtime": 7,
-      "yahoo_realtime": 36,
+      "yahoo_realtime": 34,
       "google_trends": 10,
-      "news_web": 16,
-      "yahoo_news_ranking": 1
+      "x_realtime": 8,
+      "news_web": 15,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "personal_story": 1,
-    "opinion": 10,
-    "hard_fact": 16,
-    "policy": 7,
-    "medical_science": 6
+    "social_reaction": 26,
+    "personal_story": 3,
+    "opinion": 9,
+    "medical_science": 9,
+    "policy": 10,
+    "hard_fact": 13
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
+    "social_reaction": 26,
+    "policy": 10,
     "hard_fact": 19,
-    "policy": 7,
-    "opinion": 10,
-    "personal_story": 1,
+    "opinion": 9,
+    "personal_story": 3,
     "medical_science": 3
   },
   "b2b_top10": [
     {
-      "title": "給食おばになって驚いたのは、給食に生野菜はNGなので副菜の和え物の具材は全てボイ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「絶対にAのボタンを押してください」というアンケートを設置したらBを押した人が3",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "東京の水害対策｢ためる｣から｢流す｣へ　環七地下の調節池結び巨大河川 - 日本経",
+      "title": "給食おばになって驚いたのは、給食に生野菜はNGなので副菜の和え物の具材は全てボイ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "公立病院、25年度は8割が赤字　材料費や人件費重く - 日本経済新聞",
+      "title": "ポーランド首相暗殺計画か　治安当局の緊急会議招集 | NEWSjp",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "「ここまで言い切れるのってかなりこわい」立てかけてある看板に「熊が鈴の音に慣れて",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "アフリカ・ナイジェリアで養蜂を普及させようとしたが村の農家に「ミツバチに自分の作",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "母親のショートステイ施設に持っていった良い感じのバスタオルが紛失、代わりに雑巾み",
+      "title": "韓国総合株価指数",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "地方競馬",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "中学時代、「落語に触れよう」的なイベントでイキリまくりの中学生から大爆笑をかっさ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "北朝鮮 ミサイル",
+      "title": "apple ipad mini",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "brewers vs dodgers",
+      "title": "乃木坂46",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ドラム",
+      "title": "競輪結果",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
-    },
-    {
-      "title": "台風29号で高波 海のレジャー注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
     {
-      "title": "給食おばになって驚いたのは、給食に生野菜はNGなので副菜の和え物の具材は全てボイ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「絶対にAのボタンを押してください」というアンケートを設置したらBを押した人が3",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ここまで言い切れるのってかなりこわい」立てかけてある看板に「熊が鈴の音に慣れて",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "給食おばになって驚いたのは、給食に生野菜はNGなので副菜の和え物の具材は全てボイ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -125,43 +125,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "母親のショートステイ施設に持っていった良い感じのバスタオルが紛失、代わりに雑巾み",
+      "title": "中学時代、「落語に触れよう」的なイベントでイキリまくりの中学生から大爆笑をかっさ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ガキの頃はお祭りの出店にワクワクしたのだが、今は複数の理由が目に付いて買えない",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "ASDかもしれないと言われている6歳児「オレはさ…何をするのかわからないところに",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "崩れまくりのAI生成ポスターが世に出るのを不思議に思ってたけど「コストを抑えたく",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
     },
     {
-      "title": "韓国のゴマ油をカルディで買ってきた！日本のと全く違うなんて知らなかった…豚キムチ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「見えない隣人」　都心2割が法人所有、短期売買で価格高騰 ―マンション不都合な真",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "家に謎の小石が飾ってあり母にこの石は何？と質問…父が落ち込んで公園のベンチにいた",
+      "title": "「人生で最も寝不足な5週間を過ごした」本当に小さな子猫を育てるとき、頻繁なミルク",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ホテルの部屋についてる洗濯機回したらこれ出てきて泣きそう」白いワンピを洗濯した",
+      "title": "友人から「渋谷に小さなイギリスがあるよ」と教えてもらってそんな馬鹿なと思ってたん",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "廃棄うどんでタイ釣る、香川大学などが疑似餌開発　26年度内に商品化 - 日本経済",
+      "title": "憧れの場所で写真を撮ってたら「こんな定番な場所で撮ってもフォトコンで賞なんて取れ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "インターホンが壊れてピンポン言わなくなったので修理頼んだら機械丸ままポンと変えて",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
