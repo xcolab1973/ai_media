@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-13T01:56:50+0900",
+    "generated_at": "2026-10-13T11:41:30+0900",
     "record_count": 37,
-    "source_total_in_db": 1444,
+    "source_total_in_db": 1445,
     "provenance_breakdown": {
-      "evidence": 921,
+      "evidence": 922,
       "pain_seed": 523
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_0d93f27a935b",
+      "trend_term": "次世代スキンブースター",
+      "raw_title": "ベンスクリニック新宿院、韓国で話題のhADM配合スキンブースター「ティシボ（TISSIVO）」に続き「リトゥオ（Re2O）」の導入を決定- 第5世代スキンブースターのラインアップを拡充 - 時事ドットコム",
+      "summary": "ベンスクリニック新宿院がhADM配合スキンブースター「ティシボ」「リトゥオ」を導入。韓国発の第5世代スキンブースター製品のラインアップ拡充。",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oV2NPQTVjb3pwWFhSRU9SZGQwMnB1aDRzNUd5TzZ1aHhGSGZEeFhpTWRLUzNKRzNhNGtueTR6RnRDX2w5aWJQUmIzZTFrX2NkWVdMa0ZWcUtDbzlQQjB2dGd4RlB4RHluYTNr?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oV2NPQTVjb3pwWFhSRU9SZGQwMnB1aDRzNUd5TzZ1aHhGSGZEeFhpTWRLUzNKRzNhNGtueTR6RnRDX2w5aWJQUmIzZTFrX2NkWVdMa0ZWcUtDbzlQQjB2dGd4RlB4RHluYTNr?oc=5",
+      "source_name": "時事ドットコム",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-18T11:41:09+0900",
+      "status": "candidate",
+      "created_at": "2026-10-13T11:41:09+0900"
+    },
     {
       "seed_id": "seed_0fd8678e99c7",
       "trend_term": "ヒアルロン酸注入の顔面変化",
@@ -263,24 +281,6 @@
       "valid_until": "2026-10-16T18:11:10+0900",
       "status": "candidate",
       "created_at": "2026-10-11T18:11:10+0900"
-    },
-    {
-      "seed_id": "seed_74e1368a423d",
-      "trend_term": "著名人の美容医療検討発言",
-      "raw_title": "高嶋ちさ子：「ボトックス打とうかな…」とつぶやく トム・クルーズとの「ザワつく」共演に大興奮 - 毎日キレイ",
-      "summary": "有名人がボトックス施術を検討する旨をSNSで言及。一般層のボトックス関心の代理指標",
-      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83NHZNcjRaQ21pUmxCZTJpb09tbWo3WXdxN2JZOVVkd3VQdEFtMDZNT3pHLWttN19BVFdPblN3NTFYSUVTSTc4dzdjQzZjeXJJVko0djVsWVh2NDNpNlA4VG5fR0dyYV9peDZtZXM4WQ?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83NHZNcjRaQ21pUmxCZTJpb09tbWo3WXdxN2JZOVVkd3VQdEFtMDZNT3pHLWttN19BVFdPblN3NTFYSUVTSTc4dzdjQzZjeXJJVko0djVsWVh2NDNpNlA4VG5fR0dyYV9peDZtZXM4WQ?oc=5",
-      "source_name": "毎日キレイ",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-25T18:11:06+0900",
-      "status": "candidate",
-      "created_at": "2026-10-11T18:11:06+0900"
     },
     {
       "seed_id": "seed_c80923ad496f",
