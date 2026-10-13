@@ -2,8 +2,8 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-13T11:41:30+0900",
-    "record_count": 37,
+    "generated_at": "2026-10-13T18:40:16+0900",
+    "record_count": 36,
     "source_total_in_db": 1445,
     "provenance_breakdown": {
       "evidence": 922,
@@ -515,24 +515,6 @@
       "valid_until": "2026-10-13T23:48:37+0900",
       "status": "candidate",
       "created_at": "2026-10-08T23:48:37+0900"
-    },
-    {
-      "seed_id": "seed_d025a33aeffc",
-      "trend_term": "糸リフト新素材組み合わせ",
-      "raw_title": "アンカーシリーズと新素材スレッドを組み合わせた「頬と顎下のたるみ治療」を医師向けに共有 - Infoseek",
-      "summary": "アンカーシリーズと新素材スレッドを組み合わせた頬と顎下のたるみ治療法を医師向けに共有。新しい治療アプローチの提示。",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVOFlZZ0pVOTJXdlNxUmtZbXUxYUdxTjBKQUNVc2VOUW85dHdZMW5WR0NWZE9hTk95RHdrVDN0SFhpbVMxRWhNbF84SGF2WkNxVDJBcGU1eW51ajlYVmxWMGJMVWY0UDVEa1dhd05mTE9HUQ?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVOFlZZ0pVOTJXdlNxUmtZbXUxYUdxTjBKQUNVc2VOUW85dHdZMW5WR0NWZE9hTk95RHdrVDN0SFhpbVMxRWhNbF84SGF2WkNxVDJBcGU1eW51ajlYVmxWMGJMVWY0UDVEa1dhd05mTE9HUQ?oc=5",
-      "source_name": "Infoseek",
-      "monitor_id": "bm-market-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-13T18:20:29+0900",
-      "status": "candidate",
-      "created_at": "2026-10-08T18:20:29+0900"
     },
     {
       "seed_id": "seed_caeebd02ca0c",
