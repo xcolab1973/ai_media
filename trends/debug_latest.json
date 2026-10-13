@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T06:25:00+09:00",
+  "generated_at": "2026-10-13T11:42:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,80 +16,57 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 7,
-    "passed_total": 116,
+    "neg_excluded": 15,
+    "dedup_excluded": 10,
+    "passed_total": 107,
     "b2b_category_counts": {
-      "yahoo_realtime": 39,
+      "yahoo_realtime": 36,
       "google_trends": 10,
-      "news_web": 12,
-      "x_realtime": 9
+      "x_realtime": 6,
+      "news_web": 15,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
-    "opinion": 9,
-    "personal_story": 7,
-    "hard_fact": 11,
+    "social_reaction": 30,
+    "personal_story": 3,
+    "opinion": 10,
     "medical_science": 3,
-    "policy": 5
+    "policy": 7,
+    "hard_fact": 17
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 35,
-    "hard_fact": 13,
-    "opinion": 9,
-    "personal_story": 7,
-    "policy": 5,
-    "medical_science": 1
+    "policy": 7,
+    "social_reaction": 30,
+    "opinion": 10,
+    "hard_fact": 18,
+    "medical_science": 2,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "[第105話]限界OL霧切ギリ子 - ミートスパ土本 | 少年ジャンプ＋",
+      "title": "米空母で自殺未遂8件、イラン戦の260日無寄港は最長　兵士に負担 - 日本経済新",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "中学生の息子が親にスマホを取り上げられているという友達に自作ノートPCを販売、お",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "Deno開発元がCloudflareに合流。Denoの開発は終了へ、今後はClo",
+      "title": "4-6月期家計GDP・サナエ給付の子育て配慮 - 経済を良くするって、どうすれば",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "policy"
     },
     {
-      "title": "バケットリストの欠点とリバースバケットリストの紹介 | FIRE後の教科書 | ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "[55話]サンキューピッチ - 住吉九 | 少年ジャンプ＋",
+      "title": "狩野英孝さん「今公開してる映画『バイオハザード』がエイコーだったって凄く言われる",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "短期的満足に注意しよう | FIRE後の教科書 | たきび FIRE",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "[第248話]ダンダダン - 龍幸伸 | 少年ジャンプ＋",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ローガン・ヘンダーソン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "brewers vs dodgers",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     },
     {
       "title": "東京・銀座に「地べた族」急増で物議　ベンチ置けず警察も困惑　状況次第では法令違反",
@@ -98,39 +75,45 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "【完全版】電子書籍をPDF化・OCRする方法｜Kindle・Kobo・DMMなど",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "望月 祐治 vivant",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "細野豪志",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "アンソロピック",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "井上 貴博",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "金価格",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "バケットリストの欠点とリバースバケットリストの紹介 | FIRE後の教科書 | ",
+      "title": "中学生の息子が親にスマホを取り上げられているという友達に自作ノートPCを販売、お",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "[第105話]限界OL霧切ギリ子 - ミートスパ土本 | 少年ジャンプ＋",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "[55話]サンキューピッチ - 住吉九 | 少年ジャンプ＋",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "短期的満足に注意しよう | FIRE後の教科書 | たきび FIRE",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "[第248話]ダンダダン - 龍幸伸 | 少年ジャンプ＋",
+      "title": "狩野英孝さん「今公開してる映画『バイオハザード』がエイコーだったって凄く言われる",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -142,25 +125,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "【完全版】電子書籍をPDF化・OCRする方法｜Kindle・Kobo・DMMなど",
+      "title": "昼食時に「仕事が終わらないなら助けてあげる」と言ったら、「ご飯の時まで仕事の話さ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "海外任天堂幹部、「物理メディアの廃止予定はない」と明言。その分コストはかかるけど",
+      "title": "「もうAmazonのセール始まってる？」プライム感謝祭の先行セールが開始している",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "その「納品」、同じ意味で使ってます？――VESTA事件に学ぶ認識ズレの怖さ",
+      "title": "広島‘ゾンビ’カープはどうすればよかったのか？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "無料で自分のPCにインストールされているAIエージェント・ハーネス・MCPサーバ",
+      "title": "UNO取扱説明書『大量のカードが発射されます。本当に、ものすごい量です』→出たと",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "コンカフェ嬢やめた直後は書類の日付書く時とかに無意識で0を♡で書くというカスの職",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "商業施設のトイレにちいかわのエコバッグを忘れ、10分後ぐらいに気づいて取りに戻っ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東京・港区タワマンに「違法民泊」の疑い　料金は3泊38万円 ―マンション不都合な",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
