@@ -2,8 +2,8 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-13T18:40:16+0900",
-    "record_count": 36,
+    "generated_at": "2026-10-14T00:14:02+0900",
+    "record_count": 34,
     "source_total_in_db": 1445,
     "provenance_breakdown": {
       "evidence": 922,
@@ -479,42 +479,6 @@
       "valid_until": "2026-10-14T10:20:56+0900",
       "status": "candidate",
       "created_at": "2026-10-09T10:20:56+0900"
-    },
-    {
-      "seed_id": "seed_ebad39192be5",
-      "trend_term": "美容整形題材ドラマ",
-      "raw_title": "ネトフリ主演で「松岡茉優」復活なるか…地上波が手を出しづらい“美容整形”の光と闇に迫るドラマ「ダウンタイム」 美容外科監修は“超有名クリニック”が担当（デイリー新潮） - Yahoo!ニュース",
-      "summary": "Netflix主演ドラマ「ダウンタイム」が美容整形をテーマに制作され、超有名クリニックが美容外科監修を担当。地上波が扱いづらい美容医療の実態がドラマで取り上げられる。",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBENnpkU0IwblpJZ1hqYlpZNHZDRkUyY0RhLVFOanJmWmlaYVNxc0Uyd0VoN3FLd2VOUEZBek1ULS1YVkdWakt3M2NaRkhYVkI4QWNVeko1eGlGVmRWdUFJRjVSdVNtRFR0NkFwaEFibHB1bzJuZjhFUXdiLWhuRFU?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBENnpkU0IwblpJZ1hqYlpZNHZDRkUyY0RhLVFOanJmWmlaYVNxc0Uyd0VoN3FLd2VOUEZBek1ULS1YVkdWakt3M2NaRkhYVkI4QWNVeko1eGlGVmRWdUFJRjVSdVNtRFR0NkFwaEFibHB1bzJuZjhFUXdiLWhuRFU?oc=5",
-      "source_name": "Yahoo!ニュース",
-      "monitor_id": "bm-market-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-13T23:48:42+0900",
-      "status": "candidate",
-      "created_at": "2026-10-08T23:48:42+0900"
-    },
-    {
-      "seed_id": "seed_16a85723a297",
-      "trend_term": "格安クリニックの安全管理課題",
-      "raw_title": "「安さ」で集客する美容クリニックは要注意…安全管理がおろそかに【トラブル続出 美容医療】#3 - ｄメニューニュース",
-      "summary": "低価格を謳う美容クリニックで安全管理の不備が報告されており、トラブル事例が存在する。患者の院選びリスク判断に関連する情報。",
-      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbE5Yay11SlVRXzdRMmxMNGljYzdzTVgtZU1DNjd1Tm1KZnpyZGxSUFdGM0Zsb2E0a0V1a0Uxal8tdXZ5dDRON0JNVlhBUkdaeUM1YjZfYXVtQWtRMnJKejJOWGFUNldkajhFLXE2dVJOMmktaFFYZVotTEhPRjQ5RGxRQjF0cFgwYnfSAYoBQVVfeXFMT2xOWGstdUpVUV83UTJsTDRpY2M3c01YLWVNQzY3dU5tSmZ6cmRsUlBXRjNGbG9hNGtFdWtFMWpfLXV2eXQ0TjdCTVZYQVJHWnlDNWI2X2F1bUFrUTJySnoyTlhhVDZXZGo4RS1xNnVSTjJpLWhRWGVaLUxIT0Y0OURsUUIxdHBYMGJ3?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbE5Yay11SlVRXzdRMmxMNGljYzdzTVgtZU1DNjd1Tm1KZnpyZGxSUFdGM0Zsb2E0a0V1a0Uxal8tdXZ5dDRON0JNVlhBUkdaeUM1YjZfYXVtQWtRMnJKejJOWGFUNldkajhFLXE2dVJOMmktaFFYZVotTEhPRjQ5RGxRQjF0cFgwYnfSAYoBQVVfeXFMT2xOWGstdUpVUV83UTJsTDRpY2M3c01YLWVNQzY3dU5tSmZ6cmRsUlBXRjNGbG9hNGtFdWtFMWpfLXV2eXQ0TjdCTVZYQVJHWnlDNWI2X2F1bUFrUTJySnoyTlhhVDZXZGo4RS1xNnVSTjJpLWhRWGVaLUxIT0Y0OURsUUIxdHBYMGJ3?oc=5",
-      "source_name": "ｄメニューニュース",
-      "monitor_id": "bm-safety-news",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-13T23:48:37+0900",
-      "status": "candidate",
-      "created_at": "2026-10-08T23:48:37+0900"
     },
     {
       "seed_id": "seed_caeebd02ca0c",
