@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T17:27:00+09:00",
+  "generated_at": "2026-10-14T00:17:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,33 +16,54 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 15,
-    "dedup_excluded": 10,
-    "passed_total": 107,
+    "neg_excluded": 10,
+    "dedup_excluded": 9,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
+      "yahoo_realtime": 36,
+      "x_realtime": 9,
       "google_trends": 10,
-      "yahoo_news_ranking": 3,
-      "x_realtime": 8,
-      "news_web": 17
+      "news_web": 12,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "personal_story": 3,
-    "social_reaction": 30,
-    "opinion": 10,
-    "policy": 7,
-    "hard_fact": 19,
-    "medical_science": 1
+    "social_reaction": 29,
+    "personal_story": 4,
+    "analysis": 1,
+    "opinion": 9,
+    "policy": 12,
+    "medical_science": 2,
+    "hard_fact": 13
   },
   "b2b_topic_category_counts": {
-    "personal_story": 3,
-    "policy": 7,
-    "opinion": 10,
-    "hard_fact": 20,
-    "social_reaction": 30
+    "social_reaction": 29,
+    "policy": 12,
+    "personal_story": 4,
+    "analysis": 1,
+    "opinion": 9,
+    "hard_fact": 14,
+    "medical_science": 1
   },
   "b2b_top10": [
+    {
+      "title": "拘置所で刑務作業製品を買ったりカレーを食ったりした日【矯正展】",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【速報】栃木県選管、簗氏陣営からの無料バスの照会「記録ない」｜下野新聞デジタル",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "東京はマジで無料で座れるところがないけど、新宿西口のヨドバシカメラの辺りにはヤケ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "JR東など鉄道7社が「磁気乗車券」廃止へ　27年春から「QR乗車券」導入",
       "source_category": "yahoo_realtime",
@@ -50,55 +71,37 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "米空母で自殺未遂8件、イラン戦の260日無寄港は最長　兵士に負担 - 日本経済新",
+      "title": "高市首相の「外国人対策」でも中国人は生き残る　インド料理店主は「6割ほどが帰国」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "クマのプーさん",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "広瀬すず",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "内閣支持率",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "広瀬すず 横浜流星",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "JR東など7社 磁気乗車券を廃止へ",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "働いてた飲食店で、祭り関係者が来て寄付を求めてきたので「払えない」と伝えたら「非",
+      "title": "「虚無の味がする」「すぐ捨てた」などコカ・コーラ社の『カフェウォーター』は評判イ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「温泉をお持ち帰りされる方へ、挨拶もなしに勝手に汲んでいくのは違うと思います」→",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "vivant 21 話 考察",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "analysis"
     },
     {
-      "title": "りくりゅう",
+      "title": "ローソン ミルクティー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "内村航平",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "テレビミセス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,64 +109,64 @@
   ],
   "note_top10": [
     {
+      "title": "拘置所で刑務作業製品を買ったりカレーを食ったりした日【矯正展】",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東京はマジで無料で座れるところがないけど、新宿西口のヨドバシカメラの辺りにはヤケ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "JR東など鉄道7社が「磁気乗車券」廃止へ　27年春から「QR乗車券」導入",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "働いてた飲食店で、祭り関係者が来て寄付を求めてきたので「払えない」と伝えたら「非",
+      "title": "「虚無の味がする」「すぐ捨てた」などコカ・コーラ社の『カフェウォーター』は評判イ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「温泉をお持ち帰りされる方へ、挨拶もなしに勝手に汲んでいくのは違うと思います」→",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "知り合いがカフェをやっていてスコーンを食べる機会があったが、スコーンのパッケージ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ボンボンドロップシールどうしていきなりブーム終わったんスカ…お店で在庫が溢れてい",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "2001年に撮影された渋谷駅前の写真に写っている音楽関係の広告や携帯を見ずに歩く",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ファミマの店員さんに「この大人ファミチキってやつあるんですか？」と聞いたら「仕入",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "我が子に院まで行く言われてお金は4年分しかないと伝えたら、「なんで子ども産んだん",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "学校給食で食べ残しが多いもののひとつに、家でなかなか食べない「チリコンカン」など",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "なんでバックオフィス系の部署ってピリピリしてんの？ 最近転職した。 入..",
+      "title": "日本のＧＤＰ、来年はインドと英国に抜かれ「世界６位」の見込み…ＩＭＦ「世界経済見",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "日本で話題になった「アザラシ幼稚園」が破産危機に陥り保護活動の継続が困難に→日本",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "親戚の子が戦隊モノにハマっているそうなので、息子が当時遊んでいた玩具を譲ってもよ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "高校生から「生成AIについて質問に答えてほしい」とメールが来たが、高校名も氏名も",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "お魚くわえたドラ猫だ！お魚くわえたドラ猫がいる！！！「なぜか音楽が聴こえてくる」",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "vivant 21 話 考察",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "analysis"
     }
   ]
 }
