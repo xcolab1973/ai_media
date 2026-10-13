@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T00:17:00+09:00",
+  "generated_at": "2026-10-14T04:34:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,33 +16,31 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 9,
-    "passed_total": 113,
+    "neg_excluded": 12,
+    "dedup_excluded": 10,
+    "passed_total": 110,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
-      "x_realtime": 9,
+      "yahoo_realtime": 35,
+      "x_realtime": 7,
       "google_trends": 10,
-      "news_web": 12,
-      "yahoo_news_ranking": 3
+      "yahoo_news_ranking": 3,
+      "news_web": 15
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "personal_story": 4,
-    "analysis": 1,
-    "opinion": 9,
-    "policy": 12,
+    "social_reaction": 27,
+    "personal_story": 3,
+    "opinion": 10,
+    "policy": 11,
     "medical_science": 2,
-    "hard_fact": 13
+    "hard_fact": 17
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "policy": 12,
-    "personal_story": 4,
-    "analysis": 1,
-    "opinion": 9,
-    "hard_fact": 14,
+    "social_reaction": 27,
+    "policy": 13,
+    "personal_story": 3,
+    "opinion": 10,
+    "hard_fact": 16,
     "medical_science": 1
   },
   "b2b_top10": [
@@ -54,6 +52,12 @@
     },
     {
       "title": "【速報】栃木県選管、簗氏陣営からの無料バスの照会「記録ない」｜下野新聞デジタル",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "高市首相、簗農相の「進退」に含み…バス無料送迎問題では「違法性あれば躊躇しない」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
@@ -77,31 +81,25 @@
       "topic_category": "policy"
     },
     {
-      "title": "「虚無の味がする」「すぐ捨てた」などコカ・コーラ社の『カフェウォーター』は評判イ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "vivant 21 話 考察",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "analysis"
-    },
-    {
-      "title": "ローソン ミルクティー",
+      "title": "arsenal vs losc",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "内村航平",
+      "title": "大阪 天気",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "テレビミセス",
+      "title": "yandex",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "atlético vs man utd",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -127,7 +125,37 @@
       "topic_category": "personal_story"
     },
     {
+      "title": "日本で話題になった「アザラシ幼稚園」が破産危機に陥り保護活動の継続が困難に→日本",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ラーメン二郎より二郎インスパイアの資本系・豚山の方が流行り出した理由は、家系イン",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "「虚無の味がする」「すぐ捨てた」などコカ・コーラ社の『カフェウォーター』は評判イ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「障がい児者への性暴力が認められる社会へ」法務省に提出されたNPOの報告書、内容",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「使わない口座は、バイバイしようね！」三菱UFJ銀行と『プロセカ』コラボの冊子、",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "なんでバックオフィス系の部署ってピリピリしてんの？ 最近転職した。 入..",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -137,36 +165,6 @@
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "日本で話題になった「アザラシ幼稚園」が破産危機に陥り保護活動の継続が困難に→日本",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "親戚の子が戦隊モノにハマっているそうなので、息子が当時遊んでいた玩具を譲ってもよ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "高校生から「生成AIについて質問に答えてほしい」とメールが来たが、高校名も氏名も",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "お魚くわえたドラ猫だ！お魚くわえたドラ猫がいる！！！「なぜか音楽が聴こえてくる」",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "vivant 21 話 考察",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "analysis"
     }
   ]
 }
