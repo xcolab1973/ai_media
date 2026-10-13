@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T11:42:00+09:00",
+  "generated_at": "2026-10-13T17:27:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -20,30 +20,35 @@
     "dedup_excluded": 10,
     "passed_total": 107,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
+      "yahoo_realtime": 32,
       "google_trends": 10,
-      "x_realtime": 6,
-      "news_web": 15,
-      "yahoo_news_ranking": 3
+      "yahoo_news_ranking": 3,
+      "x_realtime": 8,
+      "news_web": 17
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
     "personal_story": 3,
+    "social_reaction": 30,
     "opinion": 10,
-    "medical_science": 3,
     "policy": 7,
-    "hard_fact": 17
+    "hard_fact": 19,
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
+    "personal_story": 3,
     "policy": 7,
-    "social_reaction": 30,
     "opinion": 10,
-    "hard_fact": 18,
-    "medical_science": 2,
-    "personal_story": 3
+    "hard_fact": 20,
+    "social_reaction": 30
   },
   "b2b_top10": [
+    {
+      "title": "JR東など鉄道7社が「磁気乗車券」廃止へ　27年春から「QR乗車券」導入",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
     {
       "title": "米空母で自殺未遂8件、イラン戦の260日無寄港は最長　兵士に負担 - 日本経済新",
       "source_category": "yahoo_realtime",
@@ -51,55 +56,49 @@
       "topic_category": "policy"
     },
     {
-      "title": "中学生の息子が親にスマホを取り上げられているという友達に自作ノートPCを販売、お",
+      "title": "クマのプーさん",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "広瀬すず",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "内閣支持率",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "広瀬すず 横浜流星",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "JR東など7社 磁気乗車券を廃止へ",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "働いてた飲食店で、祭り関係者が来て寄付を求めてきたので「払えない」と伝えたら「非",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "4-6月期家計GDP・サナエ給付の子育て配慮 - 経済を良くするって、どうすれば",
+      "title": "「温泉をお持ち帰りされる方へ、挨拶もなしに勝手に汲んでいくのは違うと思います」→",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "topic_category": "personal_story"
     },
     {
-      "title": "狩野英孝さん「今公開してる映画『バイオハザード』がエイコーだったって凄く言われる",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "東京・銀座に「地べた族」急増で物議　ベンチ置けず警察も困惑　状況次第では法令違反",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "望月 祐治 vivant",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "細野豪志",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "アンソロピック",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "井上 貴博",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "金価格",
+      "title": "りくりゅう",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +106,61 @@
   ],
   "note_top10": [
     {
-      "title": "中学生の息子が親にスマホを取り上げられているという友達に自作ノートPCを販売、お",
+      "title": "JR東など鉄道7社が「磁気乗車券」廃止へ　27年春から「QR乗車券」導入",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "働いてた飲食店で、祭り関係者が来て寄付を求めてきたので「払えない」と伝えたら「非",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "狩野英孝さん「今公開してる映画『バイオハザード』がエイコーだったって凄く言われる",
+      "title": "「温泉をお持ち帰りされる方へ、挨拶もなしに勝手に汲んでいくのは違うと思います」→",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "東京・銀座に「地べた族」急増で物議　ベンチ置けず警察も困惑　状況次第では法令違反",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "昼食時に「仕事が終わらないなら助けてあげる」と言ったら、「ご飯の時まで仕事の話さ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「もうAmazonのセール始まってる？」プライム感謝祭の先行セールが開始している",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "広島‘ゾンビ’カープはどうすればよかったのか？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "UNO取扱説明書『大量のカードが発射されます。本当に、ものすごい量です』→出たと",
+      "title": "知り合いがカフェをやっていてスコーンを食べる機会があったが、スコーンのパッケージ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "コンカフェ嬢やめた直後は書類の日付書く時とかに無意識で0を♡で書くというカスの職",
+      "title": "ボンボンドロップシールどうしていきなりブーム終わったんスカ…お店で在庫が溢れてい",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "商業施設のトイレにちいかわのエコバッグを忘れ、10分後ぐらいに気づいて取りに戻っ",
+      "title": "2001年に撮影された渋谷駅前の写真に写っている音楽関係の広告や携帯を見ずに歩く",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "東京・港区タワマンに「違法民泊」の疑い　料金は3泊38万円 ―マンション不都合な",
+      "title": "ファミマの店員さんに「この大人ファミチキってやつあるんですか？」と聞いたら「仕入",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "我が子に院まで行く言われてお金は4年分しかないと伝えたら、「なんで子ども産んだん",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "学校給食で食べ残しが多いもののひとつに、家でなかなか食べない「チリコンカン」など",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "なんでバックオフィス系の部署ってピリピリしてんの？ 最近転職した。 入..",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
