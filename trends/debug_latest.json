@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T04:34:00+09:00",
+  "generated_at": "2026-10-14T09:35:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,48 +7,48 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 10,
-    "passed_total": 110,
+    "neg_excluded": 7,
+    "dedup_excluded": 9,
+    "passed_total": 106,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
-      "x_realtime": 7,
+      "yahoo_realtime": 26,
       "google_trends": 10,
-      "yahoo_news_ranking": 3,
-      "news_web": 15
+      "x_realtime": 9,
+      "news_web": 21,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 27,
-    "personal_story": 3,
+    "social_reaction": 21,
     "opinion": 10,
-    "policy": 11,
-    "medical_science": 2,
-    "hard_fact": 17
+    "personal_story": 2,
+    "policy": 7,
+    "medical_science": 3,
+    "hard_fact": 27
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 27,
-    "policy": 13,
-    "personal_story": 3,
+    "policy": 7,
     "opinion": 10,
-    "hard_fact": 16,
-    "medical_science": 1
+    "social_reaction": 21,
+    "hard_fact": 28,
+    "medical_science": 2,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "拘置所で刑務作業製品を買ったりカレーを食ったりした日【矯正展】",
+      "title": "簗農相「辞任論」強まる、高市首相きょうにも「進退」判断へ…バス無料送迎問題「違法",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "policy"
     },
     {
       "title": "【速報】栃木県選管、簗氏陣営からの無料バスの照会「記録ない」｜下野新聞デジタル",
@@ -57,108 +57,108 @@
       "topic_category": "policy"
     },
     {
-      "title": "高市首相、簗農相の「進退」に含み…バス無料送迎問題では「違法性あれば躊躇しない」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "title": "レイズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "東京はマジで無料で座れるところがないけど、新宿西口のヨドバシカメラの辺りにはヤケ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "doge",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "早田ひな",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "桐谷広人",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "小川山",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "kb5127648",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "織田翔希",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「障がい児者への性暴力が認められる社会へ」法務省に提出されたNPOの報告書、内容",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "JR東など鉄道7社が「磁気乗車券」廃止へ　27年春から「QR乗車券」導入",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "高市首相の「外国人対策」でも中国人は生き残る　インド料理店主は「6割ほどが帰国」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "arsenal vs losc",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "大阪 天気",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "yandex",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "atlético vs man utd",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "拘置所で刑務作業製品を買ったりカレーを食ったりした日【矯正展】",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "東京はマジで無料で座れるところがないけど、新宿西口のヨドバシカメラの辺りにはヤケ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "JR東など鉄道7社が「磁気乗車券」廃止へ　27年春から「QR乗車券」導入",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "日本で話題になった「アザラシ幼稚園」が破産危機に陥り保護活動の継続が困難に→日本",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ラーメン二郎より二郎インスパイアの資本系・豚山の方が流行り出した理由は、家系イン",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「虚無の味がする」「すぐ捨てた」などコカ・コーラ社の『カフェウォーター』は評判イ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "「障がい児者への性暴力が認められる社会へ」法務省に提出されたNPOの報告書、内容",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「使わない口座は、バイバイしようね！」三菱UFJ銀行と『プロセカ』コラボの冊子、",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "なんでバックオフィス系の部署ってピリピリしてんの？ 最近転職した。 入..",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "混雑した鈍行列車のトイレが20分以上「使用中」のままノックしても反応なし…出てき",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "モバイルバッテリーの処分についてちゃんと調べたのに、地域の公民館にある小型家電回",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "コープデリの申し込み画面で生後5か月の赤子の覚悟を問われる「やれます‼7倍粥から",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "今日見つけて入ったカフェ、あまりにも人の家のＬＤＫだった「いいとこの友達の家っぽ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「顔面強い子の家泊まりに行ったら冷蔵庫からこのチーズ出てきて横転」チーズの色や賞",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "軽トラを新車で注文したら雪国特別仕様オプションがあり「外したらいくら安くなる？」",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "プルデンシャル、覇気なくす「ゴリラ」部隊　転職難しく座学1年 - 日本経済新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "レイズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "日本のＧＤＰ、来年はインドと英国に抜かれ「世界６位」の見込み…ＩＭＦ「世界経済見",
