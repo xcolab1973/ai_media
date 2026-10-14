@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-14T16:55:05+0900",
-    "record_count": 32,
-    "source_total_in_db": 1449,
+    "generated_at": "2026-10-14T22:00:44+0900",
+    "record_count": 30,
+    "source_total_in_db": 1450,
     "provenance_breakdown": {
       "evidence": 925,
-      "pain_seed": 524
+      "pain_seed": 525
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_f8c987b66fb8",
+      "trend_term": "ナチュラル美容の時代へ",
+      "raw_title": "過剰なボトックス・フィラーの時代は終わった…代表女優は？ - 조선일보",
+      "summary": "過剰なボトックス・フィラー施術から、より自然な仕上がりを求める美容トレンドへのシフトが起きている。読者の施術選択の悩みに繋がる角度。",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcnVxZm5IcE1rODh0bzUtalVsZjZXWEt6RUZDZUIwN1hNcU5mcFRMbk5vTzdUR1dhbkZmOFlQUjlrSmNYa25Cd2MwR0dGakFlZUZCblRESU5zbUcwOXVncU5Zc0FMZnhJaU9PVFBNYkpPUHdmeDM5VXRselpNOUoyblBmcEJncTg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcnVxZm5IcE1rODh0bzUtalVsZjZXWEt6RUZDZUIwN1hNcU5mcFRMbk5vTzdUR1dhbkZmOFlQUjlrSmNYa25Cd2MwR0dGakFlZUZCblRESU5zbUcwOXVncU5Zc0FMZnhJaU9PVFBNYkpPUHdmeDM5VXRselpNOUoyblBmcEJncTg?oc=5",
+      "source_name": "조선일보",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-19T22:00:12+0900",
+      "status": "candidate",
+      "created_at": "2026-10-14T22:00:12+0900"
+    },
     {
       "seed_id": "seed_7869ea82aa1b",
       "trend_term": "自家培養真皮線維芽細胞",
@@ -191,24 +209,6 @@
       "valid_until": "2026-10-26T18:36:39+0900",
       "status": "candidate",
       "created_at": "2026-10-12T18:36:39+0900"
-    },
-    {
-      "seed_id": "seed_3be3cc06b95b",
-      "trend_term": "身体改変と救いのジレンマ",
-      "raw_title": "Netflixシリーズ『ダウンタイム』が等しく照らした“救い”と“暗部”　その身体は誰のものなのか - リアルサウンド",
-      "summary": "美容医療の社会的文脈・倫理的側面を扱う映像作品。身体改変の「暗部」を題材にした読者層の潜在的な不安・葛藤を把握可能",
-      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyYmFISkluNGxKb0lZUjAxXy15SDJQdTlKOHNWcWtZcjRpbm45eHBqV1BBbjFPSG95dlplTFRzRWRScjNtSElHaVlqN29wa3VMNDdEN215WnBLQWR4UW5KbEhB0gFnQVVfeXFMTkdHZVNHamZRREVxdFBkQ2h2U0x6cHNUYVhCejZqaXFaeXZ2QkRGcW5hN0RXM21RcVprdGlVZUZQSklXMHFmY0JVMTRMdVhEeG5Mb3cwWlJqMnFjWEROLU50ek56SDF4dw?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyYmFISkluNGxKb0lZUjAxXy15SDJQdTlKOHNWcWtZcjRpbm45eHBqV1BBbjFPSG95dlplTFRzRWRScjNtSElHaVlqN29wa3VMNDdEN215WnBLQWR4UW5KbEhB0gFnQVVfeXFMTkdHZVNHamZRREVxdFBkQ2h2U0x6cHNUYVhCejZqaXFaeXZ2QkRGcW5hN0RXM21RcVprdGlVZUZQSklXMHFmY0JVMTRMdVhEeG5Mb3cwWlJqMnFjWEROLU50ek56SDF4dw?oc=5",
-      "source_name": "リアルサウンド",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "opinion",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-26T18:36:25+0900",
-      "status": "candidate",
-      "created_at": "2026-10-12T18:36:25+0900"
     },
     {
       "seed_id": "seed_e9579af56d4f",
@@ -407,42 +407,6 @@
       "valid_until": "2026-10-14T23:32:59+0900",
       "status": "candidate",
       "created_at": "2026-10-09T23:32:59+0900"
-    },
-    {
-      "seed_id": "seed_397347c08d80",
-      "trend_term": "美容医療経験者の意識動向",
-      "raw_title": "美容医療経験者の動向を明らかにした意識調査結果を発表 - PR TIMES",
-      "summary": "美容医療経験者を対象とした意識調査結果の発表。経験者の動向・傾向を数値化した調査データ提供。",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RYlpmekxobW52bjJfSjRnQi1SOWZxektuN1cwVmcxWTRDdDV2ajNxUUdKR29vQXdBMmZlb1MtYk1VbDc0MGszS3dCTzZnZjJyMWZ0RjFkZDhwZzJXeTR1MnA4VUgwMkJtT1E?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RYlpmekxobW52bjJfSjRnQi1SOWZxektuN1cwVmcxWTRDdDV2ajNxUUdKR29vQXdBMmZlb1MtYk1VbDc0MGszS3dCTzZnZjJyMWZ0RjFkZDhwZzJXeTR1MnA4VUgwMkJtT1E?oc=5",
-      "source_name": "PR TIMES",
-      "monitor_id": "bm-sns-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-14T18:28:33+0900",
-      "status": "candidate",
-      "created_at": "2026-10-09T18:28:33+0900"
-    },
-    {
-      "seed_id": "seed_e0a5ca6c9ed7",
-      "trend_term": "HIFU施術の健康被害",
-      "raw_title": "エステサロンで健康被害が多発している「HIFU」施術【トラブル続出 美容医療】#4 - Infoseek",
-      "summary": "エステサロンでのHIFU施術によるトラブル多発が報告されている。消費者の安全性懸念を示す情報源。",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zLWNpRkoyRkd0UzJIcW5ZYl80eUNGX29nZjFHS291S0VUbDZ2SThDVk1NNVNPMjFfYTluenlSYWlLYUpyWEdrXzV3V25NX29JVlNlUVBWODlTSFVmazZyUnpWVmM?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zLWNpRkoyRkd0UzJIcW5ZYl80eUNGX29nZjFHS291S0VUbDZ2SThDVk1NNVNPMjFfYTluenlSYWlLYUpyWEdrXzV3V25NX29JVlNlUVBWODlTSFVmazZyUnpWVmM?oc=5",
-      "source_name": "Infoseek",
-      "monitor_id": "bm-machine-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "safety_claim",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-14T18:28:15+0900",
-      "status": "candidate",
-      "created_at": "2026-10-09T18:28:15+0900"
     },
     {
       "seed_id": "seed_caeebd02ca0c",
