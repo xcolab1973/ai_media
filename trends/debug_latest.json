@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T15:42:00+09:00",
+  "generated_at": "2026-10-14T22:06:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,48 +7,60 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 10,
-    "passed_total": 115,
+    "neg_excluded": 10,
+    "dedup_excluded": 8,
+    "passed_total": 104,
     "b2b_category_counts": {
-      "yahoo_realtime": 39,
-      "x_realtime": 6,
-      "news_web": 11,
+      "yahoo_realtime": 26,
+      "x_realtime": 9,
       "google_trends": 10,
-      "yahoo_news_ranking": 4
+      "yahoo_news_ranking": 5,
+      "news_web": 20
     }
   },
   "note_category_counts": {
-    "social_reaction": 23,
-    "personal_story": 7,
+    "personal_story": 1,
+    "social_reaction": 21,
     "opinion": 10,
-    "medical_science": 5,
-    "policy": 8,
-    "hard_fact": 17
+    "hard_fact": 27,
+    "policy": 9,
+    "medical_science": 2
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 23,
-    "personal_story": 7,
-    "policy": 8,
-    "hard_fact": 20,
+    "policy": 9,
+    "hard_fact": 27,
+    "personal_story": 1,
+    "social_reaction": 21,
     "opinion": 10,
     "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "職場に来客が来るので「1時間後に来るお客様はカフェインNGなので麦茶を買ってきて",
+      "title": "簗和生農水相が辞表　内閣改造後わずか1カ月　高市政権発足後、不祥事での閣僚辞任は",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "policy"
+    },
+    {
+      "title": "サイゼリヤ、平均6%値上げへ　ミラノ風ドリアは320円に：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "阪急電鉄、全車両で中づり広告廃止　27年4月から - 日本経済新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
     },
     {
       "title": "青森の「ミスりんご」活動終了へ→全国各地でも「ミス〇〇大使」の中止や終了相次ぐ…",
@@ -57,7 +69,13 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "課員全員が派遣さんの正社員化を望んだのに人事が「もっと若くて優秀な人間はいくらで",
+      "title": "【速報】公選法違反疑惑、違法か答えられないと首相",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "職場に来客が来るので「1時間後に来るお客様はカフェインNGなので麦茶を買ってきて",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -69,49 +87,25 @@
       "topic_category": "policy"
     },
     {
-      "title": "高市首相、簗氏の進退は夕に面会し判断か　公選法違反疑惑巡り | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "title": "業績予想の修正",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "簗農相 与党から続投困難の声も 高市首相 説明踏まえ判断へ | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "title": "水泳",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "ミス〇〇大使 中止や終了相次ぐ",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "相続でもめる家族の特徴3つ！原因や予防対策・対処法を詳しく解説｜相続大辞典｜【相",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "お疲れさま外務省…中国の「高市早苗」呼び捨てに抗議、せっかくの“対話サイン”にイ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "元々違う作品の曲だったのに転生した曲まとめ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "日本 バスケットボール 協会",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
-    {
-      "title": "職場に来客が来るので「1時間後に来るお客様はカフェインNGなので麦茶を買ってきて",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
     {
       "title": "青森の「ミスりんご」活動終了へ→全国各地でも「ミス〇〇大使」の中止や終了相次ぐ…",
       "source_category": "yahoo_realtime",
@@ -119,49 +113,55 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "課員全員が派遣さんの正社員化を望んだのに人事が「もっと若くて優秀な人間はいくらで",
+      "title": "職場に来客が来るので「1時間後に来るお客様はカフェインNGなので麦茶を買ってきて",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "相続でもめる家族の特徴3つ！原因や予防対策・対処法を詳しく解説｜相続大辞典｜【相",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "元々違う作品の曲だったのに転生した曲まとめ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "我が家の敷地内に勝手に住み着いている野良猫、日に日に「ねこも家族の一員です」みた",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "合格したのに入学できなかった話 | 後輩たちへ～受験アドバイス～ | 親と子の栄",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "賛否両論？ 小島秀夫監督は『DIGGER／ディガー』のどこに震えたのか。イニャリ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "先生「今度のお薬ですが、尿が青くなることもありまして…」薬剤師さん「色に驚かれる",
+      "title": "朝掃除に遅刻した人が飲み物を奢る職場で上司が遅刻…若い子にみんなの分のコーヒーを",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "17歳のときに倒れ、半身麻痺から寝たきりになった愛犬に「最後にせめて何かおいしい",
+      "title": "退職届、拒否されるとかある？？？パートやぞ😭「後任が決まるまでダメらしい…そんな",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "猫生初の茹でたレバーあげてみたらだいすきだったらしく、もっと欲しくて目キラッキラ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "黒ごまプリン作ったけど、どう見ても鯖「むしろ鯖じゃないことが不思議だ」「黒ごまで",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "休職してた弟が、まあ自○未遂とか借金とかなんか色々あって結局復職は無..",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "10月14日は「鉄道の日」 各地の動き | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "このお弁当、どこがダメなの？卵はちゃんと巻いてあるし、人参もあるし、肉もある…そ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "日経校閲担当者「特撮ドラマで主人公たちの姿が変わる時の掛け声が『変身』ではなく『",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
