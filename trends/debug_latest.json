@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T09:35:00+09:00",
+  "generated_at": "2026-10-14T15:42:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,99 +7,99 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
     "neg_excluded": 7,
-    "dedup_excluded": 9,
-    "passed_total": 106,
+    "dedup_excluded": 10,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 26,
+      "yahoo_realtime": 39,
+      "x_realtime": 6,
+      "news_web": 11,
       "google_trends": 10,
-      "x_realtime": 9,
-      "news_web": 21,
       "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 21,
+    "social_reaction": 23,
+    "personal_story": 7,
     "opinion": 10,
-    "personal_story": 2,
-    "policy": 7,
-    "medical_science": 3,
-    "hard_fact": 27
+    "medical_science": 5,
+    "policy": 8,
+    "hard_fact": 17
   },
   "b2b_topic_category_counts": {
-    "policy": 7,
+    "social_reaction": 23,
+    "personal_story": 7,
+    "policy": 8,
+    "hard_fact": 20,
     "opinion": 10,
-    "social_reaction": 21,
-    "hard_fact": 28,
-    "medical_science": 2,
-    "personal_story": 2
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "簗農相「辞任論」強まる、高市首相きょうにも「進退」判断へ…バス無料送迎問題「違法",
+      "title": "職場に来客が来るので「1時間後に来るお客様はカフェインNGなので麦茶を買ってきて",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "青森の「ミスりんご」活動終了へ→全国各地でも「ミス〇〇大使」の中止や終了相次ぐ…",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "課員全員が派遣さんの正社員化を望んだのに人事が「もっと若くて優秀な人間はいくらで",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "簗農相、バス送迎の答弁を修正　選管に事前確認せず",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "【速報】栃木県選管、簗氏陣営からの無料バスの照会「記録ない」｜下野新聞デジタル",
+      "title": "高市首相、簗氏の進退は夕に面会し判断か　公選法違反疑惑巡り | 毎日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "レイズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "簗農相 与党から続投困難の声も 高市首相 説明踏まえ判断へ | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
     },
     {
-      "title": "doge",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "ミス〇〇大使 中止や終了相次ぐ",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "早田ひな",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "相続でもめる家族の特徴3つ！原因や予防対策・対処法を詳しく解説｜相続大辞典｜【相",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "桐谷広人",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "お疲れさま外務省…中国の「高市早苗」呼び捨てに抗議、せっかくの“対話サイン”にイ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
     },
     {
-      "title": "小川山",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "kb5127648",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "織田翔希",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「障がい児者への性暴力が認められる社会へ」法務省に提出されたNPOの報告書、内容",
+      "title": "元々違う作品の曲だったのに転生した曲まとめ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -107,63 +107,63 @@
   ],
   "note_top10": [
     {
-      "title": "「障がい児者への性暴力が認められる社会へ」法務省に提出されたNPOの報告書、内容",
+      "title": "職場に来客が来るので「1時間後に来るお客様はカフェインNGなので麦茶を買ってきて",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "混雑した鈍行列車のトイレが20分以上「使用中」のままノックしても反応なし…出てき",
+      "title": "青森の「ミスりんご」活動終了へ→全国各地でも「ミス〇〇大使」の中止や終了相次ぐ…",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "課員全員が派遣さんの正社員化を望んだのに人事が「もっと若くて優秀な人間はいくらで",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "モバイルバッテリーの処分についてちゃんと調べたのに、地域の公民館にある小型家電回",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "コープデリの申し込み画面で生後5か月の赤子の覚悟を問われる「やれます‼7倍粥から",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "今日見つけて入ったカフェ、あまりにも人の家のＬＤＫだった「いいとこの友達の家っぽ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「顔面強い子の家泊まりに行ったら冷蔵庫からこのチーズ出てきて横転」チーズの色や賞",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "軽トラを新車で注文したら雪国特別仕様オプションがあり「外したらいくら安くなる？」",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "プルデンシャル、覇気なくす「ゴリラ」部隊　転職難しく座学1年 - 日本経済新聞",
+      "title": "相続でもめる家族の特徴3つ！原因や予防対策・対処法を詳しく解説｜相続大辞典｜【相",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "レイズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "日本のＧＤＰ、来年はインドと英国に抜かれ「世界６位」の見込み…ＩＭＦ「世界経済見",
+      "title": "元々違う作品の曲だったのに転生した曲まとめ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "我が家の敷地内に勝手に住み着いている野良猫、日に日に「ねこも家族の一員です」みた",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "合格したのに入学できなかった話 | 後輩たちへ～受験アドバイス～ | 親と子の栄",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "賛否両論？ 小島秀夫監督は『DIGGER／ディガー』のどこに震えたのか。イニャリ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "先生「今度のお薬ですが、尿が青くなることもありまして…」薬剤師さん「色に驚かれる",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "17歳のときに倒れ、半身麻痺から寝たきりになった愛犬に「最後にせめて何かおいしい",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
