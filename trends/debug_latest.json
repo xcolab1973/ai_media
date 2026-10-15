@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T09:05:00+09:00",
+  "generated_at": "2026-10-15T15:27:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,41 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 11,
-    "passed_total": 111,
+    "neg_excluded": 3,
+    "dedup_excluded": 9,
+    "passed_total": 120,
     "b2b_category_counts": {
-      "x_realtime": 7,
-      "yahoo_realtime": 33,
+      "yahoo_realtime": 34,
+      "x_realtime": 9,
       "google_trends": 10,
-      "news_web": 17,
-      "yahoo_news_ranking": 3
+      "yahoo_news_ranking": 3,
+      "news_web": 14
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
-    "personal_story": 2,
+    "personal_story": 3,
+    "social_reaction": 40,
     "opinion": 10,
-    "hard_fact": 20,
-    "medical_science": 2,
-    "policy": 10
+    "hard_fact": 14,
+    "policy": 2,
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 26,
-    "policy": 11,
-    "hard_fact": 20,
+    "personal_story": 3,
+    "social_reaction": 36,
+    "hard_fact": 17,
     "opinion": 10,
-    "personal_story": 2,
-    "medical_science": 1
+    "policy": 4
   },
   "b2b_top10": [
     {
-      "title": "カルビーのポテチの袋がカラーに戻ったけど、内容量が3g減ってて「印刷のコスト削減",
+      "title": "「Agoda使わないで」温泉旅館が注意喚起　観光庁の改善要請から1年半も...「",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "プラネタリウムの投影中、前の座席の人がしきりにGoProで動画を撮っていて画面が",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -57,49 +62,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "【電子号外】簗農相、首相に辞表｜下野新聞デジタル",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "決算:サイゼリヤ最高益　27年8月期、ミラノ風ドリアは20円値上げ - 日本経済",
+      "title": "国立西洋美術館など6館の入館料が最大3倍超に。国が展示での「自己収入」求める。目",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
     },
     {
-      "title": "阪急電鉄、全車両で中づり広告廃止　27年4月から - 日本経済新聞",
+      "title": "流行りは、若者から始まる｜すてぃお",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "宮城秋乃さん「勇敢な科学者賞」　国際環境NGO、米軍廃棄物の調査・告発を評価　ア",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "年に数回会う東京の友達に「こっちに来てみない？」と提案、「交通費めっちゃかかるし",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "コロナの頃に母が「1度でいいから帝国ホテルに泊まりたい」と言ったので2人で行って",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "タイムズカーの件で免許証の再発行に…警察署で「再発行して良いんですか？末尾の数字",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "dodgers vs brewers",
+      "title": "ちび まる子 ちゃん ハッピー くじ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "板倉滉",
+      "title": "高木 豊",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "密漁",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "デーブ・ロバーツ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,7 +106,13 @@
   ],
   "note_top10": [
     {
-      "title": "カルビーのポテチの袋がカラーに戻ったけど、内容量が3g減ってて「印刷のコスト削減",
+      "title": "「Agoda使わないで」温泉旅館が注意喚起　観光庁の改善要請から1年半も...「",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "プラネタリウムの投影中、前の座席の人がしきりにGoProで動画を撮っていて画面が",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -119,49 +124,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ピンク髪の地雷系メイクの人が親戚の結婚式のためにナチュラルな格好をしたらばあちゃ",
+      "title": "流行りは、若者から始まる｜すてぃお",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "年に数回会う東京の友達に「こっちに来てみない？」と提案、「交通費めっちゃかかるし",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "コロナの頃に母が「1度でいいから帝国ホテルに泊まりたい」と言ったので2人で行って",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "高級食パン、鰻に続き、冷凍餃子もすさまじい勢いで閉店しているということをご存じで",
+      "title": "「あけろ！」や顔文字　文京区の督促状が物議　「ネット動画参考」も「配慮不足」反省",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本のGDPが世界6位に、インドとイギリスに抜かれる　27年IMF見通し - 日",
+      "title": "タイムズカーの件で免許証の再発行に…警察署で「再発行して良いんですか？末尾の数字",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "うちの照明ってリモコンないんだな、と思ってたら壁のスイッチがポロっと取れてリモコ",
+      "title": "陸上自衛隊〝思想調査〟問題｜連載・企画｜熊本日日新聞社",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "卒業式をガン無視でバイトしていたら、卒業証書と卒論集の冊子、卒業記念の寄贈品が着",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "有名企業や一流開発者のノウハウをそのまま持ち込める、Claude Codeスキル",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "PlayStation 5で27Bの生成AIが動作。脱獄の進展次第ではPS5もA",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "電車内でどう見ても付き纏われている女性に「付き纏われてます？」と尋ねたら、そうだ",
+      "title": "愛用者が多い洗口液「コンクールF」だけど、虫歯予防にはならない？歯科医や歯科衛生",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
