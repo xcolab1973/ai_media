@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T02:23:00+09:00",
+  "generated_at": "2026-10-16T08:50:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,66 +16,50 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 11,
-    "passed_total": 116,
+    "neg_excluded": 10,
+    "dedup_excluded": 7,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
-      "news_web": 14,
-      "x_realtime": 8,
+      "yahoo_realtime": 33,
       "google_trends": 10,
+      "x_realtime": 10,
+      "news_web": 15,
       "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 36,
-    "personal_story": 1,
-    "medical_science": 3,
+    "social_reaction": 35,
+    "personal_story": 2,
     "opinion": 10,
-    "hard_fact": 20
+    "medical_science": 4,
+    "hard_fact": 17,
+    "policy": 2
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 36,
-    "hard_fact": 21,
-    "medical_science": 2,
-    "personal_story": 1,
-    "opinion": 10
+    "social_reaction": 35,
+    "personal_story": 2,
+    "opinion": 10,
+    "hard_fact": 18,
+    "medical_science": 3,
+    "policy": 2
   },
   "b2b_top10": [
+    {
+      "title": "元中日・ブライト健太が引退…うつ病を告白「大歓声の響く打席に戻りたかった」「正直",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "子ども食堂をやっているというラーメン屋が「ごちそうさまくらい言え」と投稿→「教育",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "「花王の洗顔めっちゃおもろい」「クエン酸摂ると段違い」セールで買っておきたい最近",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "うるう秒廃止 うるう時の導入決定",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "「Agoda使わないで」温泉旅館が注意喚起　観光庁の改善要請から1年半も...「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ウクライナがロシア製油所攻撃を再開へ　ゼレンスキー氏が英紙に表明、トランプ氏に不",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "回想法とは？認知症治療における期待効果とやり方・注意点 | テヲトル",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "口座を売るって相手にどこまで教えるの？口座番号を教えるのは危険じゃないじゃん？と",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -91,13 +75,31 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "国立西洋美術館など6館の入館料が最大3倍超に。国が展示での「自己収入」求める。目",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "title": "大谷亮平",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "miss",
+      "title": "「Agoda使わないで」温泉旅館が注意喚起　観光庁の改善要請から1年半も...「",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ウクライナがロシア製油所攻撃を再開へ　ゼレンスキー氏が英紙に表明、トランプ氏に不",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ほっともっとで6個入りカキフライ弁当買って帰ってきて食べてたら2個鶏肉だった…な",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中島歩 朝ドラ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,21 +107,21 @@
   ],
   "note_top10": [
     {
+      "title": "元中日・ブライト健太が引退…うつ病を告白「大歓声の響く打席に戻りたかった」「正直",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "子ども食堂をやっているというラーメン屋が「ごちそうさまくらい言え」と投稿→「教育",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "「花王の洗顔めっちゃおもろい」「クエン酸摂ると段違い」セールで買っておきたい最近",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「Agoda使わないで」温泉旅館が注意喚起　観光庁の改善要請から1年半も...「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "口座を売るって相手にどこまで教えるの？口座番号を教えるのは危険じゃないじゃん？と",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -135,33 +137,33 @@
       "topic_category": "personal_story"
     },
     {
+      "title": "「Agoda使わないで」温泉旅館が注意喚起　観光庁の改善要請から1年半も...「",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ほっともっとで6個入りカキフライ弁当買って帰ってきて食べてたら2個鶏肉だった…な",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "ウクライナがロシア製油所攻撃を再開へ　ゼレンスキー氏が英紙に表明、トランプ氏に不",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "回想法とは？認知症治療における期待効果とやり方・注意点 | テヲトル",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "仕事ができないのは「スキル不足」より「認知が歪んでいる」ことに原因がある方が多い",
+      "title": "トランプ大統領“死刑執行のライブ配信は中止” | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "海外に住んでいると「私の名前を漢字で書いてみてほしい」と頼まれることが稀にあるが",
+      "title": "宿泊予定のホテルから「書いてある情報に間違いがなければ承認してください。承認しな",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「もうヒートテックには戻れない」肌が弱い人にもおすすめのあったかインナーはこれだ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
