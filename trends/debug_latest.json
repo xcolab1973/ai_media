@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T21:52:00+09:00",
+  "generated_at": "2026-10-16T02:23:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,44 +17,60 @@
       "x_realtime": 10
     },
     "neg_excluded": 5,
-    "dedup_excluded": 10,
-    "passed_total": 117,
+    "dedup_excluded": 11,
+    "passed_total": 116,
     "b2b_category_counts": {
-      "x_realtime": 9,
-      "google_trends": 9,
-      "yahoo_realtime": 38,
-      "yahoo_news_ranking": 4,
-      "news_web": 10
+      "yahoo_realtime": 36,
+      "news_web": 14,
+      "x_realtime": 8,
+      "google_trends": 10,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
-    "personal_story": 5,
-    "opinion": 8,
-    "hard_fact": 19,
-    "medical_science": 2,
-    "policy": 1
+    "social_reaction": 36,
+    "personal_story": 1,
+    "medical_science": 3,
+    "opinion": 10,
+    "hard_fact": 20
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 34,
-    "personal_story": 5,
+    "social_reaction": 36,
     "hard_fact": 21,
-    "opinion": 8,
-    "policy": 1,
-    "medical_science": 1
+    "medical_science": 2,
+    "personal_story": 1,
+    "opinion": 10
   },
   "b2b_top10": [
     {
       "title": "「花王の洗顔めっちゃおもろい」「クエン酸摂ると段違い」セールで買っておきたい最近",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "鬼越トマホーク 炎上",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
+      "title": "うるう秒廃止 うるう時の導入決定",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "「Agoda使わないで」温泉旅館が注意喚起　観光庁の改善要請から1年半も...「",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "ウクライナがロシア製油所攻撃を再開へ　ゼレンスキー氏が英紙に表明、トランプ氏に不",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "回想法とは？認知症治療における期待効果とやり方・注意点 | テヲトル",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
     },
     {
       "title": "口座を売るって相手にどこまで教えるの？口座番号を教えるのは危険じゃないじゃん？と",
@@ -63,7 +79,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「Agoda使わないで」温泉旅館が注意喚起　観光庁の改善要請から1年半も...「",
+      "title": "「税金で買った本」の185話が1つの短編として完璧な内容だった・・・　「自殺する",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "自界隈が他界隈に石を投げて炎上した話",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
@@ -75,31 +97,7 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "a2o",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "黒木千晶",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "公民の差別に関する授業で先生から「消防士を想像してください、その消防士の性別は？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ブライト健太",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ラジオ",
+      "title": "miss",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,15 +105,15 @@
   ],
   "note_top10": [
     {
-      "title": "鬼越トマホーク 炎上",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
+      "title": "「花王の洗顔めっちゃおもろい」「クエン酸摂ると段違い」セールで買っておきたい最近",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「花王の洗顔めっちゃおもろい」「クエン酸摂ると段違い」セールで買っておきたい最近",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「Agoda使わないで」温泉旅館が注意喚起　観光庁の改善要請から1年半も...「",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -125,43 +123,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「Agoda使わないで」温泉旅館が注意喚起　観光庁の改善要請から1年半も...「",
+      "title": "「税金で買った本」の185話が1つの短編として完璧な内容だった・・・　「自殺する",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "自界隈が他界隈に石を投げて炎上した話",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "「もうヒートテックには戻れない」肌が弱い人にもおすすめのあったかインナーはこれだ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "公民の差別に関する授業で先生から「消防士を想像してください、その消防士の性別は？",
+      "title": "ウクライナがロシア製油所攻撃を再開へ　ゼレンスキー氏が英紙に表明、トランプ氏に不",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ソースネクスト、最大2251万件の情報流出　パスワード再設定を",
+      "title": "回想法とは？認知症治療における期待効果とやり方・注意点 | テヲトル",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "息子の絵が佳作で入賞、新聞に展示期間が記載されて子どもを連れて会場に行ったが2日",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "topic_category": "medical_science"
     },
     {
       "title": "仕事ができないのは「スキル不足」より「認知が歪んでいる」ことに原因がある方が多い",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "海外に住んでいると「私の名前を漢字で書いてみてほしい」と頼まれることが稀にあるが",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "40代既婚女性のスポーツ習慣少ないだの子どもの大学費用くらい親が出せとか40代女",
+      "title": "「もうヒートテックには戻れない」肌が弱い人にもおすすめのあったかインナーはこれだ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
