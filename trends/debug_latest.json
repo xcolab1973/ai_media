@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T15:27:00+09:00",
+  "generated_at": "2026-10-15T21:52:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,50 +16,57 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 3,
-    "dedup_excluded": 9,
-    "passed_total": 120,
+    "neg_excluded": 5,
+    "dedup_excluded": 10,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
       "x_realtime": 9,
-      "google_trends": 10,
-      "yahoo_news_ranking": 3,
-      "news_web": 14
+      "google_trends": 9,
+      "yahoo_realtime": 38,
+      "yahoo_news_ranking": 4,
+      "news_web": 10
     }
   },
   "note_category_counts": {
-    "personal_story": 3,
-    "social_reaction": 40,
-    "opinion": 10,
-    "hard_fact": 14,
-    "policy": 2,
-    "medical_science": 1
+    "social_reaction": 35,
+    "personal_story": 5,
+    "opinion": 8,
+    "hard_fact": 19,
+    "medical_science": 2,
+    "policy": 1
   },
   "b2b_topic_category_counts": {
-    "personal_story": 3,
-    "social_reaction": 36,
-    "hard_fact": 17,
-    "opinion": 10,
-    "policy": 4
+    "social_reaction": 34,
+    "personal_story": 5,
+    "hard_fact": 21,
+    "opinion": 8,
+    "policy": 1,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "「Agoda使わないで」温泉旅館が注意喚起　観光庁の改善要請から1年半も...「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "プラネタリウムの投影中、前の座席の人がしきりにGoProで動画を撮っていて画面が",
+      "title": "「花王の洗顔めっちゃおもろい」「クエン酸摂ると段違い」セールで買っておきたい最近",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「左派だから正しい」という信念が一番危険：左派の陰謀論を集中的に取り上げた理由｜",
+      "title": "鬼越トマホーク 炎上",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "口座を売るって相手にどこまで教えるの？口座番号を教えるのは危険じゃないじゃん？と",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「Agoda使わないで」温泉旅館が注意喚起　観光庁の改善要請から1年半も...「",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
       "title": "国立西洋美術館など6館の入館料が最大3倍超に。国が展示での「自己収入」求める。目",
@@ -68,37 +75,31 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "流行りは、若者から始まる｜すてぃお",
+      "title": "a2o",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "黒木千晶",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "公民の差別に関する授業で先生から「消防士を想像してください、その消防士の性別は？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "タイムズカーの件で免許証の再発行に…警察署で「再発行して良いんですか？末尾の数字",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ちび まる子 ちゃん ハッピー くじ",
+      "title": "ブライト健太",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "高木 豊",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "密漁",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "デーブ・ロバーツ",
+      "title": "ラジオ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,63 +107,63 @@
   ],
   "note_top10": [
     {
+      "title": "鬼越トマホーク 炎上",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「花王の洗顔めっちゃおもろい」「クエン酸摂ると段違い」セールで買っておきたい最近",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "口座を売るって相手にどこまで教えるの？口座番号を教えるのは危険じゃないじゃん？と",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "「Agoda使わないで」温泉旅館が注意喚起　観光庁の改善要請から1年半も...「",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "プラネタリウムの投影中、前の座席の人がしきりにGoProで動画を撮っていて画面が",
+      "title": "「もうヒートテックには戻れない」肌が弱い人にもおすすめのあったかインナーはこれだ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「左派だから正しい」という信念が一番危険：左派の陰謀論を集中的に取り上げた理由｜",
+      "title": "公民の差別に関する授業で先生から「消防士を想像してください、その消防士の性別は？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "流行りは、若者から始まる｜すてぃお",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「あけろ！」や顔文字　文京区の督促状が物議　「ネット動画参考」も「配慮不足」反省",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "タイムズカーの件で免許証の再発行に…警察署で「再発行して良いんですか？末尾の数字",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "陸上自衛隊〝思想調査〟問題｜連載・企画｜熊本日日新聞社",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "有名企業や一流開発者のノウハウをそのまま持ち込める、Claude Codeスキル",
+      "title": "ソースネクスト、最大2251万件の情報流出　パスワード再設定を",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "PlayStation 5で27Bの生成AIが動作。脱獄の進展次第ではPS5もA",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "息子の絵が佳作で入賞、新聞に展示期間が記載されて子どもを連れて会場に行ったが2日",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "愛用者が多い洗口液「コンクールF」だけど、虫歯予防にはならない？歯科医や歯科衛生",
+      "title": "仕事ができないのは「スキル不足」より「認知が歪んでいる」ことに原因がある方が多い",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "40代既婚女性のスポーツ習慣少ないだの子どもの大学費用くらい親が出せとか40代女",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
