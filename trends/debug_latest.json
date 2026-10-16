@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T08:50:00+09:00",
+  "generated_at": "2026-10-16T15:23:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,43 +7,73 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
     "neg_excluded": 10,
-    "dedup_excluded": 7,
-    "passed_total": 115,
+    "dedup_excluded": 12,
+    "passed_total": 100,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
+      "yahoo_realtime": 24,
       "google_trends": 10,
-      "x_realtime": 10,
-      "news_web": 15,
-      "yahoo_news_ranking": 2
+      "x_realtime": 6,
+      "news_web": 23,
+      "yahoo_news_ranking": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
-    "personal_story": 2,
+    "social_reaction": 18,
+    "personal_story": 3,
     "opinion": 10,
-    "medical_science": 4,
-    "hard_fact": 17,
-    "policy": 2
+    "medical_science": 2,
+    "hard_fact": 32,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 35,
-    "personal_story": 2,
+    "social_reaction": 18,
     "opinion": 10,
-    "hard_fact": 18,
-    "medical_science": 3,
-    "policy": 2
+    "hard_fact": 33,
+    "personal_story": 3,
+    "policy": 5,
+    "medical_science": 1
   },
   "b2b_top10": [
+    {
+      "title": "セーラームーンに出てくる火野レイ、キャラ改変なんてレベルじゃないくらいアニメと原",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "通信事業者にサイバー防衛義務化　委託先含めた管理要請、総務省検討 - 日本経済新",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ヤマト",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "阪神ファン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「これだけで不審者扱い？」Suicaが使えるかと聞いた男を神奈川県警が注意喚起「",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "元中日・ブライト健太が引退…うつ病を告白「大歓声の響く打席に戻りたかった」「正直",
       "source_category": "yahoo_realtime",
@@ -57,49 +87,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「花王の洗顔めっちゃおもろい」「クエン酸摂ると段違い」セールで買っておきたい最近",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「税金で買った本」の185話が1つの短編として完璧な内容だった・・・　「自殺する",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "自界隈が他界隈に石を投げて炎上した話",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "大谷亮平",
+      "title": "豊橋駅",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "「Agoda使わないで」温泉旅館が注意喚起　観光庁の改善要請から1年半も...「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "ジョジョ gu",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "ウクライナがロシア製油所攻撃を再開へ　ゼレンスキー氏が英紙に表明、トランプ氏に不",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ほっともっとで6個入りカキフライ弁当買って帰ってきて食べてたら2個鶏肉だった…な",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中島歩 朝ドラ",
+      "title": "猪苗代湖",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,6 +107,24 @@
   ],
   "note_top10": [
     {
+      "title": "セーラームーンに出てくる火野レイ、キャラ改変なんてレベルじゃないくらいアニメと原",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "通信事業者にサイバー防衛義務化　委託先含めた管理要請、総務省検討 - 日本経済新",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「これだけで不審者扱い？」Suicaが使えるかと聞いた男を神奈川県警が注意喚起「",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "元中日・ブライト健太が引退…うつ病を告白「大歓声の響く打席に戻りたかった」「正直",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
@@ -119,52 +137,34 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「花王の洗顔めっちゃおもろい」「クエン酸摂ると段違い」セールで買っておきたい最近",
+      "title": "理工系の私立大学に合格したが親族から「お前どこから金出すつもりだ」と言われて奨学",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「税金で買った本」の185話が1つの短編として完璧な内容だった・・・　「自殺する",
+      "title": "帰り道、抱っこ紐したパパさんに警察が「こんな時間に連れ出されて可哀想に…家どこ?",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "自界隈が他界隈に石を投げて炎上した話",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "イギリスのポテチは全然旨味がないので味の素を数回振って食べているが、🇬🇧人同僚に",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
     },
     {
-      "title": "「Agoda使わないで」温泉旅館が注意喚起　観光庁の改善要請から1年半も...「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "ヤマト",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "ほっともっとで6個入りカキフライ弁当買って帰ってきて食べてたら2個鶏肉だった…な",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ウクライナがロシア製油所攻撃を再開へ　ゼレンスキー氏が英紙に表明、トランプ氏に不",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "トランプ大統領“死刑執行のライブ配信は中止” | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "宿泊予定のホテルから「書いてある情報に間違いがなければ承認してください。承認しな",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "阪神ファン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
