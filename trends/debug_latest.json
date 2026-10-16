@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T02:00:00+09:00",
+  "generated_at": "2026-10-17T08:51:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,38 +16,48 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 10,
-    "passed_total": 115,
+    "neg_excluded": 5,
+    "dedup_excluded": 14,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "x_realtime": 7,
       "yahoo_realtime": 38,
       "google_trends": 10,
-      "yahoo_news_ranking": 4,
-      "news_web": 11
+      "x_realtime": 4,
+      "news_web": 12,
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 24,
+    "social_reaction": 28,
     "opinion": 10,
-    "personal_story": 1,
     "medical_science": 5,
-    "policy": 5,
-    "hard_fact": 25
+    "hard_fact": 24,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 24,
-    "policy": 6,
-    "opinion": 10,
+    "social_reaction": 28,
     "hard_fact": 24,
-    "medical_science": 5,
-    "personal_story": 1
+    "opinion": 10,
+    "policy": 3,
+    "medical_science": 5
   },
   "b2b_top10": [
     {
       "title": "祖母宅の片付けをしてたら謎のチケットが出てきたけど、何かわからない。有識者の方、",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【速報】りそな、ネット口座で免許写真の確認廃止へ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "王将社長射殺、暴力団幹部に無罪　求刑は無期懲役、京都地裁",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -57,59 +67,47 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "The Blue Envelope #72",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "消火器の設置場所がわかりづらいデザインでドヤ顔してる建築デザイナーを世界から絶滅",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "証券会社の後任者から「ご挨拶したい」と言うのでZOOMに入ったら、開口一番「それ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "新卒入社6ヶ月目ですが、PC自作が出来ると知った上司から唐突に400万円の予算を",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "トミー リー ジョーンズ",
+      "title": "警察車両が幅寄せ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ホタルの嫁入り",
+      "title": "メーガン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "mリーグ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "行きつけのガソリンスタンドの猫、寝てる所を撫でたら『コレ』で申し訳なくなった「な",
+      "title": "緊急地震速報の時は授業中で誰も机の下に潜らない中、一人で机の下に…流石に終わった",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "関東大会 高校野球",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "紅葉 見頃",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "giá vàng hôm nay",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
       "title": "祖母宅の片付けをしてたら謎のチケットが出てきたけど、何かわからない。有識者の方、",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -119,7 +117,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "The Blue Envelope #72",
+      "title": "王将社長射殺、暴力団幹部に無罪　求刑は無期懲役、京都地裁",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "関西人「関東ってお好み焼きこんな切り方するん？」→関東人「関西、何人で食うんだ…",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "変な日本地図にツッコミが殺到してしまう「伊能忠敬の方がよっぽど正確」「沖縄の形が",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "山崎武司さん中日打撃コーチ決定的、愛工大名電先輩の工藤新監督支える　故・野村克也",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -137,31 +153,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "行きつけのガソリンスタンドの猫、寝てる所を撫でたら『コレ』で申し訳なくなった「な",
+      "title": "別部署で給料が上がらないのに「事務員2人抜けるから手伝ってくれる？」と言われたの",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "関西人「関東ってお好み焼きこんな切り方するん？」→関東人「関西、何人で食うんだ…",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "変な日本地図にツッコミが殺到してしまう「伊能忠敬の方がよっぽど正確」「沖縄の形が",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "12.ビリヤニは肉料理である ｜ カレー物語 ｜ 稲田俊輔 ｜ 連載 ｜ 考える",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ネット通販サイト支援の会社に不正アクセス　約2300万人の個人情報が流出（テレビ",
+      "title": "MADE IN YAMATO - 第２１話　激突！関東女子フィジーク後編 | ヤ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
