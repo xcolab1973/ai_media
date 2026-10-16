@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-16T15:24:25+09:00",
- "valid_until": "2026-10-29T06:27:18+09:00",
+ "generated_at": "2026-10-16T19:11:14+09:00",
+ "valid_until": "2026-10-30T19:08:34+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -10,8 +10,8 @@
   "parent": "mgmt",
   "from_current": 24,
   "from_new": 1,
-  "expired_pruned": 0,
-  "retention_dropped": 1,
+  "expired_pruned": 1,
+  "retention_dropped": 0,
   "genres": 3,
   "retention_per_genre": 8
  },
@@ -498,6 +498,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "公益通報者保護法に基づく指針・指針解説の改正ポイント（三宅法律事務所）",
+   "url": "https://www.miyake.gr.jp/wp-content/uploads/2026/04/公益通報者保護法に基づく指針・指針解説の改正ポイント.pdf",
+   "summary": "法律事務所による公益通報者保護法の指針・指針解説の改正ポイント資料。体制整備で企業が見直す点の裏取り候補。本文は未確認。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "mgmt-orga",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "三宅法律事務所",
+    "expert_origin": true,
+    "search_query": "公益通報者保護法 改正 2026年12月 施行 体制整備 中小企業 何をすべきか",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-10-30T19:08:34+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "カスタマーハラスメント対策と就業者・求職者へのハラスメント防止義務（HRMOS 労務ジャーナル）",
    "url": "https://hrmos.co/roumu-journal/customer-harassment-job-seeker-sexual-harassment-prevention-obligation/",
    "summary": "カスハラ対策の事業主義務化と求職者へのセクハラ防止措置義務を扱う人事労務向け解説。人事が就業規則や相談窓口の整備でどこから手を付けるかの下流ペインの起点。詳細は未確認のため本文での裏取りが必要。",
@@ -704,36 +734,6 @@
     "rescued": false
    },
    "valid_until": "2026-10-20T16:36:51+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "【2026年度 法改正】10月施行確定「カスハラ・就活セクハラ対策義務化」から給与天引きが始まる「子ども・子育て支援金」まで重要項目3選",
-   "url": "https://www.hrpro.co.jp/series_detail.php?t_no=4584",
-   "summary": "2026年10月施行のカスハラ・就活セクハラ対策義務化など人事が押さえる改正項目をまとめた解説。中小の人事担当が何を準備すべきかの起点。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "mgmt-orga",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "HRpro",
-    "expert_origin": true,
-    "search_query": "2026年10月 人事 労務 法改正 施行 中小企業 採用 育児・介護休業法 令和8年",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-10-16T16:36:34+09:00",
    "validity_days": 14
   }
  ]
