@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T21:44:00+09:00",
+  "generated_at": "2026-10-17T02:00:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,161 +7,161 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
     "neg_excluded": 7,
-    "dedup_excluded": 11,
-    "passed_total": 104,
+    "dedup_excluded": 10,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "x_realtime": 8,
+      "x_realtime": 7,
+      "yahoo_realtime": 38,
       "google_trends": 10,
-      "yahoo_realtime": 25,
-      "news_web": 21,
-      "yahoo_news_ranking": 6
+      "yahoo_news_ranking": 4,
+      "news_web": 11
     }
   },
   "note_category_counts": {
-    "social_reaction": 14,
-    "personal_story": 3,
+    "social_reaction": 24,
     "opinion": 10,
-    "medical_science": 3,
-    "policy": 6,
-    "hard_fact": 34
+    "personal_story": 1,
+    "medical_science": 5,
+    "policy": 5,
+    "hard_fact": 25
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 14,
+    "social_reaction": 24,
+    "policy": 6,
     "opinion": 10,
-    "hard_fact": 33,
-    "medical_science": 3,
-    "policy": 7,
-    "personal_story": 3
+    "hard_fact": 24,
+    "medical_science": 5,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "【ネタバレ注意】完結後に批判が集まったが再評価される漫画と、完結後も批判されてい",
+      "title": "祖母宅の片付けをしてたら謎のチケットが出てきたけど、何かわからない。有識者の方、",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "王貞治",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "日本人、マグニチュード9.9という数値に違和感を持って即座に誤報を疑えるの面白い",
+      "title": "宝石のような青いハチ、美濃市にも　小１が発見、飼育中 | 岐阜新聞デジタル",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "近親相姦について、「近親相姦で子供を作る」ことが禁忌となる理由は挙げられるが、「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "ファミチキ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ラウール",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "nコン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ピクサー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "野球結果",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "秋山幸二",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    }
-  ],
-  "note_top10": [
-    {
-      "title": "【ネタバレ注意】完結後に批判が集まったが再評価される漫画と、完結後も批判されてい",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "米ホワイトハウスの新報道官「中国にはまともなトイレすらない」",
+      "title": "The Blue Envelope #72",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "消火器の設置場所がわかりづらいデザインでドヤ顔してる建築デザイナーを世界から絶滅",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "証券会社の後任者から「ご挨拶したい」と言うのでZOOMに入ったら、開口一番「それ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "人が辞めすぎ、薄給激務、本社の工場がボロすぎ、周りが田舎すぎる会社…だが「Vファ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「マジでやばい、この見てみろ…」若き海外ニキが『釣りキチ三平』に気づく→日本のフ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "気合を入れるために荷締めベルトで額を締め付けたら濁った鼻水が出て視力が回復した人",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "東大には｢縦の多様性｣が存在しない　体験格差という壁　ブレイディみかこ×元ヤング",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "王貞治",
+      "title": "新卒入社6ヶ月目ですが、PC自作が出来ると知った上司から唐突に400万円の予算を",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "トミー リー ジョーンズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "近親相姦について、「近親相姦で子供を作る」ことが禁忌となる理由は挙げられるが、「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "title": "ホタルの嫁入り",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "「人の心あるんか」万博未払い1700万をアンゴラが救済…吉村知事「いいことだ」発",
+      "title": "mリーグ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "行きつけのガソリンスタンドの猫、寝てる所を撫でたら『コレ』で申し訳なくなった「な",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    }
+  ],
+  "note_top10": [
+    {
+      "title": "祖母宅の片付けをしてたら謎のチケットが出てきたけど、何かわからない。有識者の方、",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "宝石のような青いハチ、美濃市にも　小１が発見、飼育中 | 岐阜新聞デジタル",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "The Blue Envelope #72",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "消火器の設置場所がわかりづらいデザインでドヤ顔してる建築デザイナーを世界から絶滅",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "証券会社の後任者から「ご挨拶したい」と言うのでZOOMに入ったら、開口一番「それ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "行きつけのガソリンスタンドの猫、寝てる所を撫でたら『コレ』で申し訳なくなった「な",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "関西人「関東ってお好み焼きこんな切り方するん？」→関東人「関西、何人で食うんだ…",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "変な日本地図にツッコミが殺到してしまう「伊能忠敬の方がよっぽど正確」「沖縄の形が",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "12.ビリヤニは肉料理である ｜ カレー物語 ｜ 稲田俊輔 ｜ 連載 ｜ 考える",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ネット通販サイト支援の会社に不正アクセス　約2300万人の個人情報が流出（テレビ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
