@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T15:23:00+09:00",
+  "generated_at": "2026-10-16T21:44:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 12,
-    "passed_total": 100,
+    "neg_excluded": 7,
+    "dedup_excluded": 11,
+    "passed_total": 104,
     "b2b_category_counts": {
-      "yahoo_realtime": 24,
+      "x_realtime": 8,
       "google_trends": 10,
-      "x_realtime": 6,
-      "news_web": 23,
-      "yahoo_news_ranking": 7
+      "yahoo_realtime": 25,
+      "news_web": 21,
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 18,
+    "social_reaction": 14,
     "personal_story": 3,
     "opinion": 10,
-    "medical_science": 2,
-    "hard_fact": 32,
-    "policy": 5
+    "medical_science": 3,
+    "policy": 6,
+    "hard_fact": 34
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 18,
+    "social_reaction": 14,
     "opinion": 10,
     "hard_fact": 33,
-    "personal_story": 3,
-    "policy": 5,
-    "medical_science": 1
+    "medical_science": 3,
+    "policy": 7,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "セーラームーンに出てくる火野レイ、キャラ改変なんてレベルじゃないくらいアニメと原",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "【ネタバレ注意】完結後に批判が集まったが再評価される漫画と、完結後も批判されてい",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "通信事業者にサイバー防衛義務化　委託先含めた管理要請、総務省検討 - 日本経済新",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ヤマト",
+      "title": "王貞治",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "阪神ファン",
+      "title": "日本人、マグニチュード9.9という数値に違和感を持って即座に誤報を疑えるの面白い",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "近親相姦について、「近親相姦で子供を作る」ことが禁忌となる理由は挙げられるが、「",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "ファミチキ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "「これだけで不審者扱い？」Suicaが使えるかと聞いた男を神奈川県警が注意喚起「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "元中日・ブライト健太が引退…うつ病を告白「大歓声の響く打席に戻りたかった」「正直",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "子ども食堂をやっているというラーメン屋が「ごちそうさまくらい言え」と投稿→「教育",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "豊橋駅",
+      "title": "ラウール",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ジョジョ gu",
+      "title": "nコン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "猪苗代湖",
+      "title": "ピクサー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "野球結果",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "秋山幸二",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +107,64 @@
   ],
   "note_top10": [
     {
-      "title": "セーラームーンに出てくる火野レイ、キャラ改変なんてレベルじゃないくらいアニメと原",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "通信事業者にサイバー防衛義務化　委託先含めた管理要請、総務省検討 - 日本経済新",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「これだけで不審者扱い？」Suicaが使えるかと聞いた男を神奈川県警が注意喚起「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "元中日・ブライト健太が引退…うつ病を告白「大歓声の響く打席に戻りたかった」「正直",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "子ども食堂をやっているというラーメン屋が「ごちそうさまくらい言え」と投稿→「教育",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "理工系の私立大学に合格したが親族から「お前どこから金出すつもりだ」と言われて奨学",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "帰り道、抱っこ紐したパパさんに警察が「こんな時間に連れ出されて可哀想に…家どこ?",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "イギリスのポテチは全然旨味がないので味の素を数回振って食べているが、🇬🇧人同僚に",
+      "title": "【ネタバレ注意】完結後に批判が集まったが再評価される漫画と、完結後も批判されてい",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "米ホワイトハウスの新報道官「中国にはまともなトイレすらない」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "証券会社の後任者から「ご挨拶したい」と言うのでZOOMに入ったら、開口一番「それ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "人が辞めすぎ、薄給激務、本社の工場がボロすぎ、周りが田舎すぎる会社…だが「Vファ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「マジでやばい、この見てみろ…」若き海外ニキが『釣りキチ三平』に気づく→日本のフ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "気合を入れるために荷締めベルトで額を締め付けたら濁った鼻水が出て視力が回復した人",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東大には｢縦の多様性｣が存在しない　体験格差という壁　ブレイディみかこ×元ヤング",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "ヤマト",
+      "title": "王貞治",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "阪神ファン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "近親相姦について、「近親相姦で子供を作る」ことが禁忌となる理由は挙げられるが、「",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "「人の心あるんか」万博未払い1700万をアンゴラが救済…吉村知事「いいことだ」発",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ]
 }
