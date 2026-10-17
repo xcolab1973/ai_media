@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T08:51:00+09:00",
+  "generated_at": "2026-10-17T15:13:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,42 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 14,
-    "passed_total": 113,
+    "neg_excluded": 0,
+    "dedup_excluded": 10,
+    "passed_total": 122,
     "b2b_category_counts": {
-      "yahoo_realtime": 38,
+      "yahoo_realtime": 32,
       "google_trends": 10,
-      "x_realtime": 4,
-      "news_web": 12,
-      "yahoo_news_ranking": 6
+      "yahoo_news_ranking": 4,
+      "x_realtime": 8,
+      "news_web": 16
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
+    "social_reaction": 31,
     "opinion": 10,
-    "medical_science": 5,
-    "hard_fact": 24,
-    "policy": 3
+    "personal_story": 1,
+    "medical_science": 6,
+    "policy": 9,
+    "hard_fact": 13
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
-    "hard_fact": 24,
+    "policy": 8,
+    "social_reaction": 26,
+    "hard_fact": 20,
     "opinion": 10,
-    "policy": 3,
-    "medical_science": 5
+    "medical_science": 5,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "祖母宅の片付けをしてたら謎のチケットが出てきたけど、何かわからない。有識者の方、",
+      "title": "簗前農相、衆院選で「支払いをするように」とメール送信　報酬払い投票依頼させたか　",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "《これが更迭の決定打》簗和生前農相 衆院選で運動員買収“指示メール”入手　「抵抗",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -61,43 +69,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "宝石のような青いハチ、美濃市にも　小１が発見、飼育中 | 岐阜新聞デジタル",
+      "title": "ベイスターズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "一定の年代の人たちが頑なにシャツインを拒むのはどうしてなの？インした方が絶対かわ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "警察車両が幅寄せ",
+      "title": "サガン鳥栖",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "メーガン",
+      "title": "エスパルス 試合",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "緊急地震速報の時は授業中で誰も机の下に潜らない中、一人で机の下に…流石に終わった",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "関東大会 高校野球",
+      "title": "valorant champions tour",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "紅葉 見頃",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "giá vàng hôm nay",
+      "title": "鈴木 将 平",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,13 +107,19 @@
   ],
   "note_top10": [
     {
-      "title": "祖母宅の片付けをしてたら謎のチケットが出てきたけど、何かわからない。有識者の方、",
+      "title": "《これが更迭の決定打》簗和生前農相 衆院選で運動員買収“指示メール”入手　「抵抗",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "宝石のような青いハチ、美濃市にも　小１が発見、飼育中 | 岐阜新聞デジタル",
+      "title": "一定の年代の人たちが頑なにシャツインを拒むのはどうしてなの？インした方が絶対かわ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "昭和40年代の小学生だった頃、中学まで通知表オール5だった叔母は進学校に入学、高",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -123,43 +131,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "関西人「関東ってお好み焼きこんな切り方するん？」→関東人「関西、何人で食うんだ…",
+      "title": "ウクライナの「ヴィヴァルディ作戦」をBBC特派員が取材、防衛から攻勢へ - BB",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "変な日本地図にツッコミが殺到してしまう「伊能忠敬の方がよっぽど正確」「沖縄の形が",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "山崎武司さん中日打撃コーチ決定的、愛工大名電先輩の工藤新監督支える　故・野村克也",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "消火器の設置場所がわかりづらいデザインでドヤ顔してる建築デザイナーを世界から絶滅",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "証券会社の後任者から「ご挨拶したい」と言うのでZOOMに入ったら、開口一番「それ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "別部署で給料が上がらないのに「事務員2人抜けるから手伝ってくれる？」と言われたの",
+      "title": "出勤しようと立体駐車場に行ったら、下にある車が隙間にハマった状態で自分の車が出せ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "MADE IN YAMATO - 第２１話　激突！関東女子フィジーク後編 | ヤ",
+      "title": "ご飯を確信するまでに何段階かある猫の動画「確信に変わる瞬間が大好き」「本猫は人間",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「夢か現実か分からないまま戦っている猫の動画」鈍臭いタイプで知られている猫のごん",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "参勤交代のWikiに18世紀になると参勤交代をサボる大名が出てきて問題になってい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "トランプ氏、ウクライナ向け衛星通信の制限を否定「私ではない」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
