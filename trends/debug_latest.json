@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T20:46:00+09:00",
+  "generated_at": "2026-10-18T00:58:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,99 +7,99 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
     "neg_excluded": 1,
-    "dedup_excluded": 8,
-    "passed_total": 113,
+    "dedup_excluded": 14,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_realtime": 29,
+      "yahoo_realtime": 39,
       "google_trends": 10,
-      "yahoo_news_ranking": 5,
-      "x_realtime": 10,
-      "news_web": 16
+      "yahoo_news_ranking": 4,
+      "x_realtime": 5,
+      "news_web": 12
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
-    "personal_story": 1,
-    "hard_fact": 24,
+    "social_reaction": 24,
+    "personal_story": 3,
     "opinion": 10,
-    "medical_science": 4,
-    "policy": 5
+    "medical_science": 5,
+    "policy": 9,
+    "hard_fact": 19
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 24,
-    "social_reaction": 26,
+    "social_reaction": 24,
+    "policy": 9,
     "opinion": 10,
-    "personal_story": 1,
-    "policy": 7,
-    "medical_science": 2
+    "medical_science": 4,
+    "hard_fact": 20,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "プレステの生みの親・久夛良木健氏はディスク廃止への反発に理解も「経済的に合理的で",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "１９６０年代以降に整備された新幹線、老朽化対策と費用確保が課題…「のぞみ」値上げ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "個人情報先出しシステム",
+      "title": "999.9で買った10万円くらいの眼鏡が緩くなったので購入店で見てもらったら「中",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "伊集院光",
+      "title": "【独自】防衛財源に法人増税浮上　年間10兆円超へ膨張公算 | NEWSjp",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "いつでも税別5,800円で泊まれるホテルAZが急拡大している理由は「気軽に旅行で",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "簗前農相、衆院選で「支払いをするように」とメール送信　報酬払い投票依頼させたか　",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "ティラノサウルスレースにプテラノドンが参戦したが「プテラノドンはレースで有利では",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "klasemen persita vs persija jakarta",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "白いシャチ",
+      "title": "再生のウズメ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "高橋克典",
+      "title": "マンチェスターシティ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "秋季四国地区高等学校野球大会",
+      "title": "バイエルン 対 rbライプツィヒ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "pac",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "アンガールズ田中",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ban vs zim",
+      "title": "杉原愛子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,15 +107,51 @@
   ],
   "note_top10": [
     {
-      "title": "個人情報先出しシステム",
+      "title": "999.9で買った10万円くらいの眼鏡が緩くなったので購入店で見てもらったら「中",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "デスクを綺麗にするためにデスクを購入しました、デスク便利グッズのおすすめをくださ",
+      "title": "いつでも税別5,800円で泊まれるホテルAZが急拡大している理由は「気軽に旅行で",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ティラノサウルスレースにプテラノドンが参戦したが「プテラノドンはレースで有利では",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "日本全国の区市町村の歴史を時系列で網羅した「ローカルヒストリア」が夜ふかししても",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "SNSでゲームのアイデアや体験版をリリースするとゲームを模倣されるという被害が深",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "パスタを折って入れるって日本食に例えるとどれくらいの大罪なのか気になる→思いつく",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「キングオブコント2026」ジェラードンが優勝、19代目王者に - お笑いナタリ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【YouTuber】なぜ日本のアニメ系YouTuberは昔のアニメを語らないのか",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -125,45 +161,9 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "パスタを折って入れるって日本食に例えるとどれくらいの大罪なのか気になる→思いつく",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "アナルセックスのことを小林製薬のネーミングセンスで表現してよ",
+      "title": "「良い男が少なすぎて良い女が結婚できない」的な意見、普通に間違ってない？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「道端に落ちている財布を拾うか問題」実は善意で拾って届けたら、警察から犯人として",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "出勤しようと立体駐車場に行ったら、下にある車が隙間にハマった状態で自分の車が出せ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "帰宅途中、真っ暗な中で近所の家を懐中電灯で照らしている男性2人組を発見、セールス",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "飲み屋で知らないおっさんたちと話すうちに「好きな体位なに？」と質問されたので「退",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "999.9で買った10万円くらいの眼鏡が緩くなったので購入店で見てもらったら「中",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
