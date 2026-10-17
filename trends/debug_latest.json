@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T00:58:00+09:00",
+  "generated_at": "2026-10-18T08:24:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,46 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 1,
-    "dedup_excluded": 14,
+    "neg_excluded": 7,
+    "dedup_excluded": 8,
     "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_realtime": 39,
-      "google_trends": 10,
-      "yahoo_news_ranking": 4,
-      "x_realtime": 5,
+      "yahoo_realtime": 37,
+      "google_trends": 9,
+      "x_realtime": 9,
+      "yahoo_news_ranking": 3,
       "news_web": 12
     }
   },
   "note_category_counts": {
-    "social_reaction": 24,
+    "social_reaction": 30,
+    "opinion": 9,
     "personal_story": 3,
-    "opinion": 10,
     "medical_science": 5,
-    "policy": 9,
-    "hard_fact": 19
+    "hard_fact": 18,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 24,
-    "policy": 9,
-    "opinion": 10,
-    "medical_science": 4,
     "hard_fact": 20,
+    "social_reaction": 30,
+    "policy": 5,
+    "opinion": 9,
+    "medical_science": 3,
     "personal_story": 3
   },
   "b2b_top10": [
+    {
+      "title": "清水ミチコのHAPPY PARADISE スペシャルオープニング映像 対決 ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "いつでも税別5,800円で泊まれるホテルAZが急拡大している理由は「気軽に旅行で",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "999.9で買った10万円くらいの眼鏡が緩くなったので購入店で見てもらったら「中",
       "source_category": "yahoo_realtime",
@@ -57,49 +69,37 @@
       "topic_category": "policy"
     },
     {
-      "title": "いつでも税別5,800円で泊まれるホテルAZが急拡大している理由は「気軽に旅行で",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "川上審判員",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "家に怪しい男が訪問、住まいの調査だったが要領を得ないため、「あーいいよいいよ帰っ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "簗前農相、衆院選で「支払いをするように」とメール送信　報酬払い投票依頼させたか　",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "ティラノサウルスレースにプテラノドンが参戦したが「プテラノドンはレースで有利では",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "klasemen persita vs persija jakarta",
+      "title": "アジアパラ競技大会",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "再生のウズメ",
+      "title": "森永康平",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "マンチェスターシティ",
+      "title": "athletico-pr x palmeiras",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "バイエルン 対 rbライプツィヒ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "杉原愛子",
+      "title": "国民スポーツ大会",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -119,28 +119,34 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ティラノサウルスレースにプテラノドンが参戦したが「プテラノドンはレースで有利では",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日本全国の区市町村の歴史を時系列で網羅した「ローカルヒストリア」が夜ふかししても",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "SNSでゲームのアイデアや体験版をリリースするとゲームを模倣されるという被害が深",
+      "title": "家に怪しい男が訪問、住まいの調査だったが要領を得ないため、「あーいいよいいよ帰っ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "パスタを折って入れるって日本食に例えるとどれくらいの大罪なのか気になる→思いつく",
+      "title": "「AIに頼らずいろんな絵柄やタッチを再現して描いた絵を見てくれ」『しかるねこ』作",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「シリアルキラー」を「シリアルを食べるように気軽に殺人する人物」という意味と勘違",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「良い男が少なすぎて良い女が結婚できない」的な意見、普通に間違ってない？",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "川上審判員",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "「キングオブコント2026」ジェラードンが優勝、19代目王者に - お笑いナタリ",
@@ -149,19 +155,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "【YouTuber】なぜ日本のアニメ系YouTuberは昔のアニメを語らないのか",
+      "title": "マタギドライヴへの道 - ニューロサイエンスとマーケティングの間 - Betwe",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "中学の運動会で女子から「応援団やるから学ランかして」と言われ、当日ズボンなしの状",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「良い男が少なすぎて良い女が結婚できない」的な意見、普通に間違ってない？",
+      "title": "『太陽を盗んだ男』を放った、ゴジと呼ばれた男【そのとき映画は誕生した Vol.4",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
