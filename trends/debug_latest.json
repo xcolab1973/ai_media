@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T21:11:00+09:00",
+  "generated_at": "2026-10-19T01:10:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,87 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
+    "neg_excluded": 4,
     "dedup_excluded": 11,
-    "passed_total": 111,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
+      "yahoo_realtime": 39,
+      "x_realtime": 6,
       "google_trends": 10,
-      "news_web": 15,
-      "yahoo_news_ranking": 5,
-      "x_realtime": 6
+      "news_web": 13,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 34,
-    "opinion": 8,
-    "hard_fact": 22,
-    "policy": 5,
-    "medical_science": 1
+    "social_reaction": 38,
+    "medical_science": 2,
+    "opinion": 10,
+    "personal_story": 2,
+    "hard_fact": 17,
+    "policy": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 34,
-    "opinion": 8,
-    "hard_fact": 23,
-    "policy": 5
+    "social_reaction": 38,
+    "medical_science": 1,
+    "opinion": 10,
+    "hard_fact": 18,
+    "policy": 1,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "インターネットの人たちを信じて『オリーブの丘』へ行った人間の末路がこちら「いやガ",
+      "title": "[第18話]打ち切られ漫画家と同人女 - 澄ヒビト | 少年ジャンプ＋",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "フランスで55万人が大規模デモ　教育改善や物価高対策を求め放火・略奪 - 日本経",
+      "title": "[106話]ケントゥリア - 暗森透 | 少年ジャンプ＋",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "渋谷のカフェで、事務所の偉い感じの人と若手俳優の卵みたいな男の子が悪魔契約を交わ",
+      "title": "中世〜1910年代のドレス資料を1,639点も集めて様式を分類したドレス作画資料",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "オリラジ中田",
+      "title": "「人類史で1回しか使えないトリック」「透明な水とコップを用意して読む」…最近バズ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "スマホの「充電80％止めで長持ち」「挿しっぱなし充電NG」は本当？　実験で見えた",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "残念ながら、２０２７年の確定申告から、e-tax（ちなみにe-taxの利用にはマ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "「この看板、なんて読むのかわからなくて一生悩んでる」読める人の優しい声掛けによっ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "マラガ 対 ソシエダ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "weather tomorrow",
+      "title": "乃木坂46",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "19日大気不安定 激しい雨など注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ガソリンスタンドで子が給油 危険",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "娘の中学で妊娠・出産する子が続出、出産した子は施設行きと聞いたが、これって普通じ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "［偽装品］新型タブレット「TABWEE T80」を購入。ストレージは偽装されメモ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "後藤大樹",
+      "title": "選抜高等学校野球大会",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -104,13 +107,49 @@
   ],
   "note_top10": [
     {
-      "title": "フランスで55万人が大規模デモ　教育改善や物価高対策を求め放火・略奪 - 日本経",
+      "title": "[第18話]打ち切られ漫画家と同人女 - 澄ヒビト | 少年ジャンプ＋",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "[106話]ケントゥリア - 暗森透 | 少年ジャンプ＋",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中世〜1910年代のドレス資料を1,639点も集めて様式を分類したドレス作画資料",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「人類史で1回しか使えないトリック」「透明な水とコップを用意して読む」…最近バズ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "スマホの「充電80％止めで長持ち」「挿しっぱなし充電NG」は本当？　実験で見えた",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「この看板、なんて読むのかわからなくて一生悩んでる」読める人の優しい声掛けによっ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "インターネットの人たちを信じて『オリーブの丘』へ行った人間の末路がこちら「いやガ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "数年前のセーラームーンのグッズが加水分解でベタベタに…治し方あるんでしょうか？→",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -123,42 +162,6 @@
     },
     {
       "title": "急にメンタルの問題で療養休暇に入った教員がアマチュアのスポーツの大会で優勝して白",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "娘の中学で妊娠・出産する子が続出、出産した子は施設行きと聞いたが、これって普通じ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "［偽装品］新型タブレット「TABWEE T80」を購入。ストレージは偽装されメモ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "数年前のセーラームーンのグッズが加水分解でベタベタに…治し方あるんでしょうか？→",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中世〜1910年代のドレス資料を1,639点も集めて様式を分類したドレス作画資料",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「韓国人へ、日本で買えるマジでおいしいキムチ教えてください」スーパーやAmazo",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "食べ放題の焼肉屋で1番上の高いコースを頼んだが、隣の席の家族に配膳ロボから注文し",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
