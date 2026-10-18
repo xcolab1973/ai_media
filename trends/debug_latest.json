@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:36:00+09:00",
+  "generated_at": "2026-10-18T21:11:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,87 +16,87 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 10,
-    "passed_total": 114,
+    "neg_excluded": 10,
+    "dedup_excluded": 11,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "x_realtime": 8,
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 34,
       "google_trends": 10,
-      "news_web": 12,
-      "yahoo_news_ranking": 5
+      "news_web": 15,
+      "yahoo_news_ranking": 5,
+      "x_realtime": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 37,
-    "opinion": 10,
-    "hard_fact": 15,
-    "policy": 6,
-    "medical_science": 2
+    "social_reaction": 34,
+    "opinion": 8,
+    "hard_fact": 22,
+    "policy": 5,
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 36,
-    "opinion": 10,
-    "hard_fact": 18,
-    "policy": 6
+    "social_reaction": 34,
+    "opinion": 8,
+    "hard_fact": 23,
+    "policy": 5
   },
   "b2b_top10": [
     {
-      "title": "「なんか熱かったから心配で…」と研究用に稼働しているサーバーの電源を夫が抜いてく",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「この看板、なんて読むのかわからなくて一生悩んでる」読める人の優しい声掛けによっ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「韓国がイブ持ち込みダメなの知らんかった、こんなに何度も入国してるのに…」解熱鎮",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "仏で55万人デモ、暴動や放火　物価高や教育巡り、市庁舎全焼（共同通信） - Ya",
+      "title": "インターネットの人たちを信じて『オリーブの丘』へ行った人間の末路がこちら「いやガ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "jra",
+      "title": "フランスで55万人が大規模デモ　教育改善や物価高対策を求め放火・略奪 - 日本経",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "渋谷のカフェで、事務所の偉い感じの人と若手俳優の卵みたいな男の子が悪魔契約を交わ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "オリラジ中田",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "女子駅伝選手倒れ棄権 熱中症疑い",
+      "title": "weather tomorrow",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "19日大気不安定 激しい雨など注意",
       "source_category": "news_web",
       "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "「どちらの言い分もわかるので辛い」大工がXに投稿した内容に共感が集まる一方で、若",
+      "title": "ガソリンスタンドで子が給油 危険",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "娘の中学で妊娠・出産する子が続出、出産した子は施設行きと聞いたが、これって普通じ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "清水ミチコのHAPPY PARADISE スペシャルオープニング映像 対決 ",
+      "title": "［偽装品］新型タブレット「TABWEE T80」を購入。ストレージは偽装されメモ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "町田 対 福岡",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "vファーレン長崎",
+      "title": "後藤大樹",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -104,63 +104,63 @@
   ],
   "note_top10": [
     {
-      "title": "「なんか熱かったから心配で…」と研究用に稼働しているサーバーの電源を夫が抜いてく",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "仏で55万人デモ、暴動や放火　物価高や教育巡り、市庁舎全焼（共同通信） - Ya",
+      "title": "フランスで55万人が大規模デモ　教育改善や物価高対策を求め放火・略奪 - 日本経",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「この看板、なんて読むのかわからなくて一生悩んでる」読める人の優しい声掛けによっ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「韓国がイブ持ち込みダメなの知らんかった、こんなに何度も入国してるのに…」解熱鎮",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「どちらの言い分もわかるので辛い」大工がXに投稿した内容に共感が集まる一方で、若",
+      "title": "インターネットの人たちを信じて『オリーブの丘』へ行った人間の末路がこちら「いやガ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "みんなどうしてそんなにデザインの敗北が好きなの、デザインの大勝利にも触れなよ「成",
+      "title": "渋谷のカフェで、事務所の偉い感じの人と若手俳優の卵みたいな男の子が悪魔契約を交わ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "急にメンタルの問題で療養休暇に入った教員がアマチュアのスポーツの大会で優勝して白",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "娘の中学で妊娠・出産する子が続出、出産した子は施設行きと聞いたが、これって普通じ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "［偽装品］新型タブレット「TABWEE T80」を購入。ストレージは偽装されメモ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "数年前のセーラームーンのグッズが加水分解でベタベタに…治し方あるんでしょうか？→",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中世〜1910年代のドレス資料を1,639点も集めて様式を分類したドレス作画資料",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "「韓国人へ、日本で買えるマジでおいしいキムチ教えてください」スーパーやAmazo",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "食べ放題の焼肉屋で1番上の高いコースを頼んだが、隣の席の家族に配膳ロボから注文し",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ボケた老人達が脱水で何人も病院に運ばれて来る。 水は自分で飲まないし、ボケて点滴",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "jra",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「ロシアのグーグル」を標的にするウクライナ、ロシア国民の日常生活に混乱と疲弊",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
