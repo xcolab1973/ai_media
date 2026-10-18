@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-18T16:22:30+0900",
+    "generated_at": "2026-10-18T21:09:34+0900",
     "record_count": 27,
-    "source_total_in_db": 1493,
+    "source_total_in_db": 1494,
     "provenance_breakdown": {
-      "evidence": 950,
+      "evidence": 951,
       "pain_seed": 543
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_186b8a3c454d",
+      "trend_term": "ECMスキンブースター",
+      "raw_title": "【2026.09ベンスクリニック渋谷】韓国で話題のECMスキンブースター『リアロ（REALLO INJECT FINE）』導入｜Infoseekニュース - Infoseek",
+      "summary": "ベンスクリニック渋谷が韓国で話題のECMスキンブースター『リアロ』を2026年9月に導入予定。新技術の国内導入事例として価値あり。",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zeXhvVWdabUVCWW9VckpfMW15bXhLbjhyV1lwMWE3cW8wdXRweEJQdzlHZWNoRUJwWVlYZ05EcjREN2lwaHZJQmxGcFgzQzZaN2txdEZBNVdXVDY3YlBQUFdrSUN2cU1CRXZhUE5WVG9hZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zeXhvVWdabUVCWW9VckpfMW15bXhLbjhyV1lwMWE3cW8wdXRweEJQdzlHZWNoRUJwWVlYZ05EcjREN2lwaHZJQmxGcFgzQzZaN2txdEZBNVdXVDY3YlBQUFdrSUN2cU1CRXZhUE5WVG9hZw?oc=5",
+      "source_name": "Infoseek",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-23T21:09:10+0900",
+      "status": "candidate",
+      "created_at": "2026-10-18T21:09:10+0900"
+    },
     {
       "seed_id": "seed_7408596064d7",
       "trend_term": "最新美肌機器の東海導入",
@@ -263,24 +281,6 @@
       "valid_until": "2026-10-22T16:08:07+0900",
       "status": "candidate",
       "created_at": "2026-10-17T16:08:07+0900"
-    },
-    {
-      "seed_id": "seed_98453f33f800",
-      "trend_term": "有名人のボトックス・ヒアルロン酸経験談",
-      "raw_title": "〝アンチエイジングの星〟綾部久美子が説く若さの秘訣「前はボトックスやヒアルロン酸を…」 - Infoseek",
-      "summary": "タレント綾部久美子がアンチエイジング法について、過去のボトックスやヒアルロン酸使用経験を語る。一般読者の施術検討時の参考になる実体験情報。",
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vbVRJcnRlTy1kQkhHQ1lnaTdBbmJBSHJidXEycUJndnlsX2FOTGNyQlJOeHdWel9IVEF4RzJMS0FZcmhFY283QzlaVWJ0ZjFqNXdUamxXSTBTVFJZRXoxUVJHQnF6UU91UEMxd0lXNmVOemU50gF0QVVfeXFMT29tVElydGVPLWRCSEdDWWdpN0FuYkFIcmJ1cTJxQmd2eWxfYU5MY3JCUk54d1Z6X0hUQXhHMkxLQVlyaEVjbzdDOVpVYnRmMWo1d1RqbFdJMFNUUllFejFRUkdCcXpRT3VQQzF3SVc2ZU56ZTk?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vbVRJcnRlTy1kQkhHQ1lnaTdBbmJBSHJidXEycUJndnlsX2FOTGNyQlJOeHdWel9IVEF4RzJMS0FZcmhFY283QzlaVWJ0ZjFqNXdUamxXSTBTVFJZRXoxUVJHQnF6UU91UEMxd0lXNmVOemU50gF0QVVfeXFMT29tVElydGVPLWRCSEdDWWdpN0FuYkFIcmJ1cTJxQmd2eWxfYU5MY3JCUk54d1Z6X0hUQXhHMkxLQVlyaEVjbzdDOVpVYnRmMWo1d1RqbFdJMFNUUllFejFRUkdCcXpRT3VQQzF3SVc2ZU56ZTk?oc=5",
-      "source_name": "Infoseek",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "opinion",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-31T16:07:48+0900",
-      "status": "candidate",
-      "created_at": "2026-10-17T16:07:48+0900"
     },
     {
       "seed_id": "seed_a148fd15a5d3",
