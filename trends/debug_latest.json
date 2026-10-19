@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:52:00+09:00",
+  "generated_at": "2026-10-20T00:00:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,48 +7,54 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 13,
-    "passed_total": 111,
+    "neg_excluded": 12,
+    "dedup_excluded": 9,
+    "passed_total": 101,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
-      "news_web": 11,
+      "yahoo_realtime": 23,
+      "news_web": 21,
       "google_trends": 10,
-      "x_realtime": 4,
-      "yahoo_news_ranking": 8
+      "yahoo_news_ranking": 7,
+      "x_realtime": 9
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
+    "social_reaction": 26,
     "personal_story": 2,
-    "medical_science": 3,
     "opinion": 10,
-    "hard_fact": 19,
-    "policy": 1
+    "medical_science": 5,
+    "hard_fact": 23,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 35,
-    "hard_fact": 17,
+    "social_reaction": 26,
+    "hard_fact": 25,
     "opinion": 10,
     "medical_science": 3,
     "personal_story": 2,
-    "policy": 3
+    "policy": 4
   },
   "b2b_top10": [
     {
-      "title": "100均で買ったコップに沸騰したお湯を入れて手に持ったらガッちゃーんと割れ、熱湯",
+      "title": "内定式後に行われる、入社後に必要な専門教育を事実上前倒しして求める入社前教育が、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "ユニクロが値上げ 11商品を11月に",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     },
     {
       "title": "『7th EVENT “THE STAGE” in LOS ANGELES』の開",
@@ -57,49 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "こどもNISA 知っておきたい注意点",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
       "title": "フランス各地でデモに乗じ破壊や略奪、歴史的建造物の市庁舎は放火で焼失…全国１５０",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "萩で通行人のお爺さんに吉田松陰の実家への道を尋ねたら表情が硬くなり、とっさにニュ",
+      "title": "公共工事「入札不調」相次ぐ 背景",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_domestic",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "職場に休みの連絡を入れた後、上司から「ちょっと当日欠勤が多いから今後気をつけて」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【宇宙の恐怖】人類が近づけば即終了…宇宙で最も危険な場所24選がヤバすぎる : ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "出川 哲朗",
+      "title": "蓮見翔",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "残念ながら、２０２７年の確定申告から、e-tax（ちなみにe-taxの利用にはマ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "ウマ娘 プリティーダービー",
+      "title": "ブラックフライデー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "伏見 寅威",
+      "title": "水戸ホーリーホック",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "岡慎之助",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,13 +107,7 @@
   ],
   "note_top10": [
     {
-      "title": "100均で買ったコップに沸騰したお湯を入れて手に持ったらガッちゃーんと割れ、熱湯",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『7th EVENT “THE STAGE” in LOS ANGELES』の開",
+      "title": "内定式後に行われる、入社後に必要な専門教育を事実上前倒しして求める入社前教育が、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,43 +119,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「『怒鳴られた経験』すらもしかして無いのでは」ゆとり世代とZ世代の耐性を比較した",
+      "title": "『7th EVENT “THE STAGE” in LOS ANGELES』の開",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "萩で通行人のお爺さんに吉田松陰の実家への道を尋ねたら表情が硬くなり、とっさにニュ",
+      "title": "職場に休みの連絡を入れた後、上司から「ちょっと当日欠勤が多いから今後気をつけて」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【宇宙の恐怖】人類が近づけば即終了…宇宙で最も危険な場所24選がヤバすぎる : ",
+      "title": "常温で食べられる吉野家の牛丼、3年保存できるラーメン缶など、Amazonで買える",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "大掃除は最低でも玄関などを掃除するだけでいいと聞いて感銘を受けたのでやってみよう",
+      "title": "太鼓の達人の超難曲の挑戦中に通りすがりの子供が太鼓を叩いて妨害した「ドグマの件」",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ベジタリアンの人から日本料理を食べたいって言われてるんだけど、何がいい？→野菜の",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "カイロソフトは一生同じ「饅頭を作り続けている饅頭屋のようなもの」で皮だけ変えて新",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "フランスは暴動で地獄のような状況なのに、フランス在住の日本人たちはおしゃれな投稿",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "13年使ったヴィヴィアンの財布がいよいよ壊れた…36歳が持っていて恥ずかしくない",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「何百万人もの人が一斉に生活保護を必要とする可能性がある」単純な雇用問題ではなく",
+      "title": "余命宣告された直後、道端に現金2200万円「神様の贈り物かと…」　持ち去った男が",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "グレタ・トゥーンベリに告ぐ。定職に就き、税金を納め、社会に貢献せよ | ニューズ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
