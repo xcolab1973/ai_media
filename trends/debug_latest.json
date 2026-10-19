@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T00:00:00+09:00",
+  "generated_at": "2026-10-20T03:50:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,12 +16,12 @@
       "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 9,
-    "passed_total": 101,
+    "neg_excluded": 10,
+    "dedup_excluded": 10,
+    "passed_total": 102,
     "b2b_category_counts": {
-      "yahoo_realtime": 23,
-      "news_web": 21,
+      "yahoo_realtime": 24,
+      "news_web": 20,
       "google_trends": 10,
       "yahoo_news_ranking": 7,
       "x_realtime": 9
@@ -29,18 +29,18 @@
   },
   "note_category_counts": {
     "social_reaction": 26,
-    "personal_story": 2,
+    "personal_story": 1,
     "opinion": 10,
     "medical_science": 5,
-    "hard_fact": 23,
-    "policy": 4
+    "hard_fact": 25,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
     "social_reaction": 26,
     "hard_fact": 25,
     "opinion": 10,
-    "medical_science": 3,
-    "personal_story": 2,
+    "medical_science": 4,
+    "personal_story": 1,
     "policy": 4
   },
   "b2b_top10": [
@@ -51,27 +51,27 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ユニクロが値上げ 11商品を11月に",
+      "title": "ユニクロ ソックス3点990円終了へ",
       "source_category": "news_web",
       "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "『7th EVENT “THE STAGE” in LOS ANGELES』の開",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "フランス各地でデモに乗じ破壊や略奪、歴史的建造物の市庁舎は放火で焼失…全国１５０",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "ミニバン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "公共工事「入札不調」相次ぐ 背景",
       "source_category": "news_web",
       "raw_source_key": "yahoo_news_domestic",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "ユニクロが値上げ 11商品を11月に",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
       "topic_category": "hard_fact"
     },
     {
@@ -81,25 +81,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "蓮見翔",
+      "title": "jaxa",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ブラックフライデー",
+      "title": "高市早苗",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "水戸ホーリーホック",
+      "title": "北朝鮮",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "岡慎之助",
+      "title": "日本郵政",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -108,18 +108,6 @@
   "note_top10": [
     {
       "title": "内定式後に行われる、入社後に必要な専門教育を事実上前倒しして求める入社前教育が、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "フランス各地でデモに乗じ破壊や略奪、歴史的建造物の市庁舎は放火で焼失…全国１５０",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『7th EVENT “THE STAGE” in LOS ANGELES』の開",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -137,31 +125,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "太鼓の達人の超難曲の挑戦中に通りすがりの子供が太鼓を叩いて妨害した「ドグマの件」",
+      "title": "最近Gemini使い始めたけど、明らかにchatGPTの方が優秀じゃないか？「G",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "カイロソフトは一生同じ「饅頭を作り続けている饅頭屋のようなもの」で皮だけ変えて新",
+      "title": "「TSUTAYAって今、何で稼いでるの？」サブスク時代の疑問から、CDレンタルな",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "13年使ったヴィヴィアンの財布がいよいよ壊れた…36歳が持っていて恥ずかしくない",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「『怒鳴られた経験』すらもしかして無いのでは」ゆとり世代とZ世代の耐性を比較した",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "余命宣告された直後、道端に現金2200万円「神様の贈り物かと…」　持ち去った男が",
+      "title": "グレタ・トゥーンベリに告ぐ。定職に就き、税金を納め、社会に貢献せよ | ニューズ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "企業「うちは有給もしっかり取れるし、残業代もちゃんと出るよ」 労働者「私は盗まな",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "グレタ・トゥーンベリに告ぐ。定職に就き、税金を納め、社会に貢献せよ | ニューズ",
+      "title": "マスク氏、米国のすべての子どもにスペースX株贈与へ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "生徒の背負い投げで教師大けが、指導に反発か　徳島の公立中 | 毎日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
