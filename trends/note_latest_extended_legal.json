@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-19T16:39:23+09:00",
+ "generated_at": "2026-10-20T06:28:59+09:00",
  "valid_until": "2026-10-26T16:37:21+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "legal",
- "total_count": 40,
+ "total_count": 38,
  "merge": {
   "parent": "legal",
   "from_current": 40,
-  "from_new": 12,
-  "expired_pruned": 1,
-  "retention_dropped": 11,
+  "from_new": 0,
+  "expired_pruned": 2,
+  "retention_dropped": 0,
   "genres": 5,
   "retention_per_genre": 8
  },
@@ -224,36 +224,6 @@
     "rescued": false
    },
    "valid_until": "2026-10-21T06:27:24+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "定期購入トラブルに関する注意喚起（徳島県 消費生活）",
-   "url": "https://www.pref.tokushima.lg.jp/file/attachment/1057029.pdf",
-   "summary": "自治体の消費生活センターが出した注意喚起資料。定期購入や解約でのトラブル事例と相談先の確認に使える。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "legal-consumer",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "徳島県",
-    "expert_origin": true,
-    "search_query": "消費者庁 国民生活センター 注意喚起 2026年 詐欺 定期購入 解約できない 相談 対処",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-10-20T06:26:58+09:00",
    "validity_days": 7
   },
   {
@@ -944,36 +914,6 @@
     "rescued": false
    },
    "valid_until": "2026-10-21T06:27:24+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "カスハラ対策の義務化とは（J-Net21 中小企業ナビ）",
-   "url": "https://j-net21.smrj.go.jp/snavi2/articles/185249",
-   "summary": "中小企業向けにカスハラ防止措置の義務化を扱った記事。小規模事業者の対応の出発点になる。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "legal-labor",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "J-Net21",
-    "expert_origin": true,
-    "search_query": "カスタマーハラスメント 防止措置 義務化 2026年10月1日 厚生労働省 事業主 相談窓口",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-10-20T06:26:58+09:00",
    "validity_days": 7
   },
   {
