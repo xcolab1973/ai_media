@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T08:38:00+09:00",
+  "generated_at": "2026-10-19T15:52:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,37 +16,75 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 8,
-    "passed_total": 112,
+    "neg_excluded": 8,
+    "dedup_excluded": 13,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
+      "yahoo_realtime": 37,
+      "news_web": 11,
       "google_trends": 10,
-      "news_web": 16,
-      "x_realtime": 7,
-      "yahoo_news_ranking": 3
+      "x_realtime": 4,
+      "yahoo_news_ranking": 8
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
+    "social_reaction": 35,
+    "personal_story": 2,
     "medical_science": 3,
     "opinion": 10,
-    "hard_fact": 20,
-    "policy": 4
+    "hard_fact": 19,
+    "policy": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
-    "medical_science": 2,
+    "social_reaction": 35,
+    "hard_fact": 17,
     "opinion": 10,
-    "hard_fact": 21,
-    "policy": 4
+    "medical_science": 3,
+    "personal_story": 2,
+    "policy": 3
   },
   "b2b_top10": [
+    {
+      "title": "100均で買ったコップに沸騰したお湯を入れて手に持ったらガッちゃーんと割れ、熱湯",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『7th EVENT “THE STAGE” in LOS ANGELES』の開",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "こどもNISA 知っておきたい注意点",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
     {
       "title": "フランス各地でデモに乗じ破壊や略奪、歴史的建造物の市庁舎は放火で焼失…全国１５０",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "萩で通行人のお爺さんに吉田松陰の実家への道を尋ねたら表情が硬くなり、とっさにニュ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【宇宙の恐怖】人類が近づけば即終了…宇宙で最も危険な場所24選がヤバすぎる : ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "出川 哲朗",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "残念ながら、２０２７年の確定申告から、e-tax（ちなみにe-taxの利用にはマ",
@@ -55,49 +93,13 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "みずほ、勘定系システム「MINORI」の大規模更新終了　1年がかりで - 日本経",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "山車",
+      "title": "ウマ娘 プリティーダービー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "広く大気不安定 天気の急変に注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "スーパーの駐車場にある包丁研ぎ屋に包丁を預けて受け取りに行ったら「他の人に間違っ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ブラッサム あらすじ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "コアウィーブショック",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "横浜マラソン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "アジ",
+      "title": "伏見 寅威",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,61 +107,61 @@
   ],
   "note_top10": [
     {
+      "title": "100均で買ったコップに沸騰したお湯を入れて手に持ったらガッちゃーんと割れ、熱湯",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『7th EVENT “THE STAGE” in LOS ANGELES』の開",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "フランス各地でデモに乗じ破壊や略奪、歴史的建造物の市庁舎は放火で焼失…全国１５０",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "みずほ、勘定系システム「MINORI」の大規模更新終了　1年がかりで - 日本経",
+      "title": "「『怒鳴られた経験』すらもしかして無いのでは」ゆとり世代とZ世代の耐性を比較した",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "夫の会社で育児休業給付金の支給のために妻の源泉徴収票、顔写真、社員番号の提出を求",
+      "title": "萩で通行人のお爺さんに吉田松陰の実家への道を尋ねたら表情が硬くなり、とっさにニュ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【宇宙の恐怖】人類が近づけば即終了…宇宙で最も危険な場所24選がヤバすぎる : ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "大掃除は最低でも玄関などを掃除するだけでいいと聞いて感銘を受けたのでやってみよう",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "スーパーの駐車場にある包丁研ぎ屋に包丁を預けて受け取りに行ったら「他の人に間違っ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "急にメンタルの問題で療養休暇に入った教員がアマチュアのスポーツの大会で優勝して白",
+      "title": "ベジタリアンの人から日本料理を食べたいって言われてるんだけど、何がいい？→野菜の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "熊本日日新聞「自衛隊による思想調査」スクープがメディア界全体に投げた大きな波紋（",
+      "title": "フランスは暴動で地獄のような状況なのに、フランス在住の日本人たちはおしゃれな投稿",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "干からびた川にすごい何かが生えてる…栽培しとるん？くらいの勢い→これは…食べられ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "残念ながら、２０２７年の確定申告から、e-tax（ちなみにe-taxの利用にはマ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "山車",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「だから戦争は絶対にやっちゃいけない」無音の時間、金歯と子供の靴の山……サンドウ",
+      "title": "「何百万人もの人が一斉に生活保護を必要とする可能性がある」単純な雇用問題ではなく",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
