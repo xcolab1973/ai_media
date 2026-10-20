@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T22:02:00+09:00",
+  "generated_at": "2026-10-21T02:35:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,161 +7,161 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 10,
-    "passed_total": 105,
+    "neg_excluded": 11,
+    "dedup_excluded": 7,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 27,
+      "yahoo_realtime": 36,
       "google_trends": 10,
-      "x_realtime": 8,
-      "news_web": 20,
-      "yahoo_news_ranking": 5
+      "x_realtime": 9,
+      "yahoo_news_ranking": 2,
+      "news_web": 13
     }
   },
   "note_category_counts": {
-    "social_reaction": 21,
-    "personal_story": 2,
+    "social_reaction": 39,
+    "personal_story": 1,
     "opinion": 10,
+    "hard_fact": 14,
     "medical_science": 3,
-    "hard_fact": 26,
-    "policy": 8
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 27,
-    "social_reaction": 21,
+    "social_reaction": 39,
+    "hard_fact": 16,
+    "personal_story": 1,
     "opinion": 10,
-    "personal_story": 2,
-    "medical_science": 1,
-    "policy": 9
+    "policy": 3,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "【速報】JR横浜駅痴漢冤罪事件 検察審査会も「不起訴」 肘打ち女性・暴力駅員2名",
+      "title": "[第66話 後編]ドラゴンクエスト ダイの大冒険 勇者アバンと獄炎の魔王 - 三",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "幼少時にロシアで描いた反戦の絵、4年経った今も少女の人生に影を落とす",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『カルドセプト ビギンズ』Steam版、10月28日配信へ。10年ぶりのシリーズ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
     },
     {
-      "title": "『ウマ娘』海外ライブ公演、開催中止　必要な米国ビザ取得できず苦渋の決断　払い戻し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ダクトテープは洪水から家を守るのに土のうよりも役立つという研究結果",
+      "title": "『7th EVENT “THE STAGE” in LOS ANGELES』公演",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "東大総長",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "配当",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "耳鼻科の待合室にいたら杖をついて入ってきたお爺さんが「初めてです」と保険証を提出",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "無期懲役",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "山口組",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "控訴",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "なすなかにし",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    }
-  ],
-  "note_top10": [
-    {
-      "title": "ダクトテープは洪水から家を守るのに土のうよりも役立つという研究結果",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "耳鼻科の待合室にいたら杖をついて入ってきたお爺さんが「初めてです」と保険証を提出",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "直近2社の退職理由がパワハラだった子が入社して数か月後、部長のごく普通の質問にそ",
+      "title": "生成AIの女性画像、なぜ「作り物」に見えるの?毛穴や産毛まで感じる自然な肌を目指",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "自ら専用機を操縦して来日、両陛下がタイのスティダー王妃と面会：朝日新聞",
+      "title": "【INMU KING】EU KING【アドルフ・ヒトラー】（完全版）",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "子供のいない夫婦の片方がなくなった時の相続は大変なので夫に遺言書の作成をお願いし",
+      "title": "ナルコレプシー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "pakistan national cricket team vs englan",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「手口を教えてくれてありがとう！」Xのアカウント乗っ取りのためIDとパスワードを",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "飲食店で勤務中「トマトソースのスパゲティを頼んだらトマトソースのスパゲティが来た",
+      "title": "「ティファール使ってていつも想像してる悪夢だ…」鍋いっぱい作った味噌汁を冷蔵庫に",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
-    },
+    }
+  ],
+  "note_top10": [
     {
-      "title": "麻生太郎氏にバースデーカードを送ったところ、お返事が来ました！！「義理堅い方なん",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "住宅ローン「フラット３５」使い民泊、墨田や豊島など２５軒に中止要請…会計検査院「",
+      "title": "[第66話 後編]ドラゴンクエスト ダイの大冒険 勇者アバンと獄炎の魔王 - 三",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "フランス・クレジット懸念で日本国債に買い集まる　20年債入札「好調」 - 日本経",
+      "title": "幼少時にロシアで描いた反戦の絵、4年経った今も少女の人生に影を落とす",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "コロナぶりに老舗の寿司屋に行って大将に「お任せで」と伝えたら「好みも分からないの",
+      "title": "『7th EVENT “THE STAGE” in LOS ANGELES』公演",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "生成AIの女性画像、なぜ「作り物」に見えるの?毛穴や産毛まで感じる自然な肌を目指",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "【INMU KING】EU KING【アドルフ・ヒトラー】（完全版）",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「一人暮らしのみんな、洗濯機いつ回してる？」→こまめに洗う方法だけでなく、なるべ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "[14話]ヒトナー - 屋宜知宏 | 少年ジャンプ＋",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "進研ゼミ様へ…貴社が小学準備講座の案内を送ってきた「萌奈椛様 6歳」はこの子です",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「手口を教えてくれてありがとう！」Xのアカウント乗っ取りのためIDとパスワードを",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ティファール使ってていつも想像してる悪夢だ…」鍋いっぱい作った味噌汁を冷蔵庫に",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
