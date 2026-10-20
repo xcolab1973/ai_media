@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T06:29:00+09:00",
+ "generated_at": "2026-10-20T16:38:38+09:00",
  "valid_until": "2026-11-02T06:28:15+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -258,6 +258,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "箱根駅伝2026はいつ？日程と見どころ",
+   "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/when-is-hakone-ekiden-2026/blt188c7808f6385637",
+   "summary": "箱根駅伝2026の日程・開催情報をまとめた記事。予選会など秋の観戦入口を探す読者の入口になる。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "sports-watch",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Goal.com Japan",
+    "expert_origin": false,
+    "search_query": "箱根駅伝予選会 2026 見方 解説 初めて観戦 ドラフト会議 2026 見どころ",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": true,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-10-25T16:37:49+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "【北中米Ｗ杯】ＤＡＺＮの対応を経済評論家が疑問視「勝手に６月末に期限を定めるのは許されないのでは」",
    "url": "https://www.tokyo-sports.co.jp/articles/-/392520",
    "summary": "DAZNがDAZN Soccer加入者に解約（直近1か月分返金）・月額プラン変更・年間契約継続の選択措置を発表。月額980円表示が3か月後に2600円へ切り替わる年間契約だった点が発端。受付期限は6月30日。",
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-10-24T03:06:46+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "CSファイナルS見直しをNPBが発表　10ゲーム差以上、勝率5割未満で出場の場合は1位球団に2勝のアドバンテージ",
-   "url": "https://www.daily.co.jp/baseball/2026/03/19/0020142464.shtml",
-   "summary": "NPBは今季からCSファイナルの方式を見直し。勝率5割未満または首位と10ゲーム差以上の球団が進出した場合、1位球団のアドバンテージが1勝から2勝に拡大。両条件が重なっても3勝にはならず、最大7試合・5戦先取制となる。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "sports-watch",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "デイリースポーツ",
-    "expert_origin": false,
-    "search_query": "プロ野球 CS ファイナルステージ 観戦 チケット 見方 アドバンテージ 2勝",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-10-21T15:23:40+09:00",
    "validity_days": 5
   }
  ]
