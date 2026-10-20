@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T15:37:00+09:00",
+  "generated_at": "2026-10-20T22:02:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 11,
-    "passed_total": 106,
+    "neg_excluded": 7,
+    "dedup_excluded": 10,
+    "passed_total": 105,
     "b2b_category_counts": {
-      "news_web": 20,
+      "yahoo_realtime": 27,
       "google_trends": 10,
-      "yahoo_realtime": 26,
-      "x_realtime": 9,
+      "x_realtime": 8,
+      "news_web": 20,
       "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 19,
+    "social_reaction": 21,
     "personal_story": 2,
     "opinion": 10,
-    "medical_science": 7,
-    "hard_fact": 23,
-    "policy": 9
+    "medical_science": 3,
+    "hard_fact": 26,
+    "policy": 8
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 25,
+    "hard_fact": 27,
+    "social_reaction": 21,
     "opinion": 10,
-    "medical_science": 4,
-    "social_reaction": 19,
-    "policy": 10,
-    "personal_story": 2
+    "personal_story": 2,
+    "medical_science": 1,
+    "policy": 9
   },
   "b2b_top10": [
     {
-      "title": "学級写真廃止巡り集会 保護者反発",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_local",
+      "title": "【速報】JR横浜駅痴漢冤罪事件 検察審査会も「不起訴」 肘打ち女性・暴力駅員2名",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
     },
     {
-      "title": "中野 信子",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "crazy raccoon",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "余命2〜3カ月と宣告された男が病院からの帰り道、警備会社が落とした現金2200万",
+      "title": "『ウマ娘』海外ライブ公演、開催中止　必要な米国ビザ取得できず苦渋の決断　払い戻し",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "topic_category": "hard_fact"
     },
     {
-      "title": "福谷浩司",
+      "title": "ダクトテープは洪水から家を守るのに土のうよりも役立つという研究結果",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東大総長",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "アオアシ",
+      "title": "配当",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "真木あかり",
+      "title": "耳鼻科の待合室にいたら杖をついて入ってきたお爺さんが「初めてです」と保険証を提出",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "無期懲役",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "鄭欽文",
+      "title": "山口組",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "佳子内親王",
+      "title": "控訴",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "現金",
+      "title": "なすなかにし",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
-      "title": "小学校より多い郵便局に年650億円　統廃合「怖くて口にもできず」：朝日新聞",
+      "title": "ダクトテープは洪水から家を守るのに土のうよりも役立つという研究結果",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "Teamsで会議中、部長「こんな案件は俺の若い頃ならウンタラカンタラ」先輩「何言",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "銀行から3,000万円の融資を頼まれ、資金に困っていないが銀行との信用実績を積む",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「お姉ちゃんが毛づくろいしてるんだからじっとしてなさい！」かっこよくてかわいいお",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ショック…無職の男性、2800万円を失う　「返します」と電話あり、現金を紙袋に入",
+      "title": "耳鼻科の待合室にいたら杖をついて入ってきたお爺さんが「初めてです」と保険証を提出",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "東大総長選考「経緯の検証を」　文科省が大学側に依頼「説明足りぬ」：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "水筒、ちゃんと洗っているつもりなのになぜ「ぬるぬる」に？　 感染制御の専門家に聞",
+      "title": "直近2社の退職理由がパワハラだった子が入社して数か月後、部長のごく普通の質問にそ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "「親の失業と子の就職難が同時に襲った家庭もあったはず…」氷河期世代の就職難が話題",
+      "title": "自ら専用機を操縦して来日、両陛下がタイのスティダー王妃と面会：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「おばさんが怯えてるのは『若い子の可愛さ』ではなく『親の老い』」年齢に関する誹謗",
+      "title": "子供のいない夫婦の片方がなくなった時の相続は大変なので夫に遺言書の作成をお願いし",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "大阪の淀川花火大会では「ゴミは持ち帰らないで！置いていって！」とアナウンスがある",
+      "title": "飲食店で勤務中「トマトソースのスパゲティを頼んだらトマトソースのスパゲティが来た",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "麻生太郎氏にバースデーカードを送ったところ、お返事が来ました！！「義理堅い方なん",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "住宅ローン「フラット３５」使い民泊、墨田や豊島など２５軒に中止要請…会計検査院「",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "フランス・クレジット懸念で日本国債に買い集まる　20年債入札「好調」 - 日本経",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "コロナぶりに老舗の寿司屋に行って大将に「お任せで」と伝えたら「好みも分からないの",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
