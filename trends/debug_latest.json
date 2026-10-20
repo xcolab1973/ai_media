@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T03:50:00+09:00",
+  "generated_at": "2026-10-20T09:37:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,32 @@
       "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
+    "neg_excluded": 6,
     "dedup_excluded": 10,
-    "passed_total": 102,
+    "passed_total": 106,
     "b2b_category_counts": {
-      "yahoo_realtime": 24,
-      "news_web": 20,
+      "yahoo_realtime": 26,
       "google_trends": 10,
-      "yahoo_news_ranking": 7,
-      "x_realtime": 9
+      "x_realtime": 10,
+      "news_web": 18,
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
-    "personal_story": 1,
-    "opinion": 10,
-    "medical_science": 5,
-    "hard_fact": 25,
-    "policy": 3
+    "social_reaction": 20,
+    "opinion": 9,
+    "medical_science": 7,
+    "personal_story": 2,
+    "policy": 10,
+    "hard_fact": 22
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 26,
+    "social_reaction": 20,
+    "opinion": 9,
+    "medical_science": 3,
+    "policy": 11,
     "hard_fact": 25,
-    "opinion": 10,
-    "medical_science": 4,
-    "personal_story": 1,
-    "policy": 4
+    "personal_story": 2
   },
   "b2b_top10": [
     {
@@ -51,55 +51,55 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ユニクロ ソックス3点990円終了へ",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ミニバン",
+      "title": "東北自動車道",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "公共工事「入札不調」相次ぐ 背景",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ユニクロが値上げ 11商品を11月に",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "職場に休みの連絡を入れた後、上司から「ちょっと当日欠勤が多いから今後気をつけて」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "jaxa",
+      "title": "レイズ 対 ガーディアンズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "高市早苗",
+      "title": "余命2〜3カ月と宣告された男が病院からの帰り道、警備会社が落とした現金2200万",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "インフルエンザワクチン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "w",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "北朝鮮",
+      "title": "プランクスターズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "日本郵政",
+      "title": "福岡県議会議 自民党県議団",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "村上 宗隆",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "石油",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,9 +113,39 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "職場に休みの連絡を入れた後、上司から「ちょっと当日欠勤が多いから今後気をつけて」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "東京に住んでる弟が結婚することになったが、新婚生活を始めるにあたり家賃が17万円",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "人生で初めてATMでお金を取り忘れ、約10分後に気付いて取りに戻ったがお金はなし",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "トイレに行きたくてコンビニに寄ってサラダチキンを買って外に出たら見知らぬ車に「迷",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "神奈川の山の中にあるサーフィン練習場…湘南の実業家が趣味でやってるらしい？「津波",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "イベントなどの告知で、どこの県なのかの情報がゼロだと、もうそこで離脱してしまうん",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ANA「ちいかわジェット」が就航開始…案内ビデオと機内放送はポケモンだったがナガ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -125,46 +155,16 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "最近Gemini使い始めたけど、明らかにchatGPTの方が優秀じゃないか？「G",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "東北自動車道",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "「TSUTAYAって今、何で稼いでるの？」サブスク時代の疑問から、CDレンタルな",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「『怒鳴られた経験』すらもしかして無いのでは」ゆとり世代とZ世代の耐性を比較した",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "グレタ・トゥーンベリに告ぐ。定職に就き、税金を納め、社会に貢献せよ | ニューズ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "企業「うちは有給もしっかり取れるし、残業代もちゃんと出るよ」 労働者「私は盗まな",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "マスク氏、米国のすべての子どもにスペースX株贈与へ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "生徒の背負い投げで教師大けが、指導に反発か　徳島の公立中 | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "レイズ 対 ガーディアンズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
