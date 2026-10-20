@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T09:37:00+09:00",
+  "generated_at": "2026-10-20T15:37:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 10,
+    "neg_excluded": 5,
+    "dedup_excluded": 11,
     "passed_total": 106,
     "b2b_category_counts": {
-      "yahoo_realtime": 26,
+      "news_web": 20,
       "google_trends": 10,
-      "x_realtime": 10,
-      "news_web": 18,
-      "yahoo_news_ranking": 6
+      "yahoo_realtime": 26,
+      "x_realtime": 9,
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 20,
-    "opinion": 9,
-    "medical_science": 7,
+    "social_reaction": 19,
     "personal_story": 2,
-    "policy": 10,
-    "hard_fact": 22
+    "opinion": 10,
+    "medical_science": 7,
+    "hard_fact": 23,
+    "policy": 9
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 20,
-    "opinion": 9,
-    "medical_science": 3,
-    "policy": 11,
     "hard_fact": 25,
+    "opinion": 10,
+    "medical_science": 4,
+    "social_reaction": 19,
+    "policy": 10,
     "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "内定式後に行われる、入社後に必要な専門教育を事実上前倒しして求める入社前教育が、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "学級写真廃止巡り集会 保護者反発",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_local",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "東北自動車道",
+      "title": "中野 信子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "レイズ 対 ガーディアンズ",
+      "title": "crazy raccoon",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
       "title": "余命2〜3カ月と宣告された男が病院からの帰り道、警備会社が落とした現金2200万",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "medical_science"
     },
     {
-      "title": "インフルエンザワクチン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "w",
+      "title": "福谷浩司",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "プランクスターズ",
+      "title": "アオアシ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "福岡県議会議 自民党県議団",
+      "title": "真木あかり",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "村上 宗隆",
+      "title": "鄭欽文",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "石油",
+      "title": "佳子内親王",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "現金",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +107,64 @@
   ],
   "note_top10": [
     {
-      "title": "内定式後に行われる、入社後に必要な専門教育を事実上前倒しして求める入社前教育が、",
+      "title": "小学校より多い郵便局に年650億円　統廃合「怖くて口にもできず」：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "東京に住んでる弟が結婚することになったが、新婚生活を始めるにあたり家賃が17万円",
+      "title": "Teamsで会議中、部長「こんな案件は俺の若い頃ならウンタラカンタラ」先輩「何言",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "人生で初めてATMでお金を取り忘れ、約10分後に気付いて取りに戻ったがお金はなし",
+      "title": "銀行から3,000万円の融資を頼まれ、資金に困っていないが銀行との信用実績を積む",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "トイレに行きたくてコンビニに寄ってサラダチキンを買って外に出たら見知らぬ車に「迷",
+      "title": "「お姉ちゃんが毛づくろいしてるんだからじっとしてなさい！」かっこよくてかわいいお",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "神奈川の山の中にあるサーフィン練習場…湘南の実業家が趣味でやってるらしい？「津波",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "イベントなどの告知で、どこの県なのかの情報がゼロだと、もうそこで離脱してしまうん",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ANA「ちいかわジェット」が就航開始…案内ビデオと機内放送はポケモンだったがナガ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "常温で食べられる吉野家の牛丼、3年保存できるラーメン缶など、Amazonで買える",
+      "title": "ショック…無職の男性、2800万円を失う　「返します」と電話あり、現金を紙袋に入",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "東北自動車道",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "東大総長選考「経緯の検証を」　文科省が大学側に依頼「説明足りぬ」：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "レイズ 対 ガーディアンズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "水筒、ちゃんと洗っているつもりなのになぜ「ぬるぬる」に？　 感染制御の専門家に聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「親の失業と子の就職難が同時に襲った家庭もあったはず…」氷河期世代の就職難が話題",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「おばさんが怯えてるのは『若い子の可愛さ』ではなく『親の老い』」年齢に関する誹謗",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "大阪の淀川花火大会では「ゴミは持ち帰らないで！置いていって！」とアナウンスがある",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ]
 }
