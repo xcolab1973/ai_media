@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T02:35:00+09:00",
+  "generated_at": "2026-10-21T09:07:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,152 +16,149 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
-    "dedup_excluded": 7,
-    "passed_total": 114,
+    "neg_excluded": 13,
+    "dedup_excluded": 9,
+    "passed_total": 110,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
-      "google_trends": 10,
       "x_realtime": 9,
-      "yahoo_news_ranking": 2,
-      "news_web": 13
+      "yahoo_realtime": 32,
+      "google_trends": 10,
+      "news_web": 16,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 39,
-    "personal_story": 1,
+    "social_reaction": 34,
     "opinion": 10,
-    "hard_fact": 14,
-    "medical_science": 3,
-    "policy": 3
+    "policy": 6,
+    "hard_fact": 18,
+    "medical_science": 2
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 39,
-    "hard_fact": 16,
-    "personal_story": 1,
+    "social_reaction": 34,
     "opinion": 10,
-    "policy": 3,
-    "medical_science": 1
+    "hard_fact": 20,
+    "policy": 6
   },
   "b2b_top10": [
     {
-      "title": "[第66話 後編]ドラゴンクエスト ダイの大冒険 勇者アバンと獄炎の魔王 - 三",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "幼少時にロシアで描いた反戦の絵、4年経った今も少女の人生に影を落とす",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『カルドセプト ビギンズ』Steam版、10月28日配信へ。10年ぶりのシリーズ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "『7th EVENT “THE STAGE” in LOS ANGELES』公演",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "生成AIの女性画像、なぜ「作り物」に見えるの?毛穴や産毛まで感じる自然な肌を目指",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "【INMU KING】EU KING【アドルフ・ヒトラー】（完全版）",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ナルコレプシー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "pakistan national cricket team vs englan",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「手口を教えてくれてありがとう！」Xのアカウント乗っ取りのためIDとパスワードを",
+      "title": "セロテープのみで封をした郵便物はマナー違反か←実際そういうマナーはある＆セロテー",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ティファール使ってていつも想像してる悪夢だ…」鍋いっぱい作った味噌汁を冷蔵庫に",
+      "title": "フェミニズムが「機能不全」になる理由",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "工藤阿須加",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "某大手企業の営業さんと13時半から商談だったが来られたのが13時35分、5分遅れ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "最近痩せねばと駅から職場までの間を歩いたり野菜多めの食生活にして、少しだけ下腹が",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "アルバニア",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "上沢直之",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "spacex",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ダンカン・ロビンソン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "東京湾大華火祭",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "[第66話 後編]ドラゴンクエスト ダイの大冒険 勇者アバンと獄炎の魔王 - 三",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "セロテープのみで封をした郵便物はマナー違反か←実際そういうマナーはある＆セロテー",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "幼少時にロシアで描いた反戦の絵、4年経った今も少女の人生に影を落とす",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『7th EVENT “THE STAGE” in LOS ANGELES』公演",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "生成AIの女性画像、なぜ「作り物」に見えるの?毛穴や産毛まで感じる自然な肌を目指",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "【INMU KING】EU KING【アドルフ・ヒトラー】（完全版）",
+      "title": "フェミニズムが「機能不全」になる理由",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "「一人暮らしのみんな、洗濯機いつ回してる？」→こまめに洗う方法だけでなく、なるべ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "[14話]ヒトナー - 屋宜知宏 | 少年ジャンプ＋",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "進研ゼミ様へ…貴社が小学準備講座の案内を送ってきた「萌奈椛様 6歳」はこの子です",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「手口を教えてくれてありがとう！」Xのアカウント乗っ取りのためIDとパスワードを",
+      "title": "某大手企業の営業さんと13時半から商談だったが来られたのが13時35分、5分遅れ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ティファール使ってていつも想像してる悪夢だ…」鍋いっぱい作った味噌汁を冷蔵庫に",
+      "title": "最近痩せねばと駅から職場までの間を歩いたり野菜多めの食生活にして、少しだけ下腹が",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "新築の内覧に行ったらほぼ網戸がなかったが、今時の新築は窓を開けないの？それともハ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「PC持ってない人達って、まさかPCを毎回シャットダウンしてると思ってんの？」W",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『右折が怖い』って話をしたら『左折3回すれば右折になるから左折だけして運転すれば",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "工藤阿須加",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「経験者は語る」暴動と化したフランスのデモについて様々な意見が集まるが、中国人渾",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
