@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T22:15:00+09:00",
+  "generated_at": "2026-10-22T02:41:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,43 +7,61 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 13,
-    "dedup_excluded": 11,
-    "passed_total": 98,
+    "neg_excluded": 6,
+    "dedup_excluded": 9,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_realtime": 21,
-      "google_trends": 10,
+      "yahoo_realtime": 38,
       "x_realtime": 9,
-      "news_web": 23,
-      "yahoo_news_ranking": 7
+      "news_web": 12,
+      "google_trends": 10,
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 22,
-    "personal_story": 2,
-    "medical_science": 6,
+    "social_reaction": 36,
+    "personal_story": 4,
     "opinion": 10,
-    "hard_fact": 28,
-    "policy": 2
+    "medical_science": 5,
+    "policy": 5,
+    "hard_fact": 10
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 22,
-    "medical_science": 4,
+    "social_reaction": 36,
+    "personal_story": 4,
+    "policy": 5,
+    "hard_fact": 14,
     "opinion": 10,
-    "hard_fact": 28,
-    "personal_story": 2,
-    "policy": 4
+    "medical_science": 1
   },
   "b2b_top10": [
+    {
+      "title": "[特別編2＋第18.5話]神ヨムふたり - フィビ鳥 | 少年ジャンプ＋",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "LiteLLMパッケージ 再侵害の概要と対策指針 - GMO Flatt Sec",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「IT出身なのに詐欺に遭いそうに」楽天の本物の不正アクセス通知に続いて偽メールが",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
     {
       "title": "「必死に働いて得たお金を全額取り上げられるのと変わらない」生活保護受ける小説家が",
       "source_category": "yahoo_realtime",
@@ -51,55 +69,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "創価学会と「カネ」――ネットで炎上した「財務」の話から＠編集長日記｜宗教問題di",
+      "title": "選挙の偽情報対策、SNS事業者に収益化停止促す　総務省指針案 - 日本経済新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "topic_category": "policy"
     },
     {
-      "title": "浦和レッズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "プログラミング言語「PHP」に欠陥　修正プログラムを配布へ　世界のサイトの7割で",
+      "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について | 情報セキュ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "秋田・子吉川 氾濫注意報に切替",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "三井住友カード",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "EVの補助金引き下げ 27年1月から",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "policy"
     },
     {
-      "title": "wix",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "【復活】ドミノ・ピザの「お持ち帰り半額」がわずか4カ月で戻ってきた理由を公式に聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "京都ハンナリーズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ぴあ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ハーゲンダッツ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "川崎ブレイブサンダース",
+      "title": "マンチェスターユナイテッド",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,15 +107,33 @@
   ],
   "note_top10": [
     {
+      "title": "LiteLLMパッケージ 再侵害の概要と対策指針 - GMO Flatt Sec",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「IT出身なのに詐欺に遭いそうに」楽天の本物の不正アクセス通知に続いて偽メールが",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "[特別編2＋第18.5話]神ヨムふたり - フィビ鳥 | 少年ジャンプ＋",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "「必死に働いて得たお金を全額取り上げられるのと変わらない」生活保護受ける小説家が",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ほら！やっぱりゴミを溜めてる！」ゴミ屋敷になった若い女性の部屋を清掃業者が片付",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "【復活】ドミノ・ピザの「お持ち帰り半額」がわずか4カ月で戻ってきた理由を公式に聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -125,45 +143,27 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "モンゴル草原で大規模火災　出火元はKDDI子会社の車両か、KDDIが謝罪　東京都",
+      "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について | 情報セキュ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "プログラム言語「PHP」重大弱点　さくらネットは対応で機能一部停止 - 日本経済",
+      "title": "これが視界に入った瞬間、1秒以内に「AIだ！」と思ったけど我々は一体何に「AIっ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "《草原が真っ赤に延焼》日本企業幹部が乗った車両から出火か…モンゴル東部の自然保護",
+      "title": "Today's PHP Security Release, and How We",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "モンゴル草原で大規模火災　KDDIが謝罪　中国メディア「日本人が乗った車が原因」",
+      "title": "第23話 ギャルと叙勲式 / ギャル神官はリザレがダルい - 秋★枝 | サンデ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日頃取引していない所から「大至急」の依頼が→納期3か月で見積を出したら「発注はす",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "近くに店員2人、他客もいるのにわざわざ私を呼び止めて「すみません、トイレどこです",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "大学に忌引き届を出したら、本当にお葬式なのか証拠を提出するように言われ、お葬式当",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
