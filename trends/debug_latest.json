@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T09:07:00+09:00",
+  "generated_at": "2026-10-21T15:34:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,37 +16,34 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 13,
+    "neg_excluded": 12,
     "dedup_excluded": 9,
-    "passed_total": 110,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "x_realtime": 9,
-      "yahoo_realtime": 32,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "news_web": 16,
-      "yahoo_news_ranking": 3
+      "x_realtime": 7,
+      "news_web": 14,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 34,
+    "social_reaction": 36,
+    "personal_story": 3,
     "opinion": 10,
-    "policy": 6,
-    "hard_fact": 18,
-    "medical_science": 2
+    "medical_science": 3,
+    "hard_fact": 17,
+    "policy": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 34,
+    "social_reaction": 36,
     "opinion": 10,
-    "hard_fact": 20,
-    "policy": 6
+    "personal_story": 3,
+    "hard_fact": 17,
+    "medical_science": 2,
+    "policy": 2
   },
   "b2b_top10": [
-    {
-      "title": "セロテープのみで封をした郵便物はマナー違反か←実際そういうマナーはある＆セロテー",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
     {
       "title": "フェミニズムが「機能不全」になる理由",
       "source_category": "yahoo_realtime",
@@ -54,49 +51,55 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "工藤阿須加",
+      "title": "ワールドシリーズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "某大手企業の営業さんと13時半から商談だったが来られたのが13時35分、5分遅れ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "部活に課題に忙しい日々で寝不足な高1の娘が突然「ママ絵本読んで」と言って来たので",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "最近痩せねばと駅から職場までの間を歩いたり野菜多めの食生活にして、少しだけ下腹が",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "小説家・麻生幾さんが「ハム（公安）」関係者にフランスなどで起きた暴動について感想",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "アルバニア",
+      "title": "女子 ワールド カップ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "上沢直之",
+      "title": "パレスチナ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "spacex",
+      "title": "オリオン座流星群 2026",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ダンカン・ロビンソン",
+      "title": "ラファエル エスピノサ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "東京湾大華火祭",
+      "title": "アナログナース",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ひろゆき",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -104,9 +107,9 @@
   ],
   "note_top10": [
     {
-      "title": "セロテープのみで封をした郵便物はマナー違反か←実際そういうマナーはある＆セロテー",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "部活に課題に忙しい日々で寝不足な高1の娘が突然「ママ絵本読んで」と言って来たので",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -116,52 +119,52 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「一人暮らしのみんな、洗濯機いつ回してる？」→こまめに洗う方法だけでなく、なるべ",
+      "title": "最近、風俗のガサ入れのニュースがあったが、その時にいた客はどうなるの？一緒に捕ま",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "小説家・麻生幾さんが「ハム（公安）」関係者にフランスなどで起きた暴動について感想",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "某大手企業の営業さんと13時半から商談だったが来られたのが13時35分、5分遅れ",
+      "title": "エコバッグは「シュパット」が断然便利　引っ張るだけで簡単に畳めて、サイズや色など",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "優勝した台湾選手に「イラン国歌」最後まで流すミス、テコンドー表彰式…アジアパラ組",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "JR西日本 鉄道の保守作業ロボを導入 人手不足に対応 | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「タイパを極めすぎた末路」ラーメン屋を経営するゲームで客に丼を投擲して提供する方",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "最近痩せねばと駅から職場までの間を歩いたり野菜多めの食生活にして、少しだけ下腹が",
+      "title": "引き継ぎで後輩と客先に行ったら、後輩が偉い人に「あそこら辺、いい風俗たくさんあり",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "新築の内覧に行ったらほぼ網戸がなかったが、今時の新築は窓を開けないの？それともハ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「PC持ってない人達って、まさかPCを毎回シャットダウンしてると思ってんの？」W",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『右折が怖い』って話をしたら『左折3回すれば右折になるから左折だけして運転すれば",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "工藤阿須加",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「経験者は語る」暴動と化したフランスのデモについて様々な意見が集まるが、中国人渾",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "ほとんどの中小企業はたぶんこれで滅亡するよ。 - Everything you'",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     }
   ]
 }
