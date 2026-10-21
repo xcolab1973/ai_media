@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T15:34:00+09:00",
+  "generated_at": "2026-10-21T22:15:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,99 +7,99 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 9,
-    "passed_total": 111,
+    "neg_excluded": 13,
+    "dedup_excluded": 11,
+    "passed_total": 98,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 21,
       "google_trends": 10,
-      "x_realtime": 7,
-      "news_web": 14,
-      "yahoo_news_ranking": 4
+      "x_realtime": 9,
+      "news_web": 23,
+      "yahoo_news_ranking": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 36,
-    "personal_story": 3,
+    "social_reaction": 22,
+    "personal_story": 2,
+    "medical_science": 6,
     "opinion": 10,
-    "medical_science": 3,
-    "hard_fact": 17,
-    "policy": 1
+    "hard_fact": 28,
+    "policy": 2
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 36,
+    "social_reaction": 22,
+    "medical_science": 4,
     "opinion": 10,
-    "personal_story": 3,
-    "hard_fact": 17,
-    "medical_science": 2,
-    "policy": 2
+    "hard_fact": 28,
+    "personal_story": 2,
+    "policy": 4
   },
   "b2b_top10": [
     {
-      "title": "フェミニズムが「機能不全」になる理由",
+      "title": "「必死に働いて得たお金を全額取り上げられるのと変わらない」生活保護受ける小説家が",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ワールドシリーズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "部活に課題に忙しい日々で寝不足な高1の娘が突然「ママ絵本読んで」と言って来たので",
+      "title": "創価学会と「カネ」――ネットで炎上した「財務」の話から＠編集長日記｜宗教問題di",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "medical_science"
     },
     {
-      "title": "小説家・麻生幾さんが「ハム（公安）」関係者にフランスなどで起きた暴動について感想",
+      "title": "浦和レッズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "プログラミング言語「PHP」に欠陥　修正プログラムを配布へ　世界のサイトの7割で",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "hard_fact"
     },
     {
-      "title": "女子 ワールド カップ",
+      "title": "三井住友カード",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "パレスチナ",
+      "title": "wix",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "オリオン座流星群 2026",
+      "title": "京都ハンナリーズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ラファエル エスピノサ",
+      "title": "ぴあ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "アナログナース",
+      "title": "ハーゲンダッツ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ひろゆき",
+      "title": "川崎ブレイブサンダース",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +107,64 @@
   ],
   "note_top10": [
     {
-      "title": "部活に課題に忙しい日々で寝不足な高1の娘が突然「ママ絵本読んで」と言って来たので",
+      "title": "「必死に働いて得たお金を全額取り上げられるのと変わらない」生活保護受ける小説家が",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "フェミニズムが「機能不全」になる理由",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「ほら！やっぱりゴミを溜めてる！」ゴミ屋敷になった若い女性の部屋を清掃業者が片付",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "最近、風俗のガサ入れのニュースがあったが、その時にいた客はどうなるの？一緒に捕ま",
+      "title": "「1時間でビール4缶、ワインをミニカップで4杯」沖縄のテレビで放送された、飲酒し",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
     },
     {
-      "title": "小説家・麻生幾さんが「ハム（公安）」関係者にフランスなどで起きた暴動について感想",
+      "title": "モンゴル草原で大規模火災　出火元はKDDI子会社の車両か、KDDIが謝罪　東京都",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "エコバッグは「シュパット」が断然便利　引っ張るだけで簡単に畳めて、サイズや色など",
+      "title": "プログラム言語「PHP」重大弱点　さくらネットは対応で機能一部停止 - 日本経済",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "優勝した台湾選手に「イラン国歌」最後まで流すミス、テコンドー表彰式…アジアパラ組",
+      "title": "《草原が真っ赤に延焼》日本企業幹部が乗った車両から出火か…モンゴル東部の自然保護",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "JR西日本 鉄道の保守作業ロボを導入 人手不足に対応 | NHKニュース",
+      "title": "モンゴル草原で大規模火災　KDDIが謝罪　中国メディア「日本人が乗った車が原因」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「タイパを極めすぎた末路」ラーメン屋を経営するゲームで客に丼を投擲して提供する方",
+      "title": "日頃取引していない所から「大至急」の依頼が→納期3か月で見積を出したら「発注はす",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "引き継ぎで後輩と客先に行ったら、後輩が偉い人に「あそこら辺、いい風俗たくさんあり",
+      "title": "近くに店員2人、他客もいるのにわざわざ私を呼び止めて「すみません、トイレどこです",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ほとんどの中小企業はたぶんこれで滅亡するよ。 - Everything you'",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "大学に忌引き届を出したら、本当にお葬式なのか証拠を提出するように言われ、お葬式当",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ]
 }
