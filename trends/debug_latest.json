@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T22:13:00+09:00",
+  "generated_at": "2026-10-23T02:40:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,39 +16,45 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 3,
-    "dedup_excluded": 13,
-    "passed_total": 116,
+    "neg_excluded": 2,
+    "dedup_excluded": 11,
+    "passed_total": 119,
     "b2b_category_counts": {
-      "news_web": 13,
-      "yahoo_realtime": 38,
+      "yahoo_realtime": 39,
       "google_trends": 10,
-      "x_realtime": 6,
-      "yahoo_news_ranking": 3
+      "x_realtime": 8,
+      "yahoo_news_ranking": 2,
+      "news_web": 11
     }
   },
   "note_category_counts": {
     "social_reaction": 28,
-    "personal_story": 3,
+    "personal_story": 5,
     "opinion": 10,
-    "hard_fact": 14,
-    "policy": 8,
-    "medical_science": 7
+    "policy": 11,
+    "medical_science": 6,
+    "hard_fact": 10
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 19,
-    "policy": 8,
+    "policy": 11,
     "social_reaction": 28,
     "opinion": 10,
-    "personal_story": 3,
-    "medical_science": 2
+    "personal_story": 5,
+    "hard_fact": 15,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "PHP巡り一般ユーザーは対策必要?",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
+      "title": "武部新農水相、就任わずか1週間で“企業献金”公選法違反の疑い発覚に「光の速さ」「",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "高市首相「足りないのは発信力」　政権1年総括「他国に比べ、物価高対策できている」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
     },
     {
       "title": "共和党候補、選挙広告に対立候補の絶縁状態にある母親を起用し炎上 米中間選挙",
@@ -63,46 +69,40 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "高市首相「足りないのは発信力」　政権1年総括「他国に比べ、物価高対策できている」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "『相棒25』第1話、階級に興味なさそうな右京さん「僕は警部です。この中で階級が一",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "ゲリマンダー",
+      "title": "nasdaq100",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "【PHP不具合】高市総理、普段下っ端が会社の偉い人たちにいくら言っても聞く耳持た",
+      "title": "php サ 終",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "【ドラフト会議】事前にアメリカ行きを表明していた横浜高・織田翔希投手を巨人が“強",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "本人確認",
+      "title": "マグニチュード",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "峯岸 みなみ",
+      "title": "ヤブロネツ 対 ブライトン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "全日本プロレス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "30キロ6000円で販売された訳あり品のお米を実際に購入して検証してみたら…「選",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
     }
   ],
   "note_top10": [
@@ -113,16 +113,16 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "【PHP不具合】高市総理、普段下っ端が会社の偉い人たちにいくら言っても聞く耳持た",
+      "title": "【ドラフト会議】事前にアメリカ行きを表明していた横浜高・織田翔希投手を巨人が“強",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "貯金額って本当に幅広いと思うんだけど、同年代のガチの平均はどのくらいなんだろう…",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "30キロ6000円で販売された訳あり品のお米を実際に購入して検証してみたら…「選",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
     },
     {
       "title": "YOASOBI幾田りらの路上ライブが暴いた「再生数と集客」の残酷なギャップ。再生",
@@ -131,39 +131,39 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "静岡出張で、昼食のため店に入って刺身定食を頼んだら、自分しか客がいないのに注文し",
+      "title": "モンゴル草原火災、KDDI「重く受け止め」　東京都2個分が焼失 | 毎日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "#23 「LEGENDS」｜ryo",
+      "title": "「これもゴミ」登録者91万人のYouTuber所属の会社スタッフ、飲食店のサイン",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "【ドラフト会議】事前にアメリカ行きを表明していた横浜高・織田翔希投手を巨人が“強",
+      "title": "ベルギーのクラフトビールに「福島」を思わせる名前で缶に「TSUNAMI」の文字ま",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本人はプログラムも裁縫も料理も音楽も運動も外国語も独学である程度の習得が可能だ",
+      "title": "ディズニーシーのタートル・トークで「飼ってるカメともっと仲良くなりたい」という人",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "トラックボールの挙動がおかしいのでアルコール入りのウェットティッシュで掃除したら",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "なんの気なしにクラウドワークスで「PHP」と検索したら地獄のような募集見つけて軽",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "電気工事やってるとなぜか急に掃除始める人と、草むしり始める人たちがいる…これすご",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "1ヶ月1万円生活を打ち切った男ことオードリー春日、伝説のダクト飯などメチャクチャ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
