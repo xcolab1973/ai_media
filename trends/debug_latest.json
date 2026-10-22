@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T09:11:00+09:00",
+  "generated_at": "2026-10-22T15:35:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 8,
-    "passed_total": 115,
+    "neg_excluded": 8,
+    "dedup_excluded": 6,
+    "passed_total": 118,
     "b2b_category_counts": {
+      "yahoo_realtime": 38,
       "x_realtime": 10,
-      "yahoo_realtime": 35,
       "google_trends": 10,
       "yahoo_news_ranking": 3,
-      "news_web": 12
+      "news_web": 9
     }
   },
   "note_category_counts": {
-    "social_reaction": 31,
-    "personal_story": 2,
+    "social_reaction": 28,
+    "personal_story": 5,
     "opinion": 10,
+    "policy": 8,
     "medical_science": 7,
-    "policy": 9,
-    "hard_fact": 11
+    "hard_fact": 12
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 31,
-    "policy": 10,
+    "policy": 9,
+    "social_reaction": 28,
     "opinion": 10,
-    "hard_fact": 14,
-    "personal_story": 2,
-    "medical_science": 3
+    "hard_fact": 16,
+    "personal_story": 5,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "「総理大臣がXでお願いを出すレベル」PHPのセキュリティチームが2件の脆弱性に関",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "選挙の偽情報対策、SNS事業者に収益化停止促す　総務省指針案 - 日本経済新聞",
+      "title": "共和党候補、選挙広告に対立候補の絶縁状態にある母親を起用し炎上 米中間選挙",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "京都市バスで相次ぐ「乗客の取り残し」防止するには？　検討されている新技術とは｜京",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「必死に働いて得たお金を全額取り上げられるのと変わらない」生活保護受ける小説家が",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ミシュラン星の店の会合費は妥当?　高市内閣の閣僚の報告書チェック：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "PHPのセキュリティ問題について、その深刻さをわかる人が言及、首相の注意喚起ポス",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "policy"
     },
     {
-      "title": "3歳児が、こいつを“飼う”と言って聞かないので一旦好きにさせてます…「カンブリア",
+      "title": "週5×7時間、学生不可、副業NG……丸善ジュンク堂書店の求人情報はどういう人物を",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "急遽決まった出張で最年少ということもあり空気を読んで運転、ほとんど交流のない他部",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "3年前に退職したところから「なんでPHPで作ったんだ！今すぐ来い！」って電話あっ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "徳山競艇",
+      "title": "デジタル庁、「神Excel」対策ツールを公開　AIと組み合わせたデータ整備方法も",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "プロスピ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "フューチャーショップ",
+      "title": "三浦祐太朗",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "総務省",
+      "title": "nz vs ind",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "佐久間宣行",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "航空自衛隊 入間基地",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
-      "title": "京都市バスで相次ぐ「乗客の取り残し」防止するには？　検討されている新技術とは｜京",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「総理大臣がXでお願いを出すレベル」PHPのセキュリティチームが2件の脆弱性に関",
+      "title": "週5×7時間、学生不可、副業NG……丸善ジュンク堂書店の求人情報はどういう人物を",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「必死に働いて得たお金を全額取り上げられるのと変わらない」生活保護受ける小説家が",
+      "title": "デジタル庁、「神Excel」対策ツールを公開　AIと組み合わせたデータ整備方法も",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "3年前に退職したところから「なんでPHPで作ったんだ！今すぐ来い！」って電話あっ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "内製 Background Coding Agent “haro” で拓く未来の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "電気工事やってるとなぜか急に掃除始める人と、草むしり始める人たちがいる…これすご",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "静岡出張で、昼食のため店に入って刺身定食を頼んだら、自分しか客がいないのに注文し",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "寝る時間になっても寝室に移動しない子どもたちの「光に集まる性質」を利用したら声を",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "グアムに修学旅行中の娘のカード決済が最初の2日間で既に24,000円、夕食は丸亀",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "3歳児が、こいつを“飼う”と言って聞かないので一旦好きにさせてます…「カンブリア",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "急遽決まった出張で最年少ということもあり空気を読んで運転、ほとんど交流のない他部",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "もうPHPとか止めて、皆静的HTMLに戻ろう…阿部寛のホームページが正しかったん",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "昨日タクシーに乗った瞬間に財布を忘れたことに気づき降ろしてもらいたかったが、「5",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "食事の質、若年層で最低　収入や生活習慣が関連―東京大：時事ドットコム",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ファミレス行ったら、3歳くらいの子どもとママがいて。ママはずっと「ちゃんとご飯食",
+      "title": "ドパ英単語ガチャ | Dopa Word Gacha",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "失効免許証を警備捜査に流用　神奈川県警で30年前から常態化か | 毎日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
