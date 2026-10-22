@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T15:35:00+09:00",
+  "generated_at": "2026-10-22T22:13:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 6,
-    "passed_total": 118,
+    "neg_excluded": 3,
+    "dedup_excluded": 13,
+    "passed_total": 116,
     "b2b_category_counts": {
+      "news_web": 13,
       "yahoo_realtime": 38,
-      "x_realtime": 10,
       "google_trends": 10,
-      "yahoo_news_ranking": 3,
-      "news_web": 9
+      "x_realtime": 6,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
     "social_reaction": 28,
-    "personal_story": 5,
+    "personal_story": 3,
     "opinion": 10,
+    "hard_fact": 14,
     "policy": 8,
-    "medical_science": 7,
-    "hard_fact": 12
+    "medical_science": 7
   },
   "b2b_topic_category_counts": {
-    "policy": 9,
+    "hard_fact": 19,
+    "policy": 8,
     "social_reaction": 28,
     "opinion": 10,
-    "hard_fact": 16,
-    "personal_story": 5,
+    "personal_story": 3,
     "medical_science": 2
   },
   "b2b_top10": [
+    {
+      "title": "PHP巡り一般ユーザーは対策必要?",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
     {
       "title": "共和党候補、選挙広告に対立候補の絶縁状態にある母親を起用し炎上 米中間選挙",
       "source_category": "yahoo_realtime",
@@ -51,55 +57,49 @@
       "topic_category": "policy"
     },
     {
-      "title": "PHPのセキュリティ問題について、その深刻さをわかる人が言及、首相の注意喚起ポス",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "週5×7時間、学生不可、副業NG……丸善ジュンク堂書店の求人情報はどういう人物を",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "高市首相「足りないのは発信力」　政権1年総括「他国に比べ、物価高対策できている」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "週5×7時間、学生不可、副業NG……丸善ジュンク堂書店の求人情報はどういう人物を",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "『相棒25』第1話、階級に興味なさそうな右京さん「僕は警部です。この中で階級が一",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
     },
     {
-      "title": "3年前に退職したところから「なんでPHPで作ったんだ！今すぐ来い！」って電話あっ",
+      "title": "ゲリマンダー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "【PHP不具合】高市総理、普段下っ端が会社の偉い人たちにいくら言っても聞く耳持た",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "デジタル庁、「神Excel」対策ツールを公開　AIと組み合わせたデータ整備方法も",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "プロスピ",
+      "title": "本人確認",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "三浦祐太朗",
+      "title": "峯岸 みなみ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "nz vs ind",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "佐久間宣行",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "航空自衛隊 入間基地",
+      "title": "全日本プロレス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -108,60 +108,60 @@
   "note_top10": [
     {
       "title": "週5×7時間、学生不可、副業NG……丸善ジュンク堂書店の求人情報はどういう人物を",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "デジタル庁、「神Excel」対策ツールを公開　AIと組み合わせたデータ整備方法も",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "3年前に退職したところから「なんでPHPで作ったんだ！今すぐ来い！」って電話あっ",
+      "title": "【PHP不具合】高市総理、普段下っ端が会社の偉い人たちにいくら言っても聞く耳持た",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "内製 Background Coding Agent “haro” で拓く未来の",
+      "title": "貯金額って本当に幅広いと思うんだけど、同年代のガチの平均はどのくらいなんだろう…",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "YOASOBI幾田りらの路上ライブが暴いた「再生数と集客」の残酷なギャップ。再生",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "電気工事やってるとなぜか急に掃除始める人と、草むしり始める人たちがいる…これすご",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "静岡出張で、昼食のため店に入って刺身定食を頼んだら、自分しか客がいないのに注文し",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "寝る時間になっても寝室に移動しない子どもたちの「光に集まる性質」を利用したら声を",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "グアムに修学旅行中の娘のカード決済が最初の2日間で既に24,000円、夕食は丸亀",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ドパ英単語ガチャ | Dopa Word Gacha",
+      "title": "#23 「LEGENDS」｜ryo",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "失効免許証を警備捜査に流用　神奈川県警で30年前から常態化か | 毎日新聞",
+      "title": "【ドラフト会議】事前にアメリカ行きを表明していた横浜高・織田翔希投手を巨人が“強",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "日本人はプログラムも裁縫も料理も音楽も運動も外国語も独学である程度の習得が可能だ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "トラックボールの挙動がおかしいのでアルコール入りのウェットティッシュで掃除したら",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "電気工事やってるとなぜか急に掃除始める人と、草むしり始める人たちがいる…これすご",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
