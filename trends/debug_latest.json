@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T02:30:00+09:00",
+  "generated_at": "2026-10-24T08:58:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,76 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 14,
-    "dedup_excluded": 11,
-    "passed_total": 107,
+    "neg_excluded": 11,
+    "dedup_excluded": 9,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
+      "yahoo_realtime": 37,
       "google_trends": 10,
-      "news_web": 16,
-      "x_realtime": 6,
+      "x_realtime": 8,
+      "news_web": 13,
       "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
+    "social_reaction": 30,
     "opinion": 10,
-    "medical_science": 6,
-    "hard_fact": 25,
-    "policy": 1
+    "policy": 7,
+    "medical_science": 5,
+    "hard_fact": 18
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
-    "hard_fact": 27,
+    "social_reaction": 30,
+    "policy": 7,
     "opinion": 10,
-    "medical_science": 3,
-    "policy": 2
+    "hard_fact": 21,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
+      "title": "スチームパンク囲碁「ファクトリ囲碁」のセンスが良すぎる…「これで理解できた」とい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "LD&Kの社長の差別発言とCRASSではなくSTEVE IGNORANT BA",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "経産省、EV補助金の上限を125万円から75万円に引き下げ 令和7年度補正CEV",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "高市首相がガソリン補助金の見直し検討指示　段階的縮小へ、与野党の財政懸念の声踏ま",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "選挙中のSNS「収益停止を」　総務省が指針案公表、実効性見通せず - 日本経済新",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "旅サラダ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "typhoon champi (rosal)",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「今まで見たことない損傷」　奈良・東大寺境内などに子鹿の死骸4体　観光への影響懸",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -55,55 +97,19 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "「今まで見たことない損傷」　奈良・東大寺境内などに子鹿の死骸4体　観光への影響懸",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "ローソンでATMから引き出した1万円札を崩すのに500円ほどの買い物、お釣りを数",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "40年近く前、実家に税務調査が入り、母が「手製の握り飯と茶」を出したら、職員が「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "lol",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "rbライプツィヒ 対 fcバイエルン・ミュンヘン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "坂本花織",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ソフトバンクグループ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "無人機墜落 機体引き揚げ作業終了",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "駅弁フェア向けの弁当で7人食中毒",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_local",
-      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
+    {
+      "title": "スチームパンク囲碁「ファクトリ囲碁」のセンスが良すぎる…「これで理解できた」とい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "LD&Kの社長の差別発言とCRASSではなくSTEVE IGNORANT BA",
       "source_category": "yahoo_realtime",
@@ -117,37 +123,25 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "ローソンでATMから引き出した1万円札を崩すのに500円ほどの買い物、お釣りを数",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "修学旅行先で観光客に対して舐めた態度をとって煽っていた子がブチギレられていた…涙",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "40年近く前、実家に税務調査が入り、母が「手製の握り飯と茶」を出したら、職員が「",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ブス、絶対に避けること」かつての紀伊國屋書店の採用マニュアル、改めて見ても基準",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "修学旅行の最後の夜、3人1部屋でその内の2人が「朝まで帰らん」と告げて別の子達の",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ディズニーでちらっと見かけたカップルの彼氏が調教済み過ぎた話…姉弟ならよくある関",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "修学旅行先で観光客に対して舐めた態度をとって煽っていた子がブチギレられていた…涙",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日本の入浴スタイルを描いたイラストに海外から「バスタブに水を溜めるのは無駄遣い」",
+      "title": "ブラック企業を退職する前に未消化の有給休暇を申請したら、社長から｢有給使うなら払",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -159,10 +153,16 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "弟が母の日に贈った石が敷き詰められている激痛足ツボサンダルですが、母はこれを履い",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "旅サラダ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "typhoon champi (rosal)",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
