@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T21:52:00+09:00",
+  "generated_at": "2026-10-24T02:30:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,51 +7,45 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 17,
-    "dedup_excluded": 8,
-    "passed_total": 97,
+    "neg_excluded": 14,
+    "dedup_excluded": 11,
+    "passed_total": 107,
     "b2b_category_counts": {
-      "yahoo_realtime": 21,
-      "x_realtime": 10,
+      "yahoo_realtime": 36,
       "google_trends": 10,
-      "news_web": 23,
-      "yahoo_news_ranking": 6
+      "news_web": 16,
+      "x_realtime": 6,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 21,
+    "social_reaction": 28,
     "opinion": 10,
-    "medical_science": 5,
-    "hard_fact": 33,
+    "medical_science": 6,
+    "hard_fact": 25,
     "policy": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 21,
-    "hard_fact": 35,
+    "social_reaction": 28,
+    "hard_fact": 27,
     "opinion": 10,
-    "policy": 2,
-    "medical_science": 2
+    "medical_science": 3,
+    "policy": 2
   },
   "b2b_top10": [
     {
-      "title": "「今まで見たことない損傷」　奈良・東大寺境内などに子鹿の死骸4体　観光への影響懸",
+      "title": "LD&Kの社長の差別発言とCRASSではなくSTEVE IGNORANT BA",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "上司に手伝ってもらいながら進めた仕事で立て続けにどデカいミスが発覚…上司に解決策",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -61,53 +55,59 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "堤真一",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "モンゴルのヌムルグ自然保護区において2026年10月8日に発生した草原火災につい",
+      "title": "「今まで見たことない損傷」　奈良・東大寺境内などに子鹿の死骸4体　観光への影響懸",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "デジタルハリウッド大学 cm",
+      "title": "40年近く前、実家に税務調査が入り、母が「手製の握り飯と茶」を出したら、職員が「",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "lol",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "かまいたちの瞬間回答",
+      "title": "rbライプツィヒ 対 fcバイエルン・ミュンヘン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "あいの里 3",
+      "title": "坂本花織",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "承子さま",
+      "title": "ソフトバンクグループ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "長崎ヴェルカ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "無人機墜落 機体引き揚げ作業終了",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_domestic",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "駅弁フェア向けの弁当で7人食中毒",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_local",
+      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
     {
-      "title": "上司に手伝ってもらいながら進めた仕事で立て続けにどデカいミスが発覚…上司に解決策",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "LD&Kの社長の差別発言とCRASSではなくSTEVE IGNORANT BA",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -117,51 +117,51 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "モンゴルのヌムルグ自然保護区において2026年10月8日に発生した草原火災につい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "フランス人に英語で話しかけても無視されると聞いたので、パリに行ったとき、いっそ日",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ディズニーでちらっと見かけたカップルの彼氏が調教済み過ぎた話…姉弟ならよくある関",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「それこそ僕には無理だなあ」村上龍さんは、ワタミ会長・渡邉美樹氏が放った一言に困",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中道代表務めた小川氏、交付金5億円受領「やむを得ない」　27年以降「言う環境にな",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「お荷物のお届けが完了できさませんでしたます」宅配便のメールを装った詐欺メールの",
+      "title": "40年近く前、実家に税務調査が入り、母が「手製の握り飯と茶」を出したら、職員が「",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "「ブス、絶対に避けること」かつての紀伊國屋書店の採用マニュアル、改めて見ても基準",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "修学旅行の最後の夜、3人1部屋でその内の2人が「朝まで帰らん」と告げて別の子達の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ディズニーでちらっと見かけたカップルの彼氏が調教済み過ぎた話…姉弟ならよくある関",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "修学旅行先で観光客に対して舐めた態度をとって煽っていた子がブチギレられていた…涙",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "修学旅行の最後の夜、3人1部屋でその内の2人が「朝まで帰らん」と告げて別の子達の",
+      "title": "日本の入浴スタイルを描いたイラストに海外から「バスタブに水を溜めるのは無駄遣い」",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "日本共産党・吉田あやか三重県議のSNS上での発信に対する抗議声明と申し入れ｜SW",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "弟が母の日に贈った石が敷き詰められている激痛足ツボサンダルですが、母はこれを履い",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
