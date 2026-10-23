@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-22T22:07:26+0900",
+    "generated_at": "2026-10-23T09:05:50+0900",
     "record_count": 32,
-    "source_total_in_db": 1541,
+    "source_total_in_db": 1543,
     "provenance_breakdown": {
-      "evidence": 986,
+      "evidence": 988,
       "pain_seed": 555
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_8490967b8197",
+      "trend_term": "美容医療の重篤有害事象",
+      "raw_title": "鼻の整形手術中に女性が死亡、アナフィラキシーショックか［三面］ - VIETJO",
+      "summary": "鼻整形手術中の患者死亡事例。アナフィラキシスショックが原因の可能性。美容医療における安全管理と緊急対応の実例。",
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52NmI2R28tSkZrQllYY0xacjhVT1JfTGdNMVZSRVlwT3RsYkpnY2MyZm1sUXJQMG5kTXdHcGhrMlIydm9aUG9EZVFhYjYyMXNPQk51QmNFS1k5Nzlaa3kxRWpwOA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52NmI2R28tSkZrQllYY0xacjhVT1JfTGdNMVZSRVlwT3RsYkpnY2MyZm1sUXJQMG5kTXdHcGhrMlIydm9aUG9EZVFhYjYyMXNPQk51QmNFS1k5Nzlaa3kxRWpwOA?oc=5",
+      "source_name": "VIETJO",
+      "monitor_id": "bm-safety-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-28T09:05:45+0900",
+      "status": "candidate",
+      "created_at": "2026-10-23T09:05:45+0900"
+    },
+    {
+      "seed_id": "seed_07aca9cb0e65",
+      "trend_term": "韓国スキンブースター導入",
+      "raw_title": "ベンスクリニック横浜院、韓国で話題のスキンブースター「ティシボ（TISSIVO）」を2026年9月より導入 - storyweb.jp",
+      "summary": "ベンスクリニック横浜院が韓国で話題のスキンブースター「ティシボ」を2026年9月より導入予定。具体的な導入時期が明記されている。",
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JRS1mM0hMUFJ2TlQwLWJWU0xncFZxbk5xc3BZQy1fTWhtUGhGR1h2cVRnY3NQcjZsakpQTGJzdTV3RE9RNW9TbW1Kcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JRS1mM0hMUFJ2TlQwLWJWU0xncFZxbk5xc3BZQy1fTWhtUGhGR1h2cVRnY3NQcjZsakpQTGJzdTV3RE9RNW9TbW1Kcw?oc=5",
+      "source_name": "storyweb.jp",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-28T09:05:30+0900",
+      "status": "candidate",
+      "created_at": "2026-10-23T09:05:30+0900"
+    },
     {
       "seed_id": "seed_5c6a133e069b",
       "trend_term": "湘南美容クリニック新院開設",
@@ -409,24 +445,6 @@
       "created_at": "2026-10-21T22:06:13+0900"
     },
     {
-      "seed_id": "seed_cf681cb29a3d",
-      "trend_term": "ヒト由来ECMスキンブースター",
-      "raw_title": "【ベンスクリニック横浜院】ヒト由来ECMを用いたスキンブースター「Re20（リトゥオ）」を10月1日より導入 - MANTANWEB",
-      "summary": "ベンスクリニック横浜院がヒト由来ECMを用いたスキンブースター「Re20」を10月1日より導入。患者の肌改善ニーズに対応する新技術の導入事例。",
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CMkY3RVZpWkdYMXljOE4yWURjTTFWREpfSjVNSm5vTDFGT2pWYjdBa0duSjVUX005OUpnYjdpeUxVWDgtSTIyaDc5SC1ua3kwZGJidmVkQTUzUWpCR1VRZ01MSW16Y01DZjQ5YzhoU2ViUlM0M3c?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CMkY3RVZpWkdYMXljOE4yWURjTTFWREpfSjVNSm5vTDFGT2pWYjdBa0duSjVUX005OUpnYjdpeUxVWDgtSTIyaDc5SC1ua3kwZGJidmVkQTUzUWpCR1VRZ01MSW16Y01DZjQ5YzhoU2ViUlM0M3c?oc=5",
-      "source_name": "MANTANWEB",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-26T22:05:56+0900",
-      "status": "candidate",
-      "created_at": "2026-10-21T22:05:56+0900"
-    },
-    {
       "seed_id": "seed_446c1146ee96",
       "trend_term": "美容医療業界の電力コスト削減",
       "raw_title": "美容医療業界向け｜電力コストの削減戦略と最新の動向レポート【2026年10月版】 - ニコニコニュース",
@@ -533,24 +551,6 @@
       "valid_until": "2026-10-23T16:22:21+0900",
       "status": "candidate",
       "created_at": "2026-10-18T16:22:21+0900"
-    },
-    {
-      "seed_id": "seed_5e8a37be6d19",
-      "trend_term": "HIFU即時中止勧告",
-      "raw_title": "HIFU施術の「即時中止」呼び掛け 経産省が業界9団体に協力要請、事業者に注意喚起 - ウェルネスデイリーニュース",
-      "summary": "経産省が業界9団体に協力要請し、HIFU施術の即時中止を呼び掛け。事業者への注意喚起が行われている。",
-      "source_url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQOXNuc2lzMm1SdVhCaVZzeE0zZ2pVWW5LMjlkbVpyNkt1My1pa01IU1RvN0RRd1pLRlF6TFFvR0JVVHVxME1pQ2Zua2VSY3IzNEpuSHJNc21INnFpc3IzS2JUZ1Uzc25UQlViYVpzOGMzenJPMUhiMktxSTgzQ0xScnJ0Rnpwc3RKVExOc3pFdktWMko4SEIwYUJBN2o4V2c3Z0MtSGc4eHUwNUZ2aXB4aWJBRVNMbEk5cDFxZ1E2SnUtNGctdkoxRnd4eFI5TU5XZkhvdGRiZlI2eWxtX1h6TEZ1akR2X3I3UmpkdWZ2WGptTzhiczVXQmJUdVRSRk9ac0twREFWTEFyVFgxcXdKbmVMVk43eFMtcllmTjR6blZSVktkRm4tUjNGRzRUR1hGY0s3aWt4a1h3X21FLWxCbHBQZThqS25mUndwRWp3?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQOXNuc2lzMm1SdVhCaVZzeE0zZ2pVWW5LMjlkbVpyNkt1My1pa01IU1RvN0RRd1pLRlF6TFFvR0JVVHVxME1pQ2Zua2VSY3IzNEpuSHJNc21INnFpc3IzS2JUZ1Uzc25UQlViYVpzOGMzenJPMUhiMktxSTgzQ0xScnJ0Rnpwc3RKVExOc3pFdktWMko4SEIwYUJBN2o4V2c3Z0MtSGc4eHUwNUZ2aXB4aWJBRVNMbEk5cDFxZ1E2SnUtNGctdkoxRnd4eFI5TU5XZkhvdGRiZlI2eWxtX1h6TEZ1akR2X3I3UmpkdWZ2WGptTzhiczVXQmJUdVRSRk9ac0twREFWTEFyVFgxcXdKbmVMVk43eFMtcllmTjR6blZSVktkRm4tUjNGRzRUR1hGY0s3aWt4a1h3X21FLWxCbHBQZThqS25mUndwRWp3?oc=5",
-      "source_name": "ウェルネスデイリーニュース",
-      "monitor_id": "bm-machine-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "official_instruction",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-23T08:19:52+0900",
-      "status": "candidate",
-      "created_at": "2026-10-18T08:19:52+0900"
     },
     {
       "seed_id": "seed_29013724549a",
