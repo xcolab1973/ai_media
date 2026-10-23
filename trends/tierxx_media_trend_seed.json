@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-23T09:05:50+0900",
-    "record_count": 32,
-    "source_total_in_db": 1543,
+    "generated_at": "2026-10-23T16:50:47+0900",
+    "record_count": 31,
+    "source_total_in_db": 1544,
     "provenance_breakdown": {
-      "evidence": 988,
+      "evidence": 989,
       "pain_seed": 555
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_e4252b94a408",
+      "trend_term": "上場美容医療企業の株式施策",
+      "raw_title": "米上場の「湘南美容クリニック」、医師向けに自社株購入権の付与検討 - Bloomberg.com",
+      "summary": "米上場の湘南美容クリニックが医師向けに自社株購入権の付与を検討している。業界の人材確保戦略の動き。",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kNk9RYmtVa2Z3LVc4X1BqcE9lWnM1SXdHWWxja245eHlrakp1VV9EV2NBREZiQmxLQ29TX1MyY1lYc3VpQmg5MF9yb1hyR21GVjNQR2xSLVI2bWlJbDZWX2xnUzFtS2puNW01X1U3bGpzc2pxSUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kNk9RYmtVa2Z3LVc4X1BqcE9lWnM1SXdHWWxja245eHlrakp1VV9EV2NBREZiQmxLQ29TX1MyY1lYc3VpQmg5MF9yb1hyR21GVjNQR2xSLVI2bWlJbDZWX2xnUzFtS2puNW01X1U3bGpzc2pxSUE?oc=5",
+      "source_name": "Bloomberg.com",
+      "monitor_id": "bm-market-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-28T16:50:44+0900",
+      "status": "candidate",
+      "created_at": "2026-10-23T16:50:44+0900"
+    },
     {
       "seed_id": "seed_8490967b8197",
       "trend_term": "美容医療の重篤有害事象",
@@ -445,24 +463,6 @@
       "created_at": "2026-10-21T22:06:13+0900"
     },
     {
-      "seed_id": "seed_446c1146ee96",
-      "trend_term": "美容医療業界の電力コスト削減",
-      "raw_title": "美容医療業界向け｜電力コストの削減戦略と最新の動向レポート【2026年10月版】 - ニコニコニュース",
-      "summary": "2026年10月版レポート。美容医療業界向けの電力コスト削減戦略と最新動向について業界動向を分析。",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lLUlkaEx4cGpyMHFpdVg3Nl9GM1lWU2VGLWlhM3dnWFRYdkRRTE5wVkNsMGU0TTNoUk16Z1hUVHF6eERmVElpc0wyNHJ5dUJ0TksxUQ?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lLUlkaEx4cGpyMHFpdVg3Nl9GM1lWU2VGLWlhM3dnWFRYdkRRTE5wVkNsMGU0TTNoUk16Z1hUVHF6eERmVElpc0wyNHJ5dUJ0TksxUQ?oc=5",
-      "source_name": "ニコニコニュース",
-      "monitor_id": "bm-market-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-26T16:55:18+0900",
-      "status": "candidate",
-      "created_at": "2026-10-21T16:55:18+0900"
-    },
-    {
       "seed_id": "seed_6726aff1ad03",
       "trend_term": "大手美容医療グループの経営戦略",
       "raw_title": "【IRレポート／SBCメディカルグループホールディングス】年間692万人が利用！ 湘南美容クリニックグループを経営支援、ロンジェビティに挑戦！ - ダイヤモンド・オンライン",
@@ -533,24 +533,6 @@
       "valid_until": "2026-10-25T09:33:25+0900",
       "status": "candidate",
       "created_at": "2026-10-20T09:33:25+0900"
-    },
-    {
-      "seed_id": "seed_61223b2d23d3",
-      "trend_term": "クマ取り合併症・失明事例",
-      "raw_title": "「やらなきゃよかったと…」“クマ取り”施術を受けた20代女性→片目失明の事例も 美容整形の“リスク判断”の難しさ 「合併症を正確に把握するシステムがない」医師が指摘（ABEMA TIMES） - Yahoo!ニュース",
-      "summary": "クマ取り施術後の失明事例が報告されている。医師は合併症を正確に把握するシステムの欠落を指摘。美容整形のリスク判断が課題。",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QdGhjZHNNQms2RGxnNXVlb1hBRG16MGRaVnpLY3ZKRkptR1BwNVcxQkJiM2p3TUo2UjlPSkxnbnUxdTVwVms1eU5DQ0YxUXpNa2d0VEhlOUhMVzNoTEs4V3RCeTVDNHNGWjdCTWZtenJ3cHhjdXhYdG82dVFXMzA?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QdGhjZHNNQms2RGxnNXVlb1hBRG16MGRaVnpLY3ZKRkptR1BwNVcxQkJiM2p3TUo2UjlPSkxnbnUxdTVwVms1eU5DQ0YxUXpNa2d0VEhlOUhMVzNoTEs4V3RCeTVDNHNGWjdCTWZtenJ3cHhjdXhYdG82dVFXMzA?oc=5",
-      "source_name": "Yahoo!ニュース",
-      "monitor_id": "bm-safety-news",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-23T16:22:21+0900",
-      "status": "candidate",
-      "created_at": "2026-10-18T16:22:21+0900"
     },
     {
       "seed_id": "seed_29013724549a",
