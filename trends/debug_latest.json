@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T09:08:00+09:00",
+  "generated_at": "2026-10-23T15:28:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 12,
-    "passed_total": 115,
+    "neg_excluded": 12,
+    "dedup_excluded": 10,
+    "passed_total": 110,
     "b2b_category_counts": {
+      "x_realtime": 8,
       "google_trends": 10,
-      "yahoo_realtime": 36,
-      "x_realtime": 7,
-      "news_web": 13,
+      "yahoo_realtime": 34,
+      "news_web": 14,
       "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 25,
+    "social_reaction": 27,
+    "personal_story": 3,
     "opinion": 10,
-    "personal_story": 5,
-    "policy": 10,
-    "medical_science": 6,
-    "hard_fact": 14
+    "medical_science": 7,
+    "policy": 5,
+    "hard_fact": 18
   },
   "b2b_topic_category_counts": {
+    "social_reaction": 27,
     "opinion": 10,
-    "social_reaction": 25,
-    "policy": 11,
-    "hard_fact": 17,
-    "personal_story": 5,
-    "medical_science": 2
+    "hard_fact": 22,
+    "policy": 5,
+    "personal_story": 3,
+    "medical_science": 3
   },
   "b2b_top10": [
     {
-      "title": "瀬戸康史",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「『囲碁のルールが難しすぎる』と聞くが初心者向けに特化したYouTuberはいる",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "武部新農水相、就任わずか1週間で“企業献金”公選法違反の疑い発覚に「光の速さ」「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "高市首相「足りないのは発信力」　政権1年総括「他国に比べ、物価高対策できている」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "新生銀行",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "小栗旬",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ブラッサム あらすじ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "新しいクレジットカード普通郵便で届いたけどこれって本当に大丈夫なの？配達間違いや",
+      "title": "「ヒーローたちの戦いの記録」PHP対応の緊急メンテナンスが爆速で終了し称賛された",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "76ers vs cavaliers",
+      "title": "阪神 コーチ 退団",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "iphoneデュオ",
+      "title": "ニュースto",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "娘の高校の修学旅行中にある生徒がお土産屋でPayPay払い、ホテルに戻ると「お金",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "m!lkの爆裂ミッション",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "落馬",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "久留里線",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ポケカ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ネルソンズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ジェームズ・ボンド",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
-      "title": "「『囲碁のルールが難しすぎる』と聞くが初心者向けに特化したYouTuberはいる",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "新しいクレジットカード普通郵便で届いたけどこれって本当に大丈夫なの？配達間違いや",
+      "title": "「ヒーローたちの戦いの記録」PHP対応の緊急メンテナンスが爆速で終了し称賛された",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "サンマ不漁が外食を直撃、大戸屋は提供制限　スーパーは仕入れ7割減 - 日本経済新",
+      "title": "娘の高校の修学旅行中にある生徒がお土産屋でPayPay払い、ホテルに戻ると「お金",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ベルギーのクラフトビールに「福島」を思わせる名前で缶に「TSUNAMI」の文字ま",
+      "title": "ガンダム一番くじ「謎の石」の正体がついに判明！ BANDAI SPIRITS担当",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【ドラフト会議】事前にアメリカ行きを表明していた横浜高・織田翔希投手を巨人が“強",
+      "title": "入社2年目で社用携帯を持ち帰らない人がいるけど、指摘することが「時間外の業務指示",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "入社2年目で社用携帯を持ち帰らない人がいるけど指摘することが「時間外の業務指示」",
+      "title": "新幹線に乗ったら先に乗車していたおばちゃんたちが3人掛けシートを回転させて5人グ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "近かったからバイトに応募したのに「一応合格なんですけど別店舗でお願いします」と言",
+      "title": "海外で『鉄拳6』の勝手移植が誕生、これを契機として日本と海外ユーザーの海賊版に対",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "風呂入ろうと思ったら上から風吹いてて、天井見たらなんか穴あいてんだけどなにこれ…",
+      "title": "「このすば展のギルドエリアにある虹色の展示物ってなに」という問いに応えてダクネス",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "瀬戸康史",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "プロ野球 巨人の新監督に松井秀喜氏が就任へ | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "YOASOBI幾田りらの路上ライブが暴いた「再生数と集客」の残酷なギャップ。再生",
+      "title": "現場「これはもうむりです、たすけてください😭」 偉い人「できない、やれない、では",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【快挙】任天堂・宮本茂氏が「文化勲章」を受賞、ゲーム関係者としては初。“ゲームが",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
