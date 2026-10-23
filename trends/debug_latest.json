@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T02:40:00+09:00",
+  "generated_at": "2026-10-23T09:08:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,46 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 2,
-    "dedup_excluded": 11,
-    "passed_total": 119,
+    "neg_excluded": 5,
+    "dedup_excluded": 12,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 39,
       "google_trends": 10,
-      "x_realtime": 8,
-      "yahoo_news_ranking": 2,
-      "news_web": 11
+      "yahoo_realtime": 36,
+      "x_realtime": 7,
+      "news_web": 13,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "personal_story": 5,
+    "social_reaction": 25,
     "opinion": 10,
-    "policy": 11,
+    "personal_story": 5,
+    "policy": 10,
     "medical_science": 6,
-    "hard_fact": 10
+    "hard_fact": 14
   },
   "b2b_topic_category_counts": {
-    "policy": 11,
-    "social_reaction": 28,
     "opinion": 10,
+    "social_reaction": 25,
+    "policy": 11,
+    "hard_fact": 17,
     "personal_story": 5,
-    "hard_fact": 15,
-    "medical_science": 1
+    "medical_science": 2
   },
   "b2b_top10": [
+    {
+      "title": "瀬戸康史",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「『囲碁のルールが難しすぎる』と聞くが初心者向けに特化したYouTuberはいる",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "武部新農水相、就任わずか1週間で“企業献金”公選法違反の疑い発覚に「光の速さ」「",
       "source_category": "yahoo_realtime",
@@ -57,57 +69,63 @@
       "topic_category": "policy"
     },
     {
-      "title": "共和党候補、選挙広告に対立候補の絶縁状態にある母親を起用し炎上 米中間選挙",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "週5×7時間、学生不可、副業NG……丸善ジュンク堂書店の求人情報はどういう人物を",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "nasdaq100",
+      "title": "新生銀行",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "php サ 終",
+      "title": "小栗旬",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "【ドラフト会議】事前にアメリカ行きを表明していた横浜高・織田翔希投手を巨人が“強",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "マグニチュード",
+      "title": "ブラッサム あらすじ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ヤブロネツ 対 ブライトン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "30キロ6000円で販売された訳あり品のお米を実際に購入して検証してみたら…「選",
+      "title": "新しいクレジットカード普通郵便で届いたけどこれって本当に大丈夫なの？配達間違いや",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "76ers vs cavaliers",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "iphoneデュオ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "週5×7時間、学生不可、副業NG……丸善ジュンク堂書店の求人情報はどういう人物を",
+      "title": "「『囲碁のルールが難しすぎる』と聞くが初心者向けに特化したYouTuberはいる",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "新しいクレジットカード普通郵便で届いたけどこれって本当に大丈夫なの？配達間違いや",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "サンマ不漁が外食を直撃、大戸屋は提供制限　スーパーは仕入れ7割減 - 日本経済新",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ベルギーのクラフトビールに「福島」を思わせる名前で缶に「TSUNAMI」の文字ま",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -119,52 +137,34 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "30キロ6000円で販売された訳あり品のお米を実際に購入して検証してみたら…「選",
+      "title": "入社2年目で社用携帯を持ち帰らない人がいるけど指摘することが「時間外の業務指示」",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "近かったからバイトに応募したのに「一応合格なんですけど別店舗でお願いします」と言",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "風呂入ろうと思ったら上から風吹いてて、天井見たらなんか穴あいてんだけどなにこれ…",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "瀬戸康史",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "YOASOBI幾田りらの路上ライブが暴いた「再生数と集客」の残酷なギャップ。再生",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
-    },
-    {
-      "title": "モンゴル草原火災、KDDI「重く受け止め」　東京都2個分が焼失 | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「これもゴミ」登録者91万人のYouTuber所属の会社スタッフ、飲食店のサイン",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "ベルギーのクラフトビールに「福島」を思わせる名前で缶に「TSUNAMI」の文字ま",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ディズニーシーのタートル・トークで「飼ってるカメともっと仲良くなりたい」という人",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "なんの気なしにクラウドワークスで「PHP」と検索したら地獄のような募集見つけて軽",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "1ヶ月1万円生活を打ち切った男ことオードリー春日、伝説のダクト飯などメチャクチャ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
     }
   ]
 }
