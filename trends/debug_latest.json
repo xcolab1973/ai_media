@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T08:58:00+09:00",
+  "generated_at": "2026-10-24T15:28:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,40 +16,36 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
-    "dedup_excluded": 9,
-    "passed_total": 112,
+    "neg_excluded": 6,
+    "dedup_excluded": 10,
+    "passed_total": 116,
     "b2b_category_counts": {
       "yahoo_realtime": 37,
       "google_trends": 10,
       "x_realtime": 8,
-      "news_web": 13,
-      "yahoo_news_ranking": 2
+      "news_web": 12,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
+    "social_reaction": 23,
+    "personal_story": 2,
+    "medical_science": 7,
     "opinion": 10,
-    "policy": 7,
-    "medical_science": 5,
-    "hard_fact": 18
+    "policy": 12,
+    "hard_fact": 16
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
-    "policy": 7,
+    "social_reaction": 22,
+    "policy": 12,
+    "medical_science": 3,
     "opinion": 10,
-    "hard_fact": 21,
-    "medical_science": 2
+    "personal_story": 2,
+    "hard_fact": 21
   },
   "b2b_top10": [
     {
-      "title": "スチームパンク囲碁「ファクトリ囲碁」のセンスが良すぎる…「これで理解できた」とい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "LD&Kの社長の差別発言とCRASSではなくSTEVE IGNORANT BA",
+      "title": "ドラマ『VIVANT』は政権のプロパガンダなのか？｜藤崎剛人",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -67,40 +63,46 @@
       "topic_category": "policy"
     },
     {
-      "title": "選挙中のSNS「収益停止を」　総務省が指針案公表、実効性見通せず - 日本経済新",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "旅サラダ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "typhoon champi (rosal)",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「今まで見たことない損傷」　奈良・東大寺境内などに子鹿の死骸4体　観光への影響懸",
+      "title": "スチームパンク囲碁「ファクトリ囲碁」のセンスが良すぎる…「これで理解できた」とい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "千葉の「JR久留里線」復旧を断念 廃止を待たずに“ラストランなし”で… 台風被害",
+      "title": "フランスのデモに伴う暴動などのデマについてのメモ - 電脳塵芥",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "medical_science"
     },
     {
-      "title": "ローソンでATMから引き出した1万円札を崩すのに500円ほどの買い物、お釣りを数",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "清水エスパルス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "アジア卓球選手権",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "沖縄出身者が下調べをして、与那国の着物で着物割引がある東京の演芸場に行ってきたが",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "g大阪 対 京都",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ラグビー 日本代表",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
@@ -111,58 +113,58 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "LD&Kの社長の差別発言とCRASSではなくSTEVE IGNORANT BA",
+      "title": "沖縄出身者が下調べをして、与那国の着物で着物割引がある東京の演芸場に行ってきたが",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「今まで見たことない損傷」　奈良・東大寺境内などに子鹿の死骸4体　観光への影響懸",
+      "title": "ドラマ『VIVANT』は政権のプロパガンダなのか？｜藤崎剛人",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ローソンでATMから引き出した1万円札を崩すのに500円ほどの買い物、お釣りを数",
+      "title": "進路選択で父に「私就職しまーす進学しませーん！」と伝えたら「はいはーい」と二つ返",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "病院で名前を呼ばれて部屋に入ったらいきなり採血されてすぐに会計に…そこで初めて受",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "修学旅行先で観光客に対して舐めた態度をとって煽っていた子がブチギレられていた…涙",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "40年近く前、実家に税務調査が入り、母が「手製の握り飯と茶」を出したら、職員が「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ブラック企業を退職する前に未消化の有給休暇を申請したら、社長から｢有給使うなら払",
+      "title": "同じ型のパソコンを持ってる同僚が「画面が急に縦になっちゃったんですけど…」と相談",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本共産党・吉田あやか三重県議のSNS上での発信に対する抗議声明と申し入れ｜SW",
+      "title": "フランスのデモに伴う暴動などのデマについてのメモ - 電脳塵芥",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "娘の卒業式で「育ててくれた人」から外された母親に、世の父親たちから「それ、いつも",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「目的超えた個人情報保有は禁止」　個人情報保護委員会が衆院内閣委で見解　陸自〝思",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "旅サラダ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "typhoon champi (rosal)",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "「よっぽど感がある」駐日パレスチナ代表部が異例の公式声明を出したが、日本が「テロ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ]
 }
