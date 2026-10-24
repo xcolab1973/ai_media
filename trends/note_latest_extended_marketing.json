@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T06:30:31+09:00",
+ "generated_at": "2026-10-24T16:41:26+09:00",
  "valid_until": "2026-11-07T06:28:42+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "marketing",
   "from_current": 40,
-  "from_new": 7,
+  "from_new": 2,
   "expired_pruned": 0,
-  "retention_dropped": 6,
+  "retention_dropped": 1,
   "genres": 5,
   "retention_per_genre": 8
  },
@@ -738,6 +738,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "ギフティングのPR表記ルール【2026年最新】｜X公式ポリシーとステマ規制の両対応",
+   "url": "https://tatap.jp/knowledge/x-pr-notation/",
+   "summary": "XでのギフティングのPR表記とステマ規制への対応を扱う解説。企業アカウント運用で表記が必要になる場面の整理に使える。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "marketing-sns",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "tatap",
+    "expert_origin": false,
+    "search_query": "X 運用 ステマ規制 景品表示法 SNS 企業アカウント 2026 PR表記",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-10-29T16:37:23+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "【データで読み解く】Instagram投稿が伸び悩む理由",
    "url": "https://tetemarche.co.jp/column/instagram-ai-algorithm",
    "summary": "Instagramの投稿が伸び悩む要因をアルゴリズム変化の観点から整理した解説。",
@@ -918,36 +948,6 @@
   },
   {
    "source_category": "news_web",
-   "raw_title": "Xギフティング PR表記ルール完全ガイド【2026年3月版】",
-   "url": "https://tatap.jp/knowledge/x-pr-notation/",
-   "summary": "Xでのギフティング施策におけるPR表記とステマ規制対応の解説。年末キャンペーンを企画する担当者が表記漏れで炎上するリスクの確認に使える。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "safety_claim",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "marketing-sns",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "tatap",
-    "expert_origin": false,
-    "search_query": "X 企業アカウント キャンペーン ステマ規制",
-    "freshness": "fresh",
-    "integrity_warning": "claim_hard_but_source_not_expert: 出版前に一次情報で裏取り必須",
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-10-26T06:27:22+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
    "raw_title": "Xのキャンペーン 投票型キャンペーンの注意点",
    "url": "https://www.ownly.jp/sslab/twitter-touhyou-campaign",
    "summary": "X上の投票型キャンペーンの進め方と注意点の記事。景品表示法との関係を含め、実施前に何を確認すべきかの入口。",
@@ -974,6 +974,36 @@
     "rescued": false
    },
    "valid_until": "2026-10-26T06:27:22+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "【2026年10月最新】Googleコアアップデートとは？ 特徴・対策・歴史をしっかり解説",
+   "url": "https://coosy.co.jp/blog/google-core-update/",
+   "summary": "2026年は3月27日〜4月8日と5月21日〜6月2日にコアアップデートが実施。似た記事の量産や独自情報の少ないページで変動が見られたとする分析。順位の下がり幅に応じて見直す範囲を決める。（本文確認済）",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "marketing-web",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "クーシー",
+    "expert_origin": true,
+    "search_query": "Googleコアアップデート 2026年 10月 順位変動 中小サイト 対策",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-10-29T16:37:23+09:00",
    "validity_days": 5
   },
   {
@@ -1184,36 +1214,6 @@
     "rescued": false
    },
    "valid_until": "2026-10-28T06:29:32+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "リスティング広告の CPA が突然高騰した際の改善方法を解説！",
-   "url": "https://www.glad-cube.com/blog/?p=65643",
-   "summary": "リスティング広告でCPAが急に上がったときの原因切り分けと改善の進め方を扱う記事。年末の入札競争が強まる時期に読者が直面しやすい悩み。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "marketing-web",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "glad-cube",
-    "expert_origin": false,
-    "search_query": "広告運用 年末商戦 Q4 CPA高騰 対策 2026",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-10-26T16:38:10+09:00",
    "validity_days": 5
   }
  ]

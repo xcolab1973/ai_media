@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T06:30:30+09:00",
+ "generated_at": "2026-10-24T16:41:26+09:00",
  "valid_until": "2026-11-06T06:28:55+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -8,10 +8,10 @@
  "total_count": 22,
  "merge": {
   "parent": "biz",
-  "from_current": 21,
-  "from_new": 3,
+  "from_current": 22,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 2,
+  "retention_dropped": 1,
   "genres": 3,
   "retention_per_genre": 8
  },
@@ -438,6 +438,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "2割特例の翌年は要注意：簡易課税の届出は“12月31日まで”でOK",
+   "url": "https://wadamasa.com/2%E5%89%B2%E7%89%B9%E4%BE%8B%E3%81%AE%E7%BF%8C%E5%B9%B4%E3%81%AF%E8%A6%81%E6%B3%A8%E6%84%8F%EF%BC%9A%E7%B0%A1%E6%98%93%E8%AA%B2%E7%A8%8E%E3%81%AE%E5%B1%8A%E5%87%BA%E3%81%AF12%E6%9C%8831/",
+   "summary": "2割特例の終了後に簡易課税へ移るときの届出時期を扱う税理士系の解説。タイトルベースの要約で、細かい条件は未確認。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "biz-ec-shop",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "和田正税理士事務所",
+    "expert_origin": true,
+    "search_query": "ネットショップ 個人事業主 2割特例終了後 10月 消費税 簡易課税 届出 いつまで EC運営",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-10-29T16:37:20+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "【2026年10月】インボイス制度の特例措置が終了｜中小企業が今すぐ準備すべき経理対応",
    "url": "https://gxo.co.jp/column/invoice-system-special-measures-end-2026-october",
    "summary": "2割特例終了後の経理対応を扱う解説。小規模ECの二次質問（価格・請求書運用）に展開できる。",
@@ -644,36 +674,6 @@
     "rescued": false
    },
    "valid_until": "2026-10-26T06:27:14+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "invoice 3waritokurei",
-   "url": "https://sogyotecho.jp/invoice-3waritokurei/",
-   "summary": "インボイスの3割特例を扱う解説記事（検索結果の題名・URLに基づく）。2割特例終了後の選択肢として、個人EC運営者が本則・簡易との違いを比べる材料。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "biz-ec-shop",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "sogyotecho.jp",
-    "expert_origin": true,
-    "search_query": "ネットショップ 個人 インボイス 2割特例 終了後 10月以降 本則課税 簡易課税 3割特例 EC 価格",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-10-25T16:36:44+09:00",
    "validity_days": 5
   }
  ]
