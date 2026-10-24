@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T21:14:00+09:00",
+  "generated_at": "2026-10-25T01:17:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,32 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
+    "neg_excluded": 4,
     "dedup_excluded": 12,
-    "passed_total": 113,
+    "passed_total": 116,
     "b2b_category_counts": {
       "yahoo_realtime": 38,
       "google_trends": 10,
-      "yahoo_news_ranking": 4,
-      "x_realtime": 5,
+      "yahoo_news_ranking": 3,
+      "x_realtime": 6,
       "news_web": 13
     }
   },
   "note_category_counts": {
-    "social_reaction": 22,
-    "personal_story": 5,
-    "analysis": 1,
-    "opinion": 9,
-    "policy": 10,
-    "medical_science": 5,
-    "hard_fact": 18
+    "social_reaction": 32,
+    "personal_story": 4,
+    "opinion": 10,
+    "policy": 6,
+    "medical_science": 3,
+    "hard_fact": 15
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 22,
-    "policy": 11,
-    "analysis": 1,
-    "opinion": 9,
-    "hard_fact": 19,
-    "personal_story": 5,
-    "medical_science": 3
+    "social_reaction": 32,
+    "policy": 7,
+    "opinion": 10,
+    "hard_fact": 15,
+    "personal_story": 4,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
@@ -59,49 +57,49 @@
       "topic_category": "policy"
     },
     {
+      "title": "村上龍が亡くなった。今でも村上龍の言葉をスマホに入れて、悔しいことや迷ったときに",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "安住 紳一郎",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "マクドナルドで番号表示されたのに「ポテト揚げるのでお時間いただきます」って言われ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "ドラマ『VIVANT』は政権のプロパガンダなのか？｜藤崎剛人",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "海外生活に強い人というのは『英語がペラペラで国際感覚がある人』ではなく、以下に挙",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "カルディで1番好きな甘口ワイン、桃なんて入ってないはずなのに桃入ってるとしか思え",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ゲリマンダーとは",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "analysis"
-    },
-    {
-      "title": "アストンヴィラ",
+      "title": "チェルシー 対 トッテナム",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "weather tomorrow",
+      "title": "premier league",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "cuaca besok",
+      "title": "arsenal",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "明天的天氣",
+      "title": "the office",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -115,13 +113,31 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "村上龍が亡くなった。今でも村上龍の言葉をスマホに入れて、悔しいことや迷ったときに",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "マクドナルドで番号表示されたのに「ポテト揚げるのでお時間いただきます」って言われ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "海外生活に強い人というのは『英語がペラペラで国際感覚がある人』ではなく、以下に挙",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "カルディで1番好きな甘口ワイン、桃なんて入ってないはずなのに桃入ってるとしか思え",
+      "title": "最近韓国人が日本人を雑に呼ぶ時「タヌキ」って呼んでるの好き、悪意がないって分かる",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "介助され謝る夫に「助け合うため結婚したんだよ」、抱き合って泣くより言葉で理解し合",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -139,34 +155,16 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "「大葉のパスタ」を注文、しそが乗っていなかったので店員さんに聞いたら、は？という",
+      "title": "カルディで1番好きな甘口ワイン、桃なんて入ってないはずなのに桃入ってるとしか思え",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "2か月前に猫が亡くなり落ち込んでいた実家の母から“猫が帰ってきた” と連絡があり",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ゲリマンダーとは",
+      "title": "安住 紳一郎",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
-      "topic_category": "analysis"
-    },
-    {
-      "title": "『悪役令嬢の中の人』なぜ一般ウケしているのか？という投稿にさまざまな意見「悪役令",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『奈良監獄ミュージアム』というところの料金設定、日本在住者と海外在住者、奈良県在",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "topic_category": "opinion"
     }
   ]
 }
