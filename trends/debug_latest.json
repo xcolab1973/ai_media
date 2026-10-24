@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T01:17:00+09:00",
+  "generated_at": "2026-10-25T08:41:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,45 +16,45 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 4,
-    "dedup_excluded": 12,
+    "neg_excluded": 5,
+    "dedup_excluded": 11,
     "passed_total": 116,
     "b2b_category_counts": {
-      "yahoo_realtime": 38,
+      "x_realtime": 7,
+      "yahoo_realtime": 37,
       "google_trends": 10,
-      "yahoo_news_ranking": 3,
-      "x_realtime": 6,
-      "news_web": 13
+      "news_web": 14,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
-    "personal_story": 4,
-    "opinion": 10,
-    "policy": 6,
-    "medical_science": 3,
-    "hard_fact": 15
+    "medical_science": 2,
+    "social_reaction": 37,
+    "opinion": 9,
+    "personal_story": 2,
+    "policy": 3,
+    "hard_fact": 17
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 32,
-    "policy": 7,
-    "opinion": 10,
-    "hard_fact": 15,
-    "personal_story": 4,
-    "medical_science": 2
+    "medical_science": 1,
+    "social_reaction": 37,
+    "opinion": 9,
+    "policy": 4,
+    "hard_fact": 17,
+    "personal_story": 2
   },
   "b2b_top10": [
+    {
+      "title": "食中毒らしき症状で点滴を打つことに…居酒屋での生焼けのつくねを疑って店に電話、「",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "medical_science"
+    },
     {
       "title": "漫画家：田亀源五郎さんインタビュー　pixivFANBOX公開停止の経緯と、性表",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "デンマーク、ミンク養殖を完全廃止へ かつてはミンク毛皮の世界最大の輸出国",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
     },
     {
       "title": "村上龍が亡くなった。今でも村上龍の言葉をスマホに入れて、悔しいことや迷ったときに",
@@ -63,43 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "安住 紳一郎",
+      "title": "corinthians",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "マクドナルドで番号表示されたのに「ポテト揚げるのでお時間いただきます」って言われ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "新潟市長選挙",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "policy"
     },
     {
-      "title": "ドラマ『VIVANT』は政権のプロパガンダなのか？｜藤崎剛人",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "チェルシー 対 トッテナム",
+      "title": "漫遊マラソン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "premier league",
+      "title": "杉原愛子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "arsenal",
+      "title": "パトリック・ハーラン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "the office",
+      "title": "石川佳純",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "天皇陛下 高知",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,6 +107,12 @@
   ],
   "note_top10": [
     {
+      "title": "食中毒らしき症状で点滴を打つことに…居酒屋での生焼けのつくねを疑って店に電話、「",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "medical_science"
+    },
+    {
       "title": "漫画家：田亀源五郎さんインタビュー　pixivFANBOX公開停止の経緯と、性表",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
@@ -119,13 +125,19 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "コンビニおにぎり高騰に｢庶民はもう買えない｣の声…35歳貧乏ライターが1個40～",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "マクドナルドで番号表示されたのに「ポテト揚げるのでお時間いただきます」って言われ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "海外生活に強い人というのは『英語がペラペラで国際感覚がある人』ではなく、以下に挙",
+      "title": "男の下ネタは「おもろいかどうか」が重要であり生々しい話はマウント目的でしかなくて",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -137,34 +149,22 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "介助され謝る夫に「助け合うため結婚したんだよ」、抱き合って泣くより言葉で理解し合",
+      "title": "30年勤めた会社を退職して50歳、転職活動は正社員だとエントリー落ち続きなのでパ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "リニアの神奈川県駅「想像以上に広くて驚き」　JR東海、ホームの工事現場を初公開",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ドラマ『VIVANT』は政権のプロパガンダなのか？｜藤崎剛人",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "女教師にスマホを没収されるもスマホ画面に映っている内容でなにかが起きるイラスト…",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "オフショルダーを着た女性に「その服落ちてこない？」という質問をした知人が「胸で支",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "カルディで1番好きな甘口ワイン、桃なんて入ってないはずなのに桃入ってるとしか思え",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "安住 紳一郎",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ]
 }
