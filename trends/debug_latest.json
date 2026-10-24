@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T15:28:00+09:00",
+  "generated_at": "2026-10-24T21:14:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,48 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 10,
-    "passed_total": 116,
+    "neg_excluded": 7,
+    "dedup_excluded": 12,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
+      "yahoo_realtime": 38,
       "google_trends": 10,
-      "x_realtime": 8,
-      "news_web": 12,
-      "yahoo_news_ranking": 3
+      "yahoo_news_ranking": 4,
+      "x_realtime": 5,
+      "news_web": 13
     }
   },
   "note_category_counts": {
-    "social_reaction": 23,
-    "personal_story": 2,
-    "medical_science": 7,
-    "opinion": 10,
-    "policy": 12,
-    "hard_fact": 16
+    "social_reaction": 22,
+    "personal_story": 5,
+    "analysis": 1,
+    "opinion": 9,
+    "policy": 10,
+    "medical_science": 5,
+    "hard_fact": 18
   },
   "b2b_topic_category_counts": {
     "social_reaction": 22,
-    "policy": 12,
-    "medical_science": 3,
-    "opinion": 10,
-    "personal_story": 2,
-    "hard_fact": 21
+    "policy": 11,
+    "analysis": 1,
+    "opinion": 9,
+    "hard_fact": 19,
+    "personal_story": 5,
+    "medical_science": 3
   },
   "b2b_top10": [
+    {
+      "title": "漫画家：田亀源五郎さんインタビュー　pixivFANBOX公開停止の経緯と、性表",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "デンマーク、ミンク養殖を完全廃止へ かつてはミンク毛皮の世界最大の輸出国",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
     {
       "title": "ドラマ『VIVANT』は政権のプロパガンダなのか？｜藤崎剛人",
       "source_category": "yahoo_realtime",
@@ -51,55 +65,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "経産省、EV補助金の上限を125万円から75万円に引き下げ 令和7年度補正CEV",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "高市首相がガソリン補助金の見直し検討指示　段階的縮小へ、与野党の財政懸念の声踏ま",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "スチームパンク囲碁「ファクトリ囲碁」のセンスが良すぎる…「これで理解できた」とい",
+      "title": "海外生活に強い人というのは『英語がペラペラで国際感覚がある人』ではなく、以下に挙",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "フランスのデモに伴う暴動などのデマについてのメモ - 電脳塵芥",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "清水エスパルス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "アジア卓球選手権",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "沖縄出身者が下調べをして、与那国の着物で着物割引がある東京の演芸場に行ってきたが",
+      "title": "カルディで1番好きな甘口ワイン、桃なんて入ってないはずなのに桃入ってるとしか思え",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "g大阪 対 京都",
+      "title": "ゲリマンダーとは",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "analysis"
+    },
+    {
+      "title": "アストンヴィラ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ラグビー 日本代表",
+      "title": "weather tomorrow",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "cuaca besok",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "明天的天氣",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,13 +109,19 @@
   ],
   "note_top10": [
     {
-      "title": "スチームパンク囲碁「ファクトリ囲碁」のセンスが良すぎる…「これで理解できた」とい",
+      "title": "漫画家：田亀源五郎さんインタビュー　pixivFANBOX公開停止の経緯と、性表",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "沖縄出身者が下調べをして、与那国の着物で着物割引がある東京の演芸場に行ってきたが",
+      "title": "海外生活に強い人というのは『英語がペラペラで国際感覚がある人』ではなく、以下に挙",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "カルディで1番好きな甘口ワイン、桃なんて入ってないはずなのに桃入ってるとしか思え",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,43 +133,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "進路選択で父に「私就職しまーす進学しませーん！」と伝えたら「はいはーい」と二つ返",
+      "title": "オフショルダーを着た女性に「その服落ちてこない？」という質問をした知人が「胸で支",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "病院で名前を呼ばれて部屋に入ったらいきなり採血されてすぐに会計に…そこで初めて受",
+      "title": "「大葉のパスタ」を注文、しそが乗っていなかったので店員さんに聞いたら、は？という",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "2か月前に猫が亡くなり落ち込んでいた実家の母から“猫が帰ってきた” と連絡があり",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ゲリマンダーとは",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "analysis"
+    },
+    {
+      "title": "『悪役令嬢の中の人』なぜ一般ウケしているのか？という投稿にさまざまな意見「悪役令",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "同じ型のパソコンを持ってる同僚が「画面が急に縦になっちゃったんですけど…」と相談",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "フランスのデモに伴う暴動などのデマについてのメモ - 電脳塵芥",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "娘の卒業式で「育ててくれた人」から外された母親に、世の父親たちから「それ、いつも",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「目的超えた個人情報保有は禁止」　個人情報保護委員会が衆院内閣委で見解　陸自〝思",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「よっぽど感がある」駐日パレスチナ代表部が異例の公式声明を出したが、日本が「テロ",
+      "title": "『奈良監獄ミュージアム』というところの料金設定、日本在住者と海外在住者、奈良県在",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
