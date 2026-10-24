@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-24T21:10:30+0900",
+    "generated_at": "2026-10-25T08:34:09+0900",
     "record_count": 33,
-    "source_total_in_db": 1567,
+    "source_total_in_db": 1568,
     "provenance_breakdown": {
       "evidence": 1006,
-      "pain_seed": 561
+      "pain_seed": 562
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_b5d19db5086b",
+      "trend_term": "有名人のボトックス使い分け",
+      "raw_title": "アイドル時代に「足のボトックスはやってた」 板野友美、35歳の今は「顔のボトックスはやらない」 - ニコニコニュース",
+      "summary": "著名人が年代別にボトックス施術の判断を変える実例。若年時の部分施術から加齢に伴う方針転換の事例が読者の判断材料となる。",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hNkZmMkNJTUR1MzAtekNfZjVWV0JEbVUxTWFqU2RMUG9DMU93cjBGY2ZENFJScXh1SlZQMm9JMU1LR0xPZmFRb2ttQ3lUOWpEY0FObQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hNkZmMkNJTUR1MzAtekNfZjVWV0JEbVUxTWFqU2RMUG9DMU93cjBGY2ZENFJScXh1SlZQMm9JMU1LR0xPZmFRb2ttQ3lUOWpEY0FObQ?oc=5",
+      "source_name": "ニコニコニュース",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-08T08:33:51+0900",
+      "status": "candidate",
+      "created_at": "2026-10-25T08:33:51+0900"
+    },
     {
       "seed_id": "seed_3fccade2477c",
       "trend_term": "実績ある美容外科の地方進出",
@@ -389,24 +407,6 @@
       "valid_until": "2026-10-29T08:56:48+0900",
       "status": "candidate",
       "created_at": "2026-10-24T08:56:48+0900"
-    },
-    {
-      "seed_id": "seed_b12a7365846c",
-      "trend_term": "有名人の美容医療カミングアウト",
-      "raw_title": "46歳・山田まりや、糸リフトもボトックスも隠さない。「日帰りで渡韓も」美容と加齢との向き合い方とは - OTONA SALONE",
-      "summary": "46歳タレント山田まりやが糸リフト・ボトックスなど美容医療を公開。加齢との向き合い方や日帰り渡韓での施術について言及。",
-      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4tYW1SRzMySHNCQlBTUUFGSU9ERVpBa1dWTUhodElZaHBfMjVlSWpaMU1sck1uSExNbnJETXNLZzg1Z29pYmc?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4tYW1SRzMySHNCQlBTUUFGSU9ERVpBa1dWTUhodElZaHBfMjVlSWpaMU1sck1uSExNbnJETXNLZzg1Z29pYmc?oc=5",
-      "source_name": "OTONA SALONE",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "opinion",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-07T08:56:37+0900",
-      "status": "candidate",
-      "created_at": "2026-10-24T08:56:37+0900"
     },
     {
       "seed_id": "seed_e4252b94a408",
