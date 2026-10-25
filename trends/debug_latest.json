@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T08:41:00+09:00",
+  "generated_at": "2026-10-25T15:53:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,42 +16,42 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 11,
+    "neg_excluded": 7,
+    "dedup_excluded": 9,
     "passed_total": 116,
     "b2b_category_counts": {
-      "x_realtime": 7,
-      "yahoo_realtime": 37,
+      "x_realtime": 9,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "news_web": 14,
-      "yahoo_news_ranking": 2
+      "news_web": 13,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "medical_science": 2,
-    "social_reaction": 37,
-    "opinion": 9,
-    "personal_story": 2,
-    "policy": 3,
-    "hard_fact": 17
+    "social_reaction": 36,
+    "personal_story": 1,
+    "opinion": 10,
+    "policy": 6,
+    "medical_science": 1,
+    "hard_fact": 16
   },
   "b2b_topic_category_counts": {
-    "medical_science": 1,
-    "social_reaction": 37,
-    "opinion": 9,
-    "policy": 4,
-    "hard_fact": 17,
-    "personal_story": 2
+    "social_reaction": 35,
+    "opinion": 10,
+    "policy": 7,
+    "hard_fact": 16,
+    "personal_story": 1,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "食中毒らしき症状で点滴を打つことに…居酒屋での生焼けのつくねを疑って店に電話、「",
+      "title": "東京湾大華火祭、知り合いに車で送ってもらったのに環二の渋滞で2時間半動けず…トン",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "medical_science"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "漫画家：田亀源五郎さんインタビュー　pixivFANBOX公開停止の経緯と、性表",
+      "title": "英語多読サイト【無料・音声つき】レベル別の読み物1,887本｜イソップ全312話",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -63,43 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "corinthians",
+      "title": "武豊",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "新潟市長選挙",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
+      "title": "知人の職場に「月は存在しない」「ウイルスは政府の陰謀」とか言っている人がいて、書",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "漫遊マラソン",
+      "title": "「村上龍の真骨頂が全部詰め込まれてる」\"13歳のハローワーク\"の作家になりたい人",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ジュビロ磐田",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "杉原愛子",
+      "title": "長谷川忍",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "パトリック・ハーラン",
+      "title": "3連複",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "石川佳純",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "天皇陛下 高知",
+      "title": "牝馬",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,13 +107,13 @@
   ],
   "note_top10": [
     {
-      "title": "食中毒らしき症状で点滴を打つことに…居酒屋での生焼けのつくねを疑って店に電話、「",
+      "title": "東京湾大華火祭、知り合いに車で送ってもらったのに環二の渋滞で2時間半動けず…トン",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "medical_science"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "漫画家：田亀源五郎さんインタビュー　pixivFANBOX公開停止の経緯と、性表",
+      "title": "英語多読サイト【無料・音声つき】レベル別の読み物1,887本｜イソップ全312話",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,45 +125,45 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "コンビニおにぎり高騰に｢庶民はもう買えない｣の声…35歳貧乏ライターが1個40～",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "マクドナルドで番号表示されたのに「ポテト揚げるのでお時間いただきます」って言われ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "男の下ネタは「おもろいかどうか」が重要であり生々しい話はマウント目的でしかなくて",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "最近韓国人が日本人を雑に呼ぶ時「タヌキ」って呼んでるの好き、悪意がないって分かる",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "30年勤めた会社を退職して50歳、転職活動は正社員だとエントリー落ち続きなのでパ",
+      "title": "「村上龍の真骨頂が全部詰め込まれてる」\"13歳のハローワーク\"の作家になりたい人",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "リニアの神奈川県駅「想像以上に広くて驚き」　JR東海、ホームの工事現場を初公開",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「新しい朝がきた、不服の朝だ」不機嫌を隠そうともしない猫、よくよく聞くと「それは",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "女教師にスマホを没収されるもスマホ画面に映っている内容でなにかが起きるイラスト…",
+      "title": "深夜、赤子が寝ぼけて自身の背中を勢いよく叩いてから犯人探しをしていてひりついた話",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "動悸がするので「救心」を買ったら間違えてミニチュアを買ったのか？と思ったほど小さ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "もうすぐデビュー予定のお馬さんのインタビュー映像、調教師さんへの甘え方が可愛すぎ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "香箱座りをしようとすると顔がギリギリになっちゃう猫がかわいい「分かってなさすぎる",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中学生の息子の修学旅行で妻から3万円渡してと言われ、息子に聞いたら「周りそんな感",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
