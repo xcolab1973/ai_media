@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-25T16:45:31+0900",
+    "generated_at": "2026-10-25T21:42:44+0900",
     "record_count": 32,
-    "source_total_in_db": 1570,
+    "source_total_in_db": 1571,
     "provenance_breakdown": {
       "evidence": 1007,
-      "pain_seed": 563
+      "pain_seed": 564
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_cce4af8567a3",
+      "trend_term": "美容医療の安全性リスク",
+      "raw_title": "Netflix「ダウンタイム」で話題の美容業界、ドラマより10倍ドロドロな“闇”…脂肪吸引で死亡した例も - Infoseek",
+      "summary": "脂肪吸引による死亡事例を含む美容医療の危険性について、ドラマ「ダウンタイム」をきっかけに報道。業界の安全管理体制に関する実例が示唆されている。",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvVHlDSXpoRDZwckp2ek9kSzZyOEpiSWVYTWdCM2RQOTBPNEtqaDVrdUY3WmVpaUhScnVMM0Q3Vmt4Z3dQclBycWVPUzlWNk5PZFQyUVBCVzZtanVqTTY5dUZUanBvd9IBa0FVX3lxTE9hOHBUUmtCRFF3dmtOSHBaOVFEQkNZbFV0aXRuZ3FsY01rVkp4b1NzRVhRazJKMXQzVTJaOG9EVWItX1l1OTFPY3pPUWwyN0FEcDVfeUprUEh2eERoY0ZuOVRCWXlVVGtia3lJ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvVHlDSXpoRDZwckp2ek9kSzZyOEpiSWVYTWdCM2RQOTBPNEtqaDVrdUY3WmVpaUhScnVMM0Q3Vmt4Z3dQclBycWVPUzlWNk5PZFQyUVBCVzZtanVqTTY5dUZUanBvd9IBa0FVX3lxTE9hOHBUUmtCRFF3dmtOSHBaOVFEQkNZbFV0aXRuZ3FsY01rVkp4b1NzRVhRazJKMXQzVTJaOG9EVWItX1l1OTFPY3pPUWwyN0FEcDVfeUprUEh2eERoY0ZuOVRCWXlVVGtia3lJ?oc=5",
+      "source_name": "Infoseek",
+      "monitor_id": "bm-market-news",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-30T21:42:38+0900",
+      "status": "candidate",
+      "created_at": "2026-10-25T21:42:38+0900"
+    },
     {
       "seed_id": "seed_2d9bda71637e",
       "trend_term": "形成外科美容クリニック新規開院",
@@ -479,24 +497,6 @@
       "valid_until": "2026-10-28T09:05:45+0900",
       "status": "candidate",
       "created_at": "2026-10-23T09:05:45+0900"
-    },
-    {
-      "seed_id": "seed_9550ac779ef2",
-      "trend_term": "美容医療の経営化・自己実現",
-      "raw_title": "整形総額1000万円超「元東大病院勤務のナース」、7000万円をかけて“理想の美容クリニック”を開業したワケ／2024人気記事top5 - 女子SPA!",
-      "summary": "医療従事者が美容クリニック開業に至った動機と投資規模に関する実例。読者の美容医療への関心度・信頼度醸成の種。",
-      "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAtMHFnVVNUWkRocXVBVTJBTTBVcmdhMG1SWDlhampBWXNQMFFpV19MeFVSdGw0bFJQaC1iTzlkeHpUQQ?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAtMHFnVVNUWkRocXVBVTJBTTBVcmdhMG1SWDlhampBWXNQMFFpV19MeFVSdGw0bFJQaC1iTzlkeHpUQQ?oc=5",
-      "source_name": "女子SPA!",
-      "monitor_id": "bm-market-news",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-05T22:07:22+0900",
-      "status": "candidate",
-      "created_at": "2026-10-22T22:07:22+0900"
     },
     {
       "seed_id": "seed_4432d5425808",
