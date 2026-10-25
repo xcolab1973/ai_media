@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T15:53:00+09:00",
+  "generated_at": "2026-10-25T21:46:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,38 +17,43 @@
       "x_realtime": 10
     },
     "neg_excluded": 7,
-    "dedup_excluded": 9,
-    "passed_total": 116,
+    "dedup_excluded": 10,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "x_realtime": 9,
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 38,
+      "news_web": 15,
       "google_trends": 10,
-      "news_web": 13,
-      "yahoo_news_ranking": 3
+      "x_realtime": 6,
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 36,
-    "personal_story": 1,
+    "social_reaction": 35,
+    "personal_story": 3,
     "opinion": 10,
-    "policy": 6,
-    "medical_science": 1,
-    "hard_fact": 16
+    "hard_fact": 17,
+    "policy": 4,
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
     "social_reaction": 35,
+    "hard_fact": 18,
     "opinion": 10,
-    "policy": 7,
-    "hard_fact": 16,
-    "personal_story": 1,
-    "medical_science": 1
+    "personal_story": 3,
+    "policy": 4
   },
   "b2b_top10": [
     {
-      "title": "東京湾大華火祭、知り合いに車で送ってもらったのに環二の渋滞で2時間半動けず…トン",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "コンビニで19歳の新人女性がほとんど仕事をしないと苦情があり、明らかに職場の空気",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "不正アクセス 官邸主導で対策急ぐ",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     },
     {
       "title": "英語多読サイト【無料・音声つき】レベル別の読み物1,887本｜イソップ全312話",
@@ -57,49 +62,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "村上龍が亡くなった。今でも村上龍の言葉をスマホに入れて、悔しいことや迷ったときに",
+      "title": "音圧戦争はどこへ行ったのか | TOP WING Corp.",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "武豊",
+      "title": "トウシル - 楽天証券の投資情報アプリ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "知人の職場に「月は存在しない」「ウイルスは政府の陰謀」とか言っている人がいて、書",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "title": "セリーグ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "「村上龍の真骨頂が全部詰め込まれてる」\"13歳のハローワーク\"の作家になりたい人",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "妻が「私が月謝を払うので子どもに進研ゼミを始めさせたい」とのこと、理由は同級生が",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ジュビロ磐田",
+      "title": "弊社で50歳代後半から60歳代の社員が「業務の属人化」を強烈に推し進めている生き",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "パンサー向井",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "長谷川忍",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "3連複",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "牝馬",
+      "title": "松村北斗",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,9 +106,9 @@
   ],
   "note_top10": [
     {
-      "title": "東京湾大華火祭、知り合いに車で送ってもらったのに環二の渋滞で2時間半動けず…トン",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "コンビニで19歳の新人女性がほとんど仕事をしないと苦情があり、明らかに職場の空気",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -119,49 +118,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "村上龍が亡くなった。今でも村上龍の言葉をスマホに入れて、悔しいことや迷ったときに",
+      "title": "妻が「私が月謝を払うので子どもに進研ゼミを始めさせたい」とのこと、理由は同級生が",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「村上龍の真骨頂が全部詰め込まれてる」\"13歳のハローワーク\"の作家になりたい人",
+      "title": "弊社で50歳代後半から60歳代の社員が「業務の属人化」を強烈に推し進めている生き",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "音圧戦争はどこへ行ったのか | TOP WING Corp.",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "結婚はハイスペ専用の贅沢品になった。誰も悪くないのに未婚が増える理由｜台田レイジ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "私の目には緑（ミント）に見えるんだけど、家族は水色らしい…私は昔から色の見え方が",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "娘が「おジャ魔女どれみ知ってるよ。人を助けると自分も死ぬやつでしょ」って言ってて",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「新しい朝がきた、不服の朝だ」不機嫌を隠そうともしない猫、よくよく聞くと「それは",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "子供産んで家事して育児して働いて金折半ねって、女にとってどんな罰ゲームだよ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "深夜、赤子が寝ぼけて自身の背中を勢いよく叩いてから犯人探しをしていてひりついた話",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "動悸がするので「救心」を買ったら間違えてミニチュアを買ったのか？と思ったほど小さ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "もうすぐデビュー予定のお馬さんのインタビュー映像、調教師さんへの甘え方が可愛すぎ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "香箱座りをしようとすると顔がギリギリになっちゃう猫がかわいい「分かってなさすぎる",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中学生の息子の修学旅行で妻から3万円渡してと言われ、息子に聞いたら「周りそんな感",
+      "title": "あきれた、日経、女子枠問題に「男子ならくさらず実力を」｜NENENENE@研究",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
