@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T21:46:00+09:00",
+  "generated_at": "2026-10-26T01:51:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,31 +16,31 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
+    "neg_excluded": 10,
     "dedup_excluded": 10,
-    "passed_total": 115,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 38,
-      "news_web": 15,
-      "google_trends": 10,
+      "yahoo_realtime": 37,
       "x_realtime": 6,
-      "yahoo_news_ranking": 1
+      "google_trends": 9,
+      "news_web": 15,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
-    "personal_story": 3,
-    "opinion": 10,
-    "hard_fact": 17,
-    "policy": 4,
+    "social_reaction": 34,
+    "personal_story": 4,
+    "opinion": 9,
+    "policy": 3,
+    "hard_fact": 19,
     "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 35,
-    "hard_fact": 18,
-    "opinion": 10,
-    "personal_story": 3,
-    "policy": 4
+    "social_reaction": 34,
+    "personal_story": 4,
+    "policy": 3,
+    "opinion": 9,
+    "hard_fact": 20
   },
   "b2b_top10": [
     {
@@ -50,10 +50,16 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "不正アクセス 官邸主導で対策急ぐ",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
+      "title": "「不思議な確信があった…」で有名なネットミームの元ネタ『実は私は』が72時間限定",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "ここ数日で一部ざわついている「ゲ謎・鬼太郎作品のファンなのに反戦と言わないのはお",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "英語多読サイト【無料・音声つき】レベル別の読み物1,887本｜イソップ全312話",
@@ -62,43 +68,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "音圧戦争はどこへ行ったのか | TOP WING Corp.",
+      "title": "東京湾大華火祭、知り合いに車で送ってもらったのに環二の渋滞で2時間半動けず…トン",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "「イスラム教徒は繁殖力が半端ない」“音楽界の重鎮”経営者　Xの投稿が“差別”と炎",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "トウシル - 楽天証券の投資情報アプリ",
+      "title": "矢野謙次",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "セリーグ",
+      "title": "土屋伸之",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "妻が「私が月謝を払うので子どもに進研ゼミを始めさせたい」とのこと、理由は同級生が",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "弊社で50歳代後半から60歳代の社員が「業務の属人化」を強烈に推し進めている生き",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "パンサー向井",
+      "title": "liverpool",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "松村北斗",
+      "title": "エプスタイン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -112,55 +112,55 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "「不思議な確信があった…」で有名なネットミームの元ネタ『実は私は』が72時間限定",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "モスクに放火した男へ拘禁刑9年が求刑された事件は、「嘘から出たまこと」が最悪な形",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
       "title": "英語多読サイト【無料・音声つき】レベル別の読み物1,887本｜イソップ全312話",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "妻が「私が月謝を払うので子どもに進研ゼミを始めさせたい」とのこと、理由は同級生が",
+      "title": "「イスラム教徒は繁殖力が半端ない」“音楽界の重鎮”経営者　Xの投稿が“差別”と炎",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "弊社で50歳代後半から60歳代の社員が「業務の属人化」を強烈に推し進めている生き",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "音圧戦争はどこへ行ったのか | TOP WING Corp.",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "結婚はハイスペ専用の贅沢品になった。誰も悪くないのに未婚が増える理由｜台田レイジ",
+      "title": "ここ数日で一部ざわついている「ゲ謎・鬼太郎作品のファンなのに反戦と言わないのはお",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "私の目には緑（ミント）に見えるんだけど、家族は水色らしい…私は昔から色の見え方が",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "娘が「おジャ魔女どれみ知ってるよ。人を助けると自分も死ぬやつでしょ」って言ってて",
+      "title": "「山の木の実ぜんぶ乗せフルーツタルト」を作った動画をアップしたら、「サムネがAI",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "子供産んで家事して育児して働いて金折半ねって、女にとってどんな罰ゲームだよ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "いつも謎なんだけど、都会で車を持っておらず徒歩で買い物に行く人って、米とサラダ油",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "あきれた、日経、女子枠問題に「男子ならくさらず実力を」｜NENENENE@研究",
+      "title": "北朝鮮の韓国侵攻描く「CoD」最新作、韓国で売り上げ首位",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
