@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-25T08:34:09+0900",
-    "record_count": 33,
-    "source_total_in_db": 1568,
+    "generated_at": "2026-10-25T16:45:31+0900",
+    "record_count": 32,
+    "source_total_in_db": 1570,
     "provenance_breakdown": {
-      "evidence": 1006,
-      "pain_seed": 562
+      "evidence": 1007,
+      "pain_seed": 563
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_2d9bda71637e",
+      "trend_term": "形成外科美容クリニック新規開院",
+      "raw_title": "トナリエ星田につくってた「リア形成外科美容クリニック」が開院してる - anna（アンナ）",
+      "summary": "トナリエ星田に新しい形成外科美容クリニックが開院。地域での選択肢増加を示すニュース。",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2azViQUhEa3Z4N3lsUGJIc2tMZm9uVnZZc1FvSUZTVERaU19UNE83OTFKQll4WEMtaXRXMEFBelVDX1BjNUE5WlgwYXdhQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2azViQUhEa3Z4N3lsUGJIc2tMZm9uVnZZc1FvSUZTVERaU19UNE83OTFKQll4WEMtaXRXMEFBelVDX1BjNUE5WlgwYXdhQQ?oc=5",
+      "source_name": "anna（アンナ）",
+      "monitor_id": "bm-market-news",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-30T16:45:26+0900",
+      "status": "candidate",
+      "created_at": "2026-10-25T16:45:26+0900"
+    },
+    {
+      "seed_id": "seed_f16410395a39",
+      "trend_term": "医療広告ガイドライン2026年改正",
+      "raw_title": "美容クリニック向け｜医療広告ガイドラインと通信費削減戦略の最前線レポート【2026年9月版】 - PR TIMES",
+      "summary": "美容クリニック向けに医療広告ガイドラインと通信費削減戦略をまとめた2026年9月版レポート。規制動向の最新情報。",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WMTdONFF0ckNjbnRPc0JxdHFwX0pvRTJjUjY4TjljaFNXUTFSUHRJaEYxbjNVdlpSbEZSOUJjN2JaQkQ1ZXdoTi1paGl1RWxNUjNtOGhHS1I1ZVNKVzFGWlB1T2Z5Q0U1OXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WMTdONFF0ckNjbnRPc0JxdHFwX0pvRTJjUjY4TjljaFNXUTFSUHRJaEYxbjNVdlpSbEZSOUJjN2JaQkQ1ZXdoTi1paGl1RWxNUjNtOGhHS1I1ZVNKVzFGWlB1T2Z5Q0U1OXc?oc=5",
+      "source_name": "PR TIMES",
+      "monitor_id": "bm-market-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "official_instruction",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-10-30T16:45:26+0900",
+      "status": "candidate",
+      "created_at": "2026-10-25T16:45:26+0900"
+    },
     {
       "seed_id": "seed_b5d19db5086b",
       "trend_term": "有名人のボトックス使い分け",
@@ -445,24 +481,6 @@
       "created_at": "2026-10-23T09:05:45+0900"
     },
     {
-      "seed_id": "seed_5c6a133e069b",
-      "trend_term": "湘南美容クリニック新院開設",
-      "raw_title": "2025年4月2日（水）、SBCイテウォンビューティークリニック恵比寿院が新規開院！全国からの指名が集まる「小顔・若返り」のプロフェッショナルが院長就任 - 美ST ONLINE",
-      "summary": "SBCイテウォンビューティークリニック恵比寿院が2025年4月2日に新規開院。小顔・若返り専門の院長配置。",
-      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSZERiYkFjSmt4el9pbE85R3dEVmRHNjczd0FvQjFBLXlad3BFTEpkRjVsSlJ5OG55RWZwS2Rka2NyMFVEckV0cjl2aw?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSZERiYkFjSmt4el9pbE85R3dEVmRHNjczd0FvQjFBLXlad3BFTEpkRjVsSlJ5OG55RWZwS2Rka2NyMFVEckV0cjl2aw?oc=5",
-      "source_name": "美ST ONLINE",
-      "monitor_id": "bm-market-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-27T22:07:22+0900",
-      "status": "candidate",
-      "created_at": "2026-10-22T22:07:22+0900"
-    },
-    {
       "seed_id": "seed_9550ac779ef2",
       "trend_term": "美容医療の経営化・自己実現",
       "raw_title": "整形総額1000万円超「元東大病院勤務のナース」、7000万円をかけて“理想の美容クリニック”を開業したワケ／2024人気記事top5 - 女子SPA!",
@@ -479,24 +497,6 @@
       "valid_until": "2026-11-05T22:07:22+0900",
       "status": "candidate",
       "created_at": "2026-10-22T22:07:22+0900"
-    },
-    {
-      "seed_id": "seed_4121cdc315ae",
-      "trend_term": "肌育製剤の臨床検討",
-      "raw_title": "聖心美容クリニック熱海院・小林美幸院長が「第4回日本美容医師会」で「肌育製剤Porzellan（ポゼラン）」の臨床的検討を発表｜皮膚科専門医の視点から導入方法と今後の可能性を報告｜Infoseekニュース - Infoseek",
-      "summary": "聖心美容クリニック熱海院院長が日本美容医師会で肌育製剤ポゼランの臨床的検討を発表。皮膚科専門医視点での導入方法と可能性を報告",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zbU10WmJvRjBZQm5oRzRhSVdIazR4ZHNNLUVCSmJBd1VPTUYtSE1TdmNyUFEzeDNNTUtnUE9USUdVUkZ0VmhDRzA3ZkxhUmJiQl9lYmxGS2pLSUZXU1kxUlNreUxHRjlZVVBqT1poM1A0QQ?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zbU10WmJvRjBZQm5oRzRhSVdIazR4ZHNNLUVCSmJBd1VPTUYtSE1TdmNyUFEzeDNNTUtnUE9USUdVUkZ0VmhDRzA3ZkxhUmJiQl9lYmxGS2pLSUZXU1kxUlNreUxHRjlZVVBqT1poM1A0QQ?oc=5",
-      "source_name": "Infoseek",
-      "monitor_id": "bm-market-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-27T16:51:39+0900",
-      "status": "candidate",
-      "created_at": "2026-10-22T16:51:39+0900"
     },
     {
       "seed_id": "seed_4432d5425808",
@@ -551,24 +551,6 @@
       "valid_until": "2026-11-04T16:55:12+0900",
       "status": "candidate",
       "created_at": "2026-10-21T16:55:12+0900"
-    },
-    {
-      "seed_id": "seed_38e2d3b52ff6",
-      "trend_term": "美容外科医の労働環境",
-      "raw_title": "ドラマ『ダウンタイム』が映し出す美容整形外科医の現実　転科が多い背景に「医療業界の構造」、当直がなく週休2日で年収2500万円を超えるケースも - ｄメニューニュース",
-      "summary": "美容整形外科医の転科が多い背景に医療業界の構造的問題。当直なし週休2日で年収2500万円超のケースも存在し、医師のキャリア選択と労働条件の実態が明らかに。",
-      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb1h4WnlobFljdnE5Qm9XSjY2a1BkOV81NEljQWNBNk5RR09KdmhGeHB4YmtpbUZfS2tEZmVLUTA4MlFFR1h6Ti1zOE1vVG1kU3pSVjBBNWd5Uk96MFZBUU40NkRhQ1kyaFAyTWNFMHF6MzVTLVNrWTBIUkJHNUhkZy1B0gGCAUFVX3lxTFBvWHhaeWhsWWN2cTlCb1dKNjZrUGQ5XzU0SWNBY0E2TlFHT0p2aEZ4cHhia2ltRl9La0RmZUtRMDgyUUVHWHpOLXM4TW9UbWRTelJWMEE1Z3lST3owVkFRTjQ2RGFDWTJoUDJNY0UwcXozNVMtU2tZMEhSQkc1SGRnLUE?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb1h4WnlobFljdnE5Qm9XSjY2a1BkOV81NEljQWNBNk5RR09KdmhGeHB4YmtpbUZfS2tEZmVLUTA4MlFFR1h6Ti1zOE1vVG1kU3pSVjBBNWd5Uk96MFZBUU40NkRhQ1kyaFAyTWNFMHF6MzVTLVNrWTBIUkJHNUhkZy1B0gGCAUFVX3lxTFBvWHhaeWhsWWN2cTlCb1dKNjZrUGQ5XzU0SWNBY0E2TlFHT0p2aEZ4cHhia2ltRl9La0RmZUtRMDgyUUVHWHpOLXM4TW9UbWRTelJWMEE1Z3lST3owVkFRTjQ2RGFDWTJoUDJNY0UwcXozNVMtU2tZMEhSQkc1SGRnLUE?oc=5",
-      "source_name": "ｄメニューニュース",
-      "monitor_id": "bm-safety-news",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-25T09:33:25+0900",
-      "status": "candidate",
-      "created_at": "2026-10-20T09:33:25+0900"
     },
     {
       "seed_id": "seed_29013724549a",
