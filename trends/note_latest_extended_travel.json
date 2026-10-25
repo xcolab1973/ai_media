@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T16:39:25+09:00",
+ "generated_at": "2026-10-26T06:29:00+09:00",
  "valid_until": "2026-11-08T16:39:00+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "travel",
   "from_current": 16,
-  "from_new": 5,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 5,
+  "retention_dropped": 1,
   "genres": 2,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "数年ぶりの家族での海外旅行のはずが、空港でパスポートの有効期限が5ヶ月なので…と搭乗拒否 残存期間の国際ルール",
+   "url": "https://news.yahoo.co.jp/articles/a1d6c76433dbd83e75e09a50310655c09a17c051",
+   "summary": "パスポートの有効期限内でも、残存期間不足で空港で搭乗拒否になる事例を紹介する記事。国や渡航先ごとに必要な残存期間が違う点が論点。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "travel-abroad",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "ファイナンシャルフィールド(Yahoo!ニュース)",
+    "expert_origin": false,
+    "search_query": "海外旅行 パスポート 残存期間 入国拒否 知恵袋 出発直前 気づいた",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-11-02T06:28:29+09:00",
+   "validity_days": 7
+  },
   {
    "source_category": "news_web",
    "raw_title": "【JALとANA】燃油サーチャージ推移見通し一覧！2026年11～12月はどうなる？",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-10-30T06:30:54+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "数年ぶりの家族での海外旅行が空港で搭乗拒否に　パスポート残存期間の国際ルール",
-   "url": "https://financial-field.com/living/entry-518539",
-   "summary": "パスポートの有効期限が残り5ヶ月で搭乗拒否された例を基に、残存期間ルールを解説する記事。航空券代が無駄になるリスクが焦点。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "travel-abroad",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Financial Field",
-    "expert_origin": false,
-    "search_query": "海外旅行 パスポート 残存期間 足りない 搭乗拒否 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-10-28T06:28:28+09:00",
    "validity_days": 7
   },
   {
