@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T08:31:00+09:00",
+  "generated_at": "2026-10-26T15:59:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,35 +16,46 @@
       "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 7,
-    "passed_total": 106,
+    "neg_excluded": 12,
+    "dedup_excluded": 10,
+    "passed_total": 100,
     "b2b_category_counts": {
-      "yahoo_realtime": 26,
+      "yahoo_realtime": 22,
       "google_trends": 10,
-      "x_realtime": 10,
-      "news_web": 19,
-      "yahoo_news_ranking": 5
+      "x_realtime": 9,
+      "news_web": 23,
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
-    "personal_story": 4,
+    "social_reaction": 24,
     "opinion": 10,
     "policy": 4,
-    "hard_fact": 25,
-    "medical_science": 1
+    "medical_science": 3,
+    "hard_fact": 29
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 26,
-    "policy": 4,
+    "policy": 5,
+    "hard_fact": 29,
+    "social_reaction": 24,
     "opinion": 10,
-    "personal_story": 4,
-    "hard_fact": 26
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "「バイクに限らず車もかなり危険」山道で鉄の棒が刺さった壁を見かけるが、何のために",
+      "title": "GMO熊谷代表「社内ホワイトハッカーが事前に指摘」も対策遅れ、国に「能動的サイバ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "「間隙を突かれた」GMO代表、HPで謝罪　社内専門家から指摘も | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "スタバでお姉さんが残りわずかな飲み物を置いてトイレに…男性が飲み切ったと勘違いし",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -56,49 +67,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "英バーナム首相、EUとの移動自由化検討　復活に「議論必要」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "東京湾大華火祭、知り合いに車で送ってもらったのに環二の渋滞で2時間半動けず…トン",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "ここ数日で一部ざわついている「ゲ謎・鬼太郎作品のファンなのに反戦と言わないのはお",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "su-30",
+      "title": "ラヴィット リンリン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "中村優子",
+      "title": "etc キャンセル 界隈",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "「イスラム教徒は繁殖力が半端ない」“音楽界の重鎮”経営者　Xの投稿が“差別”と炎",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "大野 智 vogue",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "アイドルの方が浜辺で何かの骨を見つけたというポスト→海の骨はネットに上げないほう",
+      "title": "「ホットカーペットの威力が凄まじい、さっそく猫が溶けた」だんだん寒くなってきた中",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "決算",
+      "title": "森直樹",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "自衛隊",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,7 +105,7 @@
   ],
   "note_top10": [
     {
-      "title": "「バイクに限らず車もかなり危険」山道で鉄の棒が刺さった壁を見かけるが、何のために",
+      "title": "スタバでお姉さんが残りわずかな飲み物を置いてトイレに…男性が飲み切ったと勘違いし",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -118,52 +117,52 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「イスラム教徒は繁殖力が半端ない」“音楽界の重鎮”経営者　Xの投稿が“差別”と炎",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「個人的好み」という文言と共に投稿されたふたつの違う髪型のイラスト、どう見ても違",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "アイドルの方が浜辺で何かの骨を見つけたというポスト→海の骨はネットに上げないほう",
+      "title": "「ホットカーペットの威力が凄まじい、さっそく猫が溶けた」だんだん寒くなってきた中",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ここ数日で一部ざわついている「ゲ謎・鬼太郎作品のファンなのに反戦と言わないのはお",
+      "title": "豊かだった欧州でなぜデモが？　インフレの日本との共通点は：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "中日・工藤公康新監督が名古屋で過ごした理不尽で壮絶すぎる少年時代「激しい暴力・血",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "このまま言葉狩りが加速していくと『ハリー・ポッター』の作者が「名前を呼んではいけ",
+      "title": "「後期高齢者の母が入院し、3週間実家で一人暮らしすることになったが、キッチンのス",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "夜7時に隣に越してきた3人が「夜中の音がうるさすぎる」と苦情に来たが心当たりがな",
+      "title": "ドクターイエローの後継「ドクターS」デビュー　東海道・山陽新幹線（朝日新聞） -",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "弊社が運営する「泡盛ストリート」への不正アクセスによる個人情報漏えいに関するお詫",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "これをミスるとPCの全データが消える人「ハァッハァッ…HDD1がコピー元…HDD",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "モスクに放火した男へ拘禁刑9年が求刑された事件は、「嘘から出たまこと」が最悪な形",
+      "title": "『練習とは下手な自分を毎日見ることなので、自己像を守りたい人ほどサボりやすい』継",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「殺人犯の知り合いができたよ！」昔の同僚でカッとしやすい人だったけど普通の人だっ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     }
   ]
 }
