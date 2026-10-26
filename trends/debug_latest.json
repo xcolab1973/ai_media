@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T15:59:00+09:00",
+  "generated_at": "2026-10-26T23:34:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,97 +7,98 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 10,
-    "passed_total": 100,
+    "neg_excluded": 11,
+    "dedup_excluded": 13,
+    "passed_total": 108,
     "b2b_category_counts": {
-      "yahoo_realtime": 22,
+      "yahoo_realtime": 34,
       "google_trends": 10,
-      "x_realtime": 9,
-      "news_web": 23,
-      "yahoo_news_ranking": 6
+      "news_web": 17,
+      "x_realtime": 5,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 24,
+    "social_reaction": 30,
+    "personal_story": 4,
     "opinion": 10,
-    "policy": 4,
-    "medical_science": 3,
-    "hard_fact": 29
+    "policy": 5,
+    "hard_fact": 19,
+    "medical_science": 2
   },
   "b2b_topic_category_counts": {
-    "policy": 5,
-    "hard_fact": 29,
-    "social_reaction": 24,
+    "social_reaction": 30,
     "opinion": 10,
-    "medical_science": 2
+    "policy": 5,
+    "hard_fact": 21,
+    "personal_story": 4
   },
   "b2b_top10": [
     {
-      "title": "GMO熊谷代表「社内ホワイトハッカーが事前に指摘」も対策遅れ、国に「能動的サイバ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "「間隙を突かれた」GMO代表、HPで謝罪　社内専門家から指摘も | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "スタバでお姉さんが残りわずかな飲み物を置いてトイレに…男性が飲み切ったと勘違いし",
+      "title": "本物の銀行アプリを開いたのに「偽画面」 認証情報を盗む詐欺が発生、金融機関が相次",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "（後藤正文の朝からロック）他人に善良求める自分は善良か：朝日新聞",
+      "title": "「コロンブス然り、その辺の感覚が死んでいる」Mrs. GREEN APPLE、新",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ラヴィット リンリン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "etc キャンセル 界隈",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "大野 智 vogue",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「ホットカーペットの威力が凄まじい、さっそく猫が溶けた」だんだん寒くなってきた中",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "親が自営業だった人たちと、親がサラリーマンや雇われの技術職だった人たちは、全然違",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "森直樹",
+      "title": "長男が作ったカレーの味が薄めだったけど「分量通りだよ」と言う。冷蔵庫を見たら間違",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "野球に興味がなく、会社の人に「セ・リーグとパ・リーグってJ1とJ2みたいなもので",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ipad mini",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "自衛隊",
+      "title": "松坂大輔",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "松井玲奈",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ドゥームズデイ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ウクライナでのスターリンク衛星サービス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,61 +106,61 @@
   ],
   "note_top10": [
     {
-      "title": "スタバでお姉さんが残りわずかな飲み物を置いてトイレに…男性が飲み切ったと勘違いし",
+      "title": "本物の銀行アプリを開いたのに「偽画面」 認証情報を盗む詐欺が発生、金融機関が相次",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "（後藤正文の朝からロック）他人に善良求める自分は善良か：朝日新聞",
+      "title": "「コロンブス然り、その辺の感覚が死んでいる」Mrs. GREEN APPLE、新",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ホットカーペットの威力が凄まじい、さっそく猫が溶けた」だんだん寒くなってきた中",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "豊かだった欧州でなぜデモが？　インフレの日本との共通点は：朝日新聞",
+      "title": "親が自営業だった人たちと、親がサラリーマンや雇われの技術職だった人たちは、全然違",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「後期高齢者の母が入院し、3週間実家で一人暮らしすることになったが、キッチンのス",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ドクターイエローの後継「ドクターS」デビュー　東海道・山陽新幹線（朝日新聞） -",
+      "title": "長男が作ったカレーの味が薄めだったけど「分量通りだよ」と言う。冷蔵庫を見たら間違",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "弊社が運営する「泡盛ストリート」への不正アクセスによる個人情報漏えいに関するお詫",
+      "title": "野球に興味がなく、会社の人に「セ・リーグとパ・リーグってJ1とJ2みたいなもので",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "これをミスるとPCの全データが消える人「ハァッハァッ…HDD1がコピー元…HDD",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "美術品ガチャ — Gacha Gallery",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『練習とは下手な自分を毎日見ることなので、自己像を守りたい人ほどサボりやすい』継",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "音楽映画の海　Vol.16『ジュディ・シル 贖罪のシンガーソングライター』その人",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "PLAYTECHのTシャツとエレキギター弦3パックがセットに！プレテクハッピーセ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「殺人犯の知り合いができたよ！」昔の同僚でカッとしやすい人だったけど普通の人だっ",
+      "title": "テレビに絵を流しっぱなしにして文化資本の格差を減らすアプリ「えをみる」を作った ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "つばきファクトリー秋山眞緒、迫力あふれるバンド編成の武道館ライブで卒業「まだ見ぬ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
