@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T23:34:00+09:00",
+  "generated_at": "2026-10-27T03:53:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,31 +16,31 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
-    "dedup_excluded": 13,
-    "passed_total": 108,
+    "neg_excluded": 8,
+    "dedup_excluded": 14,
+    "passed_total": 110,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
+      "yahoo_realtime": 35,
       "google_trends": 10,
       "news_web": 17,
-      "x_realtime": 5,
-      "yahoo_news_ranking": 4
+      "x_realtime": 6,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "personal_story": 4,
+    "social_reaction": 33,
+    "personal_story": 3,
     "opinion": 10,
     "policy": 5,
-    "hard_fact": 19,
+    "hard_fact": 17,
     "medical_science": 2
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
+    "social_reaction": 33,
     "opinion": 10,
     "policy": 5,
-    "hard_fact": 21,
-    "personal_story": 4
+    "hard_fact": 19,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
@@ -56,10 +56,34 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "親が自営業だった人たちと、親がサラリーマンや雇われの技術職だった人たちは、全然違",
+      "title": "「なにこれ怖」プレイステーションネットワークで、メインアカウントに不審な子供アカ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "窃盗",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "malo gusto",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "堀大輔 ショートスリーパー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "株式会社ギフティ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "長男が作ったカレーの味が薄めだったけど「分量通りだよ」と言う。冷蔵庫を見たら間違",
@@ -68,37 +92,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "野球に興味がなく、会社の人に「セ・リーグとパ・リーグってJ1とJ2みたいなもので",
+      "title": "親が自営業だった人たちと、親がサラリーマンや雇われの技術職だった人たちは、全然違",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ipad mini",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "松坂大輔",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "松井玲奈",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ドゥームズデイ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ウクライナでのスターリンク衛星サービス",
+      "title": "太田光",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -118,7 +118,7 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "親が自営業だった人たちと、親がサラリーマンや雇われの技術職だった人たちは、全然違",
+      "title": "「なにこれ怖」プレイステーションネットワークで、メインアカウントに不審な子供アカ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -130,19 +130,19 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "親が自営業だった人たちと、親がサラリーマンや雇われの技術職だった人たちは、全然違",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "野球に興味がなく、会社の人に「セ・リーグとパ・リーグってJ1とJ2みたいなもので",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "美術品ガチャ — Gacha Gallery",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "音楽映画の海　Vol.16『ジュディ・シル 贖罪のシンガーソングライター』その人",
+      "title": "音楽映画の海　Vol.16ジュディ・シル、その人がそこにいるような時間を体験させ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
@@ -154,13 +154,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "テレビに絵を流しっぱなしにして文化資本の格差を減らすアプリ「えをみる」を作った ",
+      "title": "山崎実業towerや無印良品のおしゃれなキッチン収納アイテム！コーヒーグッズなど",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "つばきファクトリー秋山眞緒、迫力あふれるバンド編成の武道館ライブで卒業「まだ見ぬ",
+      "title": "美術品ガチャ — Gacha Gallery",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
