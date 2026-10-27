@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T03:53:00+09:00",
+  "generated_at": "2026-10-27T09:48:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,89 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 14,
-    "passed_total": 110,
+    "neg_excluded": 10,
+    "dedup_excluded": 7,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 26,
+      "yahoo_news_ranking": 6,
+      "x_realtime": 10,
       "google_trends": 10,
-      "news_web": 17,
-      "x_realtime": 6,
-      "yahoo_news_ranking": 2
+      "news_web": 18
     }
   },
   "note_category_counts": {
     "social_reaction": 33,
     "personal_story": 3,
     "opinion": 10,
-    "policy": 5,
-    "hard_fact": 17,
-    "medical_science": 2
+    "medical_science": 5,
+    "policy": 4,
+    "hard_fact": 15
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
+    "social_reaction": 27,
+    "hard_fact": 23,
     "opinion": 10,
-    "policy": 5,
-    "hard_fact": 19,
-    "personal_story": 3
+    "medical_science": 3,
+    "policy": 6,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "本物の銀行アプリを開いたのに「偽画面」 認証情報を盗む詐欺が発生、金融機関が相次",
+      "title": "平成筑豊鉄道｢2028年度末廃止｣めぐる福岡県の大混乱　開示資料は｢黒塗り｣､県",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「コロンブス然り、その辺の感覚が死んでいる」Mrs. GREEN APPLE、新",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "バズは狙わない「ちふれ」の工夫",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "新人さんが昼休憩は早めに切り上げ、金曜日の夜に残りは来週やってねと言った業務を残",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「なにこれ怖」プレイステーションネットワークで、メインアカウントに不審な子供アカ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "窃盗",
+      "title": "森田茉里恵アナウンサー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "malo gusto",
+      "title": "近藤 真彦",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "堀大輔 ショートスリーパー",
+      "title": "九州大会高校野球",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "株式会社ギフティ",
+      "title": "mufg",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "長男が作ったカレーの味が薄めだったけど「分量通りだよ」と言う。冷蔵庫を見たら間違",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "和菓子",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "親が自営業だった人たちと、親がサラリーマンや雇われの技術職だった人たちは、全然違",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "海洋汚染",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "太田光",
+      "title": "デンベレ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,63 +107,63 @@
   ],
   "note_top10": [
     {
-      "title": "本物の銀行アプリを開いたのに「偽画面」 認証情報を盗む詐欺が発生、金融機関が相次",
+      "title": "平成筑豊鉄道｢2028年度末廃止｣めぐる福岡県の大混乱　開示資料は｢黒塗り｣､県",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「コロンブス然り、その辺の感覚が死んでいる」Mrs. GREEN APPLE、新",
+      "title": "新人さんが昼休憩は早めに切り上げ、金曜日の夜に残りは来週やってねと言った業務を残",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【2027年放送決定！】「デュアルシャドウ～Precure Villain He",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「なにこれ怖」プレイステーションネットワークで、メインアカウントに不審な子供アカ",
+      "title": "アンソロピックがIPOへ、2年で驚異の100倍成長　目論見書に存亡リスク - 日",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "長男が作ったカレーの味が薄めだったけど「分量通りだよ」と言う。冷蔵庫を見たら間違",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "母親が息子の大学に友達が1人もいないのはゲームばかりしてるからと怒り、36万円の",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "親が自営業だった人たちと、親がサラリーマンや雇われの技術職だった人たちは、全然違",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "弟が中学生の時、父からテストで平均95点を超えて学年で5位以内に入ったらボーナス",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "野球に興味がなく、会社の人に「セ・リーグとパ・リーグってJ1とJ2みたいなもので",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "飲食店での「ランチタイムは現金のみ」というのは厳密には決済代行会社との加盟店規約",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "音楽映画の海　Vol.16ジュディ・シル、その人がそこにいるような時間を体験させ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "PLAYTECHのTシャツとエレキギター弦3パックがセットに！プレテクハッピーセ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "シェフを目指す息子が作ってくれた生のさつまいも砂糖がけ「方向性と筋が良い」「伸び",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "山崎実業towerや無印良品のおしゃれなキッチン収納アイテム！コーヒーグッズなど",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "薬局で薬を手に取ったら「こっちの方がお安くて効果もありますよ」と教えてくれる妖精",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "美術品ガチャ — Gacha Gallery",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "何でレインコートはこう作らないんだろう？ある人のアイデアに魅力を感じるも「突風で",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
