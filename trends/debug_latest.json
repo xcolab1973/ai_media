@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T09:48:00+09:00",
+  "generated_at": "2026-10-27T15:50:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,151 +17,151 @@
       "x_realtime": 10
     },
     "neg_excluded": 10,
-    "dedup_excluded": 7,
-    "passed_total": 115,
+    "dedup_excluded": 12,
+    "passed_total": 110,
     "b2b_category_counts": {
-      "yahoo_realtime": 26,
-      "yahoo_news_ranking": 6,
-      "x_realtime": 10,
+      "yahoo_realtime": 35,
+      "x_realtime": 7,
       "google_trends": 10,
-      "news_web": 18
+      "news_web": 15,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "personal_story": 3,
+    "social_reaction": 31,
+    "personal_story": 5,
     "opinion": 10,
     "medical_science": 5,
-    "policy": 4,
-    "hard_fact": 15
+    "hard_fact": 14,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 27,
-    "hard_fact": 23,
+    "social_reaction": 31,
     "opinion": 10,
-    "medical_science": 3,
-    "policy": 6,
-    "personal_story": 1
+    "hard_fact": 17,
+    "policy": 5,
+    "medical_science": 2,
+    "personal_story": 5
   },
   "b2b_top10": [
     {
-      "title": "平成筑豊鉄道｢2028年度末廃止｣めぐる福岡県の大混乱　開示資料は｢黒塗り｣､県",
+      "title": "中国製AI「Qwen3.8」にセキュリティ対策を命じたら勝手に北京のサーバーへデ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "バズは狙わない「ちふれ」の工夫",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
+      "title": "『Pokémon UNITE』サービス終了のお知らせ | 『Pokémon UN",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "新人さんが昼休憩は早めに切り上げ、金曜日の夜に残りは来週やってねと言った業務を残",
+      "title": "年齢差恋愛問題、潜在的に炎上する漫画三銃士を連れてきたよ（鈴木先生、PとJK、女",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "相続税は理不尽・おかしい・廃止すべき？デメリットを回避する生前対策｜相続大辞典｜",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「なんでBが正解だと思ったの？」と聞かれたので説明したら「それ違うから。今後はA",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "森田茉里恵アナウンサー",
+      "title": "異世界転生モノでもチート系が嫌いな理由をしっかり考えてみた結果、努力も選択もなく",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "スズキ・ジムニー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "近藤 真彦",
+      "title": "イーロンマスク",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "九州大会高校野球",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "鳥人間 危険行為の東北大に処分",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "mufg",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "和菓子",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "海洋汚染",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "デンベレ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "ポケモンユナイト サービス終了へ",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_entertainment",
+      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
     {
-      "title": "平成筑豊鉄道｢2028年度末廃止｣めぐる福岡県の大混乱　開示資料は｢黒塗り｣､県",
+      "title": "中国製AI「Qwen3.8」にセキュリティ対策を命じたら勝手に北京のサーバーへデ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "新人さんが昼休憩は早めに切り上げ、金曜日の夜に残りは来週やってねと言った業務を残",
+      "title": "相続税は理不尽・おかしい・廃止すべき？デメリットを回避する生前対策｜相続大辞典｜",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『Pokémon UNITE』サービス終了のお知らせ | 『Pokémon UN",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "年齢差恋愛問題、潜在的に炎上する漫画三銃士を連れてきたよ（鈴木先生、PとJK、女",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「なんでBが正解だと思ったの？」と聞かれたので説明したら「それ違うから。今後はA",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【2027年放送決定！】「デュアルシャドウ～Precure Villain He",
+      "title": "異世界転生モノでもチート系が嫌いな理由をしっかり考えてみた結果、努力も選択もなく",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "アンソロピックがIPOへ、2年で驚異の100倍成長　目論見書に存亡リスク - 日",
+      "title": "外国人が「よう日本人、我が国でエボリューションしたこの寿司はどう？」って見せてく",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "母親が息子の大学に友達が1人もいないのはゲームばかりしてるからと怒り、36万円の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「ヨーロッパでは💦という絵文字を使わないようにしましょう」日本同様ちょいちょい使",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "弟が中学生の時、父からテストで平均95点を超えて学年で5位以内に入ったらボーナス",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "飲食店での「ランチタイムは現金のみ」というのは厳密には決済代行会社との加盟店規約",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "シェフを目指す息子が作ってくれた生のさつまいも砂糖がけ「方向性と筋が良い」「伸び",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "薬局で薬を手に取ったら「こっちの方がお安くて効果もありますよ」と教えてくれる妖精",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "何でレインコートはこう作らないんだろう？ある人のアイデアに魅力を感じるも「突風で",
+      "title": "保育園に行きたくない…と泣く娘が「でも、今夜なめこのお味噌汁とブロッコリーの唐揚",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
