@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T15:50:00+09:00",
+  "generated_at": "2026-10-27T22:38:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,51 +16,57 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
+    "neg_excluded": 8,
     "dedup_excluded": 12,
-    "passed_total": 110,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
-      "x_realtime": 7,
+      "yahoo_realtime": 37,
+      "news_web": 14,
+      "yahoo_news_ranking": 3,
       "google_trends": 10,
-      "news_web": 15,
-      "yahoo_news_ranking": 3
+      "x_realtime": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 31,
-    "personal_story": 5,
+    "social_reaction": 25,
+    "policy": 8,
+    "personal_story": 3,
     "opinion": 10,
-    "medical_science": 5,
-    "hard_fact": 14,
-    "policy": 5
+    "medical_science": 8,
+    "hard_fact": 16
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 31,
+    "policy": 8,
+    "social_reaction": 25,
+    "hard_fact": 19,
     "opinion": 10,
-    "hard_fact": 17,
-    "policy": 5,
-    "medical_science": 2,
-    "personal_story": 5
+    "medical_science": 5,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "中国製AI「Qwen3.8」にセキュリティ対策を命じたら勝手に北京のサーバーへデ",
+      "title": "経済プラス：「上げられるのは法人税だけ」防衛財源で浮上　経済界真っ向反発 | 毎",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "policy"
     },
     {
-      "title": "『Pokémon UNITE』サービス終了のお知らせ | 『Pokémon UN",
+      "title": "レジ袋「一律有料化やめるべき」青山繁晴前環境副大臣、廃止を要求　制度開始から約6",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "policy"
     },
     {
-      "title": "年齢差恋愛問題、潜在的に炎上する漫画三銃士を連れてきたよ（鈴木先生、PとJK、女",
+      "title": "消費減税「極めてコスパ悪い政策」　渡辺・東大名誉教授が国会で意見：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "policy"
+    },
+    {
+      "title": "「日本遺産」６件、認定の取り消し可能性で自治体が対応急ぐ…補助金打ち切りの恐れ・",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
     },
     {
       "title": "相続税は理不尽・おかしい・廃止すべき？デメリットを回避する生前対策｜相続大辞典｜",
@@ -69,99 +75,93 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「なんでBが正解だと思ったの？」と聞かれたので説明したら「それ違うから。今後はA",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "車横転し死亡 定員乗車に潜む危険",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_local",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "異世界転生モノでもチート系が嫌いな理由をしっかり考えてみた結果、努力も選択もなく",
+      "title": "ショートスリーパー育成協会が解散　「1日30分睡眠」実業家が代表、情報商材の募集",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "スズキ・ジムニー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "無料で「絵画」をテレビに流し続けて絵がある日常に慣れるためのアプリ「えをみる」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "イーロンマスク",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "鳥人間 危険行為の東北大に処分",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
+      "title": "ユニクロ 50色ソックス値上げ撤回",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
       "topic_category": "hard_fact"
     },
     {
-      "title": "ポケモンユナイト サービス終了へ",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_entertainment",
-      "topic_category": "hard_fact"
+      "title": "「ぜひ見てってくれ」脱北した元北朝鮮軍人を日本に連れて行くYouTube動画が、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
-      "title": "中国製AI「Qwen3.8」にセキュリティ対策を命じたら勝手に北京のサーバーへデ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "相続税は理不尽・おかしい・廃止すべき？デメリットを回避する生前対策｜相続大辞典｜",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『Pokémon UNITE』サービス終了のお知らせ | 『Pokémon UN",
+      "title": "ショートスリーパー育成協会が解散　「1日30分睡眠」実業家が代表、情報商材の募集",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "年齢差恋愛問題、潜在的に炎上する漫画三銃士を連れてきたよ（鈴木先生、PとJK、女",
+      "title": "無料で「絵画」をテレビに流し続けて絵がある日常に慣れるためのアプリ「えをみる」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「なんでBが正解だと思ったの？」と聞かれたので説明したら「それ違うから。今後はA",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "異世界転生モノでもチート系が嫌いな理由をしっかり考えてみた結果、努力も選択もなく",
+      "title": "「ぜひ見てってくれ」脱北した元北朝鮮軍人を日本に連れて行くYouTube動画が、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "外国人が「よう日本人、我が国でエボリューションしたこの寿司はどう？」って見せてく",
+      "title": "外国人「日本人！！！本当に理解できないんだけど…日本人って生卵をそのままご飯にか",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "母親が息子の大学に友達が1人もいないのはゲームばかりしてるからと怒り、36万円の",
+      "title": "半永久的な契約期間なのに印税が発生しない契約を結ばされた漫画家が出版社を提訴……",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "「ヨーロッパでは💦という絵文字を使わないようにしましょう」日本同様ちょいちょい使",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "保育園に行きたくない…と泣く娘が「でも、今夜なめこのお味噌汁とブロッコリーの唐揚",
+      "title": "羽田空港第1・第2ターミナル駅 旅客用トイレの使用中止について | お知らせ |",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "国連、イスラエルの軍事作戦に危機感 「民族浄化」の恐れ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「成年向け漫画家は一般誌に来るな」という言葉を見た…日本は世界一有名レベルな成年",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
