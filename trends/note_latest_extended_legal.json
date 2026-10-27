@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-27T16:40:02+09:00",
+ "generated_at": "2026-10-28T06:29:36+09:00",
  "valid_until": "2026-11-03T16:37:45+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "legal",
- "total_count": 37,
+ "total_count": 36,
  "merge": {
   "parent": "legal",
-  "from_current": 39,
-  "from_new": 6,
-  "expired_pruned": 3,
-  "retention_dropped": 5,
+  "from_current": 37,
+  "from_new": 0,
+  "expired_pruned": 1,
+  "retention_dropped": 0,
   "genres": 5,
   "retention_per_genre": 8
  },
@@ -944,36 +944,6 @@
     "rescued": false
    },
    "valid_until": "2026-10-30T06:29:16+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "「未払い残業代」の時効は3年! 遅延に対する損害金は請求しても大丈夫?",
-   "url": "https://financial-field.com/household/entry-172136",
-   "summary": "未払い残業代の請求時効は3年。退職後に気づいた人が、いつまでに何を揃えて動くべきか、遅延損害金の扱いも含めて整理する入口記事。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "legal-labor",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "ファイナンシャルフィールド",
-    "expert_origin": true,
-    "search_query": "未払い残業代 請求 時効 3年 退職後 証拠 どうすれば",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-10-28T06:27:09+09:00",
    "validity_days": 7
   },
   {

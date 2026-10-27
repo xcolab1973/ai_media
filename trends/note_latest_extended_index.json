@@ -1,148 +1,148 @@
 {
- "generated_at": "2026-10-27T16:40:03+09:00",
+ "generated_at": "2026-10-28T06:29:37+09:00",
  "schema": "ext-index-1.0",
  "parent_count": 20,
- "total_candidates": 658,
+ "total_candidates": 662,
  "parents": {
   "auto": {
    "file": "note_latest_extended_auto.json",
-   "generated_at": "2026-10-27T06:29:13+09:00",
+   "generated_at": "2026-10-28T06:29:36+09:00",
    "count": 16,
    "freshness_majority": "quarterly",
    "valid_until_max": "2026-11-10T06:27:19+09:00"
   },
   "beauty": {
    "file": "note_latest_extended_beauty.json",
-   "generated_at": "2026-10-27T16:40:02+09:00",
+   "generated_at": "2026-10-28T06:29:36+09:00",
    "count": 32,
    "freshness_majority": "stable",
-   "valid_until_max": "2026-11-10T16:37:13+09:00"
+   "valid_until_max": "2026-11-11T06:27:21+09:00"
   },
   "biz": {
    "file": "note_latest_extended_biz.json",
-   "generated_at": "2026-10-27T16:40:02+09:00",
+   "generated_at": "2026-10-28T06:29:36+09:00",
    "count": 24,
    "freshness_majority": "quarterly",
    "valid_until_max": "2026-11-10T06:27:11+09:00"
   },
   "childcare": {
    "file": "note_latest_extended_childcare.json",
-   "generated_at": "2026-10-27T16:40:02+09:00",
+   "generated_at": "2026-10-28T06:29:36+09:00",
    "count": 16,
    "freshness_majority": "stable",
-   "valid_until_max": "2026-11-10T16:37:12+09:00"
+   "valid_until_max": "2026-11-11T06:27:28+09:00"
   },
   "health": {
    "file": "note_latest_extended_health.json",
-   "generated_at": "2026-10-27T16:40:02+09:00",
+   "generated_at": "2026-10-28T06:29:36+09:00",
    "count": 40,
    "freshness_majority": "stable",
-   "valid_until_max": "2026-11-10T16:37:25+09:00"
+   "valid_until_max": "2026-11-11T06:27:35+09:00"
   },
   "hobby": {
    "file": "note_latest_extended_hobby.json",
-   "generated_at": "2026-10-27T16:40:02+09:00",
+   "generated_at": "2026-10-28T06:29:36+09:00",
    "count": 44,
    "freshness_majority": "stable",
-   "valid_until_max": "2026-11-10T16:37:55+09:00"
+   "valid_until_max": "2026-11-11T06:27:39+09:00"
   },
   "learn": {
    "file": "note_latest_extended_learn.json",
-   "generated_at": "2026-10-27T16:40:02+09:00",
+   "generated_at": "2026-10-28T06:29:36+09:00",
    "count": 16,
    "freshness_majority": "stable",
-   "valid_until_max": "2026-11-10T16:37:02+09:00"
+   "valid_until_max": "2026-11-11T06:27:37+09:00"
   },
   "legal": {
    "file": "note_latest_extended_legal.json",
-   "generated_at": "2026-10-27T16:40:02+09:00",
-   "count": 37,
+   "generated_at": "2026-10-28T06:29:36+09:00",
+   "count": 36,
    "freshness_majority": "quarterly",
    "valid_until_max": "2026-11-03T16:37:45+09:00"
   },
   "life": {
    "file": "note_latest_extended_life.json",
-   "generated_at": "2026-10-27T16:40:02+09:00",
+   "generated_at": "2026-10-28T06:29:36+09:00",
    "count": 56,
    "freshness_majority": "stable",
-   "valid_until_max": "2026-11-10T16:37:37+09:00"
+   "valid_until_max": "2026-11-11T06:27:49+09:00"
   },
   "marketing": {
    "file": "note_latest_extended_marketing.json",
-   "generated_at": "2026-10-27T16:40:02+09:00",
+   "generated_at": "2026-10-28T06:29:36+09:00",
    "count": 40,
    "freshness_majority": "stable",
-   "valid_until_max": "2026-11-10T16:37:41+09:00"
+   "valid_until_max": "2026-11-11T06:27:57+09:00"
   },
   "mgmt": {
    "file": "note_latest_extended_mgmt.json",
-   "generated_at": "2026-10-27T06:29:13+09:00",
+   "generated_at": "2026-10-28T06:29:36+09:00",
    "count": 24,
    "freshness_majority": "stable",
    "valid_until_max": "2026-11-10T06:27:33+09:00"
   },
   "money": {
    "file": "note_latest_extended_money.json",
-   "generated_at": "2026-10-27T16:40:02+09:00",
-   "count": 59,
+   "generated_at": "2026-10-28T06:29:36+09:00",
+   "count": 61,
    "freshness_majority": "quarterly",
-   "valid_until_max": "2026-11-10T16:38:01+09:00"
+   "valid_until_max": "2026-11-11T06:29:11+09:00"
   },
   "relationship": {
    "file": "note_latest_extended_relationship.json",
-   "generated_at": "2026-10-27T16:40:02+09:00",
+   "generated_at": "2026-10-28T06:29:37+09:00",
    "count": 24,
    "freshness_majority": "stable",
-   "valid_until_max": "2026-11-10T16:39:03+09:00"
+   "valid_until_max": "2026-11-11T06:28:49+09:00"
   },
   "review": {
    "file": "note_latest_extended_review.json",
-   "generated_at": "2026-10-27T16:40:02+09:00",
+   "generated_at": "2026-10-28T06:29:37+09:00",
    "count": 32,
    "freshness_majority": "monthly",
    "valid_until_max": "2026-11-09T16:38:07+09:00"
   },
   "skill": {
    "file": "note_latest_extended_skill.json",
-   "generated_at": "2026-10-27T16:40:02+09:00",
-   "count": 46,
+   "generated_at": "2026-10-28T06:29:37+09:00",
+   "count": 47,
    "freshness_majority": "stable",
-   "valid_until_max": "2026-11-10T16:39:06+09:00"
+   "valid_until_max": "2026-11-11T06:29:11+09:00"
   },
   "society": {
    "file": "note_latest_extended_society.json",
-   "generated_at": "2026-10-27T16:40:03+09:00",
-   "count": 45,
+   "generated_at": "2026-10-28T06:29:37+09:00",
+   "count": 46,
    "freshness_majority": "monthly",
    "valid_until_max": "2026-11-09T16:39:21+09:00"
   },
   "sports": {
    "file": "note_latest_extended_sports.json",
-   "generated_at": "2026-10-27T16:40:03+09:00",
+   "generated_at": "2026-10-28T06:29:37+09:00",
    "count": 16,
    "freshness_majority": "stable",
    "valid_until_max": "2026-11-10T06:28:44+09:00"
   },
   "tech": {
    "file": "note_latest_extended_tech.json",
-   "generated_at": "2026-10-27T16:40:03+09:00",
-   "count": 43,
+   "generated_at": "2026-10-28T06:29:37+09:00",
+   "count": 44,
    "freshness_majority": "monthly",
    "valid_until_max": "2026-11-03T16:39:47+09:00"
   },
   "travel": {
    "file": "note_latest_extended_travel.json",
-   "generated_at": "2026-10-27T16:40:03+09:00",
+   "generated_at": "2026-10-28T06:29:37+09:00",
    "count": 16,
    "freshness_majority": "quarterly",
    "valid_until_max": "2026-11-10T16:39:15+09:00"
   },
   "work": {
    "file": "note_latest_extended_work.json",
-   "generated_at": "2026-10-27T16:40:03+09:00",
+   "generated_at": "2026-10-28T06:29:37+09:00",
    "count": 32,
    "freshness_majority": "stable",
-   "valid_until_max": "2026-11-10T16:39:20+09:00"
+   "valid_until_max": "2026-11-11T06:29:03+09:00"
   }
  }
 }

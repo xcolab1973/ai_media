@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T16:40:02+09:00",
+ "generated_at": "2026-10-28T06:29:37+09:00",
  "valid_until": "2026-11-09T16:38:07+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "review",
   "from_current": 32,
-  "from_new": 5,
+  "from_new": 2,
   "expired_pruned": 0,
-  "retention_dropped": 5,
+  "retention_dropped": 1,
   "genres": 4,
   "retention_per_genre": 8
  },
@@ -258,6 +258,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "チケット転売は絶対にやめろ！バンドマンが鳴らした警鐘",
+   "url": "https://browse-music.com/2026/04/23/%E3%83%81%E3%82%B1%E3%83%83%E3%83%88%E8%BB%A2%E5%A3%B2%E3%81%AF%E7%B5%B6%E5%AF%BE%E3%81%AB%E3%82%84%E3%82%81%E3%82%8D%EF%BC%81%E3%83%90%E3%83%B3%E3%83%89%E3%83%9E%E3%83%B3%E3%81%8C%E9%B3%B4%E3%82%89/",
+   "summary": "バンド側の視点からチケット転売への警鐘を鳴らす記事。ファンが取れる行動の角度の種になる。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "review-music",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "browse music",
+    "expert_origin": false,
+    "search_query": "ライブ チケット 転売 規制 不正転売禁止法 2026 ファン 対策",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-11-02T06:28:59+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "公式リセール｜COUNTDOWN JAPAN",
    "url": "https://countdownjapan.jp/2526/ticket/resale/",
    "summary": "年末フェスの公式リセールの案内ページ。行けなくなった人・落選した人の動線の例。",
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-10-30T16:38:53+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "リセールについて（JAPAN JAM系FAQ）",
-   "url": "https://jfes-faq.fesapp.jp/category/show/19?page=1&site_domain=default&sort=sort_new&sort_order=desc",
-   "summary": "フェス公式のリセール(公式再販)に関するFAQ。転売サイトを避け公式手段を使う根拠になる。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "review-music",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "フェス公式FAQ",
-    "expert_origin": true,
-    "search_query": "年末 音楽フェス 紅白 2026 チケット 当落 後 リセール 公式 注意",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-10-30T06:28:40+09:00",
    "validity_days": 5
   },
   {
@@ -738,6 +738,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "2026秋アニメ1話～3話の感想・評価を語る(51作品)【アニ盛第101回】",
+   "url": "https://animedeeply.com/animori/42880/",
+   "summary": "秋アニメの序盤1〜3話を振り返る感想・評価の記事。どれを追うか迷う視聴者向けの切り口。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "review-entame",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "アニメディープリー",
+    "expert_origin": false,
+    "search_query": "アニメ 2026秋アニメ 考察 見るべき 配信 比較 初心者",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-11-02T06:28:59+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "漫画・アニメの考察や引用は著作権上どこまでできる？",
    "url": "https://www.bengo4.com/c_1015/c_17/c_1263/m_1160951/",
    "summary": "考察・感想での引用は出典表示だけでは足りず、必要性・主従関係・改変の有無などが問われる。あらすじ要約と展開のほぼ丸写しは区別される。画像・セリフの扱いや収益化の影響は個別判断（本文確認済）",
@@ -944,36 +974,6 @@
     "rescued": false
    },
    "valid_until": "2026-10-31T16:38:07+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "2026年秋アニメ1話～3話の感想・評価を語る(51作品)【アニ盛第101回】",
-   "url": "https://animedeeply.com/animori/42880/",
-   "summary": "秋アニメ51作品の序盤感想・評価をまとめた記事。序盤で切るか追うかの判断材料になる。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "review-entame",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "アニメディープリー",
-    "expert_origin": false,
-    "search_query": "2026年秋 ドラマ アニメ 考察 最終回 前に見返す 伏線 おすすめ",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-10-31T06:28:33+09:00",
    "validity_days": 5
   }
  ]

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T16:40:02+09:00",
+ "generated_at": "2026-10-28T06:29:36+09:00",
  "valid_until": "2026-11-10T06:27:11+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "biz",
   "from_current": 24,
-  "from_new": 2,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 2,
+  "retention_dropped": 1,
   "genres": 3,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "【第1回公募は10月30日18時まで】新事業進出・ものづくり商業サービス補助金とは？3つの申請枠と補助額・要件を解説｜申請Navi",
+   "url": "https://shinnavi.jp/column/204/",
+   "summary": "第1回公募の締切は2026年10月30日18時。申請枠は革新的新製品・サービス枠、新事業進出枠、グローバル枠の3つ。賃上げ特例で最大9,000万円。付加価値額年平均成長率4.0%以上などの要件あり。（本文確認済）",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "official_instruction",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "biz-subsidy",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "申請Navi",
+    "expert_origin": true,
+    "search_query": "新事業進出・ものづくり商業サービス補助金 第1回 公募 10月30日 締切 電子申請 GビズID",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-11-04T06:27:39+09:00",
+   "validity_days": 7
+  },
   {
    "source_category": "news_web",
    "raw_title": "【12月15日締切】持続化補助金 第20回の準備スケジュールと変更点",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-11-01T06:27:32+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "小規模事業者持続化補助金を受け取るまでの流れ｜申請前から事後手続き",
-   "url": "https://hojyokinnomadoguchi.jp/syokibohojokinjigo/",
-   "summary": "申請前から事後手続きまでの流れを扱う。補助金は後払いである点など、採択後のつまずきを角度にできる。数値は引用しない。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "biz-subsidy",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "補助金の窓口",
-    "expert_origin": false,
-    "search_query": "小規模事業者持続化補助金 令和8年度 公募 締切 採択後 注意",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-10-31T06:28:11+09:00",
    "validity_days": 7
   },
   {
