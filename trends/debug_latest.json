@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T22:38:00+09:00",
+  "generated_at": "2026-10-28T03:23:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,38 +17,50 @@
       "x_realtime": 10
     },
     "neg_excluded": 8,
-    "dedup_excluded": 12,
-    "passed_total": 112,
+    "dedup_excluded": 11,
+    "passed_total": 113,
     "b2b_category_counts": {
       "yahoo_realtime": 37,
-      "news_web": 14,
-      "yahoo_news_ranking": 3,
+      "x_realtime": 7,
       "google_trends": 10,
-      "x_realtime": 6
+      "news_web": 14,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 25,
-    "policy": 8,
-    "personal_story": 3,
+    "social_reaction": 26,
     "opinion": 10,
-    "medical_science": 8,
-    "hard_fact": 16
+    "personal_story": 2,
+    "policy": 7,
+    "medical_science": 7,
+    "hard_fact": 18
   },
   "b2b_topic_category_counts": {
-    "policy": 8,
-    "social_reaction": 25,
-    "hard_fact": 19,
+    "social_reaction": 26,
+    "policy": 7,
+    "hard_fact": 21,
     "opinion": 10,
-    "medical_science": 5,
-    "personal_story": 3
+    "medical_science": 4,
+    "personal_story": 2
   },
   "b2b_top10": [
+    {
+      "title": "「Is this bag yours?」を「これはあなたのかばんですか」と訳すの",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "経済プラス：「上げられるのは法人税だけ」防衛財源で浮上　経済界真っ向反発 | 毎",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
+    },
+    {
+      "title": "「悶々としたもの全てが文章化されてて凄い」ミセスの新曲『シンデレラ』炎上の根本的",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
       "title": "レジ袋「一律有料化やめるべき」青山繁晴前環境副大臣、廃止を要求　制度開始から約6",
@@ -57,28 +69,22 @@
       "topic_category": "policy"
     },
     {
-      "title": "消費減税「極めてコスパ悪い政策」　渡辺・東大名誉教授が国会で意見：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "「日本遺産」６件、認定の取り消し可能性で自治体が対応急ぐ…補助金打ち切りの恐れ・",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "相続税は理不尽・おかしい・廃止すべき？デメリットを回避する生前対策｜相続大辞典｜",
+      "title": "登録者数60万人超え人気YouTuberが「既婚＆子どもあり」公表で大炎上…「貧",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "車横転し死亡 定員乗車に潜む危険",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_local",
+      "title": "ユニクロ、ソックス値上げを撤回　まとめ買いも継続「靴下は必需品」：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
+    },
+    {
+      "title": "消費減税「極めてコスパ悪い政策」　渡辺・東大名誉教授が国会で意見：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
     },
     {
       "title": "ショートスリーパー育成協会が解散　「1日30分睡眠」実業家が代表、情報商材の募集",
@@ -87,19 +93,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "無料で「絵画」をテレビに流し続けて絵がある日常に慣れるためのアプリ「えをみる」",
+      "title": "はま寿司とかっぱ寿司では「のり」や「ガリ」に中国産が…　外食チェーンの「中国産食",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ユニクロ 50色ソックス値上げ撤回",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "「ぜひ見てってくれ」脱北した元北朝鮮軍人を日本に連れて行くYouTube動画が、",
+      "title": "相続税は理不尽・おかしい・廃止すべき？デメリットを回避する生前対策｜相続大辞典｜",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -107,7 +107,25 @@
   ],
   "note_top10": [
     {
+      "title": "「Is this bag yours?」を「これはあなたのかばんですか」と訳すの",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「悶々としたもの全てが文章化されてて凄い」ミセスの新曲『シンデレラ』炎上の根本的",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "相続税は理不尽・おかしい・廃止すべき？デメリットを回避する生前対策｜相続大辞典｜",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "登録者数60万人超え人気YouTuberが「既婚＆子どもあり」公表で大炎上…「貧",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -119,13 +137,7 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "無料で「絵画」をテレビに流し続けて絵がある日常に慣れるためのアプリ「えをみる」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ぜひ見てってくれ」脱北した元北朝鮮軍人を日本に連れて行くYouTube動画が、",
+      "title": "はま寿司とかっぱ寿司では「のり」や「ガリ」に中国産が…　外食チェーンの「中国産食",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -137,31 +149,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "半永久的な契約期間なのに印税が発生しない契約を結ばされた漫画家が出版社を提訴……",
+      "title": "「ぜひ見てってくれ」脱北した元北朝鮮軍人を日本に連れて行くYouTube動画が、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ヨーロッパでは💦という絵文字を使わないようにしましょう」日本同様ちょいちょい使",
+      "title": "アマルアマテルアマテラス　01｜IsoMitsuo",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "羽田空港第1・第2ターミナル駅 旅客用トイレの使用中止について | お知らせ |",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "国連、イスラエルの軍事作戦に危機感 「民族浄化」の恐れ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「成年向け漫画家は一般誌に来るな」という言葉を見た…日本は世界一有名レベルな成年",
+      "title": "「絶対少年目線でもおもんないぞ」今の『ジャンプ』のラインナップに落胆する声が続々",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
