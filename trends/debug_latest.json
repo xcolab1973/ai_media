@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T23:32:00+09:00",
+  "generated_at": "2026-10-29T03:31:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,40 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 10,
-    "passed_total": 110,
+    "neg_excluded": 10,
+    "dedup_excluded": 9,
+    "passed_total": 113,
     "b2b_category_counts": {
+      "yahoo_realtime": 35,
       "x_realtime": 7,
-      "yahoo_realtime": 32,
       "google_trends": 10,
-      "news_web": 20,
+      "news_web": 17,
       "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
+    "social_reaction": 33,
     "opinion": 10,
-    "personal_story": 3,
-    "policy": 2,
-    "hard_fact": 22,
-    "medical_science": 3
+    "personal_story": 2,
+    "hard_fact": 19,
+    "medical_science": 4,
+    "policy": 2
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
-    "policy": 2,
+    "hard_fact": 21,
+    "social_reaction": 33,
     "opinion": 10,
-    "hard_fact": 24,
-    "medical_science": 1,
-    "personal_story": 3
+    "policy": 2,
+    "personal_story": 2,
+    "medical_science": 2
   },
   "b2b_top10": [
+    {
+      "title": "【速報】警視庁が個人情報公開された人に保護実施",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
     {
       "title": "「現行時計修理師検定1級問題。この写真の中に謝って落とした部品が1つあります。見",
       "source_category": "x_realtime",
@@ -51,19 +57,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "レコードは、いかにして大きい音をカッティングできるようになったか | TOP W",
+      "title": "ヨドバシ.comで買いたいおやつ - おやつ - はてなパークス",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "政府役職に下地幹郎・元郵政改革相の起用検討、沖縄県知事選挙で出馬撤回の経緯…自民",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "ヨドバシ.comで買いたいおやつ - おやつ - はてなパークス",
+      "title": "レコードは、いかにして大きい音をカッティングできるようになったか | TOP W",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -81,25 +81,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "あさ イチ",
+      "title": "経済産業省",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "松井玲奈",
+      "title": "ポカール",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "菊池 雄星",
+      "title": "apple",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "スカイチケット",
+      "title": "小笠原道大",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,12 +107,6 @@
   ],
   "note_top10": [
     {
-      "title": "「現行時計修理師検定1級問題。この写真の中に謝って落とした部品が1つあります。見",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "ヨドバシ.comで買いたいおやつ - おやつ - はてなパークス",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
@@ -122,6 +116,12 @@
       "title": "「やらなきゃいけない仕事」が進まないのは「サボっている」わけじゃない。専門家が教",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「現行時計修理師検定1級問題。この写真の中に謝って落とした部品が1つあります。見",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -137,15 +137,9 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "英検の二次試験の練習で「Mrs.」を「ミセス」と読んでしまう生徒が激増中。やめて",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "「米津玄師が果物の名前を連呼するだけの幼児向けみたいな神曲を聞いてる」ファンのつ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -155,15 +149,21 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ラスボスが出てきた」着物の話で盛り上がってるX界隈に、徳川慶喜家当主の方が自分",
+      "title": "日本でも米国でもない地域の人から「パールハーバーや原爆があったのに日米は仲良くし",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ページめくる手が止まらないくらい夢中で読めて、最後にうわーってなるおすすめ本教え",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "日本人食いしん坊エピソード…トルクメニスタンに行ったとき、木に実がなっていたので",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "お仕置き部屋、過大請求、200gの鶏肉を20人で分ける……2024年に指定取り消",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
