@@ -2,16 +2,70 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-28T23:20:32+0900",
-    "record_count": 38,
-    "source_total_in_db": 1612,
+    "generated_at": "2026-10-29T10:10:04+0900",
+    "record_count": 37,
+    "source_total_in_db": 1615,
     "provenance_breakdown": {
-      "evidence": 1032,
-      "pain_seed": 580
+      "evidence": 1034,
+      "pain_seed": 581
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_6733164fb330",
+      "trend_term": "エクソソームvs再生医療",
+      "raw_title": "徹底比較！エクソソームとiPS細胞の再生医療の若返り効果の違い Nemesis Netflix (NJeNtcBJd8) - Unisba Media",
+      "summary": "エクソソームとiPS細胞の再生医療における若返り効果の違いについての比較情報。読者の治療選択における不安・疑問に応える角度。",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUlNUV9heGhxeVBtZ2M3Q3BlLTNNZ0JTdTExZXV6MVFzR2pXV1JpU01KakpEM3oteS1YdTJDN2xodFZIZUUtU0pFekNqZHEtYkFhNGE2dHc0WVRja3JuV1o1djZpNjhPU0xxSnM4QUJlR0J1dFZIRWRIZjZXTWtFMUF3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUlNUV9heGhxeVBtZ2M3Q3BlLTNNZ0JTdTExZXV6MVFzR2pXV1JpU01KakpEM3oteS1YdTJDN2xodFZIZUUtU0pFekNqZHEtYkFhNGE2dHc0WVRja3JuV1o1djZpNjhPU0xxSnM4QUJlR0J1dFZIRWRIZjZXTWtFMUF3?oc=5",
+      "source_name": "Unisba Media",
+      "monitor_id": "bm-regen-news",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-03T10:09:56+0900",
+      "status": "candidate",
+      "created_at": "2026-10-29T10:09:56+0900"
+    },
+    {
+      "seed_id": "seed_19b4ee84b204",
+      "trend_term": "ボトックス持続期間の部位別差",
+      "raw_title": "『ボトックス注射』の効果は何カ月もつ？ 眉間・目尻・エラで違う注意点を医師が解説 - メディカルドック",
+      "summary": "ボトックス注射の効果持続期間が眉間・目尻・エラで異なることを医師が解説。部位別の注意点を扱う記事。",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zeHhqUExZX29jSzdFbGFJWXgwRHVSUjFYWWk0Yk1zWnVDZDdPZjU2TkR5Y0RoZ2FPQW5VdnV1NXhYVUtfV1Vseld3SlZQVnNLanktNW9OZWxEeUNl?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zeHhqUExZX29jSzdFbGFJWXgwRHVSUjFYWWk0Yk1zWnVDZDdPZjU2TkR5Y0RoZ2FPQW5VdnV1NXhYVUtfV1Vseld3SlZQVnNLanktNW9OZWxEeUNl?oc=5",
+      "source_name": "メディカルドック",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "soft_fact",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-12T10:09:48+0900",
+      "status": "candidate",
+      "created_at": "2026-10-29T10:09:48+0900"
+    },
+    {
+      "seed_id": "seed_7884db2a8ca4",
+      "trend_term": "スキンブースター中南米展開",
+      "raw_title": "APRがMEDICUBEスキンブースターをチリ供給 医療機器で中南米展開拡大 - Chosunbiz",
+      "summary": "APRがMEDICUBEスキンブースターをチリに供給開始。医療機器メーカーの地域別展開ニュース。",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xMlhVMnJ5eC1nVWtZQVdWbWJpTmhoRm1hN0ZHa1dLMTl3c0JnM3QtS0dqYW9sSmVSV01zaTE4SUZyd0JQV1BNVEU5MF9TUzI3SGFIMmcyMDl6M0xRNkdIcVpoSWJ0ZlhCY1pyaWFreFAtc2JsR0x5Ukg0aG1aeFXSAZMBQVVfeXFMTW4wcFNGblcxdWE5OEdGYkJVbzRvU2g2VTRDLUZ0NXAzeGpRTkxOLVlHWjZqZ29TZ2o4d0d4cU1uUHlsLTdGRzJuU2pVTzJWb0NQdmFRV2Vsbzc5SUdCOTZnSFF6cGxUNm5wZGtIUk5nZUJSX3cwWWtWTGtUV2hlUWZ2dHlEajk3YU9Oa3RGeGhJOTBr?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xMlhVMnJ5eC1nVWtZQVdWbWJpTmhoRm1hN0ZHa1dLMTl3c0JnM3QtS0dqYW9sSmVSV01zaTE4SUZyd0JQV1BNVEU5MF9TUzI3SGFIMmcyMDl6M0xRNkdIcVpoSWJ0ZlhCY1pyaWFreFAtc2JsR0x5Ukg0aG1aeFXSAZMBQVVfeXFMTW4wcFNGblcxdWE5OEdGYkJVbzRvU2g2VTRDLUZ0NXAzeGpRTkxOLVlHWjZqZ29TZ2o4d0d4cU1uUHlsLTdGRzJuU2pVTzJWb0NQdmFRV2Vsbzc5SUdCOTZnSFF6cGxUNm5wZGtIUk5nZUJSX3cwWWtWTGtUV2hlUWZ2dHlEajk3YU9Oa3RGeGhJOTBr?oc=5",
+      "source_name": "Chosunbiz",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-03T10:09:48+0900",
+      "status": "candidate",
+      "created_at": "2026-10-29T10:09:48+0900"
+    },
     {
       "seed_id": "seed_73005e262178",
       "trend_term": "ヒアルロン酸注入の指導医",
@@ -301,24 +355,6 @@
       "created_at": "2026-10-27T22:29:36+0900"
     },
     {
-      "seed_id": "seed_cd75214d73a3",
-      "trend_term": "ヒアルロン酸市場成長予測2032年",
-      "raw_title": "世界医療美容ヒアルロン酸注入市場調査2026：2032年12517百万米ドル規模を展望 - ワクワクニュース",
-      "summary": "世界医療美容ヒアルロン酸注入市場が2032年に12517百万米ドル規模と予測。市場動向を示すデータ。",
-      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nYTV5RzFDVWo5cmhfOGpJbUtJRVRqcWlYMUlMODZINmt6S1BQYUlGMU5Gd2huLUU4UzJuVWlLbjJ0eV9kVWxHLWJGX0lMT2JWLUE?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nYTV5RzFDVWo5cmhfOGpJbUtJRVRqcWlYMUlMODZINmt6S1BQYUlGMU5Gd2huLUU4UzJuVWlLbjJ0eV9kVWxHLWJGX0lMT2JWLUE?oc=5",
-      "source_name": "ワクワクニュース",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-01T22:29:36+0900",
-      "status": "candidate",
-      "created_at": "2026-10-27T22:29:36+0900"
-    },
-    {
       "seed_id": "seed_3da6fbaaa259",
       "trend_term": "美容管理中毒",
       "raw_title": "美しく、健康でなければ生きづらい？ 韓国で広がる「管理中毒」と終わりなき自己改善競争 - JBpress",
@@ -389,24 +425,6 @@
       "valid_until": "2026-11-01T17:14:56+0900",
       "status": "candidate",
       "created_at": "2026-10-27T17:14:56+0900"
-    },
-    {
-      "seed_id": "seed_3ef2ba897930",
-      "trend_term": "hADM配合スキンブースター",
-      "raw_title": "【ベンスクリニック新宿院】韓国で話題のhADM配合スキンブースター「リトゥオ（Re2O）」「ティシボ（TISSIVO） - ニコニコニュース",
-      "summary": "韓国で話題のhADM配合スキンブースター「リトゥオ」「ティシボ」が新規導入された。複数成分・製品の組み合わせ選択肢が増加。",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EdWpoSGUxT3VnNmpsODlFbHc0NEpxZ0xja1pmbnRHSVY1WFlIWF9KWi13T2VQOEZuTjFXS2RBVm5JRjE3X1NuUjI1NW9lWWF2Wms3ag?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EdWpoSGUxT3VnNmpsODlFbHc0NEpxZ0xja1pmbnRHSVY1WFlIWF9KWi13T2VQOEZuTjFXS2RBVm5JRjE3X1NuUjI1NW9lWWF2Wms3ag?oc=5",
-      "source_name": "ニコニコニュース",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-01T17:14:37+0900",
-      "status": "candidate",
-      "created_at": "2026-10-27T17:14:37+0900"
     },
     {
       "seed_id": "seed_0d9b967990ba",
@@ -643,24 +661,6 @@
       "created_at": "2026-10-24T21:10:16+0900"
     },
     {
-      "seed_id": "seed_bd10fbf5c080",
-      "trend_term": "秋冬再生医療型スキンケア",
-      "raw_title": "〈秋冬スキンケア速報2025〉再生医療から生まれた、“未来型アイテム”とは - VOCE",
-      "summary": "2025年秋冬のスキンケアトレンドとして再生医療由来の『未来型アイテム』が注目されている。季節別の肌悩み対応の角度。",
-      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBfYy12bTByVG9IZlROZUwzbUNMOHdTb29MaEFaWnU2eUxIYXRNWjJCLUhFYUlHSE56MmtIQnRUelBxZGJyR2c?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBfYy12bTByVG9IZlROZUwzbUNMOHdTb29MaEFaWnU2eUxIYXRNWjJCLUhFYUlHSE56MmtIQnRUelBxZGJyR2c?oc=5",
-      "source_name": "VOCE",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-29T21:10:16+0900",
-      "status": "candidate",
-      "created_at": "2026-10-24T21:10:16+0900"
-    },
-    {
       "seed_id": "seed_aca81ed3eea4",
       "trend_term": "芸能人ビフォーアフター公開",
       "raw_title": "研ナオコ、“美容整形”ビフォーアフター公開 『ダウンタイム』劇的変貌にSNS驚愕 - オリコンニュース",
@@ -677,24 +677,6 @@
       "valid_until": "2026-10-29T16:32:07+0900",
       "status": "candidate",
       "created_at": "2026-10-24T16:32:07+0900"
-    },
-    {
-      "seed_id": "seed_e1796bdc831f",
-      "trend_term": "フィラー注射事故多発",
-      "raw_title": "「プチ整形」のつもりが失明・鼻欠損、包茎手術でも性器壊死…フィラー注射の事故多発 専門家「メスより安全誤り」（1/4ページ） - 産経ニュース",
-      "summary": "フィラー注射による失明・鼻欠損などの事故が多発。プチ整形は「メスより安全」という誤認が背景にある専門家指摘。包茎手術での性器壊死事例も報告。",
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14aGdCZjlEUmlqcmdvZnM0akRMWmxseE54clpteDN5b3ItWllFVlFsT1d1SkNtTDZLQVV3WnRoc29ibno1OXh3Yl9mSUQ1ano1Rjk1QS04dkV6T2FkM0I1X1h0VmlLcnR1QjcwS2pEVkhZSndTQ1E?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14aGdCZjlEUmlqcmdvZnM0akRMWmxseE54clpteDN5b3ItWllFVlFsT1d1SkNtTDZLQVV3WnRoc29ibno1OXh3Yl9mSUQ1ano1Rjk1QS04dkV6T2FkM0I1X1h0VmlLcnR1QjcwS2pEVkhZSndTQ1E?oc=5",
-      "source_name": "産経ニュース",
-      "monitor_id": "bm-safety-news",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-29T08:56:53+0900",
-      "status": "candidate",
-      "created_at": "2026-10-24T08:56:53+0900"
     }
   ]
 }
