@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-29T17:46:27+0900",
+    "generated_at": "2026-10-29T23:35:58+0900",
     "record_count": 36,
-    "source_total_in_db": 1617,
+    "source_total_in_db": 1618,
     "provenance_breakdown": {
-      "evidence": 1035,
+      "evidence": 1036,
       "pain_seed": 582
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_75df5a02c133",
+      "trend_term": "日系クリニックの欧州展開",
+      "raw_title": "【ロンドン発】英国最大※の日系美容クリニック「MIYAKO SKIN CLINIC」開院1周年。現地で築いた信頼を土台に、日本の美容を欧州へ。 - PR TIMES",
+      "summary": "英国最大規模の日系美容クリニック「MIYAKO SKIN CLINIC」が開院1周年を迎え、日本の美容医療サービスを欧州へ展開する動き",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GWWxfd2g4MGhtSkZmOWY5aFNfRmc4OEs0UE5qYTBoYXpfUFlHcHN4ZlNvMFYyOElnQnNWaWJ3RGlPa0xHSlN4ZUFTNXZjWktZM0l3V3A5X1NTbUtwX2hVSFZ1VjJmdzc1Vnc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GWWxfd2g4MGhtSkZmOWY5aFNfRmc4OEs0UE5qYTBoYXpfUFlHcHN4ZlNvMFYyOElnQnNWaWJ3RGlPa0xHSlN4ZUFTNXZjWktZM0l3V3A5X1NTbUtwX2hVSFZ1VjJmdzc1Vnc?oc=5",
+      "source_name": "PR TIMES",
+      "monitor_id": "bm-market-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-03T23:35:55+0900",
+      "status": "candidate",
+      "created_at": "2026-10-29T23:35:55+0900"
+    },
     {
       "seed_id": "seed_da0055b5d78a",
       "trend_term": "地方美容医療拡大",
@@ -551,24 +569,6 @@
       "valid_until": "2026-11-01T09:42:20+0900",
       "status": "candidate",
       "created_at": "2026-10-27T09:42:20+0900"
-    },
-    {
-      "seed_id": "seed_39949cc3377a",
-      "trend_term": "美容クリニック労働環境問題",
-      "raw_title": "美容外科業界2位「TCB東京中央美容外科」が新人看護師に“一斉クビ宣告”！「人権がないかのような扱いをされ…」看護師たちの悲鳴 - 文春オンライン",
-      "summary": "TCB東京中央美容外科が新人看護師に一斉解雇。看護師から労働条件の問題を指摘する報告。",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oOWVjeXRvMlN4Y2VmMklZNmhSTXI0NVpndG5pcFJyZElCclFmbE01MjNtRmJzU2R3NVc1RkdYOFBNc2pFblhtM0d3SUhtTzJVSmRJWg?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oOWVjeXRvMlN4Y2VmMklZNmhSTXI0NVpndG5pcFJyZElCclFmbE01MjNtRmJzU2R3NVc1RkdYOFBNc2pFblhtM0d3SUhtTzJVSmRJWg?oc=5",
-      "source_name": "文春オンライン",
-      "monitor_id": "bm-market-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-31T23:29:47+0900",
-      "status": "candidate",
-      "created_at": "2026-10-26T23:29:47+0900"
     },
     {
       "seed_id": "seed_5bdee2180be3",
