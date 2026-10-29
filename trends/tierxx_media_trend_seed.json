@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-29T10:10:04+0900",
-    "record_count": 37,
-    "source_total_in_db": 1615,
+    "generated_at": "2026-10-29T17:46:27+0900",
+    "record_count": 36,
+    "source_total_in_db": 1617,
     "provenance_breakdown": {
-      "evidence": 1034,
-      "pain_seed": 581
+      "evidence": 1035,
+      "pain_seed": 582
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_da0055b5d78a",
+      "trend_term": "地方美容医療拡大",
+      "raw_title": "福島・旭町に「おやま形成外科美容クリニック」 - 福島経済新聞",
+      "summary": "福島県旭町に形成外科美容クリニックが新規開院。地方での美容医療施設の展開事例。",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JU3lfMlhWNXJLYjJnMFEwbS11cXhhRVBjMjhyeGhzcTFYeDJkODU2dFl0b0tRUkRhNnFINXhubmdNRmdnVjlhY0Q5Ny1tV1hRbUlidGxn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JU3lfMlhWNXJLYjJnMFEwbS11cXhhRVBjMjhyeGhzcTFYeDJkODU2dFl0b0tRUkRhNnFINXhubmdNRmdnVjlhY0Q5Ny1tV1hRbUlidGxn?oc=5",
+      "source_name": "福島経済新聞",
+      "monitor_id": "bm-market-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-03T17:46:23+0900",
+      "status": "candidate",
+      "created_at": "2026-10-29T17:46:23+0900"
+    },
+    {
+      "seed_id": "seed_52a7129897c9",
+      "trend_term": "エクソソーム療法の安全性",
+      "raw_title": "第189回 エクソソーム療法で死亡事故？日本再生医療学会が規制を求める中、真偽不明の“噂”が拡散し再生医療業界混乱中 - CareNet.com",
+      "summary": "日本再生医療学会が規制を求める中、エクソソーム療法に関する死亡事故の真偽不明な情報が拡散し、再生医療業界で混乱が生じている。",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DNFJTQUdTYXFiMFhSZDYtSkJNN01WRkdNbk5yR1MtT3ljQnFCNVRJQkpUV1F5TWw3eXFUd0tqZzgtOTBRbjV1Y29uZzhIZEp3cmhr?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DNFJTQUdTYXFiMFhSZDYtSkJNN01WRkdNbk5yR1MtT3ljQnFCNVRJQkpUV1F5TWw3eXFUd0tqZzgtOTBRbjV1Y29uZzhIZEp3cmhr?oc=5",
+      "source_name": "CareNet.com",
+      "monitor_id": "bm-regen-news",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "safety_claim",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-03T17:46:16+0900",
+      "status": "candidate",
+      "created_at": "2026-10-29T17:46:16+0900"
+    },
     {
       "seed_id": "seed_6733164fb330",
       "trend_term": "エクソソームvs再生医療",
@@ -571,24 +607,6 @@
       "created_at": "2026-10-26T23:29:32+0900"
     },
     {
-      "seed_id": "seed_342f90d6d54c",
-      "trend_term": "英国の日系美容クリニック",
-      "raw_title": "【ロンドン発】英国最大※の日系美容クリニック「MIYAKO SKIN CLINIC」開院1周年。現地で築いた信頼を土台に、日本の美容を欧州へ。 - 時事ドットコム",
-      "summary": "英国最大規模の日系美容クリニック「MIYAKO SKIN CLINIC」が開院1周年。現地での信頼構築と日本の美容技術の欧州展開実績。",
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VRDA5Tm5BejhIYklIU2lvLXRUbEluWGNmTnBIckZ1LXBxbWJRYko2SWd6ZWNadngwakNPcWFlSW91TzUtZVk1TGpHMlhWSFZVNEFYSncyWGpTcGREek1ucEExb1RFRmpaZ2Vv?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VRDA5Tm5BejhIYklIU2lvLXRUbEluWGNmTnBIckZ1LXBxbWJRYko2SWd6ZWNadngwakNPcWFlSW91TzUtZVk1TGpHMlhWSFZVNEFYSncyWGpTcGREek1ucEExb1RFRmpaZ2Vv?oc=5",
-      "source_name": "時事ドットコム",
-      "monitor_id": "bm-market-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-31T17:01:33+0900",
-      "status": "candidate",
-      "created_at": "2026-10-26T17:01:33+0900"
-    },
-    {
       "seed_id": "seed_a3b628b93ce3",
       "trend_term": "美容外科医の労働環境と年収構造",
       "raw_title": "ドラマ『ダウンタイム』が映し出す美容整形外科医の現実 転科が多い背景に「医療業界の構造」、当直がなく週休2日で年収2500万円を超えるケースも - SmartNews",
@@ -641,42 +659,6 @@
       "valid_until": "2026-10-31T08:28:38+0900",
       "status": "candidate",
       "created_at": "2026-10-26T08:28:38+0900"
-    },
-    {
-      "seed_id": "seed_1c6bb459ff41",
-      "trend_term": "幹細胞培養上清液インプラント",
-      "raw_title": "幹細胞培養上清液を使用した革新的な骨再生インプラント治療の提供を開始 - Newscast.jp",
-      "summary": "幹細胞培養上清液を使用した骨再生インプラント治療の提供が開始された。再生医療技術の医療応用実績。",
-      "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9UdGwwWDNmSUh5WXZOZC1zTjV6bGl3Vi1wYVJ3WjQ4NEU3M0EzYjhEbFltdEQySTNFUk0zaUpUWFZBbkxKOFlj?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9UdGwwWDNmSUh5WXZOZC1zTjV6bGl3Vi1wYVJ3WjQ4NEU3M0EzYjhEbFltdEQySTNFUk0zaUpUWFZBbkxKOFlj?oc=5",
-      "source_name": "Newscast.jp",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-29T21:10:16+0900",
-      "status": "candidate",
-      "created_at": "2026-10-24T21:10:16+0900"
-    },
-    {
-      "seed_id": "seed_aca81ed3eea4",
-      "trend_term": "芸能人ビフォーアフター公開",
-      "raw_title": "研ナオコ、“美容整形”ビフォーアフター公開 『ダウンタイム』劇的変貌にSNS驚愕 - オリコンニュース",
-      "summary": "研ナオコが美容整形のビフォーアフターを公開。ダウンタイムの劇的な変化がSNSで話題に。実際の施術経験と回復過程の可視化が読者の意思決定参考情報となる。",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QcV9DQ2t5VEFRU2NKS1pub1REOXBsMnhSaFlNSzVlb1RKZXVZUml2RXBCOU1pVHo0T3pIeVVlU0tudVZTdXQ4Z0l1MW5BaXlqRmo1WnB3?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QcV9DQ2t5VEFRU2NKS1pub1REOXBsMnhSaFlNSzVlb1RKZXVZUml2RXBCOU1pVHo0T3pIeVVlU0tudVZTdXQ4Z0l1MW5BaXlqRmo1WnB3?oc=5",
-      "source_name": "オリコンニュース",
-      "monitor_id": "bm-sns-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-29T16:32:07+0900",
-      "status": "candidate",
-      "created_at": "2026-10-24T16:32:07+0900"
     }
   ]
 }
