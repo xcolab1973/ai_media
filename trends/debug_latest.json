@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T10:12:00+09:00",
+  "generated_at": "2026-10-29T16:40:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 7,
-    "passed_total": 116,
+    "neg_excluded": 8,
+    "dedup_excluded": 11,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
+      "x_realtime": 6,
+      "yahoo_realtime": 38,
       "google_trends": 10,
-      "x_realtime": 9,
       "news_web": 14,
-      "yahoo_news_ranking": 1
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 34,
-    "personal_story": 4,
-    "opinion": 8,
-    "medical_science": 6,
-    "hard_fact": 17,
+    "social_reaction": 31,
+    "personal_story": 6,
+    "opinion": 9,
+    "medical_science": 4,
+    "hard_fact": 19,
     "policy": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 34,
-    "personal_story": 4,
+    "social_reaction": 30,
+    "personal_story": 6,
+    "opinion": 9,
     "hard_fact": 20,
-    "opinion": 8,
     "policy": 1,
-    "medical_science": 3
+    "medical_science": 4
   },
   "b2b_top10": [
     {
-      "title": "ヨドバシ.comで買いたいおやつ - おやつ - はてなパークス",
+      "title": "かなり若手の後輩から『巻き取れそうな部分があればやらせてください！』というチャッ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「レジ袋が有料でこれが無料なのバグだろ」調理師専門学校主席、元板前の人が公開した",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "着信から送金まで「スマホを操作して」体験、ニセ警察詐欺を再現した無料ゲーム「騙さ",
+      "title": "宇宙での電力転送を目的とするベンチャー企業のメンバーが人や車が行き交う河川敷でレ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「確かにこれは…おちりへのダメージが少ない…」35歳になって医者から正しい大便の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "彼女にぬい活をやめてほしい…",
+      "title": "SUUMOを見て問い合わせた不動産屋に行った人、希望と違う物件ばかり紹介され、し",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "サムスン 株価",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
+      "title": "ロシア人「私は日本人に向けて『君たちを尊敬してるよ、みんな最高だ』と書いたのに、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
-      "title": "ジェイコブ・ミジオロウスキー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ペリカンズ 対 ナゲッツ",
+      "title": "坂本拓己",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "nec 株価",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "サムスン 決算",
+      "title": "文春 matt",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "eu",
+      "title": "加藤あい",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "キオクシア 決算",
+      "title": "中部電力",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
-      "title": "ヨドバシ.comで買いたいおやつ - おやつ - はてなパークス",
+      "title": "「レジ袋が有料でこれが無料なのバグだろ」調理師専門学校主席、元板前の人が公開した",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "着信から送金まで「スマホを操作して」体験、ニセ警察詐欺を再現した無料ゲーム「騙さ",
+      "title": "宇宙での電力転送を目的とするベンチャー企業のメンバーが人や車が行き交う河川敷でレ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "かなり若手の後輩から『巻き取れそうな部分があればやらせてください！』というチャッ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「確かにこれは…おちりへのダメージが少ない…」35歳になって医者から正しい大便の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "彼女にぬい活をやめてほしい…",
+      "title": "美味しくて手軽に飲める紅茶を知りたい！→日東紅茶、トワイニングなどスーパーで買え",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "4月に復職したワーママ友が「子育てしながら働くの発狂する…」と嘆くので詳しく話を",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "SUUMOを見て問い合わせた不動産屋に行った人、希望と違う物件ばかり紹介され、し",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "仏環境政党トップ、エムバペ選手を擁護「毛沢東を独裁者と呼んだのは完全に正しい」",
+      "title": "ロシア人「私は日本人に向けて『君たちを尊敬してるよ、みんな最高だ』と書いたのに、",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "関西人の『おもんないわ』はマジでどうしようもないやつに対する対話拒絶に近いらしい",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "美容院で猫の話題になり、「猫って元々日本にはいなかったんですか？」の質問をきっか",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "保育園帰りにお砂遊びしよって言われたから頑張って掘ってたらあかんやつ掘り当てたw",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "家の鍵を忘れたため急遽半休を取ることに…帰宅したら鍵の挿し口にビニール袋がかかっ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "本や雑誌、大阪も発売日が「首都圏から1日遅れ」に　出版取次が提案：朝日新聞",
+      "title": "夫は「こんなの着せて恥ずかしくないの？」と言うが、私には子供を見失ってベビーカー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "日本でも米国でもない地域の人から「パールハーバーや原爆があったのに日米は仲良くし",
+      "title": "「町田は町田」でちょうどいい。佐藤満春さんが子育てを機にUターンして見つけた‟終",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
