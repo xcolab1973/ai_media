@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T03:31:00+09:00",
+  "generated_at": "2026-10-29T10:12:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,46 +16,34 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 9,
-    "passed_total": 113,
+    "neg_excluded": 9,
+    "dedup_excluded": 7,
+    "passed_total": 116,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
-      "x_realtime": 7,
+      "yahoo_realtime": 36,
       "google_trends": 10,
-      "news_web": 17,
+      "x_realtime": 9,
+      "news_web": 14,
       "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "opinion": 10,
-    "personal_story": 2,
-    "hard_fact": 19,
-    "medical_science": 4,
-    "policy": 2
+    "social_reaction": 34,
+    "personal_story": 4,
+    "opinion": 8,
+    "medical_science": 6,
+    "hard_fact": 17,
+    "policy": 1
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 21,
-    "social_reaction": 33,
-    "opinion": 10,
-    "policy": 2,
-    "personal_story": 2,
-    "medical_science": 2
+    "social_reaction": 34,
+    "personal_story": 4,
+    "hard_fact": 20,
+    "opinion": 8,
+    "policy": 1,
+    "medical_science": 3
   },
   "b2b_top10": [
-    {
-      "title": "【速報】警視庁が個人情報公開された人に保護実施",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "「現行時計修理師検定1級問題。この写真の中に謝って落とした部品が1つあります。見",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
     {
       "title": "ヨドバシ.comで買いたいおやつ - おやつ - はてなパークス",
       "source_category": "yahoo_realtime",
@@ -63,43 +51,55 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "レコードは、いかにして大きい音をカッティングできるようになったか | TOP W",
+      "title": "着信から送金まで「スマホを操作して」体験、ニセ警察詐欺を再現した無料ゲーム「騙さ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "彼女にぬい活をやめてほしい…",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「やらなきゃいけない仕事」が進まないのは「サボっている」わけじゃない。専門家が教",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "サムスン 株価",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "Panasonicのドアホンをデジカメに改造し写真撮影、その写真が世界的な賞を受",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "経済産業省",
+      "title": "ジェイコブ・ミジオロウスキー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ポカール",
+      "title": "ペリカンズ 対 ナゲッツ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "apple",
+      "title": "nec 株価",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "サムスン 決算",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "小笠原道大",
+      "title": "eu",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "キオクシア 決算",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,57 +113,57 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「やらなきゃいけない仕事」が進まないのは「サボっている」わけじゃない。専門家が教",
+      "title": "着信から送金まで「スマホを操作して」体験、ニセ警察詐欺を再現した無料ゲーム「騙さ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "彼女にぬい活をやめてほしい…",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「現行時計修理師検定1級問題。この写真の中に謝って落とした部品が1つあります。見",
+      "title": "仏環境政党トップ、エムバペ選手を擁護「毛沢東を独裁者と呼んだのは完全に正しい」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "関西人の『おもんないわ』はマジでどうしようもないやつに対する対話拒絶に近いらしい",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "レコードは、いかにして大きい音をカッティングできるようになったか | TOP W",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Panasonicのドアホンをデジカメに改造し写真撮影、その写真が世界的な賞を受",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「米津玄師が果物の名前を連呼するだけの幼児向けみたいな神曲を聞いてる」ファンのつ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「家族で温泉旅行来てる」ベッドの上で飛び跳ねる動きが完全に古のネットミーム再現…",
+      "title": "美容院で猫の話題になり、「猫って元々日本にはいなかったんですか？」の質問をきっか",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "保育園帰りにお砂遊びしよって言われたから頑張って掘ってたらあかんやつ掘り当てたw",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "家の鍵を忘れたため急遽半休を取ることに…帰宅したら鍵の挿し口にビニール袋がかかっ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "本や雑誌、大阪も発売日が「首都圏から1日遅れ」に　出版取次が提案：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "日本でも米国でもない地域の人から「パールハーバーや原爆があったのに日米は仲良くし",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日本人食いしん坊エピソード…トルクメニスタンに行ったとき、木に実がなっていたので",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "お仕置き部屋、過大請求、200gの鶏肉を20人で分ける……2024年に指定取り消",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
