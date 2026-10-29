@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T23:40:00+09:00",
+  "generated_at": "2026-10-30T03:40:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,97 +7,99 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 8,
-    "passed_total": 107,
+    "neg_excluded": 6,
+    "dedup_excluded": 7,
+    "passed_total": 119,
     "b2b_category_counts": {
-      "yahoo_realtime": 28,
+      "yahoo_realtime": 39,
+      "x_realtime": 10,
       "google_trends": 10,
-      "yahoo_news_ranking": 5,
-      "x_realtime": 9,
-      "news_web": 18
+      "yahoo_news_ranking": 1,
+      "news_web": 10
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "opinion": 9,
-    "medical_science": 3,
-    "hard_fact": 25,
-    "policy": 5
+    "social_reaction": 29,
+    "personal_story": 4,
+    "opinion": 10,
+    "hard_fact": 16,
+    "policy": 8,
+    "medical_science": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
-    "opinion": 9,
-    "hard_fact": 24,
-    "policy": 6,
-    "medical_science": 3
+    "policy": 9,
+    "social_reaction": 29,
+    "hard_fact": 17,
+    "opinion": 10,
+    "personal_story": 4,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "「レジ袋が有料でこれが無料なのバグだろ」調理師専門学校主席、元板前の人が公開した",
+      "title": "電気・ガス代補助１２月～来年２月実施、標準的過程７０００円程度の負担軽減見込み…",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "国会議事堂で売ってた朱肉が余りにも高貴すぎて買ってしまった「これは印泥ですよね、",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "policy"
+    },
+    {
+      "title": "VIVANT×サンリオキャラクターズ コラボレーション終了に関するお知らせ | ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "遠藤憲一",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "サンリオがドラマ「VIVANT」とコラボ終了を発表　声明で謝罪：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "「2日間で63,000円もゆうちょ銀行に盗まれた」と言っている人がいたので、何事",
+      "title": "高市首相「ご高齢の方に働いていただく」投稿が炎上　G7欠席騒動の最中...過去の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "首相、ガソリン「12月から毎月5円上げ」　電気・ガス支援は計7000円程度 - ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "多摩動物公園で死んだライオン３頭、死因は熱中症…猛暑で多臓器不全",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "宇宙での電力転送を目的とするベンチャー企業のメンバーが人や車が行き交う河川敷でレ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ホワイトハッカー",
+      "title": "日本u-17 対 kenya u-17",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "チェキ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "富士フイルム",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "インフルエンサー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "トイザらス 閉店",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "古舘伊知郎",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "桜島",
+      "title": "twitch",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,7 +107,19 @@
   ],
   "note_top10": [
     {
-      "title": "「レジ袋が有料でこれが無料なのバグだろ」調理師専門学校主席、元板前の人が公開した",
+      "title": "宇宙での電力転送を目的とするベンチャー企業のメンバーが人や車が行き交う河川敷でレ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "VIVANT×サンリオキャラクターズ コラボレーション終了に関するお知らせ | ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "無印良品週間はコレ買って！ 頭皮ブラシやイヤホン、収納ボックスなどおすすめアイテ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -117,52 +131,40 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「2日間で63,000円もゆうちょ銀行に盗まれた」と言っている人がいたので、何事",
+      "title": "松江 3校の児童ら300人近く体調不良 同じセンター提供の給食後 | NHKニュ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「測ったら120cmになってた」人生で一番髪が長い状態がホラーっぽさもある…帽子",
+      "title": "ダイソーのレンチン温泉卵、「流石に爆発するっしょwww」と思いながら使ったら、案",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "韓国・民泊経営者、日本と韓国の客の「利用後写真」を比較…「国籍で一般化しないで」",
+      "title": "少子化、オタク趣味の流行、恋愛離れ……日本固有と言われていた現象が近年では世界全",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "草津温泉のライブカメラで気温確認しようとしたら、深夜1時に寒空の中突然自撮りメイ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "銀行は「雨の日に傘を取り上げ、晴れの日に傘を貸す」と言われるが、それは日本企業の",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "みそ業界はヤバい「みそ屋の私が出来る３つの事」みそレシピまとめ｜マルカワみそ　河",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "闇金ウシジマくんわりと好きなんだけど、あまりに世界が悪意的すぎて逆にリアリティが",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "終末期だった母、意識がある時はごくごく飲みたいと喉を掻きむしりながら苦しんでおり",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "歌手・矢野顕子氏「音楽のプロとは思えない質問ですいませんが、CDをiPhoneや",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "学校から『ドングリを拾って鍋で茹でるか冷凍して持ってきてください』とお便りが来た",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "遠藤憲一",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "topic_category": "personal_story"
     }
   ]
 }
