@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-30T10:17:03+0900",
+    "generated_at": "2026-10-30T17:53:00+0900",
     "record_count": 37,
-    "source_total_in_db": 1622,
+    "source_total_in_db": 1624,
     "provenance_breakdown": {
-      "evidence": 1039,
-      "pain_seed": 583
+      "evidence": 1040,
+      "pain_seed": 584
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_0a69203a2152",
+      "trend_term": "ボトックス失敗リスク",
+      "raw_title": "「目が開かない」「怒り眉」…『ボトックス』3つの失敗はなぜ起きる？ 防ぎ方を医師が解説 (メディカルドック) - Yahoo!ニュース",
+      "summary": "ボトックス施術における「目が開かない」「怒り眉」などの失敗事例と、医師による防止方法の解説",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT0VaV1NCbUtuQ05tTGVOTHVtVVo0RGVhMTZMTjVZWnhNRmhJcy0zUEdIanFadmdZZWZMYW9FUFVLakJJanZrbXpKbVAxd0dnamwyM2JKUkR3VVd6bXU1X240NC1sSGRLN3BHMkFZY2hscl9SUDRFdHJwSUJIS1llMDk0aXpWeVJqMnRGS0VR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT0VaV1NCbUtuQ05tTGVOTHVtVVo0RGVhMTZMTjVZWnhNRmhJcy0zUEdIanFadmdZZWZMYW9FUFVLakJJanZrbXpKbVAxd0dnamwyM2JKUkR3VVd6bXU1X240NC1sSGRLN3BHMkFZY2hscl9SUDRFdHJwSUJIS1llMDk0aXpWeVJqMnRGS0VR?oc=5",
+      "source_name": "Yahoo!ニュース",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "soft_fact",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-13T17:52:40+0900",
+      "status": "candidate",
+      "created_at": "2026-10-30T17:52:40+0900"
+    },
+    {
+      "seed_id": "seed_fec20f59b27a",
+      "trend_term": "美容医療の安全性判断",
+      "raw_title": "「ボトックスさえ打たせてくれなかった」人気アイドル、デビュー前の番組出演の裏話を暴露 | スマートニュース - SmartNews",
+      "summary": "人気アイドルがデビュー前の番組出演時にボトックス施術を勧められたが断られたという実例",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93WnlaWDBidloxeHJQYmMwNVVOSF9fY0tNcU9pbUlEU2xYdDUwd3BINUEwRXFjWWVteVZ5Q3Z1eFlCUTJNcVQ1ejVUMnVNNlMzOVhzTGpDNlhNSWdVeXBJek9Scy1sOFNtUUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93WnlaWDBidloxeHJQYmMwNVVOSF9fY0tNcU9pbUlEU2xYdDUwd3BINUEwRXFjWWVteVZ5Q3Z1eFlCUTJNcVQ1ejVUMnVNNlMzOVhzTGpDNlhNSWdVeXBJek9Scy1sOFNtUUE?oc=5",
+      "source_name": "SmartNews",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-13T17:52:40+0900",
+      "status": "candidate",
+      "created_at": "2026-10-30T17:52:40+0900"
+    },
     {
       "seed_id": "seed_37a387560914",
       "trend_term": "再生医療の治療フロー解説",
@@ -337,24 +373,6 @@
       "created_at": "2026-10-28T17:53:02+0900"
     },
     {
-      "seed_id": "seed_2d77cf8c4018",
-      "trend_term": "ヒアルロン酸注入の治療戦略",
-      "raw_title": "【ヒアルロン酸注入の指導医】聖心美容クリニック広島院院長・中辻隆徳医師が「第4回日本美容医師会」でヒアルロン酸注入の治療戦略を発表 - PR TIMES",
-      "summary": "聖心美容クリニック広島院院長・中辻隆徳医師が日本美容医師会でヒアルロン酸注入の治療戦略を発表。医学会での専門家の知見共有",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QUUg2TW1jbnk5MTM5dHNmT1RwZWlwU2M4OHhlOGJnSlNLQV9xVF9wblhQX0ZqMFRMX3NKTXVJbXV1SGNVMFpHUS1KaWdvT2w4SEVaQW02TldENFJqQm9oLU9VdWxJRVlDeWc?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QUUg2TW1jbnk5MTM5dHNmT1RwZWlwU2M4OHhlOGJnSlNLQV9xVF9wblhQX0ZqMFRMX3NKTXVJbXV1SGNVMFpHUS1KaWdvT2w4SEVaQW02TldENFJqQm9oLU9VdWxJRVlDeWc?oc=5",
-      "source_name": "PR TIMES",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-02T17:52:48+0900",
-      "status": "candidate",
-      "created_at": "2026-10-28T17:52:48+0900"
-    },
-    {
       "seed_id": "seed_02f1c298e619",
       "trend_term": "肌再生医療の学術連携",
       "raw_title": "青山レナセルクリニック、 肌の再生医療分野で順天堂大学と共同研究を開始 - アットプレス",
@@ -371,24 +389,6 @@
       "valid_until": "2026-11-02T09:40:50+0900",
       "status": "candidate",
       "created_at": "2026-10-28T09:40:50+0900"
-    },
-    {
-      "seed_id": "seed_337fa982f0b0",
-      "trend_term": "美容医療の後遺症リスク",
-      "raw_title": "《ドラマ『ダウンタイム』で話題》美容医療の光と闇…「不適切な治療によって深刻な後遺症を抱えた患者さんも」 - 文春オンライン",
-      "summary": "ドラマ『ダウンタイン』で題材化された美容医療における不適切な治療による後遺症問題。患者が深刻な被害を抱えるケースが存在することが報道されている。",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXVlVXOWlqdGJodHlkeEJxOG83Q0h2SG5uV19iVjNNV0VnSDVySnZrNDFLVTQ4VWFGMThOZFVVV3B5OGV3bTB5REhWY2pxSFZDVEpqSw?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXVlVXOWlqdGJodHlkeEJxOG83Q0h2SG5uV19iVjNNV0VnSDVySnZrNDFLVTQ4VWFGMThOZFVVV3B5OGV3bTB5REhWY2pxSFZDVEpqSw?oc=5",
-      "source_name": "文春オンライン",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-11T09:40:42+0900",
-      "status": "candidate",
-      "created_at": "2026-10-28T09:40:42+0900"
     },
     {
       "seed_id": "seed_3c5091b2bcc3",
