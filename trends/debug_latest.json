@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T16:43:00+09:00",
+  "generated_at": "2026-10-30T23:34:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,164 +7,162 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 13,
-    "dedup_excluded": 11,
-    "passed_total": 108,
+    "neg_excluded": 11,
+    "dedup_excluded": 8,
+    "passed_total": 103,
     "b2b_category_counts": {
-      "x_realtime": 7,
-      "yahoo_realtime": 31,
+      "yahoo_realtime": 21,
       "google_trends": 10,
-      "news_web": 16,
-      "yahoo_news_ranking": 6
+      "news_web": 22,
+      "x_realtime": 10,
+      "yahoo_news_ranking": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
+    "social_reaction": 20,
     "personal_story": 3,
-    "opinion": 10,
-    "medical_science": 3,
-    "policy": 8,
-    "hard_fact": 20
+    "opinion": 9,
+    "hard_fact": 33,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 26,
-    "opinion": 10,
-    "policy": 8,
-    "hard_fact": 20,
-    "medical_science": 3,
+    "hard_fact": 33,
+    "social_reaction": 20,
+    "opinion": 9,
+    "policy": 5,
     "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "娘が開会式の生徒代表として挨拶するので予定時間より早く到着したが挨拶はすでに終了",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "セブンやユニクロ…5年で1割超す値上げ　「物価上昇率2%」体感とずれ - 日本経",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "誹謗中傷・デマで荒れた沖縄知事選…渦中の玉城デニー前知事が東京新聞に語った：東京",
+      "title": "東京メトロ、29年3月に運賃値上げへ　全面見直しは民営化後初 - 日本経済新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "「ジャングリア沖縄」資金繰り悪化、ＣＥＯ「成長プランの構想をともにつくっていく出",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "姉貴が札幌で開催されるSnow Manのライブのために近くのホテルが取れず、函館",
+      "title": "女性向け風俗「東京秘密基地」、ハッカーがサイバー攻撃を主張、事実なら利用履歴の暴",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "吉田 鋼 太郎 園遊会",
+      "title": "高橋一生",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "14歳の栞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "31日関東-北海道で天気急変に注意",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "キオクシア決算",
+      "title": "紫電改",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "4661",
+      "title": "ff14 ファンフェス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ダージリンを選ぶのは40代以上、20~30代は買わない…世代によってかなり違うの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "首相動静をもとに、歴代総理の就任1年目をわかりやすく視覚化したページが登場、菅総",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "国道55号",
+      "title": "井口浩之",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
+    },
+    {
+      "title": "米子 地震",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
     {
-      "title": "娘が開会式の生徒代表として挨拶するので予定時間より早く到着したが挨拶はすでに終了",
+      "title": "「ジャングリア沖縄」資金繰り悪化、ＣＥＯ「成長プランの構想をともにつくっていく出",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "女性向け風俗「東京秘密基地」、ハッカーがサイバー攻撃を主張、事実なら利用履歴の暴",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "娘が「仲良い子に陸上部に誘われたから今の部をやめたい」と言うのでﾊｧｧ?となった",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "誹謗中傷・デマで荒れた沖縄知事選…渦中の玉城デニー前知事が東京新聞に語った：東京",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "姉貴が札幌で開催されるSnow Manのライブのために近くのホテルが取れず、函館",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "14歳の栞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ダージリンを選ぶのは40代以上、20~30代は買わない…世代によってかなり違うの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「読ませる文章力すごい」Z世代特有の絶望感を綴ったnote記事が賛否を集める、共",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "アメリカの入国審査で『家族が住んでて～』などと言うと難しい事を聞かれたりするので",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「うちにはもう何年も天ぷら粉の常備がない。なぜなら絹豆腐に片栗粉を入れて作った衣",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "たけのこの里をウイスキーに浸して冷蔵庫で冷やすと美味いと聞いてブランデーでやって",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "吉田 鋼 太郎 園遊会",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "認知症は、何もいきなりウンコを塗りたくる訳ではなく、祖父は認知症になった自分がス",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "毎日作ってもいいレベルの手間なのに、美味しい高加水フォカッチャ、ローズマリーを挿",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "2024年の首都圏連続強盗事件、横浜の強盗致死事件に関わった実行役2人に無期懲役",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「電話越しにフロントスタッフを突破するのは私の今後の課題にしておきます！」自律型",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「楽しさを提供する場所とは思えない」池袋のトイザらス・ベビーザらス、突然の閉店に",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ミセスの歌詞は薄っぺらいと批判されてるが「労基に相談しろ」なんて歌詞があってたま",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ポルシェオーナーは「何でポルシェ乗らないの？これからポルシェの時代だよ？」と押し",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ]
 }
