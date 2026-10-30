@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T10:20:00+09:00",
+  "generated_at": "2026-10-30T16:43:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,164 +7,164 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 9,
-    "passed_total": 104,
+    "neg_excluded": 13,
+    "dedup_excluded": 11,
+    "passed_total": 108,
     "b2b_category_counts": {
+      "x_realtime": 7,
+      "yahoo_realtime": 31,
       "google_trends": 10,
-      "yahoo_realtime": 25,
-      "x_realtime": 9,
-      "news_web": 22,
-      "yahoo_news_ranking": 4
+      "news_web": 16,
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 18,
+    "social_reaction": 26,
     "personal_story": 3,
+    "opinion": 10,
     "medical_science": 3,
-    "opinion": 8,
-    "hard_fact": 30,
-    "policy": 8
+    "policy": 8,
+    "hard_fact": 20
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 18,
-    "medical_science": 2,
+    "social_reaction": 26,
+    "opinion": 10,
     "policy": 8,
-    "hard_fact": 31,
-    "personal_story": 3,
-    "opinion": 8
+    "hard_fact": 20,
+    "medical_science": 3,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "ado 炎上",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "東大教育学研究科OBが考える、本田由紀さん「遺伝的要因」炎上と日本教育学会の見解",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "国会議事堂で売ってた朱肉が余りにも高貴すぎて買ってしまった「これは印泥ですよね、",
+      "title": "娘が開会式の生徒代表として挨拶するので予定時間より早く到着したが挨拶はすでに終了",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "policy"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "🇯🇵私「日本では義務教育受けた人ならみんな歌えるイタリアの曲があるんだよ」🇮🇹友",
+      "title": "誹謗中傷・デマで荒れた沖縄知事選…渦中の玉城デニー前知事が東京新聞に語った：東京",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "クレジットカードが定期券に、国内初のサービス「ふらピッと」熊本で来春開始…現行の",
+      "title": "姉貴が札幌で開催されるSnow Manのライブのために近くのホテルが取れず、函館",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "500円だった天丼が730円...「てんや」深刻な客離れ　「庶民の味方」も値上げ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "電気・ガス代補助１２月～来年２月実施、標準的家庭７０００円程度の負担軽減見込み…",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "ロト6 2150回 当選番号",
+      "title": "吉田 鋼 太郎 園遊会",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "全国的に大気不安定 急な雷雨注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
+      "title": "14歳の栞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "ガソリン補助金 12月から段階縮小",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
+      "title": "キオクシア決算",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "4661",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ダージリンを選ぶのは40代以上、20~30代は買わない…世代によってかなり違うの",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "首相動静をもとに、歴代総理の就任1年目をわかりやすく視覚化したページが登場、菅総",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
+    },
+    {
+      "title": "国道55号",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "ado 炎上",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
+      "title": "娘が開会式の生徒代表として挨拶するので予定時間より早く到着したが挨拶はすでに終了",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "たけのこの里をウイスキーに浸して冷蔵庫で冷やすと美味いと聞いてブランデーでやって",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "🇯🇵私「日本では義務教育受けた人ならみんな歌えるイタリアの曲があるんだよ」🇮🇹友",
+      "title": "誹謗中傷・デマで荒れた沖縄知事選…渦中の玉城デニー前知事が東京新聞に語った：東京",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "500円だった天丼が730円...「てんや」深刻な客離れ　「庶民の味方」も値上げ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「うちにはもう何年も天ぷら粉の常備がない。なぜなら絹豆腐に片栗粉を入れて作った衣",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "東大教育学研究科OBが考える、本田由紀さん「遺伝的要因」炎上と日本教育学会の見解",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "月曜日に財布を落とし警察から届いていたと連絡、拾い主がお礼を求めているらしく電話",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "京都人が関東の友達と訪れた店を気に入って「このお店何でも美味しいね」と言ったら「",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "姉貴が札幌で開催されるSnow Manのライブのために近くのホテルが取れず、函館",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "14歳の栞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ダージリンを選ぶのは40代以上、20~30代は買わない…世代によってかなり違うの",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「読ませる文章力すごい」Z世代特有の絶望感を綴ったnote記事が賛否を集める、共",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "アメリカの入国審査で『家族が住んでて～』などと言うと難しい事を聞かれたりするので",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "中野でブロードウェイでまた高級時計窃盗　「オーデマピゲ」1本、4600万円相当被",
+      "title": "「うちにはもう何年も天ぷら粉の常備がない。なぜなら絹豆腐に片栗粉を入れて作った衣",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "たけのこの里をウイスキーに浸して冷蔵庫で冷やすと美味いと聞いてブランデーでやって",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "吉田 鋼 太郎 園遊会",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
