@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T03:40:00+09:00",
+  "generated_at": "2026-10-30T10:20:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,48 +7,54 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 7,
-    "passed_total": 119,
+    "neg_excluded": 9,
+    "dedup_excluded": 9,
+    "passed_total": 104,
     "b2b_category_counts": {
-      "yahoo_realtime": 39,
-      "x_realtime": 10,
       "google_trends": 10,
-      "yahoo_news_ranking": 1,
-      "news_web": 10
+      "yahoo_realtime": 25,
+      "x_realtime": 9,
+      "news_web": 22,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "personal_story": 4,
-    "opinion": 10,
-    "hard_fact": 16,
-    "policy": 8,
-    "medical_science": 3
+    "social_reaction": 18,
+    "personal_story": 3,
+    "medical_science": 3,
+    "opinion": 8,
+    "hard_fact": 30,
+    "policy": 8
   },
   "b2b_topic_category_counts": {
-    "policy": 9,
-    "social_reaction": 29,
-    "hard_fact": 17,
-    "opinion": 10,
-    "personal_story": 4,
-    "medical_science": 1
+    "social_reaction": 18,
+    "medical_science": 2,
+    "policy": 8,
+    "hard_fact": 31,
+    "personal_story": 3,
+    "opinion": 8
   },
   "b2b_top10": [
     {
-      "title": "電気・ガス代補助１２月～来年２月実施、標準的過程７０００円程度の負担軽減見込み…",
+      "title": "ado 炎上",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東大教育学研究科OBが考える、本田由紀さん「遺伝的要因」炎上と日本教育学会の見解",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "topic_category": "medical_science"
     },
     {
       "title": "国会議事堂で売ってた朱肉が余りにも高貴すぎて買ってしまった「これは印泥ですよね、",
@@ -57,114 +63,108 @@
       "topic_category": "policy"
     },
     {
-      "title": "VIVANT×サンリオキャラクターズ コラボレーション終了に関するお知らせ | ",
+      "title": "🇯🇵私「日本では義務教育受けた人ならみんな歌えるイタリアの曲があるんだよ」🇮🇹友",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "サンリオがドラマ「VIVANT」とコラボ終了を発表　声明で謝罪：朝日新聞",
+      "title": "クレジットカードが定期券に、国内初のサービス「ふらピッと」熊本で来春開始…現行の",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
     },
     {
-      "title": "高市首相「ご高齢の方に働いていただく」投稿が炎上　G7欠席騒動の最中...過去の",
+      "title": "500円だった天丼が730円...「てんや」深刻な客離れ　「庶民の味方」も値上げ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "電気・ガス代補助１２月～来年２月実施、標準的家庭７０００円程度の負担軽減見込み…",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "首相、ガソリン「12月から毎月5円上げ」　電気・ガス支援は計7000円程度 - ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "title": "ロト6 2150回 当選番号",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "多摩動物公園で死んだライオン３頭、死因は熱中症…猛暑で多臓器不全",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "全国的に大気不安定 急な雷雨注意",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "宇宙での電力転送を目的とするベンチャー企業のメンバーが人や車が行き交う河川敷でレ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日本u-17 対 kenya u-17",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "twitch",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "ガソリン補助金 12月から段階縮小",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_domestic",
+      "topic_category": "policy"
     }
   ],
   "note_top10": [
     {
-      "title": "宇宙での電力転送を目的とするベンチャー企業のメンバーが人や車が行き交う河川敷でレ",
+      "title": "ado 炎上",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "たけのこの里をウイスキーに浸して冷蔵庫で冷やすと美味いと聞いてブランデーでやって",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "🇯🇵私「日本では義務教育受けた人ならみんな歌えるイタリアの曲があるんだよ」🇮🇹友",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "VIVANT×サンリオキャラクターズ コラボレーション終了に関するお知らせ | ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "無印良品週間はコレ買って！ 頭皮ブラシやイヤホン、収納ボックスなどおすすめアイテ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "友達の家の掃除を手伝いに行ったときの発言まとめ画像から伝わる惨状がヤバすぎる…特",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "松江 3校の児童ら300人近く体調不良 同じセンター提供の給食後 | NHKニュ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ダイソーのレンチン温泉卵、「流石に爆発するっしょwww」と思いながら使ったら、案",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "少子化、オタク趣味の流行、恋愛離れ……日本固有と言われていた現象が近年では世界全",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "草津温泉のライブカメラで気温確認しようとしたら、深夜1時に寒空の中突然自撮りメイ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "銀行は「雨の日に傘を取り上げ、晴れの日に傘を貸す」と言われるが、それは日本企業の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "みそ業界はヤバい「みそ屋の私が出来る３つの事」みそレシピまとめ｜マルカワみそ　河",
+      "title": "500円だった天丼が730円...「てんや」深刻な客離れ　「庶民の味方」も値上げ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
+    },
+    {
+      "title": "「うちにはもう何年も天ぷら粉の常備がない。なぜなら絹豆腐に片栗粉を入れて作った衣",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "東大教育学研究科OBが考える、本田由紀さん「遺伝的要因」炎上と日本教育学会の見解",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "月曜日に財布を落とし警察から届いていたと連絡、拾い主がお礼を求めているらしく電話",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "京都人が関東の友達と訪れた店を気に入って「このお店何でも美味しいね」と言ったら「",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "姉貴が札幌で開催されるSnow Manのライブのために近くのホテルが取れず、函館",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中野でブロードウェイでまた高級時計窃盗　「オーデマピゲ」1本、4600万円相当被",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ]
 }
