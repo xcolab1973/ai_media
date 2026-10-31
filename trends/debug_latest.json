@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T23:34:00+09:00",
+  "generated_at": "2026-11-01T03:15:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,161 +7,161 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
-    "dedup_excluded": 8,
-    "passed_total": 103,
+    "neg_excluded": 6,
+    "dedup_excluded": 9,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_realtime": 21,
+      "yahoo_realtime": 37,
+      "x_realtime": 9,
       "google_trends": 10,
-      "news_web": 22,
-      "x_realtime": 10,
-      "yahoo_news_ranking": 7
+      "news_web": 11,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 20,
-    "personal_story": 3,
-    "opinion": 9,
-    "hard_fact": 33,
-    "policy": 5
+    "social_reaction": 37,
+    "opinion": 10,
+    "personal_story": 1,
+    "policy": 7,
+    "hard_fact": 15
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 33,
-    "social_reaction": 20,
-    "opinion": 9,
-    "policy": 5,
-    "personal_story": 3
+    "social_reaction": 37,
+    "policy": 8,
+    "opinion": 10,
+    "hard_fact": 14,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "セブンやユニクロ…5年で1割超す値上げ　「物価上昇率2%」体感とずれ - 日本経",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "東京メトロ、29年3月に運賃値上げへ　全面見直しは民営化後初 - 日本経済新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "「ジャングリア沖縄」資金繰り悪化、ＣＥＯ「成長プランの構想をともにつくっていく出",
+      "title": "「テレ東ですらこんな有り様なのに他局は大丈夫なのか？」テレ東が業務用テープを廃棄",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "女性向け風俗「東京秘密基地」、ハッカーがサイバー攻撃を主張、事実なら利用履歴の暴",
+      "title": "「ご自由におもち下さい」と書かれた箱の蓋をあけたら『TOUGH』がぎっしり入って",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中学生の塾や習い事代を助成へ…１年生１４万円・２年生１８万円・３年生２４万円の予",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "高橋一生",
+      "title": "首相、ガソリン補助金縮小へかじ　物価対策浸透せず不満？：北海道新聞デジタル",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "フリーエージェント",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "31日関東-北海道で天気急変に注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "紫電改",
+      "title": "バイエルン 対 ドルトムント",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ff14 ファンフェス",
+      "title": "トッテナム 対 クリスタル・パレス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "井口浩之",
+      "title": "ギャビン・ストーン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "米子 地震",
+      "title": "プレミアリーグ 試合",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
+      "topic_category": "opinion"
+    },
+    {
+      "title": "サウサンプトン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "「ジャングリア沖縄」資金繰り悪化、ＣＥＯ「成長プランの構想をともにつくっていく出",
+      "title": "「テレ東ですらこんな有り様なのに他局は大丈夫なのか？」テレ東が業務用テープを廃棄",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "女性向け風俗「東京秘密基地」、ハッカーがサイバー攻撃を主張、事実なら利用履歴の暴",
+      "title": "「ご自由におもち下さい」と書かれた箱の蓋をあけたら『TOUGH』がぎっしり入って",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中学生の塾や習い事代を助成へ…１年生１４万円・２年生１８万円・３年生２４万円の予",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "娘が「仲良い子に陸上部に誘われたから今の部をやめたい」と言うのでﾊｧｧ?となった",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "認知症は、何もいきなりウンコを塗りたくる訳ではなく、祖父は認知症になった自分がス",
+      "title": "ミーム構文「ケーキ屋店員が思ってること」で「指差すのやめて」に「なら番号を振って",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "毎日作ってもいいレベルの手間なのに、美味しい高加水フォカッチャ、ローズマリーを挿",
+      "title": "自分の本名を検索したらAIで要約されて表示されるのだが個人情報がダダ漏れしている",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "2024年の首都圏連続強盗事件、横浜の強盗致死事件に関わった実行役2人に無期懲役",
+      "title": "「B案 なんて儚さだ……」池袋ハロウィンに現れたSuicaのB案コスプレが儚い女",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「電話越しにフロントスタッフを突破するのは私の今後の課題にしておきます！」自律型",
+      "title": "妻に毎年怒られる「徒競走の写真」がカッコいい出来だが流し撮りは怒られるのも納得…",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「楽しさを提供する場所とは思えない」池袋のトイザらス・ベビーザらス、突然の閉店に",
+      "title": "母校の高校でガチで頭おかしいと思ったこと1位【プールが男女混合】→令和のプール事",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ミセスの歌詞は薄っぺらいと批判されてるが「労基に相談しろ」なんて歌詞があってたま",
+      "title": "藤子・F・不二雄のSF短編集をいつでも読み返せるように手元に置いておきたい。示唆",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ポルシェオーナーは「何でポルシェ乗らないの？これからポルシェの時代だよ？」と押し",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「1か月＝30日」とかいう知的怠慢をそろそろやめにしないか",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
