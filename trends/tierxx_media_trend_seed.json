@@ -2,8 +2,8 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-31T09:58:38+0900",
-    "record_count": 35,
+    "generated_at": "2026-10-31T17:41:47+0900",
+    "record_count": 34,
     "source_total_in_db": 1628,
     "provenance_breakdown": {
       "evidence": 1041,
@@ -623,24 +623,6 @@
       "valid_until": "2026-10-31T23:29:32+0900",
       "status": "candidate",
       "created_at": "2026-10-26T23:29:32+0900"
-    },
-    {
-      "seed_id": "seed_a3b628b93ce3",
-      "trend_term": "美容外科医の労働環境と年収構造",
-      "raw_title": "ドラマ『ダウンタイム』が映し出す美容整形外科医の現実 転科が多い背景に「医療業界の構造」、当直がなく週休2日で年収2500万円を超えるケースも - SmartNews",
-      "summary": "美容外科医への転科が増加する背景として、当直がなく週休2日で年収2500万円を超えるケースがあるなど、医療業界の構造と労働条件の差異が指摘されている。",
-      "source_url": "https://news.google.com/rss/articles/CBMiigdBVV95cUxPN3NRWThFZGRqTHJrSU1WbV9aQmZzT002VkFvVzd5RF9TUEhZN24zNzgwb0xpN0dTRF96QXlLU2tZQ043b0lwbWdST0l5THVEdHVrLUxpNE9xMktzS3JGVks4bmZJaVBQNFNybm8yQjVSUjltNFlaNVJDVHJiaVZUZ2ltcFhoUUlJYlM3QjIxclZYeGttdVBsNEIxZi1oVVVSZUItaGIwZjZEemdtT20wYm5xUGVEaTM0WEpOQTA0dkQyNnNUUi12aE1kUTU0enV2UFhfcmxkYlBuQlhOMUx0WWpRV0l2bkswRmlMRlM2LTAyMGdOOVptTm5MSTEwYmZuQ1ROYmFNRTU3aEVYZjFXRTdUZ2x5c3pkWWNMa2lGUlNDM0Rua3ZLNjZIajF3azl6VWN6aHlOUmNSdER3TVNRRy1YQUNlRTBwaXpCUGJYVEZjeE1acGdFVlhHLUt6WnZyemxjczFlUzVQOVFTNDR5dmxyZXlUeUI0TUMwSGpWNm5DeE1LNVVUNjhLOWtkN19vN0FrS2sxOTNJdjZ5Mkdqd0ZxZDhMSG1PV2lzMHNtNXZJQWRDaHV4M2RaUlJQQ0REUkFDSWE0QzhvYThKeVdqWWp3SzE3b1N1a1BYdlJIWGphaXA5RDBlTEJOZjdUZWNXc2l2WDZIbWZqcjFaSWRQc2hEWjZRVjhLZXlDRWtUR19fZWJFSmQ2aDBJbm8xUG14S2VnR2M4UDJnN21OUmlBRVI3cXU1QmJneW1ZdlJqMFU1MDVxLVNSeWFIQVYxbWkwdXJpTDRmYXA5N0VQSFhGMDAtR1BXXzZway0xOHFzV2FhcTFIbWkwdWNjbVRrM0hFVVpaNEJtcWRfQlZJajVtc09DUUg1b2Vja2NrTl8zYkEtdnAxMWZ4X2w1MGppRU9YQmI2U0pRRGhOb3hSWGhlQ1NJYkxadDNhQ0xGU3ZCQzVBbmNuN2FjeU1BR20tc1lQY0xuUm9iQzVtVy1USm1lNm96bUQ3MllsNXNfU1k4N1ZvT1I5emFHeHVDM1BEelNTcE9DS093TUphWmRJdFNIazZ1YmlVTXdoZURhQkV1RzI4UGpFQlk1alRfOEdrN21fZl9pR2FWOUlkOEJYOUlBLWZVMFdWT2dIWFVqVjJCa1dJVXUzNTVYMTJ5TVFlSzdKSTJLdDNKTFF2ZUdsazZ3LXk0Z2hTb29VQ0E?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiigdBVV95cUxPN3NRWThFZGRqTHJrSU1WbV9aQmZzT002VkFvVzd5RF9TUEhZN24zNzgwb0xpN0dTRF96QXlLU2tZQ043b0lwbWdST0l5THVEdHVrLUxpNE9xMktzS3JGVks4bmZJaVBQNFNybm8yQjVSUjltNFlaNVJDVHJiaVZUZ2ltcFhoUUlJYlM3QjIxclZYeGttdVBsNEIxZi1oVVVSZUItaGIwZjZEemdtT20wYm5xUGVEaTM0WEpOQTA0dkQyNnNUUi12aE1kUTU0enV2UFhfcmxkYlBuQlhOMUx0WWpRV0l2bkswRmlMRlM2LTAyMGdOOVptTm5MSTEwYmZuQ1ROYmFNRTU3aEVYZjFXRTdUZ2x5c3pkWWNMa2lGUlNDM0Rua3ZLNjZIajF3azl6VWN6aHlOUmNSdER3TVNRRy1YQUNlRTBwaXpCUGJYVEZjeE1acGdFVlhHLUt6WnZyemxjczFlUzVQOVFTNDR5dmxyZXlUeUI0TUMwSGpWNm5DeE1LNVVUNjhLOWtkN19vN0FrS2sxOTNJdjZ5Mkdqd0ZxZDhMSG1PV2lzMHNtNXZJQWRDaHV4M2RaUlJQQ0REUkFDSWE0QzhvYThKeVdqWWp3SzE3b1N1a1BYdlJIWGphaXA5RDBlTEJOZjdUZWNXc2l2WDZIbWZqcjFaSWRQc2hEWjZRVjhLZXlDRWtUR19fZWJFSmQ2aDBJbm8xUG14S2VnR2M4UDJnN21OUmlBRVI3cXU1QmJneW1ZdlJqMFU1MDVxLVNSeWFIQVYxbWkwdXJpTDRmYXA5N0VQSFhGMDAtR1BXXzZway0xOHFzV2FhcTFIbWkwdWNjbVRrM0hFVVpaNEJtcWRfQlZJajVtc09DUUg1b2Vja2NrTl8zYkEtdnAxMWZ4X2w1MGppRU9YQmI2U0pRRGhOb3hSWGhlQ1NJYkxadDNhQ0xGU3ZCQzVBbmNuN2FjeU1BR20tc1lQY0xuUm9iQzVtVy1USm1lNm96bUQ3MllsNXNfU1k4N1ZvT1I5emFHeHVDM1BEelNTcE9DS093TUphWmRJdFNIazZ1YmlVTXdoZURhQkV1RzI4UGpFQlk1alRfOEdrN21fZl9pR2FWOUlkOEJYOUlBLWZVMFdWT2dIWFVqVjJCa1dJVXUzNTVYMTJ5TVFlSzdKSTJLdDNKTFF2ZUdsazZ3LXk0Z2hTb29VQ0E?oc=5",
-      "source_name": "SmartNews",
-      "monitor_id": "bm-safety-news",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-31T17:01:28+0900",
-      "status": "candidate",
-      "created_at": "2026-10-26T17:01:28+0900"
     }
   ]
 }
