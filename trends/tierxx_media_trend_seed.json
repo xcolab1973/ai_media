@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-10-30T23:27:49+0900",
-    "record_count": 37,
-    "source_total_in_db": 1626,
+    "generated_at": "2026-10-31T09:58:38+0900",
+    "record_count": 35,
+    "source_total_in_db": 1628,
     "provenance_breakdown": {
       "evidence": 1041,
-      "pain_seed": 585
+      "pain_seed": 587
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_5589fd7a4da4",
+      "trend_term": "エラボトックス体験レポート",
+      "raw_title": "2週間でどこまで変わる？STORYスタッフが「エラボトックス」を体験！ - storyweb.jp",
+      "summary": "施術体験による2週間での変化を記録。一般読者の「実際どの程度効果あるのか」という疑問に応える角度",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSdmVyZmRXa1ZheXNIbDk1XzNOaVowLU9hZGJVUkpQcG5yMkI1QkNncjE5aEZCb1I1S3Y0eTNaWkk3eXE5cFo0STFyZG9iZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSdmVyZmRXa1ZheXNIbDk1XzNOaVowLU9hZGJVUkpQcG5yMkI1QkNncjE5aEZCb1I1S3Y0eTNaWkk3eXE5cFo0STFyZG9iZw?oc=5",
+      "source_name": "storyweb.jp",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-14T09:58:24+0900",
+      "status": "candidate",
+      "created_at": "2026-10-31T09:58:24+0900"
+    },
+    {
+      "seed_id": "seed_62093391d1af",
+      "trend_term": "ボトックス副作用への警告",
+      "raw_title": "ジェニファー・ガーナーがボトックスに反対。警告した理由とは？【セレブ美容探偵】 - Vogue Japan",
+      "summary": "セレブが美容医療の過度な使用に対する懸念を発信。読者の「やりすぎのリスク」という不安を反映した角度",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lejFWSk1ESHpVbG5jNF9SOFQ1VFBod2F3eGpuX1RoRjUyUWVkRmlZSElOV2ZZSVdmV1ZOd1VOcHVPUWxUNDdvSXRPUmQ2Q2N0eVhKbTVMTEpUMEFYQ2RiRDhpY3B6V2M0djJZbmhTczBlQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lejFWSk1ESHpVbG5jNF9SOFQ1VFBod2F3eGpuX1RoRjUyUWVkRmlZSElOV2ZZSVdmV1ZOd1VOcHVPUWxUNDdvSXRPUmQ2Q2N0eVhKbTVMTEpUMEFYQ2RiRDhpY3B6V2M0djJZbmhTczBlQQ?oc=5",
+      "source_name": "Vogue Japan",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "opinion",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-14T09:58:24+0900",
+      "status": "candidate",
+      "created_at": "2026-10-31T09:58:24+0900"
+    },
     {
       "seed_id": "seed_b42b7d1e84e5",
       "trend_term": "大手美容クリニック経営戦略",
@@ -247,24 +283,6 @@
       "created_at": "2026-10-29T10:09:48+0900"
     },
     {
-      "seed_id": "seed_7884db2a8ca4",
-      "trend_term": "スキンブースター中南米展開",
-      "raw_title": "APRがMEDICUBEスキンブースターをチリ供給 医療機器で中南米展開拡大 - Chosunbiz",
-      "summary": "APRがMEDICUBEスキンブースターをチリに供給開始。医療機器メーカーの地域別展開ニュース。",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xMlhVMnJ5eC1nVWtZQVdWbWJpTmhoRm1hN0ZHa1dLMTl3c0JnM3QtS0dqYW9sSmVSV01zaTE4SUZyd0JQV1BNVEU5MF9TUzI3SGFIMmcyMDl6M0xRNkdIcVpoSWJ0ZlhCY1pyaWFreFAtc2JsR0x5Ukg0aG1aeFXSAZMBQVVfeXFMTW4wcFNGblcxdWE5OEdGYkJVbzRvU2g2VTRDLUZ0NXAzeGpRTkxOLVlHWjZqZ29TZ2o4d0d4cU1uUHlsLTdGRzJuU2pVTzJWb0NQdmFRV2Vsbzc5SUdCOTZnSFF6cGxUNm5wZGtIUk5nZUJSX3cwWWtWTGtUV2hlUWZ2dHlEajk3YU9Oa3RGeGhJOTBr?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xMlhVMnJ5eC1nVWtZQVdWbWJpTmhoRm1hN0ZHa1dLMTl3c0JnM3QtS0dqYW9sSmVSV01zaTE4SUZyd0JQV1BNVEU5MF9TUzI3SGFIMmcyMDl6M0xRNkdIcVpoSWJ0ZlhCY1pyaWFreFAtc2JsR0x5Ukg0aG1aeFXSAZMBQVVfeXFMTW4wcFNGblcxdWE5OEdGYkJVbzRvU2g2VTRDLUZ0NXAzeGpRTkxOLVlHWjZqZ29TZ2o4d0d4cU1uUHlsLTdGRzJuU2pVTzJWb0NQdmFRV2Vsbzc5SUdCOTZnSFF6cGxUNm5wZGtIUk5nZUJSX3cwWWtWTGtUV2hlUWZ2dHlEajk3YU9Oa3RGeGhJOTBr?oc=5",
-      "source_name": "Chosunbiz",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-03T10:09:48+0900",
-      "status": "candidate",
-      "created_at": "2026-10-29T10:09:48+0900"
-    },
-    {
       "seed_id": "seed_73005e262178",
       "trend_term": "ヒアルロン酸注入の指導医",
       "raw_title": "【ヒアルロン酸注入の指導医】聖心美容クリニック広島院院長・中辻隆徳医師が「第4回日本美容医師会」でヒアルロン酸注入の治 - ニコニコニュース",
@@ -335,24 +353,6 @@
       "valid_until": "2026-11-02T23:20:18+0900",
       "status": "candidate",
       "created_at": "2026-10-28T23:20:19+0900"
-    },
-    {
-      "seed_id": "seed_884f9bc79f0a",
-      "trend_term": "著名人の美容医療体験記",
-      "raw_title": "Matt、肩にヒアルロン酸注入を報告で「まるで彫刻みたい」ファンも脱帽した“美”を追求する姿勢《2026年10月Choice》 - 週刊女性PRIME",
-      "summary": "著名人Mattが肩へのヒアルロン酸注入を報告。輪郭強調への関心、部位別注入の多様化が垣間見える。ファン反応から社会的需要を推測。",
-      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBldEZZdGNlTUFOeXEtdVYxNlBjMzRyY25HNEZOc0xwY0xORmJFb0Q5amVIbGdpTUlJaHF5b3ZhaGdkakluajVvNy1jZTA5ZGFXTFhCMEhneUVpR0Fq?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBldEZZdGNlTUFOeXEtdVYxNlBjMzRyY25HNEZOc0xwY0xORmJFb0Q5amVIbGdpTUlJaHF5b3ZhaGdkakluajVvNy1jZTA5ZGFXTFhCMEhneUVpR0Fq?oc=5",
-      "source_name": "週刊女性PRIME",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "opinion",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-11T23:20:08+0900",
-      "status": "candidate",
-      "created_at": "2026-10-28T23:20:08+0900"
     },
     {
       "seed_id": "seed_640df3c014fa",
@@ -641,42 +641,6 @@
       "valid_until": "2026-10-31T17:01:28+0900",
       "status": "candidate",
       "created_at": "2026-10-26T17:01:28+0900"
-    },
-    {
-      "seed_id": "seed_190fe2873ad8",
-      "trend_term": "整形失敗投稿の法的リスク",
-      "raw_title": "美容整形に「失敗された」SNS投稿は名誉毀損？ クリニックに訴えられる“境界線”…体験談でもアウト？ - Yahoo!ニュース",
-      "summary": "美容整形の失敗体験談をSNS投稿した場合の名誉毀損リスクについて法的境界線を解説。患者と医療機関の紛争事例が増加。",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FajF3cG43R1NsUkt1LW0wcUJBSzRuTmpncDhtTEJNcmI1c1k3bXVscllwVWtmR25YejFabEdOeGY4Y2E5cUY2RWdUNlZWZllNWXV0MHYyNUlseVZ6Z1U0TmhRd25IYUpuZVZvWkRJSlB0Y1FYQ1NHMEdwNkstZ0U?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FajF3cG43R1NsUkt1LW0wcUJBSzRuTmpncDhtTEJNcmI1c1k3bXVscllwVWtmR25YejFabEdOeGY4Y2E5cUY2RWdUNlZWZllNWXV0MHYyNUlseVZ6Z1U0TmhRd25IYUpuZVZvWkRJSlB0Y1FYQ1NHMEdwNkstZ0U?oc=5",
-      "source_name": "Yahoo!ニュース",
-      "monitor_id": "bm-sns-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-31T08:28:38+0900",
-      "status": "candidate",
-      "created_at": "2026-10-26T08:28:38+0900"
-    },
-    {
-      "seed_id": "seed_30941794f11e",
-      "trend_term": "SNS集客の実態調査",
-      "raw_title": "原田浩光医師の指名初診患者、“88.6％”がSNSをきっかけに｜Days Beauty Clinicが予約経路データを公開｜Infoseekニュース - Infoseek",
-      "summary": "Days Beauty Clinicが公開した予約経路データで、指名初診患者の88.6%がSNSをきっかけとした実績。医師の知名度とSNS集客の相関を示唆。",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zOGpNbFlmOERiUGtaaGxQQjlxNWtfazA5ckh1THUzT0tETGIyRTAzRlg4d1NKNmhqVzRVM3BWSU9BT1NyYjlfVGtDTDhQckd0WlFHS2RYbmxhaUpUTGNHc21ZVFdnNjJwX21NR19FZkxhdw?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zOGpNbFlmOERiUGtaaGxQQjlxNWtfazA5ckh1THUzT0tETGIyRTAzRlg4d1NKNmhqVzRVM3BWSU9BT1NyYjlfVGtDTDhQckd0WlFHS2RYbmxhaUpUTGNHc21ZVFdnNjJwX21NR19FZkxhdw?oc=5",
-      "source_name": "Infoseek",
-      "monitor_id": "bm-sns-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-10-31T08:28:38+0900",
-      "status": "candidate",
-      "created_at": "2026-10-26T08:28:38+0900"
     }
   ]
 }
