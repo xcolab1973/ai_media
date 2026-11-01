@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T03:15:00+09:00",
+  "generated_at": "2026-11-01T09:25:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,30 +16,32 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 9,
-    "passed_total": 117,
+    "neg_excluded": 5,
+    "dedup_excluded": 11,
+    "passed_total": 116,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
-      "x_realtime": 9,
+      "yahoo_realtime": 38,
+      "x_realtime": 5,
       "google_trends": 10,
-      "news_web": 11,
-      "yahoo_news_ranking": 3
+      "news_web": 15,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 37,
+    "social_reaction": 29,
+    "personal_story": 2,
     "opinion": 10,
-    "personal_story": 1,
-    "policy": 7,
-    "hard_fact": 15
+    "policy": 11,
+    "medical_science": 1,
+    "hard_fact": 17
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 37,
-    "policy": 8,
+    "social_reaction": 28,
+    "personal_story": 2,
+    "policy": 11,
     "opinion": 10,
-    "hard_fact": 14,
-    "personal_story": 1
+    "hard_fact": 18,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
@@ -55,6 +57,12 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "同じマンションの人が来て、「パンッパンッと洗濯物を干す音がした瞬間から洗濯物の匂",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
       "title": "中学生の塾や習い事代を助成へ…１年生１４万円・２年生１８万円・３年生２４万円の予",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
@@ -67,37 +75,31 @@
       "topic_category": "policy"
     },
     {
-      "title": "フリーエージェント",
+      "title": "前田健太",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "バイエルン 対 ドルトムント",
+      "title": "不正アクセス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "トッテナム 対 クリスタル・パレス",
+      "title": "上原浩治",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ギャビン・ストーン",
+      "title": "平良海馬",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "プレミアリーグ 試合",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "サウサンプトン",
+      "title": "ミルウォーキー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -117,45 +119,39 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "同じマンションの人が来て、「パンッパンッと洗濯物を干す音がした瞬間から洗濯物の匂",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
       "title": "中学生の塾や習い事代を助成へ…１年生１４万円・２年生１８万円・３年生２４万円の予",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ミーム構文「ケーキ屋店員が思ってること」で「指差すのやめて」に「なら番号を振って",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "自分の本名を検索したらAIで要約されて表示されるのだが個人情報がダダ漏れしている",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「B案 なんて儚さだ……」池袋ハロウィンに現れたSuicaのB案コスプレが儚い女",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "妻に毎年怒られる「徒競走の写真」がカッコいい出来だが流し撮りは怒られるのも納得…",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "横浜のみなとみらい地区はあなた方が想像しているより数倍ひどいトイレ不毛地帯なので",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "母校の高校でガチで頭おかしいと思ったこと1位【プールが男女混合】→令和のプール事",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "深い睡眠には亜鉛！日光不足の鬱にはビタミンD！美白にC！イライラにカルシウムとマ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "藤子・F・不二雄のSF短編集をいつでも読み返せるように手元に置いておきたい。示唆",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "年収は高くないが、低くもない、マッチングアプリやらない、婚活もしない、自分から積",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -163,6 +159,12 @@
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "前田健太",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
