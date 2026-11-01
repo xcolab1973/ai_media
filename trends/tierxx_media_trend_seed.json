@@ -2,8 +2,8 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-01T18:31:52+0900",
-    "record_count": 28,
+    "generated_at": "2026-11-01T23:26:55+0900",
+    "record_count": 26,
     "source_total_in_db": 1628,
     "provenance_breakdown": {
       "evidence": 1041,
@@ -407,42 +407,6 @@
       "valid_until": "2026-11-02T09:40:50+0900",
       "status": "candidate",
       "created_at": "2026-10-28T09:40:50+0900"
-    },
-    {
-      "seed_id": "seed_3c5091b2bcc3",
-      "trend_term": "治療合併症・医療事故",
-      "raw_title": "不整脈治療後、食道に穴あき死亡 妻「大切な夫に何が」と提訴 [愛知県] - 朝日新聞",
-      "summary": "不整脈治療後に食道穿孔による死亡事例が報道され、医療訴訟に発展。治療に伴う重篤な合併症の実例として、患者が知るべき医療リスク情報。",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TXzFzSmFGVnVwVFpiUzhza2ptb2hCRjh5V3ZCdzUxbFVmMzN2akVBY3JRM3d4NmRoWHNlTy00bnZoRGxkelphRWFDRmZyUHpadUgwNEV4ektnV1lyakxBZjMwN2hKYlU?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TXzFzSmFGVnVwVFpiUzhza2ptb2hCRjh5V3ZCdzUxbFVmMzN2akVBY3JRM3d4NmRoWHNlTy00bnZoRGxkelphRWFDRmZyUHpadUgwNEV4ektnV1lyakxBZjMwN2hKYlU?oc=5",
-      "source_name": "朝日新聞",
-      "monitor_id": "bm-safety-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-01T22:29:49+0900",
-      "status": "candidate",
-      "created_at": "2026-10-27T22:29:49+0900"
-    },
-    {
-      "seed_id": "seed_a46c687d6514",
-      "trend_term": "エクソソーム化粧品原料",
-      "raw_title": "再生医療関連事業のセルソース、 エクソソーム化粧品原料「セルソース Exosome」を開発、YouTuber・ヒカルとコラボした高機能美容クリーム「リザードビューティ クリーム」発売 - セルソース株式会社",
-      "summary": "セルソース株式会社がエクソソーム化粧品原料を開発。同社製原料を使用した美容クリーム商品が発売された。",
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHM3BQVTJLOVFkMUxZdEd3bVo1Ui1oMjM0c0hXNENfOVZtYUJrTVNCZlhxeDBxeGJuWkpfRlpwSVJfRXUwamk0c2RqdFFjVWtBdnNCOGlzV3JKam1WcnJlVnlHRUlhdllq?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHM3BQVTJLOVFkMUxZdEd3bVo1Ui1oMjM0c0hXNENfOVZtYUJrTVNCZlhxeDBxeGJuWkpfRlpwSVJfRXUwamk0c2RqdFFjVWtBdnNCOGlzV3JKam1WcnJlVnlHRUlhdllq?oc=5",
-      "source_name": "セルソース株式会社",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-01T22:29:45+0900",
-      "status": "candidate",
-      "created_at": "2026-10-27T22:29:45+0900"
     },
     {
       "seed_id": "seed_53388959a6c9",
