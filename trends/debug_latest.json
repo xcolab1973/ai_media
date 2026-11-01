@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T23:31:00+09:00",
+  "generated_at": "2026-11-02T03:08:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,30 +17,30 @@
       "x_realtime": 10
     },
     "neg_excluded": 5,
-    "dedup_excluded": 11,
-    "passed_total": 116,
+    "dedup_excluded": 10,
+    "passed_total": 117,
     "b2b_category_counts": {
       "yahoo_realtime": 38,
       "google_trends": 10,
-      "x_realtime": 5,
-      "news_web": 14,
-      "yahoo_news_ranking": 3
+      "x_realtime": 7,
+      "news_web": 11,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "personal_story": 2,
-    "opinion": 10,
+    "social_reaction": 36,
+    "personal_story": 1,
+    "opinion": 9,
     "medical_science": 2,
-    "hard_fact": 20,
-    "policy": 3
+    "hard_fact": 18,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 32,
-    "personal_story": 2,
-    "opinion": 10,
-    "hard_fact": 21,
-    "policy": 3,
+    "social_reaction": 36,
+    "opinion": 9,
+    "hard_fact": 18,
+    "policy": 4,
+    "personal_story": 1,
     "medical_science": 2
   },
   "b2b_top10": [
@@ -52,6 +52,12 @@
     },
     {
       "title": "「紅茶を飲む方は、歯の色をどのようにケアしていますか？」みんなはどう対策してる？",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "[107話]ケントゥリア - 暗森透 | 少年ジャンプ＋",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -69,37 +75,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ナイチンゲールダンス・ヤス、吉本とのマネジメント契約終了　理由は「個人でお笑いラ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "モナキ",
+      "title": "キリアン・エムバペ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "内田樹",
+      "title": "地震 震度",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "liverpool vs arsenal",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "マツダ",
+      "title": "リヴァプール 対 アーセナル",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "伊勢佳世 vivant",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "アラン・ピカソ",
+      "title": "リヨン 対 アンジェ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -119,6 +119,12 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "[107話]ケントゥリア - 暗森透 | 少年ジャンプ＋",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "「母が車を運転したがって困っています」要介護4で車のアクセルもブレーキもまともに",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
@@ -131,10 +137,10 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ナイチンゲールダンス・ヤス、吉本とのマネジメント契約終了　理由は「個人でお笑いラ",
+      "title": "「作曲って難しいと思うじゃん？だったら遊びにしちゃえばいいんじゃね？」ということ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
       "title": "懸賞に当たるコツを調べたら『みんながわざわざ応募しなさそうなものばかり狙ってたく",
@@ -143,25 +149,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "村のおじさんが「うちの白ヤク見せてあげるよ〜」って連れてきてくれた→チベットの”",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "ホラー映画で「なんと一連の流れは…悪魔の仕業だったのです！」ってなるやつ、キリス",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「映画ぼっち・ざ・ろっく！ 星のあしあと」2027年公開決定！ - NEWS |",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "言い回しから考えたら刑法は「この対価（刑罰）を払えるならこの罪を犯せます」という",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "テイルズオブデスティニー（PS版）",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「作曲って難しいと思うじゃん？だったら遊びにしちゃえばいいんじゃね？」ということ",
+      "title": "トイレで見かけた “フラッシュランプが光った時はにげてください” という表示に困",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
