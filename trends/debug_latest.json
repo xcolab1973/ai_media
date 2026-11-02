@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T17:18:00+09:00",
+  "generated_at": "2026-11-03T02:27:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,164 +7,162 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
-    "dedup_excluded": 11,
-    "passed_total": 100,
+    "neg_excluded": 13,
+    "dedup_excluded": 10,
+    "passed_total": 109,
     "b2b_category_counts": {
-      "google_trends": 9,
-      "yahoo_realtime": 23,
-      "x_realtime": 8,
-      "news_web": 21,
-      "yahoo_news_ranking": 9
+      "yahoo_realtime": 34,
+      "google_trends": 10,
+      "news_web": 14,
+      "x_realtime": 7,
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 21,
-    "personal_story": 1,
-    "opinion": 9,
-    "medical_science": 1,
-    "hard_fact": 32,
-    "policy": 6
+    "social_reaction": 28,
+    "personal_story": 3,
+    "opinion": 10,
+    "hard_fact": 21,
+    "policy": 8
   },
   "b2b_topic_category_counts": {
-    "opinion": 9,
-    "social_reaction": 21,
-    "hard_fact": 32,
-    "policy": 6,
-    "medical_science": 1,
-    "personal_story": 1
+    "social_reaction": 28,
+    "opinion": 10,
+    "hard_fact": 20,
+    "policy": 9,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "日本 女子 プロ ゴルフ 選手権 大会",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "水卜 麻美",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "8035",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "4661",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ドラストで金パブの210錠を購入しようとしたら店側から「なぜ210錠なんですか、",
+      "title": "お客様情報の一部が窃取された可能性に関するお詫びとお知らせ｜GMOペイメントゲー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "旦那が亡くなった妹一家の引っ越しを手伝っていたが、なぜか地主から「退去願い」が出",
+      "title": "JR東、宇都宮駅エスカレーターの廃止撤回　市長や県が再考要望 | 毎日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "熊谷 敬 宥",
+      "title": "⚠️Gmail&YouTubeアカウントが盗まれた件についての注意喚起｜yuig",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "pakhtakor fc vs al-nassr standings",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "topix",
+      "title": "情熱大陸",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "日本国債",
+      "title": "ディズニー 野良猫",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "尾形 崇 斗",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "中国軍幹部が空洞化 汚職対策影響",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_world",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "ブラックコーヒーをわざわざ飲むのって、健康に気をつけて味のある飲み物を飲もうとな",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「一番つまらなかった本を教えてほしい」→おすすめじゃなくて、誰かの「自分には合わ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "Amazonでお米を宅配ボックスに入れてもらえなかった、という不満ポストに「これ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
-      "title": "ドラストで金パブの210錠を購入しようとしたら店側から「なぜ210錠なんですか、",
+      "title": "お客様情報の一部が窃取された可能性に関するお詫びとお知らせ｜GMOペイメントゲー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "旦那が亡くなった妹一家の引っ越しを手伝っていたが、なぜか地主から「退去願い」が出",
+      "title": "JR東、宇都宮駅エスカレーターの廃止撤回　市長や県が再考要望 | 毎日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "\"halloween, japan\"下北沢で鉤十字を掲げた集団が集まった写真に国",
+      "title": "⚠️Gmail&YouTubeアカウントが盗まれた件についての注意喚起｜yuig",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ブラックコーヒーをわざわざ飲むのって、健康に気をつけて味のある飲み物を飲もうとな",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「一番つまらなかった本を教えてほしい」→おすすめじゃなくて、誰かの「自分には合わ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「自分が好きだったラノベが13年越しに魔改造されててワロタ」→レーベル変更などで",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "Amazonでお米を宅配ボックスに入れてもらえなかった、という不満ポストに「これ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「リアル九相図は嫌だなあ…」日本の葬式は目を剥くレベルで生々しいが、古代の葬送儀",
+      "title": "韓国人「日本のスーパーのパンや生クリームは、次元が違う…こんな食生活をしていてど",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「逆に無水カレーをよくわかってる人だ」彼女が無水カレーを作っているが、その調理過",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「北欧はクレカやスマホ決済ができない人を社会から排除する勢いが凄いらしい」店の多",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "同級生が某鉄道会社グループに入社、運転士になりたかったが適性でダメに…その後ホテ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "味噌汁にサバ缶を入れるとあら汁みたいになって美味しいと知り、「私にもできるか？」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "日本 女子 プロ ゴルフ 選手権 大会",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "水卜 麻美",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "8035",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "同志社会見で八田氏「日本基督教団との組織的な関係は絶対にない」が秒でバレる～大学",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ]
 }
