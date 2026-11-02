@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T03:08:00+09:00",
+  "generated_at": "2026-11-02T10:01:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,100 +16,100 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 10,
-    "passed_total": 117,
+    "neg_excluded": 8,
+    "dedup_excluded": 11,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 38,
+      "x_realtime": 6,
+      "yahoo_realtime": 31,
       "google_trends": 10,
-      "x_realtime": 7,
-      "news_web": 11,
-      "yahoo_news_ranking": 4
+      "yahoo_news_ranking": 6,
+      "news_web": 17
     }
   },
   "note_category_counts": {
-    "social_reaction": 36,
-    "personal_story": 1,
-    "opinion": 9,
-    "medical_science": 2,
-    "hard_fact": 18,
-    "policy": 4
+    "social_reaction": 26,
+    "personal_story": 3,
+    "opinion": 6,
+    "hard_fact": 26,
+    "medical_science": 1,
+    "policy": 8
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 36,
-    "opinion": 9,
-    "hard_fact": 18,
-    "policy": 4,
-    "personal_story": 1,
-    "medical_science": 2
+    "social_reaction": 20,
+    "hard_fact": 32,
+    "opinion": 6,
+    "personal_story": 3,
+    "policy": 8,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "いまのダークウェブでは二段階認証も無力化する「ブラウザのクローンデータ」が売買さ",
+      "title": "うっかり中華鍋でトマトソースを煮こんだら長年育ててきた黒い皮膜が全部消えてしまっ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "⚠️Gmail&YouTubeアカウントが盗まれた件についての注意喚起｜yuig",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「紅茶を飲む方は、歯の色をどのようにケアしていますか？」みんなはどう対策してる？",
+      "title": "２色覚の人たちと話をして「焼肉問題」について考えたこと｜川端裕人 KAWABAT",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "[107話]ケントゥリア - 暗森透 | 少年ジャンプ＋",
+      "title": "人道状況が悪化したウクライナ南部州、物資搬入・住民退避に成功…局地停戦は終了へ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「母が車を運転したがって困っています」要介護4で車のアクセルもブレーキもまともに",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "若干話題になっている／炎上しているある漫画について - shinichiroin",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "キリアン・エムバペ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "地震 震度",
+      "title": "キオクシア 株価",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "hard_fact"
     },
     {
-      "title": "liverpool vs arsenal",
+      "title": "情報漏洩で見舞金 おわびの正解は",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_it",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "結核上回る患者数 NTM症の対策",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_science",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "「紅茶を飲む方は、歯の色をどのようにケアしていますか？」みんなはどう対策してる？",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "gmo 会見",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "リヴァプール 対 アーセナル",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "リヨン 対 アンジェ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "私立高の学校納付金2倍 NGO調査",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
     {
-      "title": "いまのダークウェブでは二段階認証も無力化する「ブラウザのクローンデータ」が売買さ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "うっかり中華鍋でトマトソースを煮こんだら長年育ててきた黒い皮膜が全部消えてしまっ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -119,49 +119,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "[107話]ケントゥリア - 暗森透 | 少年ジャンプ＋",
+      "title": "⚠️Gmail&YouTubeアカウントが盗まれた件についての注意喚起｜yuig",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「母が車を運転したがって困っています」要介護4で車のアクセルもブレーキもまともに",
+      "title": "２色覚の人たちと話をして「焼肉問題」について考えたこと｜川端裕人 KAWABAT",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "若干話題になっている／炎上しているある漫画について - shinichiroin",
+      "title": "人道状況が悪化したウクライナ南部州、物資搬入・住民退避に成功…局地停戦は終了へ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「作曲って難しいと思うじゃん？だったら遊びにしちゃえばいいんじゃね？」ということ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "懸賞に当たるコツを調べたら『みんながわざわざ応募しなさそうなものばかり狙ってたく",
+      "title": "「夕飯はイギリスの塩を使った鶏のトマト煮だよ」と旦那に伝えたら「なんでいちいち塩",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "ホラー映画で「なんと一連の流れは…悪魔の仕業だったのです！」ってなるやつ、キリス",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "言い回しから考えたら刑法は「この対価（刑罰）を払えるならこの罪を犯せます」という",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "トイレで見かけた “フラッシュランプが光った時はにげてください” という表示に困",
+      "title": "17歳の時にアメリカ留学に行ったとき、見知らぬ生徒に「F○○k you！JAP」",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "中学生の修学旅行、車内でセーラームーンを流そうかと言って男子からは落胆の声、女子",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
