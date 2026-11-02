@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T10:01:00+09:00",
+  "generated_at": "2026-11-02T17:18:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,164 +7,164 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
+    "neg_excluded": 11,
     "dedup_excluded": 11,
-    "passed_total": 113,
+    "passed_total": 100,
     "b2b_category_counts": {
-      "x_realtime": 6,
-      "yahoo_realtime": 31,
-      "google_trends": 10,
-      "yahoo_news_ranking": 6,
-      "news_web": 17
+      "google_trends": 9,
+      "yahoo_realtime": 23,
+      "x_realtime": 8,
+      "news_web": 21,
+      "yahoo_news_ranking": 9
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
-    "personal_story": 3,
-    "opinion": 6,
-    "hard_fact": 26,
+    "social_reaction": 21,
+    "personal_story": 1,
+    "opinion": 9,
     "medical_science": 1,
-    "policy": 8
+    "hard_fact": 32,
+    "policy": 6
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 20,
+    "opinion": 9,
+    "social_reaction": 21,
     "hard_fact": 32,
-    "opinion": 6,
-    "personal_story": 3,
-    "policy": 8,
-    "medical_science": 1
+    "policy": 6,
+    "medical_science": 1,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "うっかり中華鍋でトマトソースを煮こんだら長年育ててきた黒い皮膜が全部消えてしまっ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "⚠️Gmail&YouTubeアカウントが盗まれた件についての注意喚起｜yuig",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "２色覚の人たちと話をして「焼肉問題」について考えたこと｜川端裕人 KAWABAT",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "人道状況が悪化したウクライナ南部州、物資搬入・住民退避に成功…局地停戦は終了へ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "キオクシア 株価",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "情報漏洩で見舞金 おわびの正解は",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_it",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "結核上回る患者数 NTM症の対策",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_science",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "「紅茶を飲む方は、歯の色をどのようにケアしていますか？」みんなはどう対策してる？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "gmo 会見",
+      "title": "日本 女子 プロ ゴルフ 選手権 大会",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "私立高の学校納付金2倍 NGO調査",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
+      "title": "水卜 麻美",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "8035",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "4661",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ドラストで金パブの210錠を購入しようとしたら店側から「なぜ210錠なんですか、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "旦那が亡くなった妹一家の引っ越しを手伝っていたが、なぜか地主から「退去願い」が出",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "熊谷 敬 宥",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "topix",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "日本国債",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "尾形 崇 斗",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "うっかり中華鍋でトマトソースを煮こんだら長年育ててきた黒い皮膜が全部消えてしまっ",
+      "title": "ドラストで金パブの210錠を購入しようとしたら店側から「なぜ210錠なんですか、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "旦那が亡くなった妹一家の引っ越しを手伝っていたが、なぜか地主から「退去願い」が出",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "\"halloween, japan\"下北沢で鉤十字を掲げた集団が集まった写真に国",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「紅茶を飲む方は、歯の色をどのようにケアしていますか？」みんなはどう対策してる？",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "⚠️Gmail&YouTubeアカウントが盗まれた件についての注意喚起｜yuig",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "２色覚の人たちと話をして「焼肉問題」について考えたこと｜川端裕人 KAWABAT",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "人道状況が悪化したウクライナ南部州、物資搬入・住民退避に成功…局地停戦は終了へ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「夕飯はイギリスの塩を使った鶏のトマト煮だよ」と旦那に伝えたら「なんでいちいち塩",
+      "title": "「リアル九相図は嫌だなあ…」日本の葬式は目を剥くレベルで生々しいが、古代の葬送儀",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ホラー映画で「なんと一連の流れは…悪魔の仕業だったのです！」ってなるやつ、キリス",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「逆に無水カレーをよくわかってる人だ」彼女が無水カレーを作っているが、その調理過",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "言い回しから考えたら刑法は「この対価（刑罰）を払えるならこの罪を犯せます」という",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「北欧はクレカやスマホ決済ができない人を社会から排除する勢いが凄いらしい」店の多",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "17歳の時にアメリカ留学に行ったとき、見知らぬ生徒に「F○○k you！JAP」",
+      "title": "同級生が某鉄道会社グループに入社、運転士になりたかったが適性でダメに…その後ホテ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
     },
     {
-      "title": "中学生の修学旅行、車内でセーラームーンを流そうかと言って男子からは落胆の声、女子",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "日本 女子 プロ ゴルフ 選手権 大会",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "水卜 麻美",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "8035",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
