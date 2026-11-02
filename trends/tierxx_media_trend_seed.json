@@ -2,8 +2,8 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-01T23:26:55+0900",
-    "record_count": 26,
+    "generated_at": "2026-11-02T09:59:05+0900",
+    "record_count": 25,
     "source_total_in_db": 1628,
     "provenance_breakdown": {
       "evidence": 1041,
@@ -389,24 +389,6 @@
       "valid_until": "2026-11-11T17:53:02+0900",
       "status": "candidate",
       "created_at": "2026-10-28T17:53:02+0900"
-    },
-    {
-      "seed_id": "seed_02f1c298e619",
-      "trend_term": "肌再生医療の学術連携",
-      "raw_title": "青山レナセルクリニック、 肌の再生医療分野で順天堂大学と共同研究を開始 - アットプレス",
-      "summary": "青山レナセルクリニックが順天堂大学と肌の再生医療分野での共同研究を開始。大学と臨床機関の提携による知見集約の動き。",
-      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJSWJVSnhSeTZJeGpFODVOcEdRd1FQSE5lanl5QURyNDNYa1Rxa1dQUmppM294Njd6OUpaS2NrVU9pRUV4SnBYdGItUUZGdw?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJSWJVSnhSeTZJeGpFODVOcEdRd1FQSE5lanl5QURyNDNYa1Rxa1dQUmppM294Njd6OUpaS2NrVU9pRUV4SnBYdGItUUZGdw?oc=5",
-      "source_name": "アットプレス",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-02T09:40:50+0900",
-      "status": "candidate",
-      "created_at": "2026-10-28T09:40:50+0900"
     },
     {
       "seed_id": "seed_53388959a6c9",
