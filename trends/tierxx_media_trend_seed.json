@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-02T18:48:34+0900",
-    "record_count": 30,
-    "source_total_in_db": 1637,
+    "generated_at": "2026-11-03T02:21:38+0900",
+    "record_count": 28,
+    "source_total_in_db": 1638,
     "provenance_breakdown": {
-      "evidence": 1050,
+      "evidence": 1051,
       "pain_seed": 587
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_b223977c3cab",
+      "trend_term": "横浜市ボトックス医院選",
+      "raw_title": "【2026年】横浜市のボトックス注射 おすすめしたい6医院 - メディカルドック",
+      "summary": "2026年時点の横浜市におけるボトックス注射対応医院6施設をリスト化。医院選択の実用情報として機能。",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UeUFzcG1XUE1sWUp2WkU0emRVUExIT3B1VnpHT1k0dHNjTE1fVDdDaFVpdEJsVVp0NVVDM0FhZmpJLXBvamROcG1tc2hpNUcwell5VE81RlY4WGZob0xVTC1uRHQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UeUFzcG1XUE1sWUp2WkU0emRVUExIT3B1VnpHT1k0dHNjTE1fVDdDaFVpdEJsVVp0NVVDM0FhZmpJLXBvamROcG1tc2hpNUcwell5VE81RlY4WGZob0xVTC1uRHQ?oc=5",
+      "source_name": "メディカルドック",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-08T02:21:19+0900",
+      "status": "candidate",
+      "created_at": "2026-11-03T02:21:19+0900"
+    },
     {
       "seed_id": "seed_52a09efead4f",
       "trend_term": "無資格施術の法的リスク",
@@ -319,24 +337,6 @@
       "created_at": "2026-10-30T10:16:46+0900"
     },
     {
-      "seed_id": "seed_3d3a05896271",
-      "trend_term": "ボトックス持続期間の部位差",
-      "raw_title": "『ボトックス注射』の効果は何カ月もつ？ 眉間・目尻・エラで違う注意点を医師が解説 (2026年10月29日掲載) - ライブドアニュース",
-      "summary": "ボトックス注射の効果持続期間が眉間・目尻・エラで異なることを医師が解説。部位ごとの注意点を説明",
-      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tUEozZi1HdEFJVGx0dExVUXJVSGlnZUwyUzFkZDNnVGdxQUZsS1I0a0tJLTRjeWhaRmNETV9FMUZSRjVpYUZjUDNUTGMwb1lBcVBNdTZMWjV6V1ZQQ1E?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tUEozZi1HdEFJVGx0dExVUXJVSGlnZUwyUzFkZDNnVGdxQUZsS1I0a0tJLTRjeWhaRmNETV9FMUZSRjVpYUZjUDNUTGMwb1lBcVBNdTZMWjV6V1ZQQ1E?oc=5",
-      "source_name": "ライブドアニュース",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-13T10:16:41+0900",
-      "status": "candidate",
-      "created_at": "2026-10-30T10:16:41+0900"
-    },
-    {
       "seed_id": "seed_e757b79b2805",
       "trend_term": "著名人のボトックス容認発言",
       "raw_title": "ジェニファー・アニストン、「ボトックス注射やってもいい」と容認発言 - 映画.com",
@@ -443,42 +443,6 @@
       "valid_until": "2026-11-11T23:20:23+0900",
       "status": "candidate",
       "created_at": "2026-10-28T23:20:23+0900"
-    },
-    {
-      "seed_id": "seed_b0ac566b21cd",
-      "trend_term": "エクソソーム共同研究契約",
-      "raw_title": "大阪大学と再生医療関連事業のセルソース、 エクソソーム治療の確立に向け共同研究契約を締結｜セルソース株式会社 - セルソース株式会社",
-      "summary": "セルソース株式会社が大阪大学とエクソソーム治療確立に向けた共同研究契約を締結。企業と学術機関の連携実績。",
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWUUZiWHZaYzVFSnlIZ3prSFV4Z2l0aTZqSjQ2VHdpVmFSZ2ZvWElEM0dTa3F2VklBQ3dwSDZNSnNBVTRiWGpoVnh2V3lMS2Z0Nzl5YTNLX3hWc01YUHVwMEV5VTBPMjB3?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWUUZiWHZaYzVFSnlIZ3prSFV4Z2l0aTZqSjQ2VHdpVmFSZ2ZvWElEM0dTa3F2VklBQ3dwSDZNSnNBVTRiWGpoVnh2V3lMS2Z0Nzl5YTNLX3hWc01YUHVwMEV5VTBPMjB3?oc=5",
-      "source_name": "セルソース株式会社",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-02T23:20:19+0900",
-      "status": "candidate",
-      "created_at": "2026-10-28T23:20:19+0900"
-    },
-    {
-      "seed_id": "seed_f0f77cac5908",
-      "trend_term": "エクソソーム肝硬変治療",
-      "raw_title": "肝硬変に対するエクソソームを用いた新たな治療法の可能性 - 東京大学",
-      "summary": "東京大学がエクソソームを用いた肝硬変の新たな治療法の可能性を発表。学術機関による臨床研究段階の進展。",
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42MmhtVjUyMXNJMW1rdTNVbXJyWGhFaW5wczJWNzlSbnFhSUI3NTlJLURjTDlfbFFaSHBLMkw5Z1RHVFNuZldTdC1qZXNSbTRJRVlQNWNINlpKVmhXY3FJUXJFQ2VlTkRz?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42MmhtVjUyMXNJMW1rdTNVbXJyWGhFaW5wczJWNzlSbnFhSUI3NTlJLURjTDlfbFFaSHBLMkw5Z1RHVFNuZldTdC1qZXNSbTRJRVlQNWNINlpKVmhXY3FJUXJFQ2VlTkRz?oc=5",
-      "source_name": "東京大学",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-02T23:20:18+0900",
-      "status": "candidate",
-      "created_at": "2026-10-28T23:20:19+0900"
     },
     {
       "seed_id": "seed_e54650e8e6fb",
