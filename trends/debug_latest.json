@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T02:27:00+09:00",
+  "generated_at": "2026-11-03T06:57:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,44 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 13,
-    "dedup_excluded": 10,
-    "passed_total": 109,
+    "neg_excluded": 12,
+    "dedup_excluded": 9,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "news_web": 14,
-      "x_realtime": 7,
-      "yahoo_news_ranking": 5
+      "news_web": 13,
+      "x_realtime": 8,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
+    "social_reaction": 30,
     "personal_story": 3,
     "opinion": 10,
     "hard_fact": 21,
-    "policy": 8
+    "policy": 6
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
+    "social_reaction": 30,
     "opinion": 10,
     "hard_fact": 20,
-    "policy": 9,
+    "policy": 7,
     "personal_story": 3
   },
   "b2b_top10": [
+    {
+      "title": "七川琴の再来か！？「レジスタはギルティだが、薬屋は無罪」と主張するBL創作者の腐",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "突然ですが「水族館グッズはいいぞ大会」を開催します、みなさんが持ってる水族館グッ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "お客様情報の一部が窃取された可能性に関するお詫びとお知らせ｜GMOペイメントゲー",
       "source_category": "yahoo_realtime",
@@ -55,52 +67,40 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "⚠️Gmail&YouTubeアカウントが盗まれた件についての注意喚起｜yuig",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "pakhtakor fc vs al-nassr standings",
+      "title": "有吉ゼミ 大食い",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "情熱大陸",
+      "title": "fns歌謡祭",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ディズニー 野良猫",
+      "title": "klasemen pakhtakor vs al-nassr",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "中国軍幹部が空洞化 汚職対策影響",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_world",
-      "topic_category": "hard_fact"
+      "title": "うお座",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "ブラックコーヒーをわざわざ飲むのって、健康に気をつけて味のある飲み物を飲もうとな",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "ラッコ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "「一番つまらなかった本を教えてほしい」→おすすめじゃなくて、誰かの「自分には合わ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Amazonでお米を宅配ボックスに入れてもらえなかった、という不満ポストに「これ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "アップル 決算",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
@@ -111,19 +111,19 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "七川琴の再来か！？「レジスタはギルティだが、薬屋は無罪」と主張するBL創作者の腐",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "突然ですが「水族館グッズはいいぞ大会」を開催します、みなさんが持ってる水族館グッ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "JR東、宇都宮駅エスカレーターの廃止撤回　市長や県が再考要望 | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "⚠️Gmail&YouTubeアカウントが盗まれた件についての注意喚起｜yuig",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ブラックコーヒーをわざわざ飲むのって、健康に気をつけて味のある飲み物を飲もうとな",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -135,21 +135,21 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「自分が好きだったラノベが13年越しに魔改造されててワロタ」→レーベル変更などで",
+      "title": "snidelのダウンジャケット、ふとんの西川が作ってるらしい「西川を着て出歩ける",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "Amazonでお米を宅配ボックスに入れてもらえなかった、という不満ポストに「これ",
+      "title": "渋谷ハロウィンに現れた「ちいかわ演奏隊」のバイオリンが絶妙にできてて面白い…曲は",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "韓国人「日本のスーパーのパンや生クリームは、次元が違う…こんな食生活をしていてど",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "ブラックコーヒーをわざわざ飲むのって、健康に気をつけて味のある飲み物を飲もうとな",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -159,10 +159,10 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "同志社会見で八田氏「日本基督教団との組織的な関係は絶対にない」が秒でバレる～大学",
+      "title": "教養のない質問ですが、美術館ってみなさん何を見ていらっしゃるんでしょう…「好きな",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     }
   ]
 }
