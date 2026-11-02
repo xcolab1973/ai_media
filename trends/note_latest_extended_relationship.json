@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-02T16:42:13+09:00",
- "valid_until": "2026-11-16T16:41:04+09:00",
+ "generated_at": "2026-11-03T06:30:00+09:00",
+ "valid_until": "2026-11-17T06:28:55+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "relationship",
   "from_current": 24,
-  "from_new": 3,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 3,
+  "retention_dropped": 1,
   "genres": 3,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "職場の嫌いな人にも年末年始の挨拶をするのが社会人ですか？",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13154080918",
+   "summary": "嫌いな相手にも年末年始の挨拶をすべきか迷う相談。挨拶を無視される悩みも多く、年末の対人ストレスの生ペイン。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "relationship-social",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "職場 苦手な上司 年末 挨拶 無視される 人間関係 相談 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-11-17T06:28:55+09:00",
+   "validity_days": 14
+  },
   {
    "source_category": "news_web",
    "raw_title": "会社の忘年会「行きたくない」はアリ？はたらく人の本音から見える「職場のいま」",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-11-09T06:27:56+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "忘年会に行きたくない時の対処法！新人・若手も安心の上手な断り方",
-   "url": "https://zcareer.com/guide/f4/s065/t202/dont-want-to-go-to-year-end-party/",
-   "summary": "忘年会を角を立てずに断るための考え方と伝え方を紹介する記事。断る理由の選び方や事前の伝え方がテーマ。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "relationship-social",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "zcareer",
-    "expert_origin": false,
-    "search_query": "年末 忘年会 断りたい 上司 誘い 角が立たない 断り方 職場の人間関係",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-11-07T06:29:38+09:00",
    "validity_days": 14
   },
   {

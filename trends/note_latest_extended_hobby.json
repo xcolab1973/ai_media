@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-02T16:42:12+09:00",
- "valid_until": "2026-11-16T16:39:44+09:00",
+ "generated_at": "2026-11-03T06:30:00+09:00",
+ "valid_until": "2026-11-17T06:27:37+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "hobby",
- "total_count": 36,
+ "total_count": 37,
  "merge": {
   "parent": "hobby",
-  "from_current": 44,
-  "from_new": 6,
-  "expired_pruned": 11,
-  "retention_dropped": 3,
+  "from_current": 36,
+  "from_new": 4,
+  "expired_pruned": 0,
+  "retention_dropped": 0,
   "genres": 6,
   "retention_per_genre": 8
  },
@@ -43,7 +43,7 @@
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-11-11T06:27:39+09:00",
+   "valid_until": "2026-11-17T06:27:37+09:00",
    "validity_days": 14
   },
   {
@@ -73,7 +73,7 @@
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-11-11T06:27:39+09:00",
+   "valid_until": "2026-11-17T06:27:37+09:00",
    "validity_days": 14
   },
   {
@@ -103,7 +103,7 @@
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-11-11T06:27:39+09:00",
+   "valid_until": "2026-11-17T06:27:37+09:00",
    "validity_days": 14
   },
   {
@@ -1005,6 +1005,36 @@
    },
    "valid_until": "2026-11-03T16:36:53+09:00",
    "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "Steamセールの賢い買い方と積みゲー対策｜後悔しないゲームの買い方",
+   "url": "https://pyonpe.com/pages/260328-steam-sale/",
+   "summary": "Steamセールでの買い方と積みゲーを増やさない対策の解説記事。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "hobby-game-info",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "pyonpe",
+    "expert_origin": false,
+    "search_query": "ゲーム 年末 セール 積みゲー 買いすぎ 2026 ブラックフライデー Steam 対策",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": true,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-11-08T06:27:37+09:00",
+   "validity_days": 5
   },
   {
    "source_category": "news_web",
