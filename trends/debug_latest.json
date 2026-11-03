@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T17:34:00+09:00",
+  "generated_at": "2026-11-04T00:29:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,32 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 8,
-    "passed_total": 115,
+    "neg_excluded": 12,
+    "dedup_excluded": 10,
+    "passed_total": 110,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
-      "x_realtime": 10,
+      "yahoo_realtime": 34,
       "google_trends": 10,
-      "news_web": 15,
-      "yahoo_news_ranking": 2
+      "x_realtime": 6,
+      "news_web": 17,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "personal_story": 3,
-    "medical_science": 3,
+    "social_reaction": 31,
+    "medical_science": 2,
+    "personal_story": 2,
     "opinion": 10,
     "hard_fact": 20,
-    "policy": 4
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 21,
-    "social_reaction": 30,
-    "policy": 4,
+    "hard_fact": 20,
+    "social_reaction": 31,
     "medical_science": 2,
     "opinion": 10,
-    "personal_story": 3
+    "policy": 5,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
@@ -51,19 +51,19 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "「GoogleやAppleのアカウントを守るためにYubiKeyを使っている」物",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "値上げ時代でも｢もやし｣は30円台で買える…巨大野菜工場で見えた日本の｢安くてう",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「玉城デニー氏をたたけばバズる」…沖縄県知事選挙中に量産された「カネもうけ目的」",
+      "title": "ハタハタ資源保護は？　今季は禁漁せず例年と同じ操業へ　「禁漁しても増加すると判断",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "局地停戦終了直後に学校空爆、26人死亡 ゼレンスキー氏「和平への期待砕かれた」",
+      "title": "黒海で相次ぐロシアの商船攻撃、空と海からドローンで襲撃　「世界で最も危険な海域」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
@@ -75,31 +75,31 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "GMO熊谷代表「あなたお詫びしているのにボタン開けてどうするんだ」 会見中に服装",
+      "title": "ぞうさんパクパクよしたか トラブル",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「玉城デニー氏をたたけばバズる」…沖縄県知事選挙中に量産された「カネもうけ目的」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "policy"
     },
     {
-      "title": "ヴァンフォーレ甲府 対 アルビレックス新潟 順位",
+      "title": "平子祐希",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "マック新作",
+      "title": "八ヶ岳連峰",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "山本太郎",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "稽古",
+      "title": "ミンホ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +107,64 @@
   ],
   "note_top10": [
     {
-      "title": "「GoogleやAppleのアカウントを守るためにYubiKeyを使っている」物",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "GMO熊谷代表「あなたお詫びしているのにボタン開けてどうするんだ」 会見中に服装",
+      "title": "値上げ時代でも｢もやし｣は30円台で買える…巨大野菜工場で見えた日本の｢安くてう",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "神戸観光でおすすめしたいのは『竹中大工道具館』展示物に日本の建築技術が詰まってる",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "ハタハタ資源保護は？　今季は禁漁せず例年と同じ操業へ　「禁漁しても増加すると判断",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "産業医に話したところで職場なんて1ミリも変わらないから高ストレス判定が出ても無視",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "映画「ゴジラ-0.0」が公開、絶賛と酷評の両方の意味で「やってくれたな、山崎貴」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "「この俳句ガチで凄い」とXで注目のお～いお茶の俳句に「ワイ、学が無いので分らんの",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「北海道で回転ずしを食べたらかなりショックだった。こんなに違うの！？」北海道の人",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「福岡の警察犬フック号、行方不明の女の子を発見して表彰」人間大好き！が伝わる画像",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「正直相当ヤバい」泉ピン子さんの舞台挨拶での言動を提訴した製作会社の取締役兼映画",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "GPUを暖房代わりにする話をするたびに「宇宙に存在する莫大な量の水素を全部燃料に",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【ニュースto】親の“老い逃げ”は許さない？相談が急増している『家族じまい』の実",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "昔、知り合いの結婚式で「プロ仕様のカメラを持ち込んだ客がいたら、外部のプロカメラ",
+      "title": "「エピソードとしてまとまってるけど、それ本当に起きたこと？」声優・浅野真澄さんが",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "2Lのペットボトル100本を水道水で満たして部屋のあちこちに配置すれば、部屋全体",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ADHDにおける「起こりえる行動特性（実例80個）」と家族の対処法",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "麻倉もも アーティストデビュー 10周年記念生配信",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "通ってこなかったスラムダンクをアニメ3話まで見たあと夫に「最終的に桜木くんとあの",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ]
 }
