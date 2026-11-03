@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T00:29:00+09:00",
+  "generated_at": "2026-11-04T04:51:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,66 +7,48 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 10,
-    "passed_total": 110,
+    "neg_excluded": 10,
+    "dedup_excluded": 13,
+    "passed_total": 99,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
+      "yahoo_realtime": 23,
       "google_trends": 10,
       "x_realtime": 6,
-      "news_web": 17,
-      "yahoo_news_ranking": 3
+      "yahoo_news_ranking": 5,
+      "news_web": 26
     }
   },
   "note_category_counts": {
-    "social_reaction": 31,
-    "medical_science": 2,
-    "personal_story": 2,
+    "social_reaction": 22,
+    "medical_science": 3,
+    "personal_story": 1,
     "opinion": 10,
-    "hard_fact": 20,
-    "policy": 5
+    "policy": 4,
+    "hard_fact": 30
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 20,
-    "social_reaction": 31,
-    "medical_science": 2,
-    "opinion": 10,
+    "social_reaction": 22,
+    "medical_science": 3,
     "policy": 5,
-    "personal_story": 2
+    "opinion": 10,
+    "hard_fact": 29,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "はしか感染の子どもが死亡、NY州で30年ぶりの死者　排除国認定取り消しか",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "値上げ時代でも｢もやし｣は30円台で買える…巨大野菜工場で見えた日本の｢安くてう",
+      "title": "欧州の天然ガス備蓄、2013年以来の低水準 IEA",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "ハタハタ資源保護は？　今季は禁漁せず例年と同じ操業へ　「禁漁しても増加すると判断",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "黒海で相次ぐロシアの商船攻撃、空と海からドローンで襲撃　「世界で最も危険な海域」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
     },
     {
       "title": "ADHDにおける「起こりえる行動特性（実例80個）」と家族の対処法",
@@ -75,31 +57,49 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "ぞうさんパクパクよしたか トラブル",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "ハタハタ資源保護は？　今季は禁漁せず例年と同じ操業へ　「禁漁しても増加すると判断",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "「玉城デニー氏をたたけばバズる」…沖縄県知事選挙中に量産された「カネもうけ目的」",
+      "title": "“16歳未満のSNS利用を禁止”　市民団体が国に要望書提出（2026年10月30",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "平子祐希",
+      "title": "個人情報",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "八ヶ岳連峰",
+      "title": "バルセロナ 対 アストン・ビラ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ミンホ",
+      "title": "barcelona vs aston villa",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ビジャレアル 対 パリsg",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "man utd vs roma",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "キャリーオーバー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,7 +107,7 @@
   ],
   "note_top10": [
     {
-      "title": "値上げ時代でも｢もやし｣は30円台で買える…巨大野菜工場で見えた日本の｢安くてう",
+      "title": "欧州の天然ガス備蓄、2013年以来の低水準 IEA",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,25 +125,7 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "映画「ゴジラ-0.0」が公開、絶賛と酷評の両方の意味で「やってくれたな、山崎貴」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「この俳句ガチで凄い」とXで注目のお～いお茶の俳句に「ワイ、学が無いので分らんの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "「エピソードとしてまとまってるけど、それ本当に起きたこと？」声優・浅野真澄さんが",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "2Lのペットボトル100本を水道水で満たして部屋のあちこちに配置すれば、部屋全体",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -155,15 +137,33 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "麻倉もも アーティストデビュー 10周年記念生配信",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "ハイキングコースを歩いていたら茂みにでっかい鳥がいたのでカメラ向けたらめっちゃ怒",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "通ってこなかったスラムダンクをアニメ3話まで見たあと夫に「最終的に桜木くんとあの",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "【ニュースto】親の“老い逃げ”は許さない？相談が急増している『家族じまい』の実",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "個人情報",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "バルセロナ 対 アストン・ビラ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "結局「多様性の尊重」必要なのは「共感力」ではなく「緩やかな無視」であるという話→",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
