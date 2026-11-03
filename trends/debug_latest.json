@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T06:57:00+09:00",
+  "generated_at": "2026-11-03T12:03:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,76 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 9,
-    "passed_total": 111,
+    "neg_excluded": 10,
+    "dedup_excluded": 12,
+    "passed_total": 110,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 33,
       "google_trends": 10,
-      "news_web": 13,
-      "x_realtime": 8,
-      "yahoo_news_ranking": 4
+      "news_web": 15,
+      "x_realtime": 6,
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
     "social_reaction": 30,
-    "personal_story": 3,
+    "personal_story": 2,
+    "medical_science": 2,
     "opinion": 10,
     "hard_fact": 21,
-    "policy": 6
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
+    "medical_science": 1,
+    "social_reaction": 28,
     "opinion": 10,
-    "hard_fact": 20,
-    "policy": 7,
-    "personal_story": 3
+    "hard_fact": 23,
+    "personal_story": 2,
+    "policy": 6
   },
   "b2b_top10": [
+    {
+      "title": "ADHDにおける「起こりえる行動特性（実例80個）」と家族の対処法",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "GMO不正アクセス、複雑な統治体制で防御後手　急成長で150社傘下 - 日本経済",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "GMO熊谷代表「あなたお詫びしているのにボタン開けてどうするんだ」 会見中に服装",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "本当に日本の“八百万の神”の感覚と一神教って相性が悪いなと感じる「昔の人が宗教で",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "インドに出張した夫が「インド人みんな日本人みたいなカレーを食べている」「カレーは",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "すき家 メニュー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "『レジスタ！』は誰の何に対するレジスタンスなのか？｜渡部宏樹（Kohki Wat",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "七川琴の再来か！？「レジスタはギルティだが、薬屋は無罪」と主張するBL創作者の腐",
       "source_category": "yahoo_realtime",
@@ -55,49 +99,7 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "お客様情報の一部が窃取された可能性に関するお詫びとお知らせ｜GMOペイメントゲー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "JR東、宇都宮駅エスカレーターの廃止撤回　市長や県が再考要望 | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "有吉ゼミ 大食い",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "fns歌謡祭",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "klasemen pakhtakor vs al-nassr",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "うお座",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ラッコ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "アップル 決算",
+      "title": "倉本聰",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,7 +107,37 @@
   ],
   "note_top10": [
     {
-      "title": "お客様情報の一部が窃取された可能性に関するお詫びとお知らせ｜GMOペイメントゲー",
+      "title": "GMO不正アクセス、複雑な統治体制で防御後手　急成長で150社傘下 - 日本経済",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "昔、知り合いの結婚式で「プロ仕様のカメラを持ち込んだ客がいたら、外部のプロカメラ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "GMO熊谷代表「あなたお詫びしているのにボタン開けてどうするんだ」 会見中に服装",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "本当に日本の“八百万の神”の感覚と一神教って相性が悪いなと感じる「昔の人が宗教で",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "インドに出張した夫が「インド人みんな日本人みたいなカレーを食べている」「カレーは",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『レジスタ！』は誰の何に対するレジスタンスなのか？｜渡部宏樹（Kohki Wat",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -123,46 +155,16 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "JR東、宇都宮駅エスカレーターの廃止撤回　市長や県が再考要望 | 毎日新聞",
+      "title": "ADHDにおける「起こりえる行動特性（実例80個）」と家族の対処法",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "medical_science"
     },
     {
-      "title": "「一番つまらなかった本を教えてほしい」→おすすめじゃなくて、誰かの「自分には合わ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "snidelのダウンジャケット、ふとんの西川が作ってるらしい「西川を着て出歩ける",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "渋谷ハロウィンに現れた「ちいかわ演奏隊」のバイオリンが絶妙にできてて面白い…曲は",
+      "title": "日本の日ごろの飲み物の選択肢に『お茶類』があるの、マジで日本人を救ってると思う「",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "ブラックコーヒーをわざわざ飲むのって、健康に気をつけて味のある飲み物を飲もうとな",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "味噌汁にサバ缶を入れるとあら汁みたいになって美味しいと知り、「私にもできるか？」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "教養のない質問ですが、美術館ってみなさん何を見ていらっしゃるんでしょう…「好きな",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
     }
   ]
 }
