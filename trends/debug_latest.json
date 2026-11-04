@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T04:51:00+09:00",
+  "generated_at": "2026-11-04T10:38:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,163 +7,161 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 13,
-    "passed_total": 99,
+    "neg_excluded": 7,
+    "dedup_excluded": 9,
+    "passed_total": 116,
     "b2b_category_counts": {
-      "yahoo_realtime": 23,
+      "yahoo_realtime": 38,
+      "x_realtime": 8,
       "google_trends": 10,
-      "x_realtime": 6,
-      "yahoo_news_ranking": 5,
-      "news_web": 26
+      "news_web": 12,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 22,
-    "medical_science": 3,
-    "personal_story": 1,
-    "opinion": 10,
-    "policy": 4,
-    "hard_fact": 30
+    "social_reaction": 33,
+    "personal_story": 3,
+    "opinion": 6,
+    "hard_fact": 19,
+    "policy": 9
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 22,
-    "medical_science": 3,
-    "policy": 5,
-    "opinion": 10,
-    "hard_fact": 29,
-    "personal_story": 1
+    "social_reaction": 33,
+    "policy": 10,
+    "personal_story": 3,
+    "opinion": 6,
+    "hard_fact": 18
   },
   "b2b_top10": [
     {
-      "title": "欧州の天然ガス備蓄、2013年以来の低水準 IEA",
+      "title": "センター街でいきなり男性に腕を掴まれて「なんか怪しいことしてますよね？」と盗撮犯",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ADHDにおける「起こりえる行動特性（実例80個）」と家族の対処法",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "ハタハタ資源保護は？　今季は禁漁せず例年と同じ操業へ　「禁漁しても増加すると判断",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "“16歳未満のSNS利用を禁止”　市民団体が国に要望書提出（2026年10月30",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "個人情報",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "バルセロナ 対 アストン・ビラ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "barcelona vs aston villa",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ビジャレアル 対 パリsg",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "man utd vs roma",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "キャリーオーバー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    }
-  ],
-  "note_top10": [
-    {
-      "title": "欧州の天然ガス備蓄、2013年以来の低水準 IEA",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ハタハタ資源保護は？　今季は禁漁せず例年と同じ操業へ　「禁漁しても増加すると判断",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "産業医に話したところで職場なんて1ミリも変わらないから高ストレス判定が出ても無視",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「エピソードとしてまとまってるけど、それ本当に起きたこと？」声優・浅野真澄さんが",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ADHDにおける「起こりえる行動特性（実例80個）」と家族の対処法",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "ハイキングコースを歩いていたら茂みにでっかい鳥がいたのでカメラ向けたらめっちゃ怒",
+      "title": "「私立小ってマジでめっちゃクレーム来るのよ」制服で登下校していると目立つため、近",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【ニュースto】親の“老い逃げ”は許さない？相談が急増している『家族じまい』の実",
+      "title": "【超かぐや姫！】「ツクヨミ感謝祭～めちゃうまパンケーキパーティー～」ライブPV【",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「トヨタはすごい」は幻想に…EV補助金縮小であらわになる中国BYDと性能差　頼み",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "ランチの値段はもう1500円が当たり前になってしまった。 ほんの数年前はランチ8",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "個人情報",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "バルセロナ 対 アストン・ビラ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "結局「多様性の尊重」必要なのは「共感力」ではなく「緩やかな無視」であるという話→",
+      "title": "日経トレンディ「2026年ヒット商品ベスト30」　この1年で売れたものは",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "堂本光一",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "キオクシア 株価",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "米 イスラエル年40億ドル支援終了",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_world",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "薬屋はよく知らんがレジスタはボディラインの強調加減が成人向けなのでゾ..",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    }
+  ],
+  "note_top10": [
+    {
+      "title": "センター街でいきなり男性に腕を掴まれて「なんか怪しいことしてますよね？」と盗撮犯",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「私立小ってマジでめっちゃクレーム来るのよ」制服で登下校していると目立つため、近",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "日経トレンディ「2026年ヒット商品ベスト30」　この1年で売れたものは",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【超かぐや姫！】「ツクヨミ感謝祭～めちゃうまパンケーキパーティー～」ライブPV【",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ランチの値段はもう1500円が当たり前になってしまった。 ほんの数年前はランチ8",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "薬屋はよく知らんがレジスタはボディラインの強調加減が成人向けなのでゾ..",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "パトカーの乗車体験、オタク仲間みんな後部座席に座りたがるから、警察官に「みなさん",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "個別指導トレーニングトラブル増　強引な勧誘や高額契約「慎重に」（共同通信） - ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ラーメン屋さんの煮卵ってどうやって作るの？白身はしっかり固まってるのに黄味はとろ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "職場の昼食で「玉子屋」を注文するが、もう3回も誰かに私の弁当を食べられる事象が起",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
