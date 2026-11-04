@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T17:01:00+09:00",
+  "generated_at": "2026-11-05T00:47:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,43 +7,55 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 10,
-    "passed_total": 116,
+    "neg_excluded": 9,
+    "dedup_excluded": 11,
+    "passed_total": 102,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
+      "yahoo_realtime": 24,
       "google_trends": 10,
-      "yahoo_news_ranking": 4,
-      "x_realtime": 8,
-      "news_web": 12
+      "x_realtime": 7,
+      "news_web": 19,
+      "yahoo_news_ranking": 10
     }
   },
   "note_category_counts": {
-    "social_reaction": 23,
+    "social_reaction": 15,
+    "medical_science": 6,
     "personal_story": 3,
-    "opinion": 10,
-    "medical_science": 1,
-    "policy": 14,
-    "hard_fact": 19
+    "opinion": 8,
+    "hard_fact": 32,
+    "policy": 6
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 22,
-    "policy": 16,
+    "medical_science": 6,
+    "social_reaction": 15,
+    "opinion": 8,
+    "hard_fact": 31,
     "personal_story": 3,
-    "opinion": 10,
-    "hard_fact": 18,
-    "medical_science": 1
+    "policy": 7
   },
   "b2b_top10": [
+    {
+      "title": "ヒキガエル毒素由来の幻覚剤点鼻スプレー、難治性うつ病に劇的効果か ｜ BANG ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "残酷な話なんだが「女なら誰彼構わずセクハラするタイプのおぢ」の自認って今だと壬氏",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "GMO謝罪会見、なぜここまで炎上？【危機管理のプロが徹底解説】",
       "source_category": "yahoo_realtime",
@@ -51,55 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "Snow Manドームツアーで高校生マーチングバンドが登場する演出に賛否両論「地",
+      "title": "ナスダック",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ツイキャス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "入院するときの保証人、親がいなくなったら誰に頼んだらいいんだろ？親戚にお願いでき",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「トヨタはすごい」は幻想に…EV補助金縮小であらわになる中国BYDと性能差　頼み",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "オーケストラに指揮者は本当に必要なのだろうか？指揮者が変わると本当に演奏が良くな",
+      "title": "祖父が亡くなる前、子どもの頃容姿をいじられ嫌だったから会わなかった。でも亡くなっ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ランチの値段はもう1500円が当たり前になってしまった。 ほんの数年前はランチ8",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "山口俊",
+      "title": "videostrong technology",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "石川雅規",
+      "title": "ゼルダ 時のオカリナ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "285a",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "若隆景",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "機動戦士ガンダムseed",
+      "title": "佳子内親王",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
+      "title": "残酷な話なんだが「女なら誰彼構わずセクハラするタイプのおぢ」の自認って今だと壬氏",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "GMO謝罪会見、なぜここまで炎上？【危機管理のプロが徹底解説】",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "Snow Manドームツアーで高校生マーチングバンドが登場する演出に賛否両論「地",
+      "title": "入院するときの保証人、親がいなくなったら誰に頼んだらいいんだろ？親戚にお願いでき",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "オーケストラに指揮者は本当に必要なのだろうか？指揮者が変わると本当に演奏が良くな",
+      "title": "祖父が亡くなる前、子どもの頃容姿をいじられ嫌だったから会わなかった。でも亡くなっ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ランチの値段はもう1500円が当たり前になってしまった。 ほんの数年前はランチ8",
+      "title": "ヒキガエル毒素由来の幻覚剤点鼻スプレー、難治性うつ病に劇的効果か ｜ BANG ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "medical_science"
     },
     {
-      "title": "最近柚子胡椒にハマり始めたので「これにつけたらおいしいよ」「この柚子胡椒がおすす",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日本全国の温泉を可視化してみた人が登場、図にすると、関東南東部と東北地方に温泉の",
+      "title": "昔アメリカの中学に転入した人、「Fuckin' Jap!」と野次られたので「レッ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "果物や野菜で最も食物繊維が豊富なのは可食部ではなく「通常は捨てられてしまう部分」",
+      "title": "ｅ―Ｔａｘに不審な通信　国税庁、一時停止に：時事ドットコム",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本は韓国より敬語が厳しくないみたいだけど、『ゴールデンカムイ』で月島が鯉登にタ",
+      "title": "「ちんちんって運動やダンスする時邪魔じゃない？ずっと股間でブラブラしてんの？」→",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "教養でもつけるキョヨねぇ…と思って『アルジャーノンに花束を』を読んだけど、知性を",
+      "title": "「転職したことずっと後悔してる」転職したら悩みがなくなって全てが好転する気がして",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "パン屋でフランスパンを買ったんだよ",
+      "title": "「真っ赤な嘘をSNSで大量発信」百田尚樹氏、支持者集める「虚飾」を批判",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
