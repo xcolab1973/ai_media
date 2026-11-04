@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T10:38:00+09:00",
+  "generated_at": "2026-11-04T17:01:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,46 +16,42 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 9,
+    "neg_excluded": 6,
+    "dedup_excluded": 10,
     "passed_total": 116,
     "b2b_category_counts": {
-      "yahoo_realtime": 38,
-      "x_realtime": 8,
+      "yahoo_realtime": 36,
       "google_trends": 10,
-      "news_web": 12,
-      "yahoo_news_ranking": 2
+      "yahoo_news_ranking": 4,
+      "x_realtime": 8,
+      "news_web": 12
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
+    "social_reaction": 23,
     "personal_story": 3,
-    "opinion": 6,
-    "hard_fact": 19,
-    "policy": 9
+    "opinion": 10,
+    "medical_science": 1,
+    "policy": 14,
+    "hard_fact": 19
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
-    "policy": 10,
+    "social_reaction": 22,
+    "policy": 16,
     "personal_story": 3,
-    "opinion": 6,
-    "hard_fact": 18
+    "opinion": 10,
+    "hard_fact": 18,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "センター街でいきなり男性に腕を掴まれて「なんか怪しいことしてますよね？」と盗撮犯",
+      "title": "GMO謝罪会見、なぜここまで炎上？【危機管理のプロが徹底解説】",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「私立小ってマジでめっちゃクレーム来るのよ」制服で登下校していると目立つため、近",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【超かぐや姫！】「ツクヨミ感謝祭～めちゃうまパンケーキパーティー～」ライブPV【",
+      "title": "Snow Manドームツアーで高校生マーチングバンドが登場する演出に賛否両論「地",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -67,63 +63,63 @@
       "topic_category": "policy"
     },
     {
+      "title": "オーケストラに指揮者は本当に必要なのだろうか？指揮者が変わると本当に演奏が良くな",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "ランチの値段はもう1500円が当たり前になってしまった。 ほんの数年前はランチ8",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "日経トレンディ「2026年ヒット商品ベスト30」　この1年で売れたものは",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "堂本光一",
+      "title": "山口俊",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "キオクシア 株価",
+      "title": "石川雅規",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
+      "topic_category": "opinion"
     },
     {
-      "title": "米 イスラエル年40億ドル支援終了",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_world",
-      "topic_category": "hard_fact"
+      "title": "285a",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "薬屋はよく知らんがレジスタはボディラインの強調加減が成人向けなのでゾ..",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "若隆景",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "機動戦士ガンダムseed",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "センター街でいきなり男性に腕を掴まれて「なんか怪しいことしてますよね？」と盗撮犯",
+      "title": "GMO謝罪会見、なぜここまで炎上？【危機管理のプロが徹底解説】",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「私立小ってマジでめっちゃクレーム来るのよ」制服で登下校していると目立つため、近",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日経トレンディ「2026年ヒット商品ベスト30」　この1年で売れたものは",
+      "title": "Snow Manドームツアーで高校生マーチングバンドが登場する演出に賛否両論「地",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【超かぐや姫！】「ツクヨミ感謝祭～めちゃうまパンケーキパーティー～」ライブPV【",
+      "title": "オーケストラに指揮者は本当に必要なのだろうか？指揮者が変わると本当に演奏が良くな",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -135,33 +131,39 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "薬屋はよく知らんがレジスタはボディラインの強調加減が成人向けなのでゾ..",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "最近柚子胡椒にハマり始めたので「これにつけたらおいしいよ」「この柚子胡椒がおすす",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "パトカーの乗車体験、オタク仲間みんな後部座席に座りたがるから、警察官に「みなさん",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "日本全国の温泉を可視化してみた人が登場、図にすると、関東南東部と東北地方に温泉の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "個別指導トレーニングトラブル増　強引な勧誘や高額契約「慎重に」（共同通信） - ",
+      "title": "果物や野菜で最も食物繊維が豊富なのは可食部ではなく「通常は捨てられてしまう部分」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ラーメン屋さんの煮卵ってどうやって作るの？白身はしっかり固まってるのに黄味はとろ",
+      "title": "日本は韓国より敬語が厳しくないみたいだけど、『ゴールデンカムイ』で月島が鯉登にタ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "職場の昼食で「玉子屋」を注文するが、もう3回も誰かに私の弁当を食べられる事象が起",
+      "title": "教養でもつけるキョヨねぇ…と思って『アルジャーノンに花束を』を読んだけど、知性を",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "パン屋でフランスパンを買ったんだよ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
