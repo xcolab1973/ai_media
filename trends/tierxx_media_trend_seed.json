@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-04T00:26:03+0900",
+    "generated_at": "2026-11-04T10:35:54+0900",
     "record_count": 37,
-    "source_total_in_db": 1656,
+    "source_total_in_db": 1657,
     "provenance_breakdown": {
       "evidence": 1064,
-      "pain_seed": 592
+      "pain_seed": 593
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_1c6874925893",
+      "trend_term": "HIFU代替技術の台頭",
+      "raw_title": "「もうHIFUだけに頼らない。」美容サロンの新たなリフトケアメニュー『HIFace(R)』、全国体験セミナー・オンライン商談を開始 - Infoseek",
+      "summary": "美容サロンで従来のHIFU単独施術から複合的なリフトケアメニューへシフト。新技術『HIFace』の導入により、施術選択肢の多様化が進行中。",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtTEtPaUtzd0RBX2g5U1VDZDRGejdacXV5cTJSdkttSFNrVDh3bXEyZS14aERTSkNrb1d2LXc2bGpLMEUwZkxSa3dESnNUVlZrbmFIRDRDVllWanU2anFDcWdxMDZBbVZZVjVKN2MxdEhKQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtTEtPaUtzd0RBX2g5U1VDZDRGejdacXV5cTJSdkttSFNrVDh3bXEyZS14aERTSkNrb1d2LXc2bGpLMEUwZkxSa3dESnNUVlZrbmFIRDRDVllWanU2anFDcWdxMDZBbVZZVjVKN2MxdEhKQQ?oc=5",
+      "source_name": "Infoseek",
+      "monitor_id": "bm-machine-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-09T10:35:39+0900",
+      "status": "candidate",
+      "created_at": "2026-11-04T10:35:39+0900"
+    },
     {
       "seed_id": "seed_6b826985c68d",
       "trend_term": "違法直カウ問題",
@@ -569,24 +587,6 @@
       "valid_until": "2026-11-13T10:16:52+0900",
       "status": "candidate",
       "created_at": "2026-10-30T10:16:52+0900"
-    },
-    {
-      "seed_id": "seed_d94c4c11fdb4",
-      "trend_term": "ポテンツァ新パッケージ",
-      "raw_title": "ベンスクリニック横浜院がティシボとポテンツァの新パッケージ施術を提供へ - Dellows News",
-      "summary": "ベンスクリニック横浜院がティシボとポテンツァの新パッケージ施術を提供開始。既存技術の組み合わせによる新メニュー。",
-      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSZzAzbEhjUFRYOFhuMlQ4M3Fib0pzbVZpbFVQWnlkcEJxRm4wQ2hxTVdnNVlEN2xTUkVHbUcyUVRuRFFvMzQ0NE1RSWdOQkNSc3h4bnRXbFB4N3J1X1E?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSZzAzbEhjUFRYOFhuMlQ4M3Fib0pzbVZpbFVQWnlkcEJxRm4wQ2hxTVdnNVlEN2xTUkVHbUcyUVRuRFFvMzQ0NE1RSWdOQkNSc3h4bnRXbFB4N3J1X1E?oc=5",
-      "source_name": "Dellows News",
-      "monitor_id": "bm-machine-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-04T10:16:46+0900",
-      "status": "candidate",
-      "created_at": "2026-10-30T10:16:46+0900"
     },
     {
       "seed_id": "seed_13a64390df1d",
