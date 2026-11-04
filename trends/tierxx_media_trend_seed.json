@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-04T10:35:54+0900",
+    "generated_at": "2026-11-05T00:41:55+0900",
     "record_count": 37,
-    "source_total_in_db": 1657,
+    "source_total_in_db": 1658,
     "provenance_breakdown": {
-      "evidence": 1064,
+      "evidence": 1065,
       "pain_seed": 593
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_4cd2a00accb7",
+      "trend_term": "K-ECMスキンブースター",
+      "raw_title": "提供皮膚から作るK-ECMスキンブースター、820億ウォンの米国契約など輸出拡大 - BigGo ファイナンス",
+      "summary": "皮膚から作るK-ECMスキンブースターが820億ウォンの米国契約を獲得し、輸出拡大が進行中",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEY3FWeFJIaVdpNW9pNnlkTmpZdl91eThjaENMdmc2NGU3Ykt0Y1ZJMGVEdjJNUTFiVnJlS3MzbEhwb0VTTVZqOTVpYi1Sem5EaktjX3lMN0todXo2bHNkU2VFd3ZCSldKWFY4T0RVWF9aSUh2?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEY3FWeFJIaVdpNW9pNnlkTmpZdl91eThjaENMdmc2NGU3Ykt0Y1ZJMGVEdjJNUTFiVnJlS3MzbEhwb0VTTVZqOTVpYi1Sem5EaktjX3lMN0todXo2bHNkU2VFd3ZCSldKWFY4T0RVWF9aSUh2?oc=5",
+      "source_name": "BigGo ファイナンス",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-10T00:41:10+0900",
+      "status": "candidate",
+      "created_at": "2026-11-05T00:41:10+0900"
+    },
     {
       "seed_id": "seed_1c6874925893",
       "trend_term": "HIFU代替技術の台頭",
@@ -533,24 +551,6 @@
       "valid_until": "2026-11-07T18:48:10+0900",
       "status": "candidate",
       "created_at": "2026-11-02T18:48:10+0900"
-    },
-    {
-      "seed_id": "seed_5589fd7a4da4",
-      "trend_term": "エラボトックス体験レポート",
-      "raw_title": "2週間でどこまで変わる？STORYスタッフが「エラボトックス」を体験！ - storyweb.jp",
-      "summary": "施術体験による2週間での変化を記録。一般読者の「実際どの程度効果あるのか」という疑問に応える角度",
-      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSdmVyZmRXa1ZheXNIbDk1XzNOaVowLU9hZGJVUkpQcG5yMkI1QkNncjE5aEZCb1I1S3Y0eTNaWkk3eXE5cFo0STFyZG9iZw?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSdmVyZmRXa1ZheXNIbDk1XzNOaVowLU9hZGJVUkpQcG5yMkI1QkNncjE5aEZCb1I1S3Y0eTNaWkk3eXE5cFo0STFyZG9iZw?oc=5",
-      "source_name": "storyweb.jp",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-14T09:58:24+0900",
-      "status": "candidate",
-      "created_at": "2026-10-31T09:58:24+0900"
     },
     {
       "seed_id": "seed_62093391d1af",
