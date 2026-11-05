@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-05T18:45:11+0900",
-    "record_count": 39,
-    "source_total_in_db": 1663,
+    "generated_at": "2026-11-06T00:43:49+0900",
+    "record_count": 40,
+    "source_total_in_db": 1664,
     "provenance_breakdown": {
-      "evidence": 1070,
+      "evidence": 1071,
       "pain_seed": 593
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_affc264b7ab3",
+      "trend_term": "美容整形の規制強化",
+      "raw_title": "ホーチミン市では、美容整形手術のための手術室の賃貸または貸し出しが禁止されている。 - Vietnam.vn",
+      "summary": "ホーチミン市が美容整形手術用の手術室賃貸を禁止する規制を導入。医療施設の安全基準に関する公的指針。",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOElLVWwxYmFhbjVXVF96Y1kwRzFJWWxkTllnR0t4bXJpUFk0MkZPUEcyM1pacVlHUV95aTlqZG1vcUE4RWlZZjlyLTRDcXAwWEhwb1hPWmgySmhRRkgxUlpQdVpVMWhCdTJidDNaSzVpU1BIS0VaRFU2ZEV4U0laWDM4aGNSREFfVTdHYnYwQ01TNWM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOElLVWwxYmFhbjVXVF96Y1kwRzFJWWxkTllnR0t4bXJpUFk0MkZPUEcyM1pacVlHUV95aTlqZG1vcUE4RWlZZjlyLTRDcXAwWEhwb1hPWmgySmhRRkgxUlpQdVpVMWhCdTJidDNaSzVpU1BIS0VaRFU2ZEV4U0laWDM4aGNSREFfVTdHYnYwQ01TNWM?oc=5",
+      "source_name": "Vietnam.vn",
+      "monitor_id": "bm-safety-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "official_instruction",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-11T00:42:50+0900",
+      "status": "candidate",
+      "created_at": "2026-11-06T00:42:50+0900"
+    },
     {
       "seed_id": "seed_7319c61fad85",
       "trend_term": "美容医療業界の経営戦略",
