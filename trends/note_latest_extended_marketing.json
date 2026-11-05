@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T14:09:07+09:00",
+ "generated_at": "2026-11-05T16:39:03+09:00",
  "valid_until": "2026-11-19T06:27:01+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -8,10 +8,10 @@
  "total_count": 36,
  "merge": {
   "parent": "marketing",
-  "from_current": 32,
-  "from_new": 6,
+  "from_current": 36,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 2,
+  "retention_dropped": 1,
   "genres": 5,
   "retention_per_genre": 8
  },
@@ -738,6 +738,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "【2026年5月】Googleコアアップデートで検索順位が低下したときの対処法",
+   "url": "https://seory.co.jp/google-core-update/",
+   "summary": "コアアップデート後に順位が落ちたときの対処法を扱う解説記事。タイトルと媒体名から言える範囲の要約。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "marketing-web",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "seory.co.jp",
+    "expert_origin": false,
+    "search_query": "Googleコアアップデート 2026年 順位下落 原因 中小サイト 対応",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-11-10T16:37:01+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "個人情報保護法改正2026年Web対応完全ガイド",
    "url": "https://nextage-tech.com/blog/2026/05/25/post-6343/",
    "summary": "同意UIはダークパターンがリスクとされ「同意しない」も同等に目立たせる設計が標準化する見込み。契約履行など本人の意思に反しないことが明らかな場合は同意不要となる方向。施行時期は同記事の予想であり確定ではない。（本文確認済）",
@@ -944,36 +974,6 @@
     "rescued": false
    },
    "valid_until": "2026-11-08T06:27:49+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "LP改善で問い合わせを3倍にする方法【2026年完全ガイド】",
-   "url": "https://sistail.jp/blog/lp-kaizen-toiawase-3bai",
-   "summary": "問い合わせ数は訪問者数×CVR。直す順番はファーストビュー、CTA、フォーム。フォームは3〜5項目が目安、ABテストは1要素ずつ。記事中の3倍事例は外部引用で未検証。（本文確認済）",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "marketing-web",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "sistail",
-    "expert_origin": false,
-    "search_query": "Webサイト 問い合わせが増えない 改善 2026年11月 年末 LP",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-11-07T16:40:02+09:00",
    "validity_days": 5
   },
   {
