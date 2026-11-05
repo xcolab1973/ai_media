@@ -1,21 +1,51 @@
 {
- "generated_at": "2026-11-03T06:30:00+09:00",
- "valid_until": "2026-11-17T06:28:55+09:00",
+ "generated_at": "2026-11-05T14:09:07+09:00",
+ "valid_until": "2026-11-19T06:27:57+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "relationship",
- "total_count": 24,
+ "total_count": 23,
  "merge": {
   "parent": "relationship",
   "from_current": 24,
   "from_new": 1,
-  "expired_pruned": 0,
-  "retention_dropped": 1,
+  "expired_pruned": 1,
+  "retention_dropped": 0,
   "genres": 3,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "会社の忘年会「行きたくない」はアリ？はたらく人の本音から見える「職場のいま」",
+   "url": "https://jobsoken.jp/info/j-58/",
+   "summary": "忘年会に行きたくない本音を扱う調査系の記事。断ること自体への後ろめたさがペインの種。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "relationship-social",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Job総研プラス",
+    "expert_origin": false,
+    "search_query": "職場 人間関係 年末 忘年会 断りたい 角が立たない 断り方",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-11-19T06:27:57+09:00",
+   "validity_days": 14
+  },
   {
    "source_category": "news_web",
    "raw_title": "職場の嫌いな人にも年末年始の挨拶をするのが社会人ですか？",
@@ -44,36 +74,6 @@
     "rescued": false
    },
    "valid_until": "2026-11-17T06:28:55+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "会社の忘年会「行きたくない」はアリ？はたらく人の本音から見える「職場のいま」",
-   "url": "https://jobsoken.jp/info/j-58/",
-   "summary": "働く人の本音アンケートから、忘年会への参加意識を読み解く調査系記事。断りたい人が多数派かどうかなど職場の空気を知る材料になる。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "relationship-social",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Job総研プラス",
-    "expert_origin": false,
-    "search_query": "年末 忘年会 断りたい 誘い 角が立たない 断り方 人間関係 職場",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-11-11T06:28:49+09:00",
    "validity_days": 14
   },
   {
@@ -464,36 +464,6 @@
     "rescued": false
    },
    "valid_until": "2026-11-06T06:29:07+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "マッチングアプリと結婚相談所って、具体的にどのような部分が違うの？また、料金の差はどのくらい？",
-   "url": "https://financial-field.com/living/entry-325399",
-   "summary": "マッチングアプリと結婚相談所の違い（仕組み・料金）を比較した記事。乗り換えを迷う読者の二次質問（自分はどちらか）への入口。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "relationship-dating",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "ファイナンシャルフィールド",
-    "expert_origin": true,
-    "search_query": "マッチングアプリ 仮交際 真剣交際 違い 結婚相談所 告白 タイミング 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-11-04T06:27:22+09:00",
    "validity_days": 14
   },
   {

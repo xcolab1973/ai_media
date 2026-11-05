@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-03T16:39:14+09:00",
- "valid_until": "2026-11-10T16:37:18+09:00",
+ "generated_at": "2026-11-05T14:09:06+09:00",
+ "valid_until": "2026-11-12T06:27:08+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "legal",
- "total_count": 11,
+ "total_count": 12,
  "merge": {
   "parent": "legal",
-  "from_current": 16,
+  "from_current": 11,
   "from_new": 1,
-  "expired_pruned": 6,
+  "expired_pruned": 0,
   "retention_dropped": 0,
   "genres": 5,
   "retention_per_genre": 8
@@ -284,6 +284,36 @@
     "rescued": false
    },
    "valid_until": "2026-11-10T06:27:52+09:00",
+   "validity_days": 7
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "消費者ホットライン188とは？何を相談できる？電話する前に準備するもの",
+   "url": "https://cocosapo.jp/hotline-188",
+   "summary": "188は最寄りの消費生活センターへつなぐ全国共通番号。相談は無料（通話料は別）。契約書・広告・画面保存・請求書などを手元に用意するとよいが、揃うまで待たなくてよい。相談員は助言やあっせんをするが強制的な返金はできない。労働問題は対象外。（本文確認済）",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "legal-consumer",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "あんしん安全を、知る。ここさぽ",
+    "expert_origin": false,
+    "search_query": "年末 解約 返金 トラブル 消費者ホットライン 188 クーリングオフ 2026 相談事例",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-11-12T06:27:08+09:00",
    "validity_days": 7
   },
   {
