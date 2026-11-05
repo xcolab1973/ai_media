@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T10:46:00+09:00",
+  "generated_at": "2026-11-05T17:31:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,39 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
-    "dedup_excluded": 9,
-    "passed_total": 112,
+    "neg_excluded": 7,
+    "dedup_excluded": 11,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
+      "yahoo_realtime": 33,
+      "news_web": 14,
       "google_trends": 10,
-      "news_web": 15,
-      "x_realtime": 7,
-      "yahoo_news_ranking": 2
+      "x_realtime": 5,
+      "yahoo_news_ranking": 8
     }
   },
   "note_category_counts": {
-    "personal_story": 4,
-    "social_reaction": 26,
-    "opinion": 7,
-    "policy": 13,
-    "medical_science": 3,
-    "hard_fact": 17
+    "personal_story": 3,
+    "social_reaction": 25,
+    "opinion": 9,
+    "policy": 10,
+    "hard_fact": 22,
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "policy": 14,
-    "opinion": 7,
-    "hard_fact": 16,
-    "personal_story": 4,
-    "social_reaction": 26,
-    "medical_science": 3
+    "personal_story": 3,
+    "policy": 9,
+    "hard_fact": 28,
+    "opinion": 9,
+    "social_reaction": 21
   },
   "b2b_top10": [
+    {
+      "title": "「ミスドって選び終わった人からレジへ進んでいいの？」という疑問…後ろの若者に抜か",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
     {
       "title": "不正アクセス、個人情報「持たない」選択　ゆで太郎は会員制廃止 - 日本経済新聞",
       "source_category": "yahoo_realtime",
@@ -51,55 +56,49 @@
       "topic_category": "policy"
     },
     {
-      "title": "yahooファイナンス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "速報",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ハロワで職務経歴書の添削をされた時に前々職のことを聞かれたが「8年も前だから覚え",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "大学生になって高校の友達や知り合いから「ワンナイトを経験した」や「酔ってお酒の勢",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "烈火の炎は3周読んだほうがいいですよ、1周目は能力バトルとして、2周目はリョナエ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "残酷な話なんだが「女なら誰彼構わずセクハラするタイプのおぢ」の自認って今だと壬氏",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "緊急地震速報 訓練",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "14歳 巨人から指名で周囲は激変",
+      "title": "学級写真の廃止 市立小1校が撤回",
       "source_category": "news_web",
       "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "ロケッツ 対 ウルブズ",
+      "title": "韓国総合株価指数",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "285a",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「これ面接で活用されたらエグい」慶應義塾大学の発表した研究が画期的な一方、排除に",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "「税務署もよく認めたな……」GMO熊谷正寿代表について新たな疑惑が報じられたが、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "「中古で雑な軽かコンパクトカーを買うべき」生まれも育ちも東京の若者が田舎転勤して",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "四日市競輪",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "池田 鉄洋",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +106,64 @@
   ],
   "note_top10": [
     {
-      "title": "ハロワで職務経歴書の添削をされた時に前々職のことを聞かれたが「8年も前だから覚え",
+      "title": "「ミスドって選び終わった人からレジへ進んでいいの？」という疑問…後ろの若者に抜か",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "大学生になって高校の友達や知り合いから「ワンナイトを経験した」や「酔ってお酒の勢",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "烈火の炎は3周読んだほうがいいですよ、1周目は能力バトルとして、2周目はリョナエ",
+      "title": "健康診断の結果、精密検査を受けるよう指示…大事な仕事がある日とわかっていたけど最",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "残酷な話なんだが「女なら誰彼構わずセクハラするタイプのおぢ」の自認って今だと壬氏",
+      "title": "「中古で雑な軽かコンパクトカーを買うべき」生まれも育ちも東京の若者が田舎転勤して",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "20代前半くらいの頃に家電量販店でマッサージチェアをやってみたら全然気持ち良くな",
+      "title": "「冷水のシャワー」を浴びる人は病欠が少なくなるとの研究結果",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ONE PIECEガチ勢の友達監修のもとやったハンコックの「見下しすぎて逆に見上",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「ちんちんって運動やダンスする時邪魔じゃない？ずっと股間でブラブラしてんの？」→",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "大学医学部の定員を全国で削減へ、医師が少ない県や中程度の県でも…地域枠の割合は引",
+      "title": "さっきお風呂を沸かしたら、いつもの「お風呂が沸きました」のあとに「設置から10年",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "コンビニ店員が客に気を遣わせないために小さな気遣いをして「わかる、俺もそう」と心",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「どけ!!!俺は幼児だぞ!!!」ぬい活を「精神的な幼児化の表れ」と論じた記事に反",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "子供に怒鳴る親は精神科に行って薬処方してもらえというツイートを見て、子育てって8",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "「白い恋人って過大評価されすぎじゃねぇか？」美味しいもの激戦区の北海道で白い恋人",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "以前「昔はミスド100円だったのになー」と言ったお母さんに、ありえなすぎる嘘だと",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "旦那が「ごく普通のジャワカレーが食べたい」と言うので普通のジャワカレーを作ってあ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     }
   ]
 }
