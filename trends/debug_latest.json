@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T00:49:00+09:00",
+  "generated_at": "2026-11-06T05:18:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,38 +17,44 @@
       "x_realtime": 10
     },
     "neg_excluded": 3,
-    "dedup_excluded": 10,
-    "passed_total": 119,
+    "dedup_excluded": 11,
+    "passed_total": 118,
     "b2b_category_counts": {
-      "yahoo_realtime": 39,
       "google_trends": 10,
-      "x_realtime": 8,
-      "yahoo_news_ranking": 2,
-      "news_web": 11
+      "yahoo_realtime": 39,
+      "yahoo_news_ranking": 1,
+      "x_realtime": 7,
+      "news_web": 13
     }
   },
   "note_category_counts": {
-    "personal_story": 3,
     "social_reaction": 29,
-    "hard_fact": 22,
-    "opinion": 8,
-    "medical_science": 2,
-    "policy": 6
+    "personal_story": 3,
+    "opinion": 10,
+    "medical_science": 3,
+    "policy": 8,
+    "hard_fact": 17
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 22,
-    "personal_story": 3,
+    "opinion": 10,
     "social_reaction": 29,
-    "opinion": 8,
-    "medical_science": 1,
-    "policy": 7
+    "personal_story": 3,
+    "medical_science": 2,
+    "hard_fact": 17,
+    "policy": 9
   },
   "b2b_top10": [
     {
-      "title": "芝公園で「女性と緑色の恐竜の着ぐるみによる女児への声掛け事案」が発生→悪意がない",
+      "title": "日本国債",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "理科sim science simulation",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "social_reaction"
     },
     {
       "title": "「ミスドって選び終わった人からレジへ進んでいいの？」という疑問…後ろの若者に抜か",
@@ -63,50 +69,50 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "理科sim science simulation",
+      "title": "早期天候情報",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "川栄李奈",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ブラックフライデー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "子どもはスマホっぽいものを欲しがるので、本人に欲しいアプリの設計書を書いてもらい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日経平均先物",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "vix指数",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "日向夏先生が明かす「ヒーローが美形ばかりな理由」が火の玉ストレートだが納得するし",
+      "title": "「天ぷらのところで行ったり来たりすな」「相席嫌がんじゃねぇ」「食ったらさっさと店",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "medical_science"
     },
     {
-      "title": "soxs",
+      "title": "ヨーロッパリーグ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
-    },
-    {
-      "title": "ダウ先物",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ionq 株価",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
     {
+      "title": "理科sim science simulation",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "「ミスドって選び終わった人からレジへ進んでいいの？」という疑問…後ろの若者に抜か",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
@@ -119,13 +125,25 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "理科sim science simulation",
+      "title": "子どもはスマホっぽいものを欲しがるので、本人に欲しいアプリの設計書を書いてもらい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "日向夏先生が明かす「ヒーローが美形ばかりな理由」が火の玉ストレートだが納得するし",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "日本国債",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "子供に怒鳴る親は精神科に行って薬処方してもらえというツイートを見て、子育てって8",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -137,34 +155,16 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "芝公園で「女性と緑色の恐竜の着ぐるみによる女児への声掛け事案」が発生→悪意がない",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "title": "早期天候情報",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "ロシア国内のJT関連工場 一時的にロシア企業管理下に 大統領令 | NHKニュー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "東大総長選 投票はなぜ覆った? 異例の“大逆転”を追った | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "藤井セイラ氏がくるり岸田繁さんと結婚の米﨑星奈さんコメントに異論「心優しい人は、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中国人研究者から見た日本の運動会を描いた「中国人ママが、日本の運動会を大好きな理",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "川栄李奈",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
