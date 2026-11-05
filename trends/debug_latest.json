@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T05:05:00+09:00",
+  "generated_at": "2026-11-05T10:46:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,43 +7,79 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 10,
-    "passed_total": 105,
+    "neg_excluded": 11,
+    "dedup_excluded": 9,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 26,
+      "yahoo_realtime": 36,
       "google_trends": 10,
-      "x_realtime": 8,
-      "news_web": 18,
-      "yahoo_news_ranking": 8
+      "news_web": 15,
+      "x_realtime": 7,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 16,
-    "medical_science": 6,
-    "personal_story": 2,
-    "opinion": 10,
-    "hard_fact": 33,
-    "policy": 3
+    "personal_story": 4,
+    "social_reaction": 26,
+    "opinion": 7,
+    "policy": 13,
+    "medical_science": 3,
+    "hard_fact": 17
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 16,
-    "medical_science": 6,
-    "opinion": 10,
-    "personal_story": 2,
-    "hard_fact": 30,
-    "policy": 6
+    "policy": 14,
+    "opinion": 7,
+    "hard_fact": 16,
+    "personal_story": 4,
+    "social_reaction": 26,
+    "medical_science": 3
   },
   "b2b_top10": [
+    {
+      "title": "不正アクセス、個人情報「持たない」選択　ゆで太郎は会員制廃止 - 日本経済新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "yahooファイナンス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "速報",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "ハロワで職務経歴書の添削をされた時に前々職のことを聞かれたが「8年も前だから覚え",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "大学生になって高校の友達や知り合いから「ワンナイトを経験した」や「酔ってお酒の勢",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "烈火の炎は3周読んだほうがいいですよ、1周目は能力バトルとして、2周目はリョナエ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "残酷な話なんだが「女なら誰彼構わずセクハラするタイプのおぢ」の自認って今だと壬氏",
       "source_category": "yahoo_realtime",
@@ -51,55 +87,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "高市首相、COP31欠席へ　温暖化会議、昨年に続き",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "詐欺メール713万通、アララ配信基盤「乗っ取る」　漏洩の影響広がる - 日本経済",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ヒキガエル毒素由来の幻覚剤点鼻スプレー、難治性うつ病に劇的効果か ｜ BANG ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "ヤマトホールディングス",
+      "title": "緊急地震速報 訓練",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "topic_category": "hard_fact"
     },
     {
-      "title": "uefa champions league",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "14歳 巨人から指名で周囲は激変",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "戸井零士",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "三井 住友 海上 不正 アクセス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "園田彩乃",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "rbライプツィヒ 対 マンc",
+      "title": "ロケッツ 対 ウルブズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,7 +107,19 @@
   ],
   "note_top10": [
     {
-      "title": "詐欺メール713万通、アララ配信基盤「乗っ取る」　漏洩の影響広がる - 日本経済",
+      "title": "ハロワで職務経歴書の添削をされた時に前々職のことを聞かれたが「8年も前だから覚え",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "大学生になって高校の友達や知り合いから「ワンナイトを経験した」や「酔ってお酒の勢",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "烈火の炎は3周読んだほうがいいですよ、1周目は能力バトルとして、2周目はリョナエ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -119,49 +131,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "高市首相、COP31欠席へ　温暖化会議、昨年に続き",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "昔アメリカの中学に転入した人、「Fuckin' Jap!」と野次られたので「レッ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "20代前半くらいの頃に家電量販店でマッサージチェアをやってみたら全然気持ち良くな",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
     },
     {
-      "title": "入院するときの保証人、親がいなくなったら誰に頼んだらいいんだろ？親戚にお願いでき",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ヒキガエル毒素由来の幻覚剤点鼻スプレー、難治性うつ病に劇的効果か ｜ BANG ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "ｅ―Ｔａｘに不審な通信　国税庁、一時停止に：時事ドットコム",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『鬼滅の刃』の作者は弱者を嫌っているのではないかという意見に賛否両論が集まるが、",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "「ちんちんって運動やダンスする時邪魔じゃない？ずっと股間でブラブラしてんの？」→",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "大学医学部の定員を全国で削減へ、医師が少ない県や中程度の県でも…地域枠の割合は引",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「白い恋人って過大評価されすぎじゃねぇか？」美味しいもの激戦区の北海道で白い恋人",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "しゃぶ葉の平日昼限定の激安野菜食べ放題プランを目当てに最寄りの店舗に行ったらやっ",
+      "title": "以前「昔はミスド100円だったのになー」と言ったお母さんに、ありえなすぎる嘘だと",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "旦那が「ごく普通のジャワカレーが食べたい」と言うので普通のジャワカレーを作ってあ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
