@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-06T16:39:57+09:00",
- "valid_until": "2026-11-20T16:37:28+09:00",
+ "generated_at": "2026-11-07T06:28:51+09:00",
+ "valid_until": "2026-11-21T06:26:51+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -8,9 +8,9 @@
  "total_count": 13,
  "merge": {
   "parent": "childcare",
-  "from_current": 15,
+  "from_current": 13,
   "from_new": 1,
-  "expired_pruned": 3,
+  "expired_pruned": 1,
   "retention_dropped": 0,
   "genres": 2,
   "retention_per_genre": 8
@@ -164,6 +164,36 @@
     "rescued": false
    },
    "valid_until": "2026-11-08T16:36:59+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "出産費用の無償化はいつから｜法律の期限は2028年6月、厚労省案は12月に成案、一時金50万円は「出産時一時金」に変わる",
+   "url": "https://min-taxes.com/column/shussan-hiyo-mushoka-itsukara/",
+   "summary": "改正健康保険法は2026年5月29日成立、6月5日公布。施行は公布から2年以内（期限2028年6月4日）で、報道では2027年度後半を検討。現行の出産育児一時金は「出産時一時金」に変わり、金額は未定。施行日前の出産は現行制度が適用。厚労省案は12月ごろ成案予定（本文確認済）",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "hard_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "childcare-pregnancy",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "min-taxes",
+    "expert_origin": false,
+    "search_query": "令和8年度 出産 費用 無償化 施行 妊婦支援給付金 改正 いつから 妊娠中に準備すること",
+    "freshness": "fresh",
+    "integrity_warning": "claim_hard_but_source_not_expert: 出版前に一次情報で裏取り必須",
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-11-21T06:26:51+09:00",
    "validity_days": 14
   },
   {
@@ -374,36 +404,6 @@
     "rescued": false
    },
    "valid_until": "2026-11-09T06:26:48+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "厚労省 医療保険部会資料 出産費用の無償化に向けた検討（第204回）",
-   "url": "https://www.mhlw.go.jp/content/12401000/001597701.pdf",
-   "summary": "令和7年11月時点の厚労省資料。令和8年度を目途に標準的な出産費用の自己負担無償化へ制度設計を進める方針、現行の出産育児一時金は原則50万円。標準費用の範囲は当時未確定。（本文確認済）",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "childcare-pregnancy",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "厚生労働省",
-    "expert_origin": true,
-    "search_query": "妊娠 出産 2026年10月 制度 改正 出産費用 無償化 令和8年度",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-11-07T06:28:07+09:00",
    "validity_days": 14
   }
  ]

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-06T16:39:57+09:00",
- "valid_until": "2026-11-20T16:37:26+09:00",
+ "generated_at": "2026-11-07T06:28:52+09:00",
+ "valid_until": "2026-11-21T06:27:05+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -16,6 +16,36 @@
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "社会人の勉強は「やる気ゼロ」が通常状態である｜山本（社会人の大学受験／資格試験）",
+   "url": "https://note.com/ymsmbs/n/nad2ea1c89549",
+   "summary": "社会人の勉強ではやる気が出ない状態を異常と捉えず、それが通常と考える視点の記事。やる気に頼らず仕組みで続ける発想につながる。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "learn-method",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "note",
+    "expert_origin": true,
+    "search_query": "勉強 やる気が出ない 社会人 知恵袋 資格 独学 挫折",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-11-21T06:27:05+09:00",
+   "validity_days": 14
+  },
   {
    "source_category": "news_web",
    "raw_title": "“紙1枚” で立てる「勉強の年間計画」がすごい。計画通り勉強できた試しがない人に効く！ - STUDY HACKER",
@@ -219,36 +249,6 @@
     "freshness": "evergreen",
     "integrity_warning": null,
     "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-11-17T06:27:31+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "行政書士試験｜過去問の「正しい使い方」を間違えていた私の話",
-   "url": "https://note.com/haruno_yozora/n/nd7ee7cc4999a",
-   "summary": "過去問の使い方を間違えていた体験談。個人の失敗談として、つまずきの角度の種になる。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "learn-method",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "note（ハルノヨゾラ）",
-    "expert_origin": false,
-    "search_query": "社会人 資格試験 直前 勉強法 行政書士 簿記 11月 過去問 回す 点数が伸びない",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
     "opportunity_gap": false,
     "discovered_angle": null,
     "rescued": false
