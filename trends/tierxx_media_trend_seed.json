@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-06T00:43:49+0900",
+    "generated_at": "2026-11-06T10:44:32+0900",
     "record_count": 40,
-    "source_total_in_db": 1664,
+    "source_total_in_db": 1665,
     "provenance_breakdown": {
-      "evidence": 1071,
+      "evidence": 1072,
       "pain_seed": 593
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_a9940a33b8e4",
+      "trend_term": "専門医・患者マッチング",
+      "raw_title": "直美問題の解決へ一歩――専門医と患者をつなぐ新構想でクラウドファンディング開始｜CareNet.com - CareNet.com",
+      "summary": "専門医と患者をつなぐ新構想がクラウドファンディング段階にあり、医療アクセスの課題解決に向けた取り組みが進行中。",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEamNaU0E5UnIxbHlvNWZ5NXlVaHUydzdrQnZqZXNoNEZ3eFBNWlpQN2c1ZU5WVGI2YVQ1bUhzTnJmY2t2VEloX2t6RDhEV29hdW1YNHRMdDl1R3ZJUWg4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEamNaU0E5UnIxbHlvNWZ5NXlVaHUydzdrQnZqZXNoNEZ3eFBNWlpQN2c1ZU5WVGI2YVQ1bUhzTnJmY2t2VEloX2t6RDhEV29hdW1YNHRMdDl1R3ZJUWg4?oc=5",
+      "source_name": "CareNet.com",
+      "monitor_id": "bm-safety-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-11T10:44:30+0900",
+      "status": "candidate",
+      "created_at": "2026-11-06T10:44:30+0900"
+    },
     {
       "seed_id": "seed_affc264b7ab3",
       "trend_term": "美容整形の規制強化",
@@ -713,24 +731,6 @@
       "valid_until": "2026-11-10T17:15:00+0900",
       "status": "candidate",
       "created_at": "2026-10-27T17:15:00+0900"
-    },
-    {
-      "seed_id": "seed_0d9b967990ba",
-      "trend_term": "美容施術のリスク認識",
-      "raw_title": "【第４話】美容施術は思いのほかリスキー：時事ドットコム - 時事ドットコム",
-      "summary": "美容施術が予想以上にリスキーであることを指摘する連載記事",
-      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JdmhYMmFBUkY1aFlmVkUweWJSa1RVNFQtSFAzd0tDSzYycWV2UE5DLTU3cUMyQ0c0Y2lYLU91Y3J4M2h5eFlKT1oyTXBGbURDRVNhYWw5dHpYMTJPc2c?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JdmhYMmFBUkY1aFlmVkUweWJSa1RVNFQtSFAzd0tDSzYycWV2UE5DLTU3cUMyQ0c0Y2lYLU91Y3J4M2h5eFlKT1oyTXBGbURDRVNhYWw5dHpYMTJPc2c?oc=5",
-      "source_name": "時事ドットコム",
-      "monitor_id": "bm-safety-news",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-10T09:42:26+0900",
-      "status": "candidate",
-      "created_at": "2026-10-27T09:42:26+0900"
     }
   ]
 }
