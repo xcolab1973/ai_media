@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T17:30:00+09:00",
+  "generated_at": "2026-11-07T00:24:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 3,
-    "dedup_excluded": 10,
-    "passed_total": 119,
+    "neg_excluded": 8,
+    "dedup_excluded": 12,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
-      "google_trends": 10,
-      "x_realtime": 8,
-      "news_web": 15,
-      "yahoo_news_ranking": 1
+      "yahoo_realtime": 38,
+      "google_trends": 9,
+      "news_web": 16,
+      "x_realtime": 4,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "personal_story": 5,
-    "social_reaction": 28,
-    "opinion": 9,
+    "social_reaction": 25,
+    "opinion": 8,
+    "personal_story": 2,
+    "hard_fact": 25,
     "medical_science": 4,
-    "hard_fact": 17,
-    "policy": 7
+    "policy": 6
   },
   "b2b_topic_category_counts": {
-    "personal_story": 5,
-    "opinion": 9,
-    "hard_fact": 18,
-    "social_reaction": 26,
+    "social_reaction": 25,
+    "hard_fact": 25,
+    "opinion": 8,
     "medical_science": 3,
-    "policy": 9
+    "policy": 7,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "2年前の冬に生牡蠣で食中毒になって嘔吐と激しい腹痛、水を飲んでも嘔吐の繰り返し…",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "ナスダック先物",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "韓国総合株価指数",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "職場の若い女の子、年上に対する態度かな？と思う言動が多く、上司に指摘されて「なん",
+      "title": "福井の恐竜博物館への送迎車を往復で予約していたのに、帰りの車が来ないので営業所に",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "東京ドーム",
+      "title": "Microsoft、教育機関向け無料プランOffice 365 A1を2028年",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "地震 震度",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "ソックス指数",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ミャクミャク",
+      "title": "冥王星を外した「惑星の定義」、実は太陽系の外では通用しない",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "大学の授業で最前列でノートをとってたら、授業後に教授が「君何してたの？内職？」と",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『中華一番！』は今が一番面白くて、清国の時代に二郎系ラーメン料理勝負が始まり「二",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "溺愛",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "逆賊の幕臣",
+      "title": "qqq",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "江角マキコ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "蓮見翔",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "伏見 寅威",
+      "title": "ファミマ ジョジョ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,13 +107,49 @@
   ],
   "note_top10": [
     {
-      "title": "2年前の冬に生牡蠣で食中毒になって嘔吐と激しい腹痛、水を飲んでも嘔吐の繰り返し…",
+      "title": "福井の恐竜博物館への送迎車を往復で予約していたのに、帰りの車が来ないので営業所に",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "職場の若い女の子、年上に対する態度かな？と思う言動が多く、上司に指摘されて「なん",
+      "title": "大学の授業で最前列でノートをとってたら、授業後に教授が「君何してたの？内職？」と",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "冥王星を外した「惑星の定義」、実は太陽系の外では通用しない",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『中華一番！』は今が一番面白くて、清国の時代に二郎系ラーメン料理勝負が始まり「二",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "サブウェイ持ち帰りでポテトが入ってなかったので電話したら「届けたほうがいいんです",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "電車が止まって学校に30分遅刻したら担任が「理由を言え」と言うので「電車です」と",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ソックス指数",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "【インフルエンサー誹謗中傷事件】イケハヤ編｜ゆっくりドットコム",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,43 +161,7 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "柳宗理デザインの包丁をふるさと納税で手に入れたが切れ味が悪く、10年使ったドイツ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "電車が止まって学校に30分遅刻したら担任が「理由を言え」と言うので「電車です」と",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "JTC経理部で窓際社員だった頃は会計論点に触れる仕事はほぼなく、担当業務は減少、",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "電子レンジでゆで卵が作れる便利なキッチンツール！7分加熱+7分放置で黄身が「理想",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ナスダック先物",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "本屋の「文教堂書店」が黒字化を達成　収益を改善させた“改革”とは - 内外タイム",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Mrs. GREEN APPLEが無理だった話｜はるゆき",
+      "title": "「レジスタ！」「薬屋のひとりごと」の議論からBLの問題に広がっていく記録",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
