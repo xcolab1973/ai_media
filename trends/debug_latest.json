@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T10:47:00+09:00",
+  "generated_at": "2026-11-06T17:30:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,89 +17,89 @@
       "x_realtime": 10
     },
     "neg_excluded": 3,
-    "dedup_excluded": 9,
-    "passed_total": 120,
+    "dedup_excluded": 10,
+    "passed_total": 119,
     "b2b_category_counts": {
-      "google_trends": 10,
       "yahoo_realtime": 36,
-      "news_web": 12,
-      "yahoo_news_ranking": 3,
-      "x_realtime": 9
+      "google_trends": 10,
+      "x_realtime": 8,
+      "news_web": 15,
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 31,
-    "personal_story": 2,
-    "opinion": 7,
+    "personal_story": 5,
+    "social_reaction": 28,
+    "opinion": 9,
     "medical_science": 4,
-    "hard_fact": 18,
-    "policy": 8
+    "hard_fact": 17,
+    "policy": 7
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 19,
-    "social_reaction": 30,
-    "opinion": 7,
-    "policy": 9,
-    "personal_story": 2,
-    "medical_science": 3
+    "personal_story": 5,
+    "opinion": 9,
+    "hard_fact": 18,
+    "social_reaction": 26,
+    "medical_science": 3,
+    "policy": 9
   },
   "b2b_top10": [
     {
-      "title": "株価暴落",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "『ゴジラ-0.0』――「絶望の物語」に果たして「希望」があったのか？｜佐藤利明（",
+      "title": "2年前の冬に生牡蠣で食中毒になって嘔吐と激しい腹痛、水を飲んでも嘔吐の繰り返し…",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "理科sim science simulation",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ノリタケ、佐賀県伊万里市の食器工場閉鎖へ　スリランカ工場へ生産移管 - 日本経済",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "スペイン 高速鉄道",
+      "title": "ナスダック先物",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "MF鎌田大地 終了間際に劇的同点G",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
+      "title": "韓国総合株価指数",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
       "topic_category": "hard_fact"
     },
     {
-      "title": "9月の実質賃金 9カ月連続プラス",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "15時半頃にインターホンが鳴って返事をしたら子供の泣き声で「たすけてください…」",
+      "title": "職場の若い女の子、年上に対する態度かな？と思う言動が多く、上司に指摘されて「なん",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "台股",
+      "title": "東京ドーム",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "多摩川競艇",
+      "title": "ミャクミャク",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "逆賊の幕臣",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "江角マキコ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "蓮見翔",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "伏見 寅威",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
-      "title": "『ゴジラ-0.0』――「絶望の物語」に果たして「希望」があったのか？｜佐藤利明（",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "理科sim science simulation",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "15時半頃にインターホンが鳴って返事をしたら子供の泣き声で「たすけてください…」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "以前吸死の作者が「猫飼ってるけど飼いたくて飼ってるわけじゃない」みたいなこと言っ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「ヤフコメでお兄ちゃんの方が巨乳って言われてて解せない」ボディビルダーの兄と並ん",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "銃砲所持の許可更新申請中、ピンポンで母が出たら「生活安全課です、お話を聞かせて下",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "韓国人は小泉構文わかるの？→完璧に使いこなす韓国人が現れ、驚きが隠せない日本人た",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "エジプトで友人が盗難被害に遭ってパスポート紛失、紛失手続きのため警察署へ…友人が",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "小田急電鉄、沿線全体で観光強化　酒蔵巡りや英語ツアー商品を開発 - 日本経済新聞",
+      "title": "2年前の冬に生牡蠣で食中毒になって嘔吐と激しい腹痛、水を飲んでも嘔吐の繰り返し…",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "「あたしゃ川尻こだまだよ」橋本環奈の主演で実写ショートドラマ化　監督は福田雄一（",
+      "title": "職場の若い女の子、年上に対する態度かな？と思う言動が多く、上司に指摘されて「なん",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "世界のライブカメラ地図｜いま見れるライブ映像 — たま旅ライブ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "柳宗理デザインの包丁をふるさと納税で手に入れたが切れ味が悪く、10年使ったドイツ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "電車が止まって学校に30分遅刻したら担任が「理由を言え」と言うので「電車です」と",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "JTC経理部で窓際社員だった頃は会計論点に触れる仕事はほぼなく、担当業務は減少、",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "電子レンジでゆで卵が作れる便利なキッチンツール！7分加熱+7分放置で黄身が「理想",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ナスダック先物",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "本屋の「文教堂書店」が黒字化を達成　収益を改善させた“改革”とは - 内外タイム",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "Mrs. GREEN APPLEが無理だった話｜はるゆき",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
