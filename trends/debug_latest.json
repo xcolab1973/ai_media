@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T00:24:00+09:00",
+  "generated_at": "2026-11-07T04:43:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,32 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 12,
-    "passed_total": 112,
+    "neg_excluded": 10,
+    "dedup_excluded": 8,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 38,
-      "google_trends": 9,
-      "news_web": 16,
-      "x_realtime": 4,
-      "yahoo_news_ranking": 3
+      "yahoo_realtime": 37,
+      "google_trends": 10,
+      "news_web": 14,
+      "x_realtime": 7,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 25,
-    "opinion": 8,
-    "personal_story": 2,
-    "hard_fact": 25,
+    "social_reaction": 26,
     "medical_science": 4,
-    "policy": 6
+    "opinion": 9,
+    "personal_story": 3,
+    "hard_fact": 24,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 25,
-    "hard_fact": 25,
-    "opinion": 8,
+    "social_reaction": 26,
+    "hard_fact": 22,
     "medical_science": 3,
+    "opinion": 9,
     "policy": 7,
-    "personal_story": 2
+    "personal_story": 3
   },
   "b2b_top10": [
     {
@@ -57,16 +57,10 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "地震 震度",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ソックス指数",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "【衝撃】Claudeを『ADHDモード』化する裏技が話題。コピペして貼るだけで1",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
     },
     {
       "title": "冥王星を外した「惑星の定義」、実は太陽系の外では通用しない",
@@ -75,31 +69,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "大学の授業で最前列でノートをとってたら、授業後に教授が「君何してたの？内職？」と",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『中華一番！』は今が一番面白くて、清国の時代に二郎系ラーメン料理勝負が始まり「二",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "溺愛",
+      "title": "豊島逸夫",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "qqq",
+      "title": "フィギュア",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ファミマ ジョジョ",
+      "title": "ロト7 速報",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "卓球",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "選抜高等学校野球大会",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "警察",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,57 +113,57 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "大学の授業で最前列でノートをとってたら、授業後に教授が「君何してたの？内職？」と",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "冥王星を外した「惑星の定義」、実は太陽系の外では通用しない",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『中華一番！』は今が一番面白くて、清国の時代に二郎系ラーメン料理勝負が始まり「二",
+      "title": "大学の授業で最前列でノートをとってたら、授業後に教授が「君何してたの？内職？」と",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "サブウェイ持ち帰りでポテトが入ってなかったので電話したら「届けたほうがいいんです",
+      "title": "【衝撃】Claudeを『ADHDモード』化する裏技が話題。コピペして貼るだけで1",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "アマゾンプライムで見れるもの一覧【新作】2026年11月以降の映画・ドラマ・アニ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "電車が止まって学校に30分遅刻したら担任が「理由を言え」と言うので「電車です」と",
+      "title": "Amazonスーパーセールで探すリカバリーウェア｜メンズ・レディース・上下・パジ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ソックス指数",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "【インフルエンサー誹謗中傷事件】イケハヤ編｜ゆっくりドットコム",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "人生初のバイトを終えた次男が「大したものは買えんかったけど」と親に買い物をして帰",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "世界のライブカメラ地図｜いま見れるライブ映像 — たま旅ライブ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "ちいかわの「パピコをもぎるたびにハチワレが増えていく怪現象」回、どうやらハチワレ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「レジスタ！」「薬屋のひとりごと」の議論からBLの問題に広がっていく記録",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "ホテルにチェックインしてゴロゴロしてたら気付いた、ナニコレｗ怖すぎ「誰がどうやっ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「お前らがあの算数の兄弟だったんか…！？」兄弟の徒歩通学を相談したら、算数の文章",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
