@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-06T18:41:35+0900",
+    "generated_at": "2026-11-07T00:18:09+0900",
     "record_count": 40,
-    "source_total_in_db": 1667,
+    "source_total_in_db": 1668,
     "provenance_breakdown": {
       "evidence": 1074,
-      "pain_seed": 593
+      "pain_seed": 594
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_33ef5d59a480",
+      "trend_term": "非侵襲シワ対策",
+      "raw_title": "ボトックスの必要なし！「使ったその日にシワが薄く」42歳が過去イチ効果を感じた【美顔器】レポ - ｄメニューニュース",
+      "summary": "美顔器でシワ軽減を体験した事例レポ。ボトックス回避志向の読者の悩み・選択肢検討のきっかけとなる角度",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONGxRM2p2ekpydzZiTTRBRTVLM3VPclFUQ3p5b3prUm93QWJSOThBZkJFY0NxVnNQQjZLenZkUTJubWR6aF91dGdSb1JEeWI1eVpIM0lvVUgxSFpoVzhsLWlpRkE2azJidkxRRG1iQlNYWjA5LU1HNllkTFNMa1BZd0FyNzJqbU02OGRKX1FJa1k3NGto0gGaAUFVX3lxTFBFc3dYdlBvOFlpX0xTc1lycmxEOUhjM2ZtMG9mUmJzMVRqTmNTMTBaSGpsTFJXamhyXzhwT2tzLU1xS3MwOF92WjBkUDVRMG5TQ2lQQ1dOQUxwNHU2c2lZLXBHNjd4M2t1TzRlbG1hVTJTd0RnMVpJbTZ6cEZFRTBLWHJNYTNpZE50OEpvMTVQbXV4WHJodndNcnc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONGxRM2p2ekpydzZiTTRBRTVLM3VPclFUQ3p5b3prUm93QWJSOThBZkJFY0NxVnNQQjZLenZkUTJubWR6aF91dGdSb1JEeWI1eVpIM0lvVUgxSFpoVzhsLWlpRkE2azJidkxRRG1iQlNYWjA5LU1HNllkTFNMa1BZd0FyNzJqbU02OGRKX1FJa1k3NGto0gGaAUFVX3lxTFBFc3dYdlBvOFlpX0xTc1lycmxEOUhjM2ZtMG9mUmJzMVRqTmNTMTBaSGpsTFJXamhyXzhwT2tzLU1xS3MwOF92WjBkUDVRMG5TQ2lQQ1dOQUxwNHU2c2lZLXBHNjd4M2t1TzRlbG1hVTJTd0RnMVpJbTZ6cEZFRTBLWHJNYTNpZE50OEpvMTVQbXV4WHJodndNcnc?oc=5",
+      "source_name": "ｄメニューニュース",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-21T00:17:26+0900",
+      "status": "candidate",
+      "created_at": "2026-11-07T00:17:26+0900"
+    },
     {
       "seed_id": "seed_9156a6aa0817",
       "trend_term": "開院20周年企画",
@@ -623,24 +641,6 @@
       "valid_until": "2026-11-07T18:48:10+0900",
       "status": "candidate",
       "created_at": "2026-11-02T18:48:10+0900"
-    },
-    {
-      "seed_id": "seed_62093391d1af",
-      "trend_term": "ボトックス副作用への警告",
-      "raw_title": "ジェニファー・ガーナーがボトックスに反対。警告した理由とは？【セレブ美容探偵】 - Vogue Japan",
-      "summary": "セレブが美容医療の過度な使用に対する懸念を発信。読者の「やりすぎのリスク」という不安を反映した角度",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lejFWSk1ESHpVbG5jNF9SOFQ1VFBod2F3eGpuX1RoRjUyUWVkRmlZSElOV2ZZSVdmV1ZOd1VOcHVPUWxUNDdvSXRPUmQ2Q2N0eVhKbTVMTEpUMEFYQ2RiRDhpY3B6V2M0djJZbmhTczBlQQ?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lejFWSk1ESHpVbG5jNF9SOFQ1VFBod2F3eGpuX1RoRjUyUWVkRmlZSElOV2ZZSVdmV1ZOd1VOcHVPUWxUNDdvSXRPUmQ2Q2N0eVhKbTVMTEpUMEFYQ2RiRDhpY3B6V2M0djJZbmhTczBlQQ?oc=5",
-      "source_name": "Vogue Japan",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "opinion",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-14T09:58:24+0900",
-      "status": "candidate",
-      "created_at": "2026-10-31T09:58:24+0900"
     },
     {
       "seed_id": "seed_37a387560914",
