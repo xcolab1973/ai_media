@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T04:43:00+09:00",
+  "generated_at": "2026-11-07T10:11:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,45 +16,41 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 8,
+    "neg_excluded": 9,
+    "dedup_excluded": 9,
     "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 37,
+      "yahoo_realtime": 31,
       "google_trends": 10,
-      "news_web": 14,
-      "x_realtime": 7,
+      "x_realtime": 9,
+      "news_web": 18,
       "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
-    "medical_science": 4,
-    "opinion": 9,
     "personal_story": 3,
-    "hard_fact": 24,
-    "policy": 4
-  },
-  "b2b_topic_category_counts": {
-    "social_reaction": 26,
-    "hard_fact": 22,
-    "medical_science": 3,
+    "social_reaction": 31,
+    "medical_science": 2,
+    "analysis": 1,
     "opinion": 9,
     "policy": 7,
-    "personal_story": 3
+    "hard_fact": 17
+  },
+  "b2b_topic_category_counts": {
+    "policy": 8,
+    "medical_science": 1,
+    "personal_story": 3,
+    "analysis": 1,
+    "opinion": 9,
+    "social_reaction": 28,
+    "hard_fact": 20
   },
   "b2b_top10": [
     {
-      "title": "福井の恐竜博物館への送迎車を往復で予約していたのに、帰りの車が来ないので営業所に",
+      "title": "台湾、在パプアニューギニアの窓口機関を閉鎖　「中国が介入」と非難、LNG購入停止",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Microsoft、教育機関向け無料プランOffice 365 A1を2028年",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "policy"
     },
     {
       "title": "【衝撃】Claudeを『ADHDモード』化する裏技が話題。コピペして貼るだけで1",
@@ -63,107 +59,113 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "冥王星を外した「惑星の定義」、実は太陽系の外では通用しない",
+      "title": "大きな物語／怪獣はいかに解体され（なかっ）たか？：『ゴジラ-0.0』を誤読する。",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "少林寺レーシングとは",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "analysis"
+    },
+    {
+      "title": "侍ジャパン 練習試合",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "浜本広晃",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "侍ジャパン 日程",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「台湾有事」発言、引っ込みつかず1年経過　高市首相「対話はオープンだ」と言うだけ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "AWSでWebリクエストを受ける8パターンと「オリジンを裸にしない」設定プラクテ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "豊島逸夫",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "フィギュア",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ロト7 速報",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "卓球",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "選抜高等学校野球大会",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "警察",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "上司と私が50時間の残業で新卒は1.5時間の残業、面談で上司が「バランスが悪いか",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
-      "title": "福井の恐竜博物館への送迎車を往復で予約していたのに、帰りの車が来ないので営業所に",
+      "title": "大きな物語／怪獣はいかに解体され（なかっ）たか？：『ゴジラ-0.0』を誤読する。",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "冥王星を外した「惑星の定義」、実は太陽系の外では通用しない",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "大学の授業で最前列でノートをとってたら、授業後に教授が「君何してたの？内職？」と",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【衝撃】Claudeを『ADHDモード』化する裏技が話題。コピペして貼るだけで1",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "アマゾンプライムで見れるもの一覧【新作】2026年11月以降の映画・ドラマ・アニ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Amazonスーパーセールで探すリカバリーウェア｜メンズ・レディース・上下・パジ",
+      "title": "AWSでWebリクエストを受ける8パターンと「オリジンを裸にしない」設定プラクテ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "人生初のバイトを終えた次男が「大したものは買えんかったけど」と親に買い物をして帰",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "上司と私が50時間の残業で新卒は1.5時間の残業、面談で上司が「バランスが悪いか",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ちいかわの「パピコをもぎるたびにハチワレが増えていく怪現象」回、どうやらハチワレ",
+      "title": "ベテランのツアコン「最近のiPhoneでピサの斜塔を撮影すると、ピサの斜塔が真っ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ホテルにチェックインしてゴロゴロしてたら気付いた、ナニコレｗ怖すぎ「誰がどうやっ",
+      "title": "東日本大震災の時、都内勤務のお母様が電車が動かないと知ってすぐに自転車を購入、多",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「お前らがあの算数の兄弟だったんか…！？」兄弟の徒歩通学を相談したら、算数の文章",
+      "title": "新車の購入で契約した約10日後にカーナビとETCが付いていないことが発覚、追加料",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "不動産営業を名乗る人が訪問、隣の家は空き家なのか？在宅時間は？親戚なのか？など根",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "会議中、新卒さんが作った資料が回って来たんだけど箇条書きの見出しが全部ハートマー",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
