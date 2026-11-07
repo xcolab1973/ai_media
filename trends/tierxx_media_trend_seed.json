@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-07T00:18:09+0900",
-    "record_count": 40,
-    "source_total_in_db": 1668,
+    "generated_at": "2026-11-07T10:05:33+0900",
+    "record_count": 41,
+    "source_total_in_db": 1669,
     "provenance_breakdown": {
-      "evidence": 1074,
+      "evidence": 1075,
       "pain_seed": 594
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_278999c40f38",
+      "trend_term": "エクソソーム規制動向",
+      "raw_title": "第89回厚生科学審議会（再生医療等評価部会）におけるエクソソーム等に対する日本再生医療学会からの提言を受けてのお知らせ｜セルソース株式会社 - セルソース株式会社",
+      "summary": "厚生科学審議会再生医療等評価部会で、日本再生医療学会がエクソソーム等に対する提言を提出。規制枠組みに関する公式見解。",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54VV9KazlCRTdyaVVJcldSNkJEdFJaSk02SzVSLXoxbUh0S1lOVl96bldSWC1QcHlJQTFBTlU4VzRlV2NFdWZ4UjNNRFN0T0lTd1cweTdSR0lPdW13dGNNZHc2X01XMDZl?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54VV9KazlCRTdyaVVJcldSNkJEdFJaSk02SzVSLXoxbUh0S1lOVl96bldSWC1QcHlJQTFBTlU4VzRlV2NFdWZ4UjNNRFN0T0lTd1cweTdSR0lPdW13dGNNZHc2X01XMDZl?oc=5",
+      "source_name": "セルソース株式会社",
+      "monitor_id": "bm-regen-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "official_instruction",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-12T10:05:26+0900",
+      "status": "candidate",
+      "created_at": "2026-11-07T10:05:26+0900"
+    },
     {
       "seed_id": "seed_33ef5d59a480",
       "trend_term": "非侵襲シワ対策",
