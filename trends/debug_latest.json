@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T16:47:00+09:00",
+  "generated_at": "2026-11-07T23:22:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,99 +7,98 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
+    "neg_excluded": 7,
     "dedup_excluded": 11,
-    "passed_total": 113,
+    "passed_total": 104,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
-      "yahoo_news_ranking": 5,
+      "yahoo_realtime": 26,
       "google_trends": 10,
+      "yahoo_news_ranking": 6,
       "x_realtime": 7,
-      "news_web": 12
+      "news_web": 21
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "personal_story": 5,
-    "medical_science": 3,
+    "social_reaction": 21,
     "opinion": 10,
-    "hard_fact": 16,
-    "policy": 6
+    "personal_story": 2,
+    "policy": 11,
+    "hard_fact": 25,
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
-    "medical_science": 2,
-    "hard_fact": 17,
-    "policy": 6,
+    "social_reaction": 21,
+    "policy": 11,
     "opinion": 10,
-    "personal_story": 5
+    "hard_fact": 26,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "GMO 管理者が全情報アクセス可能 リスク指摘も十分対策されず | NHKニュー",
+      "title": "作業中に小さい集団ストーカーにつきまとわれて結局家までついて来られてしまった「な",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【衝撃】Claudeを『ADHDモード』化する裏技が話題。コピペして貼るだけで1",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "【CV:村中知、黒沢ともよ】内気な少女が顔面白塗りに…『あっ、悪魔ちゃん』【ボイ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "NVIDIAの20年前の名グラボ「GeForce 8800 GTX」を“ひたすら",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "SNS中傷 スポーツ・芸能界の対策",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_it",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "長く自民党が支持される理由に民主党政権の失敗を挙げる声もあるが、一番は「自民党を",
+      "title": "減税法案採決を退席した石破氏　14年前は増税反対の鳩山氏らに「さっさと離党を」と",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "女子プロテスト",
+      "title": "最近『レジスタ！』の炎上から飛び火して、「じゃあBLも規制しろ」「BLの方..",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "アーセナル 対 ハル",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "アルゼンチン共和国杯 過去",
+      "title": "佐々木蔵之介",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "愛知県高校サッカー選手権",
+      "title": "マインツ 対 バイエルン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "伊藤沙莉",
+      "title": "女子 ゴルフ プロテスト 2026",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "GMO謝罪会見なぜ炎上 プロ解説",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_it",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "インドネシア人が「日本での警察沙汰の場合、いくら金を積んで交渉を持ちかけても見逃",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "モンスト 覇者",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +106,64 @@
   ],
   "note_top10": [
     {
-      "title": "GMO 管理者が全情報アクセス可能 リスク指摘も十分対策されず | NHKニュー",
+      "title": "作業中に小さい集団ストーカーにつきまとわれて結局家までついて来られてしまった「な",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "母が住んでいた3年放置の実家を処分するために家の登記書類に記載された測量事務所に",
+      "title": "インドネシア人が「日本での警察沙汰の場合、いくら金を積んで交渉を持ちかけても見逃",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【CV:村中知、黒沢ともよ】内気な少女が顔面白塗りに…『あっ、悪魔ちゃん』【ボイ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "NVIDIAの20年前の名グラボ「GeForce 8800 GTX」を“ひたすら",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "旦那のデスクトップPCがハッキングされてクレカ不正利用が判明、今朝マウスを触って",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "鼻が詰まってることを友人に話したら、短期的に解消する方法を教えてくれた→やってみ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "2024年の闇バイト連続強盗、犯人の男2人に無期懲役判決 彼らを待つのは貴重な2",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "台所の床に落としてしまったキャベツと戦う子猫、援軍を呼ぶなどして一生懸命に戦うが",
+      "title": "えっっヤバい、イギリスについに舞茸が来た「イギリスの日本食ブームすごいからなあ」",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "給食だけ登校する児童の背景を綴った朝日新聞の記事、リプライなどに様々な反応が集ま",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "シーリングライトの様子がおかしいので蓋開けて中を見てみたらこの有様「みたらし団子",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【衝撃】Claudeを『ADHDモード』化する裏技が話題。コピペして貼るだけで1",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "title": "私服勤務の初日に部下の若手男性が「どこまで怒られないか試してみます！」とグレーの",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「もう一個予備で買っとこうかなと思うレベル」ニトリのいろんなとこに首が置ける枕が",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "新千歳空港で「青森行きの便が天候により仙台もしくは羽田に着陸する場合がある」旨の",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "声帯薄い人にもっとデカい声で喋れって言うのは暴力だからやめてほしい、声が出なくな",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "昔から言われてるけど駅ホームの立ち食いってそば・うどんばっかりでラーメンってない",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ]
 }
