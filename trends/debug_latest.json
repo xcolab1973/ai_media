@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T10:11:00+09:00",
+  "generated_at": "2026-11-07T16:47:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,41 +16,39 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 9,
-    "passed_total": 114,
+    "neg_excluded": 8,
+    "dedup_excluded": 11,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 31,
+      "yahoo_realtime": 36,
+      "yahoo_news_ranking": 5,
       "google_trends": 10,
-      "x_realtime": 9,
-      "news_web": 18,
-      "yahoo_news_ranking": 2
+      "x_realtime": 7,
+      "news_web": 12
     }
   },
   "note_category_counts": {
-    "personal_story": 3,
-    "social_reaction": 31,
-    "medical_science": 2,
-    "analysis": 1,
-    "opinion": 9,
-    "policy": 7,
-    "hard_fact": 17
+    "social_reaction": 30,
+    "personal_story": 5,
+    "medical_science": 3,
+    "opinion": 10,
+    "hard_fact": 16,
+    "policy": 6
   },
   "b2b_topic_category_counts": {
-    "policy": 8,
-    "medical_science": 1,
-    "personal_story": 3,
-    "analysis": 1,
-    "opinion": 9,
-    "social_reaction": 28,
-    "hard_fact": 20
+    "social_reaction": 30,
+    "medical_science": 2,
+    "hard_fact": 17,
+    "policy": 6,
+    "opinion": 10,
+    "personal_story": 5
   },
   "b2b_top10": [
     {
-      "title": "台湾、在パプアニューギニアの窓口機関を閉鎖　「中国が介入」と非難、LNG購入停止",
+      "title": "GMO 管理者が全情報アクセス可能 リスク指摘も十分対策されず | NHKニュー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "topic_category": "social_reaction"
     },
     {
       "title": "【衝撃】Claudeを『ADHDモード』化する裏技が話題。コピペして貼るだけで1",
@@ -59,114 +57,114 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "大きな物語／怪獣はいかに解体され（なかっ）たか？：『ゴジラ-0.0』を誤読する。",
+      "title": "【CV:村中知、黒沢ともよ】内気な少女が顔面白塗りに…『あっ、悪魔ちゃん』【ボイ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "少林寺レーシングとは",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "analysis"
+      "title": "NVIDIAの20年前の名グラボ「GeForce 8800 GTX」を“ひたすら",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "侍ジャパン 練習試合",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "SNS中傷 スポーツ・芸能界の対策",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_it",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "浜本広晃",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "侍ジャパン 日程",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「台湾有事」発言、引っ込みつかず1年経過　高市首相「対話はオープンだ」と言うだけ",
+      "title": "長く自民党が支持される理由に民主党政権の失敗を挙げる声もあるが、一番は「自民党を",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "AWSでWebリクエストを受ける8パターンと「オリジンを裸にしない」設定プラクテ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "女子プロテスト",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "上司と私が50時間の残業で新卒は1.5時間の残業、面談で上司が「バランスが悪いか",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "アルゼンチン共和国杯 過去",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "愛知県高校サッカー選手権",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "伊藤沙莉",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "大きな物語／怪獣はいかに解体され（なかっ）たか？：『ゴジラ-0.0』を誤読する。",
+      "title": "GMO 管理者が全情報アクセス可能 リスク指摘も十分対策されず | NHKニュー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "母が住んでいた3年放置の実家を処分するために家の登記書類に記載された測量事務所に",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【CV:村中知、黒沢ともよ】内気な少女が顔面白塗りに…『あっ、悪魔ちゃん』【ボイ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "NVIDIAの20年前の名グラボ「GeForce 8800 GTX」を“ひたすら",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "旦那のデスクトップPCがハッキングされてクレカ不正利用が判明、今朝マウスを触って",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "鼻が詰まってることを友人に話したら、短期的に解消する方法を教えてくれた→やってみ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
     },
     {
-      "title": "AWSでWebリクエストを受ける8パターンと「オリジンを裸にしない」設定プラクテ",
+      "title": "2024年の闇バイト連続強盗、犯人の男2人に無期懲役判決 彼らを待つのは貴重な2",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "台所の床に落としてしまったキャベツと戦う子猫、援軍を呼ぶなどして一生懸命に戦うが",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "給食だけ登校する児童の背景を綴った朝日新聞の記事、リプライなどに様々な反応が集ま",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【衝撃】Claudeを『ADHDモード』化する裏技が話題。コピペして貼るだけで1",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "人生初のバイトを終えた次男が「大したものは買えんかったけど」と親に買い物をして帰",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "上司と私が50時間の残業で新卒は1.5時間の残業、面談で上司が「バランスが悪いか",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ベテランのツアコン「最近のiPhoneでピサの斜塔を撮影すると、ピサの斜塔が真っ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "東日本大震災の時、都内勤務のお母様が電車が動かないと知ってすぐに自転車を購入、多",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "新車の購入で契約した約10日後にカーナビとETCが付いていないことが発覚、追加料",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "不動産営業を名乗る人が訪問、隣の家は空き家なのか？在宅時間は？親戚なのか？など根",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "会議中、新卒さんが作った資料が回って来たんだけど箇条書きの見出しが全部ハートマー",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "medical_science"
     }
   ]
 }
