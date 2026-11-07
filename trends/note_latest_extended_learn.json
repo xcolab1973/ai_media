@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-07T06:28:52+09:00",
- "valid_until": "2026-11-21T06:27:05+09:00",
+ "generated_at": "2026-11-08T06:28:42+09:00",
+ "valid_until": "2026-11-22T06:26:49+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -16,6 +16,36 @@
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "【社会人の勉強法】働きながら資格合格をつかむ「3つの心得」！時間がない人が勝つための戦略とは",
+   "url": "https://jishusitu.jp/working-professional-study-tips-3-mindsets/",
+   "summary": "目的の具体化、満点でなく合格点を狙い過去問から逆算して範囲を絞る、意志でなく習慣と環境（スキマ時間・場所替え・時間固定）で続ける、の3点を提案。自習室運営会社の記事で自社利用を勧める。2026年10月17日更新。（本文確認済）",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "learn-method",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "自習室.jp",
+    "expert_origin": false,
+    "search_query": "資格試験 直前 社会人 勉強 時間が取れない 年内 追い込み 勉強法 2026",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-11-22T06:26:49+09:00",
+   "validity_days": 14
+  },
   {
    "source_category": "news_web",
    "raw_title": "社会人の勉強は「やる気ゼロ」が通常状態である｜山本（社会人の大学受験／資格試験）",
@@ -214,36 +244,6 @@
    "origin": "pre_collector_extended",
    "provenance": {
     "source_name": "塾長のひとりごと",
-    "expert_origin": false,
-    "search_query": "共通テストまで100日 11月から追い込み 勉強法 過去問 やり方 2027",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-11-17T06:27:31+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "【共テ】本番まで100日を切った今！まだ間に合う！共テ対策",
-   "url": "https://www.takeda.tv/yonago/blog/post-260872/",
-   "summary": "本番まで100日を切った時期の共通テスト対策を紹介する塾のブログ。まだ間に合うという励まし型の内容。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "learn-method",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "武田塾米子校",
     "expert_origin": false,
     "search_query": "共通テストまで100日 11月から追い込み 勉強法 過去問 やり方 2027",
     "freshness": "evergreen",
