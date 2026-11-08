@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-08T16:39:00+09:00",
- "valid_until": "2026-11-15T06:26:59+09:00",
+ "generated_at": "2026-11-09T06:29:08+09:00",
+ "valid_until": "2026-11-16T06:26:53+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "biz",
- "total_count": 17,
+ "total_count": 18,
  "merge": {
   "parent": "biz",
-  "from_current": 18,
+  "from_current": 17,
   "from_new": 1,
-  "expired_pruned": 2,
+  "expired_pruned": 0,
   "retention_dropped": 0,
   "genres": 3,
   "retention_per_genre": 8
@@ -315,6 +315,36 @@
    },
    "valid_until": "2026-11-10T06:26:40+09:00",
    "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "補助金｜交付決定前の発注・契約・着手が対象外の根拠【2026年9月】",
+   "url": "https://hojokin-dx.com/articles/kofukettei-mae-hacchu-taishogai-2026/",
+   "summary": "交付決定日より前の発注・契約・着手は補助対象外。見積取得は可、納品・検収・支払も交付決定後かつ事業期間内が必要。持続化補助金は展示会出展申込のみ例外。2026年9月27日時点の民間解説。（本文確認済）",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "hard_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "biz-subsidy",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "hojokin-dx.com",
+    "expert_origin": false,
+    "search_query": "補助金 交付決定前 発注 対象外 事業計画 加点 個人事業主 2026 新事業進出補助金 ものづくり補助金 公募",
+    "freshness": "fresh",
+    "integrity_warning": "claim_hard_but_source_not_expert: 出版前に一次情報で裏取り必須",
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-11-16T06:26:53+09:00",
+   "validity_days": 7
   },
   {
    "source_category": "news_web",
