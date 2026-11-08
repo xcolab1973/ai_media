@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T16:58:00+09:00",
+  "generated_at": "2026-11-08T23:32:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,88 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 3,
-    "dedup_excluded": 8,
-    "passed_total": 121,
+    "neg_excluded": 6,
+    "dedup_excluded": 14,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 31,
+      "yahoo_realtime": 34,
+      "news_web": 17,
       "google_trends": 10,
-      "x_realtime": 10,
       "yahoo_news_ranking": 4,
-      "news_web": 15
+      "x_realtime": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 27,
-    "personal_story": 3,
-    "opinion": 9,
-    "medical_science": 3,
-    "hard_fact": 20,
-    "policy": 8
+    "social_reaction": 26,
+    "medical_science": 5,
+    "opinion": 10,
+    "hard_fact": 22,
+    "policy": 7
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 24,
-    "opinion": 9,
-    "hard_fact": 26,
-    "policy": 8,
-    "personal_story": 2,
-    "medical_science": 1
+    "social_reaction": 26,
+    "hard_fact": 24,
+    "medical_science": 3,
+    "opinion": 10,
+    "policy": 7
   },
   "b2b_top10": [
     {
-      "title": "「今からでも遅くはない、撤回を」東大“約70年ぶりの新学部”に学生有志が猛反発…",
+      "title": "【神アプリ】使ってないAndroidを「音楽専用機」に蘇らせる無料アプリ『reT",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "レジスタ炎上騒動、腐女子界隈で歴史修正のきざし・・・しかし実際には最初に付け火し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「フェイク、フェイクです！」維新・佐々木りえ議員　同僚・石井めぐみ議員の「ネイル",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "fc町田ゼルビア 対 サンフレッチェ広島 順位",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "千葉 対 水戸",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "池田勇太",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "宮藤官九郎",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "行政書士 解答速報",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
+      "title": "商品に個体差「不揃い」バズる訳",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "ジュビロ磐田 試合",
+      "title": "インドのカフェが地域猫を勝手に移動させたことで大炎上。猫は発見され店側が謝罪",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "ヒコロヒー",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "スター・ウォーズ",
+      "title": "ウイスキー好きの皆さんは「高いボトルも飲んだけど結局これに戻る」って1本はありま",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「コートは良いもの一枚持っててもいいかもね」という話をしたら、10代の娘が襟から",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「なんかもう全員発達障害になりそうだな」日経新聞が発達性協調運動障害を取り上げた",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "ソン・イェジン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "宗山塁",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "tbsラジオ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,63 +105,63 @@
   ],
   "note_top10": [
     {
-      "title": "「今からでも遅くはない、撤回を」東大“約70年ぶりの新学部”に学生有志が猛反発…",
+      "title": "【神アプリ】使ってないAndroidを「音楽専用機」に蘇らせる無料アプリ『reT",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "レジスタ炎上騒動、腐女子界隈で歴史修正のきざし・・・しかし実際には最初に付け火し",
+      "title": "ウイスキー好きの皆さんは「高いボトルも飲んだけど結局これに戻る」って1本はありま",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「フェイク、フェイクです！」維新・佐々木りえ議員　同僚・石井めぐみ議員の「ネイル",
+      "title": "「コートは良いもの一枚持っててもいいかもね」という話をしたら、10代の娘が襟から",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「絶対危ない」数日前、頭上に重量物を突っ張り棒で収納していた人が九死に一生「ピン",
+      "title": "コンビニでチケット発券したら、店員に豪快に破られた。しかし店員が対応方法を知らず",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ドラッグストアでオキシドール3本買ったら「用途をお聞かせください」と尋ねられた→",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "インドのカフェが地域猫を勝手に移動させたことで大炎上。猫は発見され店側が謝罪",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "あのさいほうセットのドラゴンが青い鳥文庫になったが、そこで明かされたドラゴンの真",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ルンバのロボット掃除機をAmazonで買うなら。ルンバ歴5年の私が調査してみた｜",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "「本社が愛知」で内々定辞退・トヨタ上回る初任給…　記者が見た就活 - 日本経済新",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "昔実家にいた猫は母にマグロを貰って食べた後、必ず何かニャンニャン言いながら廊下を",
+      "title": "あるスーパーの店長が賞味期限が当日までの練り物セットを「売れないため半額」と掲示",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "大阪の御堂筋が1車線封鎖されて結構な渋滞になってたんだけど、理由を調べたらパン食",
+      "title": "倉庫には“古米の山” 販売店｢かつてない量｣ 新米より古米が高い逆転現象… 赤字",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "大阪のジュンク堂書店で開催予定だった大槻ケンヂさんのサイン会が中止に 原因は33",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "トランプ氏、UFCのCEOに報道官就任を打診　本人は辞退と関係者",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "体育大会のクラス打ち上げに誘ってもらい、行くと返事してすごく楽しみにしてたのに、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
