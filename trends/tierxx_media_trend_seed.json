@@ -2,8 +2,8 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-07T23:17:28+0900",
-    "record_count": 37,
+    "generated_at": "2026-11-08T09:52:31+0900",
+    "record_count": 36,
     "source_total_in_db": 1676,
     "provenance_breakdown": {
       "evidence": 1082,
@@ -605,24 +605,6 @@
       "valid_until": "2026-11-17T12:00:50+0900",
       "status": "candidate",
       "created_at": "2026-11-03T12:00:50+0900"
-    },
-    {
-      "seed_id": "seed_b223977c3cab",
-      "trend_term": "横浜市ボトックス医院選",
-      "raw_title": "【2026年】横浜市のボトックス注射 おすすめしたい6医院 - メディカルドック",
-      "summary": "2026年時点の横浜市におけるボトックス注射対応医院6施設をリスト化。医院選択の実用情報として機能。",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UeUFzcG1XUE1sWUp2WkU0emRVUExIT3B1VnpHT1k0dHNjTE1fVDdDaFVpdEJsVVp0NVVDM0FhZmpJLXBvamROcG1tc2hpNUcwell5VE81RlY4WGZob0xVTC1uRHQ?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UeUFzcG1XUE1sWUp2WkU0emRVUExIT3B1VnpHT1k0dHNjTE1fVDdDaFVpdEJsVVp0NVVDM0FhZmpJLXBvamROcG1tc2hpNUcwell5VE81RlY4WGZob0xVTC1uRHQ?oc=5",
-      "source_name": "メディカルドック",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-08T02:21:19+0900",
-      "status": "candidate",
-      "created_at": "2026-11-03T02:21:19+0900"
     },
     {
       "seed_id": "seed_37a387560914",
