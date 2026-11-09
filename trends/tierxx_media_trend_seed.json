@@ -2,8 +2,8 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-08T23:27:57+0900",
-    "record_count": 28,
+    "generated_at": "2026-11-09T10:08:54+0900",
+    "record_count": 26,
     "source_total_in_db": 1678,
     "provenance_breakdown": {
       "evidence": 1084,
@@ -355,24 +355,6 @@
       "created_at": "2026-11-04T10:35:39+0900"
     },
     {
-      "seed_id": "seed_6b826985c68d",
-      "trend_term": "違法直カウ問題",
-      "raw_title": "厚労省も「違法」明文化...高須院長が「世の中を舐めている」と断じる美容業界の「直カウ」とは - J-CAST ニュース",
-      "summary": "厚生労働省が美容業界の「直カウ」（直接カウンセリング営業）を違法と明文化。業界慣行が法令化される",
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42V1daWnlLTlNSSnlLclMyZXNYd2ZROGk4YldqaHhZZ2ZiWmtwTEF3cHFTcWgxTDhFZ1lwVUNxWUFzS2xQRFdkUVZNOGJOOXNBZWVJODB3Q2tzZHBwTmNn?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42V1daWnlLTlNSSnlLclMyZXNYd2ZROGk4YldqaHhZZ2ZiWmtwTEF3cHFTcWgxTDhFZ1lwVUNxWUFzS2xQRFdkUVZNOGJOOXNBZWVJODB3Q2tzZHBwTmNn?oc=5",
-      "source_name": "J-CAST ニュース",
-      "monitor_id": "bm-safety-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-09T00:25:54+0900",
-      "status": "candidate",
-      "created_at": "2026-11-04T00:25:54+0900"
-    },
-    {
       "seed_id": "seed_c460f81c81eb",
       "trend_term": "症例数と技術力",
       "raw_title": "高い技術と圧倒的症例数、患者の安全を第一に考える「大阪雅美容外科」 - TOKYO HEADLINE",
@@ -389,24 +371,6 @@
       "valid_until": "2026-11-18T00:25:54+0900",
       "status": "candidate",
       "created_at": "2026-11-04T00:25:54+0900"
-    },
-    {
-      "seed_id": "seed_b04de1fd6ced",
-      "trend_term": "韓国スキンブースター製造拡大",
-      "raw_title": "韓国GC Cell Wellbeing、陰城にフィラー・スキンブースターGMP工場を着工…2027年完成目標 - BigGo ファイナンス",
-      "summary": "韓国GC Cell Wellbeingが陰城にフィラー・スキンブースターのGMP工場を着工、2027年完成予定。製造拠点拡張動向を示す。",
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5heWQ2YzM1WVJzcUVHZmQ4ODktWDVkb0x6MlRmNDZXRlFfT3BFdjhCSWtEcmVaUGlyRjE1WmxpT3VZbWhwUV8tU1BKeTFTMk1FS215dFU4VnF4aWYtYUVicGxiYno1RWdHckhnVHVTSVFFWXpi?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5heWQ2YzM1WVJzcUVHZmQ4ODktWDVkb0x6MlRmNDZXRlFfT3BFdjhCSWtEcmVaUGlyRjE1WmxpT3VZbWhwUV8tU1BKeTFTMk1FS215dFU4VnF4aWYtYUVicGxiYno1RWdHckhnVHVTSVFFWXpi?oc=5",
-      "source_name": "BigGo ファイナンス",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-09T00:25:44+0900",
-      "status": "candidate",
-      "created_at": "2026-11-04T00:25:44+0900"
     },
     {
       "seed_id": "seed_76561bcec92c",
