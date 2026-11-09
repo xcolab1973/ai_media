@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T17:40:00+09:00",
+  "generated_at": "2026-11-10T02:49:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,42 +16,44 @@
       "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 9,
-    "passed_total": 104,
+    "neg_excluded": 12,
+    "dedup_excluded": 8,
+    "passed_total": 102,
     "b2b_category_counts": {
-      "x_realtime": 9,
       "yahoo_realtime": 23,
+      "google_trends": 10,
       "news_web": 20,
-      "yahoo_news_ranking": 8,
-      "google_trends": 10
+      "x_realtime": 8,
+      "yahoo_news_ranking": 9
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "opinion": 9,
-    "policy": 4,
-    "hard_fact": 25,
-    "medical_science": 4
+    "social_reaction": 19,
+    "personal_story": 5,
+    "opinion": 10,
+    "medical_science": 5,
+    "policy": 2,
+    "hard_fact": 29
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
-    "policy": 5,
-    "hard_fact": 26,
-    "opinion": 9,
+    "personal_story": 5,
+    "social_reaction": 19,
+    "opinion": 10,
+    "policy": 4,
+    "hard_fact": 30,
     "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "着物での観劇について「帯を前に回すことを当たり前のルールにしないでほしい」という",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "Windows 11の新しい「レジストリ エディター」（？）が発掘・炎上、Mic",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
-      "title": "飼い主さんがお財布から何かを取り出したのを見た瞬間、危険を察知して逃げていく犬さ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "今回のBLバックラッシュで思うのは、もう女相手に配慮する必要ないんだ、という空気",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -61,46 +63,46 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "混雑全国一なのに…日暮里・舎人ライナー、2033年度にも資金不足（朝日新聞） -",
+      "title": "嶺井",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「キャベツの豊作みたいなことあるんや」深刻化する個人情報の流出だが、逆に流出しす",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "地銀サイバー対策に補助金で調整",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
-      "topic_category": "policy"
+      "title": "嶺井博希",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "ハウス食品G 26品目を来年値上げ",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
+      "title": "太田光",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "年の差恋愛描写の侵襲性と腐女子とゾーニング",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "ヒカル",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "運転怖い",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "ロト当選番号",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "中島美嘉 喉の不調で公演途中中止",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_entertainment",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "電気・ガスを止められテント暮らし、2025年に千葉県松戸市の一軒家で12歳の男子",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "title": "名無しのシンデレラ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
@@ -111,57 +113,57 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "着物での観劇について「帯を前に回すことを当たり前のルールにしないでほしい」という",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "Windows 11の新しい「レジストリ エディター」（？）が発掘・炎上、Mic",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
-      "title": "飼い主さんがお財布から何かを取り出したのを見た瞬間、危険を察知して逃げていく犬さ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "混雑全国一なのに…日暮里・舎人ライナー、2033年度にも資金不足（朝日新聞） -",
+      "title": "今回のBLバックラッシュで思うのは、もう女相手に配慮する必要ないんだ、という空気",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "年の差恋愛描写の侵襲性と腐女子とゾーニング",
+      "title": "「キャベツの豊作みたいなことあるんや」深刻化する個人情報の流出だが、逆に流出しす",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "運転怖い",
+      "title": "北海道大学を退学します。理由は、車校の先生に「（免許を取るために）まず大学は辞め",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "5万人集客のはずが…500人!?　大型グルメイベント「ローカルフードファイトin",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「お風呂に30分とか1時間入ってる人って何してるの？」音楽を流しても15分ほどで",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "嶺井",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ていうか、「これはフィクションなんだから、現実じゃないんだから」で擁..",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "配布禁止でまた自腹に　プルデンシャル、カレンダー巡り現場混乱 | 毎日新聞",
+      "title": "労働基準法の「女子保護規定」全廃へ、坑内労働の制限見直し方針…「性別のみ理由に禁",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "人生で一瞬だけ会える「めっちゃおもろい他人」いるよね→みんなが出会った珠玉の「お",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「本当職場見学させてほしい」デスクでご飯食べなきゃいけないなんて聞いてない、休憩",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "約10年前、歌舞伎町で大学生風の男が「ここでナンパするな」と夜の店の人に叱られ、",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
