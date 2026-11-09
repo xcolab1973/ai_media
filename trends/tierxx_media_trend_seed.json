@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-09T10:08:54+0900",
+    "generated_at": "2026-11-09T19:07:39+0900",
     "record_count": 26,
-    "source_total_in_db": 1678,
+    "source_total_in_db": 1680,
     "provenance_breakdown": {
-      "evidence": 1084,
+      "evidence": 1086,
       "pain_seed": 594
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_3efd27c4b03f",
+      "trend_term": "美容医療市場の経営戦略",
+      "raw_title": "「ホットペッパービューティー」も参入 拡大する美容医療市場のクリニック経営戦略に迫る - WWDJAPAN",
+      "summary": "ホットペッパービューティーが美容医療市場に参入。業界の経営戦略が変化している動向を報道。",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFanB6WEp5VG43a3NsLU16emlpalAzUklyVmJJRVM1THpON29JRy1XcXRVeDVnQ3BPcGo4cTB5RFVTMlh0bUYtWHNHdFU0WE1EcmN3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFanB6WEp5VG43a3NsLU16emlpalAzUklyVmJJRVM1THpON29JRy1XcXRVeDVnQ3BPcGo4cTB5RFVTMlh0bUYtWHNHdFU0WE1EcmN3?oc=5",
+      "source_name": "WWDJAPAN",
+      "monitor_id": "bm-market-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-14T19:07:34+0900",
+      "status": "candidate",
+      "created_at": "2026-11-09T19:07:34+0900"
+    },
+    {
+      "seed_id": "seed_a1fe9822d728",
+      "trend_term": "ボトックス中断後のシワ変化",
+      "raw_title": "『ボトックス注射』をやめると老ける？ やめた後のシワの変化と続け方を医師が解説 - メディカルドック",
+      "summary": "医師がボトックス注射の中止後のシワの変化と継続方法について解説。治療中止時の肌への影響について専門家見解を提供。",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NZmVFNVZtdEdMLTVGcGhKUDdGM1ZaMzVUWkpGZFJlMjNJbGxwUUpTOG9jQ1dZdGYwNUhzWkd6ek1ldE1nZWVOQUtLVkRUTDQyN1hGMWl6WHIwMW5q?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NZmVFNVZtdEdMLTVGcGhKUDdGM1ZaMzVUWkpGZFJlMjNJbGxwUUpTOG9jQ1dZdGYwNUhzWkd6ek1ldE1nZWVOQUtLVkRUTDQyN1hGMWl6WHIwMW5q?oc=5",
+      "source_name": "メディカルドック",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "soft_fact",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-23T19:07:19+0900",
+      "status": "candidate",
+      "created_at": "2026-11-09T19:07:19+0900"
+    },
     {
       "seed_id": "seed_a91bffa527d5",
       "trend_term": "韓国再生医療の動向",
@@ -211,24 +247,6 @@
       "created_at": "2026-11-07T00:17:26+0900"
     },
     {
-      "seed_id": "seed_9156a6aa0817",
-      "trend_term": "開院20周年企画",
-      "raw_title": "【美容皮膚科 フェミークリニック】開院20周年を記念し、永久脱毛にも利用できる期間限定のプランをご用意 - PR TIMES",
-      "summary": "フェミークリニックが開院20周年記念で、永久脱毛にも利用できる期間限定プランを提供。",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82QjZ3VkJWdVNwNVpNczBsbTQ3akI1ay1nMHZXb1hlNmdBRVZPX21lUWJEemVZWEFTMzB0UjRCYXV0ZjFKdHJBTGloRTRueXFHb293VmpzRUhOeTFvSTNQQ2hIOEs1VEhheUE?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82QjZ3VkJWdVNwNVpNczBsbTQ3akI1ay1nMHZXb1hlNmdBRVZPX21lUWJEemVZWEFTMzB0UjRCYXV0ZjFKdHJBTGloRTRueXFHb293VmpzRUhOeTFvSTNQQ2hIOEs1VEhheUE?oc=5",
-      "source_name": "PR TIMES",
-      "monitor_id": "bm-market-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-11T18:41:30+0900",
-      "status": "candidate",
-      "created_at": "2026-11-06T18:41:30+0900"
-    },
-    {
       "seed_id": "seed_992ba8f239d8",
       "trend_term": "骨切り専門性強化",
       "raw_title": "リノクリニック東銀座、開院5周年で新体制へ ― 骨切り専門性と総合美容外科を強化 - PR TIMES",
@@ -335,24 +353,6 @@
       "valid_until": "2026-11-10T00:41:10+0900",
       "status": "candidate",
       "created_at": "2026-11-05T00:41:10+0900"
-    },
-    {
-      "seed_id": "seed_1c6874925893",
-      "trend_term": "HIFU代替技術の台頭",
-      "raw_title": "「もうHIFUだけに頼らない。」美容サロンの新たなリフトケアメニュー『HIFace(R)』、全国体験セミナー・オンライン商談を開始 - Infoseek",
-      "summary": "美容サロンで従来のHIFU単独施術から複合的なリフトケアメニューへシフト。新技術『HIFace』の導入により、施術選択肢の多様化が進行中。",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtTEtPaUtzd0RBX2g5U1VDZDRGejdacXV5cTJSdkttSFNrVDh3bXEyZS14aERTSkNrb1d2LXc2bGpLMEUwZkxSa3dESnNUVlZrbmFIRDRDVllWanU2anFDcWdxMDZBbVZZVjVKN2MxdEhKQQ?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtTEtPaUtzd0RBX2g5U1VDZDRGejdacXV5cTJSdkttSFNrVDh3bXEyZS14aERTSkNrb1d2LXc2bGpLMEUwZkxSa3dESnNUVlZrbmFIRDRDVllWanU2anFDcWdxMDZBbVZZVjVKN2MxdEhKQQ?oc=5",
-      "source_name": "Infoseek",
-      "monitor_id": "bm-machine-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-09T10:35:39+0900",
-      "status": "candidate",
-      "created_at": "2026-11-04T10:35:39+0900"
     },
     {
       "seed_id": "seed_c460f81c81eb",
