@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T03:06:00+09:00",
+  "generated_at": "2026-11-09T10:11:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,164 +7,164 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 12,
-    "passed_total": 105,
+    "neg_excluded": 6,
+    "dedup_excluded": 8,
+    "passed_total": 118,
     "b2b_category_counts": {
-      "yahoo_realtime": 25,
-      "news_web": 21,
+      "x_realtime": 10,
+      "yahoo_realtime": 30,
       "google_trends": 10,
-      "x_realtime": 7,
-      "yahoo_news_ranking": 7
+      "news_web": 16,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 17,
-    "personal_story": 2,
-    "opinion": 10,
-    "medical_science": 5,
-    "policy": 4,
-    "hard_fact": 32
+    "social_reaction": 33,
+    "personal_story": 4,
+    "opinion": 7,
+    "medical_science": 2,
+    "hard_fact": 16,
+    "policy": 8
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 17,
-    "hard_fact": 33,
-    "policy": 4,
-    "opinion": 10,
-    "medical_science": 4,
-    "personal_story": 2
+    "social_reaction": 30,
+    "hard_fact": 23,
+    "opinion": 7,
+    "policy": 5,
+    "personal_story": 4,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "『ACE COMBAT8』はウクライナ侵攻以後の戦争エンタメとして何を描き、何を",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "商品に個体差「不揃い」バズる訳",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "レジスタの話が表自議員まで飛び火しだして面白くなってきた",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "停電",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "アストンヴィラ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "アリソン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「なんかもう全員発達障害になりそうだな」日経新聞が発達性協調運動障害を取り上げた",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "ドラッグストアでオキシドール3本買ったら「用途をお聞かせください」と尋ねられた→",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "大阪のジュンク堂書店で開催予定だった大槻ケンヂさんのサイン会が中止に 原因は33",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「この角材が、こうなってこうだよ。当たり前だけど」彫刻バージョンの「ね、簡単でし",
+      "title": "【閲覧注意】半額だったので海鮮丼にしようとウキウキでブリを買って開けたらブリ糸状",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "『ACE COMBAT 8』はウクライナ侵攻以後の戦争エンタメとして何を描き、何",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "日経平均",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "【神アプリ】使ってないAndroidを「音楽専用機」に蘇らせる無料アプリ『reT",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "VIVANTが中国で「炎上」、背景に作り手側の鈍感さも　識者指摘：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "三菱重工 株価",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "長女がパパの股間を触る悪戯をして叱ったけど不貞腐れたので「他人の股間を触るのはマ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "川田翔子",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "オースティン・リーブス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "黄仁勋",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "『ACE COMBAT8』はウクライナ侵攻以後の戦争エンタメとして何を描き、何を",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ドラッグストアでオキシドール3本買ったら「用途をお聞かせください」と尋ねられた→",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "大阪のジュンク堂書店で開催予定だった大槻ケンヂさんのサイン会が中止に 原因は33",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「この角材が、こうなってこうだよ。当たり前だけど」彫刻バージョンの「ね、簡単でし",
+      "title": "【閲覧注意】半額だったので海鮮丼にしようとウキウキでブリを買って開けたらブリ糸状",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "フェミニスト「枝豆の名前がほんとうに気持ち悪くてね」「農家も性欲に頭やられてる」",
+      "title": "【神アプリ】使ってないAndroidを「音楽専用機」に蘇らせる無料アプリ『reT",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "初めてのデートで男の人が選んだら次はなくなるようなお店に食べに行ってしまった話…",
+      "title": "VIVANTが中国で「炎上」、背景に作り手側の鈍感さも　識者指摘：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "北海道物産展で店員に家族構成を聞かれ「1人暮らし」と回答…目の前で財布を出してい",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "あるスーパーの店長が賞味期限が当日までの練り物セットを「売れないため半額」と掲示",
+      "title": "『ACE COMBAT 8』はウクライナ侵攻以後の戦争エンタメとして何を描き、何",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "長女がパパの股間を触る悪戯をして叱ったけど不貞腐れたので「他人の股間を触るのはマ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "山梨で開催されたイベント「川中島合戦戦国絵巻」が合戦あり鉄砲あり爆発あり上杉謙信",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "【動画】夜の広島めぐる「赤い路面電車」おひとりさま乗車体験　酒や食も楽しめるぜい",
+      "title": "（体験談）18歳女子が1人海外旅行で入国審査で売●を疑われ手錠で厳重に拘束されて",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "停電",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "マンションの駐輪場にあるバイクが勝手に移動させられて廃棄の張り紙、確認したら管理",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "弊社は来客時のお茶出しが250mLくらいのペットボトルのお茶になっており、事務室",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「気をつけろ、ソイツは \"アイス\" なんかじゃあないッッ!!!!!ソイツをそのま",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ]
 }
