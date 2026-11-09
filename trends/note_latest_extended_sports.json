@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T06:29:08+09:00",
+ "generated_at": "2026-11-09T16:40:13+09:00",
  "valid_until": "2026-11-20T06:29:17+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "sports",
   "from_current": 12,
-  "from_new": 4,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 4,
+  "retention_dropped": 1,
   "genres": 2,
   "retention_per_genre": 8
  },
@@ -135,6 +135,36 @@
    },
    "valid_until": "2026-11-10T06:28:44+09:00",
    "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "大相撲九州場所2026の日程|11月8日〜22日・自由席なしの福岡国際センター観戦ガイド",
+   "url": "https://ky-picks.com/blog/sumo-kyushu-basho-2026-fukuoka-guide/",
+   "summary": "九州場所は11月8日〜22日に福岡国際センターで開催。今場所は自由席がなく、前売りで完売なら当日券も出ない。イス席は3階、マス席は靴を脱ぐ形式、駐車場は22時以降出庫不可。転売禁止。（本文確認済）",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "sports-watch",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "ky-picks",
+    "expert_origin": false,
+    "search_query": "大相撲九州場所 2026 チケット 観戦 初めて 見どころ 取組",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-11-14T16:39:18+09:00",
+   "validity_days": 5
   },
   {
    "source_category": "news_web",
@@ -344,36 +374,6 @@
     "rescued": false
    },
    "valid_until": "2026-11-13T16:38:20+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "ご存知ですか？「チケット不正転売禁止法」（東京都消費生活総合センター）",
-   "url": "https://www.shouhiseikatu.metro.tokyo.lg.jp/trouble/documents/troublenome79tickettenbaikinshilaw_2.pdf",
-   "summary": "2019年6月14日施行。主催者の同意なく反復継続の意思で定価超で転売、またその目的の譲受けを禁止。個人も対象で1年以下の懲役か100万円以下の罰金。スポーツも対象（本文確認済）",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "hard_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "sports-watch",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "東京都消費生活総合センター",
-    "expert_origin": true,
-    "search_query": "スポーツ観戦 チケット 転売 禁止 法 2026 施行 初心者 DAZN 配信 見逃し",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-11-13T06:28:15+09:00",
    "validity_days": 5
   }
  ]
