@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-09T19:07:39+0900",
+    "generated_at": "2026-11-10T02:47:14+0900",
     "record_count": 26,
-    "source_total_in_db": 1680,
+    "source_total_in_db": 1681,
     "provenance_breakdown": {
-      "evidence": 1086,
+      "evidence": 1087,
       "pain_seed": 594
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_63c941ae8756",
+      "trend_term": "ショートフォーム健康習慣",
+      "raw_title": "10位 チョコザップ - 1日5分のちょいトレ＋健康習慣アプリ",
+      "summary": "チョコザップがAppランキング10位。1日5分のトレーニングと健康習慣管理機能を提供するアプリが高ランキング入り",
+      "source_url": "https://apps.apple.com/jp/app/%E3%83%81%E3%83%A7%E3%82%B3%E3%82%B6%E3%83%83%E3%83%97-1%E6%97%A55%E5%88%86%E3%81%AE%E3%81%A1%E3%82%87%E3%81%84%E3%83%88%E3%83%AC-%E5%81%A5%E5%BA%B7%E7%BF%92%E6%85%A3%E3%82%A2%E3%83%97%E3%83%AA/id1613682287",
+      "url": "https://apps.apple.com/jp/app/%E3%83%81%E3%83%A7%E3%82%B3%E3%82%B6%E3%83%83%E3%83%97-1%E6%97%A55%E5%88%86%E3%81%AE%E3%81%A1%E3%82%87%E3%81%84%E3%83%88%E3%83%AC-%E5%81%A5%E5%BA%B7%E7%BF%92%E6%85%A3%E3%82%A2%E3%83%97%E3%83%AA/id1613682287",
+      "source_name": "Apple App Ranking",
+      "monitor_id": "bm-app-ranking",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-15T02:47:13+0900",
+      "status": "candidate",
+      "created_at": "2026-11-10T02:47:13+0900"
+    },
     {
       "seed_id": "seed_3efd27c4b03f",
       "trend_term": "美容医療市場の経営戦略",
@@ -335,24 +353,6 @@
       "valid_until": "2026-11-10T18:44:55+0900",
       "status": "candidate",
       "created_at": "2026-11-05T18:44:55+0900"
-    },
-    {
-      "seed_id": "seed_4cd2a00accb7",
-      "trend_term": "K-ECMスキンブースター",
-      "raw_title": "提供皮膚から作るK-ECMスキンブースター、820億ウォンの米国契約など輸出拡大 - BigGo ファイナンス",
-      "summary": "皮膚から作るK-ECMスキンブースターが820億ウォンの米国契約を獲得し、輸出拡大が進行中",
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEY3FWeFJIaVdpNW9pNnlkTmpZdl91eThjaENMdmc2NGU3Ykt0Y1ZJMGVEdjJNUTFiVnJlS3MzbEhwb0VTTVZqOTVpYi1Sem5EaktjX3lMN0todXo2bHNkU2VFd3ZCSldKWFY4T0RVWF9aSUh2?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEY3FWeFJIaVdpNW9pNnlkTmpZdl91eThjaENMdmc2NGU3Ykt0Y1ZJMGVEdjJNUTFiVnJlS3MzbEhwb0VTTVZqOTVpYi1Sem5EaktjX3lMN0todXo2bHNkU2VFd3ZCSldKWFY4T0RVWF9aSUh2?oc=5",
-      "source_name": "BigGo ファイナンス",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-10T00:41:10+0900",
-      "status": "candidate",
-      "created_at": "2026-11-05T00:41:10+0900"
     },
     {
       "seed_id": "seed_c460f81c81eb",
