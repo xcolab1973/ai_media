@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T10:11:00+09:00",
+  "generated_at": "2026-11-09T17:40:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,161 +7,159 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 8,
-    "passed_total": 118,
+    "neg_excluded": 9,
+    "dedup_excluded": 9,
+    "passed_total": 104,
     "b2b_category_counts": {
-      "x_realtime": 10,
-      "yahoo_realtime": 30,
-      "google_trends": 10,
-      "news_web": 16,
-      "yahoo_news_ranking": 4
+      "x_realtime": 9,
+      "yahoo_realtime": 23,
+      "news_web": 20,
+      "yahoo_news_ranking": 8,
+      "google_trends": 10
     }
   },
   "note_category_counts": {
-    "social_reaction": 33,
-    "personal_story": 4,
-    "opinion": 7,
-    "medical_science": 2,
-    "hard_fact": 16,
-    "policy": 8
+    "social_reaction": 28,
+    "opinion": 9,
+    "policy": 4,
+    "hard_fact": 25,
+    "medical_science": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
-    "hard_fact": 23,
-    "opinion": 7,
+    "social_reaction": 28,
     "policy": 5,
-    "personal_story": 4,
-    "medical_science": 1
+    "hard_fact": 26,
+    "opinion": 9,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "【閲覧注意】半額だったので海鮮丼にしようとウキウキでブリを買って開けたらブリ糸状",
+      "title": "着物での観劇について「帯を前に回すことを当たり前のルールにしないでほしい」という",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『ACE COMBAT 8』はウクライナ侵攻以後の戦争エンタメとして何を描き、何",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日経平均",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "【神アプリ】使ってないAndroidを「音楽専用機」に蘇らせる無料アプリ『reT",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "VIVANTが中国で「炎上」、背景に作り手側の鈍感さも　識者指摘：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "三菱重工 株価",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "長女がパパの股間を触る悪戯をして叱ったけど不貞腐れたので「他人の股間を触るのはマ",
+      "title": "飼い主さんがお財布から何かを取り出したのを見た瞬間、危険を察知して逃げていく犬さ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "川田翔子",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "品質保証部にいた『なんでも不安がる人』 一般的にネガティブ思考と言われ、あまり人",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "オースティン・リーブス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "混雑全国一なのに…日暮里・舎人ライナー、2033年度にも資金不足（朝日新聞） -",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "黄仁勋",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "地銀サイバー対策に補助金で調整",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_domestic",
+      "topic_category": "policy"
+    },
+    {
+      "title": "ハウス食品G 26品目を来年値上げ",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "年の差恋愛描写の侵襲性と腐女子とゾーニング",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "運転怖い",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中島美嘉 喉の不調で公演途中中止",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_entertainment",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "電気・ガスを止められテント暮らし、2025年に千葉県松戸市の一軒家で12歳の男子",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
     {
-      "title": "【閲覧注意】半額だったので海鮮丼にしようとウキウキでブリを買って開けたらブリ糸状",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【神アプリ】使ってないAndroidを「音楽専用機」に蘇らせる無料アプリ『reT",
+      "title": "品質保証部にいた『なんでも不安がる人』 一般的にネガティブ思考と言われ、あまり人",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "VIVANTが中国で「炎上」、背景に作り手側の鈍感さも　識者指摘：朝日新聞",
+      "title": "着物での観劇について「帯を前に回すことを当たり前のルールにしないでほしい」という",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "飼い主さんがお財布から何かを取り出したのを見た瞬間、危険を察知して逃げていく犬さ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "混雑全国一なのに…日暮里・舎人ライナー、2033年度にも資金不足（朝日新聞） -",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "北海道物産展で店員に家族構成を聞かれ「1人暮らし」と回答…目の前で財布を出してい",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『ACE COMBAT 8』はウクライナ侵攻以後の戦争エンタメとして何を描き、何",
+      "title": "年の差恋愛描写の侵襲性と腐女子とゾーニング",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "長女がパパの股間を触る悪戯をして叱ったけど不貞腐れたので「他人の股間を触るのはマ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "（体験談）18歳女子が1人海外旅行で入国審査で売●を疑われ手錠で厳重に拘束されて",
+      "title": "運転怖い",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "マンションの駐輪場にあるバイクが勝手に移動させられて廃棄の張り紙、確認したら管理",
+      "title": "配布禁止でまた自腹に　プルデンシャル、カレンダー巡り現場混乱 | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "人生で一瞬だけ会える「めっちゃおもろい他人」いるよね→みんなが出会った珠玉の「お",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "弊社は来客時のお茶出しが250mLくらいのペットボトルのお茶になっており、事務室",
+      "title": "「本当職場見学させてほしい」デスクでご飯食べなきゃいけないなんて聞いてない、休憩",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「気をつけろ、ソイツは \"アイス\" なんかじゃあないッッ!!!!!ソイツをそのま",
+      "title": "約10年前、歌舞伎町で大学生風の男が「ここでナンパするな」と夜の店の人に叱られ、",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
