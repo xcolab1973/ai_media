@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-10T19:14:32+0900",
-    "record_count": 27,
-    "source_total_in_db": 1686,
+    "generated_at": "2026-11-11T00:44:34+0900",
+    "record_count": 26,
+    "source_total_in_db": 1687,
     "provenance_breakdown": {
       "evidence": 1090,
-      "pain_seed": 596
+      "pain_seed": 597
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_497ceea7b8d1",
+      "trend_term": "再生医療発想コスメ",
+      "raw_title": "【美容賢者が選ぶ「2026年傑作コスメ」】「クレ・ド・ポー ボーテ」“再生医療”発想で肌老化に挑む恒久的名品クリームをご紹介 - Precious.jp",
+      "summary": "美容賢者が選ぶ2026年傑作コスメとして、再生医療発想で肌老化に対応するクリーム商品が紹介されている。",
+      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mZXQ1cUhhSjZ1QTlEVmNWeTdicllxalM1VFEtMWhndnpPel9rRXIyN3VpZHhqazNlUl94d2lwbldoZi1XbGZhTGtFLVA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mZXQ1cUhhSjZ1QTlEVmNWeTdicllxalM1VFEtMWhndnpPel9rRXIyN3VpZHhqazNlUl94d2lwbldoZi1XbGZhTGtFLVA?oc=5",
+      "source_name": "Precious.jp",
+      "monitor_id": "bm-regen-news",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-16T00:43:57+0900",
+      "status": "candidate",
+      "created_at": "2026-11-11T00:43:57+0900"
+    },
     {
       "seed_id": "seed_d7b17590bf8a",
       "trend_term": "国際学会アンバサダー就任",
@@ -373,24 +391,6 @@
       "created_at": "2026-11-06T10:44:30+0900"
     },
     {
-      "seed_id": "seed_affc264b7ab3",
-      "trend_term": "美容整形の規制強化",
-      "raw_title": "ホーチミン市では、美容整形手術のための手術室の賃貸または貸し出しが禁止されている。 - Vietnam.vn",
-      "summary": "ホーチミン市が美容整形手術用の手術室賃貸を禁止する規制を導入。医療施設の安全基準に関する公的指針。",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOElLVWwxYmFhbjVXVF96Y1kwRzFJWWxkTllnR0t4bXJpUFk0MkZPUEcyM1pacVlHUV95aTlqZG1vcUE4RWlZZjlyLTRDcXAwWEhwb1hPWmgySmhRRkgxUlpQdVpVMWhCdTJidDNaSzVpU1BIS0VaRFU2ZEV4U0laWDM4aGNSREFfVTdHYnYwQ01TNWM?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOElLVWwxYmFhbjVXVF96Y1kwRzFJWWxkTllnR0t4bXJpUFk0MkZPUEcyM1pacVlHUV95aTlqZG1vcUE4RWlZZjlyLTRDcXAwWEhwb1hPWmgySmhRRkgxUlpQdVpVMWhCdTJidDNaSzVpU1BIS0VaRFU2ZEV4U0laWDM4aGNSREFfVTdHYnYwQ01TNWM?oc=5",
-      "source_name": "Vietnam.vn",
-      "monitor_id": "bm-safety-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "official_instruction",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-11T00:42:50+0900",
-      "status": "candidate",
-      "created_at": "2026-11-06T00:42:50+0900"
-    },
-    {
       "seed_id": "seed_c460f81c81eb",
       "trend_term": "症例数と技術力",
       "raw_title": "高い技術と圧倒的症例数、患者の安全を第一に考える「大阪雅美容外科」 - TOKYO HEADLINE",
@@ -479,24 +479,6 @@
       "valid_until": "2026-11-13T10:16:52+0900",
       "status": "candidate",
       "created_at": "2026-10-30T10:16:52+0900"
-    },
-    {
-      "seed_id": "seed_53388959a6c9",
-      "trend_term": "ピコレーザー選択ガイド",
-      "raw_title": "ピコレーザーのおすすめクリニック【2025年】 - マイベスト",
-      "summary": "ピコレーザー治療の選択肢比較。読者の「どのクリニックを選ぶか」という実装段階の悩みに直結する情報源。",
-      "source_url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1rYU5sdjVhQUpHZU1WLUQtMHo2YXVlckV0QUZvSnVxcU5veS1ad0FFZ1lIVkJRMGpPQm16Mm1B?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1rYU5sdjVhQUpHZU1WLUQtMHo2YXVlckV0QUZvSnVxcU5veS1ad0FFZ1lIVkJRMGpPQm16Mm1B?oc=5",
-      "source_name": "マイベスト",
-      "monitor_id": "bm-machine-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-10T22:29:41+0900",
-      "status": "candidate",
-      "created_at": "2026-10-27T22:29:41+0900"
     }
   ]
 }
