@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T07:44:00+09:00",
+  "generated_at": "2026-11-10T12:47:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,155 +16,155 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
+    "neg_excluded": 5,
     "dedup_excluded": 12,
-    "passed_total": 114,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
+      "yahoo_realtime": 38,
+      "x_realtime": 5,
       "google_trends": 10,
-      "x_realtime": 6,
-      "news_web": 13,
-      "yahoo_news_ranking": 5
+      "news_web": 14,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
-    "personal_story": 2,
+    "social_reaction": 32,
     "opinion": 10,
-    "policy": 7,
-    "hard_fact": 18,
-    "medical_science": 7
+    "medical_science": 7,
+    "personal_story": 1,
+    "policy": 5,
+    "hard_fact": 15
   },
   "b2b_topic_category_counts": {
-    "policy": 7,
-    "hard_fact": 22,
-    "social_reaction": 26,
+    "social_reaction": 32,
     "opinion": 10,
-    "personal_story": 2,
-    "medical_science": 3
+    "hard_fact": 20,
+    "medical_science": 2,
+    "policy": 5,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "【MV】INMU KING（修正版）/ YAJU-MC",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "儲かっているのになぜ？JR東海が「のぞみ」値上げに踏み切ったワケ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "今回のBLバックラッシュで思うのは、もう女相手に配慮する必要ないんだ、という空気",
+      "title": "娘と仲良しのお友達家族と自転車で遊びに行った時、ラックの奥まで押し込むとロックが",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "s&p 500",
+      "title": "昔1話だけ読んだ未来世界で廃墟となった街をさまよう少女二人のマンガ、タイトルが思",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中村仁美",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "チアリーディング",
+      "title": "「父がちょっと人が良すぎて心配なんだよな」映画館で自分たちが取った超良席を占領し",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「その気になれば殺人も」　 ミステリーの女王アガサ・クリスティーが駆使した危険な",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "娘が男子から意地悪されていた時に庇ってくれた男子がいて、映画に誘ってくれたりした",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "カナダ人「Instagramで、北米の牛乳には味がなくてつらい、日本の牛乳が恋し",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "織田翔希",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "コアウィーブ",
+      "title": "アーロン・ジャッジ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "雨雲",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "岩田剛典",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "フィラデルフィア半導体株指数",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ナスダック100指数",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "目算が外れて大炎上しているイベントの話｜中島けいすけ（成田市議会議員）",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
-      "title": "今回のBLバックラッシュで思うのは、もう女相手に配慮する必要ないんだ、という空気",
+      "title": "娘と仲良しのお友達家族と自転車で遊びに行った時、ラックの奥まで押し込むとロックが",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「芸術の俎上に載せていいのか」福祉事業所に通うサッポロ一番しょうゆ味の袋麺の感触",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「お風呂に30分とか1時間入ってる人って何してるの？」音楽を流しても15分ほどで",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "池袋の映画館で機材トラブルが発生→その時間帯のIMAXレーザーGTでの『ゴジラ-",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "田畑暁生教授「高市総理、神大の夜間部なら納得がいく、早慶合格は怪しい」→誤解を招",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「田中角栄回に匹敵する神回」NHK『映像の世紀』暴力団を取り上げた特集、ヤクザが",
+      "title": "昔1話だけ読んだ未来世界で廃墟となった街をさまよう少女二人のマンガ、タイトルが思",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ポテトチップスの白黒化で「更生」した87%の顧客と中毒患者のフラッシュバックを設",
+      "title": "「父がちょっと人が良すぎて心配なんだよな」映画館で自分たちが取った超良席を占領し",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "Appleが2026年に約4300億円の税金を節約、シンガポールがアイルランドを",
+      "title": "「その気になれば殺人も」　 ミステリーの女王アガサ・クリスティーが駆使した危険な",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "北海道大学を退学します。理由は、車校の先生に「（免許を取るために）まず大学は辞め",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
+      "title": "娘が男子から意地悪されていた時に庇ってくれた男子がいて、映画に誘ってくれたりした",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "s&p 500",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "カナダ人「Instagramで、北米の牛乳には味がなくてつらい、日本の牛乳が恋し",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "目算が外れて大炎上しているイベントの話｜中島けいすけ（成田市議会議員）",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "遠征用に小さい財布にしていたら、入れてる全部のキャッシュカードの磁気飛んだ→経験",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "正倉院展の展示品の前でスマホのカメラを起動中のおばさまに周囲の人が「撮影禁止です",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "日本最大のコーヒーの祭典「SCAJ」が楽しい　あらゆるコーヒーが試飲でき高価な機",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ]
 }
