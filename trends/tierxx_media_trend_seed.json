@@ -2,16 +2,70 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-10T12:44:42+0900",
-    "record_count": 28,
-    "source_total_in_db": 1683,
+    "generated_at": "2026-11-10T19:14:32+0900",
+    "record_count": 27,
+    "source_total_in_db": 1686,
     "provenance_breakdown": {
-      "evidence": 1088,
-      "pain_seed": 595
+      "evidence": 1090,
+      "pain_seed": 596
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_d7b17590bf8a",
+      "trend_term": "国際学会アンバサダー就任",
+      "raw_title": "聖心美容クリニック牧野陽二郎医師が、韓国発の国際美容医療学会「ICLAS」の日本アンバサダーに就任｜韓国の美容医療と日 - ニコニコニュース",
+      "summary": "聖心美容クリニック牧野陽二郎医師が韓国発の国際美容医療学会「ICLAS」の日本アンバサダーに就任。韓国の美容医療と日本の連携を示す動き。",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MRER0ZlFpTGQ0QW53VS1zaHFKSU1DSXVNV1pPaFVwUzQxOTFqTGZYUzQ2VzBSUGdoWjZNNVZUd0NkSFkxdHpERld3am41UVRSRVRHZDhKV3BSeHhiTXhjV2s1TWg2eGdl?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MRER0ZlFpTGQ0QW53VS1zaHFKSU1DSXVNV1pPaFVwUzQxOTFqTGZYUzQ2VzBSUGdoWjZNNVZUd0NkSFkxdHpERld3am41UVRSRVRHZDhKV3BSeHhiTXhjV2s1TWg2eGdl?oc=5",
+      "source_name": "ニコニコニュース",
+      "monitor_id": "bm-market-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-15T19:14:26+0900",
+      "status": "candidate",
+      "created_at": "2026-11-10T19:14:26+0900"
+    },
+    {
+      "seed_id": "seed_583a5ff4d936",
+      "trend_term": "NMN配合スキンケア",
+      "raw_title": "韓国発スキンケアブランド「starlike」から“NMNスキンブースターライン”3商品が登場！11月19日発売 - Kstyle",
+      "summary": "韓国スキンケアブランド「starlike」がNMNスキンブースターライン3商品を11月19日に発売。",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43VEtHbXdNT3pNVjB0MWpEazJQU0Z2R0l5RzNIem9lZlhpWFFzZlNITUp0bWliQ0I1eW8yNXp2MlhiTzlhZEYwbEplODJwRlNHcFBDMGZMdUJUWXBq?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43VEtHbXdNT3pNVjB0MWpEazJQU0Z2R0l5RzNIem9lZlhpWFFzZlNITUp0bWliQ0I1eW8yNXp2MlhiTzlhZEYwbEplODJwRlNHcFBDMGZMdUJUWXBq?oc=5",
+      "source_name": "Kstyle",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-15T19:14:12+0900",
+      "status": "candidate",
+      "created_at": "2026-11-10T19:14:12+0900"
+    },
+    {
+      "seed_id": "seed_5d482a5eef16",
+      "trend_term": "セレブのボトックス失敗例",
+      "raw_title": "ニコール・キッドマン、ボトックスの打ち過ぎ？ - ELLE",
+      "summary": "ニコール・キッドマンがボトックスの過剰使用について言及。美容医療のリスク認知に関連する話題。",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRjZQTy1GUzZJd3E2WHB5YjBBT3pqckF6d2JSOW1oMEhTTVRnbVU4UTV3ZDFGcWZZSk5LcjdZXzlLdUUtOGEyQkgwaUdtbjBYbzNpUUswZUZaaHdkb0xEWEM4ZVJRUUlDMVFFd09mMEhzb3UxNzZ2YTltNjRuLS1KcUw5X0g?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRjZQTy1GUzZJd3E2WHB5YjBBT3pqckF6d2JSOW1oMEhTTVRnbVU4UTV3ZDFGcWZZSk5LcjdZXzlLdUUtOGEyQkgwaUdtbjBYbzNpUUswZUZaaHdkb0xEWEM4ZVJRUUlDMVFFd09mMEhzb3UxNzZ2YTltNjRuLS1KcUw5X0g?oc=5",
+      "source_name": "ELLE",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "opinion",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-24T19:14:12+0900",
+      "status": "candidate",
+      "created_at": "2026-11-10T19:14:12+0900"
+    },
     {
       "seed_id": "seed_30cf2c2b689a",
       "trend_term": "美容施術による医療事故",
@@ -301,24 +355,6 @@
       "created_at": "2026-11-07T00:17:26+0900"
     },
     {
-      "seed_id": "seed_992ba8f239d8",
-      "trend_term": "骨切り専門性強化",
-      "raw_title": "リノクリニック東銀座、開院5周年で新体制へ ― 骨切り専門性と総合美容外科を強化 - PR TIMES",
-      "summary": "リノクリニック東銀座が開院5周年で新体制へ移行。骨切り専門性と総合美容外科を強化する方針を発表。",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SSTdsT2tkaEM2LTBwem9CZnNMNDU4cmNTbnVaOW9xVTMtUnhWa3NXTEh4WE9zdFhVT2w5ZlNCZUp1aGxYbHlvTW50WUxmR1hQaGNpVm9iVjVvZnF3VDNrV0ZsaWNBN2xtWUE?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SSTdsT2tkaEM2LTBwem9CZnNMNDU4cmNTbnVaOW9xVTMtUnhWa3NXTEh4WE9zdFhVT2w5ZlNCZUp1aGxYbHlvTW50WUxmR1hQaGNpVm9iVjVvZnF3VDNrV0ZsaWNBN2xtWUE?oc=5",
-      "source_name": "PR TIMES",
-      "monitor_id": "bm-market-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-11T18:41:30+0900",
-      "status": "candidate",
-      "created_at": "2026-11-06T18:41:30+0900"
-    },
-    {
       "seed_id": "seed_a9940a33b8e4",
       "trend_term": "専門医・患者マッチング",
       "raw_title": "直美問題の解決へ一歩――専門医と患者をつなぐ新構想でクラウドファンディング開始｜CareNet.com - CareNet.com",
@@ -353,42 +389,6 @@
       "valid_until": "2026-11-11T00:42:50+0900",
       "status": "candidate",
       "created_at": "2026-11-06T00:42:50+0900"
-    },
-    {
-      "seed_id": "seed_12d11c77fa79",
-      "trend_term": "美容整形手術室の規制強化",
-      "raw_title": "ホーチミン市では、美容整形手術室の賃貸や貸し出しは厳しく禁止されている。 - Vietnam.vn",
-      "summary": "ホーチミン市が美容整形手術室の賃貸・貸し出しを厳しく禁止する規制を実施。医療施設の安全基準に関わる公式方針。",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lenJtS2dvQjRDWXFqTzZOa2h1QnkwOEQtd0gtZEdzOTBQSi1sM2RhaWU0TXEtRFptZnF6OXV2a1Y5YXVmMTl2Rkx5UUR3TzR5Y1k1T0x5NGQwX1BEeFZUUThZWGFUczhFYkh6VjkweXR3b0NpMHRJZUJxX01zSmc?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lenJtS2dvQjRDWXFqTzZOa2h1QnkwOEQtd0gtZEdzOTBQSi1sM2RhaWU0TXEtRFptZnF6OXV2a1Y5YXVmMTl2Rkx5UUR3TzR5Y1k1T0x5NGQwX1BEeFZUUThZWGFUczhFYkh6VjkweXR3b0NpMHRJZUJxX01zSmc?oc=5",
-      "source_name": "Vietnam.vn",
-      "monitor_id": "bm-safety-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "official_instruction",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-10T18:45:00+0900",
-      "status": "candidate",
-      "created_at": "2026-11-05T18:45:00+0900"
-    },
-    {
-      "seed_id": "seed_33301bf065ae",
-      "trend_term": "美容再生医療の安全性問題",
-      "raw_title": "美容目的の再生医療、安全性課題 治療法やリスク「説明不十分」 合併症、医療法人を提訴 - 朝日新聞",
-      "summary": "朝日新聞報道。美容目的の再生医療において、治療法やリスクの説明が不十分であり、合併症が発生した事例で医療法人が提訴されている。安全性課題が指摘されている。",
-      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zeVRiTF9ua1JMd214Y050MHp0cjNScHpHZTViRldWUlhJRGtxZTNBMlNmODZMOVJKcHloaFhxb1hmbzJDaXRJRi1yZjY2N2tJWFV3Z0pkMlo3N2xZ?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zeVRiTF9ua1JMd214Y050MHp0cjNScHpHZTViRldWUlhJRGtxZTNBMlNmODZMOVJKcHloaFhxb1hmbzJDaXRJRi1yZjY2N2tJWFV3Z0pkMlo3N2xZ?oc=5",
-      "source_name": "朝日新聞",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-10T18:44:55+0900",
-      "status": "candidate",
-      "created_at": "2026-11-05T18:44:55+0900"
     },
     {
       "seed_id": "seed_c460f81c81eb",
@@ -497,24 +497,6 @@
       "valid_until": "2026-11-10T22:29:41+0900",
       "status": "candidate",
       "created_at": "2026-10-27T22:29:41+0900"
-    },
-    {
-      "seed_id": "seed_3da6fbaaa259",
-      "trend_term": "美容管理中毒",
-      "raw_title": "美しく、健康でなければ生きづらい？ 韓国で広がる「管理中毒」と終わりなき自己改善競争 - JBpress",
-      "summary": "韓国で美容・健康管理の過度な追求が社会現象化。終わりなき自己改善競争による心理的負担が広がっている。",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDanlOY09TWjJzS1RvN2VtaHVfbUdSbWdWam1nUkNST3F4Yl9qM0NlajBYVGxYZkpyOXRvaU1wSzA0RE1Ka0JoYWFLV0xWdEFfYjBDalln?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDanlOY09TWjJzS1RvN2VtaHVfbUdSbWdWam1nUkNST3F4Yl9qM0NlajBYVGxYZkpyOXRvaU1wSzA0RE1Ka0JoYWFLV0xWdEFfYjBDalln?oc=5",
-      "source_name": "JBpress",
-      "monitor_id": "bm-sns-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "opinion",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-10T17:15:00+0900",
-      "status": "candidate",
-      "created_at": "2026-10-27T17:15:00+0900"
     }
   ]
 }
