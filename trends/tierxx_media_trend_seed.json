@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-10T02:47:14+0900",
-    "record_count": 26,
-    "source_total_in_db": 1681,
+    "generated_at": "2026-11-10T12:44:42+0900",
+    "record_count": 28,
+    "source_total_in_db": 1683,
     "provenance_breakdown": {
-      "evidence": 1087,
-      "pain_seed": 594
+      "evidence": 1088,
+      "pain_seed": 595
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_30cf2c2b689a",
+      "trend_term": "美容施術による医療事故",
+      "raw_title": "「回復速度が遅くなり不安」美容施術で火傷した元人気アイドル、医療事故の深刻さを吐露 | スマートニュース - SmartNews",
+      "summary": "美容施術による火傷事故で回復が遅延するケースが発生。実被害者の証言から医療事故のリスク・治癒の不確実性が明らかに。",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mZE1zZ2tTb1hucDg4SVp4bVFHb2pTTkpKYnY2MkUwdlJEZUdRalgxWURLMllfWGswa3VuOUp5UWUxZkJnbDMza0VEdHRoT0w4cmZEb3lodlFudEtfWFZuVjVmZzFwM2tqT1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mZE1zZ2tTb1hucDg4SVp4bVFHb2pTTkpKYnY2MkUwdlJEZUdRalgxWURLMllfWGswa3VuOUp5UWUxZkJnbDMza0VEdHRoT0w4cmZEb3lodlFudEtfWFZuVjVmZzFwM2tqT1E?oc=5",
+      "source_name": "SmartNews",
+      "monitor_id": "bm-safety-news",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-15T12:44:37+0900",
+      "status": "candidate",
+      "created_at": "2026-11-10T12:44:37+0900"
+    },
+    {
+      "seed_id": "seed_8694c0be6e01",
+      "trend_term": "ボトックス中断後のシワ変化",
+      "raw_title": "『ボトックス注射』をやめると老ける？ やめた後のシワの変化と続け方を医師が解説 - ライブドアニュース",
+      "summary": "医師による、ボトックス注射の中断後のシワ変化と継続方法についての解説。治療中止時の肌状態の実際の推移と適切な管理方法に関する専門家情報。",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LUFpSeHdRVDkwdVJKWkY2MVlCX0dWcS1DVmhmdXFuSENlQWprQW43Y2ppQTJnRFFlLWxtVllEcElHbnRFUEEyNFRuOHFCQ3JSYTRkb1BsY0szMm5meVhr?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LUFpSeHdRVDkwdVJKWkY2MVlCX0dWcS1DVmhmdXFuSENlQWprQW43Y2ppQTJnRFFlLWxtVllEcElHbnRFUEEyNFRuOHFCQ3JSYTRkb1BsY0szMm5meVhr?oc=5",
+      "source_name": "ライブドアニュース",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "soft_fact",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-24T12:44:25+0900",
+      "status": "candidate",
+      "created_at": "2026-11-10T12:44:25+0900"
+    },
     {
       "seed_id": "seed_63c941ae8756",
       "trend_term": "ショートフォーム健康習慣",
