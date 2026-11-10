@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-10T15:29:08+09:00",
- "valid_until": "2026-11-22T16:38:12+09:00",
+ "generated_at": "2026-11-10T16:39:05+09:00",
+ "valid_until": "2026-11-24T16:38:17+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -8,10 +8,10 @@
  "total_count": 16,
  "merge": {
   "parent": "travel",
-  "from_current": 14,
-  "from_new": 3,
-  "expired_pruned": 1,
-  "retention_dropped": 0,
+  "from_current": 16,
+  "from_new": 1,
+  "expired_pruned": 0,
+  "retention_dropped": 1,
   "genres": 2,
   "retention_per_genre": 8
  },
@@ -258,6 +258,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "旅行が安い時期はいつ？2026年の狙い目と予約で損しない考え方",
+   "url": "https://note.com/harunatravel/n/nef7ac7d4a7c9",
+   "summary": "note上の旅行時期の選び方記事。安い時期の狙い目と、予約で損しない考え方を扱う（タイトルベースの要約）。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "travel-tips",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "note（はるなトラベル）",
+    "expert_origin": true,
+    "search_query": "年末年始 旅行 航空券 ホテル 予約 いつ 安く 2026 節約 コツ",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-11-24T16:38:17+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "ホテルの値段、いつまで見張ればいい？無料キャンセル期限までに下がらなかったときの見切り方",
    "url": "https://note.com/zono_suke/n/n4fa172af67a3",
    "summary": "ホテル価格を無料キャンセル期限までどこまで見張るか、下がらなかった時の見切り方を扱う note 記事。タイトルと媒体名から言える範囲の紹介で、数値は含めない。",
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-11-20T16:39:35+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "〔重要〕「国際観光旅客税」値上げに伴う、海外ツアーの対応について",
-   "url": "https://www.jal.co.jp/jp/ja/tour/info/260612.html",
-   "summary": "出国税が1,000円から3,000円に引き上げ（2026年7月1日以降）。旧額で予約済みでも2026年8月5日以降の出発は新額が適用され、差額2,000円/人を後日カード請求。予約日で扱いが分かれる。（本文確認済）",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "travel-tips",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "JAL（ジャルパック）",
-    "expert_origin": true,
-    "search_query": "2026 ETIAS ESTA 出国税 国際観光旅客税 引き上げ 令和8年 海外旅行 注意",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-11-16T16:41:31+09:00",
    "validity_days": 14
   }
  ]
