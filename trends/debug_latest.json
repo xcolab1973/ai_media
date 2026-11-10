@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T17:49:00+09:00",
+  "generated_at": "2026-11-11T00:49:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,90 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 11,
+    "neg_excluded": 8,
+    "dedup_excluded": 8,
     "passed_total": 116,
     "b2b_category_counts": {
       "yahoo_realtime": 38,
+      "x_realtime": 9,
       "google_trends": 10,
-      "x_realtime": 6,
-      "news_web": 14,
-      "yahoo_news_ranking": 2
+      "news_web": 12,
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "personal_story": 4,
-    "opinion": 10,
-    "medical_science": 7,
-    "policy": 5,
-    "hard_fact": 16
+    "social_reaction": 25,
+    "medical_science": 9,
+    "hard_fact": 13,
+    "opinion": 9,
+    "personal_story": 3,
+    "policy": 11
   },
   "b2b_topic_category_counts": {
-    "policy": 5,
-    "social_reaction": 28,
-    "personal_story": 4,
-    "opinion": 10,
-    "hard_fact": 20,
-    "medical_science": 3
+    "social_reaction": 25,
+    "policy": 11,
+    "hard_fact": 17,
+    "opinion": 9,
+    "medical_science": 5,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "9月の実質消費支出6.8%減　コロナ禍以来の減少幅、インフレと天候不順 - 日本",
+      "title": "暇空界隈のメールボム事件について記者会見が開かれる",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【独自】万博のEVバス補助金、返還半分　国や府・市が58億円交付",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "「3日で全て無になった」クックパッドで見つけたレシピで作った豚汁が普通の作り方に",
+      "title": "タバコが値上がりしてから仕事中代わりにグミを食ってるけど、「タバコより全然コスパ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "家系ラーメンのスープを飲み干したら店員に声をかけられ「まくり証明書」をゲット そ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "電車で横に座った小学生の女の子から新宿行きか尋ねられた後、突然「ロブロックスやっ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "ゴジラ-0.0を観た外国人たちが、映画本編とはまた別に吉岡秀隆さんの『ヘアスタイ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "朝乃山",
+      "title": "生田斗真",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ゆず庵",
+      "title": "フアンceo",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "義ノ富士",
+      "title": "日中首脳会談 実現への調整不調",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "万博のEVバス補助金 返還は半分",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
+      "topic_category": "policy"
+    },
+    {
+      "title": "チケット",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "サラリーキャップ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "大相撲取組",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "食の至宝",
+      "title": "his",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,64 +107,64 @@
   ],
   "note_top10": [
     {
+      "title": "暇空界隈のメールボム事件について記者会見が開かれる",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "家系ラーメンのスープを飲み干したら店員に声をかけられ「まくり証明書」をゲット そ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「５万人集客」見込んだ鳥取のグルメイベント、２０００人にも届かず…赤字の出店者「",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「あなたが変態なのは知っています」迷惑メールのタイトルに身に覚えがありすぎて焦っ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "アリオ八尾の床で「液晶保護フィルムの化石」を発見→床に残る見事な姿に「施工の際に",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "「3日で全て無になった」クックパッドで見つけたレシピで作った豚汁が普通の作り方に",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "電車で横に座った小学生の女の子から新宿行きか尋ねられた後、突然「ロブロックスやっ",
+      "title": "「言い切っちゃった…」乳化について様々な議論があるペペロンチーノだが、キユーピー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "medical_science"
     },
     {
-      "title": "ゴジラ-0.0を観た外国人たちが、映画本編とはまた別に吉岡秀隆さんの『ヘアスタイ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "カナダ人「Instagramで、北米の牛乳には味がなくてつらい、日本の牛乳が恋し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "米カリフォルニア州の「超富裕層課税案」、否決へ 約200人のビリオネアの資産に5",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "@washburn1975 のポスト on X（2026-11-09 19:55",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "高校生の頃に飼っていた文鳥に噛まれたりしたことがなかったので、オカンに「うちの子",
+      "title": "シャトレーゼで研修中っぽい人にチョコプレートをお願いしたことがある「ほ、本当にこ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "実働4時間でダラダラさぼり「工数足りません！」と叫び続けていたら、上司が「ほんと",
+      "title": "「北海道は生死に関わるから」札幌のワークマンに行ったら、15度からマイナス30度",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「Twitterと呼ぶのはやめろ、Xだ」→79歳ホラー作家・スティーブン・キング",
+      "title": "この方のはんこ、ちょっと変な線出てるな…使い込んでるのかな…と思ったら…「にゃま",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "次世代Suica「ウォークスルー改札」、首都圏40駅で28年春導入",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
     }
   ]
 }
