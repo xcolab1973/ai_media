@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T12:47:00+09:00",
+  "generated_at": "2026-11-10T17:49:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,121 +17,109 @@
       "x_realtime": 10
     },
     "neg_excluded": 5,
-    "dedup_excluded": 12,
-    "passed_total": 115,
+    "dedup_excluded": 11,
+    "passed_total": 116,
     "b2b_category_counts": {
       "yahoo_realtime": 38,
-      "x_realtime": 5,
       "google_trends": 10,
+      "x_realtime": 6,
       "news_web": 14,
-      "yahoo_news_ranking": 3
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
+    "social_reaction": 28,
+    "personal_story": 4,
     "opinion": 10,
     "medical_science": 7,
-    "personal_story": 1,
     "policy": 5,
-    "hard_fact": 15
+    "hard_fact": 16
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 32,
+    "policy": 5,
+    "social_reaction": 28,
+    "personal_story": 4,
     "opinion": 10,
     "hard_fact": 20,
-    "medical_science": 2,
-    "policy": 5,
-    "personal_story": 1
+    "medical_science": 3
   },
   "b2b_top10": [
     {
-      "title": "娘と仲良しのお友達家族と自転車で遊びに行った時、ラックの奥まで押し込むとロックが",
+      "title": "9月の実質消費支出6.8%減　コロナ禍以来の減少幅、インフレと天候不順 - 日本",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "「3日で全て無になった」クックパッドで見つけたレシピで作った豚汁が普通の作り方に",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "昔1話だけ読んだ未来世界で廃墟となった街をさまよう少女二人のマンガ、タイトルが思",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "電車で横に座った小学生の女の子から新宿行きか尋ねられた後、突然「ロブロックスやっ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "ゴジラ-0.0を観た外国人たちが、映画本編とはまた別に吉岡秀隆さんの『ヘアスタイ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "中村仁美",
+      "title": "朝乃山",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "「父がちょっと人が良すぎて心配なんだよな」映画館で自分たちが取った超良席を占領し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「その気になれば殺人も」　 ミステリーの女王アガサ・クリスティーが駆使した危険な",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "娘が男子から意地悪されていた時に庇ってくれた男子がいて、映画に誘ってくれたりした",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "カナダ人「Instagramで、北米の牛乳には味がなくてつらい、日本の牛乳が恋し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "織田翔希",
+      "title": "ゆず庵",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "アーロン・ジャッジ",
+      "title": "義ノ富士",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "目算が外れて大炎上しているイベントの話｜中島けいすけ（成田市議会議員）",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "サラリーキャップ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "大相撲取組",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "食の至宝",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "娘と仲良しのお友達家族と自転車で遊びに行った時、ラックの奥まで押し込むとロックが",
+      "title": "「3日で全て無になった」クックパッドで見つけたレシピで作った豚汁が普通の作り方に",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "昔1話だけ読んだ未来世界で廃墟となった街をさまよう少女二人のマンガ、タイトルが思",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「父がちょっと人が良すぎて心配なんだよな」映画館で自分たちが取った超良席を占領し",
+      "title": "電車で横に座った小学生の女の子から新宿行きか尋ねられた後、突然「ロブロックスやっ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "「その気になれば殺人も」　 ミステリーの女王アガサ・クリスティーが駆使した危険な",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "娘が男子から意地悪されていた時に庇ってくれた男子がいて、映画に誘ってくれたりした",
+      "title": "ゴジラ-0.0を観た外国人たちが、映画本編とはまた別に吉岡秀隆さんの『ヘアスタイ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -143,28 +131,40 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "目算が外れて大炎上しているイベントの話｜中島けいすけ（成田市議会議員）",
+      "title": "米カリフォルニア州の「超富裕層課税案」、否決へ 約200人のビリオネアの資産に5",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "遠征用に小さい財布にしていたら、入れてる全部のキャッシュカードの磁気飛んだ→経験",
+      "title": "@washburn1975 のポスト on X（2026-11-09 19:55",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "高校生の頃に飼っていた文鳥に噛まれたりしたことがなかったので、オカンに「うちの子",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "正倉院展の展示品の前でスマホのカメラを起動中のおばさまに周囲の人が「撮影禁止です",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "実働4時間でダラダラさぼり「工数足りません！」と叫び続けていたら、上司が「ほんと",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本最大のコーヒーの祭典「SCAJ」が楽しい　あらゆるコーヒーが試飲でき高価な機",
+      "title": "「Twitterと呼ぶのはやめろ、Xだ」→79歳ホラー作家・スティーブン・キング",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "次世代Suica「ウォークスルー改札」、首都圏40駅で28年春導入",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     }
   ]
 }
