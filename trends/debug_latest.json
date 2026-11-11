@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T10:28:00+09:00",
+  "generated_at": "2026-11-11T17:23:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,51 +16,51 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
+    "neg_excluded": 10,
     "dedup_excluded": 9,
-    "passed_total": 115,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 36,
       "x_realtime": 8,
       "google_trends": 10,
-      "news_web": 14,
-      "yahoo_news_ranking": 3
+      "news_web": 12,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "personal_story": 6,
-    "hard_fact": 18,
-    "opinion": 9,
-    "policy": 5,
-    "medical_science": 4
+    "social_reaction": 31,
+    "personal_story": 5,
+    "opinion": 10,
+    "hard_fact": 16,
+    "medical_science": 4,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 22,
-    "social_reaction": 25,
-    "policy": 5,
-    "opinion": 9,
-    "personal_story": 6,
-    "medical_science": 3
+    "social_reaction": 30,
+    "policy": 4,
+    "hard_fact": 17,
+    "opinion": 10,
+    "medical_science": 4,
+    "personal_story": 5
   },
   "b2b_top10": [
     {
-      "title": "タバコが値上がりしてから仕事中代わりにグミを食ってるけど、「タバコより全然コスパ",
+      "title": "【予備試験論文直前】令和8年司法試験CBTを実際に受験した人に聞いた感想・トラブ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "寒すぎるから湯船に浸かってるのに寝る時にはもう冷えてて寝れない、末端冷え性対策を",
+      "title": "ご飯おかわり無料の店に、某大食いタレントがたまにプライベートで来ていたが、来店前",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "東横インに泊まったら「内観に興味のある方には、内観についてのテープとカセットデッ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "前澤氏「野放しOK？」詐欺広告めぐる裁判で敗訴　デジタル庁などがIT大手5社に対",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
     },
     {
       "title": "司法試験でパソコン不具合が多発　　「人生かかってる」受験生は怒り：朝日新聞",
@@ -69,37 +69,37 @@
       "topic_category": "hard_fact"
     },
     {
+      "title": "タバコが値上がりしてから仕事中代わりにグミを食ってるけど、「タバコより全然コスパ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
       "title": "アリオ八尾の床で「液晶保護フィルムの化石」を発見→床に残る見事な姿に「施工の際に",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "魔法使いの夜 | 【第1夜】11月27日 / マガポケ | 少年マガジン公式無料",
+      "title": "玉鷲",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "刀剣乱舞のキャラクター、ショタなのに人妻好きなのが「おばさんの妄想でキモすぎる」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "無料のプロジェクト管理ツール「Leantime」、カンバン・一覧表・ガントビュー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "東武100系電車",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "釣り見出し（クリックベイト）の常習犯扱いされる共同通信",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "ゲーム日本語化ツール「PCOT」次のアプデで開発終了へ。AIの進化で“セルフ直接",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ニホンカモシカ",
+      "title": "大相撲取組",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,37 +107,19 @@
   ],
   "note_top10": [
     {
-      "title": "寒すぎるから湯船に浸かってるのに寝る時にはもう冷えてて寝れない、末端冷え性対策を",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "【予備試験論文直前】令和8年司法試験CBTを実際に受験した人に聞いた感想・トラブ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "東横インに泊まったら「内観に興味のある方には、内観についてのテープとカセットデッ",
+      "title": "ご飯おかわり無料の店に、某大食いタレントがたまにプライベートで来ていたが、来店前",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "アリオ八尾の床で「液晶保護フィルムの化石」を発見→床に残る見事な姿に「施工の際に",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "魔法使いの夜 | 【第1夜】11月27日 / マガポケ | 少年マガジン公式無料",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "無料のプロジェクト管理ツール「Leantime」、カンバン・一覧表・ガントビュー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "レジスタと薬屋を一緒にするな",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -149,21 +131,39 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "モンベルのジャケット、オシャレ誌とかだとトレンドのゆとりある身幅に見えるけど、公",
+      "title": "「小腹が空いたときに丁度いい」ヤマキが卵と割烹白だしで作る「レンチン茶碗蒸し」の",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中国人に、日本はどんな国かを説明する際にいつもこう答えている…1.餃子を焼く国 ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【虫画像あり】家庭菜園をしているサンチュにアブラムシが群がっていたので近くにいた",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「京都駅で宿が取れないなら大津駅がおすすめ」というと、外野から「県外勧めるとかw",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "サウンドハウス『オリジナルTシャツ＆お姉さん靴下セット』新発売！福助コラボ靴下と",
+      "title": "ノンアルコール・ノンカフェインの甘くない飲み物って何かある？→麦茶、黒豆茶、お出",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「5万人」と言われたが実際の来場者数は1,000人以下、損害を被った企業、責任を",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "家族が若い頃によく言っていた「なんで家で気を遣わないといけないんだ」外では頑張っ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
