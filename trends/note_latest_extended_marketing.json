@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-10T16:39:05+09:00",
- "valid_until": "2026-11-24T16:36:56+09:00",
+ "generated_at": "2026-11-11T13:08:08+09:00",
+ "valid_until": "2026-11-25T13:06:09+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -8,14 +8,44 @@
  "total_count": 31,
  "merge": {
   "parent": "marketing",
-  "from_current": 30,
-  "from_new": 6,
-  "expired_pruned": 3,
+  "from_current": 31,
+  "from_new": 2,
+  "expired_pruned": 0,
   "retention_dropped": 2,
   "genres": 5,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "LINE公式アカウントの休眠顧客の掘り起こしのカギはID連携│Ligla",
+   "url": "https://ligla.jp/blog/line-official/customerreactivation/",
+   "summary": "友だちが増えても再購入に繋がらない原因として、誰が何に興味を持ち離脱したか見えない点を挙げ、会員ID・購買履歴との紐づけ(ID連携)で休眠顧客を状態別に出し分ける手順を解説。一斉配信は避け頻度に注意。事例数値はベンダー資料由来。（本文確認済）",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "marketing-crm",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Ligla",
+    "expert_origin": false,
+    "search_query": "LINE公式アカウント ステップ配信 休眠顧客 再購入 CRM 小規模 年末 失敗",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-11-25T13:06:09+09:00",
+   "validity_days": 14
+  },
   {
    "source_category": "news_web",
    "raw_title": "広告費の一部をCRMに投資し、「復帰顧客」の成長を促進 エウレカCMOがBraze活用で見直した「AI時代の投資バランス」",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-11-21T06:27:19+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "CRMが定着しない原因と対策｜入力されない問題を解決する仕組みの作り方",
-   "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-adoption-failure-solutions",
-   "summary": "CRM導入後に現場が入力しない問題の原因と仕組みづくりを扱う記事。導入より運用設計でつまずく点が角度になる。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "marketing-crm",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "start-link",
-    "expert_origin": false,
-    "search_query": "CRM 導入したが定着しない 営業 入力されない 小規模事業者 顧客リスト 同意 メール配信",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-11-19T06:27:01+09:00",
    "validity_days": 14
   },
   {
@@ -528,6 +528,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "【年末商戦】ブラックフライデー・サイバーマンデーセールで成功するためのGoogle広告Tips",
+   "url": "https://www.s-bokan.com/blog/post-39842/",
+   "summary": "BF・サイバーマンデー期のGoogle広告運用のコツを扱う解説記事。セール直前の準備と期間中の入札・予算の考え方が論点とみられる。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "marketing-web",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "S-BOKAN",
+    "expert_origin": true,
+    "search_query": "ブラックフライデー 年末商戦 広告費 高騰 中小企業 リスティング 運用 対策 2026",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-11-16T13:06:09+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "リスティング広告のCPAを改善する方法８選",
    "url": "https://www.glad-cube.com/blog/?p=62510",
    "summary": "CPAが悪化したときの改善策を8つに整理した解説記事。広告運用の見直し観点を知る入口になる。",
@@ -734,36 +764,6 @@
     "rescued": false
    },
    "valid_until": "2026-11-14T06:27:20+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "問い合わせフォーム最適化（EFO）で成果を上げる7つの施策【2026年版】",
-   "url": "https://blog.nb-a.jp/website-building/efo-contact-form-optimization-7-tips-2026/",
-   "summary": "問い合わせフォームの入力画面で離脱する読者を減らすEFO施策の解説記事。入力項目の見直しなどの切り口。本文は未確認。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "marketing-web",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "nb-a blog",
-    "expert_origin": false,
-    "search_query": "Webサイト 問い合わせフォーム 離脱 改善 EFO 2026",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-11-13T16:37:05+09:00",
    "validity_days": 5
   },
   {
