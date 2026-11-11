@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-11T00:44:34+0900",
-    "record_count": 26,
-    "source_total_in_db": 1687,
+    "generated_at": "2026-11-11T10:25:06+0900",
+    "record_count": 27,
+    "source_total_in_db": 1688,
     "provenance_breakdown": {
-      "evidence": 1090,
+      "evidence": 1091,
       "pain_seed": 597
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_36b4c926c920",
+      "trend_term": "年代別ヒアルロン酸注入部位",
+      "raw_title": "美容医療のヒアルロン酸注入、10〜20代は涙袋・50代以降は目の周囲 年代で違い 約30万件を分析 - ウーマンズラボ",
+      "summary": "約30万件のデータ分析から、10〜20代は涙袋、50代以降は目の周囲へのヒアルロン酸注入が主流という年代別の施術トレンドの差異が明らかになった。",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mSEs1WTBYb05aN3J6blY4a183SFVWM1lGdVlQVkYya0h2N3R0bHRKejdZd2RyUnBQTEZRems2NWFnNkN2Qk5DSG5iT0ctUTVqVFFnSA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mSEs1WTBYb05aN3J6blY4a183SFVWM1lGdVlQVkYya0h2N3R0bHRKejdZd2RyUnBQTEZRems2NWFnNkN2Qk5DSG5iT0ctUTVqVFFnSA?oc=5",
+      "source_name": "ウーマンズラボ",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-16T10:24:51+0900",
+      "status": "candidate",
+      "created_at": "2026-11-11T10:24:51+0900"
+    },
     {
       "seed_id": "seed_497ceea7b8d1",
       "trend_term": "再生医療発想コスメ",
