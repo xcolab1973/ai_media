@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-11T18:44:44+0900",
-    "record_count": 27,
-    "source_total_in_db": 1692,
+    "generated_at": "2026-11-12T00:33:02+0900",
+    "record_count": 28,
+    "source_total_in_db": 1694,
     "provenance_breakdown": {
-      "evidence": 1093,
-      "pain_seed": 599
+      "evidence": 1094,
+      "pain_seed": 600
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_480c83f2c0a4",
+      "trend_term": "医療用医薬品の美容医療流用",
+      "raw_title": "褥瘡・皮膚潰瘍治療に用いる外用薬「フィブラストスプレー」、美容医療分野での不適切使用（注射）で健康被害も―PMDA - GemMed",
+      "summary": "褥瘡治療薬フィブラストスプレーが美容医療で不適切な注射使用され健康被害が報告。PMDA警告による制度的注意喚起。",
+      "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RaVctczVWTHZjUGJna2ZjSkJ4eVpXeGx6SDNkY3FXNldYajhINkE3bDBGenNtbl9rMjhzMlprNmZ0THQ5VWU3Sw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RaVctczVWTHZjUGJna2ZjSkJ4eVpXeGx6SDNkY3FXNldYajhINkE3bDBGenNtbl9rMjhzMlprNmZ0THQ5VWU3Sw?oc=5",
+      "source_name": "GemMed",
+      "monitor_id": "bm-safety-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "safety_claim",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-17T00:32:10+0900",
+      "status": "candidate",
+      "created_at": "2026-11-12T00:32:10+0900"
+    },
+    {
+      "seed_id": "seed_648295bb6809",
+      "trend_term": "中高年男性の美容市場拡大",
+      "raw_title": "「中高年男性の美容市場」シミ取り・ボトックスで自己投資する中高年のリアルと拡大する市場の裏側 Webオリジナル番組【大野部長のオトナ経済論】より - au Webポータル",
+      "summary": "中高年男性がシミ取り・ボトックス治療で自己投資する動向が拡大している市場実態を報道",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01elV0VklmSzRheTNXQmpTMG9pMzNuaGo0c3Q2T3BmdXVwQjJseXEtUnJhbmJuUWN1QTBQYm9pdFgyby1WeUczZGRmcEs4THp6SXNqMjZ5dUU3UXhUQ2tLMmFNZG5tWEx2NkE1WmJB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01elV0VklmSzRheTNXQmpTMG9pMzNuaGo0c3Q2T3BmdXVwQjJseXEtUnJhbmJuUWN1QTBQYm9pdFgyby1WeUczZGRmcEs4THp6SXNqMjZ5dUU3UXhUQ2tLMmFNZG5tWEx2NkE1WmJB?oc=5",
+      "source_name": "au Webポータル",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-17T00:31:59+0900",
+      "status": "candidate",
+      "created_at": "2026-11-12T00:31:59+0900"
+    },
     {
       "seed_id": "seed_3f66f5807bfd",
       "trend_term": "地方美容外科の新規開院",
@@ -461,24 +497,6 @@
       "valid_until": "2026-11-17T18:53:05+0900",
       "status": "candidate",
       "created_at": "2026-11-03T18:53:05+0900"
-    },
-    {
-      "seed_id": "seed_e73f45e1c11c",
-      "trend_term": "ヒアルロン酸注入の治療戦略",
-      "raw_title": "【ヒアルロン酸注入の指導医】聖心美容クリニック広島院院長・中辻隆徳医師が「第4回日本美容医師会」でヒアルロン酸注入の治療戦略を発表 - Excite エキサイト",
-      "summary": "聖心美容クリニック広島院院長・中辻隆徳医師が日本美容医師会でヒアルロン酸注入の治療戦略を発表。業界専門家による学術的知見の共有。",
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tNTlZRnpJeURQU1JobGxtcE9oODktT0wxVThxemhPTldVNW9uUllWT0tXd2RteDQxMWN1VWFNQ0llLWdieXNMZjUxUHhJMVp2dlBZWVdISC1wUTNSOHppTVZ4cmU2Nk1TVXZpRjhmQWdPYU4t?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tNTlZRnpJeURQU1JobGxtcE9oODktT0wxVThxemhPTldVNW9uUllWT0tXd2RteDQxMWN1VWFNQ0llLWdieXNMZjUxUHhJMVp2dlBZWVdISC1wUTNSOHppTVZ4cmU2Nk1TVXZpRjhmQWdPYU4t?oc=5",
-      "source_name": "Excite エキサイト",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-17T18:52:42+0900",
-      "status": "candidate",
-      "created_at": "2026-11-03T18:52:42+0900"
     },
     {
       "seed_id": "seed_37a387560914",
