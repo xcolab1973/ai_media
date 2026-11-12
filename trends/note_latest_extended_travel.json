@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-12T06:33:41+09:00",
- "valid_until": "2026-11-24T16:38:17+09:00",
+ "generated_at": "2026-11-12T16:39:52+09:00",
+ "valid_until": "2026-11-26T16:39:24+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "travel",
   "from_current": 16,
-  "from_new": 2,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 2,
+  "retention_dropped": 1,
   "genres": 2,
   "retention_per_genre": 8
  },
@@ -258,6 +258,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "海外に行く際ってパスポート残存期間ってあるじゃないんですか？韓国って3ヶ月以上必要なんですけど2日足りない場合…",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13302889143",
+   "summary": "残存期間が数日足りないとき出発できるのかという相談。直前にどう動けばよいか分からない読者のペインの種。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "travel-tips",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "知恵袋 海外旅行 パスポート 残存期間 3ヶ月 出発直前 申請 間に合う",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-11-26T16:39:24+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "旅行が安い時期はいつ？2026年の狙い目と予約で損しない考え方",
    "url": "https://note.com/harunatravel/n/nef7ac7d4a7c9",
    "summary": "note上の旅行時期の選び方記事。安い時期の狙い目と、予約で損しない考え方を扱う（タイトルベースの要約）。",
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-11-22T16:38:12+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "「海外旅行保険はクレカでOK」は終わった? 「利用付帯」は旅行前に注意を - Impress Watch",
-   "url": "https://www.watch.impress.co.jp/docs/topic/2131822.html",
-   "summary": "クレジットカード付帯の海外旅行保険が「利用付帯」中心になり、旅行前に条件確認が必要という論点の記事。細かい条件は本文未確認。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "travel-tips",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Impress Watch",
-    "expert_origin": false,
-    "search_query": "海外旅行 クレジットカード 海外旅行保険 利用付帯 条件 知恵袋 どうすれば",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-11-20T16:39:35+09:00",
    "validity_days": 14
   }
  ]
