@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T11:30:00+09:00",
+  "generated_at": "2026-11-12T17:50:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,48 +7,43 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 11,
-    "passed_total": 114,
+    "neg_excluded": 5,
+    "dedup_excluded": 9,
+    "passed_total": 108,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
+      "yahoo_realtime": 26,
       "google_trends": 10,
-      "x_realtime": 9,
-      "news_web": 16,
-      "yahoo_news_ranking": 3
+      "x_realtime": 10,
+      "news_web": 18,
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 28,
-    "personal_story": 4,
-    "opinion": 10,
-    "policy": 9,
-    "hard_fact": 18,
-    "medical_science": 1
+    "social_reaction": 22,
+    "personal_story": 2,
+    "opinion": 9,
+    "policy": 8,
+    "medical_science": 4,
+    "hard_fact": 25
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
     "policy": 9,
-    "opinion": 10,
-    "personal_story": 4,
-    "hard_fact": 19
+    "opinion": 9,
+    "hard_fact": 25,
+    "social_reaction": 22,
+    "personal_story": 2,
+    "medical_science": 3
   },
   "b2b_top10": [
-    {
-      "title": "ヘグセス米国防長官一行、無名戦士の墓で談笑 衛兵から大声で注意される",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
     {
       "title": "丸亀製麺が1割値下げで「かけうどん」（並）は390円に　消費減税対策で大手初、外",
       "source_category": "yahoo_realtime",
@@ -56,111 +51,117 @@
       "topic_category": "policy"
     },
     {
-      "title": "腹が立つ事ばっかりだ。 専業主婦年金廃止へってマジか。 子育て、介護、家事、全部",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "コーヒーの神様・粕谷哲さん直伝！いつもの味が激変するドリップバッグコーヒーの淹れ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "地震調査委員会 “茨城県沖で地震活動がやや活発” | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "低所得者",
+      "title": "藤青雲",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "昨日のコンサートで年配の女性がケータイをONのままバッグに…隣の男性が電源を切る",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "相撲",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "うるう秒廃止、代わりの「うるう時」とは　国際度量衡総会で決議",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "熱海富士",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "反戦デモ界隈、もう少し本気を出してほしい。※本文無料｜片桐まめこ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "長嶋茂雄賞",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "日が暮れた頃に夫婦喧嘩で置き去りにされ、兄妹で歩いて帰ることに…金も持たずに夜中",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "大相撲 結果",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "琴櫻",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "琴風",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "大相撲 結果 速報",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "日本相撲協会",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "ヘグセス米国防長官一行、無名戦士の墓で談笑 衛兵から大声で注意される",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "コーヒーの神様・粕谷哲さん直伝！いつもの味が激変するドリップバッグコーヒーの淹れ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "昨日のコンサートで年配の女性がケータイをONのままバッグに…隣の男性が電源を切る",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "うるう秒廃止、代わりの「うるう時」とは　国際度量衡総会で決議",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日が暮れた頃に夫婦喧嘩で置き去りにされ、兄妹で歩いて帰ることに…金も持たずに夜中",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ドリップバッグは「適当」でいい？浸漬式の基本レシピと、自分好みの味を見つける抽出",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "銃で撃たれたことがある人いますか？どのような痛みなのでしょう…というポストに、様",
+      "title": "健康診断の数日前から生活を整えて検査結果を良くしようとする人って結構いるみたいだ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "犬を飼ってから言うようになったセリフ「ワンじゃない！」叱ると逆ギレしてくるリアル",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "実名報道に関するおことわり　ロシア今井記者拘束：北海道新聞デジタル",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「僕のこの本を、買わないでください」破産申請した出版社から11月11日に新刊を発",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「サンタの件でご相談が…」娘がクリスマスに願った「好きな時にUSJに行ける券」を",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「チョコあ〜んぱん、嘘だよな…？」ホームパーティーの省略の仕方のせいでどうみても",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "小学生中学年の小僧、放課後友達と遊ぶ時は必ずpovo回線のスマホを持たせて位置情",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "私は専業主婦になる前提で育てられた娘だが、「どうせ結婚して子どもを産むまでの期間",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "反戦デモ界隈、もう少し本気を出してほしい。※本文無料｜片桐まめこ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "とにかく泣き止まない娘、泣き止まないという特性を活かして助産院に来ている実習生の",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "《毛沢東選集》が中国の若者の間でなぜかブームに…「努力しても報われない」若者たち",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "娘の友達のママさんがインフルエンサーで、クリスマスパーティーに誘われたが、別のマ",
+      "title": "ちょっといい朝食が食べたくてホテルビュッフェに突入したら、超欲しいけど絶対いらな",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
