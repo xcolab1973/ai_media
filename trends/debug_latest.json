@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T17:50:00+09:00",
+  "generated_at": "2026-11-13T01:18:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,99 +7,98 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 9,
-    "passed_total": 108,
+    "neg_excluded": 9,
+    "dedup_excluded": 8,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "yahoo_realtime": 26,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "x_realtime": 10,
-      "news_web": 18,
-      "yahoo_news_ranking": 6
+      "yahoo_news_ranking": 3,
+      "x_realtime": 9,
+      "news_web": 13
     }
   },
   "note_category_counts": {
-    "social_reaction": 22,
-    "personal_story": 2,
-    "opinion": 9,
-    "policy": 8,
-    "medical_science": 4,
-    "hard_fact": 25
+    "social_reaction": 29,
+    "opinion": 10,
+    "personal_story": 3,
+    "policy": 9,
+    "hard_fact": 15,
+    "medical_science": 4
   },
   "b2b_topic_category_counts": {
-    "policy": 9,
-    "opinion": 9,
-    "hard_fact": 25,
-    "social_reaction": 22,
-    "personal_story": 2,
-    "medical_science": 3
+    "social_reaction": 29,
+    "policy": 10,
+    "opinion": 10,
+    "hard_fact": 18,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "丸亀製麺が1割値下げで「かけうどん」（並）は390円に　消費減税対策で大手初、外",
+      "title": "「反戦デモ界隈、もう少し本気を出してほしい。」このタイトルから始まるnote、皮",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "無印良品、クレカ番号「全桁流出」の経緯説明--「不要になっても16桁をマスクせず",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「すっごくショック」国民的ロックバンド “政府広報に起用”でネット物議…背景に「",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "藤青雲",
+      "title": "ウクライナ和平の3カ国協議が終了、突破口は開かれず - BBCニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "アイドルはグループ卒業したらこうなるのだけは土下座するからやめて(※続報あり追記",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ゴジラ-0.0 評価",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "相撲",
+      "title": "今井裕紀 北海道新聞",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "熱海富士",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "メアドやクレカ番号を「使い捨てる」生活 - chroju.dev",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "長嶋茂雄賞",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "腹が立つ事ばっかりだ。 専業主婦年金廃止へってマジか。 子育て、介護、家事、全部",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
     },
     {
-      "title": "大相撲 結果",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "琴櫻",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "琴風",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "大相撲 結果 速報",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "日本相撲協会",
+      "title": "西村博之",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,63 +106,63 @@
   ],
   "note_top10": [
     {
-      "title": "健康診断の数日前から生活を整えて検査結果を良くしようとする人って結構いるみたいだ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "犬を飼ってから言うようになったセリフ「ワンじゃない！」叱ると逆ギレしてくるリアル",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "実名報道に関するおことわり　ロシア今井記者拘束：北海道新聞デジタル",
+      "title": "「反戦デモ界隈、もう少し本気を出してほしい。」このタイトルから始まるnote、皮",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「僕のこの本を、買わないでください」破産申請した出版社から11月11日に新刊を発",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「サンタの件でご相談が…」娘がクリスマスに願った「好きな時にUSJに行ける券」を",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「チョコあ〜んぱん、嘘だよな…？」ホームパーティーの省略の仕方のせいでどうみても",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "小学生中学年の小僧、放課後友達と遊ぶ時は必ずpovo回線のスマホを持たせて位置情",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "私は専業主婦になる前提で育てられた娘だが、「どうせ結婚して子どもを産むまでの期間",
+      "title": "無印良品、クレカ番号「全桁流出」の経緯説明--「不要になっても16桁をマスクせず",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "とにかく泣き止まない娘、泣き止まないという特性を活かして助産院に来ている実習生の",
+      "title": "メアドやクレカ番号を「使い捨てる」生活 - chroju.dev",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "アイドルはグループ卒業したらこうなるのだけは土下座するからやめて(※続報あり追記",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ウクライナ和平の3カ国協議が終了、突破口は開かれず - BBCニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "アイドルファンにデモ参加を呼びかけるnoteがXで大きな反響を呼ぶ一方、反戦界隈",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ちょっといい朝食が食べたくてホテルビュッフェに突入したら、超欲しいけど絶対いらな",
+      "title": "気合い入れて食ったろって思って1キロからあげ弁当を注文したらこれ「かわいそう」「",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "低信用社会がどれだけしんどいか、中国に住んでる俺が教えてやる｜華村＠中国",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "愛知・豊橋駅前の「象徴」巨大スペースシャトル、12月中に撤去　映画やアニメにも登",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "九州の森林保全を英バンド「レディオヘッド」が支援　故坂本龍一さん創立団体に公演収",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
