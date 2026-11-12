@@ -2,21 +2,21 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-12T00:33:02+0900",
-    "record_count": 28,
-    "source_total_in_db": 1694,
+    "generated_at": "2026-11-12T11:24:37+0900",
+    "record_count": 27,
+    "source_total_in_db": 1695,
     "provenance_breakdown": {
-      "evidence": 1094,
+      "evidence": 1095,
       "pain_seed": 600
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
     {
-      "seed_id": "seed_480c83f2c0a4",
-      "trend_term": "医療用医薬品の美容医療流用",
+      "seed_id": "seed_f3763458f483",
+      "trend_term": "フィブラストスプレー健康被害",
       "raw_title": "褥瘡・皮膚潰瘍治療に用いる外用薬「フィブラストスプレー」、美容医療分野での不適切使用（注射）で健康被害も―PMDA - GemMed",
-      "summary": "褥瘡治療薬フィブラストスプレーが美容医療で不適切な注射使用され健康被害が報告。PMDA警告による制度的注意喚起。",
+      "summary": "PMDA報告：褥瘡治療薬フィブラストスプレーが美容医療で不適切に注射投与され、健康被害が発生。本来は外用薬としての承認品",
       "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RaVctczVWTHZjUGJna2ZjSkJ4eVpXeGx6SDNkY3FXNldYajhINkE3bDBGenNtbl9rMjhzMlprNmZ0THQ5VWU3Sw?oc=5",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RaVctczVWTHZjUGJna2ZjSkJ4eVpXeGx6SDNkY3FXNldYajhINkE3bDBGenNtbl9rMjhzMlprNmZ0THQ5VWU3Sw?oc=5",
       "source_name": "GemMed",
@@ -26,15 +26,15 @@
       "freshness": "fresh",
       "demand_signal": "",
       "evidence_card_id": null,
-      "valid_until": "2026-11-17T00:32:10+0900",
+      "valid_until": "2026-11-17T11:24:34+0900",
       "status": "candidate",
-      "created_at": "2026-11-12T00:32:10+0900"
+      "created_at": "2026-11-12T11:24:34+0900"
     },
     {
-      "seed_id": "seed_648295bb6809",
+      "seed_id": "seed_902eabd40337",
       "trend_term": "中高年男性の美容市場拡大",
       "raw_title": "「中高年男性の美容市場」シミ取り・ボトックスで自己投資する中高年のリアルと拡大する市場の裏側 Webオリジナル番組【大野部長のオトナ経済論】より - au Webポータル",
-      "summary": "中高年男性がシミ取り・ボトックス治療で自己投資する動向が拡大している市場実態を報道",
+      "summary": "中高年男性がシミ取り・ボトックス治療で自己投資する動向と市場拡大の背景を報道。読者の世代別ニーズ把握に有用。",
       "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01elV0VklmSzRheTNXQmpTMG9pMzNuaGo0c3Q2T3BmdXVwQjJseXEtUnJhbmJuUWN1QTBQYm9pdFgyby1WeUczZGRmcEs4THp6SXNqMjZ5dUU3UXhUQ2tLMmFNZG5tWEx2NkE1WmJB?oc=5",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01elV0VklmSzRheTNXQmpTMG9pMzNuaGo0c3Q2T3BmdXVwQjJseXEtUnJhbmJuUWN1QTBQYm9pdFgyby1WeUczZGRmcEs4THp6SXNqMjZ5dUU3UXhUQ2tLMmFNZG5tWEx2NkE1WmJB?oc=5",
       "source_name": "au Webポータル",
@@ -44,9 +44,27 @@
       "freshness": "fresh",
       "demand_signal": "",
       "evidence_card_id": null,
-      "valid_until": "2026-11-17T00:31:59+0900",
+      "valid_until": "2026-11-17T11:24:20+0900",
       "status": "candidate",
-      "created_at": "2026-11-12T00:31:59+0900"
+      "created_at": "2026-11-12T11:24:20+0900"
+    },
+    {
+      "seed_id": "seed_dd445d9fb5b2",
+      "trend_term": "粗悪品ボトックスのリスク",
+      "raw_title": "粗悪品ボトックスとバイオテロ - 日経サイエンス",
+      "summary": "粗悪品ボトックスと健康被害の関連を科学的に検証。読者の施術選択時の安全性判断に直結する情報。",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WVzBTdEVzUTdJREx2czQyd0NMODNwS04ySnVhWFNDaUNGQllKVFhYZTZORU1lMl9VTmM3eUlmci0tUUl3Q2s1MFpQVWdhWXFLLTdtY1BzOURjV3gyOGtmcUswM1NmaUpSRUFzVXN6RXkyV2M?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WVzBTdEVzUTdJREx2czQyd0NMODNwS04ySnVhWFNDaUNGQllKVFhYZTZORU1lMl9VTmM3eUlmci0tUUl3Q2s1MFpQVWdhWXFLLTdtY1BzOURjV3gyOGtmcUswM1NmaUpSRUFzVXN6RXkyV2M?oc=5",
+      "source_name": "日経サイエンス",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "safety_claim",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-17T11:24:20+0900",
+      "status": "candidate",
+      "created_at": "2026-11-12T11:24:20+0900"
     },
     {
       "seed_id": "seed_3f66f5807bfd",
@@ -425,42 +443,6 @@
       "valid_until": "2026-11-12T18:04:10+0900",
       "status": "candidate",
       "created_at": "2026-11-07T18:04:10+0900"
-    },
-    {
-      "seed_id": "seed_278999c40f38",
-      "trend_term": "エクソソーム規制動向",
-      "raw_title": "第89回厚生科学審議会（再生医療等評価部会）におけるエクソソーム等に対する日本再生医療学会からの提言を受けてのお知らせ｜セルソース株式会社 - セルソース株式会社",
-      "summary": "厚生科学審議会再生医療等評価部会で、日本再生医療学会がエクソソーム等に対する提言を提出。規制枠組みに関する公式見解。",
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54VV9KazlCRTdyaVVJcldSNkJEdFJaSk02SzVSLXoxbUh0S1lOVl96bldSWC1QcHlJQTFBTlU4VzRlV2NFdWZ4UjNNRFN0T0lTd1cweTdSR0lPdW13dGNNZHc2X01XMDZl?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54VV9KazlCRTdyaVVJcldSNkJEdFJaSk02SzVSLXoxbUh0S1lOVl96bldSWC1QcHlJQTFBTlU4VzRlV2NFdWZ4UjNNRFN0T0lTd1cweTdSR0lPdW13dGNNZHc2X01XMDZl?oc=5",
-      "source_name": "セルソース株式会社",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "official_instruction",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-12T10:05:26+0900",
-      "status": "candidate",
-      "created_at": "2026-11-07T10:05:26+0900"
-    },
-    {
-      "seed_id": "seed_33ef5d59a480",
-      "trend_term": "非侵襲シワ対策",
-      "raw_title": "ボトックスの必要なし！「使ったその日にシワが薄く」42歳が過去イチ効果を感じた【美顔器】レポ - ｄメニューニュース",
-      "summary": "美顔器でシワ軽減を体験した事例レポ。ボトックス回避志向の読者の悩み・選択肢検討のきっかけとなる角度",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONGxRM2p2ekpydzZiTTRBRTVLM3VPclFUQ3p5b3prUm93QWJSOThBZkJFY0NxVnNQQjZLenZkUTJubWR6aF91dGdSb1JEeWI1eVpIM0lvVUgxSFpoVzhsLWlpRkE2azJidkxRRG1iQlNYWjA5LU1HNllkTFNMa1BZd0FyNzJqbU02OGRKX1FJa1k3NGto0gGaAUFVX3lxTFBFc3dYdlBvOFlpX0xTc1lycmxEOUhjM2ZtMG9mUmJzMVRqTmNTMTBaSGpsTFJXamhyXzhwT2tzLU1xS3MwOF92WjBkUDVRMG5TQ2lQQ1dOQUxwNHU2c2lZLXBHNjd4M2t1TzRlbG1hVTJTd0RnMVpJbTZ6cEZFRTBLWHJNYTNpZE50OEpvMTVQbXV4WHJodndNcnc?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONGxRM2p2ekpydzZiTTRBRTVLM3VPclFUQ3p5b3prUm93QWJSOThBZkJFY0NxVnNQQjZLenZkUTJubWR6aF91dGdSb1JEeWI1eVpIM0lvVUgxSFpoVzhsLWlpRkE2azJidkxRRG1iQlNYWjA5LU1HNllkTFNMa1BZd0FyNzJqbU02OGRKX1FJa1k3NGto0gGaAUFVX3lxTFBFc3dYdlBvOFlpX0xTc1lycmxEOUhjM2ZtMG9mUmJzMVRqTmNTMTBaSGpsTFJXamhyXzhwT2tzLU1xS3MwOF92WjBkUDVRMG5TQ2lQQ1dOQUxwNHU2c2lZLXBHNjd4M2t1TzRlbG1hVTJTd0RnMVpJbTZ6cEZFRTBLWHJNYTNpZE50OEpvMTVQbXV4WHJodndNcnc?oc=5",
-      "source_name": "ｄメニューニュース",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-21T00:17:26+0900",
-      "status": "candidate",
-      "created_at": "2026-11-07T00:17:26+0900"
     },
     {
       "seed_id": "seed_c460f81c81eb",
