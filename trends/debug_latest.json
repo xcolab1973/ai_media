@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T01:18:00+09:00",
+  "generated_at": "2026-11-13T05:29:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,8 +16,8 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 8,
+    "neg_excluded": 8,
+    "dedup_excluded": 9,
     "passed_total": 115,
     "b2b_category_counts": {
       "yahoo_realtime": 35,
@@ -28,33 +28,21 @@
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
+    "social_reaction": 31,
+    "policy": 8,
     "opinion": 10,
     "personal_story": 3,
-    "policy": 9,
-    "hard_fact": 15,
+    "hard_fact": 14,
     "medical_science": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "policy": 10,
+    "policy": 8,
+    "social_reaction": 31,
     "opinion": 10,
     "hard_fact": 18,
     "personal_story": 3
   },
   "b2b_top10": [
-    {
-      "title": "「反戦デモ界隈、もう少し本気を出してほしい。」このタイトルから始まるnote、皮",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "無印良品、クレカ番号「全桁流出」の経緯説明--「不要になっても16桁をマスクせず",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
     {
       "title": "「すっごくショック」国民的ロックバンド “政府広報に起用”でネット物議…背景に「",
       "source_category": "yahoo_realtime",
@@ -62,7 +50,13 @@
       "topic_category": "policy"
     },
     {
-      "title": "ウクライナ和平の3カ国協議が終了、突破口は開かれず - BBCニュース",
+      "title": "「反戦デモ界隈、もう少し本気を出してほしい。」このタイトルから始まるnote、皮",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "無印良品、クレカ番号「全桁流出」の経緯説明--「不要になっても16桁をマスクせず",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -74,37 +68,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "ゴジラ-0.0 評価",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "今井裕紀 北海道新聞",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
       "title": "メアドやクレカ番号を「使い捨てる」生活 - chroju.dev",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "腹が立つ事ばっかりだ。 専業主婦年金廃止へってマジか。 子育て、介護、家事、全部",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "title": "italy vs france",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "西村博之",
+      "title": "髙木美帆",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "生活保護",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "名古屋グランパス",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "馬淵史郎",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     }
   ],
   "note_top10": [
+    {
+      "title": "メアドやクレカ番号を「使い捨てる」生活 - chroju.dev",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "「反戦デモ界隈、もう少し本気を出してほしい。」このタイトルから始まるnote、皮",
       "source_category": "yahoo_realtime",
@@ -118,21 +124,33 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "メアドやクレカ番号を「使い捨てる」生活 - chroju.dev",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "アイドルはグループ卒業したらこうなるのだけは土下座するからやめて(※続報あり追記",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ウクライナ和平の3カ国協議が終了、突破口は開かれず - BBCニュース",
+      "title": "気合い入れて食ったろって思って1キロからあげ弁当を注文したらこれ「かわいそう」「",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ワタミがMBOへ、創業者の渡辺美樹氏が取得　総合外食に転換 - 日本経済新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "これ北海道の新しいお土産の定番になるんじゃないか？ロイズ攻めてて好き「北海道って",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "友達のことを名前で覚えずエピソードでしか呼ばないオカンあるあるだが年齢に限らずエ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -142,25 +160,7 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "気合い入れて食ったろって思って1キロからあげ弁当を注文したらこれ「かわいそう」「",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "低信用社会がどれだけしんどいか、中国に住んでる俺が教えてやる｜華村＠中国",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "愛知・豊橋駅前の「象徴」巨大スペースシャトル、12月中に撤去　映画やアニメにも登",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "九州の森林保全を英バンド「レディオヘッド」が支援　故坂本龍一さん創立団体に公演収",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
