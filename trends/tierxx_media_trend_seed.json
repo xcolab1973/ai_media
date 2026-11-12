@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-12T19:06:06+0900",
-    "record_count": 26,
-    "source_total_in_db": 1699,
+    "generated_at": "2026-11-13T01:08:58+0900",
+    "record_count": 25,
+    "source_total_in_db": 1700,
     "provenance_breakdown": {
       "evidence": 1097,
-      "pain_seed": 602
+      "pain_seed": 603
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_b1cb722b4d05",
+      "trend_term": "耐性リスク低減ボトックス",
+      "raw_title": "【ベンスクリニック新宿院】韓国美容医療で注目の「耐性リスクを抑えたボトックス治療」導入予定 - PR TIMES",
+      "summary": "韓国美容医療で注目される耐性リスクを抑えたボトックス治療。ベンスクリニック新宿院で導入予定。反復注射による効果減弱への対策として機能。",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lQU9vcWRrWEN5SmFNQlM0Zlp4TExwZ2ltR2p5U2MyMDZUcGZzQ3Y4azVSc3ZKcDAzRzNUOTVGNmZfVHpuN0Q4aHdPV0Y0c1JxNV9BZjg2T2VqUFdfRE5TSjNiM0ZKSGpxR3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lQU9vcWRrWEN5SmFNQlM0Zlp4TExwZ2ltR2p5U2MyMDZUcGZzQ3Y4azVSc3ZKcDAzRzNUOTVGNmZfVHpuN0Q4aHdPV0Y0c1JxNV9BZjg2T2VqUFdfRE5TSjNiM0ZKSGpxR3c?oc=5",
+      "source_name": "PR TIMES",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-18T01:08:17+0900",
+      "status": "candidate",
+      "created_at": "2026-11-13T01:08:17+0900"
+    },
     {
       "seed_id": "seed_c3e37ab73867",
       "trend_term": "美容医療の倫理・安全問題",
@@ -319,24 +337,6 @@
       "created_at": "2026-11-10T12:44:37+0900"
     },
     {
-      "seed_id": "seed_8694c0be6e01",
-      "trend_term": "ボトックス中断後のシワ変化",
-      "raw_title": "『ボトックス注射』をやめると老ける？ やめた後のシワの変化と続け方を医師が解説 - ライブドアニュース",
-      "summary": "医師による、ボトックス注射の中断後のシワ変化と継続方法についての解説。治療中止時の肌状態の実際の推移と適切な管理方法に関する専門家情報。",
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LUFpSeHdRVDkwdVJKWkY2MVlCX0dWcS1DVmhmdXFuSENlQWprQW43Y2ppQTJnRFFlLWxtVllEcElHbnRFUEEyNFRuOHFCQ3JSYTRkb1BsY0szMm5meVhr?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LUFpSeHdRVDkwdVJKWkY2MVlCX0dWcS1DVmhmdXFuSENlQWprQW43Y2ppQTJnRFFlLWxtVllEcElHbnRFUEEyNFRuOHFCQ3JSYTRkb1BsY0szMm5meVhr?oc=5",
-      "source_name": "ライブドアニュース",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-24T12:44:25+0900",
-      "status": "candidate",
-      "created_at": "2026-11-10T12:44:25+0900"
-    },
-    {
       "seed_id": "seed_63c941ae8756",
       "trend_term": "ショートフォーム健康習慣",
       "raw_title": "10位 チョコザップ - 1日5分のちょいトレ＋健康習慣アプリ",
@@ -407,24 +407,6 @@
       "valid_until": "2026-11-13T18:21:13+0900",
       "status": "candidate",
       "created_at": "2026-11-08T18:21:13+0900"
-    },
-    {
-      "seed_id": "seed_1885381ec1a7",
-      "trend_term": "美容医療規制の動き",
-      "raw_title": "（社説）美容医療 規制視野に実態把握を - 朝日新聞",
-      "summary": "朝日新聞社説が美容医療の規制に向けた実態把握の必要性を指摘。公的メディアが政策レベルでの規制議論を報道",
-      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HQl94azBDVk1Cc2NfVVE1QmdXYV9lOFZjWDUtMDU4X2JwT3AyRjYwZFlIMTMxcjZDR2dqTnI4MTRXWERaQUIwaEJUNVhUN3gxRGNiSV9vVVZZSnRj?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HQl94azBDVk1Cc2NfVVE1QmdXYV9lOFZjWDUtMDU4X2JwT3AyRjYwZFlIMTMxcjZDR2dqTnI4MTRXWERaQUIwaEJUNVhUN3gxRGNiSV9vVVZZSnRj?oc=5",
-      "source_name": "朝日新聞",
-      "monitor_id": "bm-safety-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-12T23:17:20+0900",
-      "status": "candidate",
-      "created_at": "2026-11-07T23:17:20+0900"
     },
     {
       "seed_id": "seed_c460f81c81eb",
