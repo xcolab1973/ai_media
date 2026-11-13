@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T00:42:00+09:00",
+  "generated_at": "2026-11-14T05:05:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,33 +17,37 @@
       "x_realtime": 10
     },
     "neg_excluded": 9,
-    "dedup_excluded": 11,
-    "passed_total": 112,
+    "dedup_excluded": 8,
+    "passed_total": 115,
     "b2b_category_counts": {
+      "x_realtime": 9,
       "yahoo_realtime": 36,
-      "google_trends": 9,
-      "x_realtime": 7,
-      "news_web": 15,
-      "yahoo_news_ranking": 3
+      "google_trends": 10,
+      "news_web": 14,
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
     "social_reaction": 35,
-    "medical_science": 2,
-    "personal_story": 2,
-    "opinion": 9,
-    "hard_fact": 20,
-    "policy": 2
+    "medical_science": 4,
+    "hard_fact": 16,
+    "opinion": 10,
+    "policy": 5
   },
   "b2b_topic_category_counts": {
-    "medical_science": 1,
-    "hard_fact": 21,
     "social_reaction": 35,
-    "opinion": 9,
-    "policy": 2,
-    "personal_story": 2
+    "medical_science": 3,
+    "hard_fact": 17,
+    "opinion": 10,
+    "policy": 5
   },
   "b2b_top10": [
+    {
+      "title": "カラオケボックスにヤベェトラップあんだけど…怖い怖すぎ→予想を上回る危険さに動揺",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "日本、出産は50万円引き、来年からは無料です、子供は18歳まで医療費無料です、幼",
       "source_category": "yahoo_realtime",
@@ -51,7 +55,13 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "総務省が新しい無料オンライン講座「統計解析プログラミング」を1月に開講　Pyth",
+      "title": "「BL無罪論」「女性の性表現免責論」批判",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "フェリー航路維持で連携　徳島、和歌山両知事が合意 | NEWSjp",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
@@ -63,57 +73,57 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "サッカー親善試合",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "Microsoft 365の障害で上司が事業部の部長から「こうなる事を予想して事",
+      "title": "バンホーレン米上院議員、院内総務選に出馬表明 民主党内の対立が表面化",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "[26巡目]ハーレム勇者伝説 - 津夏なつな | 少年ジャンプ＋",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "走り屋",
+      "title": "木村 拓哉",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ロト 7 抽選 結果",
+      "title": "薬丸 裕英",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "すなせせしる",
+      "title": "藤浪晋太郎",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "学生が発表で使ったスライドがAIを使っていたので使用ソフトを尋ねたら「全部AIで",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "hard_fact"
+      "title": "セルビア 対 ドイツ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
+      "title": "カラオケボックスにヤベェトラップあんだけど…怖い怖すぎ→予想を上回る危険さに動揺",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「BL無罪論」「女性の性表現免責論」批判",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "「一杯1,000円」はもはや安い？ ラーメン業界に学ぶ、巧みな値上げ戦略 - お",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「あなたと遊ぶのに最適な頻度は20日に1度」と言ってくる感情が一切ない友達に今日",
+      "title": "バンホーレン米上院議員、院内総務選に出馬表明 民主党内の対立が表面化",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,34 +135,22 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "Microsoft 365の障害で上司が事業部の部長から「こうなる事を予想して事",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "[26巡目]ハーレム勇者伝説 - 津夏なつな | 少年ジャンプ＋",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "今はもうないパスタ屋で出会ったカトラリーの使い心地がよかったが、なかなか買う決心",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "注文したカツカレーがメニューと明らかに違ってカツがやたらとデカかった話「これが俗",
+      "title": "日本在住の外国人が“アメリカにない日本の冬の食べ物”として『焼き芋』を紹介してい",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕",
+      "title": "「賃貸で10年住めばタダであげます」。空き家先進地・長崎発で話題！ 借り手つかな",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "MADE IN YAMATO - 第２４話　禁断症状を乗り越えろ | ヤンマガW",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
     },
     {
       "title": "#反戦サッカー部がなんでこんなに反発を受けたのか",
@@ -161,10 +159,10 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "マネックス証券、不正アクセスでメールアドレス最大113万件と本人確認書類1600",
+      "title": "表現の自由云々のアレ（1/2）",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     }
   ]
 }
