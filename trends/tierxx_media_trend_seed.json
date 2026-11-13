@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-13T11:02:29+0900",
-    "record_count": 25,
-    "source_total_in_db": 1701,
+    "generated_at": "2026-11-13T18:52:19+0900",
+    "record_count": 24,
+    "source_total_in_db": 1702,
     "provenance_breakdown": {
-      "evidence": 1098,
+      "evidence": 1099,
       "pain_seed": 603
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_8852a5e4c1c1",
+      "trend_term": "PCLスキンブースター新導入",
+      "raw_title": "韓国発の美容クリニック「ベンスクリニック」、PCLスキンブースター「GOURI（ゴウリ）」を11月より新導入 - PR TIMES",
+      "summary": "韓国発美容クリニック「ベンスクリニック」がPCLスキンブースター「GOURI」を11月より導入。新技術・新サービス提供の事実。",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kU0lxaWhpMTZ4Z05ueUFNOUJQQUROenZtNmIydWpSYTZ5QXFmMFFwdUlVbnpZQXNqU3hlTThMNWdHUld2c0hSbmoyeFQyQlQwR1ZKcllhZml5R3BpQ0c2aHRCZjM2TXEwZnc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kU0lxaWhpMTZ4Z05ueUFNOUJQQUROenZtNmIydWpSYTZ5QXFmMFFwdUlVbnpZQXNqU3hlTThMNWdHUld2c0hSbmoyeFQyQlQwR1ZKcllhZml5R3BpQ0c2aHRCZjM2TXEwZnc?oc=5",
+      "source_name": "PR TIMES",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-18T18:52:02+0900",
+      "status": "candidate",
+      "created_at": "2026-11-13T18:52:02+0900"
+    },
     {
       "seed_id": "seed_f7e09a9571c6",
       "trend_term": "ベトナム美容クリニック営業停止",
@@ -319,24 +337,6 @@
       "created_at": "2026-11-10T19:14:12+0900"
     },
     {
-      "seed_id": "seed_5d482a5eef16",
-      "trend_term": "セレブのボトックス失敗例",
-      "raw_title": "ニコール・キッドマン、ボトックスの打ち過ぎ？ - ELLE",
-      "summary": "ニコール・キッドマンがボトックスの過剰使用について言及。美容医療のリスク認知に関連する話題。",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRjZQTy1GUzZJd3E2WHB5YjBBT3pqckF6d2JSOW1oMEhTTVRnbVU4UTV3ZDFGcWZZSk5LcjdZXzlLdUUtOGEyQkgwaUdtbjBYbzNpUUswZUZaaHdkb0xEWEM4ZVJRUUlDMVFFd09mMEhzb3UxNzZ2YTltNjRuLS1KcUw5X0g?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRjZQTy1GUzZJd3E2WHB5YjBBT3pqckF6d2JSOW1oMEhTTVRnbVU4UTV3ZDFGcWZZSk5LcjdZXzlLdUUtOGEyQkgwaUdtbjBYbzNpUUswZUZaaHdkb0xEWEM4ZVJRUUlDMVFFd09mMEhzb3UxNzZ2YTltNjRuLS1KcUw5X0g?oc=5",
-      "source_name": "ELLE",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "opinion",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-24T19:14:12+0900",
-      "status": "candidate",
-      "created_at": "2026-11-10T19:14:12+0900"
-    },
-    {
       "seed_id": "seed_30cf2c2b689a",
       "trend_term": "美容施術による医療事故",
       "raw_title": "「回復速度が遅くなり不安」美容施術で火傷した元人気アイドル、医療事故の深刻さを吐露 | スマートニュース - SmartNews",
@@ -407,24 +407,6 @@
       "valid_until": "2026-11-13T23:27:45+0900",
       "status": "candidate",
       "created_at": "2026-11-08T23:27:45+0900"
-    },
-    {
-      "seed_id": "seed_547a362290b5",
-      "trend_term": "新規開院・大宮拠点",
-      "raw_title": "【新規開院】美容クリニック「TCB東京中央美容外科 大宮西口院」 2月17日(金)オープン！ご予約好評受付中 大宮駅徒歩3分 - Newscast.jp",
-      "summary": "TCB東京中央美容外科が2月17日に大宮西口院を新規開院。大宮駅徒歩3分の立地。",
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vWU9MelRhY29kM3A5YXRjNmlGQ0htdkdKN052M0c1bFdhakluNS1hRHUtVlQtVG9TSlBBT2VaZDZLVGtxWnZ4VFJMaElXaUk?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vWU9MelRhY29kM3A5YXRjNmlGQ0htdkdKN052M0c1bFdhakluNS1hRHUtVlQtVG9TSlBBT2VaZDZLVGtxWnZ4VFJMaElXaUk?oc=5",
-      "source_name": "Newscast.jp",
-      "monitor_id": "bm-market-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-13T18:21:13+0900",
-      "status": "candidate",
-      "created_at": "2026-11-08T18:21:13+0900"
     },
     {
       "seed_id": "seed_c460f81c81eb",
