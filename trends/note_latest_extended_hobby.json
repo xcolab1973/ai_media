@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-13T16:39:43+09:00",
- "valid_until": "2026-11-27T16:37:25+09:00",
+ "generated_at": "2026-11-14T06:29:33+09:00",
+ "valid_until": "2026-11-28T06:27:35+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "hobby",
- "total_count": 41,
+ "total_count": 42,
  "merge": {
   "parent": "hobby",
   "from_current": 41,
-  "from_new": 3,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 3,
+  "retention_dropped": 0,
   "genres": 6,
   "retention_per_genre": 8
  },
@@ -254,6 +254,36 @@
     "rescued": false
    },
    "valid_until": "2026-11-22T06:26:54+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
+   "raw_title": "ペットヒーターのつけっぱなしは危険？ 室内犬の寒さ対策を解説！|ワンクォール",
+   "url": "https://magazine.cainz.com/wanqol/articles/pet_heater",
+   "summary": "ペットヒーターをつけっぱなしにするリスクと室内犬の寒さ対策を扱う記事。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "hobby-pet",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "カインズ ワンクォール",
+    "expert_origin": false,
+    "search_query": "犬 猫 冬 暖房 ヒーター 低温やけど 留守番 ペット 11月",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-11-28T06:27:35+09:00",
    "validity_days": 14
   },
   {
