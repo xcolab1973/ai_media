@@ -2,8 +2,8 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-13T18:52:19+0900",
-    "record_count": 24,
+    "generated_at": "2026-11-14T00:37:53+0900",
+    "record_count": 23,
     "source_total_in_db": 1702,
     "provenance_breakdown": {
       "evidence": 1099,
@@ -389,24 +389,6 @@
       "valid_until": "2026-11-14T19:07:34+0900",
       "status": "candidate",
       "created_at": "2026-11-09T19:07:34+0900"
-    },
-    {
-      "seed_id": "seed_a91bffa527d5",
-      "trend_term": "韓国再生医療の動向",
-      "raw_title": "EXOSOMOREの発表会には100名以上の皮膚科医と美容外科医が出席し、韓国における再生医療の最新動向について情報交換を行った。 - Vietnam.vn",
-      "summary": "EXOSOMOREの発表会に100名以上の皮膚科医・美容外科医が参加し、韓国における再生医療の最新動向について情報交換を実施。",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNano2MmF0MDBXZ1AzME9CZENRS250QUFzbFdkdVUtRzc5Vk9BT3hydEpSWnNEaEVZVTZfX1BCdHpKNlp0SzdHTDl2RGlqMVk0T2xraC1EM3JFZzhWOEdmTUJia0xoYlJmRTF0RnRMRmdwdmF4bEFwRHFvLTRFY3VnZy1wZHhCMGJ6TlItZmZJbE1xZ19KQVpZanF5VG4wZWJUbHNoSVRVU0VyS201Z1g2bW1weTN4Ti1hTFdOX2ZTeHRXaGNnN3Y4?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNano2MmF0MDBXZ1AzME9CZENRS250QUFzbFdkdVUtRzc5Vk9BT3hydEpSWnNEaEVZVTZfX1BCdHpKNlp0SzdHTDl2RGlqMVk0T2xraC1EM3JFZzhWOEdmTUJia0xoYlJmRTF0RnRMRmdwdmF4bEFwRHFvLTRFY3VnZy1wZHhCMGJ6TlItZmZJbE1xZ19KQVpZanF5VG4wZWJUbHNoSVRVU0VyS201Z1g2bW1weTN4Ti1hTFdOX2ZTeHRXaGNnN3Y4?oc=5",
-      "source_name": "Vietnam.vn",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-13T23:27:45+0900",
-      "status": "candidate",
-      "created_at": "2026-11-08T23:27:45+0900"
     },
     {
       "seed_id": "seed_c460f81c81eb",
