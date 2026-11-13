@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T05:29:00+09:00",
+  "generated_at": "2026-11-13T11:07:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,98 +7,99 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 9,
-    "passed_total": 115,
+    "neg_excluded": 14,
+    "dedup_excluded": 8,
+    "passed_total": 100,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 22,
       "google_trends": 10,
-      "yahoo_news_ranking": 3,
-      "x_realtime": 9,
-      "news_web": 13
+      "news_web": 22,
+      "x_realtime": 10,
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 31,
-    "policy": 8,
+    "personal_story": 2,
+    "social_reaction": 20,
     "opinion": 10,
-    "personal_story": 3,
-    "hard_fact": 14,
-    "medical_science": 4
+    "policy": 8,
+    "medical_science": 5,
+    "hard_fact": 25
   },
   "b2b_topic_category_counts": {
-    "policy": 8,
-    "social_reaction": 31,
+    "personal_story": 2,
+    "policy": 9,
     "opinion": 10,
-    "hard_fact": 18,
-    "personal_story": 3
+    "hard_fact": 28,
+    "social_reaction": 20,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "「すっごくショック」国民的ロックバンド “政府広報に起用”でネット物議…背景に「",
+      "title": "無謀な５万人来場想定の鳥取のグルメイベントになぜ出店してしまうのか。 - Eve",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "＜主張＞朝鮮学校への公金　実態調べ打ち切るべきだ　社説",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "「反戦デモ界隈、もう少し本気を出してほしい。」このタイトルから始まるnote、皮",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "無印良品、クレカ番号「全桁流出」の経緯説明--「不要になっても16桁をマスクせず",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "アイドルはグループ卒業したらこうなるのだけは土下座するからやめて(※続報あり追記",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "メアドやクレカ番号を「使い捨てる」生活 - chroju.dev",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "italy vs france",
+      "title": "皇室典範",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "髙木美帆",
+      "title": "山本由伸",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "生活保護",
+      "title": "米国防長官 自身注意の衛兵に勲章",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "日本に移住した外国人「日本って本当にかわいい。だって、料理用油にアーニャがいるん",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ジャパン・プロフェッショナル・バスケットボールリーグ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "名古屋グランパス",
+      "title": "nz vs ind",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "馬淵史郎",
+      "title": "埼玉新聞",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "南シナ海",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,63 +107,63 @@
   ],
   "note_top10": [
     {
-      "title": "メアドやクレカ番号を「使い捨てる」生活 - chroju.dev",
+      "title": "無謀な５万人来場想定の鳥取のグルメイベントになぜ出店してしまうのか。 - Eve",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "「反戦デモ界隈、もう少し本気を出してほしい。」このタイトルから始まるnote、皮",
+      "title": "フェミニスト「評判いいからペルソナ5やってみたら教師による女子高校生の性的消費そ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "無印良品、クレカ番号「全桁流出」の経緯説明--「不要になっても16桁をマスクせず",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "アイドルはグループ卒業したらこうなるのだけは土下座するからやめて(※続報あり追記",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "気合い入れて食ったろって思って1キロからあげ弁当を注文したらこれ「かわいそう」「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ワタミがMBOへ、創業者の渡辺美樹氏が取得　総合外食に転換 - 日本経済新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "これ北海道の新しいお土産の定番になるんじゃないか？ロイズ攻めてて好き「北海道って",
+      "title": "日本に移住した外国人「日本って本当にかわいい。だって、料理用油にアーニャがいるん",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "友達のことを名前で覚えずエピソードでしか呼ばないオカンあるあるだが年齢に限らずエ",
+      "title": "あまり知られてないけど、台湾では阿部寛さんのテレビCMがお茶の間に流れている…日",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "アイドルファンにデモ参加を呼びかけるnoteがXで大きな反響を呼ぶ一方、反戦界隈",
+      "title": "「メキシコ人めちゃくちゃハードワーカーなイメージある。こっちの時間に合わせて深夜",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "低信用社会がどれだけしんどいか、中国に住んでる俺が教えてやる｜華村＠中国",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "英国で紅茶が普及した理由に、朝から一杯引っ掛けてくるのが当たり前の労働者階級に、",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "スーパーのセルフレジでスマホの置き忘れ、出口周辺で声をかけたら「あ！私の私の！」",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "毎年言ってるけど、完全に水道水の“旬”来たな「秋冬がいちばん美味しいんだって」「",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "浅草の香港料理屋が「原因さっぱりわからない、10月から急にほとんどお客様来なくな",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "昨日仕事から帰ったら児童相談所の人来てた、ちなみに子供いません…「児相よりもお祓",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
