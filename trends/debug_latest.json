@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T17:46:00+09:00",
+  "generated_at": "2026-11-14T00:42:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,45 +16,45 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
+    "neg_excluded": 9,
     "dedup_excluded": 11,
-    "passed_total": 114,
+    "passed_total": 112,
     "b2b_category_counts": {
       "yahoo_realtime": 36,
-      "news_web": 16,
-      "google_trends": 10,
+      "google_trends": 9,
       "x_realtime": 7,
-      "yahoo_news_ranking": 1
+      "news_web": 15,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
+    "social_reaction": 35,
+    "medical_science": 2,
     "personal_story": 2,
-    "social_reaction": 31,
-    "opinion": 10,
-    "medical_science": 5,
-    "policy": 6,
-    "hard_fact": 16
+    "opinion": 9,
+    "hard_fact": 20,
+    "policy": 2
   },
   "b2b_topic_category_counts": {
-    "personal_story": 2,
-    "policy": 6,
-    "social_reaction": 31,
-    "hard_fact": 19,
-    "opinion": 10,
-    "medical_science": 2
+    "medical_science": 1,
+    "hard_fact": 21,
+    "social_reaction": 35,
+    "opinion": 9,
+    "policy": 2,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "無謀な５万人来場想定の鳥取のグルメイベントになぜ出店してしまうのか。 - Eve",
+      "title": "日本、出産は50万円引き、来年からは無料です、子供は18歳まで医療費無料です、幼",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "medical_science"
     },
     {
-      "title": "高市首相、「大幅増税」に慎重　防衛費5年50兆～60兆円台案浮上 | 毎日新聞",
+      "title": "総務省が新しい無料オンライン講座「統計解析プログラミング」を1月に開講　Pyth",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "topic_category": "hard_fact"
     },
     {
       "title": "「一杯1,000円」はもはや安い？ ラーメン業界に学ぶ、巧みな値上げ戦略 - お",
@@ -63,65 +63,77 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "＜主張＞朝鮮学校への公金　実態調べ打ち切るべきだ　社説",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "title": "サッカー親善試合",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "男児死亡のゼリー 包装に注意書き",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "今はもうないパスタ屋で出会ったカトラリーの使い心地がよかったが、なかなか買う決心",
+      "title": "Microsoft 365の障害で上司が事業部の部長から「こうなる事を予想して事",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "義ノ富士",
+      "title": "[26巡目]ハーレム勇者伝説 - 津夏なつな | 少年ジャンプ＋",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "走り屋",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "堀潤",
+      "title": "ロト 7 抽選 結果",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "琴櫻",
+      "title": "すなせせしる",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "大相撲 結果",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "学生が発表で使ったスライドがAIを使っていたので使用ソフトを尋ねたら「全部AIで",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
     {
-      "title": "無謀な５万人来場想定の鳥取のグルメイベントになぜ出店してしまうのか。 - Eve",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
       "title": "「一杯1,000円」はもはや安い？ ラーメン業界に学ぶ、巧みな値上げ戦略 - お",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「あなたと遊ぶのに最適な頻度は20日に1度」という感情が一切ない友達に今日も遊ぼ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「あなたと遊ぶのに最適な頻度は20日に1度」と言ってくる感情が一切ない友達に今日",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "日本、出産は50万円引き、来年からは無料です、子供は18歳まで医療費無料です、幼",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "Microsoft 365の障害で上司が事業部の部長から「こうなる事を予想して事",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "[26巡目]ハーレム勇者伝説 - 津夏なつな | 少年ジャンプ＋",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -131,40 +143,28 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "去年病気で寝たきりになり車椅子生活、親友が泣きながら「何でも言うて支えるから」と",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "毛先ぱっつんのボブにしてほしいのにイメージ通りにならない…なんで？→カットコンテ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「図書館から本を借りては読まずに返却することを繰り返している、もはや本の散歩係で",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "夫が何やら深刻な顔で「相談があるんだけど…」とか言ってくる、借金か浮気か？と思っ",
+      "title": "注文したカツカレーがメニューと明らかに違ってカツがやたらとデカかった話「これが俗",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "お客様からメールもCopilotも使えないと問い合わせが来て「Microsoft",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "冬靴を買うときの雪国民『靴裏を観たいわ！その靴の底をみせてちょうだい！！』冬の快",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "#反戦サッカー部がなんでこんなに反発を受けたのか",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "マネックス証券、不正アクセスでメールアドレス最大113万件と本人確認書類1600",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     }
   ]
 }
