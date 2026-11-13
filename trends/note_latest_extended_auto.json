@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T06:33:41+09:00",
+ "generated_at": "2026-11-13T14:14:30+09:00",
  "valid_until": "2026-11-26T06:31:33+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -8,14 +8,44 @@
  "total_count": 14,
  "merge": {
   "parent": "auto",
-  "from_current": 10,
-  "from_new": 8,
+  "from_current": 14,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 4,
+  "retention_dropped": 1,
   "genres": 2,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "自分は平気でも……家族が「怖くて運転できない」!? アルファードもランクル300も憧れだけで選ぶと思わぬ落とし穴が!!",
+   "url": "https://bestcarweb.jp/feature/column/1641762",
+   "summary": "自分は運転できても、家族が大きな車を怖くて運転できず、憧れだけで選ぶと後悔しやすいという切り口のコラム。試乗を本人だけで済ませる落とし穴を扱う。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "auto-choose-review",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "ベストカーWeb",
+    "expert_origin": true,
+    "search_query": "試乗 だけでは分からない 後悔 ポイント 車選び 見落とし 家族 駐車場 サイズ",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-11-20T14:12:19+09:00",
+   "validity_days": 7
+  },
   {
    "source_category": "news_web",
    "raw_title": "自賠責保険料が13年ぶりに平均6.2%値上げ（JAF Mate）",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-11-18T13:05:37+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "新車の納期はどのくらい？ 2026年最新・メーカー別目安と、待てないときの対処法｜クルマテラス",
-   "url": "https://kuruma-terrace.com/column/page/?id=101",
-   "summary": "新車の納期は人気車・新型・部品供給・グレードやオプションの組合せで延びる。短縮策は在庫車・展示車、複数ディーラーへの確認、仕様の柔軟化。待てない場合は登録済未使用車や中古車、車検切れ前の対応計画を検討（本文確認済。メーカー別の具体的な納期数値は本文になし）",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "auto-choose-review",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "クルマテラス",
-    "expert_origin": false,
-    "search_query": "新車 納期 2026年11月 乗り換え 車検 前に買い替え 迷う",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-11-17T15:26:33+09:00",
    "validity_days": 7
   },
   {

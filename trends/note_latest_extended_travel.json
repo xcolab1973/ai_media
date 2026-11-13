@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T16:39:52+09:00",
+ "generated_at": "2026-11-13T14:14:31+09:00",
  "valid_until": "2026-11-26T16:39:24+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -16,6 +16,36 @@
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "【2026年最新】アメリカの入国情報！審査は厳しい？渡航に必要な書類やESTA申請を解説",
+   "url": "https://newt.net/usa/mag-036761725",
+   "summary": "米国入国に必要な書類とESTA申請の解説記事。タイトルと媒体名から言える範囲の紹介。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "travel-abroad",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "newt",
+    "expert_origin": false,
+    "search_query": "年末年始 海外旅行 パスポート 残存期間 入国拒否 ESTA 2026 変更点",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-11-20T14:14:00+09:00",
+   "validity_days": 7
+  },
   {
    "source_category": "news_web",
    "raw_title": "海外安全ホームページ（外務省）ETIAS・EES関連",
@@ -219,36 +249,6 @@
     "freshness": "fresh",
     "integrity_warning": "claim_hard_but_source_not_expert: 出版前に一次情報で裏取り必須",
     "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-11-15T06:28:21+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "【保存版】海外旅行でeSIMが繋がらないときに試してほしい3つのこと",
-   "url": "https://note.com/lively_eider3373/n/n096020f5abd5",
-   "summary": "海外でeSIMが繋がらないときの試行手順を個人の体験ベースでまとめた記事。現地到着後に慌てやすい点が角度の種になる。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "travel-abroad",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "note",
-    "expert_origin": false,
-    "search_query": "海外旅行 現地で スマホ eSIM 繋がらない 知恵袋 空港 出国後 困った",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
     "opportunity_gap": false,
     "discovered_angle": null,
     "rescued": false
