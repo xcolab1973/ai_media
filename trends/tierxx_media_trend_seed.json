@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-13T01:08:58+0900",
+    "generated_at": "2026-11-13T11:02:29+0900",
     "record_count": 25,
-    "source_total_in_db": 1700,
+    "source_total_in_db": 1701,
     "provenance_breakdown": {
-      "evidence": 1097,
+      "evidence": 1098,
       "pain_seed": 603
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_f7e09a9571c6",
+      "trend_term": "ベトナム美容クリニック営業停止",
+      "raw_title": "ホーチミン：多くの美容クリニックが営業停止処分に、医療事故も多発［社会］ - VIETJOベトナムニュース",
+      "summary": "ホーチミンの複数美容クリニックが営業停止処分を受け、医療事故の多発が報告されている。ニュース媒体による事実報道。",
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EZGNYd2V5N1g2eDVMQ0N5TGtJR1ROd0k0blBZdF9FeW11bWM4RzRMcmoycHdWVGw0YUVnVVVseWl3Y2x5bVVrVlVNMGVfZmtnNVM1bjg4NEtkU01meEg0THlxSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EZGNYd2V5N1g2eDVMQ0N5TGtJR1ROd0k0blBZdF9FeW11bWM4RzRMcmoycHdWVGw0YUVnVVVseWl3Y2x5bVVrVlVNMGVfZmtnNVM1bjg4NEtkU01meEg0THlxSQ?oc=5",
+      "source_name": "VIETJOベトナムニュース",
+      "monitor_id": "bm-safety-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-18T11:02:24+0900",
+      "status": "candidate",
+      "created_at": "2026-11-13T11:02:24+0900"
+    },
     {
       "seed_id": "seed_b1cb722b4d05",
       "trend_term": "耐性リスク低減ボトックス",
@@ -443,24 +461,6 @@
       "valid_until": "2026-11-17T18:53:05+0900",
       "status": "candidate",
       "created_at": "2026-11-03T18:53:05+0900"
-    },
-    {
-      "seed_id": "seed_37a387560914",
-      "trend_term": "再生医療の治療フロー解説",
-      "raw_title": "再生医療｜半月板/糖尿病/美容など、種類別に治療の流れを解説！ - リペアセルクリニック大阪院",
-      "summary": "再生医療クリニックが半月板損傷・糖尿病・美容など治療の種類別に治療の流れを説明。患者向けの情報提供コンテンツ。",
-      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pWTZKV0JSVWRDTHZrT0JUczVPQlBDbXZGYkhETWt3Vkc2Q0hNcnA0QnZJWjNNN3YtX3RKNTJpeEU3d0ZFNXNZc0dCTGI?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pWTZKV0JSVWRDTHZrT0JUczVPQlBDbXZGYkhETWt3Vkc2Q0hNcnA0QnZJWjNNN3YtX3RKNTJpeEU3d0ZFNXNZc0dCTGI?oc=5",
-      "source_name": "リペアセルクリニック大阪院",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "soft_fact",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-13T10:16:52+0900",
-      "status": "candidate",
-      "created_at": "2026-10-30T10:16:52+0900"
     }
   ]
 }
