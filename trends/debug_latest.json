@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T11:07:00+09:00",
+  "generated_at": "2026-11-13T17:46:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,41 +7,41 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 14,
-    "dedup_excluded": 8,
-    "passed_total": 100,
+    "neg_excluded": 7,
+    "dedup_excluded": 11,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 22,
+      "yahoo_realtime": 36,
+      "news_web": 16,
       "google_trends": 10,
-      "news_web": 22,
-      "x_realtime": 10,
-      "yahoo_news_ranking": 6
+      "x_realtime": 7,
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
     "personal_story": 2,
-    "social_reaction": 20,
+    "social_reaction": 31,
     "opinion": 10,
-    "policy": 8,
     "medical_science": 5,
-    "hard_fact": 25
+    "policy": 6,
+    "hard_fact": 16
   },
   "b2b_topic_category_counts": {
     "personal_story": 2,
-    "policy": 9,
+    "policy": 6,
+    "social_reaction": 31,
+    "hard_fact": 19,
     "opinion": 10,
-    "hard_fact": 28,
-    "social_reaction": 20,
-    "medical_science": 1
+    "medical_science": 2
   },
   "b2b_top10": [
     {
@@ -51,55 +51,55 @@
       "topic_category": "personal_story"
     },
     {
+      "title": "高市首相、「大幅増税」に慎重　防衛費5年50兆～60兆円台案浮上 | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "「一杯1,000円」はもはや安い？ ラーメン業界に学ぶ、巧みな値上げ戦略 - お",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "＜主張＞朝鮮学校への公金　実態調べ打ち切るべきだ　社説",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "皇室典範",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "山本由伸",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "米国防長官 自身注意の衛兵に勲章",
+      "title": "男児死亡のゼリー 包装に注意書き",
       "source_category": "news_web",
       "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "日本に移住した外国人「日本って本当にかわいい。だって、料理用油にアーニャがいるん",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "今はもうないパスタ屋で出会ったカトラリーの使い心地がよかったが、なかなか買う決心",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ジャパン・プロフェッショナル・バスケットボールリーグ",
+      "title": "義ノ富士",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "nz vs ind",
+      "title": "堀潤",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "埼玉新聞",
+      "title": "琴櫻",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "南シナ海",
+      "title": "大相撲 結果",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,55 +113,55 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "フェミニスト「評判いいからペルソナ5やってみたら教師による女子高校生の性的消費そ",
+      "title": "「一杯1,000円」はもはや安い？ ラーメン業界に学ぶ、巧みな値上げ戦略 - お",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "日本に移住した外国人「日本って本当にかわいい。だって、料理用油にアーニャがいるん",
+      "title": "「あなたと遊ぶのに最適な頻度は20日に1度」という感情が一切ない友達に今日も遊ぼ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "あまり知られてないけど、台湾では阿部寛さんのテレビCMがお茶の間に流れている…日",
+      "title": "今はもうないパスタ屋で出会ったカトラリーの使い心地がよかったが、なかなか買う決心",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "去年病気で寝たきりになり車椅子生活、親友が泣きながら「何でも言うて支えるから」と",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "毛先ぱっつんのボブにしてほしいのにイメージ通りにならない…なんで？→カットコンテ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「図書館から本を借りては読まずに返却することを繰り返している、もはや本の散歩係で",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "夫が何やら深刻な顔で「相談があるんだけど…」とか言ってくる、借金か浮気か？と思っ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「メキシコ人めちゃくちゃハードワーカーなイメージある。こっちの時間に合わせて深夜",
+      "title": "お客様からメールもCopilotも使えないと問い合わせが来て「Microsoft",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "英国で紅茶が普及した理由に、朝から一杯引っ掛けてくるのが当たり前の労働者階級に、",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "スーパーのセルフレジでスマホの置き忘れ、出口周辺で声をかけたら「あ！私の私の！」",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "毎年言ってるけど、完全に水道水の“旬”来たな「秋冬がいちばん美味しいんだって」「",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "浅草の香港料理屋が「原因さっぱりわからない、10月から急にほとんどお客様来なくな",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "昨日仕事から帰ったら児童相談所の人来てた、ちなみに子供いません…「児相よりもお祓",
+      "title": "冬靴を買うときの雪国民『靴裏を観たいわ！その靴の底をみせてちょうだい！！』冬の快",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
