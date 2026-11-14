@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T17:01:00+09:00",
+  "generated_at": "2026-11-14T23:32:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,38 +16,42 @@
       "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 6,
-    "passed_total": 108,
+    "neg_excluded": 7,
+    "dedup_excluded": 8,
+    "passed_total": 107,
     "b2b_category_counts": {
-      "x_realtime": 9,
-      "yahoo_realtime": 29,
+      "news_web": 18,
+      "yahoo_realtime": 28,
       "google_trends": 10,
-      "news_web": 21,
-      "yahoo_news_ranking": 1
+      "x_realtime": 9,
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 24,
-    "personal_story": 2,
+    "social_reaction": 30,
+    "medical_science": 2,
     "opinion": 9,
-    "policy": 6,
-    "medical_science": 3,
-    "hard_fact": 26
+    "hard_fact": 22,
+    "policy": 7
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 24,
-    "policy": 6,
+    "hard_fact": 23,
+    "social_reaction": 30,
+    "medical_science": 1,
     "opinion": 9,
-    "hard_fact": 27,
-    "personal_story": 2,
-    "medical_science": 2
+    "policy": 7
   },
   "b2b_top10": [
     {
-      "title": "退職を伝えたら無敵になれると聞いたが、上司が「辞めるんやしお局にちょっと喧嘩しか",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "30歳苦労人 劇的弾の坂元達裕とは",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_sports",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "「アイヌの存在と歴史無視」　指摘受けアート展終了へ　大丸札幌店：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -57,49 +61,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "Xで生活保護を現物支給にってバズってるけど、支給側の視点でどうか",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "俺の姉ちゃんだろ。ずっと俺と同じ苗字でいてくれよ。",
+      "title": "フェミニストの主張を「不快」に感じるのはなぜ？SNSの論争からフェミニズムと男女",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "大相撲取組",
+      "title": "長良川鉄道40周年感謝祭へGO！　限定弁当や無料臨時列車、車庫見学：中日新聞We",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "昔、肝癌で終末期入院中の母に「退院するときの服」を買ってくるように頼まれ、婦人服",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "伊藤沙莉",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "スバル wrx sti",
+      "title": "三浦春馬",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "アンメット 続編",
+      "title": "後藤丈治",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "男女別学",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ウマ娘 プリティーダービー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "今田耕司",
+      "title": "大谷 翔平 痩せ た",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,9 +105,9 @@
   ],
   "note_top10": [
     {
-      "title": "退職を伝えたら無敵になれると聞いたが、上司が「辞めるんやしお局にちょっと喧嘩しか",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「アイヌの存在と歴史無視」　指摘受けアート展終了へ　大丸札幌店：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -119,51 +117,51 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "俺の姉ちゃんだろ。ずっと俺と同じ苗字でいてくれよ。",
+      "title": "フェミニストの主張を「不快」に感じるのはなぜ？SNSの論争からフェミニズムと男女",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「アイスランドの人々は自分たちのルーツを1000年遡ることができるので、トルフィ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "タイの寺で人生初の瞑想をしたら、持病のせいでキマりすぎてしまい、腹の中に「三角錐",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "郵便局のバイトの点呼時に行う飲酒検査で酒気帯び「有」の判定になり事情聴取、他所で",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "古い二次オタすぎて「触角のある髪」ってずっと左のやつだと思ってたのに今は右を指す",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "紅白歌合戦に対して「高齢者が聴く演歌がない」という意見があるが、今の60代や70",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "永住権あっても帰国「もう日本では生きていけない」デカセギの35年：朝日新聞",
+      "title": "長良川鉄道40周年感謝祭へGO！　限定弁当や無料臨時列車、車庫見学：中日新聞We",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「女だけどフェミニズム好きじゃない」といった女子大生を、フェミニストが取り囲んで",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「出産直後の妻の朝食を、旦那が食べ尽くした」→Xで食い尽くし系問題が再燃、「非常",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「すげぇ！教科書とかで見たフロッピーや！！これで容量どれくらいあるんですか？」若",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "職場の不要な書類の一時保管箱に使うことが判明している書類を入れた輩がいて、知らず",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "Twitter民がアメリカのBBQを知ったのが今年の春なので、クリスマスのアメリ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "オフ会とかでよく話題に出る『あ…はい』としか反応できない、言われても困るカミング",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「スキンケア化粧水で済ませる！？！？！？」化粧水後に乳液必要だと思ったけどそうで",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
