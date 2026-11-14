@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-14T16:39:23+09:00",
+ "generated_at": "2026-11-15T06:30:44+09:00",
  "valid_until": "2026-11-28T06:27:21+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
  "parent": "biz",
- "total_count": 17,
+ "total_count": 16,
  "merge": {
   "parent": "biz",
   "from_current": 17,
-  "from_new": 1,
-  "expired_pruned": 0,
-  "retention_dropped": 1,
+  "from_new": 0,
+  "expired_pruned": 1,
+  "retention_dropped": 0,
   "genres": 3,
   "retention_per_genre": 8
  },
@@ -374,36 +374,6 @@
     "rescued": false
    },
    "valid_until": "2026-11-16T06:26:53+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "持続化補助金 第20回｜12月15日締切・様式4は12月4日まで、上限50万〜250万円と採択率47%",
-   "url": "https://min-taxes.com/column/jizokuka-hojokin-dai20kai/",
-   "summary": "第20回の締切・様式4の期限・上限額・採択率を整理した解説記事。",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "biz-subsidy",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "min-taxes",
-    "expert_origin": false,
-    "search_query": "小規模事業者持続化補助金 第20回 様式4 12月4日 商工会議所 事業支援計画書 間に合わない",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-11-15T06:26:59+09:00",
    "validity_days": 7
   },
   {
