@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-14T10:38:26+0900",
-    "record_count": 25,
-    "source_total_in_db": 1705,
+    "generated_at": "2026-11-14T18:16:30+0900",
+    "record_count": 26,
+    "source_total_in_db": 1706,
     "provenance_breakdown": {
       "evidence": 1102,
-      "pain_seed": 603
+      "pain_seed": 604
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_cd431a10e595",
+      "trend_term": "美容整形のダークサイド",
+      "raw_title": "美容整形業界の光と闇と心の葛藤をえぐる、至極のヒューマンサスペンス Netflixシリーズ「ダウンタイム」ティーザー予告＆追加キャスト解禁！ - About Netflix",
+      "summary": "Netflixシリーズ「ダウンタイム」で美容整形業界の光と闇、心理的葛藤を描くコンテンツが配信。業界への不安・疑問が社会的関心になっている状況",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWjA2LWtQQ0N2LVVIQm00Qkx5dWZYMXdBU005TWZRM2Y2MHJzeWhCUndfNzBKckVTamU1akJPMGlRQ24xeDdvb3FFbDk1bTExSEdDanloaGNmd01Ddm5lLUZib0RJSURMcnFZUTZ5TC1rZUJiRGRIOVlScVVqVVhocnQ5N25ad3dpaGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWjA2LWtQQ0N2LVVIQm00Qkx5dWZYMXdBU005TWZRM2Y2MHJzeWhCUndfNzBKckVTamU1akJPMGlRQ24xeDdvb3FFbDk1bTExSEdDanloaGNmd01Ddm5lLUZib0RJSURMcnFZUTZ5TC1rZUJiRGRIOVlScVVqVVhocnQ5N25ad3dpaGc?oc=5",
+      "source_name": "About Netflix",
+      "monitor_id": "bm-market-news",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "opinion",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-28T18:16:25+0900",
+      "status": "candidate",
+      "created_at": "2026-11-14T18:16:25+0900"
+    },
     {
       "seed_id": "seed_06ae6fbe3de8",
       "trend_term": "中国美容医療トラブル多発",
