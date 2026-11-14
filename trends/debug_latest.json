@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T10:45:00+09:00",
+  "generated_at": "2026-11-14T17:01:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,99 +7,99 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
-    "dedup_excluded": 10,
-    "passed_total": 111,
+    "neg_excluded": 8,
+    "dedup_excluded": 6,
+    "passed_total": 108,
     "b2b_category_counts": {
-      "x_realtime": 6,
-      "yahoo_realtime": 31,
+      "x_realtime": 9,
+      "yahoo_realtime": 29,
       "google_trends": 10,
-      "news_web": 19,
-      "yahoo_news_ranking": 4
+      "news_web": 21,
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
-    "personal_story": 1,
-    "medical_science": 7,
-    "opinion": 10,
-    "policy": 5,
-    "hard_fact": 15
+    "social_reaction": 24,
+    "personal_story": 2,
+    "opinion": 9,
+    "policy": 6,
+    "medical_science": 3,
+    "hard_fact": 26
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
-    "medical_science": 6,
-    "opinion": 10,
-    "policy": 5,
-    "personal_story": 1,
-    "hard_fact": 20
+    "social_reaction": 24,
+    "policy": 6,
+    "opinion": 9,
+    "hard_fact": 27,
+    "personal_story": 2,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "カラオケボックスにヤベェトラップあんだけど…怖い怖すぎ→予想を上回る危険さに動揺",
+      "title": "退職を伝えたら無敵になれると聞いたが、上司が「辞めるんやしお局にちょっと喧嘩しか",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "母親は専業でおやつは手作り派、友人が遊びに来るとマドレーヌや寒天ゼリーを作って振",
+      "title": "「AIっぽい」ポスター炎上騒動があぶり出したもの　使用ルールは手探りの中で「AI",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本、出産は50万円引き、来年からは無料です、子供は18歳まで医療費無料です、幼",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "トランプ氏「イランとの合意は必要ない」 方針転換か",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「BL無罪論」「女性の性表現免責論」批判",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "東日本実業団対抗駅伝競走大会",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "自衛隊",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "イープラス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「何もしていないのに壊れた」高市首相はある能力において、故安倍元首相を超えたので",
+      "title": "Xで生活保護を現物支給にってバズってるけど、支給側の視点でどうか",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "石田純一",
+      "title": "俺の姉ちゃんだろ。ずっと俺と同じ苗字でいてくれよ。",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "大相撲取組",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "スバル wrx sti",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "アンメット 続編",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "男女別学",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ウマ娘 プリティーダービー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "今田耕司",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
-      "title": "トランプ氏「イランとの合意は必要ない」 方針転換か",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "カラオケボックスにヤベェトラップあんだけど…怖い怖すぎ→予想を上回る危険さに動揺",
+      "title": "退職を伝えたら無敵になれると聞いたが、上司が「辞めるんやしお局にちょっと喧嘩しか",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "母親は専業でおやつは手作り派、友人が遊びに来るとマドレーヌや寒天ゼリーを作って振",
+      "title": "「AIっぽい」ポスター炎上騒動があぶり出したもの　使用ルールは手探りの中で「AI",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「BL無罪論」「女性の性表現免責論」批判",
+      "title": "俺の姉ちゃんだろ。ずっと俺と同じ苗字でいてくれよ。",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "かつて、noteのようなブログもTwitterのような短文投稿もDiscordの",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『ヴァイオレット・エヴァーガーデン』でどうしても納得できない部分があったが、劇場",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ミスドでおばあちゃんがセルフレジの操作がわからず困惑、店員さんは「セルフレジです",
+      "title": "「アイスランドの人々は自分たちのルーツを1000年遡ることができるので、トルフィ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
     },
     {
-      "title": "日本の偉い人が現地のボスに感謝祭に出勤するようお願いしたら「お前ら、アメリカ人に",
+      "title": "タイの寺で人生初の瞑想をしたら、持病のせいでキマりすぎてしまい、腹の中に「三角錐",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "郵便局のバイトの点呼時に行う飲酒検査で酒気帯び「有」の判定になり事情聴取、他所で",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本、出産は50万円引き、来年からは無料です、子供は18歳まで医療費無料です、幼",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "title": "古い二次オタすぎて「触角のある髪」ってずっと左のやつだと思ってたのに今は右を指す",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "やまやで15回おかわりしたら出禁宣告された人が謝罪…しかしやまや系列で働く人から",
+      "title": "紅白歌合戦に対して「高齢者が聴く演歌がない」という意見があるが、今の60代や70",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "永住権あっても帰国「もう日本では生きていけない」デカセギの35年：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「女だけどフェミニズム好きじゃない」といった女子大生を、フェミニストが取り囲んで",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
