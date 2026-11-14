@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T06:29:33+09:00",
+ "generated_at": "2026-11-14T16:39:23+09:00",
  "valid_until": "2026-11-28T06:27:21+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -8,14 +8,44 @@
  "total_count": 17,
  "merge": {
   "parent": "biz",
-  "from_current": 18,
-  "from_new": 3,
-  "expired_pruned": 3,
+  "from_current": 17,
+  "from_new": 1,
+  "expired_pruned": 0,
   "retention_dropped": 1,
   "genres": 3,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "EC年末商戦の売上対策｜8週間前からの準備スケジュールとセール設計",
+   "url": "https://ec-tsumugu.com/method/ec-yearend-sales",
+   "summary": "年末商戦に向けた準備スケジュールとセール設計を扱う解説記事。小規模ショップが在庫・配送・値引き設計をどう逆算するかの参考。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "biz-ec-shop",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "EC tsumugu",
+    "expert_origin": false,
+    "search_query": "ネットショップ ブラックフライデー 年末商戦 2026 返品 在庫 準備 個人事業主 EC",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-11-19T16:36:56+09:00",
+   "validity_days": 5
+  },
   {
    "source_category": "news_web",
    "raw_title": "ECサイトのブラックフライデーで売上が減る理由と利益を守る3つの企画設計とは",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-11-17T06:31:40+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "「インボイス2割特例」が終了する2026年10月以降、簡易課税と本則課税どちらを選ぶ？届出期限から逆算するスケジュールと判断シミュレーション",
-   "url": "https://fumina-tax.com/blog/invoice-20percent-special-end-2026-schedule/",
-   "summary": "2割特例は2026年9月30日を含む課税期間まで。個人事業主は2026年分が最後で、2027年分から本則課税か簡易課税を選ぶ。簡易課税は事前届出が必要で、個人が2027年分から使う場合の期限は2026年12月31日。（本文確認済）",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "hard_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "biz-ec-shop",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "平川文菜税理士事務所",
-    "expert_origin": true,
-    "search_query": "ネットショップ 個人事業主 インボイス 2割特例終了後 消費税 簡易課税 届出 2026年",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-11-15T16:36:36+09:00",
    "validity_days": 5
   },
   {

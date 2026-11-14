@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-13T16:39:43+09:00",
- "valid_until": "2026-11-27T16:37:13+09:00",
+ "generated_at": "2026-11-14T16:39:23+09:00",
+ "valid_until": "2026-11-28T16:36:48+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "beauty",
   "from_current": 32,
-  "from_new": 4,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 4,
+  "retention_dropped": 1,
   "genres": 4,
   "retention_per_genre": 8
  },
@@ -258,6 +258,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "医薬部外品のシワ改善効果と薬機法！広告表現はOK？",
+   "url": "https://yakujihou-marketing.net/archives/3706",
+   "summary": "医薬部外品のシワ改善表現と薬機法上の広告表現の可否を扱う解説。発信者側が守るべき表現ルールの角度。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "beauty-aging",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "薬機法マーケティング",
+    "expert_origin": false,
+    "search_query": "化粧品 薬機法 2026 改正 施行 シワ改善 医薬部外品 新規",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-11-28T16:36:48+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "冬のレチノール、やめるべき？皮膚科医が教える乾燥・ヒリつきを抑える使い方",
    "url": "https://front-row.jp/_ct/132682/",
    "summary": "2026年11月7日掲載。冬はレチノールで皮むけ・赤み・ヒリつきが出やすい。皮膚科医は週1〜2回に減らす、低濃度に変える、保湿剤で挟む塗り方を提案。AHA/BHA等との同夜併用は刺激増に注意、日中のUV対策、妊娠中は控える。（本文確認済）",
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-11-24T16:36:42+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "レチノールの正しい使い方｜順番・頻度・併用NG成分まで初心者向けに解説",
-   "url": "https://www.skincare.or.jp/wp/basic-knowledge/retino-ru-2/",
-   "summary": "夜に使い、洗顔→化粧水→レチノール→乳液・クリームの順。週1回から始めて数週間かけて頻度を上げる。赤み・皮むけ・ヒリつきが続けば休んで保湿し、長引けば皮膚科へ。AHA・BHAや高濃度ビタミンCは重ねすぎない（本文確認済）",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "beauty-aging",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "skincare.or.jp",
-    "expert_origin": true,
-    "search_query": "化粧品 レチノール 冬 使い方 40代 皮むけ 赤み 知恵袋",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-11-22T16:36:57+09:00",
    "validity_days": 14
   },
   {
