@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T05:05:00+09:00",
+  "generated_at": "2026-11-14T10:45:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,30 +16,32 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 8,
-    "passed_total": 115,
+    "neg_excluded": 11,
+    "dedup_excluded": 10,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "x_realtime": 9,
-      "yahoo_realtime": 36,
+      "x_realtime": 6,
+      "yahoo_realtime": 31,
       "google_trends": 10,
-      "news_web": 14,
-      "yahoo_news_ranking": 1
+      "news_web": 19,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
-    "medical_science": 4,
-    "hard_fact": 16,
+    "social_reaction": 32,
+    "personal_story": 1,
+    "medical_science": 7,
     "opinion": 10,
-    "policy": 5
+    "policy": 5,
+    "hard_fact": 15
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 35,
-    "medical_science": 3,
-    "hard_fact": 17,
+    "social_reaction": 28,
+    "medical_science": 6,
     "opinion": 10,
-    "policy": 5
+    "policy": 5,
+    "personal_story": 1,
+    "hard_fact": 20
   },
   "b2b_top10": [
     {
@@ -49,10 +51,22 @@
       "topic_category": "social_reaction"
     },
     {
+      "title": "母親は専業でおやつは手作り派、友人が遊びに来るとマドレーヌや寒天ゼリーを作って振",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "日本、出産は50万円引き、来年からは無料です、子供は18歳まで医療費無料です、幼",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "medical_science"
+    },
+    {
+      "title": "トランプ氏「イランとの合意は必要ない」 方針転換か",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "「BL無罪論」「女性の性表現免責論」批判",
@@ -61,43 +75,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "フェリー航路維持で連携　徳島、和歌山両知事が合意 | NEWSjp",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "「一杯1,000円」はもはや安い？ ラーメン業界に学ぶ、巧みな値上げ戦略 - お",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "バンホーレン米上院議員、院内総務選に出馬表明 民主党内の対立が表面化",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "木村 拓哉",
+      "title": "東日本実業団対抗駅伝競走大会",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "薬丸 裕英",
+      "title": "自衛隊",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "藤浪晋太郎",
+      "title": "イープラス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "セルビア 対 ドイツ",
+      "title": "「何もしていないのに壊れた」高市首相はある能力において、故安倍元首相を超えたので",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "石田純一",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,9 +107,21 @@
   ],
   "note_top10": [
     {
+      "title": "トランプ氏「イランとの合意は必要ない」 方針転換か",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "カラオケボックスにヤベェトラップあんだけど…怖い怖すぎ→予想を上回る危険さに動揺",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "母親は専業でおやつは手作り派、友人が遊びに来るとマドレーヌや寒天ゼリーを作って振",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -117,15 +131,27 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「一杯1,000円」はもはや安い？ ラーメン業界に学ぶ、巧みな値上げ戦略 - お",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "かつて、noteのようなブログもTwitterのような短文投稿もDiscordの",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "バンホーレン米上院議員、院内総務選に出馬表明 民主党内の対立が表面化",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "『ヴァイオレット・エヴァーガーデン』でどうしても納得できない部分があったが、劇場",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ミスドでおばあちゃんがセルフレジの操作がわからず困惑、店員さんは「セルフレジです",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "日本の偉い人が現地のボスに感謝祭に出勤するようお願いしたら「お前ら、アメリカ人に",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -135,31 +161,7 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "日本在住の外国人が“アメリカにない日本の冬の食べ物”として『焼き芋』を紹介してい",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「賃貸で10年住めばタダであげます」。空き家先進地・長崎発で話題！ 借り手つかな",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "MADE IN YAMATO - 第２４話　禁断症状を乗り越えろ | ヤンマガW",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "#反戦サッカー部がなんでこんなに反発を受けたのか",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "表現の自由云々のアレ（1/2）",
+      "title": "やまやで15回おかわりしたら出禁宣告された人が謝罪…しかしやまや系列で働く人から",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
