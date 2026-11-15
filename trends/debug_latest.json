@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T23:59:00+09:00",
+  "generated_at": "2026-11-16T04:08:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,40 +7,40 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 10,
-    "passed_total": 113,
+    "neg_excluded": 11,
+    "dedup_excluded": 7,
+    "passed_total": 104,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
-      "x_realtime": 7,
+      "yahoo_realtime": 24,
+      "x_realtime": 10,
       "google_trends": 10,
-      "news_web": 15,
-      "yahoo_news_ranking": 2
+      "yahoo_news_ranking": 5,
+      "news_web": 21
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "personal_story": 3,
+    "social_reaction": 25,
+    "personal_story": 1,
     "opinion": 10,
     "medical_science": 3,
     "policy": 8,
-    "hard_fact": 16
+    "hard_fact": 23
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
+    "social_reaction": 25,
     "policy": 9,
     "opinion": 10,
-    "personal_story": 3,
-    "hard_fact": 16,
+    "hard_fact": 23,
+    "personal_story": 1,
     "medical_science": 2
   },
   "b2b_top10": [
@@ -75,31 +75,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "アズールレーン公式がナポリの新衣装を公表するも、内診台の描写で炎上。賛否両論で大",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ちゃんみな",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
       "title": "【オルグ済】「フェミニズム好きじゃない」と言った女子大生に対し、刀剣乱舞ユーザー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "スイカ キャラクター",
+      "title": "福岡県議会",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ジョージア大使",
+      "title": "アズールレーン公式がナポリの新衣装を公表するも、内診台の描写で炎上。賛否両論で大",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "長野 久義",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "プロ野球チャンピオンシップ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -137,31 +137,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "仕事ができなくて職場で干されてる人を見かねて助けたら「気が利きますね」と言われ、",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "スティックタイプの飲み物、こういう可愛いデザイン嬉しいんですけど、何も描かなくて",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "【オルグ済】「フェミニズム好きじゃない」と言った女子大生に対し、刀剣乱舞ユーザー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "工場で勤務するようになって知ったのだが、利益のために効率を追求しようとするとあら",
+      "title": "大学受験で大失敗して何もかも悲観しながら受けた最初の講義は上のレベルの大学から異",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "12〜3年前に第六駆逐隊の湯呑みを同人作家から購入、十数年間ほぼ毎日お茶を飲むの",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ボドゲを知らない上司とあるゲームで遊んだら、翌月の歓迎会で上司が顔を輝かせながら",
+      "title": "韓国人「このソースなに？激アツ！！マジで美味しい！！みんな知っているの？？」「靴",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "熱烈に勧められたコロッケ蕎麦、根負けして食べたら「蕎麦にコロッケ入れた味がしまし",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
