@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T10:18:00+09:00",
+  "generated_at": "2026-11-15T17:27:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,35 +17,53 @@
       "x_realtime": 10
     },
     "neg_excluded": 6,
-    "dedup_excluded": 8,
-    "passed_total": 118,
+    "dedup_excluded": 9,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_realtime": 28,
+      "yahoo_realtime": 33,
       "google_trends": 10,
-      "news_web": 19,
-      "yahoo_news_ranking": 4,
-      "x_realtime": 9
+      "x_realtime": 8,
+      "yahoo_news_ranking": 5,
+      "news_web": 14
     }
   },
   "note_category_counts": {
-    "social_reaction": 35,
-    "personal_story": 3,
+    "social_reaction": 29,
+    "personal_story": 4,
     "opinion": 10,
-    "medical_science": 4,
-    "hard_fact": 12,
-    "policy": 6
+    "medical_science": 1,
+    "policy": 11,
+    "hard_fact": 15
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
-    "personal_story": 3,
+    "social_reaction": 25,
+    "personal_story": 4,
     "opinion": 10,
-    "hard_fact": 21,
-    "policy": 7,
+    "hard_fact": 18,
+    "policy": 12,
     "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "「二度と造れない車両」　新観光列車「赤い星」公開、ラウンジや畳敷き茶室も　JR北",
+      "title": "沖縄・嘉手納基地「F15EX」配備開始　米空軍海外拠点で初、高度な航空電子機器備",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "科学が教えてくれないもの｜kikumaco",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "45都道府県で土木職員の定員割れ、22年の土木職経験者が悲惨な目に遭うことが想定",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【オルグ済】「フェミニズム好きじゃない」と言った女子大生に対し、刀剣乱舞ユーザー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -57,57 +75,51 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "Netflixが値上げ、国内2年ぶり　広告付きプランは11%高の990円 - 日",
+      "title": "柏 対 川崎f",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "宇良",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "パレード",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "日本相撲協会",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "園児が「数種類の食べられる物以外は口に少しでも入るとゴミ箱に吐きに行く」という状",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "黒田清子",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "きょう近畿や東海で激しい雨 注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "Netflixが値上げ 最安は990円に",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_it",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "『無知のグルメ』いそべあげ回に出てきた靴紐みたいな食感の食べ物がなにかすごく気に",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ウルブズ 対 ブルズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "東尾 理子",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "近畿高校駅伝 2026",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "「二度と造れない車両」　新観光列車「赤い星」公開、ラウンジや畳敷き茶室も　JR北",
+      "title": "沖縄・嘉手納基地「F15EX」配備開始　米空軍海外拠点で初、高度な航空電子機器備",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "科学が教えてくれないもの｜kikumaco",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "45都道府県で土木職員の定員割れ、22年の土木職経験者が悲惨な目に遭うことが想定",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -119,52 +131,40 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "Netflixが値上げ、国内2年ぶり　広告付きプランは11%高の990円 - 日",
+      "title": "園児が「数種類の食べられる物以外は口に少しでも入るとゴミ箱に吐きに行く」という状",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ディズニーシーは入場直後にスマホで予約するのが攻略最適解になっているため、入口付",
+      "title": "オキシ漬けっていうのやってみたくてオキシクリーン買ったんだけど、もしかしてこれ、",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
     },
     {
-      "title": "『無知のグルメ』いそべあげ回に出てきた靴紐みたいな食感の食べ物がなにかすごく気に",
+      "title": "【オルグ済】「フェミニズム好きじゃない」と言った女子大生に対し、刀剣乱舞ユーザー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "米国、NATO加盟と引き換えに領土割譲を提案 ゼレンスキー氏",
+      "title": "被害者は肋骨が折れて肺に穴があく重症、犯行グループには中学生も……愛知県小牧市の",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「レンブラントの『夜警』くらいになるともはや土壌」絵画の修復プロジェクトから思わ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ディズニーシーは入場直後にスマホで予約するのが攻略最適解になっているため、入口付",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "引っ越し業者の見積もり時、1社目「IKEAの家具はございませんか？」2社目「IK",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "新しいジンを買いたいけどどんなジンが美味しいか全くわからないのでオススメのジンを",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "福井市の『フェニックス通り』や『フェニックスプラザ』を東京の人に「フェニックスっ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "乃木坂ってほんとに不思議なグループだと思う。こんなに世間に曲が届いてないのに12",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     }
   ]
 }
