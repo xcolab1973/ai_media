@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-15T06:30:44+09:00",
- "valid_until": "2026-11-29T06:29:55+09:00",
+ "generated_at": "2026-11-15T16:44:15+09:00",
+ "valid_until": "2026-11-29T16:43:35+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,13 +9,43 @@
  "merge": {
   "parent": "work",
   "from_current": 30,
-  "from_new": 2,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 2,
+  "retention_dropped": 1,
   "genres": 4,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "内定オファー後の年収交渉について - Yahoo!知恵袋",
+   "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13295454693",
+   "summary": "内定が出たあとに年収をどう切り出すか迷う相談。提示額を受けるか交渉するか、タイミングと言い方の不安が中心。角度の種であり事実の根拠にはしない。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "work-jobhunt",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "Yahoo!知恵袋",
+    "expert_origin": false,
+    "search_query": "転職 内定 年収交渉 オファー面談 退職交渉 引き止め 年末 知恵袋",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-11-29T16:43:35+09:00",
+   "validity_days": 14
+  },
   {
    "source_category": "news_web",
    "raw_title": "退職時期のベストは何月？税金やボーナスで損しない時期を解説｜ベンナビ労働問題",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-11-21T16:39:05+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "冬のボーナスはいつ？2026年最新の支給日・平均額・手取りと転職の注意点",
-   "url": "https://www.geekly.co.jp/column/cat-preparation/winter_bonus_season/",
-   "summary": "民間の冬ボーナスは12月1〜15日ごろ。支給基準日（12月1日など）に在籍していれば退職予定でも原則対象だが、基準日前に退職日を置くと受給権を失うおそれ。支給前に退職を伝えると減額の不利益もあり、申し出は支給後が安全とされる。1〜2月は転職活動が活発（本文確認済）",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "work-jobhunt",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "ギークリー",
-    "expert_origin": true,
-    "search_query": "冬のボーナス 転職 退職 タイミング 支給日在籍 ボーナス後 転職 2026",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-11-19T16:38:46+09:00",
    "validity_days": 14
   },
   {
