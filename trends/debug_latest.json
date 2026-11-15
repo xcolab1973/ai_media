@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T03:31:00+09:00",
+  "generated_at": "2026-11-15T10:18:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,152 +16,152 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 11,
-    "passed_total": 114,
+    "neg_excluded": 6,
+    "dedup_excluded": 8,
+    "passed_total": 118,
     "b2b_category_counts": {
-      "x_realtime": 7,
-      "yahoo_realtime": 37,
+      "yahoo_realtime": 28,
       "google_trends": 10,
-      "news_web": 14,
-      "yahoo_news_ranking": 2
+      "news_web": 19,
+      "yahoo_news_ranking": 4,
+      "x_realtime": 9
     }
   },
   "note_category_counts": {
-    "social_reaction": 36,
+    "social_reaction": 35,
+    "personal_story": 3,
     "opinion": 10,
-    "medical_science": 3,
-    "personal_story": 1,
-    "hard_fact": 14,
+    "medical_science": 4,
+    "hard_fact": 12,
     "policy": 6
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 36,
+    "social_reaction": 28,
+    "personal_story": 3,
     "opinion": 10,
-    "hard_fact": 15,
-    "medical_science": 2,
-    "policy": 6,
-    "personal_story": 1
+    "hard_fact": 21,
+    "policy": 7,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "首里城令和最新版、防火対策ガチガチにしてあって絶対に燃やさない意志を感じる「燃え",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『ゴジラ-1.0』初期案にはメーサー兵器も　山崎貴監督が明かす『ゴジラ-0.0』",
+      "title": "「二度と造れない車両」　新観光列車「赤い星」公開、ラウンジや畳敷き茶室も　JR北",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「アイヌの存在と歴史無視」　指摘受けアート展終了へ　大丸札幌店：朝日新聞",
+      "title": "体系的に学ぶ 安全なWebアプリケーションの作り方 第3版 徳丸 浩(著) - ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "Netflixが値上げ、国内2年ぶり　広告付きプランは11%高の990円 - 日",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "鎌田大地",
+      "title": "黒田清子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "「出産直後の妻の朝食を、旦那が食べ尽くした」→Xで食い尽くし系問題が再燃、「非常",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "トヨタ・カローラ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "韓国ドラマ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "vflヴォルフスブルク 対 fcバイエルン・ミュンヘン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "熊本県",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "30歳苦労人 劇的弾の坂元達裕とは",
+      "title": "きょう近畿や東海で激しい雨 注意",
       "source_category": "news_web",
-      "raw_source_key": "yahoo_news_sports",
+      "raw_source_key": "yahoo_news_domestic",
       "topic_category": "hard_fact"
+    },
+    {
+      "title": "Netflixが値上げ 最安は990円に",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_it",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "『無知のグルメ』いそべあげ回に出てきた靴紐みたいな食感の食べ物がなにかすごく気に",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ウルブズ 対 ブルズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "東尾 理子",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "近畿高校駅伝 2026",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "首里城令和最新版、防火対策ガチガチにしてあって絶対に燃やさない意志を感じる「燃え",
+      "title": "「二度と造れない車両」　新観光列車「赤い星」公開、ラウンジや畳敷き茶室も　JR北",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "体系的に学ぶ 安全なWebアプリケーションの作り方 第3版 徳丸 浩(著) - ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "Netflixが値上げ、国内2年ぶり　広告付きプランは11%高の990円 - 日",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ディズニーシーは入場直後にスマホで予約するのが攻略最適解になっているため、入口付",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "『無知のグルメ』いそべあげ回に出てきた靴紐みたいな食感の食べ物がなにかすごく気に",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "米国、NATO加盟と引き換えに領土割譲を提案 ゼレンスキー氏",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "引っ越し業者の見積もり時、1社目「IKEAの家具はございませんか？」2社目「IK",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『ゴジラ-1.0』初期案にはメーサー兵器も　山崎貴監督が明かす『ゴジラ-0.0』",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「アイヌの存在と歴史無視」　指摘受けアート展終了へ　大丸札幌店：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「出産直後の妻の朝食を、旦那が食べ尽くした」→Xで食い尽くし系問題が再燃、「非常",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Twitter民がアメリカのBBQを知ったのが今年の春なので、クリスマスのアメリ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "北朝鮮の飛行機に乗ったときに食べた機内食のハンバーガーがこちらです「マジでシンプ",
+      "title": "新しいジンを買いたいけどどんなジンが美味しいか全くわからないのでオススメのジンを",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "郵便局のバイトの点呼時に行う飲酒検査で酒気帯び「有」の判定になり事情聴取、他所で",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "福井市の『フェニックス通り』や『フェニックスプラザ』を東京の人に「フェニックスっ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「哲学ってなんなの？ ムダじゃない？」 哲学者に話を聞いてきた - イーアイデム",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "第77回紅白歌合戦の出場歌手のこと - WASTE OF POPS 80s-90",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ユニクロのレディースを着てもしっくりこないという人は、思い切ってメンズの方を試し",
+      "title": "乃木坂ってほんとに不思議なグループだと思う。こんなに世間に曲が届いてないのに12",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
