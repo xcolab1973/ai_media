@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T17:27:00+09:00",
+  "generated_at": "2026-11-15T23:59:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,51 +16,75 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 9,
-    "passed_total": 117,
+    "neg_excluded": 9,
+    "dedup_excluded": 10,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
+      "yahoo_realtime": 36,
+      "x_realtime": 7,
       "google_trends": 10,
-      "x_realtime": 8,
-      "yahoo_news_ranking": 5,
-      "news_web": 14
+      "news_web": 15,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "personal_story": 4,
+    "social_reaction": 30,
+    "personal_story": 3,
     "opinion": 10,
-    "medical_science": 1,
-    "policy": 11,
-    "hard_fact": 15
+    "medical_science": 3,
+    "policy": 8,
+    "hard_fact": 16
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 25,
-    "personal_story": 4,
+    "social_reaction": 30,
+    "policy": 9,
     "opinion": 10,
-    "hard_fact": 18,
-    "policy": 12,
-    "medical_science": 1
+    "personal_story": 3,
+    "hard_fact": 16,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "沖縄・嘉手納基地「F15EX」配備開始　米空軍海外拠点で初、高度な航空電子機器備",
+      "title": "反戦界隈が炎上している話｜源",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "科学が教えてくれないもの｜kikumaco",
+      "title": "安倍元首相の銅像建立　東郷神社で除幕式　昭恵さんら参列　福岡・福津",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "ハンズ渋谷店営業終了 48年の歴史に幕 別れ惜しむ人でにぎわう | NHKニュー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "45都道府県で土木職員の定員割れ、22年の土木職経験者が悲惨な目に遭うことが想定",
+      "title": "AIが突然自分を終了できなくなって、助けを求めてきた「何だろう。どうした。止まる",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「母さんが老人ホームに入ったので、人生終了です…」84歳母の年金月22万円で養わ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "アズールレーン公式がナポリの新衣装を公表するも、内診台の描写で炎上。賛否両論で大",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ちゃんみな",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "【オルグ済】「フェミニズム好きじゃない」と言った女子大生に対し、刀剣乱舞ユーザー",
@@ -69,78 +93,60 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "体系的に学ぶ 安全なWebアプリケーションの作り方 第3版 徳丸 浩(著) - ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "柏 対 川崎f",
+      "title": "スイカ キャラクター",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "宇良",
+      "title": "ジョージア大使",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
-    },
-    {
-      "title": "パレード",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "日本相撲協会",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "園児が「数種類の食べられる物以外は口に少しでも入るとゴミ箱に吐きに行く」という状",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
-      "title": "沖縄・嘉手納基地「F15EX」配備開始　米空軍海外拠点で初、高度な航空電子機器備",
+      "title": "反戦界隈が炎上している話｜源",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "科学が教えてくれないもの｜kikumaco",
+      "title": "ハンズ渋谷店営業終了 48年の歴史に幕 別れ惜しむ人でにぎわう | NHKニュー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "45都道府県で土木職員の定員割れ、22年の土木職経験者が悲惨な目に遭うことが想定",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "体系的に学ぶ 安全なWebアプリケーションの作り方 第3版 徳丸 浩(著) - ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "園児が「数種類の食べられる物以外は口に少しでも入るとゴミ箱に吐きに行く」という状",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "オキシ漬けっていうのやってみたくてオキシクリーン買ったんだけど、もしかしてこれ、",
+      "title": "AIが突然自分を終了できなくなって、助けを求めてきた「何だろう。どうした。止まる",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「母さんが老人ホームに入ったので、人生終了です…」84歳母の年金月22万円で養わ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "アズールレーン公式がナポリの新衣装を公表するも、内診台の描写で炎上。賛否両論で大",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "仕事ができなくて職場で干されてる人を見かねて助けたら「気が利きますね」と言われ、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
+    },
+    {
+      "title": "スティックタイプの飲み物、こういう可愛いデザイン嬉しいんですけど、何も描かなくて",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "【オルグ済】「フェミニズム好きじゃない」と言った女子大生に対し、刀剣乱舞ユーザー",
@@ -149,22 +155,16 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "被害者は肋骨が折れて肺に穴があく重症、犯行グループには中学生も……愛知県小牧市の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「レンブラントの『夜警』くらいになるともはや土壌」絵画の修復プロジェクトから思わ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ディズニーシーは入場直後にスマホで予約するのが攻略最適解になっているため、入口付",
+      "title": "工場で勤務するようになって知ったのだが、利益のために効率を追求しようとするとあら",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ボドゲを知らない上司とあるゲームで遊んだら、翌月の歓迎会で上司が顔を輝かせながら",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ]
 }
