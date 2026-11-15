@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-15T10:13:16+0900",
+    "generated_at": "2026-11-15T18:46:35+0900",
     "record_count": 26,
-    "source_total_in_db": 1710,
+    "source_total_in_db": 1712,
     "provenance_breakdown": {
-      "evidence": 1104,
-      "pain_seed": 606
+      "evidence": 1105,
+      "pain_seed": 607
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_ed7fc11379c4",
+      "trend_term": "日本美容内科学会総会",
+      "raw_title": "第3回日本美容内科学会総会を12月6日に開催 - ニコニコニュース",
+      "summary": "日本美容内科学会による第3回総会が12月6日に開催される。学会公式イベント情報。",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qeDZxYUdqcTg0amtMNHJVWU1Ocm1lVGphX1lkQUV1Y3dJcmhwdTBMU25ENFNreFBTUDdzX1dNOXR6bWpTbnZHdkRoMU05SlJHc1RVRWg4aHpWYzFxSUhaQjNvUjFJZ2hzUWhkbkJNTmkyT0oyeUtfRXgwbw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qeDZxYUdqcTg0amtMNHJVWU1Ocm1lVGphX1lkQUV1Y3dJcmhwdTBMU25ENFNreFBTUDdzX1dNOXR6bWpTbnZHdkRoMU05SlJHc1RVRWg4aHpWYzFxSUhaQjNvUjFJZ2hzUWhkbkJNTmkyT0oyeUtfRXgwbw?oc=5",
+      "source_name": "ニコニコニュース",
+      "monitor_id": "bm-regen-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-20T18:46:23+0900",
+      "status": "candidate",
+      "created_at": "2026-11-15T18:46:23+0900"
+    },
+    {
+      "seed_id": "seed_73d13e696ffe",
+      "trend_term": "エラボトックス実態調査",
+      "raw_title": "【ブロウナビ】「エラボトックス」の最新実態！100名にアンケート調査 – 30代が最多＆人気の頻度・費用・製剤・満足度まで徹底解明 - PR TIMES",
+      "summary": "100名アンケートによるエラボトックス利用実態。30代が最多ユーザー層で、施術頻度・費用・製剤選択・満足度のデータ報告。",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01Z0t6Y2ZpUUF4THBYeWRUV1I2eGxlWTRTZUlHZGgtX09DcjBNakVqRk9HU1M3alQwNERVZEFQLVpBU2tJLTVILXJuSUV6dnpaVU9rWUlWcWlWRi1LdjJZQVZfUVhtQjJ6a0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01Z0t6Y2ZpUUF4THBYeWRUV1I2eGxlWTRTZUlHZGgtX09DcjBNakVqRk9HU1M3alQwNERVZEFQLVpBU2tJLTVILXJuSUV6dnpaVU9rWUlWcWlWRi1LdjJZQVZfUVhtQjJ6a0E?oc=5",
+      "source_name": "PR TIMES",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-20T18:46:17+0900",
+      "status": "candidate",
+      "created_at": "2026-11-15T18:46:17+0900"
+    },
     {
       "seed_id": "seed_da13155807fb",
       "trend_term": "沖縄の美容医療拡大",
@@ -319,24 +355,6 @@
       "created_at": "2026-11-12T11:24:20+0900"
     },
     {
-      "seed_id": "seed_dd445d9fb5b2",
-      "trend_term": "粗悪品ボトックスのリスク",
-      "raw_title": "粗悪品ボトックスとバイオテロ - 日経サイエンス",
-      "summary": "粗悪品ボトックスと健康被害の関連を科学的に検証。読者の施術選択時の安全性判断に直結する情報。",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WVzBTdEVzUTdJREx2czQyd0NMODNwS04ySnVhWFNDaUNGQllKVFhYZTZORU1lMl9VTmM3eUlmci0tUUl3Q2s1MFpQVWdhWXFLLTdtY1BzOURjV3gyOGtmcUswM1NmaUpSRUFzVXN6RXkyV2M?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WVzBTdEVzUTdJREx2czQyd0NMODNwS04ySnVhWFNDaUNGQllKVFhYZTZORU1lMl9VTmM3eUlmci0tUUl3Q2s1MFpQVWdhWXFLLTdtY1BzOURjV3gyOGtmcUswM1NmaUpSRUFzVXN6RXkyV2M?oc=5",
-      "source_name": "日経サイエンス",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "safety_claim",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-17T11:24:20+0900",
-      "status": "candidate",
-      "created_at": "2026-11-12T11:24:20+0900"
-    },
-    {
       "seed_id": "seed_3f66f5807bfd",
       "trend_term": "地方美容外科の新規開院",
       "raw_title": "枚方市駅ちかくに「マイヴィア クリニック」って形成外科・美容外科ができるみたい。1月開院予定 - 枚方つーしん",
@@ -425,24 +443,6 @@
       "valid_until": "2026-11-15T19:14:26+0900",
       "status": "candidate",
       "created_at": "2026-11-10T19:14:26+0900"
-    },
-    {
-      "seed_id": "seed_30cf2c2b689a",
-      "trend_term": "美容施術による医療事故",
-      "raw_title": "「回復速度が遅くなり不安」美容施術で火傷した元人気アイドル、医療事故の深刻さを吐露 | スマートニュース - SmartNews",
-      "summary": "美容施術による火傷事故で回復が遅延するケースが発生。実被害者の証言から医療事故のリスク・治癒の不確実性が明らかに。",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mZE1zZ2tTb1hucDg4SVp4bVFHb2pTTkpKYnY2MkUwdlJEZUdRalgxWURLMllfWGswa3VuOUp5UWUxZkJnbDMza0VEdHRoT0w4cmZEb3lodlFudEtfWFZuVjVmZzFwM2tqT1E?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mZE1zZ2tTb1hucDg4SVp4bVFHb2pTTkpKYnY2MkUwdlJEZUdRalgxWURLMllfWGswa3VuOUp5UWUxZkJnbDMza0VEdHRoT0w4cmZEb3lodlFudEtfWFZuVjVmZzFwM2tqT1E?oc=5",
-      "source_name": "SmartNews",
-      "monitor_id": "bm-safety-news",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-15T12:44:37+0900",
-      "status": "candidate",
-      "created_at": "2026-11-10T12:44:37+0900"
     },
     {
       "seed_id": "seed_c460f81c81eb",
