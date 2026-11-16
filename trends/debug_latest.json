@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T02:29:00+09:00",
+  "generated_at": "2026-11-17T07:34:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,31 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 11,
+    "neg_excluded": 8,
     "dedup_excluded": 10,
-    "passed_total": 111,
+    "passed_total": 114,
     "b2b_category_counts": {
       "yahoo_realtime": 35,
       "google_trends": 10,
       "news_web": 17,
-      "x_realtime": 7,
-      "yahoo_news_ranking": 1
+      "x_realtime": 8
     }
   },
   "note_category_counts": {
-    "medical_science": 7,
-    "social_reaction": 30,
+    "social_reaction": 29,
+    "medical_science": 5,
     "opinion": 10,
-    "personal_story": 1,
-    "policy": 3,
+    "personal_story": 3,
+    "policy": 4,
     "hard_fact": 19
   },
   "b2b_topic_category_counts": {
-    "medical_science": 5,
+    "medical_science": 2,
+    "hard_fact": 21,
+    "policy": 5,
     "opinion": 10,
-    "hard_fact": 20,
-    "policy": 4,
-    "social_reaction": 30,
-    "personal_story": 1
+    "social_reaction": 29,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
@@ -51,10 +50,10 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "大雪",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "近鉄、特急の特別車両を値上げ　ひのとり・プレミアムやしまかぜなど - 日本経済新",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
     },
     {
       "title": "日本の消費「コロナ前」下回る　四半世紀で1割増どまり、米欧と格差 - 日本経済新",
@@ -69,37 +68,37 @@
       "topic_category": "policy"
     },
     {
+      "title": "nvda",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "福岡天気",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
       "title": "卵サンドつかむ客動画炎上 店説明",
       "source_category": "news_web",
       "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "toloveる",
+      "title": "広島 天気",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "cdtvライブライブ",
+      "title": "アンソロピック 上場",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "「反動ですかね」ゲームやお菓子などを禁止した厳しい家庭の娘さんが大学在学中から家",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ブライトン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ウォロディミル・ゼレンスキー",
+      "title": "日経ヴェリタス",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,28 +106,16 @@
   ],
   "note_top10": [
     {
+      "title": "高校の時に帰宅したら母がパスタを茹でていた…タイマーが鳴ったタイミングで「あとは",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "〝厄介〟な性感染症、尖圭コンジローマの男性患者が増加　HPVワクチンでの予防呼び",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "medical_science"
-    },
-    {
-      "title": "「反動ですかね」ゲームやお菓子などを禁止した厳しい家庭の娘さんが大学在学中から家",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "大雪",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "「全部言いました！！！」事務所のお笑いライブが取り置きじゃないと出演者にお金が入",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
     },
     {
       "title": "名古屋で泊まった激安ホテル、出入口が狭すぎるしベッドも小さすぎて布団が折られてい",
@@ -137,33 +124,45 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本人は鮮魚のカルパッチョとかいう、刺身にドレッシングかけて野菜と食べる料理を発",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "初星学園 「メタモルフォーゼ」Official Music Video (HAT",
+      "title": "「反動ですかね」ゲームやお菓子などを禁止した厳しい家庭の娘さんが大学在学中から家",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "お父さんには同志社辞めるのは本当にやめた方がいいと止められた。社会に出るのが怖い",
+      "title": "nvda",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "福岡天気",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "金髪美少女アニメ『楽園追放(2014)』がすごく良かった - シロクマの屑籠",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "はやぶさ2、目的地を変更　エンジン不具合、新たな小惑星へ：朝日新聞",
+      "title": "79歳アーノルド・シュワルツェネッガー『コマンドー』『プレデター』『コナン』続編",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「僕が書いたのは30000なんだけど、あなた3としか書いてない」翻訳過程を見てい",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "ゾンビたばこ処分不服で広島球団に要請書　矢野雅哉、前川誠太、田村俊介の代理人弁護",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "なぜ「神功皇后陵」と呼べないのか　奈良大で「天皇陵の近世近代」展：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
