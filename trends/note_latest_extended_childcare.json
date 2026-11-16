@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-16T16:39:30+09:00",
- "valid_until": "2026-11-30T16:36:49+09:00",
+ "generated_at": "2026-11-17T06:28:46+09:00",
+ "valid_until": "2026-12-01T06:26:33+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "childcare",
   "from_current": 16,
-  "from_new": 10,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 9,
+  "retention_dropped": 1,
   "genres": 2,
   "retention_per_genre": 8
  },
@@ -258,6 +258,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "職場への妊娠報告はいつ・誰に・どう伝える？ 先輩の体験と、体調がつらいときに使える制度｜ニンプス",
+   "url": "https://ninps.com/workstyle/work/archives/1",
+   "summary": "妊娠初期のつわり中に、職場へいつ誰にどう報告するか迷う人向けの体験談と、体調がつらいときに使える制度の紹介記事。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "childcare-pregnancy",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "ニンプス",
+    "expert_origin": false,
+    "search_query": "妊娠初期 仕事 会社 いつ報告 つわり 知恵袋 マタハラ 不安",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-12-01T06:26:33+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "医療保険制度における出産に対する支援の強化について（第218回社会保障審議会医療保険部会 資料2）",
    "url": "https://www.mhlw.go.jp/content/12401000/001759823.pdf",
    "summary": "標準的な出産費用の自己負担を無償化する方針。法の施行は原則令和9年4月1日。国が基本単価を定め保険者から施設へ直接支払い、全妊婦に定額の現金給付。給付水準は令和8年12月頃にまとめる予定。当面は施設単位で現行の出産育児一時金（原則50万円）の選択も可。（本文確認済）",
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-11-23T06:27:02+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "里帰り出産の準備について教えて - 浜松市子育て情報サイト ぴっぴ",
-   "url": "https://www.hamamatsu-pippi.net/sodan/hamasukuqa/hamasukuqa-list/11515.html",
-   "summary": "里帰り出産をするとき、何をいつ準備すればよいか分からないという相談。転院や健診費用の扱いなど、下流の「で、自分はどうすればいい」の疑問の種。角度の種として扱う。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "childcare-pregnancy",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "浜松市子育て情報サイト ぴっぴ",
-    "expert_origin": false,
-    "search_query": "妊娠 届出 後 何から準備 里帰り出産 費用 分からない 知恵袋",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-11-22T06:26:35+09:00",
    "validity_days": 14
   }
  ]
