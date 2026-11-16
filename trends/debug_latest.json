@@ -1,166 +1,165 @@
 {
-  "generated_at": "2026-11-16T10:22:00+09:00",
+  "generated_at": "2026-11-16T17:36:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
-    "yahoo_realtime": "ok",
+    "yahoo_realtime": "error",
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 92,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 8,
-    "passed_total": 105,
+    "neg_excluded": 6,
+    "dedup_excluded": 6,
+    "passed_total": 80,
     "b2b_category_counts": {
-      "news_web": 20,
-      "yahoo_realtime": 25,
       "google_trends": 10,
+      "news_web": 35,
       "x_realtime": 10,
-      "yahoo_news_ranking": 5
+      "yahoo_news_ranking": 15
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
-    "personal_story": 3,
-    "opinion": 9,
-    "hard_fact": 22,
-    "policy": 8,
-    "medical_science": 2
+    "personal_story": 1,
+    "social_reaction": 9,
+    "opinion": 10,
+    "hard_fact": 44,
+    "medical_science": 2,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 24,
-    "policy": 8,
-    "social_reaction": 26,
-    "opinion": 9,
-    "personal_story": 3
+    "opinion": 10,
+    "hard_fact": 43,
+    "personal_story": 1,
+    "social_reaction": 9,
+    "policy": 6,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "7-9月期実質GDP 4期ぶりマイナス",
+      "title": "朝乃山",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "義ノ富士",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "プレイド",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "懸賞金",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "キリン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "若元春",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "小岩 火事",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "小川智大",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "TOBE 年内でISSEIとの契約終了",
       "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
+      "raw_source_key": "yahoo_news_entertainment",
       "topic_category": "hard_fact"
     },
     {
-      "title": "安倍元首相の銅像建立　東郷神社で除幕式　昭恵さんら参列　福岡・福津",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "ハンズ渋谷店営業終了 48年の歴史に幕 別れ惜しむ人でにぎわう | NHKニュー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ハンズ渋谷店、48年余りの営業に幕　雨の中…拍手とともに「ありがとう」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "反戦界隈が炎上している話｜源",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「母さんが老人ホームに入ったので、人生終了です…」84歳母の年金月22万円で養わ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ブラッサム",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "辻 希美",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ディラン・ハーパー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "橋本帆乃香",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "高齢の夫婦二人でやっていた町中華が有名なブロガーの「関東で行くべき町中華ランキン",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
     }
   ],
   "note_top10": [
     {
-      "title": "ハンズ渋谷店営業終了 48年の歴史に幕 別れ惜しむ人でにぎわう | NHKニュー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "高齢の夫婦二人でやっていた町中華が有名なブロガーの「関東で行くべき町中華ランキン",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
     },
     {
-      "title": "ハンズ渋谷店、48年余りの営業に幕　雨の中…拍手とともに「ありがとう」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "反戦界隈が炎上している話｜源",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「母さんが老人ホームに入ったので、人生終了です…」84歳母の年金月22万円で養わ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "部署異動してきた後輩に｢教える事いっぱいあるからちょっと早く出社してね｣と伝えた",
+      "title": "芸能に疎いのだが、「モナキ」メンバーの一人が千葉大工学部大学院を首席卒業、一級建",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "この写真のクレープを注文して出てきたのがこちら「なんだこのアルフォートは！？？」",
+      "title": "泣ける話だけれどオタクの歴史や死後のプライバシー問題にまで！？『探偵！ナイトスク",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "『スーパーカップ』の商標権ってどうなってるんだろうと思ったらそういうことだったん",
+      "title": "去年亡くなった祖父がよく買ってきていたくず餅をうまいなぁとしみじみ食べていたら、",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "習い事で休日がなくて友達とお出かけが許されず、機嫌によって予定がなくなり、真剣な",
+      "title": "「なんでパンどろぼうって名前にしてくれなかったの！」と激怒する娘に「パパとママを",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "2,000円を払って応募すれば誰でも出られるM-1グランプリで、舞台上で下半身露",
+      "title": "何となくLOFTで買って以来ずーーっと車の鍵につけてるチタン製うさぎキーホルダー",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "6歳児に「光に引っかかるのと、闇に堕ちるの、どっちがいい？」と聞かれ、選べるか尋",
+      "title": "ディズニーが有料で優先的に乗れるチケットをUSJのように事前販売しないことに疑問",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「キャラのコスプレではキャラ再現に不必要だからレイヤーの個性は殺す」確かに日本で",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【追記】部署異動してきた後輩に｢教える事いっぱいあるからちょっと早く出社してね｣",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "古着屋でコートを買ったら「購入後の返品交換は一切できませんが本当に大丈夫ですか？",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
