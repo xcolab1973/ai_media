@@ -1,165 +1,167 @@
 {
-  "generated_at": "2026-11-16T17:36:00+09:00",
+  "generated_at": "2026-11-17T02:29:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
-    "yahoo_realtime": "error",
+    "yahoo_realtime": "ok",
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 92,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 6,
-    "passed_total": 80,
+    "neg_excluded": 11,
+    "dedup_excluded": 10,
+    "passed_total": 111,
     "b2b_category_counts": {
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "news_web": 35,
-      "x_realtime": 10,
-      "yahoo_news_ranking": 15
+      "news_web": 17,
+      "x_realtime": 7,
+      "yahoo_news_ranking": 1
     }
   },
   "note_category_counts": {
-    "personal_story": 1,
-    "social_reaction": 9,
+    "medical_science": 7,
+    "social_reaction": 30,
     "opinion": 10,
-    "hard_fact": 44,
-    "medical_science": 2,
-    "policy": 4
+    "personal_story": 1,
+    "policy": 3,
+    "hard_fact": 19
   },
   "b2b_topic_category_counts": {
+    "medical_science": 5,
     "opinion": 10,
-    "hard_fact": 43,
-    "personal_story": 1,
-    "social_reaction": 9,
-    "policy": 6,
-    "medical_science": 1
+    "hard_fact": 20,
+    "policy": 4,
+    "social_reaction": 30,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "朝乃山",
+      "title": "〝厄介〟な性感染症、尖圭コンジローマの男性患者が増加　HPVワクチンでの予防呼び",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "大雪",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "義ノ富士",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "プレイド",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "懸賞金",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "キリン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "若元春",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "小岩 火事",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "小川智大",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "TOBE 年内でISSEIとの契約終了",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_entertainment",
+      "title": "日本の消費「コロナ前」下回る　四半世紀で1割増どまり、米欧と格差 - 日本経済新",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
     },
     {
-      "title": "高齢の夫婦二人でやっていた町中華が有名なブロガーの「関東で行くべき町中華ランキン",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
+      "title": "立民・水岡代表、高市内閣の高支持率を疑問視「信じられない」「ちょっと理解できない",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "卵サンドつかむ客動画炎上 店説明",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "toloveる",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "cdtvライブライブ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「反動ですかね」ゲームやお菓子などを禁止した厳しい家庭の娘さんが大学在学中から家",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ブライトン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ウォロディミル・ゼレンスキー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "高齢の夫婦二人でやっていた町中華が有名なブロガーの「関東で行くべき町中華ランキン",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "〝厄介〟な性感染症、尖圭コンジローマの男性患者が増加　HPVワクチンでの予防呼び",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "「反動ですかね」ゲームやお菓子などを禁止した厳しい家庭の娘さんが大学在学中から家",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "大雪",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "「全部言いました！！！」事務所のお笑いライブが取り置きじゃないと出演者にお金が入",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "芸能に疎いのだが、「モナキ」メンバーの一人が千葉大工学部大学院を首席卒業、一級建",
+      "title": "名古屋で泊まった激安ホテル、出入口が狭すぎるしベッドも小さすぎて布団が折られてい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "日本人は鮮魚のカルパッチョとかいう、刺身にドレッシングかけて野菜と食べる料理を発",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "泣ける話だけれどオタクの歴史や死後のプライバシー問題にまで！？『探偵！ナイトスク",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "初星学園 「メタモルフォーゼ」Official Music Video (HAT",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "去年亡くなった祖父がよく買ってきていたくず餅をうまいなぁとしみじみ食べていたら、",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "お父さんには同志社辞めるのは本当にやめた方がいいと止められた。社会に出るのが怖い",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「なんでパンどろぼうって名前にしてくれなかったの！」と激怒する娘に「パパとママを",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "はやぶさ2、目的地を変更　エンジン不具合、新たな小惑星へ：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "何となくLOFTで買って以来ずーーっと車の鍵につけてるチタン製うさぎキーホルダー",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ディズニーが有料で優先的に乗れるチケットをUSJのように事前販売しないことに疑問",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「キャラのコスプレではキャラ再現に不必要だからレイヤーの個性は殺す」確かに日本で",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【追記】部署異動してきた後輩に｢教える事いっぱいあるからちょっと早く出社してね｣",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "古着屋でコートを買ったら「購入後の返品交換は一切できませんが本当に大丈夫ですか？",
+      "title": "「僕が書いたのは30000なんだけど、あなた3としか書いてない」翻訳過程を見てい",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
