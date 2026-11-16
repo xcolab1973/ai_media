@@ -2,8 +2,8 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-15T23:56:00+0900",
-    "record_count": 29,
+    "generated_at": "2026-11-16T10:19:48+0900",
+    "record_count": 28,
     "source_total_in_db": 1716,
     "provenance_breakdown": {
       "evidence": 1109,
@@ -479,24 +479,6 @@
       "valid_until": "2026-11-16T18:44:31+0900",
       "status": "candidate",
       "created_at": "2026-11-11T18:44:31+0900"
-    },
-    {
-      "seed_id": "seed_497ceea7b8d1",
-      "trend_term": "再生医療発想コスメ",
-      "raw_title": "【美容賢者が選ぶ「2026年傑作コスメ」】「クレ・ド・ポー ボーテ」“再生医療”発想で肌老化に挑む恒久的名品クリームをご紹介 - Precious.jp",
-      "summary": "美容賢者が選ぶ2026年傑作コスメとして、再生医療発想で肌老化に対応するクリーム商品が紹介されている。",
-      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mZXQ1cUhhSjZ1QTlEVmNWeTdicllxalM1VFEtMWhndnpPel9rRXIyN3VpZHhqazNlUl94d2lwbldoZi1XbGZhTGtFLVA?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mZXQ1cUhhSjZ1QTlEVmNWeTdicllxalM1VFEtMWhndnpPel9rRXIyN3VpZHhqazNlUl94d2lwbldoZi1XbGZhTGtFLVA?oc=5",
-      "source_name": "Precious.jp",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-16T00:43:57+0900",
-      "status": "candidate",
-      "created_at": "2026-11-11T00:43:57+0900"
     },
     {
       "seed_id": "seed_c460f81c81eb",
