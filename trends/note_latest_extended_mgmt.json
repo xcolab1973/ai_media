@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-17T06:28:47+09:00",
- "valid_until": "2026-11-30T06:29:30+09:00",
+ "generated_at": "2026-11-17T20:40:56+09:00",
+ "valid_until": "2026-12-01T20:38:50+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "mgmt",
   "from_current": 24,
-  "from_new": 0,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 0,
+  "retention_dropped": 1,
   "genres": 3,
   "retention_per_genre": 8
  },
@@ -498,6 +498,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "評価面談と1on1を分けない限り、部下は絶対に本音を話さない",
+   "url": "https://note.com/deep_camel5792/n/nf77a0c72d95c",
+   "summary": "発言が評価に使われると感じると部下は本音を話さなくなる。1on1のメモを評価会議に持ち込まない、冒頭で非評価の方針を明示する、などで分けるのが対策という実務者の見解。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "mgmt-orga",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "note",
+    "expert_origin": true,
+    "search_query": "組織 1on1 年末 評価面談 管理職 悩み 2026",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-12-01T20:38:50+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "人事が知るべき法改正[2026年・2027年]｜人事のミカタ",
    "url": "https://partners.en-japan.com/special/251119/",
    "summary": "2026〜2027年の人事労務の法改正一覧。カスハラ対策義務化、2027年以降の労基法大改正（勤務間インターバル、14日以上連続勤務の禁止等）が議論項目として挙がる。2025年11月公開のため最新状況は要確認（本文確認済）。",
@@ -704,36 +734,6 @@
     "rescued": false
    },
    "valid_until": "2026-11-29T16:42:20+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "【2026年10月更新版】106万円の壁がついに撤廃へ｜130万円の壁とあわせて人事が今すぐ動くべきこと",
-   "url": "https://www.hrm-co.jp/knowledge/income-threshold_2/",
-   "summary": "106万円の壁の賃金要件（月額8.8万円以上）は2026年10月1日に撤廃。現在は従業員51人以上の企業が対象で、36〜50人規模は2027年10月から対象。50人以下は当面130万円の壁が分かれ目。人事は周知、募集枠の分離（週20時間未満/以上）、労働条件通知書の確認、人件費試算が必要。（本文確認済）",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "hard_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "mgmt-orga",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "HRM",
-    "expert_origin": true,
-    "search_query": "年末賞与 支給 2026 中小企業 社会保険 106万円の壁撤廃 パート 人事 対応 従業員への説明",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-11-25T16:37:05+09:00",
    "validity_days": 14
   }
  ]

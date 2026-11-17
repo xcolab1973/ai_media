@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T06:28:46+09:00",
+ "generated_at": "2026-11-17T20:40:56+09:00",
  "valid_until": "2026-11-30T06:29:13+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -8,14 +8,44 @@
  "total_count": 19,
  "merge": {
   "parent": "biz",
-  "from_current": 18,
-  "from_new": 2,
+  "from_current": 19,
+  "from_new": 1,
   "expired_pruned": 0,
   "retention_dropped": 1,
   "genres": 3,
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "【完全ガイド】ネットショップのよくあるクレーム事例と対応方法は？予防策から解決法まで｜楽天市場出店",
+   "url": "https://www.rakuten.co.jp/ec/start/netshop_complaint/",
+   "summary": "ネットショップで起きやすいクレーム事例と、予防策・対応の流れを解説した楽天市場出店向けガイド。年末繁忙期の遅延・誤配への備えの参考になる。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "biz-ec-shop",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "楽天市場出店",
+    "expert_origin": true,
+    "search_query": "ネットショップ ブラックフライデー 年末 返品 クレーム 個人運営 対策 2026",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-11-22T20:38:14+09:00",
+   "validity_days": 5
+  },
   {
    "source_category": "news_web",
    "raw_title": "クレームについて、相談させてください。ネットショップの運営をしている者... - Yahoo!知恵袋",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-11-18T16:37:11+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "Amazonが年末の返品期限延長を毎年実施へ ― ECが1月まで利益を見誤らない設計",
-   "url": "https://recustomer.me/blog/news-amazon-annual-holiday-return-window",
-   "summary": "米Amazon.comの発表で、11/1〜12/31購入分の返品期限は2027年1月31日まで。日本のAmazon.co.jpに同条件が適用されるとは限らない。年末売上は返品調整後の粗利で評価する必要がある、という考え方（本文確認済）",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "biz-ec-shop",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "recustomer",
-    "expert_origin": false,
-    "search_query": "EC事業者 年末 返品 繁忙期 ネットショップ 売上",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-11-18T14:12:42+09:00",
    "validity_days": 5
   },
   {
