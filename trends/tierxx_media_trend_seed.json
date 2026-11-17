@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-17T19:59:11+0900",
-    "record_count": 21,
-    "source_total_in_db": 1719,
+    "generated_at": "2026-11-18T02:00:35+0900",
+    "record_count": 20,
+    "source_total_in_db": 1720,
     "provenance_breakdown": {
-      "evidence": 1112,
+      "evidence": 1113,
       "pain_seed": 607
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_6c1f50c5f17a",
+      "trend_term": "ECMスキンブースター",
+      "raw_title": "韓国美容で注目の「ECMスキンブースター」とは？ベンスクリニックが「TISSIVO（ティシボ）」を10月より導入 - PR TIMES",
+      "summary": "ベンスクリニックが韓国美容由来の「ECMスキンブースター」技術を用いた「TISSIVO」を10月より導入。新しい美容医療機器の提供開始。",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00MFZEYnJ2ZU10YW1OcG9XaGVwRVFvdHI0UEdXZHlULUhhYUREdkEwODU5b2hSRDhPMkNubFptRnduWEdURGJwOVBWTnpnZ3NSc0FhS2RiNVFhbnVjbHpaTzhnOGFzNUF1cXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00MFZEYnJ2ZU10YW1OcG9XaGVwRVFvdHI0UEdXZHlULUhhYUREdkEwODU5b2hSRDhPMkNubFptRnduWEdURGJwOVBWTnpnZ3NSc0FhS2RiNVFhbnVjbHpaTzhnOGFzNUF1cXc?oc=5",
+      "source_name": "PR TIMES",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-23T02:00:18+0900",
+      "status": "candidate",
+      "created_at": "2026-11-18T02:00:18+0900"
+    },
     {
       "seed_id": "seed_d71a567dd97c",
       "trend_term": "幹細胞エクソソーム薄毛治療",
@@ -353,42 +371,6 @@
       "valid_until": "2026-11-18T11:02:24+0900",
       "status": "candidate",
       "created_at": "2026-11-13T11:02:24+0900"
-    },
-    {
-      "seed_id": "seed_b1cb722b4d05",
-      "trend_term": "耐性リスク低減ボトックス",
-      "raw_title": "【ベンスクリニック新宿院】韓国美容医療で注目の「耐性リスクを抑えたボトックス治療」導入予定 - PR TIMES",
-      "summary": "韓国美容医療で注目される耐性リスクを抑えたボトックス治療。ベンスクリニック新宿院で導入予定。反復注射による効果減弱への対策として機能。",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lQU9vcWRrWEN5SmFNQlM0Zlp4TExwZ2ltR2p5U2MyMDZUcGZzQ3Y4azVSc3ZKcDAzRzNUOTVGNmZfVHpuN0Q4aHdPV0Y0c1JxNV9BZjg2T2VqUFdfRE5TSjNiM0ZKSGpxR3c?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lQU9vcWRrWEN5SmFNQlM0Zlp4TExwZ2ltR2p5U2MyMDZUcGZzQ3Y4azVSc3ZKcDAzRzNUOTVGNmZfVHpuN0Q4aHdPV0Y0c1JxNV9BZjg2T2VqUFdfRE5TSjNiM0ZKSGpxR3c?oc=5",
-      "source_name": "PR TIMES",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-18T01:08:17+0900",
-      "status": "candidate",
-      "created_at": "2026-11-13T01:08:17+0900"
-    },
-    {
-      "seed_id": "seed_c460f81c81eb",
-      "trend_term": "症例数と技術力",
-      "raw_title": "高い技術と圧倒的症例数、患者の安全を第一に考える「大阪雅美容外科」 - TOKYO HEADLINE",
-      "summary": "患者が医院選定時に重視する「技術」「症例数」「安全性」の3要素が可視化されている",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKbm4wZDA5UENOVzZlNWtMdDRaNVQzSXgyem04R2RwbnRVWm1TRWdnemI1REdDM2k1Y0NhaE12UU12MnVfOEhoaFVsLU5NTG5RbWdSNFlwRDVKUnM0Z3E1SG5HMEFtRDJaQXprb2NES0dGQQ?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKbm4wZDA5UENOVzZlNWtMdDRaNVQzSXgyem04R2RwbnRVWm1TRWdnemI1REdDM2k1Y0NhaE12UU12MnVfOEhoaFVsLU5NTG5RbWdSNFlwRDVKUnM0Z3E1SG5HMEFtRDJaQXprb2NES0dGQQ?oc=5",
-      "source_name": "TOKYO HEADLINE",
-      "monitor_id": "bm-safety-news",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "evergreen",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-18T00:25:54+0900",
-      "status": "candidate",
-      "created_at": "2026-11-04T00:25:54+0900"
     }
   ]
 }
