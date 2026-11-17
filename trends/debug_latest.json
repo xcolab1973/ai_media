@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T18:44:00+09:00",
+  "generated_at": "2026-11-18T02:05:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,38 +16,54 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 10,
-    "passed_total": 112,
+    "neg_excluded": 3,
+    "dedup_excluded": 12,
+    "passed_total": 117,
     "b2b_category_counts": {
+      "yahoo_realtime": 38,
       "x_realtime": 7,
-      "yahoo_realtime": 35,
-      "yahoo_news_ranking": 4,
       "google_trends": 10,
-      "news_web": 14
+      "news_web": 13,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 27,
-    "personal_story": 3,
-    "medical_science": 6,
+    "social_reaction": 29,
     "opinion": 10,
-    "policy": 6,
-    "hard_fact": 18
+    "hard_fact": 16,
+    "policy": 12,
+    "medical_science": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 27,
-    "hard_fact": 18,
-    "policy": 7,
+    "social_reaction": 29,
+    "hard_fact": 16,
     "opinion": 10,
-    "personal_story": 3,
-    "medical_science": 5
+    "policy": 12,
+    "medical_science": 3
   },
   "b2b_top10": [
     {
-      "title": "ゴールデンボンバー・鬼龍院翔さん「1人で居酒屋行って食べながら自分のNinten",
+      "title": "銭湯で子供を走らせないよう親にお願いしたが、「子供が走るのは当たり前だ」「お前は",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「先ほど、ネタ中に退席された常連のお客様を出禁としました」下北の入場無料のお笑い",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "台風で美容院側からキャンセルを頼まれたのに、次の来店で「当日キャンセルは控えて」",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "「反戦○○部」共産党支持層が統一教会と同じテクニックを使い始めた｜女子大生起業家",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -57,49 +73,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "アズールレーン炎上前から「内診台をエロネタで使い、しかも全年齢でゾーニングせず公",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "枚方市の3歳児虐待死、5回にわたって虐待報告をした保育園の必死さが伝わるだけに、",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「これが私なんですよ」中村うさぎさんが年金未納だったことにより現在の生活に苦労し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "abematv",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "駅そばを倍に値上げ 決断した75歳",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "コントレックスを購入して硬水でダージリンを淹れる実験の結果「欧州の人達ズルくない",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "政府広報に都市伝説系ユーチューバーを起用で物議 | NHKニュース",
+      "title": "あ、テレビ番組予算削減されてるんだなって思う瞬間…平成までと令和以降で比べてみた",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "楽天証券 不正アクセス",
+      "title": "miss",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "斎藤佑樹",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "石川 さゆり",
+      "title": "ますだおかだ 岡田",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,19 +105,31 @@
   ],
   "note_top10": [
     {
+      "title": "銭湯で子供を走らせないよう親にお願いしたが、「子供が走るのは当たり前だ」「お前は",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「先ほど、ネタ中に退席された常連のお客様を出禁としました」下北の入場無料のお笑い",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "反戦サッカー部はサッカーファンなのか（鳥海不二夫） - エキスパート - Yah",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ゴールデンボンバー・鬼龍院翔さん「1人で居酒屋行って食べながら自分のNinten",
+      "title": "枚方市の3歳児虐待死、5回にわたって虐待報告をした保育園の必死さが伝わるだけに、",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "アズールレーン炎上前から「内診台をエロネタで使い、しかも全年齢でゾーニングせず公",
+      "title": "「反戦○○部」共産党支持層が統一教会と同じテクニックを使い始めた｜女子大生起業家",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -131,39 +141,27 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "先月末、不登校の高校生が我が家の自営業の体験学習に来たので義両親がうまく対応、笑",
+      "title": "新宿駅はむずかしすぎるため鳩ですら迷宮入りしている、本当にあり得ない駅「ここで産",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "コントレックスを購入して硬水でダージリンを淹れる実験の結果「欧州の人達ズルくない",
+      "title": "日本在住のドイツ人と日本人の入浴習慣について「時間と水とエネルギーの無駄と環境汚",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "海洋恐怖症ってあまりピンと来ないタイプだけど、「珍しい個体だと思われていたダイオ",
+      "title": "交際経験0回、性交経験1回のアラサー",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "中3で潰瘍性大腸炎が発覚、高校入学後に担任に呼び出され「あの病気ちょっと調べたん",
+      "title": "「答える必要ない」情報隊文書問題で小泉防衛相　開示請求にも応じず：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ロシアが外国のインフルエンサーを招いて占領地周遊ツアーを開催し占領を正当化するプ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "猫のあるある行動「ドア開けろ」って言ってくるのに開けると入らない→有猫者による解",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
