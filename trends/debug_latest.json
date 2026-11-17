@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T07:34:00+09:00",
+  "generated_at": "2026-11-17T13:09:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,89 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 10,
-    "passed_total": 114,
+    "neg_excluded": 10,
+    "dedup_excluded": 11,
+    "passed_total": 111,
     "b2b_category_counts": {
       "yahoo_realtime": 35,
+      "x_realtime": 6,
       "google_trends": 10,
-      "news_web": 17,
-      "x_realtime": 8
+      "news_web": 15,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "medical_science": 5,
-    "opinion": 10,
-    "personal_story": 3,
-    "policy": 4,
-    "hard_fact": 19
+    "social_reaction": 26,
+    "medical_science": 6,
+    "personal_story": 2,
+    "opinion": 9,
+    "policy": 7,
+    "hard_fact": 20
   },
   "b2b_topic_category_counts": {
-    "medical_science": 2,
-    "hard_fact": 21,
-    "policy": 5,
-    "opinion": 10,
-    "social_reaction": 29,
-    "personal_story": 3
+    "medical_science": 4,
+    "social_reaction": 26,
+    "policy": 7,
+    "opinion": 9,
+    "hard_fact": 22,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "〝厄介〟な性感染症、尖圭コンジローマの男性患者が増加　HPVワクチンでの予防呼び",
+      "title": "無料日本語入力アプリ「Meltype」v1.6.0が公開、すべてのOSで漢字変換",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "medical_science"
     },
     {
-      "title": "近鉄、特急の特別車両を値上げ　ひのとり・プレミアムやしまかぜなど - 日本経済新",
+      "title": "アズールレーン炎上前から「内診台をエロネタで使い、しかも全年齢でゾーニングせず公",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "日本の消費「コロナ前」下回る　四半世紀で1割増どまり、米欧と格差 - 日本経済新",
+      "title": "文房具売り場にあるペンの試し書き用紙、不快な言葉が書かれていたりするけどCamp",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "立民・水岡代表、高市内閣の高支持率を疑問視「信じられない」「ちょっと理解できない",
+      "title": "「あげぽよ」を世間に知らしめた『egg』元モデルの最期が報道されたが、ギャルの元",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ドイツのホームステイで日本料理を振る舞うことになり、調理して30分ほどでホストマ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "超音波洗浄機を買ってメガネを洗ったら汚さにビビりました→筆やプラモのパーツも洗え",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「いや、流石に刺身にマヨネーズはないだろ！？」刺身を醤油につけて食べる派を怒らせ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "政府広報",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
       "topic_category": "policy"
     },
     {
-      "title": "nvda",
+      "title": "風太くん",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "福岡天気",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "卵サンドつかむ客動画炎上 店説明",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "広島 天気",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "アンソロピック 上場",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "日経ヴェリタス",
+      "title": "スパイダーマン:ブランド・ニュー・デイ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,63 +107,63 @@
   ],
   "note_top10": [
     {
-      "title": "高校の時に帰宅したら母がパスタを茹でていた…タイマーが鳴ったタイミングで「あとは",
+      "title": "アズールレーン炎上前から「内診台をエロネタで使い、しかも全年齢でゾーニングせず公",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "文房具売り場にあるペンの試し書き用紙、不快な言葉が書かれていたりするけどCamp",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「あげぽよ」を世間に知らしめた『egg』元モデルの最期が報道されたが、ギャルの元",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "〝厄介〟な性感染症、尖圭コンジローマの男性患者が増加　HPVワクチンでの予防呼び",
+      "title": "無料日本語入力アプリ「Meltype」v1.6.0が公開、すべてのOSで漢字変換",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "medical_science"
     },
     {
-      "title": "名古屋で泊まった激安ホテル、出入口が狭すぎるしベッドも小さすぎて布団が折られてい",
+      "title": "ドイツのホームステイで日本料理を振る舞うことになり、調理して30分ほどでホストマ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「反動ですかね」ゲームやお菓子などを禁止した厳しい家庭の娘さんが大学在学中から家",
+      "title": "超音波洗浄機を買ってメガネを洗ったら汚さにビビりました→筆やプラモのパーツも洗え",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "nvda",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "福岡天気",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "金髪美少女アニメ『楽園追放(2014)』がすごく良かった - シロクマの屑籠",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「いや、流石に刺身にマヨネーズはないだろ！？」刺身を醤油につけて食べる派を怒らせ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "79歳アーノルド・シュワルツェネッガー『コマンドー』『プレデター』『コナン』続編",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ゾンビたばこ処分不服で広島球団に要請書　矢野雅哉、前川誠太、田村俊介の代理人弁護",
+      "title": "ノンフライヤーでケーキが焼けると知り、りんごパウンドケーキが焼けるか試してみた「",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "なぜ「神功皇后陵」と呼べないのか　奈良大で「天皇陵の近世近代」展：朝日新聞",
+      "title": "『楽園追放 心のレゾナンス』｜2026年11月13日公開",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「接続早々、前の豚が『友だちくるんで』と代表待ち宣言」ラーメン二郎の食レポが同じ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
