@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T06:28:47+09:00",
+ "generated_at": "2026-11-18T06:28:53+09:00",
  "valid_until": "2026-11-30T16:38:54+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -16,6 +16,36 @@
   "retention_per_genre": 8
  },
  "candidates": [
+  {
+   "source_category": "news_web",
+   "raw_title": "海外旅行におすすめの最強クレジットカード11選！手数料や年会費を比較",
+   "url": "https://www.shinnihon-ins.co.jp/content/trip-abroad-credit-card/",
+   "summary": "海外旅行向けカードを手数料や年会費で比べる比較記事。保険会社メディアでPR色がある。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "travel-abroad",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "新日本保険",
+    "expert_origin": false,
+    "search_query": "海外旅行 クレジットカード 海外保険 年末年始 円安 出発前 失敗 つまずき",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": true,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-11-25T06:28:17+09:00",
+   "validity_days": 7
+  },
   {
    "source_category": "news_web",
    "raw_title": "有効残存期間が残り僅か！年末年始も渡航予定あり。年始は残存期間MAXの新パスポートが無いと困る！パスポート切替申請のタイミングを本気で悩む",
@@ -224,36 +254,6 @@
     "rescued": false
    },
    "valid_until": "2026-11-20T14:14:00+09:00",
-   "validity_days": 7
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "海外安全ホームページ（外務省）ETIAS・EES関連",
-   "url": "https://www.mofa.go.jp/mofaj/toko/page4_000122.html",
-   "summary": "令和8年8月26日時点でETIASは未運用で手続き不要、開始時期は未定。導入後は申請料20ユーロ、18歳未満と70歳以上は無料、認証は3年有効（パスポート残存が3年未満ならその期限まで）。（本文確認済）",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "travel-abroad",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "外務省",
-    "expert_origin": true,
-    "search_query": "ETIAS 開始時期 年末年始",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-11-19T06:33:02+09:00",
    "validity_days": 7
   },
   {
