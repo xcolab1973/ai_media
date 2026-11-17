@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T02:05:00+09:00",
+  "generated_at": "2026-11-18T06:23:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -17,26 +17,26 @@
       "x_realtime": 10
     },
     "neg_excluded": 3,
-    "dedup_excluded": 12,
-    "passed_total": 117,
+    "dedup_excluded": 11,
+    "passed_total": 118,
     "b2b_category_counts": {
-      "yahoo_realtime": 38,
+      "yahoo_realtime": 39,
       "x_realtime": 7,
       "google_trends": 10,
-      "news_web": 13,
+      "news_web": 12,
       "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
+    "social_reaction": 30,
     "opinion": 10,
-    "hard_fact": 16,
+    "hard_fact": 15,
     "policy": 12,
     "medical_science": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
-    "hard_fact": 16,
+    "social_reaction": 30,
+    "hard_fact": 15,
     "opinion": 10,
     "policy": 12,
     "medical_science": 3
@@ -49,16 +49,28 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「先ほど、ネタ中に退席された常連のお客様を出禁としました」下北の入場無料のお笑い",
+      "title": "台風で美容院側からキャンセルを頼まれたのに、次の来店で「当日キャンセルは控えて」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "オランダ王国ゼーラント州の海岸ではいっぱいに埋め尽くされた牡蠣が無料で拾い放題…",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "台風で美容院側からキャンセルを頼まれたのに、次の来店で「当日キャンセルは控えて」",
+      "title": "40年間「555円」だった名物そばを、いきなり「1110円」に…《赤字続きの駅食",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「先ほど、ネタ中に退席された常連のお客様を出禁としました」下北の入場無料のお笑い",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "hard_fact"
+      "topic_category": "social_reaction"
     },
     {
       "title": "「反戦○○部」共産党支持層が統一教会と同じテクニックを使い始めた｜女子大生起業家",
@@ -73,31 +85,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "枚方市の3歳児虐待死、5回にわたって虐待報告をした保育園の必死さが伝わるだけに、",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "abematv",
+      "title": "大谷翔平",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "あ、テレビ番組予算削減されてるんだなって思う瞬間…平成までと令和以降で比べてみた",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "miss",
+      "title": "名前ゲーム",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ますだおかだ 岡田",
+      "title": "硫黄島",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -111,7 +111,7 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「先ほど、ネタ中に退席された常連のお客様を出禁としました」下北の入場無料のお笑い",
+      "title": "オランダ王国ゼーラント州の海岸ではいっぱいに埋め尽くされた牡蠣が無料で拾い放題…",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -123,7 +123,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "枚方市の3歳児虐待死、5回にわたって虐待報告をした保育園の必死さが伝わるだけに、",
+      "title": "40年間「555円」だった名物そばを、いきなり「1110円」に…《赤字続きの駅食",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「先ほど、ネタ中に退席された常連のお客様を出禁としました」下北の入場無料のお笑い",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -135,13 +141,13 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "「これが私なんですよ」中村うさぎさんが年金未納だったことにより現在の生活に苦労し",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "枚方市の3歳児虐待死、5回にわたって虐待報告をした保育園の必死さが伝わるだけに、",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "新宿駅はむずかしすぎるため鳩ですら迷宮入りしている、本当にあり得ない駅「ここで産",
+      "title": "「消えた神社を探しに行きます」一度参拝したがその後“消えた神社”を本人が再び見つ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -153,16 +159,10 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "交際経験0回、性交経験1回のアラサー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「答える必要ない」情報隊文書問題で小泉防衛相　開示請求にも応じず：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "大谷翔平",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ]
 }
