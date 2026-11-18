@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T12:07:00+09:00",
+  "generated_at": "2026-11-18T18:09:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,46 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 4,
-    "dedup_excluded": 8,
-    "passed_total": 120,
+    "neg_excluded": 3,
+    "dedup_excluded": 12,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_realtime": 31,
-      "x_realtime": 10,
-      "news_web": 15,
+      "yahoo_realtime": 34,
       "google_trends": 10,
-      "yahoo_news_ranking": 4
+      "x_realtime": 7,
+      "news_web": 14,
+      "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 36,
-    "personal_story": 3,
-    "hard_fact": 14,
-    "opinion": 10,
-    "policy": 3,
-    "medical_science": 4
+    "social_reaction": 31,
+    "personal_story": 5,
+    "opinion": 9,
+    "medical_science": 3,
+    "hard_fact": 19,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 23,
-    "social_reaction": 31,
-    "opinion": 10,
-    "personal_story": 3,
-    "policy": 2,
-    "medical_science": 1
+    "social_reaction": 27,
+    "hard_fact": 24,
+    "opinion": 9,
+    "medical_science": 1,
+    "personal_story": 5,
+    "policy": 4
   },
   "b2b_top10": [
+    {
+      "title": "【解説】ロシアの超富裕層はすでに「プーチン氏以後」の未来を考えている - BBC",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "日刊おもらしニュース | ナルエビちゃんの個人情報漏洩まとめ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "餃子の王将、営業利益42.3％減。5度の値上げで炒飯495円⇨693円に「仕方な",
       "source_category": "yahoo_realtime",
@@ -51,55 +63,43 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "Javaの「Java4Shell」（CVE-2026-114938）をOracl",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "Windowsのフォント管理はこれが便利！ Windows10, 11対応、オー",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "高支持率の理由は｢実績｣ではない…｢いわば高市バブル｣人気の裏で数年後の日本経済",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "キッズ無料期間と知らずにUSJへ…母親と8才くらいの娘さんが白むすびを人気のない",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "「雨ってめっちゃ高いところから落ちてきてるのに当たってもそんなに痛くないのすごく",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "経済損失1.2兆円 男性更年期対策",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "新橋駅前ビル1号館",
+      "title": "大相撲結果",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "詐欺",
+      "title": "相撲結果",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "小渕優子",
+      "title": "藤ノ川",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "クリッパーズ 対 ジャズ",
+      "title": "ヴィニシウスジュニオール",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "長崎市 同姓同名",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,13 +107,13 @@
   ],
   "note_top10": [
     {
-      "title": "Javaの「Java4Shell」（CVE-2026-114938）をOracl",
+      "title": "【解説】ロシアの超富裕層はすでに「プーチン氏以後」の未来を考えている - BBC",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "Windowsのフォント管理はこれが便利！ Windows10, 11対応、オー",
+      "title": "日刊おもらしニュース | ナルエビちゃんの個人情報漏洩まとめ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,43 +125,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "キッズ無料期間と知らずにUSJへ…母親と8才くらいの娘さんが白むすびを人気のない",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「INFOBAR ZERO」をau Flex Styleから12月25日に発売 ",
+      "title": "「雨ってめっちゃ高いところから落ちてきてるのに当たってもそんなに痛くないのすごく",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "auから「INFOBAR ZERO」、通話・SMS専用で復活　12月25日発売",
+      "title": "76年間続いた社会人野球のパナソニックが休部→野球部の廃部を知らせた社長の対応を",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「民主主義の時代は終わった」NZ最大都市の市長、中国の一党支配体制を称賛",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「デスクワークの人これ使ってみてほしい 恐ろしいほど腰が楽だ」みんなのおすすめ姿",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "@tsujimotokiyomi のポスト on X（2026-11-18 13",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "ご老人の学習サークルから、90分6,000円(税込み、交通費込)で講演の依頼があ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "Suicaの新たなイメージキャラクターが決定しました～お客さまから愛称を募集しま",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "母「今月からお小遣いは5千円です」私「やったー！」母「ただし常に千円くらいは次の",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『パスタ界の揖保乃糸』ポジションと言われているBarilla(バリラ)を買って食",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『孤独のグルメ』原作者・久住昌之先生が、井之頭五郎のモデルになる個人輸入業者を1",
+      "title": "日本のように毎日温かいご飯におかずや汁物を用意していたらドイツ人パートナーに「連",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
