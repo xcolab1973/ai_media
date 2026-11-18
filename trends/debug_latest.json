@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T18:09:00+09:00",
+  "generated_at": "2026-11-19T01:43:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,48 +7,54 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 3,
-    "dedup_excluded": 12,
-    "passed_total": 117,
+    "neg_excluded": 6,
+    "dedup_excluded": 11,
+    "passed_total": 105,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
-      "google_trends": 10,
-      "x_realtime": 7,
-      "news_web": 14,
-      "yahoo_news_ranking": 5
+      "yahoo_realtime": 25,
+      "google_trends": 9,
+      "yahoo_news_ranking": 8,
+      "x_realtime": 9,
+      "news_web": 19
     }
   },
   "note_category_counts": {
-    "social_reaction": 31,
-    "personal_story": 5,
+    "social_reaction": 14,
+    "personal_story": 2,
     "opinion": 9,
-    "medical_science": 3,
-    "hard_fact": 19,
-    "policy": 3
+    "medical_science": 9,
+    "hard_fact": 29,
+    "policy": 7
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 27,
-    "hard_fact": 24,
+    "hard_fact": 30,
+    "policy": 8,
+    "social_reaction": 14,
     "opinion": 9,
-    "medical_science": 1,
-    "personal_story": 5,
-    "policy": 4
+    "medical_science": 7,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "【解説】ロシアの超富裕層はすでに「プーチン氏以後」の未来を考えている - BBC",
+      "title": "高速道路でも「ゴミ箱撤去」が加速 SA・PA全国280か所で廃止へ “トイレだけ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "奥田ふみよ議員が「暴走」→女性参考人が“たった一言”でバッサリの瞬間 憲法審査会",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
     },
     {
       "title": "日刊おもらしニュース | ナルエビちゃんの個人情報漏洩まとめ",
@@ -57,49 +63,43 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "餃子の王将、営業利益42.3％減。5度の値上げで炒飯495円⇨693円に「仕方な",
+      "title": "「高市首相が天皇末裔説」発信の陰謀論系ユーチューバーに血税1.5億円…また政府広",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "天気予報 雪",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ドジャース",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "SA・PAのゴミ箱 280カ所で廃止へ",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
       "topic_category": "hard_fact"
     },
     {
-      "title": "高支持率の理由は｢実績｣ではない…｢いわば高市バブル｣人気の裏で数年後の日本経済",
+      "title": "米国のはしか「排除国」認定取り消し ワクチン接種率低下で感染急増：時事ドットコム",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "「ガチャを回すみたいに強盗する」裁判傍聴の民が実際に見てきたトクリュウの実態がし",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「雨ってめっちゃ高いところから落ちてきてるのに当たってもそんなに痛くないのすごく",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "大相撲結果",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "相撲結果",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "藤ノ川",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ヴィニシウスジュニオール",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "長崎市 同姓同名",
+      "title": "土俵入り",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,63 +107,63 @@
   ],
   "note_top10": [
     {
-      "title": "【解説】ロシアの超富裕層はすでに「プーチン氏以後」の未来を考えている - BBC",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "日刊おもらしニュース | ナルエビちゃんの個人情報漏洩まとめ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "高支持率の理由は｢実績｣ではない…｢いわば高市バブル｣人気の裏で数年後の日本経済",
+      "title": "2歳くらいの時、退屈して遊んだマッチの火がこたつカバーに燃え移り、なすすべなく母",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "人工子宮が実現した場合、現在の子宮では「母体が耐えきれないため未熟な状態での出産",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「スターバックスのバリスタの気に障ることをなにかしてしまったみたい…」カタカナの",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "日本のタヌキたちは鯖の塩焼きがこんなに美味しいってどうして教えてくれなかったの？",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "おじさん、おばさん以上を満たすコンテンツが無い問題",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「雨ってめっちゃ高いところから落ちてきてるのに当たってもそんなに痛くないのすごく",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「ガチャを回すみたいに強盗する」裁判傍聴の民が実際に見てきたトクリュウの実態がし",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "76年間続いた社会人野球のパナソニックが休部→野球部の廃部を知らせた社長の対応を",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「民主主義の時代は終わった」NZ最大都市の市長、中国の一党支配体制を称賛",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「デスクワークの人これ使ってみてほしい 恐ろしいほど腰が楽だ」みんなのおすすめ姿",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "@tsujimotokiyomi のポスト on X（2026-11-18 13",
+      "title": "社会人野球部はなんのためにあるのか｜ぬかてぃ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "Suicaの新たなイメージキャラクターが決定しました～お客さまから愛称を募集しま",
+      "title": "長崎市が「同姓同名」に個人情報を誤送付…受取人が他人の住所をThreadsで晒す",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本のように毎日温かいご飯におかずや汁物を用意していたらドイツ人パートナーに「連",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "警察庁、20年間で192万人分のDNA型をデータベース化 名古屋高裁は「人格権の",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
