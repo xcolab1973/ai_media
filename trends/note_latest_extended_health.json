@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-18T06:28:53+09:00",
- "valid_until": "2026-12-02T06:26:51+09:00",
+ "generated_at": "2026-11-19T06:29:37+09:00",
+ "valid_until": "2026-12-03T06:27:13+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "health",
   "from_current": 40,
-  "from_new": 3,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 3,
+  "retention_dropped": 1,
   "genres": 5,
   "retention_per_genre": 8
  },
@@ -258,6 +258,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "飲み会後に眠れないのはなぜ？原因と解決策を徹底解説【知恵袋】",
+   "url": "https://another-log.com/%E9%A3%B2%E3%81%BF%E4%BC%9A%E5%BE%8C%E3%81%AB%E7%9C%A0%E3%82%8C%E3%81%AA%E3%81%84%E3%81%AE%E3%81%AF%E3%81%AA%E3%81%9C%E5%8E%9F%E5%9B%A0%E3%81%A8%E8%A7%A3%E6%B1%BA%E7%AD%96%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%E7%9F%A5%E6%81%B5%E8%A2%8B.html",
+   "summary": "忘年会シーズンに多い、飲酒後に寝つきは良いのに夜中に目が覚める悩み。Q&A起点の生ペイン（角度の種）。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "health-sleep",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "another-log",
+    "expert_origin": false,
+    "search_query": "年末 忘年会 飲酒 寝つき 睡眠 悪い 知恵袋 夜中に目が覚める",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "pain_seed",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-12-03T06:27:13+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "【2026年6月施行】CPAP保険基準が緩和——対象外だった方も再評価のチャンス｜ひろつ内科クリニック",
    "url": "https://hirotsu.clinic/blog/cpap-insurance-criteria-2026-revision/",
    "summary": "2026年6月からCPAPの保険適用基準が緩和。精密検査はAHI20以上から15以上、簡易検査は40以上から30以上に。簡易検査でAHI30以上かつ日中の強い眠気などがあれば外来で導入可。継続には機器でのモニタリングと月1回程度の受診が目安。詳細は厚労省告示の確認を促す記載あり。（本文確認済）",
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-11-25T13:05:34+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "冬の寝室に最適な温度とは？ 快適に眠るための暖房・湿度・空気管理をわかりやすく解説",
-   "url": "https://panasonic.jp/life/air/170125.html",
-   "summary": "冬の寝室は室温15〜20℃・湿度50〜60%が目安。就寝約30分前に暖房を入れて壁や窓を温め、風向きは下向き、サーキュレーターで温度ムラを減らす。寒さで目が覚める場合は設定温度を高めにつけたままにする案内（本文確認済）",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "health-sleep",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Panasonic くらしのアイデア",
-    "expert_origin": false,
-    "search_query": "冬 寒くて夜中に目が覚める 睡眠 対策 暖房 寝室温度 11月",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-11-24T15:26:41+09:00",
    "validity_days": 14
   },
   {
