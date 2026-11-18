@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T06:23:00+09:00",
+  "generated_at": "2026-11-18T12:07:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,88 +16,90 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 3,
-    "dedup_excluded": 11,
-    "passed_total": 118,
+    "neg_excluded": 4,
+    "dedup_excluded": 8,
+    "passed_total": 120,
     "b2b_category_counts": {
-      "yahoo_realtime": 39,
-      "x_realtime": 7,
+      "yahoo_realtime": 31,
+      "x_realtime": 10,
+      "news_web": 15,
       "google_trends": 10,
-      "news_web": 12,
-      "yahoo_news_ranking": 2
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
+    "social_reaction": 36,
+    "personal_story": 3,
+    "hard_fact": 14,
     "opinion": 10,
-    "hard_fact": 15,
-    "policy": 12,
-    "medical_science": 3
+    "policy": 3,
+    "medical_science": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
-    "hard_fact": 15,
+    "hard_fact": 23,
+    "social_reaction": 31,
     "opinion": 10,
-    "policy": 12,
-    "medical_science": 3
+    "personal_story": 3,
+    "policy": 2,
+    "medical_science": 1
   },
   "b2b_top10": [
     {
-      "title": "銭湯で子供を走らせないよう親にお願いしたが、「子供が走るのは当たり前だ」「お前は",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "台風で美容院側からキャンセルを頼まれたのに、次の来店で「当日キャンセルは控えて」",
+      "title": "餃子の王将、営業利益42.3％減。5度の値上げで炒飯495円⇨693円に「仕方な",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "hard_fact"
     },
     {
-      "title": "オランダ王国ゼーラント州の海岸ではいっぱいに埋め尽くされた牡蠣が無料で拾い放題…",
+      "title": "Javaの「Java4Shell」（CVE-2026-114938）をOracl",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "Windowsのフォント管理はこれが便利！ Windows10, 11対応、オー",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "高支持率の理由は｢実績｣ではない…｢いわば高市バブル｣人気の裏で数年後の日本経済",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "キッズ無料期間と知らずにUSJへ…母親と8才くらいの娘さんが白むすびを人気のない",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "40年間「555円」だった名物そばを、いきなり「1110円」に…《赤字続きの駅食",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "経済損失1.2兆円 男性更年期対策",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "「先ほど、ネタ中に退席された常連のお客様を出禁としました」下北の入場無料のお笑い",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「反戦○○部」共産党支持層が統一教会と同じテクニックを使い始めた｜女子大生起業家",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "反戦サッカー部はサッカーファンなのか（鳥海不二夫） - エキスパート - Yah",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "大谷翔平",
+      "title": "新橋駅前ビル1号館",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "名前ゲーム",
+      "title": "詐欺",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "硫黄島",
+      "title": "小渕優子",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "クリッパーズ 対 ジャズ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,64 +107,64 @@
   ],
   "note_top10": [
     {
-      "title": "銭湯で子供を走らせないよう親にお願いしたが、「子供が走るのは当たり前だ」「お前は",
+      "title": "Javaの「Java4Shell」（CVE-2026-114938）をOracl",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "オランダ王国ゼーラント州の海岸ではいっぱいに埋め尽くされた牡蠣が無料で拾い放題…",
+      "title": "Windowsのフォント管理はこれが便利！ Windows10, 11対応、オー",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "高支持率の理由は｢実績｣ではない…｢いわば高市バブル｣人気の裏で数年後の日本経済",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "キッズ無料期間と知らずにUSJへ…母親と8才くらいの娘さんが白むすびを人気のない",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "反戦サッカー部はサッカーファンなのか（鳥海不二夫） - エキスパート - Yah",
+      "title": "「INFOBAR ZERO」をau Flex Styleから12月25日に発売 ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "40年間「555円」だった名物そばを、いきなり「1110円」に…《赤字続きの駅食",
+      "title": "auから「INFOBAR ZERO」、通話・SMS専用で復活　12月25日発売",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "personal_story"
     },
     {
-      "title": "「先ほど、ネタ中に退席された常連のお客様を出禁としました」下北の入場無料のお笑い",
+      "title": "ご老人の学習サークルから、90分6,000円(税込み、交通費込)で講演の依頼があ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「反戦○○部」共産党支持層が統一教会と同じテクニックを使い始めた｜女子大生起業家",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "枚方市の3歳児虐待死、5回にわたって虐待報告をした保育園の必死さが伝わるだけに、",
+      "title": "母「今月からお小遣いは5千円です」私「やったー！」母「ただし常に千円くらいは次の",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「消えた神社を探しに行きます」一度参拝したがその後“消えた神社”を本人が再び見つ",
+      "title": "『パスタ界の揖保乃糸』ポジションと言われているBarilla(バリラ)を買って食",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本在住のドイツ人と日本人の入浴習慣について「時間と水とエネルギーの無駄と環境汚",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "『孤独のグルメ』原作者・久住昌之先生が、井之頭五郎のモデルになる個人輸入業者を1",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "大谷翔平",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ]
 }
