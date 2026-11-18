@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T01:43:00+09:00",
+  "generated_at": "2026-11-19T05:55:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,41 +7,41 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 11,
-    "passed_total": 105,
+    "neg_excluded": 5,
+    "dedup_excluded": 10,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_realtime": 25,
-      "google_trends": 9,
-      "yahoo_news_ranking": 8,
+      "yahoo_realtime": 36,
+      "google_trends": 10,
+      "yahoo_news_ranking": 3,
       "x_realtime": 9,
-      "news_web": 19
+      "news_web": 12
     }
   },
   "note_category_counts": {
-    "social_reaction": 14,
-    "personal_story": 2,
-    "opinion": 9,
-    "medical_science": 9,
-    "hard_fact": 29,
+    "social_reaction": 30,
+    "personal_story": 3,
+    "opinion": 10,
+    "hard_fact": 14,
+    "medical_science": 6,
     "policy": 7
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 30,
-    "policy": 8,
-    "social_reaction": 14,
-    "opinion": 9,
-    "medical_science": 7,
-    "personal_story": 2
+    "hard_fact": 17,
+    "social_reaction": 30,
+    "opinion": 10,
+    "policy": 7,
+    "personal_story": 3,
+    "medical_science": 3
   },
   "b2b_top10": [
     {
@@ -51,55 +51,55 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "奥田ふみよ議員が「暴走」→女性参考人が“たった一言”でバッサリの瞬間 憲法審査会",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "日刊おもらしニュース | ナルエビちゃんの個人情報漏洩まとめ",
+      "title": "【解説】ロシアの超富裕層はすでに「プーチン氏以後」の未来を考えている - BBC",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「高市首相が天皇末裔説」発信の陰謀論系ユーチューバーに血税1.5億円…また政府広",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "天気予報 雪",
+      "title": "電気自動車",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ドジャース",
+      "title": "嵐",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "SA・PAのゴミ箱 280カ所で廃止へ",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
+      "title": "anthropic",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "米国のはしか「排除国」認定取り消し ワクチン接種率低下で感染急増：時事ドットコム",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "title": "読売ジャイアンツ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "「ガチャを回すみたいに強盗する」裁判傍聴の民が実際に見てきたトクリュウの実態がし",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "坂本勇人",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "土俵入り",
+      "title": "佐野勇斗",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "畠世周",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "香取慎吾",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
-      "title": "日刊おもらしニュース | ナルエビちゃんの個人情報漏洩まとめ",
+      "title": "【解説】ロシアの超富裕層はすでに「プーチン氏以後」の未来を考えている - BBC",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "2歳くらいの時、退屈して遊んだマッチの火がこたつカバーに燃え移り、なすすべなく母",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "人工子宮が実現した場合、現在の子宮では「母体が耐えきれないため未熟な状態での出産",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
       "title": "「スターバックスのバリスタの気に障ることをなにかしてしまったみたい…」カタカナの",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "日本のタヌキたちは鯖の塩焼きがこんなに美味しいってどうして教えてくれなかったの？",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "おじさん、おばさん以上を満たすコンテンツが無い問題",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ガチャを回すみたいに強盗する」裁判傍聴の民が実際に見てきたトクリュウの実態がし",
+      "title": "Suicaの新キャラクターが毒ウサギになったことに引いている選考委員のコメントに",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "社会人野球部はなんのためにあるのか｜ぬかてぃ",
+      "title": "「デスクワークの人これ使ってみてほしい 恐ろしいほど腰が楽だ」みんなのおすすめ姿",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ジャンル史ではなく作曲史で読むロックの進化｜みの",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "長崎市が「同姓同名」に個人情報を誤送付…受取人が他人の住所をThreadsで晒す",
+      "title": "ヤッホイ泉&永井が語る音楽――アズテック・カメラ、玉置浩二からビートルズ、レディ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "警察庁、20年間で192万人分のDNA型をデータベース化 名古屋高裁は「人格権の",
+      "title": "アントニオ猪木さんの孫が新日本プロレス入団 あの名ぜりふも | NHKニュース",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "5年間の防衛費“50兆円台前半”に自民党内から異論噴出 現在の水準より増加も…「",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "探査機ボイジャー1号、地球から「1光日」に到達 人工物で初",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "富士山で遭難した中国人の親族が懸賞金を提示したことへ対する野口健さんのポストへ賛",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
