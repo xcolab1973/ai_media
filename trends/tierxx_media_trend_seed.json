@@ -2,16 +2,70 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-18T12:04:47+0900",
-    "record_count": 20,
-    "source_total_in_db": 1721,
+    "generated_at": "2026-11-18T19:30:57+0900",
+    "record_count": 22,
+    "source_total_in_db": 1724,
     "provenance_breakdown": {
-      "evidence": 1114,
-      "pain_seed": 607
+      "evidence": 1115,
+      "pain_seed": 609
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_54d225f5908b",
+      "trend_term": "GLP-1薬と依存リスク",
+      "raw_title": "やせたい人がすがる「魔法の薬」 空腹に罪悪感「私、中毒かも？」 - 朝日新聞",
+      "summary": "痩身目的でGLP-1薬を使用する人の間で、空腹感への罪悪感や依存懸念が生じている実態。朝日新聞による取材報道。",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uMEtTM2dXU1ZHVy03UlhDTGRkZlM0cWRTcG42UG84OTBxVUtqX1I1TS1oRjZrcGlDOF9obmhyRV84bXZENnFUemlKRUVtd0NZbUZTU3h5NUw1RWFPSFFsS2RkNnZlOU0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uMEtTM2dXU1ZHVy03UlhDTGRkZlM0cWRTcG42UG84OTBxVUtqX1I1TS1oRjZrcGlDOF9obmhyRV84bXZENnFUemlKRUVtd0NZbUZTU3h5NUw1RWFPSFFsS2RkNnZlOU0?oc=5",
+      "source_name": "朝日新聞",
+      "monitor_id": "bm-sns-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-23T19:30:57+0900",
+      "status": "candidate",
+      "created_at": "2026-11-18T19:30:57+0900"
+    },
+    {
+      "seed_id": "seed_3897d2ea74fc",
+      "trend_term": "フェイシャルインジェクタブル市場",
+      "raw_title": "日本フェイシャルインジェクタブル市場、2035年に24億3,660万米ドル規模へ到達予測、CAGR - ニコニコニュース",
+      "summary": "日本のフェイシャルインジェクタブル市場が2035年に24億3,660万米ドル規模に達する見通し。市場規模予測データを提示。",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fY01ZQktYZkREbmxOdWNnQ3ZUV1FxVmRRYjlKeGVJVkRRd3hRWmtZb0FKSHJQUkhMRGxpSGw1SjZDRktfb1lGdGxwZUFwX0dOMkhIRG8yTEducG9NamdHWlZscDRuR0FN?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fY01ZQktYZkREbmxOdWNnQ3ZUV1FxVmRRYjlKeGVJVkRRd3hRWmtZb0FKSHJQUkhMRGxpSGw1SjZDRktfb1lGdGxwZUFwX0dOMkhIRG8yTEducG9NamdHWlZscDRuR0FN?oc=5",
+      "source_name": "ニコニコニュース",
+      "monitor_id": "bm-market-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "hard_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-23T19:30:53+0900",
+      "status": "candidate",
+      "created_at": "2026-11-18T19:30:53+0900"
+    },
+    {
+      "seed_id": "seed_875517df9b01",
+      "trend_term": "ボトックス卒業トレンド",
+      "raw_title": "「ボトックス卒業」を宣言したニコール・キッドマン、最新投稿が「誰だか分からない」とファン騒然！ - SPUR（シュプール）",
+      "summary": "著名人がボトックス使用の中止を公言し、SNS上で外見の変化について議論が生じている。自然な見た目志向の広がりを示唆。",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfZEtyZEgtbUJjYjdQcWVnVTFLUXJITnNGNExvaV85OE9yN1dhUjl6cEZQbS1QTW1yQW5SN1BXejZ6cTJrX2t0V3doeDAybFNIRHRhMWhIaTdzVmxwSTZldWVZUmlmVXBuaUJNNXVITU9oOXc2?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfZEtyZEgtbUJjYjdQcWVnVTFLUXJITnNGNExvaV85OE9yN1dhUjl6cEZQbS1QTW1yQW5SN1BXejZ6cTJrX2t0V3doeDAybFNIRHRhMWhIaTdzVmxwSTZldWVZUmlmVXBuaUJNNXVITU9oOXc2?oc=5",
+      "source_name": "SPUR（シュプール）",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-23T19:30:38+0900",
+      "status": "candidate",
+      "created_at": "2026-11-18T19:30:38+0900"
+    },
     {
       "seed_id": "seed_8bd12580569b",
       "trend_term": "ヒアルロン酸注入市場拡大",
@@ -353,24 +407,6 @@
       "valid_until": "2026-11-19T10:38:11+0900",
       "status": "candidate",
       "created_at": "2026-11-14T10:38:11+0900"
-    },
-    {
-      "seed_id": "seed_8852a5e4c1c1",
-      "trend_term": "PCLスキンブースター新導入",
-      "raw_title": "韓国発の美容クリニック「ベンスクリニック」、PCLスキンブースター「GOURI（ゴウリ）」を11月より新導入 - PR TIMES",
-      "summary": "韓国発美容クリニック「ベンスクリニック」がPCLスキンブースター「GOURI」を11月より導入。新技術・新サービス提供の事実。",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kU0lxaWhpMTZ4Z05ueUFNOUJQQUROenZtNmIydWpSYTZ5QXFmMFFwdUlVbnpZQXNqU3hlTThMNWdHUld2c0hSbmoyeFQyQlQwR1ZKcllhZml5R3BpQ0c2aHRCZjM2TXEwZnc?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kU0lxaWhpMTZ4Z05ueUFNOUJQQUROenZtNmIydWpSYTZ5QXFmMFFwdUlVbnpZQXNqU3hlTThMNWdHUld2c0hSbmoyeFQyQlQwR1ZKcllhZml5R3BpQ0c2aHRCZjM2TXEwZnc?oc=5",
-      "source_name": "PR TIMES",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-18T18:52:02+0900",
-      "status": "candidate",
-      "created_at": "2026-11-13T18:52:02+0900"
     }
   ]
 }
