@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T01:49:00+09:00",
+  "generated_at": "2026-11-20T06:00:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,135 +7,105 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 13,
-    "dedup_excluded": 10,
-    "passed_total": 109,
+    "neg_excluded": 12,
+    "dedup_excluded": 9,
+    "passed_total": 101,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
       "google_trends": 10,
       "x_realtime": 9,
-      "news_web": 16,
-      "yahoo_news_ranking": 3
+      "news_web": 21,
+      "yahoo_news_ranking": 6,
+      "yahoo_realtime": 24
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
-    "personal_story": 3,
-    "opinion": 9,
-    "medical_science": 12,
-    "policy": 3,
-    "hard_fact": 17
+    "social_reaction": 16,
+    "personal_story": 1,
+    "opinion": 10,
+    "medical_science": 9,
+    "hard_fact": 28,
+    "policy": 6
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 26,
-    "policy": 6,
-    "opinion": 9,
-    "hard_fact": 16,
-    "medical_science": 10,
-    "personal_story": 3
+    "opinion": 10,
+    "hard_fact": 27,
+    "medical_science": 7,
+    "social_reaction": 16,
+    "policy": 9,
+    "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "いいか？バーガーキングのはこう“剥く”んだよ「これまじで食べやすくなる」「えぐい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「一回偉い人がラーメン食べた方がいい」資本系の家系ラーメン「壱角家」、集客に2億",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「麻薬みたいにやめられない」ガソリン・電気・ガス補助に約17兆円「1日100億円",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "ダウ90000",
+      "title": "ガナー・ヘンダーソン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "amd",
+      "title": "yoshiki",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ダウト ドラマ",
+      "title": "波浪警報",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "女子ソフトボール日本代表",
+      "title": "山下美夢有",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "外注カメラマンに撮影をお願いしていた幼稚園の集合写真に有名人が写り込んでたという",
+      "title": "マネックス証券",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "父親",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "日本応急手当普及員協議会が「救命行為に関する昨今のSNS上の言説について」という",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ヨドバシカメラで家電を購入したらテーブルに着席させられ、電力会社・携帯キャリア・",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "amd 株価",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
       "topic_category": "hard_fact"
+    },
+    {
+      "title": "ミュージックステーション",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "辻 希美",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "長谷川唯",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
-    {
-      "title": "いいか？バーガーキングのはこう“剥く”んだよ「これまじで食べやすくなる」「えぐい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「一回偉い人がラーメン食べた方がいい」資本系の家系ラーメン「壱角家」、集客に2億",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "宮崎で「あくまき」なるものを買って食べてみた、独特の風味があるけどどう食べればい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "外注カメラマンに撮影をお願いしていた幼稚園の集合写真に有名人が写り込んでたという",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ヨドバシカメラで家電を購入したらテーブルに着席させられ、電力会社・携帯キャリア・",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
     {
       "title": "「働いても、報われない」 中間層にいま何が | NHKニュース",
       "source_category": "yahoo_realtime",
@@ -143,25 +113,55 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "人生で一度は使ってみたいと思っていたケルヒャーの洗浄機を買ってみた、掃除が楽しす",
+      "title": "服屋時代に社員がレジ締めで「1万円足りない」と報告、お釣りで1万円札を渡すことは",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ヨドバシカメラで家電を購入したらテーブルに着席させられ、電力会社・携帯キャリア・",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "男性トイレ、こんなに「丸見え」だった　女性記者が小便器を体験して驚いたこと　#男",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "韓国の法学適性試験で満点の男性、ソウルの宿泊施設にて心停止状態で発見 - Kst",
+      "title": "ガナー・ヘンダーソン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "【独自】金融庁が楽天証券に報告徴求命令 顧客の年収や金融資産などの個人情報漏えい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "＜独自＞大型弾薬、増産方針転換の可能性　防衛費圧縮で防衛省検討、継戦能力に影響も",
+      "title": "息子がどんどん弱っていってる…。 通信制高校も通えなくなって、ご飯も1日0〜1食",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "大阪マジで生きやすかった、新今宮で全裸のおっさんが歩いてた時に「進撃の巨人や！」",
+      "title": "外注カメラマンに撮影をお願いしていた幼稚園の集合写真に有名人が写り込んでたという",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "新生児のオムツを開けた瞬間、うんちまみれになった夫が慌てず「10連ガチャだけひく",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「貧乏飯極めすぎて」緑のたぬきに茹でた蕎麦を入れて替え玉してる「その発想はなかっ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
