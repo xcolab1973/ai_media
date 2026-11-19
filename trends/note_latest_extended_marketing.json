@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-19T16:39:07+09:00",
- "valid_until": "2026-12-02T06:27:05+09:00",
+ "generated_at": "2026-11-20T06:28:29+09:00",
+ "valid_until": "2026-12-04T06:26:38+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,8 +9,8 @@
  "merge": {
   "parent": "marketing",
   "from_current": 40,
-  "from_new": 1,
-  "expired_pruned": 0,
+  "from_new": 2,
+  "expired_pruned": 1,
   "retention_dropped": 1,
   "genres": 5,
   "retention_per_genre": 8
@@ -258,6 +258,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "個人事業主が『選ばれない』を卒業するPRブランディング5ステップ｜もう価格競争で消耗しないプロの戦略",
+   "url": "https://pr-juku.com/branding-strategy-for-individuals/",
+   "summary": "個人事業主が価格競争から抜け出すためのPR・ブランディング手順を扱う記事（タイトルベース）。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "marketing-brand",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "逆算PR塾",
+    "expert_origin": false,
+    "search_query": "ブランド 価格競争 抜け出す 個人事業主 ブランディング",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-12-04T06:26:38+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "値引きに頼らない経営のためのブランド戦略",
    "url": "https://www.warabee-inc.jp/branding-strategy-against-price-competition/",
    "summary": "値引き依存から抜けるための、ブランド戦略の考え方を扱う記事。",
@@ -464,36 +494,6 @@
     "rescued": false
    },
    "valid_until": "2026-11-28T06:27:33+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "中小企業のブランディング｜大企業の真似が効かない理由と打ち手",
-   "url": "https://12corp.co.jp/column/sme-vs-enterprise-branding-2026/",
-   "summary": "大企業は知られている前提で設計されるため中小は真似できない。ブランドブックより先に「誰に何を約束するか」を一文で決め、人を前面に出し、ロゴ刷新は後回しにする。短期指標と長期指標（指名検索・紹介）を分けて評価する。（本文確認済）",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "marketing-brand",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "12corp",
-    "expert_origin": false,
-    "search_query": "中小企業 ブランディング 失敗 ロゴ 刷新 PRプレスリリース 配信 効果 ない",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-11-20T06:27:50+09:00",
    "validity_days": 14
   },
   {
@@ -738,6 +738,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "【初動分析】2026年11月 Googleコアアップデート｜開始2日目の独自データ、まとめ系が下落・Instagramは過去最高",
+   "url": "https://pivo-te.co.jp/article/1506",
+   "summary": "開始2日目の独自計測では全体の入れ替わりは平常範囲。まとめ系は-5.8%で下落、Instagramは過去最高、noteは小幅上昇。展開中の途中経過。（本文確認済）",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "marketing-web",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "ピボーテ",
+    "expert_origin": false,
+    "search_query": "Google コアアップデート 2026年11月 順位下落 対処 ウェブ集客",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-11-25T06:26:38+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "【2026年8月17日実施】Google広告「目標値ベースの入札戦略」アップデート",
    "url": "https://asteknot.co.jp/blog/ppc/google-ads-bidding-update-2026/",
    "summary": "予算制限を受ける目標CPA/目標ROAS運用で、8月17日以降は目標値まで予算を使う動きに変わり、CPAが良好なアカウントほど悪化し得る。対策は目標値を実績に近づける、予算制限の解除など。CPC相場上昇は予測で未確定。（本文確認済）",
@@ -944,36 +974,6 @@
     "rescued": false
    },
    "valid_until": "2026-11-20T16:42:31+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "リスティング広告のCPCが高い理由と対策｜クリック単価の抑え方とCPAで見た判断基準",
-   "url": "https://www.rei-yokohama.co.jp/demoyarundayo/blog/listing-ads-cpc-high",
-   "summary": "クリック単価の高さだけで判断せず、CPA（1件獲得の費用）で続けるか止めるかを見る、という趣旨の解説記事。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "marketing-web",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "でもやるんだよ（rei-yokohama）",
-    "expert_origin": false,
-    "search_query": "リスティング広告 クリック単価 高騰 少額 予算 自分で運用 やめどき 判断",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": true,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-11-20T06:28:46+09:00",
    "validity_days": 5
   },
   {
