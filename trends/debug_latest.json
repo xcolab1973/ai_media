@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T18:30:00+09:00",
+  "generated_at": "2026-11-20T01:49:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,45 +16,45 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 11,
-    "passed_total": 114,
+    "neg_excluded": 13,
+    "dedup_excluded": 10,
+    "passed_total": 109,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
+      "yahoo_realtime": 32,
       "google_trends": 10,
-      "x_realtime": 8,
-      "news_web": 14,
-      "yahoo_news_ranking": 2
+      "x_realtime": 9,
+      "news_web": 16,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "personal_story": 4,
-    "medical_science": 13,
-    "opinion": 10,
+    "social_reaction": 26,
+    "personal_story": 3,
+    "opinion": 9,
+    "medical_science": 12,
     "policy": 3,
-    "hard_fact": 10
+    "hard_fact": 17
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
-    "medical_science": 8,
-    "policy": 5,
-    "opinion": 10,
-    "hard_fact": 13,
-    "personal_story": 4
+    "social_reaction": 26,
+    "policy": 6,
+    "opinion": 9,
+    "hard_fact": 16,
+    "medical_science": 10,
+    "personal_story": 3
   },
   "b2b_top10": [
     {
-      "title": "「一回偉い人がラーメン食べた方がいい」資本系の家系ラーメン「壱角家」、集客に2億",
+      "title": "いいか？バーガーキングのはこう“剥く”んだよ「これまじで食べやすくなる」「えぐい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "米中両国はウクライナ戦争を終わらせる手助けをしたい トランプ氏",
+      "title": "「一回偉い人がラーメン食べた方がいい」資本系の家系ラーメン「壱角家」、集客に2億",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "topic_category": "social_reaction"
     },
     {
       "title": "「麻薬みたいにやめられない」ガソリン・電気・ガス補助に約17兆円「1日100億円",
@@ -63,49 +63,55 @@
       "topic_category": "policy"
     },
     {
-      "title": "『知っている国を書こう』という授業で息子は『ミャンマー』と書いたんだけど、先生か",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "ダウ90000",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "amd",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ダウト ドラマ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "女子ソフトボール日本代表",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "外注カメラマンに撮影をお願いしていた幼稚園の集合写真に有名人が写り込んでたという",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "投資信託の出庫手数料無料に関するお知らせ | 楽天証券",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "ヨドバシカメラで家電を購入したらテーブルに着席させられ、電力会社・携帯キャリア・",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "気温",
+      "title": "amd 株価",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "熱海富士",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ブラディ ミール ゲレーロ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "橋上秀樹",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "田中真美子",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
+    {
+      "title": "いいか？バーガーキングのはこう“剥く”んだよ「これまじで食べやすくなる」「えぐい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "「一回偉い人がラーメン食べた方がいい」資本系の家系ラーメン「壱角家」、集客に2億",
       "source_category": "yahoo_realtime",
@@ -113,55 +119,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "『知っている国を書こう』という授業で息子は『ミャンマー』と書いたんだけど、先生か",
+      "title": "宮崎で「あくまき」なるものを買って食べてみた、独特の風味があるけどどう食べればい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "投資信託の出庫手数料無料に関するお知らせ | 楽天証券",
+      "title": "外注カメラマンに撮影をお願いしていた幼稚園の集合写真に有名人が写り込んでたという",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ヨドバシカメラで家電を購入したらテーブルに着席させられ、電力会社・携帯キャリア・",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「働いても、報われない」 中間層にいま何が | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "人生で一度は使ってみたいと思っていたケルヒャーの洗浄機を買ってみた、掃除が楽しす",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "男性トイレ、こんなに「丸見え」だった　女性記者が小便器を体験して驚いたこと　#男",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "米中両国はウクライナ戦争を終わらせる手助けをしたい トランプ氏",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "中国、西沙諸島に新滑走路建設 軍事的なプレゼンスが大幅に強化される可能性",
+      "title": "韓国の法学適性試験で満点の男性、ソウルの宿泊施設にて心停止状態で発見 - Kst",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【重要】「WIXOSS」今後の商品展開および関連サービスに関するお知らせ - W",
+      "title": "＜独自＞大型弾薬、増産方針転換の可能性　防衛費圧縮で防衛省検討、継戦能力に影響も",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ずっとスリムで背が高くて生きてきたんだけど、歳を取って初めて“デブ”になったらす",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「自分1人で飛行機乗ったことないんですよ」と職場で話したらカスの嘘を吹き込まれた",
+      "title": "大阪マジで生きやすかった、新今宮で全裸のおっさんが歩いてた時に「進撃の巨人や！」",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
