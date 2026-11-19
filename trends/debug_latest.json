@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T11:47:00+09:00",
+  "generated_at": "2026-11-19T18:30:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,36 +16,54 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 8,
+    "neg_excluded": 7,
+    "dedup_excluded": 11,
     "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
+      "yahoo_realtime": 36,
       "google_trends": 10,
-      "news_web": 13,
-      "x_realtime": 9,
-      "yahoo_news_ranking": 6
+      "x_realtime": 8,
+      "news_web": 14,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
+    "social_reaction": 30,
+    "personal_story": 4,
+    "medical_science": 13,
     "opinion": 10,
-    "personal_story": 1,
-    "hard_fact": 14,
-    "medical_science": 9,
-    "policy": 7
+    "policy": 3,
+    "hard_fact": 10
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
-    "hard_fact": 19,
+    "social_reaction": 30,
+    "medical_science": 8,
+    "policy": 5,
     "opinion": 10,
-    "policy": 8,
-    "medical_science": 4,
-    "personal_story": 1
+    "hard_fact": 13,
+    "personal_story": 4
   },
   "b2b_top10": [
     {
-      "title": "ぼく「北海道旅行で函館から釧路まで移動したいんですよね」→「北海道舐めんな」「移",
+      "title": "「一回偉い人がラーメン食べた方がいい」資本系の家系ラーメン「壱角家」、集客に2億",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "米中両国はウクライナ戦争を終わらせる手助けをしたい トランプ氏",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "「麻薬みたいにやめられない」ガソリン・電気・ガス補助に約17兆円「1日100億円",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "『知っている国を書こう』という授業で息子は『ミャンマー』と書いたんだけど、先生か",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -57,49 +75,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "高速道路でも「ゴミ箱撤去」が加速 SA・PA全国280か所で廃止へ “トイレだけ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "セス・ハルボーセン",
+      "title": "気温",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "韓国で大学入試 AI不正の対策徹底",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_world",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "福岡首都化計画｜文・中島 百依子（ダウ90000） - SUUMOタウン",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【速報】政府、陰謀論系配信者の過去発言確認せず",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "堀田真由",
+      "title": "熱海富士",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "広末 涼子",
+      "title": "ブラディ ミール ゲレーロ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "くら寿司 ちいかわ",
+      "title": "橋上秀樹",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "田中真美子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,7 +107,13 @@
   ],
   "note_top10": [
     {
-      "title": "ぼく「北海道旅行で函館から釧路まで移動したいんですよね」→「北海道舐めんな」「移",
+      "title": "「一回偉い人がラーメン食べた方がいい」資本系の家系ラーメン「壱角家」、集客に2億",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『知っている国を書こう』という授業で息子は『ミャンマー』と書いたんだけど、先生か",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -119,51 +125,45 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "福岡首都化計画｜文・中島 百依子（ダウ90000） - SUUMOタウン",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "四ツ谷駅の“除草ヤギ“が「早期退職」へ　想定超える速さで職務完了：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "以前アメリカ人観光客の通訳を務めた時「日本人は街を清潔に保つのになぜ蜘蛛の巣を取",
+      "title": "人生で一度は使ってみたいと思っていたケルヒャーの洗浄機を買ってみた、掃除が楽しす",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "レンチン茶碗蒸しがガチで美味しすぎて毎日食べてる…でも具がないと寂しいからシーフ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "男性トイレ、こんなに「丸見え」だった　女性記者が小便器を体験して驚いたこと　#男",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
-      "title": "トクリュウが家に乗り込んで来ても「株はその場で売却できても現金引渡しに2営業日か",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "米中両国はウクライナ戦争を終わらせる手助けをしたい トランプ氏",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
     },
     {
-      "title": "住宅価格が高騰するカナダで、見知らぬ他人同士が1つの家を購入するために1つの住宅",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "文学とはなにか？｜大前粟生",
+      "title": "中国、西沙諸島に新滑走路建設 軍事的なプレゼンスが大幅に強化される可能性",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "慶大教授が埼玉県立新図書館のDXに「待った」　貴重な情報失う恐れ：朝日新聞",
+      "title": "【重要】「WIXOSS」今後の商品展開および関連サービスに関するお知らせ - W",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ずっとスリムで背が高くて生きてきたんだけど、歳を取って初めて“デブ”になったらす",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「自分1人で飛行機乗ったことないんですよ」と職場で話したらカスの嘘を吹き込まれた",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
