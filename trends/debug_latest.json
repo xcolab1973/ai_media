@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T05:55:00+09:00",
+  "generated_at": "2026-11-19T11:47:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,46 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 10,
-    "passed_total": 117,
+    "neg_excluded": 10,
+    "dedup_excluded": 8,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 36,
+      "yahoo_realtime": 32,
       "google_trends": 10,
-      "yahoo_news_ranking": 3,
+      "news_web": 13,
       "x_realtime": 9,
-      "news_web": 12
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "personal_story": 3,
+    "social_reaction": 29,
     "opinion": 10,
+    "personal_story": 1,
     "hard_fact": 14,
-    "medical_science": 6,
+    "medical_science": 9,
     "policy": 7
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 17,
-    "social_reaction": 30,
+    "social_reaction": 28,
+    "hard_fact": 19,
     "opinion": 10,
-    "policy": 7,
-    "personal_story": 3,
-    "medical_science": 3
+    "policy": 8,
+    "medical_science": 4,
+    "personal_story": 1
   },
   "b2b_top10": [
+    {
+      "title": "ぼく「北海道旅行で函館から釧路まで移動したいんですよね」→「北海道舐めんな」「移",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "投資信託の出庫手数料無料に関するお知らせ | 楽天証券",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "高速道路でも「ゴミ箱撤去」が加速 SA・PA全国280か所で廃止へ “トイレだけ",
       "source_category": "yahoo_realtime",
@@ -51,55 +63,43 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "【解説】ロシアの超富裕層はすでに「プーチン氏以後」の未来を考えている - BBC",
+      "title": "セス・ハルボーセン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "韓国で大学入試 AI不正の対策徹底",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_world",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "福岡首都化計画｜文・中島 百依子（ダウ90000） - SUUMOタウン",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "電気自動車",
+      "title": "【速報】政府、陰謀論系配信者の過去発言確認せず",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "堀田真由",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "嵐",
+      "title": "広末 涼子",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "anthropic",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "読売ジャイアンツ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "坂本勇人",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "佐野勇斗",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "畠世周",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "香取慎吾",
+      "title": "くら寿司 ちいかわ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
-      "title": "【解説】ロシアの超富裕層はすでに「プーチン氏以後」の未来を考えている - BBC",
+      "title": "ぼく「北海道旅行で函館から釧路まで移動したいんですよね」→「北海道舐めんな」「移",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「スターバックスのバリスタの気に障ることをなにかしてしまったみたい…」カタカナの",
+      "title": "投資信託の出庫手数料無料に関するお知らせ | 楽天証券",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "Suicaの新キャラクターが毒ウサギになったことに引いている選考委員のコメントに",
+      "title": "福岡首都化計画｜文・中島 百依子（ダウ90000） - SUUMOタウン",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "四ツ谷駅の“除草ヤギ“が「早期退職」へ　想定超える速さで職務完了：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "以前アメリカ人観光客の通訳を務めた時「日本人は街を清潔に保つのになぜ蜘蛛の巣を取",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「デスクワークの人これ使ってみてほしい 恐ろしいほど腰が楽だ」みんなのおすすめ姿",
+      "title": "レンチン茶碗蒸しがガチで美味しすぎて毎日食べてる…でも具がないと寂しいからシーフ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "トクリュウが家に乗り込んで来ても「株はその場で売却できても現金引渡しに2営業日か",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "住宅価格が高騰するカナダで、見知らぬ他人同士が1つの家を購入するために1つの住宅",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "文学とはなにか？｜大前粟生",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ジャンル史ではなく作曲史で読むロックの進化｜みの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "ヤッホイ泉&永井が語る音楽――アズテック・カメラ、玉置浩二からビートルズ、レディ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "アントニオ猪木さんの孫が新日本プロレス入団 あの名ぜりふも | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "5年間の防衛費“50兆円台前半”に自民党内から異論噴出 現在の水準より増加も…「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "探査機ボイジャー1号、地球から「1光日」に到達 人工物で初",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "富士山で遭難した中国人の親族が懸賞金を提示したことへ対する野口健さんのポストへ賛",
+      "title": "慶大教授が埼玉県立新図書館のDXに「待った」　貴重な情報失う恐れ：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
