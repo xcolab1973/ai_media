@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T01:24:00+09:00",
+  "generated_at": "2026-11-21T05:47:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,38 +16,38 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
+    "neg_excluded": 8,
     "dedup_excluded": 10,
-    "passed_total": 117,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "x_realtime": 8,
-      "news_web": 10,
-      "yahoo_realtime": 37,
+      "yahoo_realtime": 34,
+      "news_web": 13,
       "google_trends": 10,
+      "x_realtime": 8,
       "yahoo_news_ranking": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
     "personal_story": 3,
-    "opinion": 9,
-    "medical_science": 5,
-    "policy": 7,
-    "hard_fact": 16
+    "social_reaction": 27,
+    "opinion": 10,
+    "medical_science": 6,
+    "policy": 5,
+    "hard_fact": 19
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
-    "policy": 7,
+    "social_reaction": 27,
+    "policy": 5,
     "personal_story": 3,
-    "opinion": 9,
-    "hard_fact": 16,
-    "medical_science": 5
+    "opinion": 10,
+    "hard_fact": 19,
+    "medical_science": 6
   },
   "b2b_top10": [
     {
       "title": "【ネタバレ注意】昔、古代中国を舞台にした漫画「お嬢様と私」を読んだら、いつの時代",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -57,16 +57,10 @@
       "topic_category": "policy"
     },
     {
-      "title": "同僚との飲みに遅れることを伝えたのに、到着してから連絡したら「カレー食べてる」と",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "建設現場で働く人を見て「安全対策の勉強が足りてない」と指摘する教育ママのマンガ→",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "カスハラ対策に、小型のボディカメラ - 家電 Watch",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
       "title": "『救急病院の前で意識を失い倒れた者に対してAEDを用いた心肺蘇生術をしなかった対",
@@ -75,81 +69,63 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "カスハラ対策に、小型のボディカメラ - 家電 Watch",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "ダウ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "故郷の廃線跡がいつの間にか日本一美しい廃線跡となっていた　竹林の中をまっすぐ伸び",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "title": "角田裕毅",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "三菱重工業",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "高市早苗 中国 タラップ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "バイエルン 対 ケルン",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "から揚げ粉をエリンギの全身にかけてオーブンで焼くだけで「なんかすごい唐揚げ感がす",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "ムー編集長が一日警察署長で呼びかけ　地元･弘前で｢信じる前に疑う｣ | ABAニ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "on",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "建設現場で働く人を見て「安全対策の勉強が足りてない」と指摘する教育ママのマンガ→",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "【ネタバレ注意】昔、古代中国を舞台にした漫画「お嬢様と私」を読んだら、いつの時代",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "カスハラ対策に、小型のボディカメラ - 家電 Watch",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "同僚との飲みに遅れることを伝えたのに、到着してから連絡したら「カレー食べてる」と",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "故郷の廃線跡がいつの間にか日本一美しい廃線跡となっていた　竹林の中をまっすぐ伸び",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "から揚げ粉をエリンギの全身にかけてオーブンで焼くだけで「なんかすごい唐揚げ感がす",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ムー編集長が一日警察署長で呼びかけ　地元･弘前で｢信じる前に疑う｣ | ABAニ",
+      "title": "【ネタバレ注意】昔、古代中国を舞台にした漫画「お嬢様と私」を読んだら、いつの時代",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "『救急病院の前で意識を失い倒れた者に対してAEDを用いた心肺蘇生術をしなかった対",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "から揚げ粉をエリンギの全身にかけてオーブンで焼くだけで「なんかすごい唐揚げ感がす",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -161,7 +137,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "色校を送るので住所が欲しいと先方に伝えたら「データで送れよ、スキャンとかするとか",
+      "title": "隣家の解体工事で「敷地のコンクリートは確実に破損します」と告げられた家主が悲鳴、",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "たまにいくお店の猫の横顔を見たら鼻筋があまりに特徴的でびっくり「鼻が！」「エジプ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "タワマンの中層階に引っ越したらベランダに出された2~3歳の女児が「たすけて」「ゆ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "キスシーンの口元がどうなるのかわからなくてシリコン唇をムチュムチュさせて撮影して",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "店員による不正行為が原因で中止になったくら寿司のちいかわコラボ皿が公式LINEを",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
