@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T11:34:00+09:00",
+  "generated_at": "2026-11-20T18:11:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,78 +16,60 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 10,
+    "neg_excluded": 4,
+    "dedup_excluded": 12,
     "passed_total": 116,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
-      "x_realtime": 8,
-      "news_web": 14,
+      "x_realtime": 6,
+      "news_web": 16,
+      "yahoo_realtime": 30,
       "google_trends": 10,
-      "yahoo_news_ranking": 4
+      "yahoo_news_ranking": 8
     }
   },
   "note_category_counts": {
-    "social_reaction": 25,
-    "medical_science": 13,
-    "policy": 5,
+    "social_reaction": 28,
+    "personal_story": 2,
+    "medical_science": 10,
     "opinion": 10,
-    "personal_story": 1,
-    "hard_fact": 16
+    "hard_fact": 16,
+    "policy": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 23,
-    "policy": 6,
-    "hard_fact": 19,
-    "medical_science": 11,
+    "social_reaction": 24,
+    "hard_fact": 23,
+    "personal_story": 2,
+    "medical_science": 6,
     "opinion": 10,
-    "personal_story": 1
+    "policy": 5
   },
   "b2b_top10": [
     {
-      "title": "入場無料お笑いライブから出禁された人の聞き取りをした人が現れ「持病持ちで体調を崩",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "首里城「大龍柱」の向きはどっち？　論争の背景に琉球処分と同化政策：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "最近ふと思ったんだけど、みんな漫画のスクショを投稿してるけど、あれって本当はダメ",
+      "title": "最近知って驚いたこと「ズボンは着るたびに毎回洗わなくていい」ずぼらの言い訳ではな",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ムー編集長が一日警察署長で呼びかけ　地元･弘前で｢信じる前に疑う｣ | ABAニ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "先日離陸時に膝の上に荷物を置いた乗客がCAに注意されるも「上に入れて何かあったら",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "防寒用のインナーって結局どれがいいんだ？→ヒートテックもいいけどアウトドアやスポ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "徒競走に順位つけるべきか 論争",
+      "title": "明治「スーパーカップ」値上げへ",
       "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "昔付き合ってたドイツ人は7年間ずっと夕食に同じパンとチーズを食べ続けていたが、あ",
+      "title": "『救急病院の前で意識を失い倒れた者に対してAEDを用いた心肺蘇生術をしなかった対",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "故郷の廃線跡がいつの間にか日本一美しい廃線跡となっていた　竹林の中をまっすぐ伸び",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "ムー編集長が一日警察署長で呼びかけ　地元･弘前で｢信じる前に疑う｣ | ABAニ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -99,30 +81,42 @@
       "topic_category": "medical_science"
     },
     {
-      "title": "「吐き気がするほどの激しい嫌悪感」#反戦ジャニオタと連帯したいという投稿に、株式",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    }
-  ],
-  "note_top10": [
+      "title": "大相撲砂武蔵",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
     {
-      "title": "入場無料お笑いライブから出禁された人の聞き取りをした人が現れ「持病持ちで体調を崩",
+      "title": "閉じにくい広告を決める「消せない広告オブザイヤー2026」にWeb関係者から賞賛",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "防寒用のインナーって結局どれがいいんだ？→ヒートテックもいいけどアウトドアやスポ",
+      "title": "田中将大",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ケイコ・フジモリ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    }
+  ],
+  "note_top10": [
+    {
+      "title": "最近知って驚いたこと「ズボンは着るたびに毎回洗わなくていい」ずぼらの言い訳ではな",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "最近ふと思ったんだけど、みんな漫画のスクショを投稿してるけど、あれって本当はダメ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "故郷の廃線跡がいつの間にか日本一美しい廃線跡となっていた　竹林の中をまっすぐ伸び",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
       "title": "ムー編集長が一日警察署長で呼びかけ　地元･弘前で｢信じる前に疑う｣ | ABAニ",
@@ -131,39 +125,45 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "先日離陸時に膝の上に荷物を置いた乗客がCAに注意されるも「上に入れて何かあったら",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "昔付き合ってたドイツ人は7年間ずっと夕食に同じパンとチーズを食べ続けていたが、あ",
+      "title": "『救急病院の前で意識を失い倒れた者に対してAEDを用いた心肺蘇生術をしなかった対",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "高齢化する〝大学教員〟40歳はまだ「若手」　教授陣は50代以上…70代の名誉教授",
+      "title": "閉じにくい広告を決める「消せない広告オブザイヤー2026」にWeb関係者から賞賛",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「吐き気がするほどの激しい嫌悪感」#反戦ジャニオタと連帯したいという投稿に、株式",
+      "title": "ラーメン屋の店長をしていた時、「客は神様だろうが！」と言ってくる人がいたので、「",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "濡れ場に合わせて映画館の座席が動く4DXならぬ4Dセックスが流行、「まるで3人で",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "「世界中の大半の人々は食べ物の味に興味がない」というが、そうなった国とならなかっ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "銭湯で男湯を嫌がる8歳の女の子に「一緒に入りましょうか？」と声をかけて女湯へ→父",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "大学3年生の8月に内定をもらった企業の内定書を確認、内定取り消し事項で特に「提出",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "20年以上前、雀荘のバイトで店長から「筋引っ掛けリーチはお客さんが不快になるから",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "築約50年団地で70年代暮らしを貫く昭和文化愛好家の部屋。ピンク・レディーのポス",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
