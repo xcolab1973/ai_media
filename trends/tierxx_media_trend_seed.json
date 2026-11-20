@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-20T11:30:58+0900",
-    "record_count": 19,
-    "source_total_in_db": 1727,
+    "generated_at": "2026-11-20T19:19:17+0900",
+    "record_count": 18,
+    "source_total_in_db": 1728,
     "provenance_breakdown": {
       "evidence": 1116,
-      "pain_seed": 611
+      "pain_seed": 612
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_0ec064109ee6",
+      "trend_term": "セレブのボトックス疑惑",
+      "raw_title": "ジェニファー・ロペス、ボトックス疑惑に反論した理由を語る - ELLE",
+      "summary": "著名人がボトックス疑惑に対する見解を語った記事。読者の『本当に効くのか』『やるべきか』という根本的な迷いや不安が背景にある可能性",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUGE1SzNpaDh1WHBORjRYZWZMZTU1cnVyaGF3RlNqd2llOEJwTUxvZmpwcGZGTS04RUdfNHh2Z2dqU3BXVkJGZzhmNThKZ3FNMXl3dDBNbkdiMVd6dUR4WlJ6VmpaV3EtRXV2MERaZDA5NlpVckRic1JzOXVUd05zN2tfQmhLNEs4Q3gtOHpnVjlkUmppVkJsYWFWUTA4eExLdHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUGE1SzNpaDh1WHBORjRYZWZMZTU1cnVyaGF3RlNqd2llOEJwTUxvZmpwcGZGTS04RUdfNHh2Z2dqU3BXVkJGZzhmNThKZ3FNMXl3dDBNbkdiMVd6dUR4WlJ6VmpaV3EtRXV2MERaZDA5NlpVckRic1JzOXVUd05zN2tfQmhLNEs4Q3gtOHpnVjlkUmppVkJsYWFWUTA4eExLdHc?oc=5",
+      "source_name": "ELLE",
+      "monitor_id": "bm-injection-trend",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "opinion",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-12-04T19:19:01+0900",
+      "status": "candidate",
+      "created_at": "2026-11-20T19:19:01+0900"
+    },
     {
       "seed_id": "seed_6c91ed22dd18",
       "trend_term": "エクソソーム点滴",
@@ -281,42 +299,6 @@
       "valid_until": "2026-11-20T23:55:47+0900",
       "status": "candidate",
       "created_at": "2026-11-15T23:55:47+0900"
-    },
-    {
-      "seed_id": "seed_ed7fc11379c4",
-      "trend_term": "日本美容内科学会総会",
-      "raw_title": "第3回日本美容内科学会総会を12月6日に開催 - ニコニコニュース",
-      "summary": "日本美容内科学会による第3回総会が12月6日に開催される。学会公式イベント情報。",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qeDZxYUdqcTg0amtMNHJVWU1Ocm1lVGphX1lkQUV1Y3dJcmhwdTBMU25ENFNreFBTUDdzX1dNOXR6bWpTbnZHdkRoMU05SlJHc1RVRWg4aHpWYzFxSUhaQjNvUjFJZ2hzUWhkbkJNTmkyT0oyeUtfRXgwbw?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qeDZxYUdqcTg0amtMNHJVWU1Ocm1lVGphX1lkQUV1Y3dJcmhwdTBMU25ENFNreFBTUDdzX1dNOXR6bWpTbnZHdkRoMU05SlJHc1RVRWg4aHpWYzFxSUhaQjNvUjFJZ2hzUWhkbkJNTmkyT0oyeUtfRXgwbw?oc=5",
-      "source_name": "ニコニコニュース",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-20T18:46:23+0900",
-      "status": "candidate",
-      "created_at": "2026-11-15T18:46:23+0900"
-    },
-    {
-      "seed_id": "seed_73d13e696ffe",
-      "trend_term": "エラボトックス実態調査",
-      "raw_title": "【ブロウナビ】「エラボトックス」の最新実態！100名にアンケート調査 – 30代が最多＆人気の頻度・費用・製剤・満足度まで徹底解明 - PR TIMES",
-      "summary": "100名アンケートによるエラボトックス利用実態。30代が最多ユーザー層で、施術頻度・費用・製剤選択・満足度のデータ報告。",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01Z0t6Y2ZpUUF4THBYeWRUV1I2eGxlWTRTZUlHZGgtX09DcjBNakVqRk9HU1M3alQwNERVZEFQLVpBU2tJLTVILXJuSUV6dnpaVU9rWUlWcWlWRi1LdjJZQVZfUVhtQjJ6a0E?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01Z0t6Y2ZpUUF4THBYeWRUV1I2eGxlWTRTZUlHZGgtX09DcjBNakVqRk9HU1M3alQwNERVZEFQLVpBU2tJLTVILXJuSUV6dnpaVU9rWUlWcWlWRi1LdjJZQVZfUVhtQjJ6a0E?oc=5",
-      "source_name": "PR TIMES",
-      "monitor_id": "bm-injection-trend",
-      "provenance_kind": "pain_seed",
-      "claim_type_hint": "soft_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-20T18:46:17+0900",
-      "status": "candidate",
-      "created_at": "2026-11-15T18:46:17+0900"
     },
     {
       "seed_id": "seed_94a7674a7415",
