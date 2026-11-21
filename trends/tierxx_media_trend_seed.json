@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-21T19:04:04+0900",
-    "record_count": 23,
-    "source_total_in_db": 1741,
+    "generated_at": "2026-11-22T00:31:56+0900",
+    "record_count": 25,
+    "source_total_in_db": 1743,
     "provenance_breakdown": {
-      "evidence": 1126,
+      "evidence": 1128,
       "pain_seed": 615
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_cb7e05df4abc",
+      "trend_term": "肌悩み診断アプリ",
+      "raw_title": "2位 Kaoポチモ！",
+      "summary": "Kaoポチモ！がApple App Rankingで2位に上昇。スキンケア関連アプリの人気が高い",
+      "source_url": "https://apps.apple.com/jp/app/kao%E3%83%9D%E3%83%81%E3%83%A2/id6796219498",
+      "url": "https://apps.apple.com/jp/app/kao%E3%83%9D%E3%83%81%E3%83%A2/id6796219498",
+      "source_name": "Apple App Ranking",
+      "monitor_id": "bm-app-ranking",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-27T00:31:55+0900",
+      "status": "candidate",
+      "created_at": "2026-11-22T00:31:55+0900"
+    },
+    {
+      "seed_id": "seed_ffdddd9f795d",
+      "trend_term": "Meta美容系アプリ",
+      "raw_title": "1位 Muse from Meta",
+      "summary": "Muse from MetaがApple App Rankingで1位。Meta発の美容関連アプリの注目度が上昇",
+      "source_url": "https://apps.apple.com/jp/app/muse-from-meta/id6760173601",
+      "url": "https://apps.apple.com/jp/app/muse-from-meta/id6760173601",
+      "source_name": "Apple App Ranking",
+      "monitor_id": "bm-app-ranking",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "soft_fact",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-27T00:31:55+0900",
+      "status": "candidate",
+      "created_at": "2026-11-22T00:31:55+0900"
+    },
     {
       "seed_id": "seed_fdcd187ab3da",
       "trend_term": "新規開院・地域展開",
