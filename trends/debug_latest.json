@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T11:48:00+09:00",
+  "generated_at": "2026-11-21T17:46:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,46 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 4,
-    "dedup_excluded": 10,
-    "passed_total": 118,
+    "neg_excluded": 8,
+    "dedup_excluded": 11,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
+      "yahoo_realtime": 29,
+      "x_realtime": 7,
       "google_trends": 10,
-      "x_realtime": 8,
-      "yahoo_news_ranking": 6,
-      "news_web": 14
+      "news_web": 18,
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
     "social_reaction": 25,
     "personal_story": 3,
     "opinion": 10,
-    "medical_science": 8,
-    "hard_fact": 16,
-    "policy": 8
+    "medical_science": 7,
+    "hard_fact": 18,
+    "policy": 7
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 22,
-    "personal_story": 3,
+    "social_reaction": 24,
     "opinion": 10,
-    "policy": 8,
-    "hard_fact": 21,
-    "medical_science": 6
+    "personal_story": 2,
+    "hard_fact": 23,
+    "medical_science": 5,
+    "policy": 6
   },
   "b2b_top10": [
+    {
+      "title": "〈神社でダンスして大炎上〉「神社はパフォーマンスの舞台ではない」スロバキアのダン",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「何もかも正しいのにイラストのせいで不安になってくる」今年も国土交通省からのお知",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "ブルーライトカットのめがね、目の負担軽減の助けにならず　23年国際研究で結論",
       "source_category": "yahoo_realtime",
@@ -51,117 +63,105 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "阪急電鉄、大阪梅田駅の再開発でツインタワー　40年までに開業 - 日本経済新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "「オウムを思い出す」ショックを感じる声、安易に参加するリスク、感情で動く群衆……",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「とりあえずキャバクラ接待を経費として認める税制は絶対に改正すべき。何で野放しな",
+      "title": "朝白龍",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "家賃",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "マイルcs 過去",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "セレッソ大阪 対 fc東京 順位",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "朝乃山",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "家のものをこつこつ最高のものに買い替えてQOLを爆上げしていきたいので、皆さんの",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
-    },
-    {
-      "title": "「ようやく落ち着ける」　熊本・宇城の避難所にパーティション設置 | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "コミックシーモア",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "黒柳徹子",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "毒 うさぎ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "山陽自動車道通行止め",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "マイケル・ガルシア",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "吉田麻也",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
+      "title": "〈神社でダンスして大炎上〉「神社はパフォーマンスの舞台ではない」スロバキアのダン",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「何もかも正しいのにイラストのせいで不安になってくる」今年も国土交通省からのお知",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "ブルーライトカットのめがね、目の負担軽減の助けにならず　23年国際研究で結論",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「ようやく落ち着ける」　熊本・宇城の避難所にパーティション設置 | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "阪急電鉄、大阪梅田駅の再開発でツインタワー　40年までに開業 - 日本経済新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「とりあえずキャバクラ接待を経費として認める税制は絶対に改正すべき。何で野放しな",
+      "title": "家のものをこつこつ最高のものに買い替えてQOLを爆上げしていきたいので、皆さんの",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "22年前、岐阜から上京したての世間知らずな19歳女性が、一人暮らしの部屋にきた業",
+      "title": "「オウムを思い出す」ショックを感じる声、安易に参加するリスク、感情で動く群衆……",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ゼレンスキー氏、トランプ氏のプーチン氏「友人」発言に反応　「我々にとっては人殺し",
+      "title": "フードコートでリモート会議してるサラリーマンが、カメラに何度も映り込む私を睨みつ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "バスで運転手を怒鳴りつけるおっさんが「もうええて」「降りろや」「時間ないねん」と",
+      "title": "伝統工芸界隈の倒産の話で「日本文化を守るべき継ぐ人を！」と言うのは理解できるが、",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "この前BBQで『絶対喜ぶもの差し入れるから！』と予告してたんだけど、最初はみんな",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "イーロン・マスクが金持ちでもそんなネットで嫌われてないのって「男の子がワクワクす",
+      "title": "15時少し前に信用金庫に着いて待っていたら窓口で前の人が談笑しており、15時を過",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "友達が言っていた『死に近付くほど文章が透き通る』は本当だと思っている「いろんなも",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "母さんが『いまの情報漏洩って、昔の電話帳みたいなものじゃない？』と言い出しました",
+      "title": "「鉄筋の代わりに竹入れてあるのは初めて見たわ」戦前には日本の軍部が研究していたと",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
