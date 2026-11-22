@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T10:33:00+09:00",
+  "generated_at": "2026-11-22T17:51:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,44 +16,49 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 12,
-    "passed_total": 111,
+    "neg_excluded": 4,
+    "dedup_excluded": 10,
+    "passed_total": 118,
     "b2b_category_counts": {
-      "x_realtime": 6,
-      "yahoo_realtime": 31,
+      "yahoo_realtime": 35,
       "google_trends": 10,
-      "news_web": 19,
-      "yahoo_news_ranking": 4
+      "x_realtime": 8,
+      "news_web": 17
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
+    "social_reaction": 34,
     "opinion": 10,
-    "personal_story": 1,
-    "medical_science": 5,
-    "policy": 2,
-    "hard_fact": 22
+    "personal_story": 3,
+    "medical_science": 3,
+    "policy": 3,
+    "hard_fact": 17
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 30,
-    "policy": 2,
-    "medical_science": 4,
+    "social_reaction": 33,
     "opinion": 10,
-    "hard_fact": 23,
-    "personal_story": 1
+    "policy": 3,
+    "hard_fact": 19,
+    "personal_story": 3,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
       "title": "【閲覧注意】亡くなったレッサーパンダの背中と尻尾を展示する秋吉台サファリランドに",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「エコキュートの室外機をサーバ室に置いたら冬季の冷却コスト実質無料どころかマイナ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "大の里",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "元TBSアナ・国山ハセンさんが事業が失敗に終わったことをXに投稿したが、その内容",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
@@ -63,105 +68,99 @@
       "topic_category": "policy"
     },
     {
-      "title": "ロシア、デンマークでラッパー男性の暗殺を計画　当局が阻止、制裁強化へ",
+      "title": "高市早苗首相　APECで受けた中国からの“冷遇”、プーチン大統領にも“身長コンプ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "policy"
     },
     {
-      "title": "「この国が30年間まともな方向へ行ってたらきっとシンガポールのようになっていた」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "高市首相の中国到着時に飛行機とタラップの間に段差は事前情報があったようで - 電",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "コインパーキングに停めて戻ってきたら「日本語理解できない者を、馬鹿という。ルール",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "バーチャル高校野球",
+      "title": "相撲",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "戸崎圭太",
+      "title": "相撲結果",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "リオネル・メッシ",
+      "title": "熱海富士",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
+    },
+    {
+      "title": "金慧成",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "野良生活をしていた成猫の長毛種を時間をかけて保護し、ブラッシングとお風呂を終えた",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
+      "title": "元TBSアナ・国山ハセンさんが事業が失敗に終わったことをXに投稿したが、その内容",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "【閲覧注意】亡くなったレッサーパンダの背中と尻尾を展示する秋吉台サファリランドに",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "野良生活をしていた成猫の長毛種を時間をかけて保護し、ブラッシングとお風呂を終えた",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "安易に「Youtuberになるな」と言わないでほしい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「これ本当によくわかる」夫の遺品整理を3年半にわたってやってきた人による「死ぬま",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「エコキュートの室外機をサーバ室に置いたら冬季の冷却コスト実質無料どころかマイナ",
+      "title": "毎日が驚きの発見ばかりの子猫が「お母さん！！お父さんがラーメン作りよぉ！！」「シ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ロシア、デンマークでラッパー男性の暗殺を計画　当局が阻止、制裁強化へ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「この国が30年間まともな方向へ行ってたらきっとシンガポールのようになっていた」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "コインパーキングに停めて戻ってきたら「日本語理解できない者を、馬鹿という。ルール",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "うちのシャンプー容器がこれなんですけど、今日友達が泊まりに来たら説明しないといけ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「初めて旅行中に帰りたくなった」壱角家のまずさが話題だが、ラーメン二郎直系の中で",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「主人公二人のクソデカ友情すれ違いで激刺さりしてる」「慧月が本当に可愛いんじゃ…",
+      "title": "温野菜公式がXに投稿した女性の食べ方に「汚い」「食欲失せる」の批判が→飲食チェー",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ハンドクリームをまめに塗る生活に憧れるけど、PCやスマホがオイリーになるのが嫌で",
+      "title": "「家に使い切ってないハンドクリームが1万本あるのに出先でハンドクリーム忘れてるこ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "この時期の札幌の午後4時台がどのくらい暗いかを分からせるために各地のライブカメラ",
+      "title": "大の里",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "地球に新たな「ミニ・ムーン」、極小天体が一時的に重力圏入り",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
