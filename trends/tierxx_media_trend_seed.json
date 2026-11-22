@@ -2,8 +2,8 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-22T10:29:58+0900",
-    "record_count": 25,
+    "generated_at": "2026-11-22T19:06:35+0900",
+    "record_count": 24,
     "source_total_in_db": 1743,
     "provenance_breakdown": {
       "evidence": 1128,
@@ -425,24 +425,6 @@
       "valid_until": "2026-11-22T19:58:59+0900",
       "status": "candidate",
       "created_at": "2026-11-17T19:58:59+0900"
-    },
-    {
-      "seed_id": "seed_dfa37663d7c2",
-      "trend_term": "幹細胞由来エクソソ毛髪再生",
-      "raw_title": "聖心美容クリニック・鎌倉達郎統括院長が韓国の国際学会「ICLAS」で毛髪再生医療について講演｜脂肪由来幹細胞・エクソソ - ニコニコニュース",
-      "summary": "聖心美容クリニック統括院長が国際学会ICLASで毛髪再生医療について講演。脂肪由来幹細胞・エクソソムを活用した技術について発表。",
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rOWEzR1ZDRnRHMXJPVzZENnozazNxNlp3ZDJtRUxlLVRyMkZKd29Oc2ZTQ2tfQVNhWV9CZ2NKcmpwV215RWZBdnVmaVBzQXB5OEMzRG5HY2xOaVlTeWxDVXdHMUl4Z0ZubTA1WFhDdzRzX25wUkE?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rOWEzR1ZDRnRHMXJPVzZENnozazNxNlp3ZDJtRUxlLVRyMkZKd29Oc2ZTQ2tfQVNhWV9CZ2NKcmpwV215RWZBdnVmaVBzQXB5OEMzRG5HY2xOaVlTeWxDVXdHMUl4Z0ZubTA1WFhDdzRzX25wUkE?oc=5",
-      "source_name": "ニコニコニュース",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-22T13:06:31+0900",
-      "status": "candidate",
-      "created_at": "2026-11-17T13:06:31+0900"
     },
     {
       "seed_id": "seed_cd431a10e595",
