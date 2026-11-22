@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T04:50:00+09:00",
+  "generated_at": "2026-11-22T10:33:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,98 +7,99 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 10,
-    "passed_total": 105,
+    "neg_excluded": 9,
+    "dedup_excluded": 12,
+    "passed_total": 111,
     "b2b_category_counts": {
-      "yahoo_realtime": 22,
+      "x_realtime": 6,
+      "yahoo_realtime": 31,
       "google_trends": 10,
-      "news_web": 26,
-      "yahoo_news_ranking": 3,
-      "x_realtime": 9
+      "news_web": 19,
+      "yahoo_news_ranking": 4
     }
   },
   "note_category_counts": {
-    "social_reaction": 24,
-    "personal_story": 1,
+    "social_reaction": 30,
     "opinion": 10,
-    "policy": 4,
-    "hard_fact": 30,
-    "medical_science": 1
+    "personal_story": 1,
+    "medical_science": 5,
+    "policy": 2,
+    "hard_fact": 22
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 24,
-    "policy": 4,
+    "social_reaction": 30,
+    "policy": 2,
+    "medical_science": 4,
     "opinion": 10,
-    "hard_fact": 31,
+    "hard_fact": 23,
     "personal_story": 1
   },
   "b2b_top10": [
     {
-      "title": "〈神社でダンスして大炎上〉「神社はパフォーマンスの舞台ではない」スロバキアのダン",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "【閲覧注意】亡くなったレッサーパンダの背中と尻尾を展示する秋吉台サファリランドに",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「まるで代理人」原油・LNGの販路開く日本　脱・化石燃料はどこへ：朝日新聞",
+      "title": "「エコキュートの室外機をサーバ室に置いたら冬季の冷却コスト実質無料どころかマイナ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "防衛費70〜80兆円を与党が要求　財務省案に「足りない」と批判相次ぐ　首相の判断",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "「何もかも正しいのにイラストのせいで不安になってくる」今年も国土交通省からのお知",
+      "title": "ロシア、デンマークでラッパー男性の暗殺を計画　当局が阻止、制裁強化へ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ベトナム、違法薬物取引や未成年者に対するレイプなどを死刑の対象外に",
+      "title": "「この国が30年間まともな方向へ行ってたらきっとシンガポールのようになっていた」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "リール 対 リヨン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "高市首相の中国到着時に飛行機とタラップの間に段差は事前情報があったようで - 電",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
     },
     {
-      "title": "前橋市",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "中央新幹線",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "上林誠知",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "この時期の札幌の午後4時台がどのくらい暗いかを分からせるために各地のライブカメラ",
+      "title": "コインパーキングに停めて戻ってきたら「日本語理解できない者を、馬鹿という。ルール",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "lost10",
+      "title": "バーチャル高校野球",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "戸崎圭太",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "リオネル・メッシ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,64 +107,64 @@
   ],
   "note_top10": [
     {
+      "title": "【閲覧注意】亡くなったレッサーパンダの背中と尻尾を展示する秋吉台サファリランドに",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「エコキュートの室外機をサーバ室に置いたら冬季の冷却コスト実質無料どころかマイナ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ロシア、デンマークでラッパー男性の暗殺を計画　当局が阻止、制裁強化へ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「この国が30年間まともな方向へ行ってたらきっとシンガポールのようになっていた」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "コインパーキングに停めて戻ってきたら「日本語理解できない者を、馬鹿という。ルール",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "うちのシャンプー容器がこれなんですけど、今日友達が泊まりに来たら説明しないといけ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「初めて旅行中に帰りたくなった」壱角家のまずさが話題だが、ラーメン二郎直系の中で",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「主人公二人のクソデカ友情すれ違いで激刺さりしてる」「慧月が本当に可愛いんじゃ…",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ハンドクリームをまめに塗る生活に憧れるけど、PCやスマホがオイリーになるのが嫌で",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "この時期の札幌の午後4時台がどのくらい暗いかを分からせるために各地のライブカメラ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "〈神社でダンスして大炎上〉「神社はパフォーマンスの舞台ではない」スロバキアのダン",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「何もかも正しいのにイラストのせいで不安になってくる」今年も国土交通省からのお知",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ベトナム、違法薬物取引や未成年者に対するレイプなどを死刑の対象外に",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "父親が「俺は一度も子供叩いたことがない」と言って母も自分も絶句した→同様の体験談",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "不妊原因の約5割は男性に　妊活など将来設計見据えた「精子力」チェック、健康管理に",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "リール 対 リヨン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "前橋市",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "中央新幹線",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "上林誠知",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ]
 }
