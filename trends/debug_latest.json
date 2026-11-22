@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T17:51:00+09:00",
+  "generated_at": "2026-11-23T00:42:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,153 +16,153 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 4,
-    "dedup_excluded": 10,
+    "neg_excluded": 3,
+    "dedup_excluded": 11,
     "passed_total": 118,
     "b2b_category_counts": {
-      "yahoo_realtime": 35,
+      "yahoo_realtime": 40,
       "google_trends": 10,
-      "x_realtime": 8,
-      "news_web": 17
+      "x_realtime": 6,
+      "news_web": 12,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 34,
+    "social_reaction": 37,
+    "personal_story": 4,
+    "hard_fact": 16,
     "opinion": 10,
-    "personal_story": 3,
-    "medical_science": 3,
-    "policy": 3,
-    "hard_fact": 17
+    "policy": 2,
+    "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
+    "hard_fact": 17,
+    "social_reaction": 37,
     "opinion": 10,
-    "policy": 3,
-    "hard_fact": 19,
-    "personal_story": 3,
-    "medical_science": 2
+    "policy": 2,
+    "personal_story": 4
   },
   "b2b_top10": [
     {
-      "title": "【閲覧注意】亡くなったレッサーパンダの背中と尻尾を展示する秋吉台サファリランドに",
+      "title": "[人気投票結果発表]ケントゥリア - 暗森透 | 少年ジャンプ＋",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "[第215話]ラーメン赤猫 - アンギャマン | 少年ジャンプ＋",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "大の里",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "元TBSアナ・国山ハセンさんが事業が失敗に終わったことをXに投稿したが、その内容",
+      "title": "反差別のやり方に異を唱えたハナブサノブユキさん、似顔絵が踏まれ被害を嘲笑される",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "防衛費70〜80兆円を与党が要求　財務省案に「足りない」と批判相次ぐ　首相の判断",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "高市早苗首相　APECで受けた中国からの“冷遇”、プーチン大統領にも“身長コンプ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "相撲",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "相撲結果",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "熱海富士",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "金慧成",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "野良生活をしていた成猫の長毛種を時間をかけて保護し、ブラッシングとお風呂を終えた",
+      "title": "国が認めたJR東の値上げが異例の審議へ…マスコミが報じない｢山手線通勤定期22.",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "MetaのAIエージェント「Muse」は何ができる？　ChatGPTやGemin",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ボランチ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "被告",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "佐久間朱莉",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "市川紗椰",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ちゃんみな",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
-      "title": "元TBSアナ・国山ハセンさんが事業が失敗に終わったことをXに投稿したが、その内容",
+      "title": "[第215話]ラーメン赤猫 - アンギャマン | 少年ジャンプ＋",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【閲覧注意】亡くなったレッサーパンダの背中と尻尾を展示する秋吉台サファリランドに",
+      "title": "反差別のやり方に異を唱えたハナブサノブユキさん、似顔絵が踏まれ被害を嘲笑される",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "野良生活をしていた成猫の長毛種を時間をかけて保護し、ブラッシングとお風呂を終えた",
+      "title": "国が認めたJR東の値上げが異例の審議へ…マスコミが報じない｢山手線通勤定期22.",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "安易に「Youtuberになるな」と言わないでほしい",
+      "title": "MetaのAIエージェント「Muse」は何ができる？　ChatGPTやGemin",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「これ本当によくわかる」夫の遺品整理を3年半にわたってやってきた人による「死ぬま",
+      "title": "先日職場の中堅層の重鎮が2人退職…理由は「仕事量と責任だけが増え、給料が全然増え",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "第53話 たしかにな / ふたりバス - 豊林サカネ | サンデーうぇぶり",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "イオンモール船橋の駐車場で「空から突然ジュース缶が降ってきた」→防犯カメラで子ど",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "おやつ屋「六花亭」が不正アクセス、クレカのセキュリティコードまで流出→最上位のや",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "片耳を失聴してる娘が自動車学校に申し込んだら警察署→免許センターとたらい回しされ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "毎日が驚きの発見ばかりの子猫が「お母さん！！お父さんがラーメン作りよぉ！！」「シ",
+      "title": "冬の大学に水筒で「アツアツの出汁」を持参、卒論やレポートの合間に飲むとメンタルに",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "温野菜公式がXに投稿した女性の食べ方に「汚い」「食欲失せる」の批判が→飲食チェー",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「家に使い切ってないハンドクリームが1万本あるのに出先でハンドクリーム忘れてるこ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "大の里",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "地球に新たな「ミニ・ムーン」、極小天体が一時的に重力圏入り",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
