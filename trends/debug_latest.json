@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T00:42:00+09:00",
+  "generated_at": "2026-11-23T04:59:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,50 +16,50 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 3,
-    "dedup_excluded": 11,
-    "passed_total": 118,
+    "neg_excluded": 6,
+    "dedup_excluded": 12,
+    "passed_total": 114,
     "b2b_category_counts": {
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 36,
       "google_trends": 10,
       "x_realtime": 6,
-      "news_web": 12,
-      "yahoo_news_ranking": 2
+      "news_web": 15,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
     "social_reaction": 37,
-    "personal_story": 4,
-    "hard_fact": 16,
     "opinion": 10,
-    "policy": 2,
+    "personal_story": 2,
+    "hard_fact": 19,
+    "policy": 1,
     "medical_science": 1
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 17,
     "social_reaction": 37,
     "opinion": 10,
-    "policy": 2,
-    "personal_story": 4
+    "hard_fact": 20,
+    "policy": 1,
+    "personal_story": 2
   },
   "b2b_top10": [
-    {
-      "title": "[人気投票結果発表]ケントゥリア - 暗森透 | 少年ジャンプ＋",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "[第215話]ラーメン赤猫 - アンギャマン | 少年ジャンプ＋",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
     {
       "title": "反差別のやり方に異を唱えたハナブサノブユキさん、似顔絵が踏まれ被害を嘲笑される",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "十両",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "武豊",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "国が認めたJR東の値上げが異例の審議へ…マスコミが報じない｢山手線通勤定期22.",
@@ -68,37 +68,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "MetaのAIエージェント「Muse」は何ができる？　ChatGPTやGemin",
+      "title": "三山 ひろし",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ドラム vivant ドラム",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "冬の大学に水筒で「アツアツの出汁」を持参、卒論やレポートの合間に飲むとメンタルに",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ボランチ",
+      "title": "いろはの恋は時代をかける",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "被告",
+      "title": "株式公開",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "佐久間朱莉",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "市川紗椰",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ちゃんみな",
+      "title": "muse",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,25 +106,19 @@
   ],
   "note_top10": [
     {
-      "title": "[第215話]ラーメン赤猫 - アンギャマン | 少年ジャンプ＋",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "反差別のやり方に異を唱えたハナブサノブユキさん、似顔絵が踏まれ被害を嘲笑される",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "国が認めたJR東の値上げが異例の審議へ…マスコミが報じない｢山手線通勤定期22.",
+      "title": "冬の大学に水筒で「アツアツの出汁」を持参、卒論やレポートの合間に飲むとメンタルに",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "MetaのAIエージェント「Muse」は何ができる？　ChatGPTやGemin",
+      "title": "国が認めたJR東の値上げが異例の審議へ…マスコミが報じない｢山手線通勤定期22.",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -136,33 +130,39 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "第53話 たしかにな / ふたりバス - 豊林サカネ | サンデーうぇぶり",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "イオンモール船橋の駐車場で「空から突然ジュース缶が降ってきた」→防犯カメラで子ど",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "おやつ屋「六花亭」が不正アクセス、クレカのセキュリティコードまで流出→最上位のや",
+      "title": "十両",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "武豊",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "一度スーパーで熊に襲われた人が、2ヶ月後に2.4km離れた駅でも襲われた…一説に",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "元TBSアナ・国山ハセンさんが事業が失敗に終わったことをXに投稿したが、その内容",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "片耳を失聴してる娘が自動車学校に申し込んだら警察署→免許センターとたらい回しされ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "冬の大学に水筒で「アツアツの出汁」を持参、卒論やレポートの合間に飲むとメンタルに",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "女性が愚か者である限りAEDを使われることはない。法律の作り方からして争えるよう",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     }
   ]
