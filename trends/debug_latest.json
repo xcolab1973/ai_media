@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:47:00+09:00",
+  "generated_at": "2026-11-24T04:30:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,164 +7,164 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 8,
-    "passed_total": 107,
+    "neg_excluded": 4,
+    "dedup_excluded": 13,
+    "passed_total": 115,
     "b2b_category_counts": {
-      "news_web": 19,
-      "yahoo_news_ranking": 5,
-      "yahoo_realtime": 27,
+      "yahoo_realtime": 38,
       "google_trends": 10,
-      "x_realtime": 9
+      "news_web": 15,
+      "yahoo_news_ranking": 2,
+      "x_realtime": 5
     }
   },
   "note_category_counts": {
-    "social_reaction": 26,
-    "personal_story": 3,
+    "social_reaction": 27,
+    "personal_story": 7,
     "opinion": 10,
-    "medical_science": 3,
-    "hard_fact": 25,
-    "policy": 3
+    "medical_science": 5,
+    "policy": 3,
+    "hard_fact": 18
   },
   "b2b_topic_category_counts": {
-    "hard_fact": 27,
-    "social_reaction": 26,
+    "social_reaction": 27,
+    "personal_story": 7,
     "opinion": 10,
-    "personal_story": 3,
-    "medical_science": 1,
-    "policy": 3
+    "hard_fact": 21,
+    "policy": 3,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "気圧低下 24日は頭痛やめまい注意",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "カスハラ対策 試行錯誤する企業",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "北海道一年目九州民ワイ「んっ…❤️これって本当に横断歩道なんですか？❤️」地元民",
+      "title": "中国で縦型ショートドラマを作成する制作陣のドキュメンタリーがNHKスペシャルで放",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "浦田俊輔",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "森山みなみ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "全国高等学校ラグビーフットボール大会",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "山本耕史",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "byd ti7 ディフェンダー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "リンレイのウルトラハードクリーナーちょっと素晴らしすぎるだろ、お掃除界のクレイジ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "『反戦サッカー部はサッカーファンなのか』という記事に、識者がファクトチェックを行",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "マンションの外に出ようとしたら管理人さんが笑顔で「急ぎじゃなければ今外出ないで」",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "title": "M-1グランプリ 2026 演芸おんせん | バラエティ | 見逃し無料配信はT",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "子どもを希望する婚活男性が知らなくてはいけないこと【全文無料】｜井尻 |仲人して",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "旦那、晩ごはん作ってくれるのはいいけど、焼きうどん作るのに4000円も使うのやめ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "宝くじ 当選番号 ロト6",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ストアーズの料金値上げについて／オンラインストアの預け先：書店さん・小売さん向け",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "近藤 真彦",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "個人情報",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "沖縄県",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     }
   ],
   "note_top10": [
     {
+      "title": "中国で縦型ショートドラマを作成する制作陣のドキュメンタリーがNHKスペシャルで放",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『反戦サッカー部はサッカーファンなのか』という記事に、識者がファクトチェックを行",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "子どもを希望する婚活男性が知らなくてはいけないこと【全文無料】｜井尻 |仲人して",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "M-1グランプリ 2026 演芸おんせん | バラエティ | 見逃し無料配信はT",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "旦那、晩ごはん作ってくれるのはいいけど、焼きうどん作るのに4000円も使うのやめ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ストアーズの料金値上げについて／オンラインストアの預け先：書店さん・小売さん向け",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "タイミー先の人とめっちゃ仲良くなったので「今度ごはん行きましょ」と誘ったら…「私",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "元100均の中の人として忠告…カレンダーや手帳を100均で済ますつもりならもう買",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「推しの聖地だからです！！」池袋の一蘭に多数の行列……中には女性もいたが何があっ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "リンレイのウルトラハードクリーナーちょっと素晴らしすぎるだろ、お掃除界のクレイジ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「渋柿は焼酎で甘くなる」と聞いてやってみたら、とある理由で失敗…→先人たちが自分",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "北海道一年目九州民ワイ「んっ…❤️これって本当に横断歩道なんですか？❤️」地元民",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "マンションの外に出ようとしたら管理人さんが笑顔で「急ぎじゃなければ今外出ないで」",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "カーテンから漏れた光を受けてちょっとカラフルになった猫ちゃん「黒って300色ある",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "お湯注ぐだけ「カップご飯」好調、レンジ・炊飯器なくても「炊き立て」…「あさげ」「",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ワコム買収のニュースに「また日本企業が…」と嘆く声も、事情を知ると複雑な気持ちに",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "共働きの親が「拘束時間が長いから」と選んだ塾、塾長に懇願され、「私は公立に行くん",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "スカウトを受けて「願ってもないお話です」と返事をしたら、「やりたい！と強い熱意と",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "共働きの親が託児所代わりに入塾させた塾で成績が伸び、「私は公立に行く」と決めてい",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
     }
   ]
 }
