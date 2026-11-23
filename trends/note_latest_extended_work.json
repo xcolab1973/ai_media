@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-23T16:40:34+09:00",
- "valid_until": "2026-12-07T16:39:32+09:00",
+ "generated_at": "2026-11-24T06:28:22+09:00",
+ "valid_until": "2026-12-08T06:27:54+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -498,6 +498,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "雇用保険法等の一部を改正する法律等の概要（厚生労働省 職業安定分科会資料）",
+   "url": "https://www.mhlw.go.jp/content/11601000/001266437.pdf",
+   "summary": "自己都合退職の給付制限は2025年4月1日から原則2か月→1か月に短縮。ただし5年間に3回以上の自己都合離職は3か月のまま。離職前1年以内や離職期間中に教育訓練を受けると制限が解除される。教育訓練給付の給付率上限は2024年10月から80%へ。（本文確認済）",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "official_instruction",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "work-quit",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "厚生労働省",
+    "expert_origin": true,
+    "search_query": "令和8年 雇用保険 自己都合退職 給付制限 失業手当 改正 施行 2026年",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-12-08T06:27:54+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "Q＆A～労働者の皆様へ（基本手当、再就職手当）～｜厚生労働省",
    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000139508.html",
    "summary": "自己都合退職の給付制限は退職日が2025年4月1日以降なら原則1か月。5年以内に2回以上の自己都合退職等は3か月。給付制限中の再就職は再就職手当の対象になる場合がある（本文確認済）",
@@ -704,36 +734,6 @@
     "rescued": false
    },
    "valid_until": "2026-12-02T06:28:12+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "冬のボーナスは退職するともらえない？就業規則の「支給日在籍」の条件で分かれ目は伝えた日ではなく退職日",
-   "url": "https://limo.media/articles/-/144275",
-   "summary": "ボーナスは法律上の支給義務がなく、条件は就業規則・賃金規程で決まる。支給日在籍が条件の会社では、支給日前の退職は対象外になりうる。判断基準は退職を伝えた日ではなく退職日（本文確認済）",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "soft_fact",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "work-quit",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "LIMO",
-    "expert_origin": true,
-    "search_query": "退職 ボーナス 支給日 在籍 退職日 ずらす 冬のボーナス 2026",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-11-30T06:30:44+09:00",
    "validity_days": 14
   },
   {
