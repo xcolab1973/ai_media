@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T09:25:00+09:00",
+  "generated_at": "2026-11-24T14:29:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,40 +16,54 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 5,
-    "dedup_excluded": 7,
-    "passed_total": 120,
+    "neg_excluded": 10,
+    "dedup_excluded": 10,
+    "passed_total": 112,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
+      "yahoo_realtime": 34,
+      "news_web": 14,
       "google_trends": 10,
-      "x_realtime": 10,
-      "yahoo_news_ranking": 3,
-      "news_web": 15
+      "yahoo_news_ranking": 5,
+      "x_realtime": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 37,
-    "personal_story": 8,
-    "opinion": 9,
-    "hard_fact": 13,
-    "policy": 1,
-    "medical_science": 2
+    "social_reaction": 32,
+    "personal_story": 1,
+    "opinion": 10,
+    "medical_science": 5,
+    "hard_fact": 19,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 33,
-    "personal_story": 7,
-    "opinion": 9,
-    "hard_fact": 21
+    "social_reaction": 32,
+    "hard_fact": 21,
+    "personal_story": 1,
+    "opinion": 10,
+    "medical_science": 3,
+    "policy": 3
   },
   "b2b_top10": [
     {
-      "title": "中国で縦型ショートドラマを作成する制作陣のドキュメンタリーがNHKスペシャルで放",
+      "title": "アシックスの革靴を履いてから他のメーカーの革靴は履けなくなった…ビジネスシューズ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "[第111話]限界OL霧切ギリ子 - ミートスパ土本 | 少年ジャンプ＋",
+      "title": "イスラエルの攻撃でガザ全土に有害物質　大気も水も土壌も汚染、住民に深刻な健康リス",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "くら寿司22品値上げ 34品値下げ",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "中国で縦型ショートドラマを作成する制作陣のドキュメンタリーがNHKスペシャルで放",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -61,57 +75,51 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "競馬予想AI Agentを自分専用競馬新聞プロダクトとして再構築した - PoC",
+      "title": "横浜denaベイスターズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "かっぱ 寿司 閉店",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "バザールでござーる サイト終了へ",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_it",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "実家に空き巣が入った時、防犯カメラがカラースプレーで塗り潰され、警報が鳴って5分",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "ナオキマン",
+      "title": "chrome脆弱性",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
-    },
-    {
-      "title": "ヤフーファイナンス",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "暗渠",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ホラン千秋",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "股関節",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "株価 リアルタイム",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
     }
   ],
   "note_top10": [
     {
-      "title": "中国で縦型ショートドラマを作成する制作陣のドキュメンタリーがNHKスペシャルで放",
+      "title": "アシックスの革靴を履いてから他のメーカーの革靴は履けなくなった…ビジネスシューズ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "[第111話]限界OL霧切ギリ子 - ミートスパ土本 | 少年ジャンプ＋",
+      "title": "イスラエルの攻撃でガザ全土に有害物質　大気も水も土壌も汚染、住民に深刻な健康リス",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "中国で縦型ショートドラマを作成する制作陣のドキュメンタリーがNHKスペシャルで放",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -123,43 +131,37 @@
       "topic_category": "personal_story"
     },
     {
-      "title": "競馬予想AI Agentを自分専用競馬新聞プロダクトとして再構築した - PoC",
+      "title": "実家に空き巣が入った時、防犯カメラがカラースプレーで塗り潰され、警報が鳴って5分",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
+      "topic_category": "social_reaction"
     },
     {
-      "title": "大学生の頃、冬になったら水筒に温かい出汁を入れて持ち歩いていたが相当にメンタルに",
+      "title": "実家で家族と大学院合格おめでとう会を開いたところ、父が酔った勢いで「私と妹には腹",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "カップヌードルミュージアムに行った報告をXにアップしたら12時間ロック、「合意の",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "サウンドサンタ2026で最大10万円分の商品プレゼント！サウンドハウスクリスマス",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ロシアが年内に核弾頭搭載の衛星打ち上げ計画か ドイツ報道 | NHKニュース",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "バイブ形式手法のハマりどころ2選 - 若くない何かの悩み",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "アフリカでは携帯電話が普及したことにより部族間のホットラインが成立して部族抗争が",
+      "title": "垢抜けするために『脱オタク ファッションバイブル』を買ったら1ページ目からこれ提",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "電車で向かいのお姉さんが彼氏らしき人の膝の上で寝ていたところ、急に彼女が隣に座っ",
+      "title": "次男が選ぶランドセルは一番好きなデザインにしてもらおうと見守ってたんだけど、二択",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「腕の中に入ってあー、出れないなー！みたいな態度とってる」ペンギンから愛されてる",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
