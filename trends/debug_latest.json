@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T20:38:00+09:00",
+  "generated_at": "2026-11-25T04:06:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,161 +7,161 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 9,
-    "dedup_excluded": 8,
-    "passed_total": 105,
+    "neg_excluded": 14,
+    "dedup_excluded": 9,
+    "passed_total": 109,
     "b2b_category_counts": {
-      "yahoo_realtime": 26,
-      "x_realtime": 9,
-      "google_trends": 10,
-      "yahoo_news_ranking": 9,
-      "news_web": 16
+      "yahoo_realtime": 33,
+      "google_trends": 9,
+      "x_realtime": 8,
+      "yahoo_news_ranking": 5,
+      "news_web": 15
     }
   },
   "note_category_counts": {
-    "social_reaction": 21,
-    "personal_story": 3,
-    "opinion": 10,
-    "hard_fact": 27,
-    "policy": 5,
-    "medical_science": 4
+    "social_reaction": 28,
+    "personal_story": 5,
+    "opinion": 9,
+    "policy": 3,
+    "medical_science": 5,
+    "hard_fact": 20
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 21,
-    "hard_fact": 27,
-    "policy": 7,
-    "opinion": 10,
-    "personal_story": 3,
-    "medical_science": 2
+    "policy": 6,
+    "social_reaction": 28,
+    "opinion": 9,
+    "personal_story": 5,
+    "hard_fact": 19,
+    "medical_science": 3
   },
   "b2b_top10": [
     {
-      "title": "15年ほど防犯防災関係の職務に就き、職務中に暴漢を無力化した経験から素人へのアド",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "小学館マンガワンで連載されていた『アフターゴッド』が移籍を発表→この告知によりコ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "イギリスは8人に1人がニート　政府が就労支援、若者採用の企業に助成 - 日本経済",
+      "title": "木原稔官房長官「セキネ所長」…ICC赤根智子所長の名前を繰り返し言い間違う：東京",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "辻本達規",
+      "title": "AED論争、結局のところ「意識消失した17歳の女子高生を50代の中年おじさんが人",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "イスラエルの攻撃でガザ全土に有害物質　大気も水も土壌も汚染、住民に深刻な健康リス",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "アシックスの革靴を履いてから他のメーカーの革靴は履けなくなった…ビジネスシューズ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "トランプ大統領",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "レインボー池田",
+      "title": "歴が浅い宝塚ファンの人と話をしていたら気分を害した様子だったのでなんで？と思った",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "byd",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "しまむら ブラック フライデー",
+      "title": "npb awards",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "アインシュタイン 芸人",
+      "title": "ガラタサライ 対 アストン・ビラ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "河井ゆずる",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "芳根京子 本田響矢",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "グランド・セフト・オート",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "帰宅したら玄関で飼い犬がアヒルのぬいぐるみを凄惨な姿にしていた話…犬の「怒られる",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     }
   ],
   "note_top10": [
     {
-      "title": "15年ほど防犯防災関係の職務に就き、職務中に暴漢を無力化した経験から素人へのアド",
+      "title": "AED論争、結局のところ「意識消失した17歳の女子高生を50代の中年おじさんが人",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "イスラエルの攻撃でガザ全土に有害物質　大気も水も土壌も汚染、住民に深刻な健康リス",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "アシックスの革靴を履いてから他のメーカーの革靴は履けなくなった…ビジネスシューズ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "歴が浅い宝塚ファンの人と話をしていたら気分を害した様子だったのでなんで？と思った",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "長女がほぼ毎日夕食に文句を言うので穏やかに叱っていたが、今日プチっと何かが切れて",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "北海道内3自治体の住民基本台帳や土地データ7万件超が流出の恐れ 委託先GIS北海",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "社員の4分の1が一斉に辞めた…｢信長の野望｣生みの親･襟川会長が､その退職者たち",
+      "title": "帰宅したら玄関で飼い犬がアヒルのぬいぐるみを凄惨な姿にしていた話…犬の「怒られる",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "画集（喜久田ゆい先生）と、楽園追放（水島精二監督）のこと｜高河ゆん",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "中国人経営の中国料理店で麻婆豆腐を頼む時に「四川人レベルで辛くして」とお願いして",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
+      "title": "オタク趣味＝非モテ　はあったよ、だって当時の若者文化の異端だったから - シロク",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "イオンモール系VTuberの人のことを「このスタイルを確立するまでには色々な試行",
+      "title": "「楽しむ努力はしたよ」ちいかわクリスマスマーケット、あいにくの悪天候で泥だらけの",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "生涯独身の覚悟を決めている中、唯一の家族である母親が亡くなったら、転職時の手続き",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "無職でずっとアパートにいた時、隣の部屋から物音が…あまりに音が続くので風呂場の小",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "母を麻辣湯のお店に誘ったら「あれもこれも自分で好きに選べるなんて責任逃れでしかな",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "刑務所に行った事がある人に質問なんやけど、ペットが居た場合ペットはどうなるの？？",
+      "title": "お坊さんなのでハッキリ言いますが、「根はいい人なんだよ」は「実が腐ってるんだよ」",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
