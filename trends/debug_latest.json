@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T14:29:00+09:00",
+  "generated_at": "2026-11-24T20:38:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,99 +7,99 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 10,
-    "passed_total": 112,
+    "neg_excluded": 9,
+    "dedup_excluded": 8,
+    "passed_total": 105,
     "b2b_category_counts": {
-      "yahoo_realtime": 34,
-      "news_web": 14,
+      "yahoo_realtime": 26,
+      "x_realtime": 9,
       "google_trends": 10,
-      "yahoo_news_ranking": 5,
-      "x_realtime": 7
+      "yahoo_news_ranking": 9,
+      "news_web": 16
     }
   },
   "note_category_counts": {
-    "social_reaction": 32,
-    "personal_story": 1,
+    "social_reaction": 21,
+    "personal_story": 3,
     "opinion": 10,
-    "medical_science": 5,
-    "hard_fact": 19,
-    "policy": 3
+    "hard_fact": 27,
+    "policy": 5,
+    "medical_science": 4
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 32,
-    "hard_fact": 21,
-    "personal_story": 1,
+    "social_reaction": 21,
+    "hard_fact": 27,
+    "policy": 7,
     "opinion": 10,
-    "medical_science": 3,
-    "policy": 3
+    "personal_story": 3,
+    "medical_science": 2
   },
   "b2b_top10": [
     {
-      "title": "アシックスの革靴を履いてから他のメーカーの革靴は履けなくなった…ビジネスシューズ",
+      "title": "15年ほど防犯防災関係の職務に就き、職務中に暴漢を無力化した経験から素人へのアド",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "イスラエルの攻撃でガザ全土に有害物質　大気も水も土壌も汚染、住民に深刻な健康リス",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "くら寿司22品値上げ 34品値下げ",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
+      "title": "小学館マンガワンで連載されていた『アフターゴッド』が移籍を発表→この告知によりコ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "hard_fact"
     },
     {
-      "title": "中国で縦型ショートドラマを作成する制作陣のドキュメンタリーがNHKスペシャルで放",
+      "title": "イギリスは8人に1人がニート　政府が就労支援、若者採用の企業に助成 - 日本経済",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "policy"
     },
     {
-      "title": "M-1グランプリ 2026 演芸おんせん | バラエティ | 見逃し無料配信はT",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "横浜denaベイスターズ",
+      "title": "辻本達規",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "かっぱ 寿司 閉店",
+      "title": "レインボー池田",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "バザールでござーる サイト終了へ",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_it",
-      "topic_category": "hard_fact"
+      "title": "しまむら ブラック フライデー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "実家に空き巣が入った時、防犯カメラがカラースプレーで塗り潰され、警報が鳴って5分",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "アインシュタイン 芸人",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "chrome脆弱性",
+      "title": "河井ゆずる",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "芳根京子 本田響矢",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "グランド・セフト・オート",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
-      "title": "アシックスの革靴を履いてから他のメーカーの革靴は履けなくなった…ビジネスシューズ",
+      "title": "15年ほど防犯防災関係の職務に就き、職務中に暴漢を無力化した経験から素人へのアド",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "イスラエルの攻撃でガザ全土に有害物質　大気も水も土壌も汚染、住民に深刻な健康リス",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "長女がほぼ毎日夕食に文句を言うので穏やかに叱っていたが、今日プチっと何かが切れて",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
     },
     {
-      "title": "中国で縦型ショートドラマを作成する制作陣のドキュメンタリーがNHKスペシャルで放",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "M-1グランプリ 2026 演芸おんせん | バラエティ | 見逃し無料配信はT",
+      "title": "北海道内3自治体の住民基本台帳や土地データ7万件超が流出の恐れ 委託先GIS北海",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "personal_story"
     },
     {
-      "title": "実家に空き巣が入った時、防犯カメラがカラースプレーで塗り潰され、警報が鳴って5分",
+      "title": "社員の4分の1が一斉に辞めた…｢信長の野望｣生みの親･襟川会長が､その退職者たち",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "実家で家族と大学院合格おめでとう会を開いたところ、父が酔った勢いで「私と妹には腹",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "中国人経営の中国料理店で麻婆豆腐を頼む時に「四川人レベルで辛くして」とお願いして",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "personal_story"
     },
     {
-      "title": "カップヌードルミュージアムに行った報告をXにアップしたら12時間ロック、「合意の",
+      "title": "イオンモール系VTuberの人のことを「このスタイルを確立するまでには色々な試行",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "垢抜けするために『脱オタク ファッションバイブル』を買ったら1ページ目からこれ提",
+      "title": "生涯独身の覚悟を決めている中、唯一の家族である母親が亡くなったら、転職時の手続き",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "次男が選ぶランドセルは一番好きなデザインにしてもらおうと見守ってたんだけど、二択",
+      "title": "無職でずっとアパートにいた時、隣の部屋から物音が…あまりに音が続くので風呂場の小",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「腕の中に入ってあー、出れないなー！みたいな態度とってる」ペンギンから愛されてる",
+      "title": "母を麻辣湯のお店に誘ったら「あれもこれも自分で好きに選べるなんて責任逃れでしかな",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "刑務所に行った事がある人に質問なんやけど、ペットが居た場合ペットはどうなるの？？",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
