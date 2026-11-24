@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T16:39:45+09:00",
+ "generated_at": "2026-11-25T06:29:48+09:00",
  "valid_until": "2026-12-08T06:26:33+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,8 +9,8 @@
  "merge": {
   "parent": "biz",
   "from_current": 16,
-  "from_new": 0,
-  "expired_pruned": 0,
+  "from_new": 1,
+  "expired_pruned": 1,
   "retention_dropped": 0,
   "genres": 3,
   "retention_per_genre": 8
@@ -168,24 +168,24 @@
   },
   {
    "source_category": "news_web",
-   "raw_title": "EC年末商戦の売上対策｜8週間前からの準備スケジュールとセール設計",
-   "url": "https://ec-tsumugu.com/method/ec-yearend-sales",
-   "summary": "年末商戦に向けた準備スケジュールとセール設計の解説。タイトルと媒体名から言える範囲。",
+   "raw_title": "補助金採択後にすること【2026年版】交付申請・実績報告・精算の流れを完全解説",
+   "url": "https://hojokinnavi.com/blog/hojokin-saitaku-go-tetsuzuki",
+   "summary": "採択後は交付申請、実績報告、精算の順に進む流れを解説した記事。採択は入金ではない点など、採択後につまずきやすい手続きの整理として角度の種になる。数値・日付は未確認。",
    "signal_type": "evergreen",
    "engagement_signal": false,
    "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
+   "preliminary_claim_type": "soft_fact",
    "relevance_to_niche": "high",
    "topic_category": null,
-   "primary_genre": "biz-ec-shop",
+   "primary_genre": "biz-subsidy",
    "karte_matched_category": null,
    "karte_aligned": false,
    "account_id": "default",
    "origin": "pre_collector_extended",
    "provenance": {
-    "source_name": "EC Tsumugu",
+    "source_name": "補助金ナビ",
     "expert_origin": false,
-    "search_query": "ネットショップ 年末商戦 配送遅延 クレーム 対策 EC運営 2026 ブラックフライデー 後",
+    "search_query": "補助金 採択後 経費 対象外 失敗 交付申請 実績報告 つまずき 事業者 知恵袋",
     "freshness": "evergreen",
     "integrity_warning": null,
     "provenance_kind": "evidence",
@@ -193,8 +193,8 @@
     "discovered_angle": null,
     "rescued": false
    },
-   "valid_until": "2026-11-25T06:26:34+09:00",
-   "validity_days": 5
+   "valid_until": "2026-12-02T06:27:22+09:00",
+   "validity_days": 7
   },
   {
    "source_category": "news_web",
