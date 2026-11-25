@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T13:33:00+09:00",
+  "generated_at": "2026-11-25T19:30:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,97 +7,101 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 10,
-    "dedup_excluded": 10,
-    "passed_total": 102,
+    "neg_excluded": 6,
+    "dedup_excluded": 9,
+    "passed_total": 117,
     "b2b_category_counts": {
-      "yahoo_realtime": 22,
+      "yahoo_realtime": 30,
       "google_trends": 10,
-      "news_web": 21,
-      "yahoo_news_ranking": 8,
+      "news_web": 15,
+      "yahoo_news_ranking": 6,
       "x_realtime": 9
     }
   },
   "note_category_counts": {
-    "social_reaction": 19,
-    "policy": 11,
-    "opinion": 10,
-    "hard_fact": 28,
-    "medical_science": 2
+    "social_reaction": 37,
+    "analysis": 1,
+    "personal_story": 2,
+    "medical_science": 6,
+    "opinion": 8,
+    "policy": 1,
+    "hard_fact": 15
   },
   "b2b_topic_category_counts": {
-    "policy": 12,
-    "social_reaction": 19,
-    "opinion": 10,
-    "hard_fact": 28,
-    "medical_science": 1
+    "medical_science": 4,
+    "policy": 1,
+    "social_reaction": 30,
+    "opinion": 8,
+    "analysis": 1,
+    "hard_fact": 24,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "民泊規制でスタッフ常駐義務、ホテルに余波　フロント無人化に逆風 - 日本経済新聞",
+      "title": "防衛費目減り「言行不一致」も　増強公約の首相、増税に後ろ向き―新計画、攻防最終局",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "高市首相のタラップ段差、政府専用機は予定通り到着　外務省が「1時間早着」情報を否",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "AED論争、結局のところ「意識消失した17歳の女子高生を50代の中年おじさんが人",
+      "title": "C言語が危険なのではない。コンピュータが危険なのだ - keroxpのScrap",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "金",
+      "title": "上海市トップ・陳吉寧失脚の衝撃",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "高橋 元気 芸人 写真",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ゴリ",
+      "title": "工藤公康",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "マリオカート ワールド アップデート",
+      "title": "モームリ ランキング",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "topic_category": "analysis"
     },
     {
-      "title": "週後半は気温上昇予想 寒暖差注意",
+      "title": "おでんツンツンで大炎上 男性の今",
       "source_category": "news_web",
-      "raw_source_key": "yahoo_news_domestic",
+      "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "くら寿司 値上げ・値下げ同時なぜ",
-      "source_category": "yahoo_news_ranking",
-      "raw_source_key": "yahoo_news_business",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "娘の病院は13時30分～14時30分までの電話予約のみ、電話しても「大変混み合っ",
+      "title": "ネットで怖いと話題になったACのCMの話をしていたら、関係者が登場して当時のこと",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "hard_fact"
     },
     {
-      "title": "hr03",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "一松旬",
+      "title": "融資",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -105,64 +109,64 @@
   ],
   "note_top10": [
     {
-      "title": "AED論争、結局のところ「意識消失した17歳の女子高生を50代の中年おじさんが人",
+      "title": "C言語が危険なのではない。コンピュータが危険なのだ - keroxpのScrap",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "モームリ ランキング",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "analysis"
+    },
+    {
+      "title": "上海市トップ・陳吉寧失脚の衝撃",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "2029年 大河ドラマ「三成のうた」主人公・石田三成役は神木隆之介さん！",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ウィンナーを最初にタコにした人って絶対性格良いだろうな→考案者もその家族も凄い一",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "半年ほど前、父がどうぶつの森をはじめたと言っていたので今日進み具合を聞いたところ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "NHK大河ドラマ『豊臣兄弟！』で暴走する豊臣秀吉の姿が描かれるなか、漫画『センゴ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "あなたの「2026年に買ってよかったもの」を教えてください！【ソレドコ×はてなパ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     },
     {
       "title": "コードレス掃除機を買い替えたくて「マキタ」がいいって見かけたけど、あまりにお安く",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "娘の病院は13時30分～14時30分までの電話予約のみ、電話しても「大変混み合っ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "かなり都会に住んでいるが、マッチングアプリで「何で今の所に住んでるのですか？」と",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「まともなカレーライスを食ったことがない」JKの時に母が作るのを観察したら、ルー",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "強い女が好きで戦うヒロインも好きだけど、守られ系のヒロインが後方支援としてバリバ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「何一つ同意しない」「物凄くわかる」はてブに投稿された「もうオタク趣味って弱者男",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ソロモン諸島、中国との安保協定「更新せず」…豪メディア「豪と関係強化の包括条約に",
+      "title": "防衛費目減り「言行不一致」も　増強公約の首相、増税に後ろ向き―新計画、攻防最終局",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "なんか家系図を調べているサイトがあって、うちの家系図もあり、めちゃくちゃ詳しくて",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "電車に英文のタトゥーが身体中に入っている男性がおり、隣に立っていた開成の子がめち",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "topic_category": "medical_science"
     }
   ]
 }
