@@ -2,16 +2,52 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-25T04:02:11+0900",
-    "record_count": 23,
-    "source_total_in_db": 1754,
+    "generated_at": "2026-11-25T13:30:32+0900",
+    "record_count": 25,
+    "source_total_in_db": 1756,
     "provenance_breakdown": {
-      "evidence": 1135,
+      "evidence": 1137,
       "pain_seed": 619
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_8999012ea5d2",
+      "trend_term": "無免許美容施術の危険",
+      "raw_title": "「目が閉じられない」女性客から相談が…“闇美容クリニック”に潜入取材 医師免許なしで美容整形を繰り返したか 男女3人逮捕 トラブルの実態【独自】（CBCテレビ） - Yahoo!ニュース",
+      "summary": "医師免許なしで美容整形を行ったクリニックの3人が逮捕。患者から「目が閉じられない」などの相談があり、違法施術による健康被害の実態が報道された。",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sUE91WGtZWDNFbWJCV2ZuZDZLN0NIelpiNlZ1YkltdWlNX2tNelFfbkRXQlA4Zk1kX3ZDYUpxM0VMZ0stRE1GLWN3ZVpzOUY2aVVZNUdyckItdUM5eG5jSUo4OFNhUHRXT1pGNHJsWDU5ZE9FVEpLRmgxNzJzOW8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sUE91WGtZWDNFbWJCV2ZuZDZLN0NIelpiNlZ1YkltdWlNX2tNelFfbkRXQlA4Zk1kX3ZDYUpxM0VMZ0stRE1GLWN3ZVpzOUY2aVVZNUdyckItdUM5eG5jSUo4OFNhUHRXT1pGNHJsWDU5ZE9FVEpLRmgxNzJzOW8?oc=5",
+      "source_name": "Yahoo!ニュース",
+      "monitor_id": "bm-sns-trend",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "safety_claim",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-11-30T13:30:31+0900",
+      "status": "candidate",
+      "created_at": "2026-11-25T13:30:31+0900"
+    },
+    {
+      "seed_id": "seed_01fb7e13fe5b",
+      "trend_term": "美容整形の失明リスク",
+      "raw_title": "脂肪注入やヒアルロン酸で失明？今さら聞けない美容整形に潜む重大リスクと回避策 - ライブドアニュース",
+      "summary": "脂肪注入やヒアルロン酸注射による失明などの重大リスクと回避策について。美容施術の安全性に関する医学的知見。",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vbDdqT2x4SlJRUXNOUXVyZTBLZG0wV196NWFIWE9lelJaTko5Mlc1SnhzSnE2QWZ4emktWFNrVUlSU3RyRjRZZUFZS3pLRDk5RzdvSU9vcDFpMnM5cHlV?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vbDdqT2x4SlJRUXNOUXVyZTBLZG0wV196NWFIWE9lelJaTko5Mlc1SnhzSnE2QWZ4emktWFNrVUlSU3RyRjRZZUFZS3pLRDk5RzdvSU9vcDFpMnM5cHlV?oc=5",
+      "source_name": "ライブドアニュース",
+      "monitor_id": "bm-safety-news",
+      "provenance_kind": "evidence",
+      "claim_type_hint": "safety_claim",
+      "freshness": "evergreen",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-12-09T13:30:27+0900",
+      "status": "candidate",
+      "created_at": "2026-11-25T13:30:27+0900"
+    },
     {
       "seed_id": "seed_7d96e68400b1",
       "trend_term": "皮膚再生マシン「Bi-one」導入",
