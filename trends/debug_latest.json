@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T07:47:00+09:00",
+  "generated_at": "2026-11-25T13:33:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,38 @@
       "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
+    "neg_excluded": 10,
     "dedup_excluded": 10,
-    "passed_total": 100,
+    "passed_total": 102,
     "b2b_category_counts": {
-      "yahoo_realtime": 25,
+      "yahoo_realtime": 22,
       "google_trends": 10,
-      "yahoo_news_ranking": 5,
-      "x_realtime": 7,
-      "news_web": 23
+      "news_web": 21,
+      "yahoo_news_ranking": 8,
+      "x_realtime": 9
     }
   },
   "note_category_counts": {
     "social_reaction": 19,
-    "personal_story": 1,
-    "opinion": 9,
-    "hard_fact": 30,
-    "medical_science": 4,
-    "policy": 7
-  },
-  "b2b_topic_category_counts": {
-    "social_reaction": 19,
-    "hard_fact": 29,
-    "policy": 10,
-    "opinion": 9,
-    "personal_story": 1,
+    "policy": 11,
+    "opinion": 10,
+    "hard_fact": 28,
     "medical_science": 2
   },
+  "b2b_topic_category_counts": {
+    "policy": 12,
+    "social_reaction": 19,
+    "opinion": 10,
+    "hard_fact": 28,
+    "medical_science": 1
+  },
   "b2b_top10": [
+    {
+      "title": "民泊規制でスタッフ常駐義務、ホテルに余波　フロント無人化に逆風 - 日本経済新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
     {
       "title": "AED論争、結局のところ「意識消失した17歳の女子高生を50代の中年おじさんが人",
       "source_category": "yahoo_realtime",
@@ -51,55 +55,49 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "退職代行モームリが「これまでに利用された企業ランキング」を発表、もっとも多かった",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "木原稔官房長官「セキネ所長」…ICC赤根智子所長の名前を繰り返し言い間違う：東京",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
-    },
-    {
-      "title": "定数31削減に参考の識者4人全員が懸念や反対　あす採決を提案、野党拒否",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "15年ほど防犯防災関係の職務に就き、職務中に暴漢を無力化した経験から素人へのアド",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ダウ平均株価",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "JR芸備線備後庄原―備中神代間、鉄道廃止しバス転換　中国運輸局が再構築方針の骨子",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "郡上市",
+      "title": "金",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "すてきなホリデイ",
+      "title": "ゴリ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "ホワイトハッカー",
+      "title": "マリオカート ワールド アップデート",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "週後半は気温上昇予想 寒暖差注意",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_domestic",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "くら寿司 値上げ・値下げ同時なぜ",
+      "source_category": "yahoo_news_ranking",
+      "raw_source_key": "yahoo_news_business",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "娘の病院は13時30分～14時30分までの電話予約のみ、電話しても「大変混み合っ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "hr03",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "一松旬",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -113,55 +111,55 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "15年ほど防犯防災関係の職務に就き、職務中に暴漢を無力化した経験から素人へのアド",
+      "title": "コードレス掃除機を買い替えたくて「マキタ」がいいって見かけたけど、あまりにお安く",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "娘の病院は13時30分～14時30分までの電話予約のみ、電話しても「大変混み合っ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "定数31削減に参考の識者4人全員が懸念や反対　あす採決を提案、野党拒否",
+      "title": "かなり都会に住んでいるが、マッチングアプリで「何で今の所に住んでるのですか？」と",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「まともなカレーライスを食ったことがない」JKの時に母が作るのを観察したら、ルー",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "強い女が好きで戦うヒロインも好きだけど、守られ系のヒロインが後方支援としてバリバ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「何一つ同意しない」「物凄くわかる」はてブに投稿された「もうオタク趣味って弱者男",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "ソロモン諸島、中国との安保協定「更新せず」…豪メディア「豪と関係強化の包括条約に",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "JR芸備線備後庄原―備中神代間、鉄道廃止しバス転換　中国運輸局が再構築方針の骨子",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "なんか家系図を調べているサイトがあって、うちの家系図もあり、めちゃくちゃ詳しくて",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「楽しむ努力はしたよ」ちいかわクリスマスマーケット、あいにくの悪天候で泥だらけの",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "中学の時にヤクザが訪問「昔ここに預けたビリヤードのキューを取りに〇〇が来たからっ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "史上最大級の大統領スキャンダルに発展か――エヌビディア事件で共和党議員もトランプ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "女性ファッション誌のWEBへ転載された記事が「フェミニズムが資本主義に取り込まれ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "オタク趣味＝非モテ　はあったよ、だって当時の若者文化の異端だったから - シロク",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "歴が浅い宝塚ファンの人と話をしていたら気分を害した様子だったのでなんで？と思った",
+      "title": "電車に英文のタトゥーが身体中に入っている男性がおり、隣に立っていた開成の子がめち",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
