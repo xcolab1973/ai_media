@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T19:30:00+09:00",
+  "generated_at": "2026-11-26T03:12:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,101 +7,97 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 9,
-    "passed_total": 117,
+    "neg_excluded": 13,
+    "dedup_excluded": 8,
+    "passed_total": 101,
     "b2b_category_counts": {
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 26,
+      "x_realtime": 8,
+      "news_web": 20,
       "google_trends": 10,
-      "news_web": 15,
-      "yahoo_news_ranking": 6,
-      "x_realtime": 9
+      "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 37,
-    "analysis": 1,
-    "personal_story": 2,
-    "medical_science": 6,
-    "opinion": 8,
-    "policy": 1,
-    "hard_fact": 15
+    "social_reaction": 24,
+    "opinion": 10,
+    "policy": 4,
+    "medical_science": 5,
+    "hard_fact": 27
   },
   "b2b_topic_category_counts": {
-    "medical_science": 4,
-    "policy": 1,
-    "social_reaction": 30,
-    "opinion": 8,
-    "analysis": 1,
-    "hard_fact": 24,
-    "personal_story": 2
+    "policy": 4,
+    "social_reaction": 24,
+    "hard_fact": 29,
+    "opinion": 10,
+    "medical_science": 3
   },
   "b2b_top10": [
     {
-      "title": "防衛費目減り「言行不一致」も　増強公約の首相、増税に後ろ向き―新計画、攻防最終局",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "高市首相のタラップ段差、政府専用機は予定通り到着　外務省が「1時間早着」情報を否",
+      "title": "「ナオキマン」起用を事前に把握　木原官房長官、取りやめ応じず",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "C言語が危険なのではない。コンピュータが危険なのだ - keroxpのScrap",
+      "title": "イラン、ヒジャブ着用せず公演した女性歌手にむち打ち74回 国連「忌まわしい」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "芥川賞作家に罰金30万円　米軍辺野古移設抗議活動中に沖縄防衛局のフェンス損壊",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "上海市トップ・陳吉寧失脚の衝撃",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "闇バイト対策として日本刀を挙げる意見に「たぶん意味ない」と投稿したVTuberの",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "高橋 元気 芸人 写真",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
+      "title": "飲食店によるタイミーなどの求人募集で、明らかにタトゥーがダメっぽいところにわざと",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
     },
     {
-      "title": "工藤公康",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "モームリ ランキング",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "analysis"
-    },
-    {
-      "title": "おでんツンツンで大炎上 男性の今",
+      "title": "くら寿司 ちいかわ企画初日で終了",
       "source_category": "news_web",
       "raw_source_key": "yahoo_news_topics",
       "topic_category": "hard_fact"
     },
     {
-      "title": "ネットで怖いと話題になったACのCMの話をしていたら、関係者が登場して当時のこと",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
+      "title": "うどん",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "融資",
+      "title": "バルセロナ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "おじぃの土地を売ったりアパートを建てたり好き勝手やってる叔父から、5000円のギ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "sabah vs barcelona",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -109,64 +105,64 @@
   ],
   "note_top10": [
     {
-      "title": "C言語が危険なのではない。コンピュータが危険なのだ - keroxpのScrap",
+      "title": "闇バイト対策として日本刀を挙げる意見に「たぶん意味ない」と投稿したVTuberの",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "芥川賞作家に罰金30万円　米軍辺野古移設抗議活動中に沖縄防衛局のフェンス損壊",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "モームリ ランキング",
+      "title": "飲食店によるタイミーなどの求人募集で、明らかにタトゥーがダメっぽいところにわざと",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "おじぃの土地を売ったりアパートを建てたり好き勝手やってる叔父から、5000円のギ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "京都MKでドライバーをしていたとき、一軒だけ「新人は拒否していい配車先」があった",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "帰り道、どこかのお宅から『もう！ニャーじゃないよ！』て叫び声が聞こえた「心中お察",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "2029年大河ドラマは石田三成と聞いて「あのアカウント」が喜びを爆発…→たしかに",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "『リンゴ100%のジュース買ってきて』ってお願いして彼が買ってきたもの「死角がな",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "退職代行モームリを利用された企業ランキング公開",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "うどん",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
-      "topic_category": "analysis"
-    },
-    {
-      "title": "上海市トップ・陳吉寧失脚の衝撃",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "2029年 大河ドラマ「三成のうた」主人公・石田三成役は神木隆之介さん！",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ウィンナーを最初にタコにした人って絶対性格良いだろうな→考案者もその家族も凄い一",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "半年ほど前、父がどうぶつの森をはじめたと言っていたので今日進み具合を聞いたところ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "NHK大河ドラマ『豊臣兄弟！』で暴走する豊臣秀吉の姿が描かれるなか、漫画『センゴ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "あなたの「2026年に買ってよかったもの」を教えてください！【ソレドコ×はてなパ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "コードレス掃除機を買い替えたくて「マキタ」がいいって見かけたけど、あまりにお安く",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "防衛費目減り「言行不一致」も　増強公約の首相、増税に後ろ向き―新計画、攻防最終局",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "topic_category": "opinion"
     }
   ]
 }
