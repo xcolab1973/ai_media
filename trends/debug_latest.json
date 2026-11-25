@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T03:12:00+09:00",
+  "generated_at": "2026-11-26T07:00:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,32 +16,38 @@
       "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 13,
-    "dedup_excluded": 8,
-    "passed_total": 101,
+    "neg_excluded": 11,
+    "dedup_excluded": 9,
+    "passed_total": 102,
     "b2b_category_counts": {
-      "yahoo_realtime": 26,
-      "x_realtime": 8,
-      "news_web": 20,
+      "yahoo_realtime": 27,
       "google_trends": 10,
+      "news_web": 19,
+      "x_realtime": 8,
       "yahoo_news_ranking": 6
     }
   },
   "note_category_counts": {
-    "social_reaction": 24,
-    "opinion": 10,
+    "social_reaction": 22,
+    "opinion": 9,
     "policy": 4,
     "medical_science": 5,
-    "hard_fact": 27
+    "hard_fact": 30
   },
   "b2b_topic_category_counts": {
-    "policy": 4,
-    "social_reaction": 24,
-    "hard_fact": 29,
-    "opinion": 10,
+    "social_reaction": 22,
+    "policy": 5,
+    "hard_fact": 31,
+    "opinion": 9,
     "medical_science": 3
   },
   "b2b_top10": [
+    {
+      "title": "闇バイト対策として日本刀を挙げる意見に「たぶん意味ない」と投稿したVTuberの",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "「ナオキマン」起用を事前に把握　木原官房長官、取りやめ応じず",
       "source_category": "yahoo_realtime",
@@ -55,22 +61,28 @@
       "topic_category": "policy"
     },
     {
-      "title": "芥川賞作家に罰金30万円　米軍辺野古移設抗議活動中に沖縄防衛局のフェンス損壊",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "ダウ平均株価",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "hard_fact"
     },
     {
-      "title": "闇バイト対策として日本刀を挙げる意見に「たぶん意味ない」と投稿したVTuberの",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "リール サッカー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "飲食店によるタイミーなどの求人募集で、明らかにタトゥーがダメっぽいところにわざと",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
+      "title": "kis-my-ft2",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "uefaチャンピオンズリーグ 順位",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "くら寿司 ちいかわ企画初日で終了",
@@ -79,25 +91,13 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "うどん",
+      "title": "りくりゅう",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "バルセロナ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "おじぃの土地を売ったりアパートを建てたり好き勝手やってる叔父から、5000円のギ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "sabah vs barcelona",
+      "title": "h2h",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -106,24 +106,54 @@
   "note_top10": [
     {
       "title": "闇バイト対策として日本刀を挙げる意見に「たぶん意味ない」と投稿したVTuberの",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "芥川賞作家に罰金30万円　米軍辺野古移設抗議活動中に沖縄防衛局のフェンス損壊",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "飲食店によるタイミーなどの求人募集で、明らかにタトゥーがダメっぽいところにわざと",
+      "title": "おじぃの土地を売ったりアパートを建てたり好き勝手やってる叔父から、5000円のギ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "大阪・海遊館で9年ぶりにラッコの展示が復活→どれほど厳しい飼育基準をクリアしたの",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "おじぃの土地を売ったりアパートを建てたり好き勝手やってる叔父から、5000円のギ",
+      "title": "「トクリュウに対抗するために毎日大根二本ずつ食べる」というつぶやきを見て教養を感",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "リール サッカー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "kis-my-ft2",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "uefaチャンピオンズリーグ 順位",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "アンソロピックに無断販売された日本の書籍、絶版が複数含まれていたと判明…ＡＩ学習",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "【ネット流行語100】「賢いのはクラブ」の出どころは女児向けアニメ「ひみつのアイ",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -133,36 +163,6 @@
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
-    },
-    {
-      "title": "帰り道、どこかのお宅から『もう！ニャーじゃないよ！』て叫び声が聞こえた「心中お察",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "2029年大河ドラマは石田三成と聞いて「あのアカウント」が喜びを爆発…→たしかに",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "『リンゴ100%のジュース買ってきて』ってお願いして彼が買ってきたもの「死角がな",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "退職代行モームリを利用された企業ランキング公開",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "うどん",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
     }
   ]
 }
