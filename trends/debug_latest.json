@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T19:02:00+09:00",
+  "generated_at": "2026-11-27T02:54:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,43 +7,67 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 7,
-    "dedup_excluded": 10,
-    "passed_total": 115,
+    "neg_excluded": 8,
+    "dedup_excluded": 8,
+    "passed_total": 106,
     "b2b_category_counts": {
-      "yahoo_realtime": 33,
-      "x_realtime": 8,
-      "news_web": 17,
+      "yahoo_realtime": 26,
+      "x_realtime": 9,
       "google_trends": 10,
-      "yahoo_news_ranking": 2
+      "news_web": 18,
+      "yahoo_news_ranking": 7
     }
   },
   "note_category_counts": {
-    "social_reaction": 29,
-    "personal_story": 2,
+    "social_reaction": 22,
+    "medical_science": 3,
+    "personal_story": 1,
     "opinion": 10,
-    "medical_science": 2,
-    "hard_fact": 19,
-    "policy": 8
+    "policy": 9,
+    "hard_fact": 25
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 28,
-    "hard_fact": 21,
+    "policy": 9,
+    "medical_science": 3,
+    "social_reaction": 22,
+    "hard_fact": 25,
     "opinion": 10,
-    "medical_science": 2,
-    "policy": 8,
     "personal_story": 1
   },
   "b2b_top10": [
+    {
+      "title": "吉村知事、都構想問う3度目の住民投票は「今回最後の思い」 | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "換気不十分な部屋で3Dプリンターを使った韓国の工業高校教員2人が希少がんで労災認",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "木語：政府広報の危険な「倒錯」＝町野幸 | 毎日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "policy"
+    },
+    {
+      "title": "救急医が指摘した“元気そう”の危うさ　大阪「お茶買って」訴訟で熱中症女児が逆転勝",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "「お茶買って」認めず女児が遠足で熱中症　教員らの責任認める判決：朝日新聞",
       "source_category": "yahoo_realtime",
@@ -51,7 +75,7 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "トクリュウ対策はまず戸締りを怠らないこと、防犯フィルムや補助ロックなどを設置して",
+      "title": "今全部間違えておでんだけ持って歩いてる「見た目がおでんとして完璧すぎる」「間違え",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -63,43 +87,19 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "竹中平蔵氏の主張「正社員を廃止せよ」の表と裏　「正規も非正規もない自由な働き方」",
+      "title": "「ネット上で発生した被害を防げなかったテック企業に最大で全世界売上高の5％の制裁",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "闇バイト対策として日本刀を挙げる意見に「たぶん意味ない」と投稿したVTuberの",
+      "title": "人も時間も足りない　都構想は現実度外視か　内部資料が問う課題 | 毎日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "policy"
     },
     {
-      "title": "昼の喫茶店でBOX席に一人で座っていたら、見知らぬ人から移動をお願いされた→他に",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "遠足で女児が熱中症 市に逆転勝訴",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_topics",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "井林辰憲",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "株式 会社 osa",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "坂口杏里",
+      "title": "タラップ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,13 +107,25 @@
   ],
   "note_top10": [
     {
-      "title": "トクリュウ対策はまず戸締りを怠らないこと、防犯フィルムや補助ロックなどを設置して",
+      "title": "今全部間違えておでんだけ持って歩いてる「見た目がおでんとして完璧すぎる」「間違え",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "闇バイト対策として日本刀を挙げる意見に「たぶん意味ない」と投稿したVTuberの",
+      "title": "換気不十分な部屋で3Dプリンターを使った韓国の工業高校教員2人が希少がんで労災認",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "medical_science"
+    },
+    {
+      "title": "「ネット上で発生した被害を防げなかったテック企業に最大で全世界売上高の5％の制裁",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "救急医が指摘した“元気そう”の危うさ　大阪「お茶買って」訴訟で熱中症女児が逆転勝",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
@@ -125,45 +137,33 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "竹中平蔵氏の主張「正社員を廃止せよ」の表と裏　「正規も非正規もない自由な働き方」",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "昼の喫茶店でBOX席に一人で座っていたら、見知らぬ人から移動をお願いされた→他に",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "アメリカ勤務のとき、感謝祭前に同僚から「日本に帰らないのか？感謝祭だぞ、家族を大",
+      "title": "取引先の若者に「似通う」とチャットで伝えたら「方言やめてください」→広辞苑のスク",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "会社に勤続10年の記念品がほしいという要望を出しつつ「何でもいい、置き時計とか」",
+      "title": "息子が父親のSwitchを勝手に持ち出し、公園で紛失して帰ってきた→「みまもりア",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "花火大会の雑踏警備中に「トイレが滅茶混んでて子供が我慢できないからそこの茂みで」",
+      "title": "ペアーズで会った女性が無趣味で「休みの日は何を？」と聞いても「部屋の掃除です」と",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "無印良品のせいろはズボラの味方！「入れて蒸すだけ」で料理が終わる、片付けもスイス",
+      "title": "これから高齢独身男性に襲ってくる地獄",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "【手記全文】「娘にパパを返して」今井裕紀記者の妻・のぞみさん、ロシアに解放訴え：",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "いまだに「この作品は空想ってことにしてオタクたちに『ゲームやアニメばっかりじゃな",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     }
   ]
