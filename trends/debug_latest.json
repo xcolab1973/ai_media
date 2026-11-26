@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T12:45:00+09:00",
+  "generated_at": "2026-11-26T19:02:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,34 +16,58 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 12,
-    "dedup_excluded": 11,
-    "passed_total": 109,
+    "neg_excluded": 7,
+    "dedup_excluded": 10,
+    "passed_total": 115,
     "b2b_category_counts": {
       "yahoo_realtime": 33,
-      "google_trends": 10,
       "x_realtime": 8,
-      "news_web": 15,
-      "yahoo_news_ranking": 4
+      "news_web": 17,
+      "google_trends": 10,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 30,
-    "opinion": 10,
+    "social_reaction": 29,
     "personal_story": 2,
+    "opinion": 10,
     "medical_science": 2,
-    "hard_fact": 21,
-    "policy": 5
+    "hard_fact": 19,
+    "policy": 8
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 29,
+    "social_reaction": 28,
+    "hard_fact": 21,
     "opinion": 10,
-    "policy": 5,
-    "hard_fact": 22,
     "medical_science": 2,
-    "personal_story": 2
+    "policy": 8,
+    "personal_story": 1
   },
   "b2b_top10": [
+    {
+      "title": "「お茶買って」認めず女児が遠足で熱中症　教員らの責任認める判決：朝日新聞",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "トクリュウ対策はまず戸締りを怠らないこと、防犯フィルムや補助ロックなどを設置して",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "＜速報＞小1遠足で「お茶買って」熱中症女児が逆転勝訴、八尾市に賠償命令　大阪高裁",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "竹中平蔵氏の主張「正社員を廃止せよ」の表と裏　「正規も非正規もない自由な働き方」",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "闇バイト対策として日本刀を挙げる意見に「たぶん意味ない」と投稿したVTuberの",
       "source_category": "yahoo_realtime",
@@ -51,55 +75,31 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "純粋な疑問だけど「男性向け作品によくある『命からがら助けてもらって惚れるシーン』",
+      "title": "昼の喫茶店でBOX席に一人で座っていたら、見知らぬ人から移動をお願いされた→他に",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "グラセフ gta6",
+      "title": "遠足で女児が熱中症 市に逆転勝訴",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_topics",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "井林辰憲",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "リコーカップ 2026",
+      "title": "株式 会社 osa",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "土俵入り",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "紀平梨花",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "セブンイレブン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "日本の猫は日本ぽい顔をしているらしいが、ドイツの公園で見かけた猫はあまりにもドイ",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "playstation plus",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "クリッパーズ",
+      "title": "坂口杏里",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,61 +107,61 @@
   ],
   "note_top10": [
     {
+      "title": "トクリュウ対策はまず戸締りを怠らないこと、防犯フィルムや補助ロックなどを設置して",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
       "title": "闇バイト対策として日本刀を挙げる意見に「たぶん意味ない」と投稿したVTuberの",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "純粋な疑問だけど「男性向け作品によくある『命からがら助けてもらって惚れるシーン』",
+      "title": "「お茶買って」認めず女児が遠足で熱中症　教員らの責任認める判決：朝日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "日本の猫は日本ぽい顔をしているらしいが、ドイツの公園で見かけた猫はあまりにもドイ",
+      "title": "竹中平蔵氏の主張「正社員を廃止せよ」の表と裏　「正規も非正規もない自由な働き方」",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "外国人留学生の受け入れで推計8200億円の経済効果　20年前の4.7倍、国や大学",
+      "title": "昼の喫茶店でBOX席に一人で座っていたら、見知らぬ人から移動をお願いされた→他に",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ファクトチェックセンターが衆院選期間に誤情報　AI鵜呑み、れいわ大石氏の架空発言",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "方向性の違いでバンド解散した元バンドマンの父親に対して、反抗期の時に「性格がそん",
+      "title": "アメリカ勤務のとき、感謝祭前に同僚から「日本に帰らないのか？感謝祭だぞ、家族を大",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "サンクスギビングはね、アメリカの一般外科研修医にとって、ターキーの丸揚げを作ろう",
+      "title": "会社に勤続10年の記念品がほしいという要望を出しつつ「何でもいい、置き時計とか」",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "孫に会えるので「誕生月だから手作りケーキ作ろうか？」と娘に言ったら、機嫌悪い返事",
+      "title": "花火大会の雑踏警備中に「トイレが滅茶混んでて子供が我慢できないからそこの茂みで」",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "「コテとかドライヤーとか毎回抜くってこと？」電源OFFでもコンセントは抜くべき？",
+      "title": "無印良品のせいろはズボラの味方！「入れて蒸すだけ」で料理が終わる、片付けもスイス",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "外国人労働者、東北GDP底上げ　農・水産業「いないと成り立たず」 - 日本経済新",
+      "title": "【手記全文】「娘にパパを返して」今井裕紀記者の妻・のぞみさん、ロシアに解放訴え：",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
