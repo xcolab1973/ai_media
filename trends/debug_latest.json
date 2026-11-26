@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T02:54:00+09:00",
+  "generated_at": "2026-11-27T06:58:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,41 +7,41 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 8,
-    "dedup_excluded": 8,
-    "passed_total": 106,
+    "neg_excluded": 6,
+    "dedup_excluded": 10,
+    "passed_total": 116,
     "b2b_category_counts": {
-      "yahoo_realtime": 26,
-      "x_realtime": 9,
+      "yahoo_realtime": 38,
       "google_trends": 10,
-      "news_web": 18,
-      "yahoo_news_ranking": 7
+      "x_realtime": 7,
+      "news_web": 12,
+      "yahoo_news_ranking": 3
     }
   },
   "note_category_counts": {
-    "social_reaction": 22,
-    "medical_science": 3,
-    "personal_story": 1,
+    "social_reaction": 27,
     "opinion": 10,
-    "policy": 9,
-    "hard_fact": 25
+    "personal_story": 5,
+    "policy": 7,
+    "hard_fact": 19,
+    "medical_science": 2
   },
   "b2b_topic_category_counts": {
-    "policy": 9,
-    "medical_science": 3,
-    "social_reaction": 22,
-    "hard_fact": 25,
+    "policy": 7,
+    "hard_fact": 20,
+    "social_reaction": 27,
     "opinion": 10,
-    "personal_story": 1
+    "medical_science": 1,
+    "personal_story": 5
   },
   "b2b_top10": [
     {
@@ -51,34 +51,34 @@
       "topic_category": "policy"
     },
     {
-      "title": "換気不十分な部屋で3Dプリンターを使った韓国の工業高校教員2人が希少がんで労災認",
+      "title": "ビルの\"地下受水槽\"が汚染『ノロウイルス』飲食店で客や従業員16人が食中毒―すす",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
+      "topic_category": "hard_fact"
     },
     {
-      "title": "木語：政府広報の危険な「倒錯」＝町野幸 | 毎日新聞",
+      "title": "防衛費50兆円台は「実質減額」　装備品分割払いや円安を考慮すると現行計画下回る水",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "救急医が指摘した“元気そう”の危うさ　大阪「お茶買って」訴訟で熱中症女児が逆転勝",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「お茶買って」認めず女児が遠足で熱中症　教員らの責任認める判決：朝日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
       "title": "今全部間違えておでんだけ持って歩いてる「見た目がおでんとして完璧すぎる」「間違え",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "西武・そごうの「さ、ひっくり返そう。」をきぬた歯科が「デザイナーの自己満足」と酷",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "旗手 怜 央",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
       "title": "＜速報＞小1遠足で「お茶買って」熱中症女児が逆転勝訴、八尾市に賠償命令　大阪高裁",
@@ -87,19 +87,19 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "「ネット上で発生した被害を防げなかったテック企業に最大で全世界売上高の5％の制裁",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "title": "ジャングルポケット",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "人も時間も足りない　都構想は現実度外視か　内部資料が問う課題 | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "title": "佐々岡真司",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "タラップ",
+      "title": "ラミン・ヤマル",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -108,42 +108,36 @@
   "note_top10": [
     {
       "title": "今全部間違えておでんだけ持って歩いてる「見た目がおでんとして完璧すぎる」「間違え",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "換気不十分な部屋で3Dプリンターを使った韓国の工業高校教員2人が希少がんで労災認",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "medical_science"
-    },
-    {
-      "title": "「ネット上で発生した被害を防げなかったテック企業に最大で全世界売上高の5％の制裁",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "救急医が指摘した“元気そう”の危うさ　大阪「お茶買って」訴訟で熱中症女児が逆転勝",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「お茶買って」認めず女児が遠足で熱中症　教員らの責任認める判決：朝日新聞",
+      "title": "西武・そごうの「さ、ひっくり返そう。」をきぬた歯科が「デザイナーの自己満足」と酷",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
       "title": "取引先の若者に「似通う」とチャットで伝えたら「方言やめてください」→広辞苑のスク",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "いまだに「この作品は空想ってことにしてオタクたちに『ゲームやアニメばっかりじゃな",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "登山していると擬態型のシカがいて気づかずに何人もの登山者が素通りしていった話…保",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "息子が父親のSwitchを勝手に持ち出し、公園で紛失して帰ってきた→「みまもりア",
+      "title": "アニメ「ポケモン」のメイン脚本家はシリーズの終わらせ方を考えてから書き始めるスタ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
@@ -155,13 +149,19 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "これから高齢独身男性に襲ってくる地獄",
+      "title": "ロシアに拘束された夫、１歳９か月の娘の「パパいないねー」の言葉に妻「悲しく寂しい",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "いまだに「この作品は空想ってことにしてオタクたちに『ゲームやアニメばっかりじゃな",
+      "title": "東京消防庁の隊員が訓練中「殺すぞ」と暴行し書類送検→映像には「安全靴で頭部を蹴る",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "夜に不穏な動きをしていた怒ワレ、世界を自分色に染め始めようとする展開が急すぎて読",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
