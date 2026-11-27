@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T19:08:00+09:00",
+  "generated_at": "2026-11-28T02:39:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,43 +7,54 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 122,
+  "raw_pool_total": 132,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 30,
+      "yahoo_realtime": 40,
       "x_realtime": 10
     },
     "neg_excluded": 9,
-    "dedup_excluded": 8,
-    "passed_total": 105,
+    "dedup_excluded": 10,
+    "passed_total": 113,
     "b2b_category_counts": {
-      "yahoo_realtime": 26,
-      "x_realtime": 10,
+      "yahoo_realtime": 33,
+      "x_realtime": 9,
       "google_trends": 10,
-      "news_web": 22,
-      "yahoo_news_ranking": 2
+      "news_web": 18
     }
   },
   "note_category_counts": {
-    "social_reaction": 19,
+    "social_reaction": 33,
+    "opinion": 10,
     "personal_story": 2,
-    "policy": 9,
-    "opinion": 9,
-    "medical_science": 7,
-    "hard_fact": 24
+    "policy": 3,
+    "medical_science": 5,
+    "hard_fact": 17
   },
   "b2b_topic_category_counts": {
-    "policy": 9,
-    "social_reaction": 19,
-    "opinion": 9,
-    "medical_science": 5,
+    "social_reaction": 33,
+    "policy": 3,
+    "opinion": 10,
+    "hard_fact": 19,
     "personal_story": 2,
-    "hard_fact": 26
+    "medical_science": 3
   },
   "b2b_top10": [
+    {
+      "title": "ゴダイゴ - 銀河鉄道999 / THE FIRST TAKE",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「おばあちゃんのネットリテラシィ袋」に書かれた『炎上すると「ひとり言なのに…」と",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
     {
       "title": "「第3子生まれたら1000万円」自民が政府に提言へ（テレビ朝日系（ANN）） -",
       "source_category": "yahoo_realtime",
@@ -51,120 +62,108 @@
       "topic_category": "policy"
     },
     {
-      "title": "【速報】政府、租特3件廃止を正式決定",
+      "title": "カビの生えた食品はカビの部分だけ切り除けば食べられるのか？",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「都市伝説」ユーチューバー“偽情報対策と矛盾ない”官房長官 | NHKニュース",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "policy"
     },
     {
-      "title": "新宿マルイを出たところで「ぶつかった、スマホが壊れた、弁償しろ」と声をかけてくる",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "にじさんじ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "オーバーラン",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "にじさんじ 新人",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "オービックシーガルズ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "清水町",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ブラッククローバー",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "美容医療",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "medical_science"
-    }
-  ],
-  "note_top10": [
-    {
-      "title": "新宿マルイを出たところで「ぶつかった、スマホが壊れた、弁償しろ」と声をかけてくる",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "「…ん…優生保護法…」いい感じのタイル円柱の婦人科の病院に書かれている文字に思わ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "婚約指輪の価格を見た私「楽器がいい…」→婚約者に「指にはまるよ、しかも音も鳴る」",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "エディオンで冷蔵庫を買ったら「配送業者からお金を請求されても必ず『支払った』と言",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "personal_story"
-    },
-    {
-      "title": "名字が「那智」の人は海外旅行で大変なのか？…実は綴りも発音も違うので意外と大丈夫",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "内定式の帰りに100人位いる時に陽キャが「飲み放題付き3500円行く人！」と声を",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "食洗機はちゃんと汚れが落ちるか心配って言うけど、50℃以上のお湯と強力な洗剤で洗",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "VTuberに魅了されたブラジルの研究者、205ページの修士論文公開　文化の歴史",
+      "title": "オービックシーガルズとのスポンサー契約終了について | オービック",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "高校生の長男が平然と「弁当食べる時間なかった」と手付かずの弁当を夜中に出してきた",
+      "title": "宮城県山中遺体",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "千葉真一×沢田研二「魔界転生」無料配信！吉永小百合・天海祐希・妻夫木聡ら出演の時",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "朝マックメニュー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "中川圭太",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    }
+  ],
+  "note_top10": [
+    {
+      "title": "ゴダイゴ - 銀河鉄道999 / THE FIRST TAKE",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「おばあちゃんのネットリテラシィ袋」に書かれた『炎上すると「ひとり言なのに…」と",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "幼稚園年少の頃、親に「なんでも言うこと聞いてあげるよ」と言われた私、満面の笑みで",
+      "title": "カビの生えた食品はカビの部分だけ切り除けば食べられるのか？",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "オービックシーガルズとのスポンサー契約終了について | オービック",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "千葉真一×沢田研二「魔界転生」無料配信！吉永小百合・天海祐希・妻夫木聡ら出演の時",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "MADE IN YAMATO - 第２６話　筋肉の悪魔　夜守八千留 | ヤンマガ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "名字が「那智」の人は海外旅行で大変なのか？…実は綴りも発音も違うので意外と大丈夫",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "「手塚治虫が唯一描いていない漫画は育児エッセイ」とネタツイしようとして一応調べた",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
+    },
+    {
+      "title": "宮城県山中遺体",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ヒートテックを今すぐ捨てろ｜アキ",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
     }
   ]
 }
