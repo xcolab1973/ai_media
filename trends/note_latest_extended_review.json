@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T16:39:09+09:00",
+ "generated_at": "2026-11-28T06:29:01+09:00",
  "valid_until": "2026-12-11T16:37:26+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "review",
   "from_current": 32,
-  "from_new": 8,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 8,
+  "retention_dropped": 1,
   "genres": 4,
   "retention_per_genre": 8
  },
@@ -738,6 +738,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "2026-2027冬ドラマまとめ（12～2月スタート・放送中）",
+   "url": "https://natalie.mu/eiga/drama/season/2027-winter",
+   "summary": "12月〜2月開始の冬ドラマ一覧ページ。どれから見るか迷う読者向けに、考察の切り口を選ぶ材料になる。数値・日付は本文未確認のため記載しない。",
+   "signal_type": "trend",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "soft_fact",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "review-entame",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "映画ナタリー",
+    "expert_origin": false,
+    "search_query": "2026年 冬ドラマ 考察 見逃し配信 どこで見る 12月 開始",
+    "freshness": "fresh",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-12-03T06:27:27+09:00",
+   "validity_days": 5
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "年末年始“一気見”おすすめドラマベスト10 2025年の“埋もれた良作”を厳選",
    "url": "https://news.mynavi.jp/article/20251230-drama/",
    "summary": "年末年始に一気見するドラマを選ぶ記事（昨年末版）。見たい作品が多すぎて年内に見終わらない読者の『どれから見るか』の角度の種。",
@@ -944,36 +974,6 @@
     "rescued": false
    },
    "valid_until": "2026-12-01T16:38:57+09:00",
-   "validity_days": 5
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "正直どれ観る？2026年冬アニメ、期待値が高すぎる問題【独自調査】",
-   "url": "https://ameblo.jp/takaponn8015/entry-12951072390.html",
-   "summary": "冬アニメが多すぎて何から観るか選べないという読者の迷いを扱う個人ブログ。視聴の取捨選択（0話切りの基準）が二次質問の種。",
-   "signal_type": "evergreen",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "opinion",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "review-entame",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "Ameba",
-    "expert_origin": false,
-    "search_query": "年末 配信ドラマ アニメ 見る作品が多すぎて選べない",
-    "freshness": "evergreen",
-    "integrity_warning": null,
-    "provenance_kind": "pain_seed",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-12-01T06:27:19+09:00",
    "validity_days": 5
   }
  ]

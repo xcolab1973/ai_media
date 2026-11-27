@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-27T16:39:09+09:00",
- "valid_until": "2026-12-11T16:36:50+09:00",
+ "generated_at": "2026-11-28T06:29:01+09:00",
+ "valid_until": "2026-12-12T06:26:59+09:00",
  "extended_schema_version": "ext-1.0",
  "origin": "pre_collector_extended",
  "account_id": "default",
@@ -9,9 +9,9 @@
  "merge": {
   "parent": "health",
   "from_current": 40,
-  "from_new": 6,
+  "from_new": 1,
   "expired_pruned": 0,
-  "retention_dropped": 6,
+  "retention_dropped": 1,
   "genres": 5,
   "retention_per_genre": 8
  },
@@ -738,6 +738,36 @@
   },
   {
    "source_category": "news_web",
+   "raw_title": "冬の運動不足を解消する方法｜室内筋トレ・ウォーキングで基礎代謝を維持する科学的アプローチ",
+   "url": "https://thefitness-personal.jp/winter-active-lifestyle/",
+   "summary": "冬の運動不足を室内筋トレやウォーキングで補い基礎代謝を維持する方法を扱う記事（タイトルと媒体名ベースの要約、本文未確認）。",
+   "signal_type": "evergreen",
+   "engagement_signal": false,
+   "approx_traffic": "100+",
+   "preliminary_claim_type": "opinion",
+   "relevance_to_niche": "high",
+   "topic_category": null,
+   "primary_genre": "health-fitness",
+   "karte_matched_category": null,
+   "karte_aligned": false,
+   "account_id": "default",
+   "origin": "pre_collector_extended",
+   "provenance": {
+    "source_name": "thefitness-personal.jp",
+    "expert_origin": false,
+    "search_query": "年末年始 太る 前に 筋トレ 運動不足 冬 続かない 対策",
+    "freshness": "evergreen",
+    "integrity_warning": null,
+    "provenance_kind": "evidence",
+    "opportunity_gap": false,
+    "discovered_angle": null,
+    "rescued": false
+   },
+   "valid_until": "2026-12-12T06:26:59+09:00",
+   "validity_days": 14
+  },
+  {
+   "source_category": "news_web",
    "raw_title": "年末年始に増えた体重、焦らなくて大丈夫｜自然に戻す考え方と整え方",
    "url": "https://www.hm-healthliteracy.com/newyear-weight-reset/",
    "summary": "運動が苦手な人向けに、年末年始で増えた体重を焦らず自然に戻す考え方を紹介するパーソナルトレーナーの記事。",
@@ -944,36 +974,6 @@
     "rescued": false
    },
    "valid_until": "2026-12-04T06:26:38+09:00",
-   "validity_days": 14
-  },
-  {
-   "source_category": "news_web",
-   "raw_title": "消費者トラブル情報＜あいちクリオ通信2026年1月号＞スポーツジムの契約トラブルにご注意！",
-   "url": "http://www.pref.aichi.jp/press-release/clio-00000451.html",
-   "summary": "パーソナルジムや無人ジムで、利用していない月の会費や違約金の請求、Web解約ができず連絡も取れない例がある。割引・特典付きプランは一定期間の継続が条件のことがあり、体験プランの自動更新の確認、解約手続きの記録、消費者ホットライン188への相談を勧める。（本文確認済）",
-   "signal_type": "trend",
-   "engagement_signal": false,
-   "approx_traffic": "100+",
-   "preliminary_claim_type": "official_instruction",
-   "relevance_to_niche": "high",
-   "topic_category": null,
-   "primary_genre": "health-fitness",
-   "karte_matched_category": null,
-   "karte_aligned": false,
-   "account_id": "default",
-   "origin": "pre_collector_extended",
-   "provenance": {
-    "source_name": "愛知県",
-    "expert_origin": true,
-    "search_query": "パーソナルジム 契約 解約 トラブル 特定商取引法 改正 2026 施行",
-    "freshness": "fresh",
-    "integrity_warning": null,
-    "provenance_kind": "evidence",
-    "opportunity_gap": false,
-    "discovered_angle": null,
-    "rescued": false
-   },
-   "valid_until": "2026-12-02T06:26:51+09:00",
    "validity_days": 14
   },
   {
