@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T12:46:00+09:00",
+  "generated_at": "2026-11-27T19:08:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -7,161 +7,161 @@
     "x_realtime": "ok",
     "news_web": "ok"
   },
-  "raw_pool_total": 132,
+  "raw_pool_total": 122,
   "filter": {
     "raw_by_category": {
       "google_trends": 10,
       "news_web": 48,
       "yahoo_news_ranking": 24,
-      "yahoo_realtime": 40,
+      "yahoo_realtime": 30,
       "x_realtime": 10
     },
-    "neg_excluded": 15,
+    "neg_excluded": 9,
     "dedup_excluded": 8,
-    "passed_total": 109,
+    "passed_total": 105,
     "b2b_category_counts": {
-      "yahoo_realtime": 32,
-      "news_web": 12,
+      "yahoo_realtime": 26,
+      "x_realtime": 10,
       "google_trends": 10,
-      "x_realtime": 8,
-      "yahoo_news_ranking": 8
+      "news_web": 22,
+      "yahoo_news_ranking": 2
     }
   },
   "note_category_counts": {
-    "social_reaction": 25,
+    "social_reaction": 19,
     "personal_story": 2,
-    "opinion": 10,
+    "policy": 9,
+    "opinion": 9,
     "medical_science": 7,
-    "hard_fact": 23,
-    "policy": 3
+    "hard_fact": 24
   },
   "b2b_topic_category_counts": {
-    "social_reaction": 25,
-    "hard_fact": 25,
-    "opinion": 10,
+    "policy": 9,
+    "social_reaction": 19,
+    "opinion": 9,
     "medical_science": 5,
-    "policy": 3,
-    "personal_story": 2
+    "personal_story": 2,
+    "hard_fact": 26
   },
   "b2b_top10": [
     {
-      "title": "友人のプロの音楽家は頻繁に幼稚園や小学校の先生から「子どものために」や「教育のた",
+      "title": "「第3子生まれたら1000万円」自民が政府に提言へ（テレビ朝日系（ANN）） -",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "policy"
     },
     {
-      "title": "八王子市 ジョーズ教訓にクマ対策",
-      "source_category": "news_web",
-      "raw_source_key": "yahoo_news_local",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "千葉真一×沢田研二「魔界転生」無料配信！吉永小百合・天海祐希・妻夫木聡ら出演の時",
+      "title": "【速報】政府、租特3件廃止を正式決定",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
+      "topic_category": "policy"
     },
     {
-      "title": "ビルの\"地下受水槽\"が汚染『ノロウイルス』飲食店で客や従業員16人が食中毒―すす",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "宮根誠司",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "偽造",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "マンジャロ",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "マイナンバーカードを紛失した年配女性に「あんなペラっとしたものみんな失くしますよ",
+      "title": "新宿マルイを出たところで「ぶつかった、スマホが壊れた、弁償しろ」と声をかけてくる",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "ぱんちゃん璃奈",
+      "title": "にじさんじ",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "梅野隆太郎",
+      "title": "オーバーラン",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
+    },
+    {
+      "title": "にじさんじ 新人",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "オービックシーガルズ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "清水町",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "ブラッククローバー",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "美容医療",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "medical_science"
     }
   ],
   "note_top10": [
     {
-      "title": "友人のプロの音楽家は頻繁に幼稚園や小学校の先生から「子どものために」や「教育のた",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "千葉真一×沢田研二「魔界転生」無料配信！吉永小百合・天海祐希・妻夫木聡ら出演の時",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "マイナンバーカードを紛失した年配女性に「あんなペラっとしたものみんな失くしますよ",
+      "title": "新宿マルイを出たところで「ぶつかった、スマホが壊れた、弁償しろ」と声をかけてくる",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "西武・そごうの「さ、ひっくり返そう。」をきぬた歯科が「デザイナーの自己満足」と酷",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "連れて行かれるのが病院だと悟った猫の顔を見てくれ「この世の終わりみたいな顔」「シ",
+      "title": "「…ん…優生保護法…」いい感じのタイル円柱の婦人科の病院に書かれている文字に思わ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "事業理解を深めるために、皆さんどうなさってますか｜Sayuri",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "婚約指輪の価格を見た私「楽器がいい…」→婚約者に「指にはまるよ、しかも音も鳴る」",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "就職氷河期世代はなぜ厳しい人生を歩んでいるのか、そこから抜け出すにはどうすればい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "エディオンで冷蔵庫を買ったら「配送業者からお金を請求されても必ず『支払った』と言",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "personal_story"
     },
     {
-      "title": "校内フリスクは「ぬるい」のか　専門家が指摘する一斉指導の限界 | 毎日新聞",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "主人公とヒロインが結ばれてたのに最終話や続編で別れて他の人とくっついてるのを見せ",
+      "title": "名字が「那智」の人は海外旅行で大変なのか？…実は綴りも発音も違うので意外と大丈夫",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "あのちゃん、多忙で『遅い時間だとお風呂入りながらご飯』と明かす→アンミカの返しが",
+      "title": "内定式の帰りに100人位いる時に陽キャが「飲み放題付き3500円行く人！」と声を",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "食洗機はちゃんと汚れが落ちるか心配って言うけど、50℃以上のお湯と強力な洗剤で洗",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "VTuberに魅了されたブラジルの研究者、205ページの修士論文公開　文化の歴史",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "高校生の長男が平然と「弁当食べる時間なかった」と手付かずの弁当を夜中に出してきた",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "幼稚園年少の頃、親に「なんでも言うこと聞いてあげるよ」と言われた私、満面の笑みで",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
