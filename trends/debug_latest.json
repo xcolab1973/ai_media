@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T06:58:00+09:00",
+  "generated_at": "2026-11-27T12:46:00+09:00",
   "fetch_status": {
     "google_trends": "ok",
     "yahoo_news_ranking": "ok",
@@ -16,39 +16,51 @@
       "yahoo_realtime": 40,
       "x_realtime": 10
     },
-    "neg_excluded": 6,
-    "dedup_excluded": 10,
-    "passed_total": 116,
+    "neg_excluded": 15,
+    "dedup_excluded": 8,
+    "passed_total": 109,
     "b2b_category_counts": {
-      "yahoo_realtime": 38,
-      "google_trends": 10,
-      "x_realtime": 7,
+      "yahoo_realtime": 32,
       "news_web": 12,
-      "yahoo_news_ranking": 3
+      "google_trends": 10,
+      "x_realtime": 8,
+      "yahoo_news_ranking": 8
     }
   },
   "note_category_counts": {
-    "social_reaction": 27,
+    "social_reaction": 25,
+    "personal_story": 2,
     "opinion": 10,
-    "personal_story": 5,
-    "policy": 7,
-    "hard_fact": 19,
-    "medical_science": 2
+    "medical_science": 7,
+    "hard_fact": 23,
+    "policy": 3
   },
   "b2b_topic_category_counts": {
-    "policy": 7,
-    "hard_fact": 20,
-    "social_reaction": 27,
+    "social_reaction": 25,
+    "hard_fact": 25,
     "opinion": 10,
-    "medical_science": 1,
-    "personal_story": 5
+    "medical_science": 5,
+    "policy": 3,
+    "personal_story": 2
   },
   "b2b_top10": [
     {
-      "title": "吉村知事、都構想問う3度目の住民投票は「今回最後の思い」 | 毎日新聞",
+      "title": "友人のプロの音楽家は頻繁に幼稚園や小学校の先生から「子どものために」や「教育のた",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "八王子市 ジョーズ教訓にクマ対策",
+      "source_category": "news_web",
+      "raw_source_key": "yahoo_news_local",
+      "topic_category": "hard_fact"
+    },
+    {
+      "title": "千葉真一×沢田研二「魔界転生」無料配信！吉永小百合・天海祐希・妻夫木聡ら出演の時",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
     },
     {
       "title": "ビルの\"地下受水槽\"が汚染『ノロウイルス』飲食店で客や従業員16人が食中毒―すす",
@@ -57,49 +69,37 @@
       "topic_category": "hard_fact"
     },
     {
-      "title": "防衛費50兆円台は「実質減額」　装備品分割払いや円安を考慮すると現行計画下回る水",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "policy"
+      "title": "宮根誠司",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
     },
     {
-      "title": "今全部間違えておでんだけ持って歩いてる「見た目がおでんとして完璧すぎる」「間違え",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
+      "title": "偽造",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "マンジャロ",
+      "source_category": "google_trends",
+      "raw_source_key": "google_trends",
+      "topic_category": "opinion"
+    },
+    {
+      "title": "マイナンバーカードを紛失した年配女性に「あんなペラっとしたものみんな失くしますよ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "西武・そごうの「さ、ひっくり返そう。」をきぬた歯科が「デザイナーの自己満足」と酷",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "旗手 怜 央",
+      "title": "ぱんちゃん璃奈",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
     },
     {
-      "title": "＜速報＞小1遠足で「お茶買って」熱中症女児が逆転勝訴、八尾市に賠償命令　大阪高裁",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "hard_fact"
-    },
-    {
-      "title": "ジャングルポケット",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "佐々岡真司",
-      "source_category": "google_trends",
-      "raw_source_key": "google_trends",
-      "topic_category": "opinion"
-    },
-    {
-      "title": "ラミン・ヤマル",
+      "title": "梅野隆太郎",
       "source_category": "google_trends",
       "raw_source_key": "google_trends",
       "topic_category": "opinion"
@@ -107,9 +107,21 @@
   ],
   "note_top10": [
     {
-      "title": "今全部間違えておでんだけ持って歩いてる「見た目がおでんとして完璧すぎる」「間違え",
+      "title": "友人のプロの音楽家は頻繁に幼稚園や小学校の先生から「子どものために」や「教育のた",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "千葉真一×沢田研二「魔界転生」無料配信！吉永小百合・天海祐希・妻夫木聡ら出演の時",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "マイナンバーカードを紛失した年配女性に「あんなペラっとしたものみんな失くしますよ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
@@ -119,49 +131,37 @@
       "topic_category": "social_reaction"
     },
     {
-      "title": "取引先の若者に「似通う」とチャットで伝えたら「方言やめてください」→広辞苑のスク",
+      "title": "連れて行かれるのが病院だと悟った猫の顔を見てくれ「この世の終わりみたいな顔」「シ",
+      "source_category": "x_realtime",
+      "raw_source_key": "togetter_hot",
+      "topic_category": "social_reaction"
+    },
+    {
+      "title": "事業理解を深めるために、皆さんどうなさってますか｜Sayuri",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "いまだに「この作品は空想ってことにしてオタクたちに『ゲームやアニメばっかりじゃな",
+      "title": "就職氷河期世代はなぜ厳しい人生を歩んでいるのか、そこから抜け出すにはどうすればい",
+      "source_category": "yahoo_realtime",
+      "raw_source_key": "hatena_hotentry",
+      "topic_category": "personal_story"
+    },
+    {
+      "title": "校内フリスクは「ぬるい」のか　専門家が指摘する一斉指導の限界 | 毎日新聞",
       "source_category": "yahoo_realtime",
       "raw_source_key": "hatena_hotentry",
       "topic_category": "social_reaction"
     },
     {
-      "title": "登山していると擬態型のシカがいて気づかずに何人もの登山者が素通りしていった話…保",
+      "title": "主人公とヒロインが結ばれてたのに最終話や続編で別れて他の人とくっついてるのを見せ",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
     },
     {
-      "title": "アニメ「ポケモン」のメイン脚本家はシリーズの終わらせ方を考えてから書き始めるスタ",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ペアーズで会った女性が無趣味で「休みの日は何を？」と聞いても「部屋の掃除です」と",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "ロシアに拘束された夫、１歳９か月の娘の「パパいないねー」の言葉に妻「悲しく寂しい",
-      "source_category": "yahoo_realtime",
-      "raw_source_key": "hatena_hotentry",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "東京消防庁の隊員が訓練中「殺すぞ」と暴行し書類送検→映像には「安全靴で頭部を蹴る",
-      "source_category": "x_realtime",
-      "raw_source_key": "togetter_hot",
-      "topic_category": "social_reaction"
-    },
-    {
-      "title": "夜に不穏な動きをしていた怒ワレ、世界を自分色に染め始めようとする展開が急すぎて読",
+      "title": "あのちゃん、多忙で『遅い時間だとお風呂入りながらご飯』と明かす→アンミカの返しが",
       "source_category": "x_realtime",
       "raw_source_key": "togetter_hot",
       "topic_category": "social_reaction"
