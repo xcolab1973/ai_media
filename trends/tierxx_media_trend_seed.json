@@ -2,16 +2,34 @@
   "metadata": {
     "collection": "tierxx_media_trend",
     "seed_version": "v1",
-    "generated_at": "2026-11-28T02:37:25+0900",
+    "generated_at": "2026-11-28T12:27:38+0900",
     "record_count": 32,
-    "source_total_in_db": 1779,
+    "source_total_in_db": 1780,
     "provenance_breakdown": {
       "evidence": 1152,
-      "pain_seed": 627
+      "pain_seed": 628
     },
     "note": "メディア編集工程への候補入力。RAG直結ではない。メディア側の検証後に trend_fact / rag_layer=context へ変換すること。"
   },
   "items": [
+    {
+      "seed_id": "seed_06c6d9ea1015",
+      "trend_term": "美容注射被害訴訟",
+      "raw_title": "額が「コブダイのように」ふくらみ除去手術に300万円、今も麻痺…“美容注射”での被害訴え11人が美容医療4法人を提訴 - Yahoo!ニュース",
+      "summary": "美容注射による被害で額の腫脹や麻痺が生じ、除去手術に300万円を要した事例。11人が美容医療4法人を提訴。消費者の実被害が顕在化。",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RYlI0TWZQSWs2OEF0eHYzRzFxM2RhWHRQYkUwakpUOXd4U0l2TGhlQWw4ZXBYY0Z4U1lqWVlTa1NCUE15ck5oUzlVQlVHZ2JBS0YxdXJyYzZzZnRfUnM2SHZGVVZ2MjN6ODlRWWlnNmNtdi1UVVdpNmw4VFFxQmM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RYlI0TWZQSWs2OEF0eHYzRzFxM2RhWHRQYkUwakpUOXd4U0l2TGhlQWw4ZXBYY0Z4U1lqWVlTa1NCUE15ck5oUzlVQlVHZ2JBS0YxdXJyYzZzZnRfUnM2SHZGVVZ2MjN6ODlRWWlnNmNtdi1UVVdpNmw4VFFxQmM?oc=5",
+      "source_name": "Yahoo!ニュース",
+      "monitor_id": "bm-regen-news",
+      "provenance_kind": "pain_seed",
+      "claim_type_hint": "safety_claim",
+      "freshness": "fresh",
+      "demand_signal": "",
+      "evidence_card_id": null,
+      "valid_until": "2026-12-03T12:27:31+0900",
+      "status": "candidate",
+      "created_at": "2026-11-28T12:27:31+0900"
+    },
     {
       "seed_id": "seed_48a2cc893651",
       "trend_term": "PRP療法の副作用訴訟",
@@ -551,24 +569,6 @@
       "valid_until": "2026-11-29T14:27:50+0900",
       "status": "candidate",
       "created_at": "2026-11-24T14:27:50+0900"
-    },
-    {
-      "seed_id": "seed_70ad0a1da319",
-      "trend_term": "皮膚再生マシン「Bi-one」導入",
-      "raw_title": "聖心美容クリニックが新たな皮膚再生マシン「Bi-one（ビーワン）」を導入｜傷痕・妊娠線からPRPなどの注入治療後に生じたしこり・皮下硬結まで新たなアプローチ - 繊研新聞",
-      "summary": "聖心美容クリニックが皮膚再生マシン「Bi-one」を導入。傷痕・妊娠線・注入治療後のしこり・皮下硬結への新たなアプローチが可能に。",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVExNQUNWQ0IzaHVBck5mNUZuYnlsd3JDWGxydkxjYi1fSTdPMGJRMEM0eE5KcGVfU1pmQWZ3VnlZS1FJU2NEQmx3UmdydWF6ajhac3dhTE1pMnFZNHk4Zk05VXVSNDVmUW5NY2VXUDZnQ0RyYWgwWk9wWWRUOHp5a3kwT3NhcE5EcVZzc3o0enJmcTZZY1hpZEEwWEZZczM0WXRxYXlSTkFMemtuMkE?oc=5",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVExNQUNWQ0IzaHVBck5mNUZuYnlsd3JDWGxydkxjYi1fSTdPMGJRMEM0eE5KcGVfU1pmQWZ3VnlZS1FJU2NEQmx3UmdydWF6ajhac3dhTE1pMnFZNHk4Zk05VXVSNDVmUW5NY2VXUDZnQ0RyYWgwWk9wWWRUOHp5a3kwT3NhcE5EcVZzc3o0enJmcTZZY1hpZEEwWEZZczM0WXRxYXlSTkFMemtuMkE?oc=5",
-      "source_name": "繊研新聞",
-      "monitor_id": "bm-regen-news",
-      "provenance_kind": "evidence",
-      "claim_type_hint": "hard_fact",
-      "freshness": "fresh",
-      "demand_signal": "",
-      "evidence_card_id": null,
-      "valid_until": "2026-11-29T14:27:42+0900",
-      "status": "candidate",
-      "created_at": "2026-11-24T14:27:42+0900"
     },
     {
       "seed_id": "seed_cd431a10e595",
